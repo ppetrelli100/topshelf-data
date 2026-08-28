@@ -1,0 +1,2792 @@
+{
+  "Assumption": {
+    "college": "Assumption",
+    "fullName": "Assumption University",
+    "mascot": "Greyhounds",
+    "city": "Worcester",
+    "state": "MA",
+    "conference": "NEWHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/af2e4559e5d3",
+    "gpa": "3.56",
+    "sat": "1180",
+    "acceptanceRate": "0.83",
+    "npiRank": "32",
+    "npiSeason": "2025-26",
+    "undergrads": "1670",
+    "setting": "Suburban",
+    "avgLast3": "41",
+    "avgLast4": "41",
+    "avgLast5": "41",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "AcWhky",
+    "instagram": "assumptionwice",
+    "mhr": {
+      "2021-22": "",
+      "2022-23": "",
+      "2023-24": "42",
+      "2024-25": "43",
+      "2025-26": "38"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Joe Grossman",
+        "title": "Head Coach",
+        "email": "je.grossman@assumption.edu"
+      },
+      {
+        "name": "Delaney Couture",
+        "title": "Assistant Coach",
+        "email": "dr.couture@assumption.edu"
+      },
+      {
+        "name": "Kylian Kelly",
+        "title": "Assistant Coach",
+        "email": "km.kelly@assumption.edu"
+      }
+    ]
+  },
+  "Bemidji State": {
+    "college": "Bemidji State",
+    "fullName": "Bemidji State University",
+    "mascot": "Beavers",
+    "city": "Bemidji",
+    "state": "MN",
+    "conference": "WCHA",
+    "questionnaireURL": "https://bsubeavers.com/sports/2022/5/19/_132974727504665033.aspx",
+    "gpa": "3.26",
+    "sat": "1110",
+    "acceptanceRate": "0.7752",
+    "npiRank": "38",
+    "npiSeason": "2025-26",
+    "undergrads": "5100",
+    "setting": "Rural",
+    "avgLast3": "27",
+    "avgLast4": "26",
+    "avgLast5": "25",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "BSUBeaversWHKY",
+    "instagram": "bsubeaverswhky",
+    "mhr": {
+      "2021-22": "20",
+      "2022-23": "25",
+      "2023-24": "28",
+      "2024-25": "24",
+      "2025-26": "28"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Amber Fryklund",
+        "title": "Head Coach",
+        "email": "Amber.Fryklund@bemidjistate.edu"
+      },
+      {
+        "name": "Emma Sobieck",
+        "title": "Assistant Coach",
+        "email": "emma.sobieck@bemidjistate.edu"
+      },
+      {
+        "name": "Sarah Bobrowski-Laird",
+        "title": "Assistant Coach",
+        "email": "sarah.bobrowski@bemidjistate.edu"
+      },
+      {
+        "name": "Jess Strack",
+        "title": "Assistant Coach (WSF VanDerveer Fellow)",
+        "email": "jessica.strack@bemidjistate.edu"
+      },
+      {
+        "name": "Emily Meyer",
+        "title": "Director of Operations",
+        "email": "emily.meyer@bemidjistate.edu"
+      },
+      {
+        "name": "Breanna Batdorf",
+        "title": "Athletic Trainer (WIH, BASE, TEN)",
+        "email": ""
+      },
+      {
+        "name": "Connor Laschinger",
+        "title": "Equipment Manager, Women's Hockey",
+        "email": ""
+      }
+    ]
+  },
+  "Boston College": {
+    "college": "Boston College",
+    "fullName": "Boston College",
+    "mascot": "Eagles",
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/17ad4a9ef934",
+    "gpa": "3.86",
+    "sat": "1471",
+    "acceptanceRate": "0.126",
+    "npiRank": "23",
+    "npiSeason": "2025-26",
+    "undergrads": "9654",
+    "setting": "Suburban",
+    "avgLast3": "18",
+    "avgLast4": "18",
+    "avgLast5": "18",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "BC_WHockey",
+    "instagram": "bc_whockey",
+    "mhr": {
+      "2021-22": "19",
+      "2022-23": "16",
+      "2023-24": "19",
+      "2024-25": "15",
+      "2025-26": "20"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Katie Crowley",
+        "title": "Jane Rattigan Head Women's Hockey Coach",
+        "email": "kingkt@bc.edu"
+      },
+      {
+        "name": "Taylor Wasylk",
+        "title": "Assistant Coach",
+        "email": "Wasylk@bc.edu"
+      },
+      {
+        "name": "Taylor Wenczkowski",
+        "title": "Assistant Coach",
+        "email": "wenczkow@bc.edu"
+      },
+      {
+        "name": "Ian Milosz",
+        "title": "Assistant Coach - Goalies",
+        "email": ""
+      },
+      {
+        "name": "Russ DeRosa",
+        "title": "Dir. of Strength & Conditioning",
+        "email": "derosaru@bc.edu"
+      },
+      {
+        "name": "Morgan Kiely",
+        "title": "Asst. Equipment Manager",
+        "email": "kielymo@bc.edu"
+      }
+    ]
+  },
+  "Boston University": {
+    "college": "Boston University",
+    "fullName": "Boston University",
+    "mascot": "Terriers",
+    "city": "Boston",
+    "state": "MA",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/034d933d8e00",
+    "gpa": "3.87",
+    "sat": "1466",
+    "acceptanceRate": "0.1283",
+    "npiRank": "29",
+    "npiSeason": "2025-26",
+    "undergrads": "18248",
+    "setting": "Urban",
+    "avgLast3": "23",
+    "avgLast4": "23",
+    "avgLast5": "23",
+    "settlementStatus": "Opted in",
+    "optInYear": "2026-27",
+    "twitter": "TerrierWHockey",
+    "instagram": "terrierwhockey",
+    "mhr": {
+      "2021-22": "25",
+      "2022-23": "22",
+      "2023-24": "25",
+      "2024-25": "18",
+      "2025-26": "27"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Tara Watchorn",
+        "title": "Head Coach",
+        "email": "watchorn@bu.edu"
+      },
+      {
+        "name": "Megan Myers",
+        "title": "Assistant Coach",
+        "email": "myers15@bu.edu"
+      },
+      {
+        "name": "Megan Quinn",
+        "title": "Assistant Coach",
+        "email": "mbquinn@bu.edu"
+      },
+      {
+        "name": "Bret Gilmour",
+        "title": "Assistant Coach",
+        "email": "gilmourb@bu.edu"
+      },
+      {
+        "name": "Kaitlyn Scales",
+        "title": "Dir. of Ops",
+        "email": "kscales@bu.edu"
+      },
+      {
+        "name": "Catherine Christiansen-Provost",
+        "title": "Equipment Manager",
+        "email": "cprovost@bu.edu"
+      }
+    ]
+  },
+  "Brown": {
+    "college": "Brown",
+    "fullName": "Brown University",
+    "mascot": "Bears",
+    "city": "Providence",
+    "state": "RI",
+    "conference": "ECAC",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/a9133757198a",
+    "gpa": "3.94",
+    "sat": "1540",
+    "acceptanceRate": "0.0565",
+    "npiRank": "16",
+    "npiSeason": "2025-26",
+    "undergrads": "7125",
+    "setting": "Urban",
+    "avgLast3": "18",
+    "avgLast4": "20",
+    "avgLast5": "22",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "BrownU_WHockey",
+    "instagram": "brownu_whockey",
+    "mhr": {
+      "2021-22": "27",
+      "2022-23": "26",
+      "2023-24": "17",
+      "2024-25": "20",
+      "2025-26": "18"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Melanie Ruzzi",
+        "title": "Head Coach",
+        "email": "melanie_ruzzi@brown.edu"
+      },
+      {
+        "name": "Joakim Flygh",
+        "title": "Assistant Coach",
+        "email": "joakim_flygh@brown.edu"
+      },
+      {
+        "name": "Beth Hanrahan",
+        "title": "Assistant Coach",
+        "email": "elizabeth_hanrahan@brown.edu"
+      },
+      {
+        "name": "Zach Perkins",
+        "title": "Assistant Coach",
+        "email": "zach_perkins@brown.edu"
+      },
+      {
+        "name": "Sarah Erban",
+        "title": "Dir. of Ops",
+        "email": "sarah_erban@brown.edu"
+      }
+    ]
+  },
+  "Clarkson": {
+    "college": "Clarkson",
+    "fullName": "Clarkson University",
+    "mascot": "Golden Knights",
+    "city": "Potsdam",
+    "state": "NY",
+    "conference": "ECAC",
+    "questionnaireURL": "https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=MjA3Nzc=-6t8CC4Aa2tI=&ptype=recruit",
+    "gpa": "3.6",
+    "sat": "1295",
+    "acceptanceRate": "0.6694",
+    "npiRank": "13",
+    "npiSeason": "2025-26",
+    "undergrads": "3015",
+    "setting": "Rural",
+    "avgLast3": "10",
+    "avgLast4": "10",
+    "avgLast5": "10",
+    "settlementStatus": "Future opt-in announced",
+    "optInYear": "2027-28",
+    "twitter": "ClarksonWHockey",
+    "instagram": "clarksongoldenknights",
+    "mhr": {
+      "2021-22": "10",
+      "2022-23": "12",
+      "2023-24": "6",
+      "2024-25": "7",
+      "2025-26": "16"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Matt Desrosiers",
+        "title": "Head Coach - Women's Hockey",
+        "email": "mdesrosi@clarkson.edu"
+      },
+      {
+        "name": "Cassidy Warner (Vinkle)",
+        "title": "Assistant Coach",
+        "email": "vinklec@clarkson.edu"
+      },
+      {
+        "name": "Kris Hogg",
+        "title": "Assistant Coach",
+        "email": "khogg@clarkson.edu"
+      },
+      {
+        "name": "Cam Basarab",
+        "title": "Assistant Coach",
+        "email": "cbasarab@clarkson.edu"
+      },
+      {
+        "name": "Jasmine Lauwers",
+        "title": "Video Coach / Hockey Operations",
+        "email": "lauwerjm@clarkson.edu"
+      },
+      {
+        "name": "Tad Johnson",
+        "title": "Head Strength & Conditioning Coach",
+        "email": "tjohnson@clarkson.edu"
+      }
+    ]
+  },
+  "Colgate": {
+    "college": "Colgate",
+    "fullName": "Colgate University",
+    "mascot": "Raiders",
+    "city": "Hamilton",
+    "state": "NY",
+    "conference": "ECAC",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/8207331e9141?path=whock",
+    "gpa": "3.85",
+    "sat": "1484",
+    "acceptanceRate": "0.17",
+    "npiRank": "15",
+    "npiSeason": "2025-26",
+    "undergrads": "3168",
+    "setting": "Rural",
+    "avgLast3": "9",
+    "avgLast4": "8",
+    "avgLast5": "7",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "ColgateWIH",
+    "instagram": "ColgateWIH",
+    "mhr": {
+      "2021-22": "5",
+      "2022-23": "6",
+      "2023-24": "3",
+      "2024-25": "6",
+      "2025-26": "17"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Stefan Decosse",
+        "title": "Head Women's Hockey Coach",
+        "email": "sdecosse@colgate.edu"
+      },
+      {
+        "name": "Breanne Wilson-Bennett",
+        "title": "Assistant Coach",
+        "email": "bwilsonbennett@colgate.edu"
+      },
+      {
+        "name": "Trevor Coykendall",
+        "title": "Assistant Coach/Dir of Ops",
+        "email": "tcoykendall@colgate.edu"
+      }
+    ]
+  },
+  "Cornell": {
+    "college": "Cornell",
+    "fullName": "Cornell University",
+    "mascot": "Big Red",
+    "city": "Ithaca",
+    "state": "NY",
+    "conference": "ECAC",
+    "questionnaireURL": "",
+    "gpa": "3.9",
+    "sat": "1540",
+    "acceptanceRate": "0.0838",
+    "npiRank": "11",
+    "npiSeason": "2025-26",
+    "undergrads": "15734",
+    "setting": "Rural",
+    "avgLast3": "8",
+    "avgLast4": "10",
+    "avgLast5": "11",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "CornellWHockey",
+    "instagram": "cornellwhockey",
+    "mhr": {
+      "2021-22": "13",
+      "2022-23": "15",
+      "2023-24": "7",
+      "2024-25": "5",
+      "2025-26": "13"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Doug Derraugh",
+        "title": "Everett Family Head Coach of Women's Ice Hockey",
+        "email": "dld43@cornell.edu"
+      },
+      {
+        "name": "Edith Racine",
+        "title": "Associate Head Coach",
+        "email": "ez66@cornell.edu"
+      },
+      {
+        "name": "Tim Crowley",
+        "title": "Assistant Coach",
+        "email": "tc598@cornell.edu"
+      },
+      {
+        "name": "Louise Derraugh",
+        "title": "Dir. of Ops",
+        "email": "lad52@cornell.edu"
+      },
+      {
+        "name": "Katy Harris",
+        "title": "Assoc. Head Athletic Trainer",
+        "email": "kg237@cornell.edu"
+      },
+      {
+        "name": "Monet Ota",
+        "title": "Equipment Manager",
+        "email": "mo528@cornell.edu"
+      },
+      {
+        "name": "Dane Schreiner",
+        "title": "Strength & Conditioning Coach",
+        "email": "das438@cornell.edu"
+      }
+    ]
+  },
+  "Dartmouth": {
+    "college": "Dartmouth",
+    "fullName": "Dartmouth College",
+    "mascot": "Big Green",
+    "city": "Hanover",
+    "state": "NH",
+    "conference": "ECAC",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/db1c7f33f32f?DB_OEM_ID=11600",
+    "gpa": "3.76",
+    "sat": "1500",
+    "acceptanceRate": "0.06",
+    "npiRank": "39",
+    "npiSeason": "2025-26",
+    "undergrads": "4538",
+    "setting": "Rural",
+    "avgLast3": "32",
+    "avgLast4": "31",
+    "avgLast5": "31",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "Dartmouth_WIH",
+    "instagram": "dartmouthwhockey",
+    "mhr": {
+      "2021-22": "30",
+      "2022-23": "30",
+      "2023-24": "34",
+      "2024-25": "27",
+      "2025-26": "34"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Maura Crowell",
+        "title": "Head Coach of Women's Ice Hockey",
+        "email": "Maura.C.Crowell@dartmouth.edu"
+      },
+      {
+        "name": "Lauren Williams",
+        "title": "Assistant Coach",
+        "email": "Lauren.E.Williams@dartmouth.edu"
+      },
+      {
+        "name": "Tara Connolly",
+        "title": "Assistant Coach",
+        "email": "Tara.E.Connolly@dartmouth.edu"
+      },
+      {
+        "name": "Rylie Dwyer",
+        "title": "Dir. of Ops",
+        "email": "rylie.f.dwyer@dartmouth.edu"
+      },
+      {
+        "name": "Ben Lovejoy",
+        "title": "Dir of Player Dev",
+        "email": "ben.lovejoy@dartmouth.edu"
+      }
+    ]
+  },
+  "Delaware": {
+    "college": "Delaware",
+    "fullName": "University of Delaware",
+    "mascot": "Blue Hens",
+    "city": "Newark",
+    "state": "DE",
+    "conference": "AHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/07538918f79e",
+    "gpa": "3.8",
+    "sat": "1295",
+    "acceptanceRate": "0.65",
+    "npiRank": "44",
+    "npiSeason": "2025-26",
+    "undergrads": "18332",
+    "setting": "Suburban",
+    "avgLast3": "42",
+    "avgLast4": "42",
+    "avgLast5": "42",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "Delaware_IH",
+    "instagram": "delaware_ih",
+    "mhr": {
+      "2021-22": "",
+      "2022-23": "",
+      "2023-24": "",
+      "2024-25": "",
+      "2025-26": "42"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Allison Coomey",
+        "title": "Head Coach",
+        "email": "acoomey@udel.edu"
+      },
+      {
+        "name": "Melissa Samoskevich",
+        "title": "Assistant Coach",
+        "email": "msamo@udel.edu"
+      },
+      {
+        "name": "Taylor Willard",
+        "title": "Assistant Coach",
+        "email": "twillard@udel.edu"
+      },
+      {
+        "name": "Michel Larocque",
+        "title": "Goaltender Coach",
+        "email": ""
+      }
+    ]
+  },
+  "Franklin Pierce": {
+    "college": "Franklin Pierce",
+    "fullName": "Franklin Pierce University",
+    "mascot": "Ravens",
+    "city": "Rindge",
+    "state": "NH",
+    "conference": "NEWHA",
+    "questionnaireURL": "https://www.fpuravens.com/sports/wice/sa_questionnaire",
+    "gpa": "3.46",
+    "sat": "1157",
+    "acceptanceRate": "0.93",
+    "npiRank": "25",
+    "npiSeason": "2025-26",
+    "undergrads": "1073",
+    "setting": "Rural",
+    "avgLast3": "39",
+    "avgLast4": "39",
+    "avgLast5": "38",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "RavensWIH",
+    "instagram": "ravenswih",
+    "mhr": {
+      "2021-22": "34",
+      "2022-23": "38",
+      "2023-24": "40",
+      "2024-25": "39",
+      "2025-26": "37"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "David Stockdale",
+        "title": "Head Coach",
+        "email": "stockdaled@franklinpierce.edu"
+      },
+      {
+        "name": "Courtney Stone",
+        "title": "Assistant Coach",
+        "email": "stoneco24@live.franklinpierce.edu"
+      },
+      {
+        "name": "Noah Kinsinger",
+        "title": "Assistant Coach",
+        "email": "kinsingern25@live.franklinpierce.edu"
+      },
+      {
+        "name": "Benjamin Kosteva",
+        "title": "Athletic Trainer",
+        "email": "kostevab@franklinpierce.edu"
+      }
+    ]
+  },
+  "Harvard": {
+    "college": "Harvard",
+    "fullName": "Harvard University",
+    "mascot": "Crimson",
+    "city": "Cambridge",
+    "state": "MA",
+    "conference": "ECAC",
+    "questionnaireURL": "https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=MTA1Nzk=-E7XgpWply4Q=&ptype=recruit",
+    "gpa": "4",
+    "sat": "1540",
+    "acceptanceRate": "0.042",
+    "npiRank": "19",
+    "npiSeason": "2025-26",
+    "undergrads": "6979",
+    "setting": "Urban",
+    "avgLast3": "28",
+    "avgLast4": "28",
+    "avgLast5": "24",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "HarvardWHockey",
+    "instagram": "harvardwhockey",
+    "mhr": {
+      "2021-22": "9",
+      "2022-23": "27",
+      "2023-24": "33",
+      "2024-25": "31",
+      "2025-26": "19"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Laura Bellamy",
+        "title": "The Landry Family Head Coach for Harvard Women's Ice Hockey",
+        "email": "laurabellamy@g.harvard.edu"
+      },
+      {
+        "name": "Meredith Roth",
+        "title": "Associate Head Coach",
+        "email": "meredithroth@g.harvard.edu"
+      },
+      {
+        "name": "Venla Hovi",
+        "title": "Assistant Coach",
+        "email": "vhovi@g.Harvard.edu"
+      },
+      {
+        "name": "Cami Kronish",
+        "title": "Goaltending Coach",
+        "email": ""
+      },
+      {
+        "name": "Jack Riedell",
+        "title": "Director of Hockey Operations",
+        "email": "jackriedell@g.harvard.edu"
+      },
+      {
+        "name": "Matt Fracassi",
+        "title": "Equipment Room Technician",
+        "email": "mfracassi@fas.harvard.edu"
+      }
+    ]
+  },
+  "Holy Cross": {
+    "college": "Holy Cross",
+    "fullName": "College of the Holy Cross",
+    "mascot": "Crusaders",
+    "city": "Worcester",
+    "state": "MA",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/af1ff7b0d003",
+    "gpa": "3.81",
+    "sat": "1330",
+    "acceptanceRate": "0.17",
+    "npiRank": "17",
+    "npiSeason": "2025-26",
+    "undergrads": "3142",
+    "setting": "Urban/Suburban",
+    "avgLast3": "29",
+    "avgLast4": "30",
+    "avgLast5": "31",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "HCrossWHockey",
+    "instagram": "hcrosswhockey",
+    "mhr": {
+      "2021-22": "35",
+      "2022-23": "32",
+      "2023-24": "31",
+      "2024-25": "32",
+      "2025-26": "25"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Katie Lachapelle",
+        "title": "Head Coach",
+        "email": "klachape@holycross.edu"
+      },
+      {
+        "name": "Janine Weber",
+        "title": "Assistant Coach",
+        "email": "jaweber1@holycross.edu"
+      },
+      {
+        "name": "Christina Putigna",
+        "title": "Assistant Coach",
+        "email": "cputigna@holycross.edu"
+      },
+      {
+        "name": "Adam Mercer",
+        "title": "Assistant Coach",
+        "email": "amercer@holycross.edu"
+      }
+    ]
+  },
+  "Lindenwood": {
+    "college": "Lindenwood",
+    "fullName": "Lindenwood",
+    "mascot": "Lions",
+    "city": "St. Charles",
+    "state": "MO",
+    "conference": "AHA",
+    "questionnaireURL": "https://slate.lindenwood.edu/register/?id=7f81a0ba-d713-4e60-977e-93856113510c",
+    "gpa": "3.34",
+    "sat": "1100",
+    "acceptanceRate": "0.57",
+    "npiRank": "31",
+    "npiSeason": "2025-26",
+    "undergrads": "5283",
+    "setting": "Suburban",
+    "avgLast3": "33",
+    "avgLast4": "34",
+    "avgLast5": "33",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "LU_Hockey",
+    "instagram": "lu_whockey",
+    "mhr": {
+      "2021-22": "32",
+      "2022-23": "35",
+      "2023-24": "35",
+      "2024-25": "35",
+      "2025-26": "29"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Max Gavin",
+        "title": "Head Coach",
+        "email": "mgavin2@lindenwood.edu"
+      },
+      {
+        "name": "Arielle DeSmet",
+        "title": "Assistant Coach",
+        "email": "Adesmet@lindenwood.edu"
+      },
+      {
+        "name": "Trey Flesch",
+        "title": "Assistant Coach",
+        "email": "TFlesch@lindenwood.edu"
+      },
+      {
+        "name": "Jayden Kahl",
+        "title": "Equipment Manager",
+        "email": "jkahl@lindenwood.edu"
+      }
+    ]
+  },
+  "Long Island": {
+    "college": "Long Island",
+    "fullName": "Long Island University",
+    "mascot": "Sharks",
+    "city": "Brookville",
+    "state": "NY",
+    "conference": "NEWHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/ad9ee8517efe?path=whockey",
+    "gpa": "3.41",
+    "sat": "1198",
+    "acceptanceRate": "0.86",
+    "npiRank": "37",
+    "npiSeason": "2025-26",
+    "undergrads": "15000",
+    "setting": "Urban/Suburban",
+    "avgLast3": "39",
+    "avgLast4": "38",
+    "avgLast5": "37",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "LIUWHockey",
+    "instagram": "liuwhockey",
+    "mhr": {
+      "2021-22": "33",
+      "2022-23": "33",
+      "2023-24": "37",
+      "2024-25": "38",
+      "2025-26": "43"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Kelly Nash",
+        "title": "Head Coach",
+        "email": "kelly.nash@liu.edu"
+      },
+      {
+        "name": "Nora Maclaine",
+        "title": "Assistant Coach",
+        "email": "nora.maclaine@liu.edu"
+      },
+      {
+        "name": "Sonjia Shelly",
+        "title": "Assistant Coach",
+        "email": "sonjia.shelly@liu.edu"
+      },
+      {
+        "name": "Kristen Barbara",
+        "title": "Assistant Coach",
+        "email": "kristen.barbara@liu.edu"
+      },
+      {
+        "name": "Brendan Gay",
+        "title": "Head Equipment Manager",
+        "email": "brendan.gay@liu.edu"
+      }
+    ]
+  },
+  "Maine": {
+    "college": "Maine",
+    "fullName": "University of Maine",
+    "mascot": "Black Bears",
+    "city": "Orono",
+    "state": "ME",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://docs.google.com/forms/d/e/1FAIpQLSdiCzkkPEKezPmmvCaGf0u-3v972-3VcjPVw2f9ep_ZG3_usg/viewform?gxids=7628",
+    "gpa": "3.49",
+    "sat": "1170",
+    "acceptanceRate": "0.97",
+    "npiRank": "24",
+    "npiSeason": "2025-26",
+    "undergrads": "8496",
+    "setting": "Rural",
+    "avgLast3": "26",
+    "avgLast4": "26",
+    "avgLast5": "25",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "MaineWHockey",
+    "instagram": "mainewih",
+    "mhr": {
+      "2021-22": "24",
+      "2022-23": "24",
+      "2023-24": "22",
+      "2024-25": "30",
+      "2025-26": "26"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Alex Gettens",
+        "title": "Head Coach",
+        "email": "alex.gettens@maine.edu"
+      },
+      {
+        "name": "Kirsti Hussey",
+        "title": "Associate Head Coach",
+        "email": "kirstin.hussey@maine.edu"
+      },
+      {
+        "name": "McKenna Wesloh",
+        "title": "Assistant Coach",
+        "email": "mckenna.wesloh@maine.edu"
+      },
+      {
+        "name": "Derek Fournier",
+        "title": "Goalie Coach",
+        "email": ""
+      },
+      {
+        "name": "Kenna Farrey",
+        "title": "Director of Women's Hockey Operations & SID (WIH/TF)",
+        "email": "kenna.farrey@maine.edu"
+      },
+      {
+        "name": "Anika Keys-Ludwig",
+        "title": "Assistant Athletic Trainer (WIH/T&F)",
+        "email": "anika.keysludwig@maine.edu"
+      },
+      {
+        "name": "Ryan Finley",
+        "title": "Assistant Equipment Manager",
+        "email": "ryan.finley@maine.edu"
+      }
+    ]
+  },
+  "Mercyhurst": {
+    "college": "Mercyhurst",
+    "fullName": "Mercyhurst University",
+    "mascot": "Lakers",
+    "city": "Erie",
+    "state": "PA",
+    "conference": "AHA",
+    "questionnaireURL": "https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=MzEyMA==-mrjSxMify4I=&ptype=Recruit",
+    "gpa": "3.36",
+    "sat": "1180",
+    "acceptanceRate": "0.81",
+    "npiRank": "12",
+    "npiSeason": "2025-26",
+    "undergrads": "2641",
+    "setting": "Suburban",
+    "avgLast3": "16",
+    "avgLast4": "17",
+    "avgLast5": "17",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "HurstWHockey",
+    "instagram": "hurstwhockey",
+    "mhr": {
+      "2021-22": "18",
+      "2022-23": "19",
+      "2023-24": "18",
+      "2024-25": "16",
+      "2025-26": "15"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Michael Sisti",
+        "title": "Head Coach",
+        "email": "msisti@mercyhurst.edu"
+      },
+      {
+        "name": "Scott Spencer",
+        "title": "Assistant Coach",
+        "email": "sspencer@mercyhurst.edu"
+      },
+      {
+        "name": "Natasha Hawkins",
+        "title": "Assistant Coach",
+        "email": "nhawkins@mercyhurst.edu"
+      },
+      {
+        "name": "Tyler Travis",
+        "title": "Strength and Conditioning Coach",
+        "email": "ttravis@mercyhurst.edu"
+      },
+      {
+        "name": "Ryan Crane",
+        "title": "Equipment Manager",
+        "email": "rcrane@mercyhurst.edu"
+      }
+    ]
+  },
+  "Merrimack": {
+    "college": "Merrimack",
+    "fullName": "Merrimack College",
+    "mascot": "Warriors",
+    "city": "Andover",
+    "state": "MA",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/cc235dff43b7",
+    "gpa": "3.4",
+    "sat": "1150",
+    "acceptanceRate": "0.7",
+    "npiRank": "41",
+    "npiSeason": "2025-26",
+    "undergrads": "4364",
+    "setting": "Suburban",
+    "avgLast3": "32",
+    "avgLast4": "31",
+    "avgLast5": "31",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "MerrimackWIH",
+    "instagram": "merrimack_wih",
+    "mhr": {
+      "2021-22": "31",
+      "2022-23": "29",
+      "2023-24": "27",
+      "2024-25": "34",
+      "2025-26": "35"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Courtney Kennedy",
+        "title": "Head Women's Ice Hockey Coach",
+        "email": "kennedyco@merrimack.edu"
+      },
+      {
+        "name": "Bobo Carpenter",
+        "title": "Assistant Coach",
+        "email": ""
+      },
+      {
+        "name": "Keri Clougherty",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "cloughertyk@merrimack.edu"
+      },
+      {
+        "name": "Bryce Lechiaro",
+        "title": "Women's Ice Hockey Equipment Manager",
+        "email": "lechiarob@merrimack.edu"
+      }
+    ]
+  },
+  "Minnesota": {
+    "college": "Minnesota",
+    "fullName": "University of Minnesota",
+    "mascot": "Golden Gophers",
+    "city": "Minneapolis",
+    "state": "MN",
+    "conference": "WCHA",
+    "questionnaireURL": "https://college.jumpforward.com/questionnaire.aspx?iid=433&sportid=8",
+    "gpa": "3.6",
+    "sat": "1395",
+    "acceptanceRate": "0.8",
+    "npiRank": "4",
+    "npiSeason": "2025-26",
+    "undergrads": "30958",
+    "setting": "Urban",
+    "avgLast3": "3",
+    "avgLast4": "3",
+    "avgLast5": "3",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "GopherWHockey",
+    "instagram": "GopherWHockey",
+    "mhr": {
+      "2021-22": "2",
+      "2022-23": "1",
+      "2023-24": "4",
+      "2024-25": "3",
+      "2025-26": "3"
+    },
+    "tier": "1",
+    "tierLabel": "Tier 1 (1-4)",
+    "staff": [
+      {
+        "name": "Greg \"Boom\" May",
+        "title": "Head Coach",
+        "email": "mayx0117@umn.edu"
+      },
+      {
+        "name": "Marty Sertich",
+        "title": "Assistant Coach",
+        "email": "sert0009@umn.edu"
+      },
+      {
+        "name": "Amanda Leveille",
+        "title": "Assistant Coach",
+        "email": "levei014@umn.edu"
+      },
+      {
+        "name": "Winny Brodt Brown",
+        "title": "Assistant Coach",
+        "email": "brod0090@umn.edu"
+      },
+      {
+        "name": "Jessica Scott",
+        "title": "General Manager",
+        "email": "jascott@umn.edu"
+      }
+    ]
+  },
+  "Minnesota -Duluth": {
+    "college": "Minnesota -Duluth",
+    "fullName": "University of Minnesota-Duluth",
+    "mascot": "Bulldogs",
+    "city": "Duluth",
+    "state": "MN",
+    "conference": "WCHA",
+    "questionnaireURL": "https://umdbulldogs.com/sb_output.aspx?frform=3&path=whockey",
+    "gpa": "3.5",
+    "sat": "1245",
+    "acceptanceRate": "0.89",
+    "npiRank": "9",
+    "npiSeason": "2025-26",
+    "undergrads": "9541",
+    "setting": "Urban/Suburban",
+    "avgLast3": "5",
+    "avgLast4": "5",
+    "avgLast5": "4",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "UMDWHockey",
+    "instagram": "umdwhockey",
+    "mhr": {
+      "2021-22": "4",
+      "2022-23": "4",
+      "2023-24": "5",
+      "2024-25": "4",
+      "2025-26": "5"
+    },
+    "tier": "1",
+    "tierLabel": "Tier 1 (1-4)",
+    "staff": [
+      {
+        "name": "Laura Schuler",
+        "title": "Head Coach",
+        "email": "lschuler@d.umn.edu"
+      },
+      {
+        "name": "Ashleigh Brykaliuk",
+        "title": "Assistant Coach",
+        "email": "abryk@d.umn.edu"
+      },
+      {
+        "name": "Olivia Soares",
+        "title": "Assistant Coach",
+        "email": "soare045@d.umn.edu"
+      },
+      {
+        "name": "Justin Grant",
+        "title": "Assistant Coach",
+        "email": "jgrant@d.umn.edu"
+      },
+      {
+        "name": "Noah Rosenberg",
+        "title": "Director of Operations",
+        "email": "rose1358@umn.edu"
+      },
+      {
+        "name": "Maddie Rooney",
+        "title": "Volunteer Goaltending Consultant",
+        "email": ""
+      },
+      {
+        "name": "Dr. Susan Hoppe",
+        "title": "Assistant Athletic Director for Sports Medicine and Performance",
+        "email": "sbritton@d.umn.edu"
+      },
+      {
+        "name": "Jeremy Hamerquist",
+        "title": "Assistant Strength Coach (M&W Hockey)",
+        "email": "hamer126@d.umn.edu"
+      }
+    ]
+  },
+  "Minnesota State": {
+    "college": "Minnesota State",
+    "fullName": "Minnesota State University",
+    "mascot": "Mavericks",
+    "city": "Mankato",
+    "state": "MN",
+    "conference": "WCHA",
+    "questionnaireURL": "https://questionnaire.frontrush.com/Questionnaire/Questionnaire.aspx?q=2527&s=88364&o=1245",
+    "gpa": "3.29",
+    "sat": "1110",
+    "acceptanceRate": "0.91",
+    "npiRank": "14",
+    "npiSeason": "2025-26",
+    "undergrads": "11843",
+    "setting": "Suburban",
+    "avgLast3": "12",
+    "avgLast4": "12",
+    "avgLast5": "12",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "MinnStWHockey",
+    "instagram": "minnstwhockey",
+    "mhr": {
+      "2021-22": "11",
+      "2022-23": "11",
+      "2023-24": "12",
+      "2024-25": "12",
+      "2025-26": "12"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Shari Dickerman",
+        "title": "Head Coach",
+        "email": "shari.vogt@mnsu.edu"
+      },
+      {
+        "name": "Jeff Giesen",
+        "title": "Associate Head Coach",
+        "email": "jeffrey.giesen@mnsu.edu"
+      },
+      {
+        "name": "Mackenzie Bruch",
+        "title": "Assistant Coach",
+        "email": "mackenzie.bruch@mnsu.edu"
+      },
+      {
+        "name": "Emily Antony",
+        "title": "Assistant Coach",
+        "email": "emily.antony.2@mnsu.edu"
+      },
+      {
+        "name": "Matthew Meyer",
+        "title": "Director of Hockey Operations",
+        "email": "matthew.meyer.2@mnsu.edu"
+      },
+      {
+        "name": "Alyssa Irby",
+        "title": "Assistant Athletic Trainer",
+        "email": "alyssa.irby@mnsu.edu"
+      },
+      {
+        "name": "Brett Nelson",
+        "title": "Assistant Strength & Conditioning Coach",
+        "email": "brett.nelson-1@mnsu.edu"
+      },
+      {
+        "name": "Jackson Faust",
+        "title": "Women's Hockey Equipment Manager",
+        "email": "jackson.faust@mnsu.edu"
+      }
+    ]
+  },
+  "New Hampshire": {
+    "college": "New Hampshire",
+    "fullName": "University of New Hampshire",
+    "mascot": "Wildcats",
+    "city": "Durham",
+    "state": "NH",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/849ecd1260c1",
+    "gpa": "3.63",
+    "sat": "1210",
+    "acceptanceRate": "0.88",
+    "npiRank": "21",
+    "npiSeason": "2025-26",
+    "undergrads": "11261",
+    "setting": "Suburban",
+    "avgLast3": "25",
+    "avgLast4": "24",
+    "avgLast5": "25",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "UNHWHOCKEY",
+    "instagram": "unhwhockey",
+    "mhr": {
+      "2021-22": "28",
+      "2022-23": "23",
+      "2023-24": "24",
+      "2024-25": "29",
+      "2025-26": "21"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Hilary Witt",
+        "title": "Head Coach",
+        "email": "hilary.witt@unh.edu"
+      },
+      {
+        "name": "Stephanie Jones",
+        "title": "Associate Head Coach",
+        "email": "stephanie.jones@unh.edu"
+      },
+      {
+        "name": "Sam Faber",
+        "title": "Assistant Coach",
+        "email": "Samantha.faber@unh.edu"
+      },
+      {
+        "name": "Vinnie Ferrainola",
+        "title": "Director, Hockey Operations",
+        "email": "Vincent.Ferrainola@unh.edu"
+      },
+      {
+        "name": "Ian Edwards",
+        "title": "Goalie Coach",
+        "email": "Ian.d.edwards91@gmail.com"
+      },
+      {
+        "name": "Michelle Mallett",
+        "title": "Associate Athletic Director, Sports Medicine",
+        "email": "michelle.mallett@unh.edu"
+      },
+      {
+        "name": "Paul Chapman",
+        "title": "Director, Strength & Conditioning",
+        "email": "paul.chapman@unh.edu"
+      }
+    ]
+  },
+  "Northeastern": {
+    "college": "Northeastern",
+    "fullName": "Northeastern University",
+    "mascot": "Huskies",
+    "city": "Boston",
+    "state": "MA",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/7cfefcb506f1",
+    "gpa": "3.66",
+    "sat": "1475",
+    "acceptanceRate": "0.06",
+    "npiRank": "5",
+    "npiSeason": "2025-26",
+    "undergrads": "22589",
+    "setting": "Urban",
+    "avgLast3": "14",
+    "avgLast4": "12",
+    "avgLast5": "11",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "GoNUwhockey",
+    "instagram": "gonuwhockey",
+    "mhr": {
+      "2021-22": "6",
+      "2022-23": "5",
+      "2023-24": "16",
+      "2024-25": "17",
+      "2025-26": "10"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Dave Flint",
+        "title": "Women's Hockey Coach",
+        "email": "d.flint@northeastern.edu"
+      },
+      {
+        "name": "Nick Carpenito",
+        "title": "Associate Head Coach",
+        "email": "n.carpenito@northeastern.edu"
+      },
+      {
+        "name": "Lindsay Berman",
+        "title": "Assistant Coach",
+        "email": "l.berman@northeastern.edu"
+      },
+      {
+        "name": "Melissa Piacentini",
+        "title": "Assistant Coach",
+        "email": "m.piacentini@northeastern.edu"
+      },
+      {
+        "name": "Sean Andrake",
+        "title": "Hockey Operations Coordinator",
+        "email": "s.andrake@northeastern.edu"
+      },
+      {
+        "name": "Eric Anastasi",
+        "title": "Equipment Manager",
+        "email": "e.anastasi@northeastern.edu"
+      }
+    ]
+  },
+  "Ohio State": {
+    "college": "Ohio State",
+    "fullName": "Ohio State University",
+    "mascot": "Buckeyes",
+    "city": "Columbus",
+    "state": "OH",
+    "conference": "WCHA",
+    "questionnaireURL": "https://ohiostatebuckeyes.com/wp-content/uploads/2022/05/WHOC_RecruitQuestionnaire_2022.pdf",
+    "gpa": "3.83",
+    "sat": "1355",
+    "acceptanceRate": "0.61",
+    "npiRank": "2",
+    "npiSeason": "2025-26",
+    "undergrads": "45638",
+    "setting": "Urban",
+    "avgLast3": "2",
+    "avgLast4": "2",
+    "avgLast5": "2",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "OhioStateWHKY",
+    "instagram": "ohiostatewhky",
+    "mhr": {
+      "2021-22": "1",
+      "2022-23": "2",
+      "2023-24": "1",
+      "2024-25": "2",
+      "2025-26": "2"
+    },
+    "tier": "1",
+    "tierLabel": "Tier 1 (1-4)",
+    "staff": [
+      {
+        "name": "Nadine Muzerall",
+        "title": "Head Coach",
+        "email": "muzerall.1@osu.edu"
+      },
+      {
+        "name": "Jack Johnson",
+        "title": "Associate Head Coach",
+        "email": "johnson.9549@osu.edu"
+      },
+      {
+        "name": "Kelsey Cline",
+        "title": "Assistant Coach",
+        "email": "cline.666@osu.edu"
+      },
+      {
+        "name": "Logan Davis",
+        "title": "Assistant Coach/Director of Operations",
+        "email": "davis.4562@osu.edu"
+      },
+      {
+        "name": "Rebecca Freiburger",
+        "title": "Assistant Strength & Conditioning Coach",
+        "email": "freiburger.6@osu.edu"
+      },
+      {
+        "name": "Kevin Lennon",
+        "title": "Assistant Director, Athletic Training",
+        "email": "lennon.90@osu.edu"
+      },
+      {
+        "name": "Tyler Howe",
+        "title": "Assistant Director of Equipment Services",
+        "email": "howe.344@osu.edu"
+      }
+    ]
+  },
+  "Penn State": {
+    "college": "Penn State",
+    "fullName": "Penn State University",
+    "mascot": "Nittany Lions",
+    "city": "State College",
+    "state": "PA",
+    "conference": "AHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/b82674d3b2e3",
+    "gpa": "3.55",
+    "sat": "1330",
+    "acceptanceRate": "0.58",
+    "npiRank": "3",
+    "npiSeason": "2025-26",
+    "undergrads": "41180",
+    "setting": "Suburban",
+    "avgLast3": "9",
+    "avgLast4": "10",
+    "avgLast5": "10",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "PennStateWHKY",
+    "instagram": "pennstatewhky",
+    "mhr": {
+      "2021-22": "14",
+      "2022-23": "10",
+      "2023-24": "15",
+      "2024-25": "9",
+      "2025-26": "4"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Jeff Kampersal",
+        "title": "Head Coach",
+        "email": "jeff.kampersal@psu.edu"
+      },
+      {
+        "name": "Makenna Newkirk",
+        "title": "Associate Head Coach",
+        "email": "mnn5162@psu.edu"
+      },
+      {
+        "name": "Jennifer Wakefield",
+        "title": "Assistant Coach",
+        "email": "jxw6443@psu.edu"
+      },
+      {
+        "name": "Moe Bradley",
+        "title": "Assistant Coach",
+        "email": "mmb7928@psu.edu"
+      },
+      {
+        "name": "Olivia Fox",
+        "title": "Director of Operations for Women's Ice Hockey",
+        "email": "omf5060@psu.edu"
+      },
+      {
+        "name": "Kristina Jeffries",
+        "title": "Athletic Performance Coach",
+        "email": "klj13@psu.edu"
+      },
+      {
+        "name": "Kristin Sondys",
+        "title": "Athletic Trainer",
+        "email": "kxs6421@psu.edu"
+      }
+    ]
+  },
+  "Post": {
+    "college": "Post",
+    "fullName": "Post University",
+    "mascot": "Eagles",
+    "city": "Waterbury",
+    "state": "CT",
+    "conference": "NEWHA",
+    "questionnaireURL": "https://posteagles.com/sb_output.aspx?form=29",
+    "gpa": "3.25",
+    "sat": "975",
+    "acceptanceRate": "0.97",
+    "npiRank": "43",
+    "npiSeason": "2025-26",
+    "undergrads": "13607",
+    "setting": "Suburban",
+    "avgLast3": "43",
+    "avgLast4": "43",
+    "avgLast5": "42",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "Post_WIH",
+    "instagram": "post_wih",
+    "mhr": {
+      "2021-22": "40",
+      "2022-23": "42",
+      "2023-24": "43",
+      "2024-25": "41",
+      "2025-26": "44"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Brandon Brown",
+        "title": "Head Coach",
+        "email": "brbrown@post.edu"
+      },
+      {
+        "name": "Larry Erickson",
+        "title": "Director of Hockey Operations",
+        "email": "lerickson@post.edu"
+      },
+      {
+        "name": "Alexandra Hartzell",
+        "title": "Assistant Athletic Trainer (Women's Ice Hockey, Women's Lacrosse)",
+        "email": "alexandra.hartzell@post.edu"
+      }
+    ]
+  },
+  "Princeton": {
+    "college": "Princeton",
+    "fullName": "Princeton University",
+    "mascot": "Tigers",
+    "city": "Princeton",
+    "state": "NJ",
+    "conference": "ECAC",
+    "questionnaireURL": "https://goprincetontigers.com/sports/2018/9/27/princeton-prospective-student-athlete-information.aspx",
+    "gpa": "3.95",
+    "sat": "1530",
+    "acceptanceRate": "0.044",
+    "npiRank": "10",
+    "npiSeason": "2025-26",
+    "undergrads": "5236",
+    "setting": "Suburban",
+    "avgLast3": "13",
+    "avgLast4": "14",
+    "avgLast5": "15",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "pwih",
+    "instagram": "princetonwhockey",
+    "mhr": {
+      "2021-22": "17",
+      "2022-23": "18",
+      "2023-24": "14",
+      "2024-25": "13",
+      "2025-26": "11"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Courtney Kessel",
+        "title": "Head Coach",
+        "email": "cpkessel@princeton.edu"
+      },
+      {
+        "name": "Shelly Picard",
+        "title": "Assistant Coach",
+        "email": "mp9814@princeton.edu"
+      },
+      {
+        "name": "Daniel Gould",
+        "title": "Assistant Coach",
+        "email": "dpgould@princeton.edu"
+      },
+      {
+        "name": "Morgan Bronstein",
+        "title": "Director of Women's Ice Hockey Operations",
+        "email": "mbronstein@princeton.edu"
+      },
+      {
+        "name": "Lauren Roethlisberger",
+        "title": "Athletic Trainer",
+        "email": "lr2040@princeton.edu"
+      },
+      {
+        "name": "Brendan O'Meara",
+        "title": "Equipment Manager",
+        "email": "bo2022@princeton.edu"
+      }
+    ]
+  },
+  "Providence": {
+    "college": "Providence",
+    "fullName": "Providence College",
+    "mascot": "Friars",
+    "city": "Providence",
+    "state": "RI",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/dc6d31e649a6",
+    "gpa": "3.57",
+    "sat": "1205",
+    "acceptanceRate": "0.51",
+    "npiRank": "35",
+    "npiSeason": "2025-26",
+    "undergrads": "4316",
+    "setting": "Urban",
+    "avgLast3": "25",
+    "avgLast4": "22",
+    "avgLast5": "22",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "PCWHockey",
+    "instagram": "pcwhockey",
+    "mhr": {
+      "2021-22": "23",
+      "2022-23": "14",
+      "2023-24": "23",
+      "2024-25": "21",
+      "2025-26": "31"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Nicole Norton",
+        "title": "Women's Ice Hockey Head Coach",
+        "email": "nrenault@providence.edu"
+      },
+      {
+        "name": "Katie Burt",
+        "title": "Assistant Coach",
+        "email": "kburt@providence.edu"
+      },
+      {
+        "name": "Jace LeClair",
+        "title": "Director of Hockey Operations",
+        "email": "jleclai4@providence.edu"
+      },
+      {
+        "name": "Thomas Potenza",
+        "title": "Assistant Athletic Trainer (W-Ice Hockey, M/W XC, T&F)",
+        "email": "tpotenza@providence.edu"
+      },
+      {
+        "name": "Aimee Pardington",
+        "title": "Assistant Coach / High Performance (WIH, W Soccer, Softball)",
+        "email": "aparding@providence.edu"
+      },
+      {
+        "name": "Lynne Hebert",
+        "title": "Nutritionist",
+        "email": "lhebert1@providence.edu"
+      }
+    ]
+  },
+  "Quinnipiac": {
+    "college": "Quinnipiac",
+    "fullName": "Quinnipiac University",
+    "mascot": "Bobcats",
+    "city": "Hamden",
+    "state": "CT",
+    "conference": "ECAC",
+    "questionnaireURL": "https://college.jumpforward.com/questionnaire.aspx?iid=372&sportid=8",
+    "gpa": "3.6",
+    "sat": "1230",
+    "acceptanceRate": "0.72",
+    "npiRank": "7",
+    "npiSeason": "2025-26",
+    "undergrads": "6571",
+    "setting": "Suburban",
+    "avgLast3": "9",
+    "avgLast4": "9",
+    "avgLast5": "8",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "QU_WIH",
+    "instagram": "qu_wih",
+    "mhr": {
+      "2021-22": "8",
+      "2022-23": "8",
+      "2023-24": "10",
+      "2024-25": "10",
+      "2025-26": "6"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Cassandra Turner",
+        "title": "Women's Ice Hockey Head Coach",
+        "email": "cassandra.turner@qu.edu"
+      },
+      {
+        "name": "Amanda Alessi",
+        "title": "Assistant Coach",
+        "email": "amanda.alessi@qu.edu"
+      },
+      {
+        "name": "Matt Woodard",
+        "title": "Assistant Coach",
+        "email": "matthew.woodard@quinnipiac.edu"
+      },
+      {
+        "name": "Sadie Peart",
+        "title": "Director of Operations and Player Development",
+        "email": "sadie.peart@quinnipiac.edu"
+      },
+      {
+        "name": "Carrie Gaydos",
+        "title": "Assistant Athletic Trainer",
+        "email": "carrie.gaydos@qu.edu"
+      },
+      {
+        "name": "Brijesh Patel",
+        "title": "Associate AD / Director of Athletic Performance",
+        "email": "brijesh.patel@qu.edu"
+      },
+      {
+        "name": "Dana White",
+        "title": "Sports Dietician",
+        "email": "dana.white@qu.edu"
+      },
+      {
+        "name": "Devin Markle",
+        "title": "Director of Athlete Mental Wellness & Performance",
+        "email": "devin.markle1@quinnipiac.edu"
+      }
+    ]
+  },
+  "RIT": {
+    "college": "RIT",
+    "fullName": "Rochester Institute of Technology",
+    "mascot": "Tigers",
+    "city": "Rochester",
+    "state": "NY",
+    "conference": "AHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/4668a0cceb58",
+    "gpa": "3.7",
+    "sat": "1370",
+    "acceptanceRate": "0.67",
+    "npiRank": "26",
+    "npiSeason": "2025-26",
+    "undergrads": "14295",
+    "setting": "Suburban",
+    "avgLast3": "26",
+    "avgLast4": "28",
+    "avgLast5": "30",
+    "settlementStatus": "Future opt-in announced",
+    "optInYear": "2027-28",
+    "twitter": "RITWHKY",
+    "instagram": "ritwhky",
+    "mhr": {
+      "2021-22": "38",
+      "2022-23": "36",
+      "2023-24": "30",
+      "2024-25": "25",
+      "2025-26": "22"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Celeste Brown",
+        "title": "Bruce B. Bates Women's Hockey Coach",
+        "email": "cibatl@rit.edu"
+      },
+      {
+        "name": "Jordin Pardoski",
+        "title": "Assistant Coach",
+        "email": "ritwih@rit.edu"
+      },
+      {
+        "name": "Josh Graser",
+        "title": "Assistant Coach",
+        "email": "ritwih@rit.edu"
+      },
+      {
+        "name": "Mike Moon",
+        "title": "Strength and Conditioning Coach",
+        "email": ""
+      },
+      {
+        "name": "Missy Wilson",
+        "title": "Athletic Trainer",
+        "email": "mawatl@rit.edu"
+      },
+      {
+        "name": "Pat Sofia",
+        "title": "Assistant Athletics Director / Athletic and Hockey Operations",
+        "email": "pssatl@rit.edu"
+      },
+      {
+        "name": "Joe Vicario",
+        "title": "Women's Hockey Operations Coordinator",
+        "email": "jcvatl@rit.edu"
+      }
+    ]
+  },
+  "Robert Morris": {
+    "college": "Robert Morris",
+    "fullName": "Robert Morris University",
+    "mascot": "Colonials",
+    "city": "Moon Township",
+    "state": "PA",
+    "conference": "AHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/c8ea86219aec",
+    "gpa": "3.4",
+    "sat": "1135",
+    "acceptanceRate": "0.9",
+    "npiRank": "36",
+    "npiSeason": "2025-26",
+    "undergrads": "3769",
+    "setting": "Suburban",
+    "avgLast3": "34",
+    "avgLast4": "34",
+    "avgLast5": "34",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "RMUWHockey",
+    "instagram": "rmuwhockey",
+    "mhr": {
+      "2021-22": "",
+      "2022-23": "",
+      "2023-24": "32",
+      "2024-25": "36",
+      "2025-26": "33"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Logan Bittle",
+        "title": "Head Coach",
+        "email": "bittle@rmu.edu"
+      },
+      {
+        "name": "Liam Cavanagh",
+        "title": "Assistant Coach",
+        "email": "cavanagh@rmu.edu"
+      },
+      {
+        "name": "Mia Del Rosso",
+        "title": "Assistant Coach",
+        "email": "delrosso@rmu.edu"
+      },
+      {
+        "name": "Emma Gorski",
+        "title": "Volunteer Goalie Coach",
+        "email": ""
+      },
+      {
+        "name": "Sydney Spuzzillo",
+        "title": "Hockey Operations Coordinator",
+        "email": "spuzzillo@rmu.edu"
+      },
+      {
+        "name": "Taylor Mrazik",
+        "title": "Athletic Trainer (Women's Hockey, Rowing)",
+        "email": "mrazikt@rmu.edu"
+      },
+      {
+        "name": "Gus Apodaca",
+        "title": "Strength & Conditioning Coach",
+        "email": "apodaca@rmu.edu"
+      }
+    ]
+  },
+  "RPI": {
+    "college": "RPI",
+    "fullName": "Rensselaer Polytechnic Institute",
+    "mascot": "Engineers",
+    "city": "Troy",
+    "state": "NY",
+    "conference": "ECAC",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/081895d2c569?path=whock",
+    "gpa": "3.8",
+    "sat": "1445",
+    "acceptanceRate": "0.63",
+    "npiRank": "42",
+    "npiSeason": "2025-26",
+    "undergrads": "6669",
+    "setting": "Urban/Suburban",
+    "avgLast3": "28",
+    "avgLast4": "28",
+    "avgLast5": "27",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "RPI_WHockey",
+    "instagram": "rpiwhockey",
+    "mhr": {
+      "2021-22": "26",
+      "2022-23": "28",
+      "2023-24": "21",
+      "2024-25": "26",
+      "2025-26": "36"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Bryan Vines",
+        "title": "Head Coach",
+        "email": "vinesb@rpi.edu"
+      },
+      {
+        "name": "Jennifer Wilson",
+        "title": "Assistant Coach",
+        "email": "wilsoj13@rpi.edu"
+      },
+      {
+        "name": "Chris Ardito",
+        "title": "Assistant Coach",
+        "email": "arditc@rpi.edu"
+      },
+      {
+        "name": "Ryan Gayso",
+        "title": "Assistant Coach",
+        "email": "gaysor@rpi.edu"
+      },
+      {
+        "name": "Kate Sawyer",
+        "title": "Director of Operations",
+        "email": ""
+      },
+      {
+        "name": "Mizue Iwamoto",
+        "title": "Assistant Athletic Trainer",
+        "email": "iwamom@rpi.edu"
+      },
+      {
+        "name": "Matt Santa Maria",
+        "title": "Assistant Equipment Manager",
+        "email": "santam@rpi.edu"
+      },
+      {
+        "name": "Jordan Baum",
+        "title": "Head Strength & Conditioning Coach",
+        "email": "baumj2@rpi.edu"
+      }
+    ]
+  },
+  "Sacred Heart": {
+    "college": "Sacred Heart",
+    "fullName": "Sacred Heart University",
+    "mascot": "Pioneers",
+    "city": "Fairfield",
+    "state": "CT",
+    "conference": "NEWHA",
+    "questionnaireURL": "https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=NzU1Ng==-gwz6ldxu9oA=&ptype=recruit",
+    "gpa": "3.35",
+    "sat": "1265",
+    "acceptanceRate": "0.65",
+    "npiRank": "40",
+    "npiSeason": "2025-26",
+    "undergrads": "7084",
+    "setting": "Suburban",
+    "avgLast3": "40",
+    "avgLast4": "40",
+    "avgLast5": "40",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "SHU_WIH",
+    "instagram": "shu_wih",
+    "mhr": {
+      "2021-22": "39",
+      "2022-23": "40",
+      "2023-24": "41",
+      "2024-25": "37",
+      "2025-26": "41"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Thomas O'Malley",
+        "title": "Head Coach",
+        "email": "omalleyt@sacredheart.edu"
+      },
+      {
+        "name": "Allison Roethke",
+        "title": "Assistant Coach",
+        "email": "roethkea@sacredheart.edu"
+      },
+      {
+        "name": "Caroline Peterson",
+        "title": "Assistant Coach",
+        "email": "petersonc5@sacredheart.edu"
+      },
+      {
+        "name": "Nikki Bessinger",
+        "title": "Director of Hockey Operations",
+        "email": "bessingern@sacredheart.edu"
+      },
+      {
+        "name": "Casey Quinn",
+        "title": "Senior Associate Athletic Trainer",
+        "email": "quinnc10@sacredheart.edu"
+      }
+    ]
+  },
+  "Saint Anselm": {
+    "college": "Saint Anselm",
+    "fullName": "Saint Anselm College",
+    "mascot": "Hawks",
+    "city": "Manchester",
+    "state": "NH",
+    "conference": "NEWHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/9de31062c72d",
+    "gpa": "3.48",
+    "sat": "1190",
+    "acceptanceRate": "0.78",
+    "npiRank": "30",
+    "npiSeason": "2025-26",
+    "undergrads": "2087",
+    "setting": "Suburban",
+    "avgLast3": "40",
+    "avgLast4": "40",
+    "avgLast5": "39",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "STAWomensHockey",
+    "instagram": "stahawkswhockey",
+    "mhr": {
+      "2021-22": "36",
+      "2022-23": "39",
+      "2023-24": "38",
+      "2024-25": "42",
+      "2025-26": "39"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Jessica Salisbury",
+        "title": "Head Coach",
+        "email": "jsalisbury@anselm.edu"
+      },
+      {
+        "name": "Joe Deleault",
+        "title": "Volunteer Assistant Coach",
+        "email": "jdeleault@anselm.edu"
+      },
+      {
+        "name": "Cameron Walsh",
+        "title": "Volunteer Assistant Coach",
+        "email": ""
+      }
+    ]
+  },
+  "Saint Michael's": {
+    "college": "Saint Michael's",
+    "fullName": "Saint Michael's College",
+    "mascot": "Purple Knights",
+    "city": "Colchester",
+    "state": "VT",
+    "conference": "NEWHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/51a81248f591",
+    "gpa": "3.2",
+    "sat": "1220",
+    "acceptanceRate": "0.92",
+    "npiRank": "45",
+    "npiSeason": "2025-26",
+    "undergrads": "1092",
+    "setting": "Suburban",
+    "avgLast3": "44",
+    "avgLast4": "44",
+    "avgLast5": "43",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "SMC_WIH",
+    "instagram": "SMC_WIH",
+    "mhr": {
+      "2021-22": "41",
+      "2022-23": "41",
+      "2023-24": "44",
+      "2024-25": "44",
+      "2025-26": "45"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Meghan Sweezey",
+        "title": "Head Coach",
+        "email": "msweezey@smcvt.edu"
+      },
+      {
+        "name": "Olivia McLean",
+        "title": "Assistant Coach",
+        "email": "omclean2@smcvt.edu"
+      },
+      {
+        "name": "Kyra Yu",
+        "title": "Volunteer Assistant Coach",
+        "email": ""
+      },
+      {
+        "name": "Leon Lifschutz",
+        "title": "Goaltending Coach",
+        "email": ""
+      }
+    ]
+  },
+  "St. Cloud State": {
+    "college": "St. Cloud State",
+    "fullName": "St. Cloud State University",
+    "mascot": "Huskies",
+    "city": "St. Cloud",
+    "state": "MN",
+    "conference": "WCHA",
+    "questionnaireURL": "https://scsuhuskies.com/sb_output.aspx?form=3",
+    "gpa": "3.25",
+    "sat": "1125",
+    "acceptanceRate": "0.94",
+    "npiRank": "18",
+    "npiSeason": "2025-26",
+    "undergrads": "8013",
+    "setting": "Suburban",
+    "avgLast3": "8",
+    "avgLast4": "8",
+    "avgLast5": "11",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "SCSUHUSKIES_WHK",
+    "instagram": "scsuhuskies_whk",
+    "mhr": {
+      "2021-22": "21",
+      "2022-23": "9",
+      "2023-24": "8",
+      "2024-25": "8",
+      "2025-26": "8"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Mira Jalosuo",
+        "title": "Women's Hockey Head Coach",
+        "email": "mira.jalosuo@stcloudstate.edu"
+      },
+      {
+        "name": "Jinelle Siergiej",
+        "title": "Associate Head Coach",
+        "email": "jsiergiej@stcloudstate.edu"
+      },
+      {
+        "name": "Noora Räty",
+        "title": "Assistant Coach",
+        "email": "noora.raty@stcloudstate.edu"
+      },
+      {
+        "name": "Emily Ach",
+        "title": "Assistant Coach",
+        "email": "emily.ach@stcloudstate.edu"
+      },
+      {
+        "name": "Jake Franczek",
+        "title": "Strength and Conditioning Coach",
+        "email": "jake.franczek@stcloudstate.edu"
+      },
+      {
+        "name": "Rachel Nagel",
+        "title": "Athletic Trainer",
+        "email": "rachel.nagel@stcloudstate.edu"
+      }
+    ]
+  },
+  "St. Lawrence": {
+    "college": "St. Lawrence",
+    "fullName": "St. Lawrence University",
+    "mascot": "Saints",
+    "city": "Canton",
+    "state": "NY",
+    "conference": "ECAC",
+    "questionnaireURL": "https://saintsathletics.com/sb_output.aspx?frform=7&path=whockey",
+    "gpa": "3.72",
+    "sat": "1335",
+    "acceptanceRate": "0.54",
+    "npiRank": "27",
+    "npiSeason": "2025-26",
+    "undergrads": "2348",
+    "setting": "Rural",
+    "avgLast3": "14",
+    "avgLast4": "15",
+    "avgLast5": "14",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "SLU_whockey",
+    "instagram": "slusaintshockey",
+    "mhr": {
+      "2021-22": "12",
+      "2022-23": "17",
+      "2023-24": "9",
+      "2024-25": "11",
+      "2025-26": "23"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Chris Wells",
+        "title": "Head Women's Hockey Coach",
+        "email": "cwells@stlawu.edu"
+      },
+      {
+        "name": "Ted Wisner",
+        "title": "Associate Head Women's Hockey Coach",
+        "email": "twisner@stlawu.edu"
+      },
+      {
+        "name": "Mare MacDougall Bari",
+        "title": "Athletics Instructor / Associate Head Women's Hockey Coach",
+        "email": "mmacdougall@stlawu.edu"
+      },
+      {
+        "name": "Brittney Gout",
+        "title": "Instructor / Assistant Women's Hockey Coach",
+        "email": "bgout@stlawu.edu"
+      }
+    ]
+  },
+  "St. Thomas": {
+    "college": "St. Thomas",
+    "fullName": "University of St. Thomas",
+    "mascot": "Tommies",
+    "city": "St. Paul",
+    "state": "MN",
+    "conference": "WCHA",
+    "questionnaireURL": "https://tommiesports.com/sports/2020/7/23/recruits-Future-Athletes.aspx",
+    "gpa": "3.6",
+    "sat": "1265",
+    "acceptanceRate": "0.86",
+    "npiRank": "20",
+    "npiSeason": "2025-26",
+    "undergrads": "6247",
+    "setting": "Urban",
+    "avgLast3": "19",
+    "avgLast4": "19",
+    "avgLast5": "21",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "USTwomenhockey",
+    "instagram": "tommiewhockey",
+    "mhr": {
+      "2021-22": "29",
+      "2022-23": "21",
+      "2023-24": "20",
+      "2024-25": "22",
+      "2025-26": "14"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Bethany Brausen",
+        "title": "Head Coach",
+        "email": "bbrausen@stthomas.edu"
+      },
+      {
+        "name": "Jason Carter",
+        "title": "Assistant Coach",
+        "email": "CART7257@stthomas.edu"
+      },
+      {
+        "name": "Allison Berg",
+        "title": "Assistant Coach",
+        "email": "alli.borgstrom@stthomas.edu"
+      },
+      {
+        "name": "Alli Altmann",
+        "title": "Assistant Coach",
+        "email": "alli.altmann@stthomas.edu"
+      },
+      {
+        "name": "Dani Cameranesi Brodzinski",
+        "title": "Player Development & Scouting Coordinator",
+        "email": ""
+      }
+    ]
+  },
+  "Stonehill": {
+    "college": "Stonehill",
+    "fullName": "Stonehill College",
+    "mascot": "Skyhawks",
+    "city": "Easton",
+    "state": "MA",
+    "conference": "NEWHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/4abd6fc291ac",
+    "gpa": "3.32",
+    "sat": "1205",
+    "acceptanceRate": "0.66",
+    "npiRank": "33",
+    "npiSeason": "2025-26",
+    "undergrads": "2539",
+    "setting": "Suburban",
+    "avgLast3": "40",
+    "avgLast4": "39",
+    "avgLast5": "39",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "StonehillWIH",
+    "instagram": "stonehillwih",
+    "mhr": {
+      "2021-22": "",
+      "2022-23": "37",
+      "2023-24": "39",
+      "2024-25": "40",
+      "2025-26": "40"
+    },
+    "tier": "4",
+    "tierLabel": "Tier 4 (36-45)",
+    "staff": [
+      {
+        "name": "Lee-J Mirasolo",
+        "title": "Head Coach",
+        "email": "lmirasolo@stonehill.edu"
+      },
+      {
+        "name": "Katilin Finnegan",
+        "title": "Assistant Coach",
+        "email": "kfinnegan3@stonehill.edu"
+      },
+      {
+        "name": "Erin Connolly",
+        "title": "Assistant Coach",
+        "email": "econnolly1@stonehill.edu"
+      }
+    ]
+  },
+  "Syracuse": {
+    "college": "Syracuse",
+    "fullName": "Syracuse University",
+    "mascot": "Orange",
+    "city": "Syracuse",
+    "state": "NY",
+    "conference": "AHA",
+    "questionnaireURL": "https://college.jumpforward.com/questionnaire.aspx?iid=1644&sportid=8",
+    "gpa": "3.8",
+    "sat": "1355",
+    "acceptanceRate": "0.46",
+    "npiRank": "28",
+    "npiSeason": "2025-26",
+    "undergrads": "15181",
+    "setting": "Urban",
+    "avgLast3": "31",
+    "avgLast4": "31",
+    "avgLast5": "29",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "CuseIce",
+    "instagram": "cuseice",
+    "mhr": {
+      "2021-22": "22",
+      "2022-23": "31",
+      "2023-24": "36",
+      "2024-25": "28",
+      "2025-26": "30"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Brian Idalski",
+        "title": "Head Coach",
+        "email": "bidalski@syr.edu"
+      },
+      {
+        "name": "Heather Farrell",
+        "title": "Associate Head Coach",
+        "email": "hefarrel@syr.edu"
+      },
+      {
+        "name": "Jordan Lipson",
+        "title": "Assistant Coach",
+        "email": "jolipson@syr.edu"
+      },
+      {
+        "name": "Amelia Bartels",
+        "title": "Athletic Trainer (Ice Hockey)",
+        "email": "albartel@syr.edu"
+      },
+      {
+        "name": "Rodney Blachford",
+        "title": "Asst. Equipment Manager",
+        "email": "riblachf@syr.edu"
+      },
+      {
+        "name": "Anthony Pedrotti",
+        "title": "Assistant S&C Coach (M Lax, W Ice Hockey, W Tennis)",
+        "email": "ampedrot@syr.edu"
+      }
+    ]
+  },
+  "UCONN": {
+    "college": "UCONN",
+    "fullName": "University of Connecticut",
+    "mascot": "Huskies",
+    "city": "Storrs",
+    "state": "CT",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://growmystrengths.com/recruitment-survey/?oid=164",
+    "gpa": "3.8",
+    "sat": "1330",
+    "acceptanceRate": "0.55",
+    "npiRank": "6",
+    "npiSeason": "2025-26",
+    "undergrads": "18652",
+    "setting": "Suburban",
+    "avgLast3": "13",
+    "avgLast4": "15",
+    "avgLast5": "15",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "UConnWHOC",
+    "instagram": "uconnwhoc",
+    "mhr": {
+      "2021-22": "16",
+      "2022-23": "20",
+      "2023-24": "13",
+      "2024-25": "19",
+      "2025-26": "7"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Chris MacKenzie",
+        "title": "Head Coach",
+        "email": "chris.mackenzie@uconn.edu"
+      },
+      {
+        "name": "Casey Handrahan",
+        "title": "Associate Head Coach",
+        "email": "casey.handrahan@uconn.edu"
+      },
+      {
+        "name": "Matthew LaMalfa",
+        "title": "Assistant Director of Equipment Services / Director of Women's Ice Hockey",
+        "email": "matthew.lamalfa@uconn.edu"
+      },
+      {
+        "name": "Megan Barry",
+        "title": "Associate Athletic Trainer (WIH, Tennis)",
+        "email": "megan.a.barry@uconn.edu"
+      },
+      {
+        "name": "Joel DeMarco",
+        "title": "Director of Olympic Sports Performance (W Ice Hockey, Baseball, W Volleyball)",
+        "email": "joel.demarco@uconn.edu"
+      }
+    ]
+  },
+  "Union": {
+    "college": "Union",
+    "fullName": "Union College",
+    "mascot": "Garnet Chargers",
+    "city": "Schnectady",
+    "state": "NY",
+    "conference": "ECAC",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/daa55f716981?path=whockey",
+    "gpa": "3.75",
+    "sat": "1395",
+    "acceptanceRate": "0.44",
+    "npiRank": "34",
+    "npiSeason": "2025-26",
+    "undergrads": "2146",
+    "setting": "Urban/Suburban",
+    "avgLast3": "28",
+    "avgLast4": "30",
+    "avgLast5": "31",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "UnionwHockey",
+    "instagram": "unionwhockey",
+    "mhr": {
+      "2021-22": "37",
+      "2022-23": "34",
+      "2023-24": "29",
+      "2024-25": "23",
+      "2025-26": "32"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Tony Maci",
+        "title": "Head Women's Hockey Coach",
+        "email": "macia@union.edu"
+      },
+      {
+        "name": "Shawn Skelly",
+        "title": "Assistant Women's Ice Hockey Coach",
+        "email": "skellys@union.edu"
+      },
+      {
+        "name": "Courtney Hall",
+        "title": "Assistant Women's Ice Hockey Coach / Hockey Operations",
+        "email": "hallc3@union.edu"
+      },
+      {
+        "name": "Kelli Hays",
+        "title": "Office Coordinator - Hockey",
+        "email": "haysk@union.edu"
+      },
+      {
+        "name": "Ainsley Svetek",
+        "title": "Assistant Coach",
+        "email": "ainsley.svetek@uconn.edu"
+      }
+    ]
+  },
+  "Vermont": {
+    "college": "Vermont",
+    "fullName": "University of Vermont",
+    "mascot": "Catamounts",
+    "city": "Burlington",
+    "state": "VT",
+    "conference": "Hockey East",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/e5c1116d5d9b",
+    "gpa": "3.6",
+    "sat": "1360",
+    "acceptanceRate": "0.65",
+    "npiRank": "22",
+    "npiSeason": "2025-26",
+    "undergrads": "11485",
+    "setting": "Urban",
+    "avgLast3": "28",
+    "avgLast4": "24",
+    "avgLast5": "22",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "UVMwhockey",
+    "instagram": "uvmwhockey",
+    "mhr": {
+      "2021-22": "15",
+      "2022-23": "13",
+      "2023-24": "26",
+      "2024-25": "33",
+      "2025-26": "24"
+    },
+    "tier": "3",
+    "tierLabel": "Tier 3 (21-35)",
+    "staff": [
+      {
+        "name": "Jim Plumer",
+        "title": "Head Coach",
+        "email": "james.plumer@uvm.edu"
+      },
+      {
+        "name": "Erik Strand",
+        "title": "Assistant Coach",
+        "email": "erik.strand@uvm.edu"
+      },
+      {
+        "name": "Victoria Blake",
+        "title": "Associate Coach",
+        "email": "Victoria.Blake@uvm.edu"
+      },
+      {
+        "name": "Emma Hindes",
+        "title": "Athletic Trainer (Women's Hockey)",
+        "email": "Emma.Hindes@uvm.edu"
+      },
+      {
+        "name": "Evan Pane",
+        "title": "Women's Hockey Equipment Manager",
+        "email": "Evan.Pane@uvm.edu"
+      },
+      {
+        "name": "Peri Brooks-Randall",
+        "title": "Assistant Athletic Performance Coach",
+        "email": "peri.brooks-randall@uvm.edu"
+      }
+    ]
+  },
+  "Wisconsin": {
+    "college": "Wisconsin",
+    "fullName": "University of Wisconsin",
+    "mascot": "Badgers",
+    "city": "Madison",
+    "state": "WI",
+    "conference": "WCHA",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/dee20a4d6c1b",
+    "gpa": "3.67",
+    "sat": "1430",
+    "acceptanceRate": "0.43",
+    "npiRank": "1",
+    "npiSeason": "2025-26",
+    "undergrads": "31833",
+    "setting": "Urban",
+    "avgLast3": "1",
+    "avgLast4": "2",
+    "avgLast5": "2",
+    "settlementStatus": "Opted in",
+    "optInYear": "2025-26",
+    "twitter": "BadgerWHockey",
+    "instagram": "badgerwhockey",
+    "mhr": {
+      "2021-22": "3",
+      "2022-23": "3",
+      "2023-24": "2",
+      "2024-25": "1",
+      "2025-26": "1"
+    },
+    "tier": "1",
+    "tierLabel": "Tier 1 (1-4)",
+    "staff": [
+      {
+        "name": "Mark Johnson",
+        "title": "Head Coach",
+        "email": "mark.johnson@athletics.wisc.edu"
+      },
+      {
+        "name": "Dan Koch",
+        "title": "Associate Head Coach",
+        "email": "dk2@athletics.wisc.edu"
+      },
+      {
+        "name": "Jackie Crum",
+        "title": "Assistant Coach",
+        "email": "jrf@athletics.wisc.edu"
+      },
+      {
+        "name": "Mark Greenhalgh",
+        "title": "Goaltender Coach",
+        "email": "mgreenhalgh@wisc.edu"
+      },
+      {
+        "name": "Stefanie Arndt",
+        "title": "Athletic Trainer",
+        "email": "SKA@athletics.wisc.edu"
+      },
+      {
+        "name": "Mia Commendatore",
+        "title": "Equipment Manager",
+        "email": "MVC@athletics.wisc.edu"
+      },
+      {
+        "name": "Justin Kakuska",
+        "title": "Director of Operations/Video Coordinator",
+        "email": "JMK@athletics.wisc.edu"
+      },
+      {
+        "name": "Eric Steffen",
+        "title": "Program Assistant",
+        "email": "ERS@athletics.wisc.edu"
+      },
+      {
+        "name": "Paul Valukas",
+        "title": "Assistant Strength & Conditioning Coach (WIH, Assist Men's Basketball)",
+        "email": ""
+      }
+    ]
+  },
+  "Yale": {
+    "college": "Yale",
+    "fullName": "Yale University",
+    "mascot": "Bulldogs",
+    "city": "New Haven",
+    "state": "CT",
+    "conference": "ECAC",
+    "questionnaireURL": "https://questionnaires.armssoftware.com/bcf776cbe302",
+    "gpa": "4",
+    "sat": "1530",
+    "acceptanceRate": "0.0459",
+    "npiRank": "8",
+    "npiSeason": "2025-26",
+    "undergrads": "6758",
+    "setting": "Urban",
+    "avgLast3": "11",
+    "avgLast4": "10",
+    "avgLast5": "10",
+    "settlementStatus": "Opted out",
+    "optInYear": "",
+    "twitter": "YaleWhockey",
+    "instagram": "YaleWHockey",
+    "mhr": {
+      "2021-22": "7",
+      "2022-23": "7",
+      "2023-24": "11",
+      "2024-25": "14",
+      "2025-26": "9"
+    },
+    "tier": "2",
+    "tierLabel": "Tier 2 (5-20)",
+    "staff": [
+      {
+        "name": "Mark Bolding",
+        "title": "Susan Cavanagh Head Coach of Women's Hockey",
+        "email": "mark.bolding@yale.edu"
+      },
+      {
+        "name": "Grant Kimball",
+        "title": "Assistant Coach",
+        "email": "grant.kimball@yale.edu"
+      },
+      {
+        "name": "Erica Kromm",
+        "title": "Assistant Coach",
+        "email": "erica.kromm@yale.edu"
+      },
+      {
+        "name": "Laura Brennan",
+        "title": "Assistant Coach",
+        "email": "laura.brennan.lb2384@yale.edu"
+      },
+      {
+        "name": "Michael Stancarone",
+        "title": "Intercollegiate Equipment Operations & Recreation Assistant",
+        "email": "michael.stancarone@yale.edu"
+      },
+      {
+        "name": "Miranda Morel",
+        "title": "Assistant Athletic Trainer (Women's Ice Hockey, Lightweight Crew)",
+        "email": "miranda.morel@yale.edu"
+      },
+      {
+        "name": "Alex Mowatt-Larssen",
+        "title": "Assistant Strength & Conditioning Coach",
+        "email": "alex.mowatt-larssen@yale.edu"
+      }
+    ]
+  }
+}
