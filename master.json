@@ -149,7 +149,8 @@
     "Position": "D",
     "City": "Peachland",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "TmBC"
   },
   {
     "Name": "Mia Abousaleh",
@@ -749,7 +750,8 @@
     "PersonKey": "aiken|alexa",
     "Position": "G",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Liberty Aime",
@@ -1110,6 +1112,7 @@
     "College": "Mercyhurst",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2023"
   },
   {
@@ -1554,7 +1557,8 @@
     "PersonKey": "almond|sara",
     "Position": "F",
     "State": "NSC",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Polly Almstedt",
@@ -2942,7 +2946,8 @@
     "Country": "Intl",
     "College": "Harvard",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Emmi Arida",
@@ -3132,7 +3137,9 @@
     "State": "NOR",
     "Country": "Intl",
     "College": "Lindenwood",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Norway U18 2024,2025 (2X)"
   },
   {
@@ -3444,7 +3451,7 @@
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Highest": "U1617"
   },
   {
     "Name": "Ava Assinewai",
@@ -3875,7 +3882,8 @@
     "Position": "G",
     "City": "Brandon",
     "State": "MAN",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Caroline Averill",
@@ -4025,7 +4033,8 @@
     "Position": "F",
     "City": "Fort St. John",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Audrey Azevedo",
@@ -4108,7 +4117,8 @@
     "School": "Cushing",
     "Team": "Seacoast Spartans",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "U15"
   },
   {
     "Name": "Annika Babineau",
@@ -4236,8 +4246,10 @@
     "State": "SUI",
     "Country": "Intl",
     "College": "Northeastern",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Switzerland U18 2020,2022,2023 (3X) Olympics 2026"
   },
   {
@@ -4301,7 +4313,11 @@
     "Team2025": "NAHA Navy 19U",
     "Team": "NAHA Navy",
     "College": "Brown",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Hungary U18 2022,2023,2024,2025 (4X)"
   },
   {
@@ -4901,18 +4917,9 @@
   {
     "Name": "Annie Banks",
     "PersonKey": "banks|anne",
-    "BirthYr": 2007,
-    "DOB": "11/17/2007",
-    "Grad": 2026,
-    "Position": "D",
-    "City": "Lake Worth",
-    "State": "FL",
-    "Country": "USA",
-    "School": "Lovell Academy",
+    "Position": "F",
     "Team2025": "Lovell Academy 19U Elite",
-    "Team": "Lovell Academy",
-    "Sr": "x",
-    "Notable": "Decommit Post - Looks like not playing"
+    "Team": "Lovell Academy"
   },
   {
     "Name": "Brinn Bannister",
@@ -5047,6 +5054,7 @@
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team France U18 2020,2022 (2X) Olympics 2026"
   },
   {
@@ -5222,7 +5230,8 @@
     "PersonKey": "barker|lillian",
     "Position": "F",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Peyton Barker",
@@ -6648,6 +6657,8 @@
     "State": "ITA",
     "Country": "Intl",
     "College": "Lindenwood",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Italy"
   },
   {
@@ -7216,7 +7227,9 @@
     "Team2024": "Oha Mavericks U22AA",
     "Team": "Ontario Hockey Academy",
     "College": "St. Lawrence",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Slovakia U18 2023,2024 (2X) Olympic Games Qualifying"
   },
   {
@@ -7465,7 +7478,8 @@
     "Position": "D",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "Edmonton"
+    "Team": "Edmonton",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Adalyn Benson",
@@ -8404,7 +8418,8 @@
     "Position": "G",
     "City": "Burnaby",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Mena Bhatt",
@@ -8617,7 +8632,10 @@
     "State": "AUT",
     "Country": "Intl",
     "College": "Holy Cross",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Austria U18 2022,2023,2024 (3X)"
   },
   {
@@ -9038,8 +9056,10 @@
     "Team2024": "New Jersey Ironbound 19U",
     "Team": "Newark Ironbound",
     "College": "RPI",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Denmark U18 2022,2023 (2X)"
   },
   {
@@ -9153,7 +9173,8 @@
     "Country": "US",
     "Team2025": "NH Mountain Cats Academy 19U",
     "Team": "NH Mountain Cats Academy",
-    "College": "Lawrence"
+    "College": "Lawrence",
+    "Highest": "U15"
   },
   {
     "Name": "Taylor Blaise",
@@ -9281,7 +9302,8 @@
     "Position": "F",
     "City": "Coquitlam",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Rhyen Blane",
@@ -9332,7 +9354,10 @@
     "State": "SVK",
     "Country": "Intl",
     "College": "Lindenwood",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Slovakia U18 2022,2023,2024, (3X) Olympic Games Qualifying"
   },
   {
@@ -9380,7 +9405,8 @@
     "Position": "F",
     "City": "West Kelowna",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Caroline Bliss",
@@ -9402,7 +9428,8 @@
     "City": "Penticton",
     "State": "BCO",
     "Country": "CAN",
-    "Team": "Mississauga"
+    "Team": "Mississauga",
+    "Highest": "U18-C"
   },
   {
     "Name": "Milla Blocker",
@@ -9780,7 +9807,10 @@
     "Team2025": "BK Selects 19U",
     "Team": "BK Selects",
     "College": "Wisconsin",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Germany U18 2025,2026 (2X)"
   },
   {
@@ -10983,7 +11013,8 @@
     "Position": "D",
     "City": "Coldstream",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Emma Boyd",
@@ -11389,7 +11420,8 @@
     "Position": "F",
     "City": "Port Coquitlam",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Anna Brannare",
@@ -11742,6 +11774,7 @@
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2024 - Not on 26' Roster"
   },
   {
@@ -11773,7 +11806,8 @@
     "Position": "F",
     "State": "NBR",
     "Country": "CAN",
-    "College": "BuffaloState"
+    "College": "BuffaloState",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Kyla Brennan",
@@ -11965,6 +11999,22 @@
     "Highest": "U1617"
   },
   {
+    "Name": "Dana Brezinova",
+    "PersonKey": "brezinova|dana",
+    "BirthYr": 2009,
+    "DOB": "7/7/2009",
+    "Grad": 2028,
+    "Position": "F",
+    "City": "Breziny",
+    "State": "CZE",
+    "Country": "Intl",
+    "College": "Ohio State",
+    "Jr": "WNT-O",
+    "Sr": "x",
+    "Highest": "WNT-O",
+    "Notable": "Team Czechia U18 2026"
+  },
+  {
     "Name": "Brienne Brezynskie",
     "PersonKey": "brezynskie|brienne",
     "Grad": 2025,
@@ -12030,7 +12080,8 @@
     "Position": "F",
     "City": "100 Mile House",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Rylin Briggs",
@@ -12599,7 +12650,8 @@
     "Position": "D",
     "City": "Kamloops",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Evelyn Brown",
@@ -12998,7 +13050,9 @@
     "State": "NOR",
     "Country": "Intl",
     "College": "Maine",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Norway U18 2024,2025 (2X)"
   },
   {
@@ -14604,7 +14658,9 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Boston University",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2023,2024 (2X)"
   },
   {
@@ -15436,7 +15492,7 @@
     "College": "Penn State",
     "Jr": "TmON-R",
     "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Highest": "TmON-R"
   },
   {
     "Name": "Mairead Campbell",
@@ -15873,7 +15929,8 @@
     "Position": "F",
     "City": "Powell River",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Brooke Carlson",
@@ -17031,8 +17088,10 @@
     "Team2024": "New Jersey Ironbound 19U",
     "Team": "Newark Ironbound",
     "College": "Lindenwood",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Spain U18 2022,2023,2024 (3X)"
   },
   {
@@ -17546,7 +17605,8 @@
     "PersonKey": "chaisson|clara",
     "Position": "F",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Piper Chaisson",
@@ -18490,7 +18550,8 @@
     "Position": "G",
     "City": "Richmond",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Hyoseo Cheon",
@@ -19869,19 +19930,12 @@
     "Name": "Ava Clavelle",
     "PersonKey": "clavelle|ava",
     "BirthYr": 2008,
-    "DOB": "4/25/2008",
     "Grad": 2026,
     "Position": "D",
-    "City": "Airdrie",
-    "State": "ALB",
-    "Country": "CAN",
-    "School": "Okanagan Hockey Academy",
     "Team2023": "Okanagan Hockey School",
     "Team2024": "Okanaganhockeyacademy Penticton",
     "Team2025": "Okanagan Hockey Academy Penticton",
-    "Team": "Okanagan Hockey Academy Penticton",
-    "College": "Saint Anselm",
-    "Notable": "Decommit - St Anselm per Sydney"
+    "Team": "Okanagan Hockey Academy Penticton"
   },
   {
     "Name": "Audrey Clavette",
@@ -20082,7 +20136,8 @@
     "Position": "F",
     "City": "Surrey",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Paige Cline",
@@ -20695,7 +20750,8 @@
     "PersonKey": "colford|claire",
     "Position": "D",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Katelyn Colford",
@@ -20960,7 +21016,8 @@
     "Position": "F",
     "City": "Clearwater",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Cecily Collins-Williams",
@@ -21096,7 +21153,8 @@
     "Position": "D",
     "State": "NBR",
     "Country": "CAN",
-    "College": "Hilbert"
+    "College": "Hilbert",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Kendra Comer",
@@ -23500,7 +23558,8 @@
     "PersonKey": "crozier|payton",
     "Position": "G",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Addison Cruciano",
@@ -23598,6 +23657,7 @@
     "College": "Merrimack",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Hungary U25,Olympic Games Qualifying"
   },
   {
@@ -24347,7 +24407,8 @@
     "PersonKey": "daigle|audrey",
     "Position": "D",
     "State": "NBR",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Elizabeth D'aigle",
@@ -24368,7 +24429,8 @@
     "PersonKey": "daigle|karelle",
     "Position": "F",
     "State": "NBR",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "TmAtl"
   },
   {
     "Name": "Cassidy Dailey",
@@ -24470,9 +24532,11 @@
     "Country": "Intl",
     "Team": "HTI Lady Stars",
     "College": "Sacred Heart",
+    "Fresh": "WNT-O",
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2022,2023 (2X)"
   },
   {
@@ -24685,7 +24749,8 @@
     "Position": "F",
     "City": "Lake Country",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Sienna Dammann",
@@ -24922,7 +24987,9 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "Minnesota -Duluth",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2024,2025 (2X)"
   },
   {
@@ -24947,18 +25014,9 @@
   {
     "Name": "Charlize Danks",
     "PersonKey": "danks|charlize",
-    "BirthYr": 2008,
-    "DOB": "6/14/2008",
     "Grad": 2026,
     "Position": "F",
-    "City": "Ottawa",
-    "State": "ONT",
-    "Country": "CAN",
-    "School": "Stanstead College",
-    "Team2023": "Nepean U18AA",
-    "Team": "Stanstead College",
-    "College": "Dartmouth",
-    "Notable": "Decommit - Going to Ottawa"
+    "Team2023": "Nepean U18AA"
   },
   {
     "Name": "Charlie Danks",
@@ -25186,7 +25244,8 @@
     "Team2025": "CT Polar Bears 19U",
     "Team": "CT Polar Bears",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "U15"
   },
   {
     "Name": "Josie Davidson",
@@ -25827,8 +25886,11 @@
     "Team2025": "Ottawa Lady 67'S U22AA",
     "Team": "Ottawa Lady",
     "College": "Holy Cross",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Slovakia U18 2022,2023,2024 (3X)"
   },
   {
@@ -27206,7 +27268,8 @@
     "DOB": "4/24/2010",
     "Position": "F",
     "State": "ONT",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Elle Desilva",
@@ -29218,7 +29281,8 @@
     "PersonKey": "dove|brooklyn",
     "Position": "F",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Brigid Dowd",
@@ -29714,7 +29778,8 @@
     "Position": "F",
     "State": "NSC",
     "Country": "CAN",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Molly Driscoll",
@@ -31358,7 +31423,8 @@
     "Position": "F",
     "City": "Rossland",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Tayler Ehler",
@@ -31769,7 +31835,8 @@
     "State": "NFL",
     "Country": "CAN",
     "Team2025": "Cornwall U15AA",
-    "Team": "Cornwall"
+    "Team": "Cornwall",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Grace Elliott",
@@ -33382,6 +33449,7 @@
     "State": "ITA",
     "Country": "Intl",
     "College": "Penn State",
+    "Highest": "WNT-O",
     "Notable": "Team Italy"
   },
   {
@@ -33768,7 +33836,9 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "Sacred Heart",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025 (2X)"
   },
   {
@@ -34873,7 +34943,8 @@
     "Team": "Culver Academy",
     "College": "Franklin Pierce",
     "Soph": "U15",
-    "Highest": "U15"
+    "Sr": "WNT-O",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Adalie Fisher",
@@ -35139,7 +35210,8 @@
     "PersonKey": "fitzpatrick|anabella",
     "Position": "D",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Ava Fitzpatrick",
@@ -35433,7 +35505,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Calgary Fire 19U",
-    "Team": "Calgary Fire"
+    "Team": "Calgary Fire",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Kyla Fleming",
@@ -36236,7 +36309,8 @@
     "PersonKey": "foulkes|rachel",
     "Position": "F",
     "State": "NBR",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Catherine Fournier",
@@ -36447,15 +36521,17 @@
     "Name": "Sadie Frantz",
     "PersonKey": "frantz|sadie",
     "BirthYr": 2010,
+    "DOB": "12/22/2010",
     "Grad": 2028,
     "Position": "F",
-    "City": "ONT",
+    "City": "Sudbury",
     "State": "ONT",
     "Country": "CAN",
     "Team2023": "Sudbury U15AA",
     "Team2024": "Sudbury U15AA",
     "Team2025": "Barrie U22AA",
     "Team": "Barrie",
+    "College": "Mercyhurst",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -36800,7 +36876,7 @@
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617",
-    "Notable": "Dartmouth Decommit 8/26/26"
+    "Notable": "Decommit Dartmouth 8/26/26"
   },
   {
     "Name": "Kaleigh French",
@@ -37091,7 +37167,8 @@
     "Position": "F",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "St. Albert"
+    "Team": "St. Albert",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Madison Froese",
@@ -37154,8 +37231,10 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "St. Cloud State",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025 (2X)"
   },
   {
@@ -37518,7 +37597,8 @@
     "PersonKey": "gabriel|ryelyn",
     "Position": "D",
     "State": "NSC",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Samera Gabriel",
@@ -37526,7 +37606,8 @@
     "Position": "F",
     "City": "Oliver",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Paolucci Gabriella",
@@ -38127,7 +38208,7 @@
     "Team2025": "MN Elite Black - Royalty 19U",
     "Team": "MN Elite Black - Royalty",
     "Sr": "U15",
-    "Highest": "U15"
+    "Highest": "U1617"
   },
   {
     "Name": "Yiling Gardner",
@@ -38521,7 +38602,7 @@
     "Team": "BK Selects",
     "College": "Merrimack",
     "Sr": "x",
-    "Notable": "U19 Year at BK Only, decommit from Franklin Pierce"
+    "Notable": "Decommit Franklin Pierce, U19 Year at BK Only,"
   },
   {
     "Name": "Emma Geffre",
@@ -38785,7 +38866,8 @@
     "Position": "D",
     "City": "West Kelowna",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Sara Gerdel",
@@ -39509,7 +39591,10 @@
     "Team2025": "Lovell Academy 19U Prep",
     "Team": "Lovell Academy",
     "College": "Cornell",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025,2026 (3X)"
   },
   {
@@ -41409,7 +41494,6 @@
     "School": "Williston",
     "Team2023": "East Coast Wizards 16U",
     "Team2024": "East Coast Wizards 16U",
-    "College": "Saint Anselm",
     "Sr": "x",
     "Notable": "Decommit - St Anselm per Sydney"
   },
@@ -42444,7 +42528,8 @@
     "Position": "F",
     "City": "Stettler",
     "State": "ALB",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Marielou Grenier",
@@ -42485,7 +42570,8 @@
     "PersonKey": "grenier|sophia",
     "Position": "F",
     "State": "NBR",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Genevieve Grenier-Fiset",
@@ -42771,7 +42857,9 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "Ohio State",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2025,2026 (2X)"
   },
   {
@@ -42957,7 +43045,8 @@
     "Team2025": "Fox Motors 16U",
     "Team": "Fox Motors",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "U15"
   },
   {
     "Name": "Chloe Gromko",
@@ -43303,7 +43392,8 @@
     "Position": "G",
     "City": "Kamloops",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Sammy Guido",
@@ -43743,7 +43833,9 @@
     "State": "NOR",
     "Country": "Intl",
     "College": "Delaware",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Norway U18 2023,2024 (2X)"
   },
   {
@@ -43857,7 +43949,8 @@
     "Team": "Boston Jr Eagles",
     "College": "Dartmouth",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "U15"
   },
   {
     "Name": "Kaitlyn Hagan",
@@ -44406,7 +44499,8 @@
     "Position": "G",
     "City": "Sooke",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Brielle Halverson",
@@ -44685,7 +44779,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Red Deer Sutter Fund Chiefs 19U",
-    "Team": "Red Deer Sutter Fund Chiefs"
+    "Team": "Red Deer Sutter Fund Chiefs",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Anna Hammond",
@@ -46090,7 +46185,8 @@
     "State": "NSC",
     "Country": "CAN",
     "Team2025": "Lindsay Surge U18",
-    "Team": "Lindsay Surge"
+    "Team": "Lindsay Surge",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Juliet Hartwell",
@@ -46128,7 +46224,8 @@
     "Position": "F",
     "City": "Campbell River",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Gracie Harvey",
@@ -46468,7 +46565,8 @@
     "Position": "F",
     "City": "Penticton",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Bronwyn Hawkins",
@@ -47139,6 +47237,7 @@
     "Country": "Intl",
     "College": "Holy Cross",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Italy u18"
   },
   {
@@ -47298,8 +47397,10 @@
     "State": "NOR",
     "Country": "Intl",
     "College": "RPI",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Norway U18 2024,2025 (2X)"
   },
   {
@@ -47313,7 +47414,9 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "St. Lawrence",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2024,2025 (2X)"
   },
   {
@@ -47342,6 +47445,7 @@
     "Country": "Intl",
     "College": "Holy Cross",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2025"
   },
   {
@@ -47574,7 +47678,8 @@
     "State": "NBR",
     "Country": "CAN",
     "Team2023": "Oha Mavericks U18AA",
-    "Team2024": "Oha Mavericks U22AA"
+    "Team2024": "Oha Mavericks U22AA",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Molly Henderson",
@@ -48135,6 +48240,10 @@
     "State": "SUI",
     "Country": "Intl",
     "College": "Holy Cross",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Switzerland U18 2022,2023,2024,2025 (4X) Olympics 2026"
   },
   {
@@ -48398,6 +48507,10 @@
     "School": "Shattuck-St. Mary's",
     "Team": "Shattuck-St. Mary's",
     "College": "Quinnipiac",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Hungary U18 2024,2025,2026 (3X)"
   },
   {
@@ -48440,7 +48553,8 @@
     "Country": "CAN",
     "Team2024": "Edge School",
     "Team2025": "Edge Mountaineers 19U",
-    "Team": "Edge Mountaineers"
+    "Team": "Edge Mountaineers",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Olivia Higley",
@@ -50123,7 +50237,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "OHA Edmonton 19U",
-    "Team": "OHA Edmonton"
+    "Team": "OHA Edmonton",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Meagan Houle",
@@ -50693,7 +50808,8 @@
     "PersonKey": "hughes|bridgette",
     "Position": "D",
     "State": "NBR",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Hazel Hughes",
@@ -50779,8 +50895,11 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "Lindenwood",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2023,2024,2025 (3X), Singed in Austria for 26-27"
   },
   {
@@ -51835,7 +51954,10 @@
     "State": "SUI",
     "Country": "Intl",
     "College": "Mercyhurst",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Switzerland U18 2023,2024,2025 (3X)"
   },
   {
@@ -52004,7 +52126,8 @@
     "State": "NSC",
     "Country": "CAN",
     "Team2025": "Lindsay Surge U18",
-    "Team": "Lindsay Surge"
+    "Team": "Lindsay Surge",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Sadie Isfeld",
@@ -52420,7 +52543,8 @@
     "School": "Tabor",
     "Team": "Mamaroneck Tigers",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "U15"
   },
   {
     "Name": "Maggie Jacoby",
@@ -52908,7 +53032,8 @@
     "Position": "F",
     "City": "Richmond",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Julie Jebouskova",
@@ -52924,6 +53049,9 @@
     "Team2025": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Maine",
+    "Jr": "WNT-O",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025,2026 (3X)"
   },
   {
@@ -52955,7 +53083,8 @@
     "PersonKey": "jefford|brooklyn",
     "Position": "D",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Claire Jelinek",
@@ -54603,8 +54732,10 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "St. Lawrence",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2023,2024 (2X)"
   },
   {
@@ -55045,7 +55176,8 @@
     "Position": "D",
     "City": "Surrey",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Olivia Kang",
@@ -55220,9 +55352,11 @@
     "State": "FIN",
     "Country": "Intl",
     "College": "New Hampshire",
+    "Fresh": "WNT-O",
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Finalnd U18 2022,2023 (2X)"
   },
   {
@@ -56612,8 +56746,10 @@
     "State": "FIN",
     "Country": "Intl",
     "College": "RIT",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Finalnd U18 2020,2022,2023 (3X)"
   },
   {
@@ -57156,7 +57292,9 @@
     "Team2024": "Oha Mavericks U22AA",
     "Team": "Ontario Hockey Academy",
     "College": "Mercyhurst",
+    "Soph": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team South Korea U18 2022 -Transfer to Concordia Usports 26'"
   },
   {
@@ -57173,7 +57311,9 @@
     "Team2024": "Northwood School",
     "Team": "Northwood School",
     "College": "St. Lawrence",
+    "Soph": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team South Korea U18 2022 -Transfer to Concordia Usports 26'"
   },
   {
@@ -58256,7 +58396,8 @@
     "Position": "F",
     "City": "Kelowna",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Sloan Knights",
@@ -58415,7 +58556,8 @@
     "Position": "F",
     "State": "NBR",
     "Country": "CAN",
-    "College": "Cortland"
+    "College": "Cortland",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Maysie Koch",
@@ -59656,7 +59798,8 @@
     "Team2024": "Washington Pride 19U",
     "Team": "Washington Pride",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "U15"
   },
   {
     "Name": "Danika Krooshoop",
@@ -59722,7 +59865,8 @@
     "Position": "D",
     "City": "150 Mile House",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Olivia Krueger",
@@ -60290,7 +60434,8 @@
     "Country": "CAN",
     "Team2024": "Eastman U18",
     "Team2025": "Eastman Selects 19U",
-    "Team": "Eastman Selects"
+    "Team": "Eastman Selects",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Charlotte Labreche",
@@ -60454,7 +60599,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Red Deer Sutter Fund Chiefs 19U",
-    "Team": "Red Deer Sutter Fund Chiefs"
+    "Team": "Red Deer Sutter Fund Chiefs",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Sarah Lackley",
@@ -60665,7 +60811,8 @@
     "Position": "F",
     "City": "Prince George",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Maelie Laforge",
@@ -60684,7 +60831,7 @@
     "Jr": "TmQC",
     "Sr": "U18-C",
     "Highest": "U18-C",
-    "Notable": "Possible decommit from Dartmouth"
+    "Notable": "decommit from Dartmouth"
   },
   {
     "Name": "Jordanne Laforme",
@@ -61481,7 +61628,10 @@
     "State": "SUI",
     "Country": "Intl",
     "College": "Dartmouth",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Switzerland U18 2023,2024 (2X)"
   },
   {
@@ -61528,7 +61678,7 @@
     "College": "Boston University",
     "Sr": "TmON-B",
     "Highest": "TmON-B",
-    "Notable": "decommit Syracuse - Now BU 6.15.26"
+    "Notable": "Decommit Syracuse - BU 6.15.26"
   },
   {
     "Name": "Mia Langlois",
@@ -61709,7 +61859,7 @@
     "College": "Minnesota -Duluth",
     "CCM68": "Yes",
     "Sr": "TmON-B",
-    "Highest": "TmON-B",
+    "Highest": "WNT-C",
     "Notable": "Graduating & enrolling Early"
   },
   {
@@ -61799,7 +61949,8 @@
     "PersonKey": "larkin|mya",
     "Position": "D",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Lacey Larmand",
@@ -62885,7 +63036,8 @@
     "State": "NBR",
     "Country": "CAN",
     "Team2023": "Ridley College",
-    "Team2024": "Ridley College"
+    "Team2024": "Ridley College",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Laney Leblanc",
@@ -63698,8 +63850,10 @@
     "State": "FIN",
     "Country": "Intl",
     "College": "Merrimack",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Finalnd U18 2022,2023 (2X)"
   },
   {
@@ -64134,6 +64288,7 @@
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team France U18 2020,2022 (2X) OLYMPICS 2025"
   },
   {
@@ -65412,6 +65567,10 @@
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
     "College": "Vermont",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Austria U18 2023,2024,2025,2026 (4X)"
   },
   {
@@ -66502,6 +66661,10 @@
     "Team2025": "BK Selects 19U",
     "Team": "BK Selects",
     "College": "Wisconsin",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Slovakia U18 2023,2024,2025,2026 (4X) Olympic Games Qualifying"
   },
   {
@@ -66874,7 +67037,7 @@
     "Jr": "WNT",
     "Sr": "WNT",
     "Highest": "WNT",
-    "Notable": "decommit - WIS 7/17/26. Team USA U18 2025,2026 (2X)"
+    "Notable": "Decommit Minnesota, WIS 7/17/26. Team USA U18 2025,2026 (2X)"
   },
   {
     "Name": "Margaret Lovering",
@@ -67385,7 +67548,8 @@
     "PersonKey": "lutley|emily",
     "Position": "F",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Coco Lutolf",
@@ -67829,7 +67993,8 @@
     "Country": "CAN",
     "Team2025": "Lindsay Surge U18",
     "Team": "Lindsay Surge",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Molly Maccurtain",
@@ -68152,7 +68317,8 @@
     "PersonKey": "macinnis|katelyn",
     "Position": "F",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Emry Macintosh",
@@ -68720,7 +68886,8 @@
     "Position": "F",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "St. Albert"
+    "Team": "St. Albert",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Maisie Macnamee",
@@ -68748,7 +68915,8 @@
     "PersonKey": "macneill|kali",
     "Position": "F",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Avery MacPhee",
@@ -71018,7 +71186,7 @@
     "Team2024": "Oakville U22AA",
     "Team": "Oakville Hornets",
     "College": "RPI",
-    "Notable": "Not On 2025 Roster - announced by RPI 6/27/25 - Decommit?"
+    "Notable": "On 2026 Roster"
   },
   {
     "Name": "Chanel Martin",
@@ -71323,7 +71491,7 @@
     "Soph": "U15",
     "Sr": "U1617",
     "Highest": "U1617",
-    "Notable": "Decommit from Harvard 2026"
+    "Notable": "Decommit Harvard 2026"
   },
   {
     "Name": "Actlyson Martin (callup)",
@@ -72123,6 +72291,7 @@
     "Country": "Intl",
     "College": "RPI",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2025"
   },
   {
@@ -73795,7 +73964,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Red Deer Sutter Fund Chiefs 19U",
-    "Team": "Red Deer Sutter Fund Chiefs"
+    "Team": "Red Deer Sutter Fund Chiefs",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Aisling Mcfadden",
@@ -73885,7 +74055,8 @@
     "Position": "F",
     "City": "Port Coquitlam",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Lucy Mcgaraghan",
@@ -74179,7 +74350,8 @@
     "PersonKey": "mcgrath|jasmine",
     "Position": "D",
     "State": "NBR",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Lorenna Mcgrath",
@@ -74581,7 +74753,7 @@
     "Jr": "U18-C",
     "Sr": "U18-C",
     "Highest": "U18-C",
-    "Notable": "Possible decommit - Not on 2026 Roster"
+    "Notable": "Possible Decommit - Not on 2026 Roster"
   },
   {
     "Name": "Bianca McKee",
@@ -75152,7 +75324,8 @@
     "Position": "F",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "Red Deer"
+    "Team": "Red Deer",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Kasey Mcleod",
@@ -75703,7 +75876,8 @@
     "State": "NFL",
     "Country": "CAN",
     "Team2025": "The Winchendon School Prep 19U",
-    "Team": "The Winchendon School Prep"
+    "Team": "The Winchendon School Prep",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Myla Meakin",
@@ -76820,7 +76994,8 @@
     "State": "RUS",
     "Country": "Intl",
     "Team2024": "North York U22AA",
-    "College": "St. Cloud State"
+    "College": "St. Cloud State",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Ava Mikos",
@@ -77047,13 +77222,14 @@
     "Grad": 2027,
     "Position": "F",
     "Height": "5'5\"",
-    "City": "ONT",
+    "City": "Startford",
     "State": "ONT",
     "Country": "CAN",
     "Team2023": "Waterloo Ravens 14U",
     "Team2024": "Cambridge U22AA",
     "Team2025": "Cambridge U22AA",
     "Team": "Cambridge",
+    "College": "St. Lawrence",
     "Jr": "ONcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
@@ -77200,7 +77376,8 @@
     "Position": "F",
     "City": "Vernon",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Katelyn Millett",
@@ -78967,7 +79144,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Calgary Fire 19U",
-    "Team": "Calgary Fire"
+    "Team": "Calgary Fire",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Lauren Moran",
@@ -79419,7 +79597,8 @@
     "Position": "F",
     "City": "Pouce Coupe",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Lexi Morris",
@@ -79663,7 +79842,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Red Deer Sutter Fund Chiefs 19U",
-    "Team": "Red Deer Sutter Fund Chiefs"
+    "Team": "Red Deer Sutter Fund Chiefs",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Sophia Morrison",
@@ -80155,7 +80335,8 @@
     "Position": "F",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "Calgary Fire Red"
+    "Team": "Calgary Fire Red",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Jillian Muglia",
@@ -80699,7 +80880,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "South Alberta Hockey Academy 19U",
-    "Team": "South Alberta Hockey Academy"
+    "Team": "South Alberta Hockey Academy",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Adia Murphy",
@@ -80927,7 +81109,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Calgary Fire 19U",
-    "Team": "Calgary Fire"
+    "Team": "Calgary Fire",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Madelyn Murphy",
@@ -81024,7 +81207,8 @@
     "PersonKey": "murray|halle",
     "Position": "F",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Harper Murray",
@@ -81191,6 +81375,7 @@
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Finland U18 2022"
   },
   {
@@ -81475,7 +81660,10 @@
     "Team2024": "New Jersey Ironbound 19U",
     "Team": "Newark Ironbound",
     "College": "Long Island",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Austria U18 2022,2023,2024 (3X)"
   },
   {
@@ -81692,7 +81880,8 @@
     "Team2025": "Boston Jr Eagles 19U",
     "Team": "Boston Jr Eagles",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "U15"
   },
   {
     "Name": "Trinity Nardelli",
@@ -81792,7 +81981,9 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "Minnesota -Duluth",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2023,2024 (2X)"
   },
   {
@@ -81899,7 +82090,8 @@
     "Position": "F",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "Edmonton"
+    "Team": "Edmonton",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Amy Neal",
@@ -82391,7 +82583,8 @@
     "College": "St. Cloud State",
     "Soph": "x",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Alida Nestingen",
@@ -82754,6 +82947,7 @@
     "College": "Lindenwood",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Transfer from D3 Wilkes"
   },
   {
@@ -83733,7 +83927,9 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "St. Thomas",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025 (2X)"
   },
   {
@@ -84407,7 +84603,10 @@
     "Country": "Intl",
     "Team2023": "Japan Ihf 16U",
     "College": "Maine",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Japan U18 2024,2025,2026 (3X) Oympics 2026, Not on 26' Roster"
   },
   {
@@ -84422,7 +84621,8 @@
     "Country": "Intl",
     "College": "Long Island",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Brooklyn O'Dell",
@@ -86349,6 +86549,9 @@
     "Team2025": "Pittsburgh Pens Elite 19U",
     "Team": "Pittsburgh Pens Elite",
     "College": "Northeastern",
+    "Jr": "WNT-O",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025,2026 (3X)"
   },
   {
@@ -86862,7 +87065,10 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "Delaware",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025,2026 (3X)"
   },
   {
@@ -86924,7 +87130,8 @@
     "PersonKey": "partington|riley",
     "Position": "G",
     "State": "NBR",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Sloane Partlan",
@@ -87105,7 +87312,10 @@
     "State": "HUN",
     "Country": "Intl",
     "College": "Post",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Hungary U18 2023,2024 (2X)"
   },
   {
@@ -87219,6 +87429,8 @@
     "Team2024": "Oha Mavericks U22AA",
     "Team": "Ontario Hockey Academy",
     "College": "Lindenwood",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Slovakia U18 2023,2024 (2X) Olympic Games Qualifying"
   },
   {
@@ -87916,7 +88128,8 @@
     "PersonKey": "penney|anastasia",
     "Position": "F",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Gracie Penney",
@@ -89239,7 +89452,8 @@
     "Team2025": "CT Polar Bears 19U",
     "Team": "CT Polar Bears",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "U15"
   },
   {
     "Name": "Abby Pieper",
@@ -89271,6 +89485,7 @@
     "Team2024": "Northern Elite 14U",
     "Team2025": "MN Elite White - Ftw Ccm 16U",
     "Team": "MN Elite White - Ftw Ccm",
+    "College": "Bemidji State",
     "Soph": "U15",
     "Jr": "WNT",
     "Highest": "WNT"
@@ -89991,7 +90206,8 @@
     "PersonKey": "player|cadence",
     "Position": "F",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Gina Plett",
@@ -90018,7 +90234,10 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "Minnesota",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2022,2023,2024 (3X)"
   },
   {
@@ -90059,7 +90278,9 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "RIT",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2025,2026 (2X)"
   },
   {
@@ -90500,7 +90721,8 @@
     "State": "RUS",
     "Country": "Intl",
     "College": "Mercyhurst",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Mariia Polozkova",
@@ -90569,7 +90791,8 @@
     "Position": "F",
     "City": "Mission",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Lindsey Pontillio",
@@ -90796,7 +91019,8 @@
     "Position": "D",
     "City": "Williams Lake",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Gracie Porter",
@@ -91050,7 +91274,8 @@
     "Position": "F",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "Edmonton"
+    "Team": "Edmonton",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Adi Power",
@@ -91782,7 +92007,9 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "RPI",
+    "Soph": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2023,2025 (2X) / NZ Says 2027-28 Entry"
   },
   {
@@ -92642,7 +92869,8 @@
     "PersonKey": "raemacinnis|danni",
     "Position": "D",
     "State": "NSC",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Lauren Raffetto",
@@ -93102,7 +93330,10 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "Ohio State",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2022,2023,2024 (3X)"
   },
   {
@@ -93291,7 +93522,8 @@
     "PersonKey": "reardon|camryn",
     "Position": "F",
     "State": "PEI",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Sierra Reardon",
@@ -93379,7 +93611,8 @@
     "Position": "F",
     "City": "Kelowna",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Leni Reddin",
@@ -94430,7 +94663,7 @@
     "College": "St. Thomas",
     "Jr": "TmMB",
     "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Highest": "TmMB"
   },
   {
     "Name": "Casey Rice",
@@ -94476,7 +94709,8 @@
     "PersonKey": "richard|melanie",
     "Position": "F",
     "State": "NBR",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Sam Richard",
@@ -94730,7 +94964,8 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "Lindenwood",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Jaydee Rideout",
@@ -94970,7 +95205,8 @@
     "Position": "F",
     "City": "Kamloops",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Celeste Rimstad",
@@ -95026,7 +95262,8 @@
     "Country": "CAN",
     "Team2024": "Edge School",
     "Team2025": "Edge Mountaineers 19U",
-    "Team": "Edge Mountaineers"
+    "Team": "Edge Mountaineers",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Lucy Ring",
@@ -95589,7 +95826,8 @@
     "State": "NSC",
     "Country": "CAN",
     "Team2025": "Lindsay Surge U18",
-    "Team": "Lindsay Surge"
+    "Team": "Lindsay Surge",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Rose Robertson",
@@ -96455,8 +96693,11 @@
     "State": "GER",
     "Country": "Intl",
     "College": "Franklin Pierce",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Germany U18 2022,2023,2024 (3X)"
   },
   {
@@ -97604,8 +97845,11 @@
     "State": "NOR",
     "Country": "Intl",
     "College": "Lindenwood",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Norway U18 2022,2023,2024 (3X)"
   },
   {
@@ -98241,9 +98485,11 @@
     "State": "FIN",
     "Country": "Intl",
     "College": "Minnesota -Duluth",
+    "Fresh": "WNT-O",
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Finalnd U18 2021,2022,2023 (3X)"
   },
   {
@@ -98295,7 +98541,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "OHA Edmonton 19U",
-    "Team": "OHA Edmonton"
+    "Team": "OHA Edmonton",
+    "Highest": "U18-C"
   },
   {
     "Name": "Anna Samaan",
@@ -98468,7 +98715,8 @@
     "College": "Merrimack",
     "Soph": "x",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Katie Sandelin",
@@ -98693,7 +98941,8 @@
     "Position": "D",
     "City": "Anmore",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Allie Sangster",
@@ -98833,7 +99082,10 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "Wisconsin",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2022,2023,2024 (3X)"
   },
   {
@@ -99826,7 +100078,8 @@
     "City": "Maple Ridge",
     "State": "BCO",
     "Country": "CAN",
-    "Team": "Delta Hockey Academy"
+    "Team": "Delta Hockey Academy",
+    "Highest": "U18-C"
   },
   {
     "Name": "Avery Schneider",
@@ -101197,6 +101450,7 @@
     "Team": "Kingston Ice Wolves",
     "College": "Clarkson",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024"
   },
   {
@@ -101226,7 +101480,8 @@
     "Position": "D",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "Shawinigan"
+    "Team": "Shawinigan",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Jordan Serdachny",
@@ -101429,7 +101684,8 @@
     "PersonKey": "seymour|ava",
     "Position": "F",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Anabel Seyrer",
@@ -101497,7 +101753,8 @@
     "Position": "G",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "Rocky Mountain Raiders"
+    "Team": "Rocky Mountain Raiders",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Madeline Shadwick",
@@ -101817,7 +102074,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Red Deer Sutter Fund Chiefs 19U",
-    "Team": "Red Deer Sutter Fund Chiefs"
+    "Team": "Red Deer Sutter Fund Chiefs",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Zoe Shaw",
@@ -101915,7 +102173,8 @@
     "Position": "D",
     "City": "Wawanesa",
     "State": "MAN",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Ellie Sheehan",
@@ -102668,7 +102927,8 @@
     "Position": "D",
     "City": "Lake Country",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Keilani Sievers",
@@ -102880,7 +103140,9 @@
     "State": "NOR",
     "Country": "Intl",
     "College": "Lindenwood",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Norway U18 2024,2025 (2X)"
   },
   {
@@ -103112,7 +103374,8 @@
     "Position": "F",
     "City": "Fort Nelson",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Truley Simpson",
@@ -103342,7 +103605,11 @@
     "School": "Lovell Academy",
     "Team": "Lovell Academy",
     "College": "RPI",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025,2026 (3X)"
   },
   {
@@ -103595,7 +103862,7 @@
     "CCM68": "Yes",
     "Sr": "U1617",
     "Highest": "U1617",
-    "Notable": "decommit from Assumption"
+    "Notable": "Decommit Assumption"
   },
   {
     "Name": "Audrey Skrzyniecki",
@@ -105886,7 +106153,8 @@
     "PersonKey": "spurrell|lilly",
     "Position": "D",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Katie Spyhalski",
@@ -106695,7 +106963,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Red Deer Sutter Fund Chiefs 19U",
-    "Team": "Red Deer Sutter Fund Chiefs"
+    "Team": "Red Deer Sutter Fund Chiefs",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Peyton Stephenson",
@@ -107616,7 +107885,7 @@
     "Jr": "U18",
     "Sr": "U18",
     "Highest": "WNT",
-    "Notable": "Team USA U18 2025 / decommit - Minnesota 7/3/2025"
+    "Notable": "Team USA U18 2025 / decommit Minnesota 7/3/2025"
   },
   {
     "Name": "Andreanne St-Pierre",
@@ -108962,7 +109231,8 @@
     "Position": "D",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "OHA Edmonton"
+    "Team": "OHA Edmonton",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Mia Svendsen",
@@ -108984,7 +109254,9 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "Ohio State",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2023,2024 (2X)"
   },
   {
@@ -108998,7 +109270,9 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "St. Lawrence",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2024,2025 (2X)"
   },
   {
@@ -109015,7 +109289,8 @@
     "Fresh": "x",
     "Soph": "x",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Lily Svjagl",
@@ -109103,7 +109378,8 @@
     "Position": "F",
     "City": "Williams Lake",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Margaret Swanson",
@@ -109340,7 +109616,8 @@
     "Position": "F",
     "City": "Campbell River",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Victoria Swim",
@@ -109703,8 +109980,11 @@
     "State": "FIN",
     "Country": "Intl",
     "College": "Minnesota -Duluth",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Finalnd U18 2022,2023,2024 (3X)"
   },
   {
@@ -109999,7 +110279,8 @@
     "College": "St. Cloud State",
     "Soph": "x",
     "Jr": "x",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Alisa Tarnikova",
@@ -110125,7 +110406,8 @@
     "PersonKey": "taylor|brooke",
     "Position": "F",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Brooklyn Taylor",
@@ -110530,7 +110812,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team2025": "Central Plains Capitals 19U",
-    "Team": "Central Plains Capitals"
+    "Team": "Central Plains Capitals",
+    "Highest": "TmMB"
   },
   {
     "Name": "Anna Terjanian",
@@ -110636,7 +110919,8 @@
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "Northern Alberta Xtreme 19U",
-    "Team": "Northern Alberta Xtreme"
+    "Team": "Northern Alberta Xtreme",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Lucy Terzievski",
@@ -110903,7 +111187,8 @@
     "Team2024": "Ottawa Lady 67s U22AA",
     "Team2025": "Ottawa Senators U22AA",
     "Team": "Ottawa Senators",
-    "College": "RPI"
+    "College": "RPI",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Noemie Thibodeau",
@@ -111010,7 +111295,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Calgary Fire 19U",
-    "Team": "Calgary Fire"
+    "Team": "Calgary Fire",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Kate Thom",
@@ -111669,7 +111955,8 @@
     "PersonKey": "thornhill|leah",
     "Position": "F",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Taylor Thornley",
@@ -111997,6 +112284,9 @@
     "Team2025": "Oha Mavericks Tardiff U22AA",
     "Team": "Oha Mavericks Tardiff",
     "College": "Sacred Heart",
+    "Jr": "WNT-O",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2024,2025,2026 (3X)"
   },
   {
@@ -112052,8 +112342,10 @@
     "State": "NOR",
     "Country": "Intl",
     "College": "Long Island",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Norway U18 2023,2024 (2X)"
   },
   {
@@ -112424,7 +112716,11 @@
     "State": "SVK",
     "Country": "Intl",
     "College": "Ohio State",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Slovakia U18 2022,2023,2024,2025 (4X) Olympic Games Qualifying"
   },
   {
@@ -113312,7 +113608,8 @@
     "Position": "D",
     "City": "Nanaimo",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Hannah Turner",
@@ -113675,7 +113972,8 @@
     "Position": "F",
     "City": "Kelowna",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "CHARLEY UNDERHILL",
@@ -114331,8 +114629,10 @@
     "State": "FIN",
     "Country": "Intl",
     "College": "Ohio State",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Finalnd U18 2020,2022,2023 (3X)"
   },
   {
@@ -114668,6 +114968,7 @@
     "College": "Lindenwood",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Not on 2026 Roster - Moved to 2027"
   },
   {
@@ -114923,7 +115224,8 @@
     "Position": "F",
     "City": "Campbell River",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Arianna Vernazza",
@@ -115091,7 +115393,8 @@
     "PersonKey": "vickers|jade",
     "Position": "D",
     "State": "NSC",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Ella Victor",
@@ -115584,7 +115887,10 @@
     "State": "CZE",
     "Country": "Intl",
     "College": "Colgate",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Czechia U18 2023,2024,2025 (3X)"
   },
   {
@@ -117026,7 +117332,7 @@
     "Team2024": "Etobicoke U18AA"
   },
   {
-    "Name": "Amaya (was #5) Mcneill",
+    "Name": "Amaya Mcneill",
     "PersonKey": "wasmcneill|amaya",
     "Grad": 2028,
     "Position": "D",
@@ -117758,6 +118064,10 @@
     "Team2025": "Oha Mavericks Tardiff U22AA",
     "Team": "Oha Mavericks Tardiff",
     "College": "Lindenwood",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
+    "Sr": "WNT-O",
+    "Highest": "WNT-O",
     "Notable": "Team Hungary U18 2023,2024,2025,2026 (4X)"
   },
   {
@@ -118214,7 +118524,9 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "Ohio State",
+    "Jr": "WNT-O",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Sweden U18 2025,2026 (2X)"
   },
   {
@@ -118312,8 +118624,10 @@
     "State": "SUI",
     "Country": "Intl",
     "College": "Northeastern",
+    "Soph": "WNT-O",
     "Jr": "x",
     "Sr": "x",
+    "Highest": "WNT-O",
     "Notable": "Team Switzerland U18 2023,2024 (2X) Olympics 2026"
   },
   {
@@ -119026,7 +119340,8 @@
     "Position": "F",
     "State": "ALB",
     "Country": "CAN",
-    "Team": "St. Albert"
+    "Team": "St. Albert",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Brady Wierl",
@@ -119132,7 +119447,8 @@
     "State": "SWE",
     "Country": "Intl",
     "College": "Lindenwood",
-    "Sr": "x"
+    "Sr": "x",
+    "Highest": "WNT-O"
   },
   {
     "Name": "Daisy Wiggins",
@@ -119601,7 +119917,8 @@
     "PersonKey": "willcott|ava",
     "Position": "D",
     "State": "NFL",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Taylor Willemse",
@@ -119777,7 +120094,8 @@
     "Position": "F",
     "City": "North Vancouver",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Makenzie Williams",
@@ -121276,7 +121594,8 @@
     "Position": "D",
     "City": "Surrey",
     "State": "BCO",
-    "Country": "CAN"
+    "Country": "CAN",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Alicia Wu",
@@ -122785,7 +123104,8 @@
     "School": "Delta Hockey Academy",
     "Team2023": "Delta Prep Green",
     "Team": "Delta Hockey Academy",
-    "College": "Post"
+    "College": "Post",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Isabella Zolezzi",
@@ -122918,7 +123238,7 @@
     "College": "Maine",
     "Soph": "U15",
     "Sr": "ONcamp",
-    "Highest": "ONcamp"
+    "Highest": "U15"
   },
   {
     "Name": "Salena Zuno",
