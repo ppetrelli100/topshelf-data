@@ -168,7 +168,7 @@
       },
       {
         "name": "Taylor Wasylk",
-        "title": "Assistant Coach",
+        "title": "Associate Head Coach",
         "email": "Wasylk@bc.edu"
       },
       {
@@ -381,9 +381,9 @@
         "email": "cbasarab@clarkson.edu"
       },
       {
-        "name": "Jasmine Lauwers",
+        "name": "Alexa Hoskin",
         "title": "Video Coach / Hockey Operations",
-        "email": "lauwerjm@clarkson.edu"
+        "email": "hoskinac@clarkson.edu"
       },
       {
         "name": "Tad Johnson",
@@ -437,6 +437,11 @@
         "name": "Breanne Wilson-Bennett",
         "title": "Assistant Coach",
         "email": "bwilsonbennett@colgate.edu"
+      },
+      {
+        "name": "Heather Farrell",
+        "title": "Assistant Coach",
+        "email": "hfarrell@colgate.edu"
       },
       {
         "name": "Trevor Coykendall",
@@ -570,11 +575,6 @@
         "email": "Tara.E.Connolly@dartmouth.edu"
       },
       {
-        "name": "Rylie Dwyer",
-        "title": "Dir. of Ops",
-        "email": "rylie.f.dwyer@dartmouth.edu"
-      },
-      {
         "name": "Ben Lovejoy",
         "title": "Dir of Player Dev",
         "email": "ben.lovejoy@dartmouth.edu"
@@ -683,7 +683,7 @@
       {
         "name": "Courtney Stone",
         "title": "Assistant Coach",
-        "email": "stoneco24@live.franklinpierce.edu"
+        "email": "stonec@franklinpierce.edu"
       },
       {
         "name": "Noah Kinsinger",
@@ -987,8 +987,13 @@
       },
       {
         "name": "Kirsti Hussey",
-        "title": "Associate Head Coach",
+        "title": "Assistant Coach",
         "email": "kirstin.hussey@maine.edu"
+      },
+      {
+        "name": "Taylor Leech",
+        "title": "Assistant Coach",
+        "email": "taylor.leech@maine.edu"
       },
       {
         "name": "Kenna Farrey",
@@ -1120,6 +1125,11 @@
         "name": "Keri Clougherty",
         "title": "Assistant Coach / Recruiting Coordinator",
         "email": "cloughertyk@merrimack.edu"
+      },
+      {
+        "name": "Hedi Droste",
+        "title": "Director of Hockey Operations and Video Coordinator",
+        "email": ""
       },
       {
         "name": "Bryce Lechiaro",
@@ -1676,6 +1686,11 @@
         "email": "brbrown@post.edu"
       },
       {
+        "name": "Jack Rosenhammer",
+        "title": "Assistant Coach",
+        "email": "jack.rosenhammer@post.edu"
+      },
+      {
         "name": "Larry Erickson",
         "title": "Director of Hockey Operations",
         "email": "lerickson@post.edu"
@@ -1793,8 +1808,13 @@
     "staff": [
       {
         "name": "Nicole Norton",
-        "title": "Women's Ice Hockey Head Coach",
+        "title": "Interim - Women's Ice Hockey Head Coach",
         "email": "nrenault@providence.edu"
+      },
+      {
+        "name": "Jason Smith",
+        "title": "Grad Assistant Coach",
+        "email": "jsmith65.ga@providence.edu"
       },
       {
         "name": "Katie Burt",
@@ -1945,12 +1965,12 @@
       {
         "name": "Jordin Pardoski",
         "title": "Assistant Coach",
-        "email": "ritwih@rit.edu"
+        "email": "jlpatl@rit.edu"
       },
       {
         "name": "Josh Graser",
         "title": "Assistant Coach",
-        "email": "ritwih@rit.edu"
+        "email": "jagatl@rit.edu"
       },
       {
         "name": "Mike Moon",
@@ -2017,7 +2037,7 @@
       },
       {
         "name": "Liam Cavanagh",
-        "title": "Assistant Coach",
+        "title": "Associate Head Coach",
         "email": "cavanagh@rmu.edu"
       },
       {
@@ -2233,6 +2253,11 @@
         "name": "Joe Deleault",
         "title": "Volunteer Assistant Coach",
         "email": "jdeleault@anselm.edu"
+      },
+      {
+        "name": "Cameron Walsh",
+        "title": "Volunteer Assistant Coach",
+        "email": ""
       },
       {
         "name": "Cameron Walsh",
@@ -2538,6 +2563,11 @@
         "name": "Erin Connolly",
         "title": "Assistant Coach",
         "email": "econnolly1@stonehill.edu"
+      },
+      {
+        "name": "Leland Lima",
+        "title": "Director of Goaltending",
+        "email": ""
       }
     ]
   },
@@ -2583,19 +2613,14 @@
         "email": "bidalski@syr.edu"
       },
       {
-        "name": "Heather Farrell",
+        "name": "Brendon Knight",
         "title": "Associate Head Coach",
-        "email": "hefarrel@syr.edu"
+        "email": "bcknight@syr.edu"
       },
       {
-        "name": "Jordan Lipson",
+        "name": "Patricia Sautter Elsmore",
         "title": "Assistant Coach",
-        "email": "jolipson@syr.edu"
-      },
-      {
-        "name": "Amelia Bartels",
-        "title": "Athletic Trainer (Ice Hockey)",
-        "email": "albartel@syr.edu"
+        "email": "pselsmor@syr.edu"
       },
       {
         "name": "Rodney Blachford",
@@ -2654,6 +2679,11 @@
         "name": "Casey Handrahan",
         "title": "Associate Head Coach",
         "email": "casey.handrahan@uconn.edu"
+      },
+      {
+        "name": "Ainsley Svetek",
+        "title": "Assistant Coach",
+        "email": "ainsley.svetek@uconn.edu"
       },
       {
         "name": "Matthew LaMalfa",
@@ -2727,11 +2757,6 @@
         "name": "Kelli Hays",
         "title": "Office Coordinator - Hockey",
         "email": "haysk@union.edu"
-      },
-      {
-        "name": "Ainsley Svetek",
-        "title": "Assistant Coach",
-        "email": "ainsley.svetek@uconn.edu"
       }
     ]
   },
@@ -2787,9 +2812,9 @@
         "email": "Victoria.Blake@uvm.edu"
       },
       {
-        "name": "Emma Hindes",
-        "title": "Athletic Trainer (Women's Hockey)",
-        "email": "Emma.Hindes@uvm.edu"
+        "name": "Hugo Turcotte",
+        "title": "Assistant Coach / Dir of Ops",
+        "email": "Hugo.Turcotte@uvm.edu"
       },
       {
         "name": "Evan Pane",
@@ -2800,6 +2825,11 @@
         "name": "Peri Brooks-Randall",
         "title": "Assistant Athletic Performance Coach",
         "email": "peri.brooks-randall@uvm.edu"
+      },
+      {
+        "name": "Emma Hindes",
+        "title": "Athletic Trainer (Women's Hockey)",
+        "email": "Emma.Hindes@uvm.edu"
       }
     ]
   },
