@@ -2635,9 +2635,9 @@
           "rp": "F"
         },
         {
-          "pk": "gabrielleboose|abigail",
+          "pk": "boose|abigail",
           "n": "88",
-          "name": "Abby (Gabrielle) Boose",
+          "name": "Abby Boose",
           "ry": "2008",
           "rg": "2026",
           "rp": "F"
@@ -10285,9 +10285,9 @@
           "rp": "F / D"
         },
         {
-          "pk": "xug|brooke",
+          "pk": "xu|brooke",
           "n": "1",
-          "name": "Brooke Xu (G)",
+          "name": "Brooke Xu",
           "ry": "",
           "rg": "2030",
           "rp": "G"
@@ -10647,9 +10647,9 @@
           "rp": "D"
         },
         {
-          "pk": "gabbyogunnupe|gabriella",
+          "pk": "ogunnupe|gabriella",
           "n": "29",
-          "name": "Gabriella (Gabby) Ogunnupe",
+          "name": "Gabriella Ogunnupe",
           "ry": "",
           "rg": "2027",
           "rp": "D"
@@ -10794,14 +10794,6 @@
           "pk": "mckiernan|kathryn",
           "n": "4",
           "name": "Kathryn Mckiernan",
-          "ry": "",
-          "rg": "",
-          "rp": ""
-        },
-        {
-          "pk": "ogunnupe|gabriella",
-          "n": "29",
-          "name": "Gabriella Ogunnupe",
           "ry": "",
           "rg": "",
           "rp": ""
@@ -11605,9 +11597,9 @@
           "rp": "F"
         },
         {
-          "pk": "livbailey|olivia",
+          "pk": "bailey|olivia",
           "n": "41",
-          "name": "Olivia (Liv) Bailey",
+          "name": "Olivia Bailey",
           "ry": "2008",
           "rg": "2026",
           "rp": "F"
@@ -11659,14 +11651,6 @@
           "ry": "2008",
           "rg": "2027",
           "rp": "G"
-        },
-        {
-          "pk": "bailey|olivia",
-          "n": "41",
-          "name": "Olivia Bailey",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
         }
       ]
     },
@@ -16235,9 +16219,9 @@
           "rp": "F"
         },
         {
-          "pk": "emilyyuan|jiawei",
+          "pk": "yuan|jiawei",
           "n": "5",
-          "name": "Jiawei (Emily) Yuan",
+          "name": "Jiawei Yuan",
           "ry": "2010",
           "rg": "2028",
           "rp": "F"
@@ -18517,17 +18501,17 @@
           "rp": "D"
         },
         {
-          "pk": "mcfarlanea|quinn",
+          "pk": "mcfarlane|quinn",
           "n": "51",
-          "name": "Quinn McFarlane (\"A\")",
+          "name": "Quinn McFarlane",
           "ry": "2008",
           "rg": "2026",
           "rp": "D"
         },
         {
-          "pk": "baileyinjured|makayla",
+          "pk": "bailey|makayla",
           "n": "91",
-          "name": "Makayla Bailey (Injured)",
+          "name": "Makayla Bailey",
           "ry": "2009",
           "rg": "2028",
           "rp": "D"
@@ -18541,9 +18525,9 @@
           "rp": "D"
         },
         {
-          "pk": "fisherc|kaylynn",
+          "pk": "fisher|kaylynn",
           "n": "94",
-          "name": "Kaylynn Fisher (\"C\")",
+          "name": "Kaylynn Fisher",
           "ry": "2008",
           "rg": "2026",
           "rp": "D"
@@ -18589,9 +18573,9 @@
           "rp": "F"
         },
         {
-          "pk": "galliaha|cora",
+          "pk": "galliah|cora",
           "n": "17",
-          "name": "Cora Galliah (\"A\")",
+          "name": "Cora Galliah",
           "ry": "2009",
           "rg": "2027",
           "rp": "F"
@@ -18613,9 +18597,9 @@
           "rp": "F"
         },
         {
-          "pk": "vranaa|ava",
+          "pk": "vrana|ava",
           "n": "24",
-          "name": "Ava Vrana (\"A\")",
+          "name": "Ava Vrana",
           "ry": "2008",
           "rg": "2026",
           "rp": "F"
@@ -19872,22 +19856,6 @@
           "pk": "nadaud|nadiya",
           "n": "8",
           "name": "Nadiya Nadaud",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "catedougherty|cathryn",
-          "n": "41",
-          "name": "Cathryn (Cate) Dougherty",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "maddieschiff|madeleine",
-          "n": "23",
-          "name": "Madeleine (Maddie) Schiff",
           "ry": "",
           "rg": "",
           "rp": "Defense"
@@ -24217,9 +24185,9 @@
           "rp": "Defense"
         },
         {
-          "pk": "emmegrinsteinner|emerson",
+          "pk": "grinsteinner|emerson",
           "n": "6",
-          "name": "Emerson (Emme) Grinsteinner",
+          "name": "Emerson Grinsteinner",
           "ry": "",
           "rg": "",
           "rp": "Defense"
@@ -25411,9 +25379,9 @@
           "rp": "D"
         },
         {
-          "pk": "josienelson|josefina",
+          "pk": "nelson|josephine",
           "n": "97",
-          "name": "Josefina (Josie) Nelson",
+          "name": "Josie Nelson",
           "ry": "",
           "rg": "2029",
           "rp": "D"
@@ -46597,9 +46565,9 @@
           "rp": "F"
         },
         {
-          "pk": "gigistaikos|georgiana",
+          "pk": "staikos|georgiana",
           "n": "24",
-          "name": "Georgiana (Gigi) Staikos",
+          "name": "Georgiana Staikos",
           "ry": "2012",
           "rg": "2031",
           "rp": "F"
@@ -46624,14 +46592,6 @@
           "pk": "cheng|melinda",
           "n": "12",
           "name": "Melinda Cheng",
-          "ry": "",
-          "rg": "",
-          "rp": ""
-        },
-        {
-          "pk": "staikos|georgiana",
-          "n": "24",
-          "name": "Georgiana Staikos",
           "ry": "",
           "rg": "",
           "rp": ""
@@ -52955,9 +52915,9 @@
       "country": "US",
       "players": [
         {
-          "pk": "adyson|jordyn",
+          "pk": "dyson|jordyn",
           "n": "7",
-          "name": "Jordyn (A) Dyson",
+          "name": "Jordyn Dyson",
           "ry": "",
           "rg": "2028",
           "rp": "D"
@@ -52979,17 +52939,17 @@
           "rp": "D"
         },
         {
-          "pk": "agolub|josephine",
+          "pk": "golub|josephine",
           "n": "18",
-          "name": "Josie (A) Golub",
+          "name": "Josie Golub",
           "ry": "",
           "rg": "2028",
           "rp": "D"
         },
         {
-          "pk": "clorelli|sofia",
+          "pk": "lorelli|sofia",
           "n": "24",
-          "name": "Sofia (C) Lorelli",
+          "name": "Sofia Lorelli",
           "ry": "",
           "rg": "2028",
           "rp": "D"
@@ -53461,17 +53421,17 @@
           "rp": "D"
         },
         {
-          "pk": "catedougherty|cathryn",
+          "pk": "dougherty|cathryn",
           "n": "41",
-          "name": "Cathryn (Cate) Dougherty",
+          "name": "Cathryn Dougherty",
           "ry": "",
           "rg": "2028",
           "rp": "D"
         },
         {
-          "pk": "tessaprea|theresa",
+          "pk": "aprea|theresa",
           "n": "8",
-          "name": "Theresa (Tess) Aprea",
+          "name": "Theresa Aprea",
           "ry": "",
           "rg": "2030",
           "rp": "F"
@@ -53485,9 +53445,9 @@
           "rp": "F"
         },
         {
-          "pk": "lillycunningham|lillian",
+          "pk": "cunningham|lillian",
           "n": "12",
-          "name": "Lillian (Lilly) Cunningham",
+          "name": "Lillian Cunningham",
           "ry": "",
           "rg": "2029",
           "rp": "F"
@@ -53517,17 +53477,17 @@
           "rp": "F"
         },
         {
-          "pk": "lexipeace|alexia",
+          "pk": "peace|alexia",
           "n": "40",
-          "name": "Alexia (Lexi) Peace",
+          "name": "Alexia Peace",
           "ry": "",
           "rg": "2030",
           "rp": "F"
         },
         {
-          "pk": "ellacruciano|elliana",
+          "pk": "cruciano|elliana",
           "n": "86",
-          "name": "Elliana (Ella) Cruciano",
+          "name": "Elliana Cruciano",
           "ry": "",
           "rg": "2028",
           "rp": "F"
@@ -53565,9 +53525,9 @@
           "rp": "F"
         },
         {
-          "pk": "lesiakinal|alexandra",
+          "pk": "kinal|alexandra",
           "n": "30",
-          "name": "Alexandra (Lesia) Kinal",
+          "name": "Alexandra Kinal",
           "ry": "",
           "rg": "2029",
           "rp": "G"
@@ -58013,7 +57973,7 @@
       ]
     },
     {
-      "team": "Ottawa Senators Women's Hockey Club 16U",
+      "team": "Ottawa Senators 16U",
       "country": "CAN",
       "players": [
         {
@@ -58155,7 +58115,7 @@
       ]
     },
     {
-      "team": "Ottawa Senators Women's Hockey Club 19U",
+      "team": "Ottawa Senators 19U",
       "country": "CAN",
       "players": [
         {
