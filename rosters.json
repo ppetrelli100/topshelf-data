@@ -54010,7 +54010,7 @@
           "pk": "arsenault|olivia",
           "n": "40",
           "name": "Olivia Arsenault",
-          "ry": "",
+          "ry": "2010",
           "rg": "2029",
           "rp": "G"
         },
@@ -54478,6 +54478,172 @@
           "name": "Grace Merrill-Torres",
           "ry": "",
           "rg": "2031",
+          "rp": "G"
+        }
+      ]
+    },
+    {
+      "team": "Lovell Academy 14U",
+      "country": "US",
+      "players": [
+        {
+          "pk": "anderson|ali",
+          "n": "6",
+          "name": "Ali Anderson",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "abrams|ellis",
+          "n": "22",
+          "name": "Ellis Abrams",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "jaybendza|ella",
+          "n": "13",
+          "name": "Ella Jay Bendza",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "desrosiers|brynlee",
+          "n": "20",
+          "name": "Brynlee Desrosiers",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "gasca|reagan",
+          "n": "9",
+          "name": "Reagan Gasca",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "kuscher|mia",
+          "n": "11",
+          "name": "Mia Kuscher",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "akiya|allee",
+          "n": "12",
+          "name": "Allee Akiya",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "bussey|noelle",
+          "n": "88",
+          "name": "Noelle Bussey",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "cameron|aubrie",
+          "n": "91",
+          "name": "Aubrie Cameron",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "doran|ella",
+          "n": "10",
+          "name": "Ella Doran",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "giovonti|reese",
+          "n": "23",
+          "name": "Reese Giovonti",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "jacobs|khloe",
+          "n": "87",
+          "name": "Khloe Jacobs",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "koskiniemi|piper",
+          "n": "19",
+          "name": "Piper Koskiniemi",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "kulakofsky|alana",
+          "n": "18",
+          "name": "Alana Kulakofsky",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "spry|emily",
+          "n": "5",
+          "name": "Emily Spry",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "taylor|molly",
+          "n": "2",
+          "name": "Molly Taylor",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "thomas|myla",
+          "n": "29",
+          "name": "Myla Thomas",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "vogelgesang|louisa",
+          "n": "27",
+          "name": "Louisa Vogelgesang",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "corum|aria",
+          "n": "30",
+          "name": "Aria Corum",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "G"
+        },
+        {
+          "pk": "strano|emma",
+          "n": "79",
+          "name": "Emma Strano",
+          "ry": "2012",
+          "rg": "2030",
           "rp": "G"
         }
       ]
@@ -57096,7 +57262,7 @@
           "pk": "ball|ashlynn",
           "n": "4",
           "name": "Ashlynn Ball",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "D"
         },
@@ -57120,7 +57286,7 @@
           "pk": "macisaac|avery",
           "n": "9",
           "name": "Avery MacIsaac",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "D"
         },
@@ -57160,7 +57326,7 @@
           "pk": "godwin|lauren",
           "n": "17",
           "name": "Lauren Godwin",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F"
         },
@@ -57216,7 +57382,7 @@
           "pk": "adomaitis|addison",
           "n": "34",
           "name": "Addison Adomaitis",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "G"
         },
