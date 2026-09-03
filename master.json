@@ -41421,7 +41421,7 @@
     "PersonKey": "glass|sienna",
     "BirthYr": 2009,
     "DOB": "2/1/2009",
-    "Grad": 2029,
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'6\"",
     "Weight": 150,
@@ -41435,10 +41435,9 @@
     "Team2025": "East Coast Wizards 16U",
     "Team": "East Coast Wizards",
     "College": "Providence",
-    "Fresh": "U1617",
-    "Soph": "U1617",
-    "Jr": "x",
-    "Sr": "x",
+    "Soph": "U15",
+    "Jr": "U1617",
+    "Sr": "U1617",
     "Highest": "U1617"
   },
   {
