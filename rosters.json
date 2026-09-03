@@ -59853,6 +59853,172 @@
       ]
     },
     {
+      "team": "Shattuck St. Marys 16U",
+      "country": "US",
+      "players": [
+        {
+          "pk": "advani|morah",
+          "n": "3",
+          "name": "Morah Advani",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "krushelniski|jaiden",
+          "n": "4",
+          "name": "Jaiden Krushelniski",
+          "ry": "2010",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "mah|morgan",
+          "n": "12",
+          "name": "Morgan Mah",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "bevan|anne",
+          "n": "17",
+          "name": "Annie Bevan",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "pape|emma",
+          "n": "18",
+          "name": "Emma Pape",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "hall|brooke",
+          "n": "22",
+          "name": "Brooke Hall",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "king|dylan",
+          "n": "8",
+          "name": "Dylan King",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "golden|giuliana",
+          "n": "9",
+          "name": "Giuliana Golden",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "molnar|eva",
+          "n": "10",
+          "name": "Eva Molnar",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "smith|campbell",
+          "n": "11",
+          "name": "Campbell Smith",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "belanger|eva",
+          "n": "13",
+          "name": "Eva Belanger",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "monaco|elena",
+          "n": "14",
+          "name": "Elena Monaco",
+          "ry": "2010",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "edgar|baylin",
+          "n": "15",
+          "name": "Baylin Edgar",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "cling|reagan",
+          "n": "16",
+          "name": "Reagan Cling",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "ptak|nora",
+          "n": "19",
+          "name": "Nora Ptak",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "cinquino|tommie",
+          "n": "21",
+          "name": "Tommie Cinquino",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "hovsepian|talia",
+          "n": "23",
+          "name": "Talia Hovsepian",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "wilson|kylie",
+          "n": "7",
+          "name": "Kylie Wilson",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F/D"
+        },
+        {
+          "pk": "holmen|alli",
+          "n": "1",
+          "name": "Alli Holmen",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
+        },
+        {
+          "pk": "hoppe|addison",
+          "n": "30",
+          "name": "Addie Hoppe",
+          "ry": "2011",
+          "rg": "2028",
+          "rp": "G"
+        }
+      ]
+    },
+    {
       "team": "St. Louis Blues 14U",
       "country": "US",
       "players": [
