@@ -4073,8 +4073,8 @@
     "pre": "CO",
     "Country": "USA",
     "State/Prov": "CO",
-    "Date Added": "",
-    "Week": "",
+    "Date Added": "11/22/2023",
+    "Week": -81,
     "BirthYr": 2006,
     "personkey": "latka|evelyn",
     "WNT-O": "",
@@ -4086,13 +4086,13 @@
     "DOB clean": "6/15/2006",
     "HIghest": "U15",
     "Highest as of announcement": "",
-    "Date Added_clean": "",
+    "Date Added_clean": "11/22/2023",
     "BirthYr2": 2006,
     "Tier": 4,
     "Yr1": "U15",
     "Yr2": "",
     "Yr3": "",
-    "Insta": ""
+    "Insta": "https://www.instagram.com/p/Cz96ewigvlM/?img_index=1"
   },
   {
     "NAME": "Sade Sandilands",
@@ -4108,8 +4108,8 @@
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "ALB",
-    "Date Added": "",
-    "Week": "",
+    "Date Added": "2/26/2024",
+    "Week": -67,
     "BirthYr": 2007,
     "personkey": "sandilands|sade",
     "WNT-O": "",
@@ -4121,13 +4121,13 @@
     "DOB clean": "6/23/2007",
     "HIghest": "U18-C",
     "Highest as of announcement": "",
-    "Date Added_clean": "",
+    "Date Added_clean": "2/26/2024",
     "BirthYr2": 2007,
     "Tier": 3,
     "Yr1": "",
     "Yr2": "TmAB",
     "Yr3": "U18-C",
-    "Insta": ""
+    "Insta": "https://www.instagram.com/p/C300RvEy0n5/"
   },
   {
     "NAME": "Darragh Browne",
@@ -4143,8 +4143,8 @@
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "ONT",
-    "Date Added": "",
-    "Week": "",
+    "Date Added": "9/29/2023",
+    "Week": -89,
     "BirthYr": 2007,
     "personkey": "browne|darragh",
     "WNT-O": "",
@@ -4156,13 +4156,13 @@
     "DOB clean": "6/18/2007",
     "HIghest": "",
     "Highest as of announcement": "",
-    "Date Added_clean": "",
+    "Date Added_clean": "9/29/2023",
     "BirthYr2": 2007,
     "Tier": 3,
     "Yr1": "",
     "Yr2": "",
     "Yr3": "",
-    "Insta": ""
+    "Insta": "https://www.instagram.com/p/CxxmnQUu1Lt/"
   },
   {
     "NAME": "Paige Fong",
@@ -4178,8 +4178,8 @@
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "ONT",
-    "Date Added": "",
-    "Week": "",
+    "Date Added": "1/7/2024",
+    "Week": -74,
     "BirthYr": 2006,
     "personkey": "fong|paige",
     "WNT-O": "",
@@ -4191,13 +4191,13 @@
     "DOB clean": 2006,
     "HIghest": "",
     "Highest as of announcement": "",
-    "Date Added_clean": "",
+    "Date Added_clean": "1/7/2024",
     "BirthYr2": 2006,
     "Tier": 3,
     "Yr1": "",
     "Yr2": "",
     "Yr3": "",
-    "Insta": ""
+    "Insta": "https://www.instagram.com/p/C10Fvmcvj9j/"
   },
   {
     "NAME": "Isabelle Michaud",
@@ -4318,8 +4318,8 @@
     "pre": "MN",
     "Country": "USA",
     "State/Prov": "MN",
-    "Date Added": "",
-    "Week": "",
+    "Date Added": "3/18/2024",
+    "Week": -64,
     "BirthYr": 2007,
     "personkey": "rucinski|campbell",
     "WNT-O": "",
@@ -4331,13 +4331,13 @@
     "DOB clean": "2/6/2007",
     "HIghest": "U1617",
     "Highest as of announcement": "",
-    "Date Added_clean": "",
+    "Date Added_clean": "3/18/2024",
     "BirthYr2": 2007,
     "Tier": 3,
     "Yr1": "U15",
     "Yr2": "",
     "Yr3": "U1617",
-    "Insta": ""
+    "Insta": "https://www.instagram.com/p/C4qcKY0uO7a/?img_index=1"
   },
   {
     "NAME": "Tara Bach",
@@ -15607,7 +15607,7 @@
     "Yr1": "",
     "Yr2": "",
     "Yr3": "",
-    "Insta": "https://x.com/WHockeyCommits/status/1900265521183862881"
+    "Insta": "https://www.instagram.com/p/DAMhfJxPOte/"
   },
   {
     "NAME": "Charlotte Dukovac",
@@ -16867,7 +16867,7 @@
     "Yr1": "",
     "Yr2": "",
     "Yr3": "",
-    "Insta": "https://sportsrecruits.com/athlete/helena_wisner"
+    "Insta": "https://www.instagram.com/p/DBd4tEaxQvK/"
   },
   {
     "NAME": "Morgan Stickney",
@@ -36989,8 +36989,8 @@
     "Date Added_clean": "9/2/2026",
     "BirthYr2": 2010,
     "Tier": 3,
-    "Yr1": "",
-    "Yr2": "",
+    "Yr1": "U15",
+    "Yr2": "U1617",
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DczA0M-EmZV/?img_index=1"
   },
@@ -37024,9 +37024,9 @@
     "Date Added_clean": "9/2/2026",
     "BirthYr2": 2009,
     "Tier": 2,
-    "Yr1": "",
-    "Yr2": "",
-    "Yr3": "",
+    "Yr1": "U15",
+    "Yr2": "U1617",
+    "Yr3": "U1617",
     "Insta": "https://www.instagram.com/p/DczHEOngbQp/?hl=en&img_index=1"
   }
 ]
