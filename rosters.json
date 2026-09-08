@@ -68427,171 +68427,155 @@
       "country": "CAN",
       "players": [
         {
-          "pk": "mackinnon|alyssa",
-          "n": "6",
-          "name": "Alyssa MacKinnon",
+          "pk": "pasma|katherine",
+          "n": "13",
+          "name": "Kate Pasma",
           "ry": "2009",
           "rg": "2027",
           "rp": "D"
         },
         {
-          "pk": "macdougall|charleigh",
-          "n": "7",
-          "name": "Charleigh MacDougall",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "D"
-        },
-        {
-          "pk": "bennett|sophia",
-          "n": "8",
-          "name": "Sophie Bennett",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "D"
-        },
-        {
-          "pk": "pereiramorrey|elin",
-          "n": "22",
-          "name": "Elin Pereira-Morrey",
-          "ry": "2008",
-          "rg": "PG",
-          "rp": "D"
-        },
-        {
-          "pk": "bouwens|piper",
-          "n": "81",
-          "name": "Piper Bouwens",
-          "ry": "2010",
-          "rg": "2028",
-          "rp": "D"
-        },
-        {
-          "pk": "ford|katherine",
-          "n": "91",
-          "name": "Kate Ford",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "D"
-        },
-        {
-          "pk": "reardon|camryn",
-          "n": "2",
-          "name": "Camryn Reardon",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F"
-        },
-        {
-          "pk": "macneil|floragael",
-          "n": "5",
-          "name": "Floragael MacNeil",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F"
-        },
-        {
-          "pk": "herring|katelyn",
-          "n": "9",
-          "name": "Katelyn Herring",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F"
-        },
-        {
-          "pk": "macphee|avery",
-          "n": "11",
-          "name": "Avery MacPhee",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F"
-        },
-        {
-          "pk": "dekkers|lillian",
-          "n": "14",
-          "name": "Lily Dekkers",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F"
-        },
-        {
-          "pk": "stordy|shaelynn",
-          "n": "16",
-          "name": "Shaelynn Stordy",
-          "ry": "2010",
-          "rg": "2028",
-          "rp": "F"
-        },
-        {
-          "pk": "macdonald|katherine",
+          "pk": "matthon|laila",
           "n": "17",
-          "name": "Kate MacDonald",
+          "name": "Laila Matthon",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "D"
+        },
+        {
+          "pk": "ho|kika",
+          "n": "62",
+          "name": "Kika Ho",
+          "ry": "2008",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "blockmakokis|sophia",
+          "n": "71",
+          "name": "Sophia Makokis",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "D"
+        },
+        {
+          "pk": "tran|caitlyn",
+          "n": "81",
+          "name": "Caitlyn Tran",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "giacomodonato|ava",
+          "n": "83",
+          "name": "Ava Giacomodonato",
+          "ry": "2009",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "bettle|claire",
+          "n": "9",
+          "name": "Claire Bettle",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "peddle|casey",
+          "n": "12",
+          "name": "Casey Peddle",
+          "ry": "2008",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "lecuyer|haylee-kaydence",
+          "n": "16",
+          "name": "Haylee Lecuyer",
           "ry": "2010",
           "rg": "2028",
           "rp": "F"
         },
         {
-          "pk": "bell|sophia",
+          "pk": "wang|nancy",
+          "n": "18",
+          "name": "Nancy Wang",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "zunn|chloe",
           "n": "19",
-          "name": "Sophia Bell",
+          "name": "Chloe Zunn",
+          "ry": "2009",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "fadista|madison",
+          "n": "24",
+          "name": "Madison Fadista",
           "ry": "2011",
           "rg": "2029",
           "rp": "F"
         },
         {
-          "pk": "mcgillian|molly",
-          "n": "21",
-          "name": "Molly McGillian",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F"
-        },
-        {
-          "pk": "goddard|penelope",
-          "n": "55",
-          "name": "Penelope Goddard",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F"
-        },
-        {
-          "pk": "cote|charlotte",
-          "n": "71",
-          "name": "Charlie Cote",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F"
-        },
-        {
-          "pk": "hill|lucy",
-          "n": "77",
-          "name": "Lucy Hill",
-          "ry": "2008",
-          "rg": "PG",
-          "rp": "F"
-        },
-        {
-          "pk": "simard|zia",
-          "n": "1",
-          "name": "Zia Simard",
-          "ry": "2009",
+          "pk": "soja|audrey",
+          "n": "27",
+          "name": "Audrey Soja",
+          "ry": "2010",
           "rg": "2028",
-          "rp": "G"
+          "rp": "F"
         },
         {
-          "pk": "gyocsi|petra",
-          "n": "31",
-          "name": "Petra Gyocsi",
+          "pk": "theron|jaime",
+          "n": "34",
+          "name": "Jaime Theron",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "sabourin|ella",
+          "n": "49",
+          "name": "Ella Sabourin",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "staley|sarah",
+          "n": "66",
+          "name": "Sarah Staley",
           "ry": "2008",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "vinci|gianna",
+          "n": "91",
+          "name": "Gianna Vinci",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "hepburn|olivia",
+          "n": "1",
+          "name": "Olivia Hepburn",
+          "ry": "2009",
           "rg": "2027",
           "rp": "G"
         },
         {
-          "pk": "ancliffe|emma",
-          "n": "88",
-          "name": "Emma Ancliffe",
-          "ry": "2011",
-          "rg": "2029",
+          "pk": "gouadec|revan",
+          "n": "47",
+          "name": "Revan Gouadec",
+          "ry": "2010",
+          "rg": "2028",
           "rp": "G"
         }
       ]
