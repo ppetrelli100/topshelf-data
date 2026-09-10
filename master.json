@@ -18,12 +18,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "London",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "London U15AA",
     "Team2025": "London U15AA",
     "Team": "London",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Elena Abad Chisholm",
@@ -158,9 +161,9 @@
     "City": "Peachland",
     "State": "BCO",
     "Country": "CAN",
-    "Fresh": "TmBC",
+    "Fresh": "BCcamp",
     "Soph": "BCcamp",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Mia Abousaleh",
@@ -588,10 +591,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "D",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Sudbury U15AA",
     "Team2024": "Sudbury U18AA",
     "Team2025": "Sudbury U18AA",
-    "Team": "Sudbury"
+    "Team": "Sudbury",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kaija Adler",
@@ -607,8 +614,12 @@
     "PersonKey": "adm|charlize",
     "Grad": 2028,
     "Position": "D",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Ottawa 67s U15AA",
-    "Team2024": "Ottawa 67s U15AA"
+    "Team2024": "Ottawa 67s U15AA",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Addison Adomaitis",
@@ -617,12 +628,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Grace Adriaanse",
@@ -872,6 +886,7 @@
     "Team2025": "Whitby U22AA",
     "Team": "Whitby",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -976,9 +991,21 @@
   {
     "Name": "Nana Akimoto",
     "PersonKey": "akimoto|nana",
+    "BirthYr": 2009,
+    "DOB": "4/8/2009",
     "Grad": 2028,
-    "Position": "F",
-    "Team2023": "Japan Ihf 16U"
+    "Position": "D",
+    "City": "Nagano",
+    "State": "JPN",
+    "Country": "Intl",
+    "Team2023": "Japan Ihf 16U",
+    "College": "Vermont",
+    "Fresh": "WNT-O",
+    "Soph": "WNT-O",
+    "Jr": "WNT-O",
+    "Sr": "x",
+    "Highest": "WNT-O",
+    "Notable": "Team Japan Olympics 2026 - U18 2024,2025,2026 (3X)"
   },
   {
     "Name": "Ailee Akiya",
@@ -1450,8 +1477,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "D",
+    "City": "Pembroke",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Ottawa Lady 67'S U15AA",
-    "Team": "Ottawa Lady"
+    "Team": "Ottawa Lady",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Addison Allen",
@@ -1728,7 +1760,9 @@
     "Team2024": "East Ottawa Stars U15AA",
     "Team2025": "Ottawa Lady 67'S U22AA",
     "Team": "Ottawa Lady",
-    "College": "RIT"
+    "College": "RIT",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Alex Almy",
@@ -2427,8 +2461,8 @@
     "Country": "CAN",
     "Team": "Pembina Valley",
     "College": "Adrian",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Lauren Anderson",
@@ -2780,9 +2814,13 @@
     "PersonKey": "annett|julia",
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Waterloo U15AA",
     "Team2025": "Waterloo U22AA",
-    "Team": "Waterloo"
+    "Team": "Waterloo",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Molly Anslow",
@@ -2958,8 +2996,8 @@
     "Team2024": "Stoney Creek 3419",
     "Team": "Stoney Creek Sabres",
     "College": "UCONN",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Michelle â€œemmieâ€ Lembcke",
@@ -3040,7 +3078,12 @@
     "PersonKey": "apps|mathilda",
     "BirthYr": 2011,
     "Grad": 2029,
-    "Position": "F"
+    "Position": "F",
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Theresa Aprea",
@@ -3077,6 +3120,7 @@
     "Team": "Durham West",
     "College": "UCONN",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -3498,8 +3542,8 @@
     "State": "NBR",
     "Country": "CAN",
     "Team": "Stanstead College",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Maxine Arsenault",
@@ -3664,9 +3708,9 @@
     "Country": "CAN",
     "Team": "Saskatoon Stars",
     "College": "RIT",
-    "Jr": "TmSK",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Emelya Asher",
@@ -3780,7 +3824,7 @@
     "College": "RIT",
     "Soph": "U15",
     "Jr": "U1617",
-    "Sr": "TmSK",
+    "Sr": "SKcamp",
     "Highest": "U1617"
   },
   {
@@ -3900,8 +3944,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Sault Ste. Marie",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Sault Ste Marie U18AA",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Avery Atkinson",
@@ -3980,9 +4029,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Brighton",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Whitby U15AA",
     "Team2025": "Peterborough U15AA",
-    "Team": "Peterborough"
+    "Team": "Peterborough",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Anna Aucoin AP",
@@ -4287,8 +4340,8 @@
     "Team2025": "Waterloo U22AA",
     "Team": "Waterloo",
     "CCM68": "Yes",
-    "Jr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Elizabeth Averill",
@@ -4504,8 +4557,8 @@
     "Team2023": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Boston College",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Olivia Babiak",
@@ -4607,8 +4660,8 @@
     "Team2024": "Stoney Creek 3419",
     "Team": "Stoney Creek Sabres",
     "College": "Mercyhurst",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R",
+    "Sr": "ONcamp",
+    "Highest": "ONcamp",
     "Notable": "Team Germany U18"
   },
   {
@@ -4900,8 +4953,8 @@
     "Country": "CAN",
     "Team": "Saskatoon",
     "College": "Quinnipiac",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Adalyn Bakalar",
@@ -4980,9 +5033,13 @@
     "PersonKey": "baker|charlotte",
     "BirthYr": 2011,
     "Position": "D",
+    "City": "Ingersoll",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Ayr U15AA",
     "Team2025": "Bluewater U15AA",
-    "Team": "Bluewater"
+    "Team": "Bluewater",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Emily Baker",
@@ -5305,8 +5362,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club 14U",
-    "Team": "Ottawa Senators Women's Hockey Club"
+    "Team": "Ottawa Senators Women's Hockey Club",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Evelyne Ball-Witriak",
@@ -5423,7 +5485,8 @@
     "Team2024": "Thunder Bay U18AA",
     "Team2025": "Thunder Bay U18AA",
     "Team": "Thunder Bay",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Hannah Bannister",
@@ -5445,8 +5508,8 @@
     "Country": "CAN",
     "Team2024": "Balmoral Hall",
     "Team": "Balmoral Hall",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Jessica Bao",
@@ -5849,8 +5912,8 @@
     "Team2024": "Mississauga U22AA",
     "Team": "Mississauga Hurricanes",
     "College": "RIT",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Jessica Barnes",
@@ -5997,8 +6060,8 @@
     "Team2024": "Ottawa Sens U22AA",
     "Team": "Ottawa Lady Senators",
     "College": "Delaware",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Giuliana Barresi",
@@ -6062,7 +6125,7 @@
     "State": "ALB",
     "Country": "CAN",
     "Team": "NWCAA Bruins",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -6353,6 +6416,7 @@
     "Team": "Whitby",
     "College": "Northeastern",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -6404,8 +6468,8 @@
     "Team2023": "Delta Prep Green",
     "Team2024": "Delta Prep Green",
     "Team": "Delta Hockey Academy",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Gisele Batchelder",
@@ -6847,9 +6911,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Ottawa Senators U15AA",
     "Team2025": "Ottawa Senators Women's Hockey Club 14U",
-    "Team": "Ottawa Senators Women's Hockey Club"
+    "Team": "Ottawa Senators Women's Hockey Club",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sinead Beanlands",
@@ -6955,12 +7024,16 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Durham West U15AA",
     "Team2025": "Durham West U15AA",
     "Team": "Durham West",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Belle Beauchesne",
@@ -7138,9 +7211,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "L'Orignal",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "East Ottawa Stars U15AA",
     "Team2025": "East Ottawa Stars U15AA",
-    "Team": "East Ottawa Stars"
+    "Team": "East Ottawa Stars",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Justine Beaumier",
@@ -7196,12 +7274,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Strathroy",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "London U15AA",
     "Team2025": "London U15AA",
     "Team": "London",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Camryn Beauvais",
@@ -7360,9 +7441,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "North Bay",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Sudbury U15AA",
     "Team": "Sudbury",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Florence Bedard",
@@ -7568,9 +7654,9 @@
     "State": "QUE",
     "Country": "CAN",
     "Team": "Spartans de Stanstead",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "QCcamp",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Elodie Belanger",
@@ -7593,9 +7679,9 @@
     "Country": "CAN",
     "Team2025": "Shattuck-St. Mary's 16U",
     "Team": "Shattuck-St. Mary's",
-    "Fresh": "TmQC",
+    "Fresh": "QCcamp",
     "Soph": "QCcamp",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Juliette Belanger",
@@ -7815,9 +7901,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Nepean Wildcats 14U",
     "Team": "Nepean Wildcats",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Grayce Bell",
@@ -7914,12 +8005,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Kingsville",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sofia Belle Ditta",
@@ -8933,8 +9027,8 @@
     "Country": "CAN",
     "Team2024": "South Alberta Hockey Academy",
     "Team": "South Alberta Hockey Academy",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Bianca Bertaccini",
@@ -8961,7 +9055,7 @@
     "Team2024": "Etobicoke U22AA",
     "Team": "Etobicoke Dolphins",
     "College": "Boston University",
-    "Jr": "TmON-R",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025"
@@ -9019,10 +9113,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "G",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Gloucester East Ottawa U15AA",
     "Team2024": "East Ottawa Stars U18AA",
     "Team2025": "East Ottawa Stars U18AA",
-    "Team": "East Ottawa Stars"
+    "Team": "East Ottawa Stars",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Leanne Berube",
@@ -9687,9 +9785,15 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Aurora",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Scarborough U15AA",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Emilia Biotti",
@@ -9749,9 +9853,15 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Markham",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "North York U15AA",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kieva Birmingham",
@@ -9813,9 +9923,9 @@
     "Team2025": "Delta Hockey Academy Green",
     "Team": "Delta Hockey Academy Green",
     "College": "UCONN",
-    "Soph": "TmBC",
+    "Soph": "BCcamp",
     "Jr": "BCcamp",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Bianca Birrittieri",
@@ -9923,10 +10033,10 @@
     "Team2025": "Etobicoke U22AA",
     "Team": "Etobicoke",
     "College": "Cornell",
-    "Soph": "TmQC",
-    "Jr": "TmQC",
+    "Soph": "QCcamp",
+    "Jr": "QCcamp",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Renee Bishop",
@@ -9945,9 +10055,9 @@
     "Team2025": "Etobicoke U22AA",
     "Team": "Etobicoke",
     "College": "Cornell",
-    "Jr": "TmQC",
+    "Jr": "QCcamp",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Ellie Bissell",
@@ -10080,12 +10190,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Wasaga Beach",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Barrie U15AA",
     "Team2025": "Barrie U15AA",
     "Team": "Barrie",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Isla Blackadder",
@@ -10265,9 +10378,9 @@
     "Country": "CAN",
     "Team2025": "Mount Academy",
     "Team": "Mount Academy",
-    "Jr": "TmAtl",
+    "Jr": "ATcamp",
     "Sr": "ATcamp",
-    "Highest": "TmAtl"
+    "Highest": "ATcamp"
   },
   {
     "Name": "Cassidy Blanchard",
@@ -10495,8 +10608,8 @@
     "State": "BCO",
     "Country": "CAN",
     "Team": "Mississauga",
-    "Soph": "TmBC",
-    "Highest": "TmBC"
+    "Soph": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Jessica Blodgett",
@@ -10606,9 +10719,9 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Syracuse",
-    "Jr": "TmAB",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Calissa Bloxam",
@@ -10844,10 +10957,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "London U15AA",
     "Team2024": "London U15AA",
     "Team2025": "London U22AA",
-    "Team": "London"
+    "Team": "London",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Ella Boersma",
@@ -11530,7 +11647,9 @@
     "Team2024": "Ottawa Senators U15AA",
     "Team2025": "Ottawa Senators U22AA",
     "Team": "Ottawa Senators",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Avery Bossert",
@@ -11635,10 +11754,10 @@
     "Team2024": "John Abbott",
     "Team2025": "John Abbott College",
     "Team": "John Abbott College",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Kate Bouchard",
@@ -11680,9 +11799,12 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Sarnia",
     "State": "ONT",
     "Country": "CAN",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Emmlynn Boucher",
@@ -11716,12 +11838,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Alfred",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "East Ottawa Stars U18AA",
     "Team2025": "East Ottawa Stars U18AA",
     "Team": "East Ottawa Stars",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Laurianne Boudreault",
@@ -11820,10 +11945,10 @@
     "Team2025": "Limoilou Cegep",
     "Team": "Limoilou Cegep",
     "College": "Vermont",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Kaylyn Bourque",
@@ -12114,9 +12239,9 @@
     "Team": "Etobicoke",
     "College": "Boston University",
     "CCM68": "Yes",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "ONcamp",
-    "Highest": "TmON-B"
+    "Highest": "ONcamp"
   },
   {
     "Name": "Madison Bowtell",
@@ -12241,8 +12366,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Nobleton",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Markham-Stouffville U15AA",
-    "Team": "Markham-Stouffville"
+    "Team": "Markham-Stouffville",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Jennifer Boyd",
@@ -12556,8 +12686,8 @@
     "Team2024": "St Marys Academy",
     "Team2025": "Balmoral Hall 19U",
     "Team": "Balmoral Hall",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Leah Bradley",
@@ -12860,8 +12990,8 @@
     "Country": "CAN",
     "Team2025": "Oha Mavericks Tardiff U22AA",
     "Team": "Oha Mavericks Tardiff",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Joanna Braun",
@@ -12936,6 +13066,7 @@
     "Team2025": "Nepean U22AA",
     "Team": "Nepean",
     "College": "Mercyhurst",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -12945,9 +13076,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Nepean Wildcats 14U",
     "Team": "Nepean Wildcats",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Virginia Bray",
@@ -13067,8 +13203,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Regina",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Bayleigh Brekelmans",
@@ -13295,9 +13431,14 @@
     "PersonKey": "brewer|brooke",
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Nepean U15AA",
     "Team2025": "Nepean Wildcats 14U",
-    "Team": "Nepean Wildcats"
+    "Team": "Nepean Wildcats",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Cali Brewer",
@@ -13671,9 +13812,9 @@
     "Team": "Saskatoon Stars",
     "College": "Union",
     "CCM68": "Yes",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "SKcamp",
-    "Highest": "TmSK"
+    "Highest": "SKcamp"
   },
   {
     "Name": "Paulina Broady",
@@ -14606,8 +14747,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Strathroy",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Sarnia Jr Lady Sting U15AA",
-    "Team": "Sarnia Jr Lady Sting"
+    "Team": "Sarnia Jr Lady Sting",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Abby Brumwell",
@@ -14797,9 +14943,15 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Greater Sudbury",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Sudbury U15AA",
     "Team2025": "Sudbury U15AA",
-    "Team": "Sudbury"
+    "Team": "Sudbury",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Madeline Bryant",
@@ -14840,13 +14992,6 @@
     "College": "Mercyhurst"
   },
   {
-    "Name": "Madi Bryk",
-    "PersonKey": "bryk|madi",
-    "Grad": 2027,
-    "Position": "F",
-    "Team2023": "Durham West U15AA"
-  },
-  {
     "Name": "Madison Bryk",
     "PersonKey": "bryk|madison",
     "BirthYr": 2009,
@@ -14857,12 +15002,13 @@
     "City": "Whitby",
     "State": "ONT",
     "Country": "CAN",
+    "Team2023": "Durham West U15AA",
     "Team2024": "Durham West U22AA",
     "Team2025": "Durham West U22AA",
     "Team": "Durham West",
     "College": "Colgate",
     "CCM68": "Yes",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -15396,8 +15542,8 @@
     "Team2024": "London U22AA",
     "Team2025": "London U22AA",
     "Team": "London",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Madilyn Burdette",
@@ -15655,6 +15801,7 @@
     "Team2024": "Mississauga U18AA",
     "Team2025": "Mississauga U18AA",
     "Team": "Mississauga",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -15837,8 +15984,8 @@
     "State": "NSC",
     "Country": "CAN",
     "Team": "Northern",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Naomi Bursey",
@@ -16180,8 +16327,8 @@
     "Country": "CAN",
     "Team": "Saskatoon",
     "College": "RIT",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Quinnlyn Buzinski",
@@ -16587,10 +16734,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Etobicoke U15AA",
     "Team2024": "Etobicoke U18AA",
     "Team2025": "Etobicoke U18AA",
-    "Team": "Etobicoke"
+    "Team": "Etobicoke",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Brownwyn Caithness",
@@ -17081,9 +17232,14 @@
     "PersonKey": "camirand|mikele",
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Nepean U15AA",
     "Team2025": "Nepean Wildcats 14U",
-    "Team": "Nepean Wildcats"
+    "Team": "Nepean Wildcats",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Calleigh Campanelli",
@@ -17123,7 +17279,12 @@
     "PersonKey": "campbell|charli",
     "BirthYr": 2011,
     "Grad": 2029,
-    "Position": "G"
+    "Position": "G",
+    "City": "North Bay",
+    "State": "ONT",
+    "Country": "CAN",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Choi Campbell",
@@ -17195,9 +17356,9 @@
     "Team2024": "Durham West U22AA",
     "Team": "Durham West Lightning",
     "College": "Penn State",
-    "Jr": "TmON-R",
-    "Sr": "TmON-B",
-    "Highest": "TmON-R"
+    "Jr": "ONcamp",
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Mairead Campbell",
@@ -17255,8 +17416,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Notre Dame",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Penelope Campo",
@@ -17384,9 +17545,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Ottawa Senators U15AA",
     "Team2025": "Ottawa Senators Women's Hockey Club 14U",
-    "Team": "Ottawa Senators Women's Hockey Club"
+    "Team": "Ottawa Senators Women's Hockey Club",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Colby Cantor",
@@ -17531,10 +17697,10 @@
     "Country": "CAN",
     "Team2023": "Limoilou",
     "Team": "Limoilou",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Amelie Card",
@@ -17667,8 +17833,8 @@
     "State": "BCO",
     "Country": "CAN",
     "Team": "Notre Dame",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Aidyn Carkner",
@@ -18466,8 +18632,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team": "Edmonton",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Scotia Carruthers",
@@ -18571,8 +18737,8 @@
     "Team2024": "Burlington U22AA",
     "Team": "Burlington Barracudas",
     "College": "Clarkson",
-    "Jr": "TmON-B",
-    "Highest": "TmON-B"
+    "Jr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Miwa Carter",
@@ -18685,8 +18851,8 @@
     "Country": "CAN",
     "Team2025": "Winnipeg Ice 19U",
     "Team": "Winnipeg Ice",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Khloe Carvalho",
@@ -18767,9 +18933,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Nepean U15AA",
     "Team2025": "Nepean Wildcats 14U",
-    "Team": "Nepean Wildcats"
+    "Team": "Nepean Wildcats",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Brooke Casey",
@@ -18996,7 +19167,11 @@
     "PersonKey": "catalano|gabrielle",
     "BirthYr": 2010,
     "Grad": 2028,
-    "Position": "F"
+    "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Mia Catalano",
@@ -19714,7 +19889,9 @@
     "Team2025": "Toronto-Leaside U22AA",
     "Team": "Toronto-Leaside",
     "College": "Brown",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Ashlyn Chan",
@@ -19760,9 +19937,13 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "D",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Hamilton U15AA",
     "Team2025": "Oakville U22AA",
-    "Team": "Oakville"
+    "Team": "Oakville",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kiera Chan",
@@ -19876,7 +20057,7 @@
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Ava Chapin",
@@ -19983,8 +20164,8 @@
     "State": "PEI",
     "Country": "CAN",
     "Team": "Eastern",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Natalie Chappell",
@@ -20062,8 +20243,8 @@
     "Team2024": "Stoney Creek 3419",
     "Team": "Stoney Creek Sabres",
     "College": "Dartmouth",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Bella Charest",
@@ -20132,8 +20313,8 @@
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
     "College": "Vermont",
-    "Sr": "TmQC",
-    "Highest": "TmQC"
+    "Sr": "QCcamp",
+    "Highest": "QCcamp"
   },
   {
     "Name": "Hannah Charles",
@@ -20308,8 +20489,8 @@
     "Team2025": "Durham West U22AA",
     "Team": "Durham West",
     "College": "UCONN",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Angelina Che",
@@ -20743,7 +20924,7 @@
     "Team2025": "OHA Edmonton 19U",
     "Team": "OHA Edmonton",
     "College": "Minnesota",
-    "Soph": "TmAB",
+    "Soph": "ABcamp",
     "Jr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -20813,8 +20994,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "St-Albert",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "East Ottawa Stars U15AA",
-    "Team": "East Ottawa Stars"
+    "Team": "East Ottawa Stars",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Ali Chisholm",
@@ -21092,10 +21278,10 @@
     "Team2023": "Limoilou",
     "Team2024": "Limoilou",
     "Team": "Limoilou",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Addison Chown",
@@ -21276,7 +21462,7 @@
     "State": "ALB",
     "Country": "CAN",
     "Team": "Edmonton",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -21797,6 +21983,7 @@
     "Team2025": "Central York U22AA",
     "Team": "Central York",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -21923,8 +22110,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Nepean Wildcats 14U",
-    "Team": "Nepean Wildcats"
+    "Team": "Nepean Wildcats",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Trinity Clark",
@@ -22556,8 +22748,8 @@
     "Team2023": "Balmoral Hall",
     "Team2024": "RHA Winnipeg",
     "Team": "RHA Winnipeg",
-    "Jr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Ryan Coddington",
@@ -22925,7 +23117,7 @@
     "Team2024": "Delta Prep Green",
     "Team": "Delta Hockey Academy",
     "College": "Minnesota -Duluth",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -23006,12 +23198,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Simcoe",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Stoney Creek U15AA",
     "Team2025": "Burlington Barracudas 14U",
     "Team": "Burlington Barracudas",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Emma Collacchi",
@@ -23559,8 +23754,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Winnipeg Ice",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Mika Conaty",
@@ -23616,10 +23811,10 @@
     "School": "John Abbott College (QC)",
     "Team2025": "John Abbott College",
     "Team": "John Abbott College",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Erica Congdon",
@@ -23846,9 +24041,14 @@
     "PersonKey": "conrad|kendall",
     "Grad": 2029,
     "Position": "D",
+    "City": "Kitchener",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Kitchener U15AA",
     "Team2025": "Kitchener U15AA",
-    "Team": "Kitchener"
+    "Team": "Kitchener",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Rayne Consatntine",
@@ -24246,7 +24446,7 @@
     "Team2025": "OHA Edmonton 19U",
     "Team": "OHA Edmonton",
     "College": "Quinnipiac",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -24281,9 +24481,9 @@
     "Country": "CAN",
     "Team2023": "Delta Prep Green",
     "Team2024": "Delta Prep Green",
-    "Jr": "TmBC",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Jr": "BCcamp",
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Adelaide Co-Peeps",
@@ -24577,8 +24777,8 @@
     "Team2023": "Kingston U22AA",
     "Team": "Kingston Ice Wolves",
     "College": "Quinnipiac",
-    "Jr": "TmON-B",
-    "Highest": "TmON-B"
+    "Jr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Sadie Cormier",
@@ -24776,10 +24976,10 @@
     "Team2024": "Limoilou",
     "Team2025": "Limoilou Cegep",
     "Team": "Limoilou Cegep",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Abbey Costa",
@@ -24908,7 +25108,7 @@
     "State": "QUE",
     "Country": "CAN",
     "Team": "Champlain College",
-    "Jr": "TmQC",
+    "Jr": "QCcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -25259,7 +25459,9 @@
     "Team2024": "Barrie U18AA",
     "Team2025": "Barrie U18AA",
     "Team": "Barrie",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Harper Coutts",
@@ -25267,8 +25469,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Balderson",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club 14U",
-    "Team": "Ottawa Senators Women's Hockey Club"
+    "Team": "Ottawa Senators Women's Hockey Club",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sasha Coutu",
@@ -25568,7 +25775,7 @@
     "Team2023": "Shawnigan Lake Prep",
     "Team": "Shawnigan Lake School",
     "College": "Mercyhurst",
-    "Jr": "TmMB",
+    "Jr": "MBcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -25822,7 +26029,9 @@
     "Country": "CAN",
     "Team2023": "Whitby U15AA",
     "Team2024": "Durham West U18AA",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Maddie Cronan",
@@ -25892,8 +26101,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Burlington Barracudas 14U",
-    "Team": "Burlington Barracudas"
+    "Team": "Burlington Barracudas",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Carley Crosby",
@@ -25992,8 +26206,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Brandon",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Camryn Crotteau",
@@ -26317,12 +26531,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Hamilton",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Ancaster U15AA",
     "Team2025": "Ancaster U15AA",
     "Team": "Ancaster",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sophia Cui",
@@ -26401,8 +26618,8 @@
     "Country": "CAN",
     "Team2025": "Rothesay Netherwood School",
     "Team": "Rothesay Netherwood School",
-    "Jr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Kathleen Culvahouse",
@@ -26683,8 +26900,8 @@
     "Country": "CAN",
     "Team": "Edmonton Jr Oilers",
     "College": "Boston University",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Lucy Curran",
@@ -27142,7 +27359,7 @@
     "Position": "F",
     "State": "NBR",
     "Country": "CAN",
-    "Highest": "TmAtl"
+    "Highest": "ATcamp"
   },
   {
     "Name": "Cassidy Dailey",
@@ -27230,7 +27447,12 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
-    "CCM68": "Yes"
+    "City": "Greater Sudbury",
+    "State": "ONT",
+    "Country": "CAN",
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Daviy Dale",
@@ -27499,8 +27721,8 @@
     "Team2023": "Mississauga U22AA",
     "Team": "Mississauga",
     "College": "Brown",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Aubrey Damm",
@@ -28078,8 +28300,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Erin",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Mississauga U15AA",
-    "Team": "Mississauga"
+    "Team": "Mississauga",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sadie Davidson",
@@ -28296,8 +28523,8 @@
     "Team2025": "Calgary Fire 19U",
     "Team": "Calgary Fire",
     "College": "Bemidji State",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Grayson Davis",
@@ -28457,9 +28684,9 @@
     "Country": "CAN",
     "Team2025": "Rothesay Netherwood School",
     "Team": "Rothesay Netherwood School",
-    "Jr": "TmAtl",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Emilie Day",
@@ -28661,9 +28888,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "North York U15AA",
     "Team": "North York",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Irelyn Death",
@@ -28719,10 +28951,10 @@
     "Team2023": "Intrepide De Loutaouais U18",
     "Team2025": "John Abbott College",
     "Team": "John Abbott College",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Tatiana Deblois",
@@ -28738,7 +28970,7 @@
     "Team2024": "College Bourget U18 Prep",
     "Team2025": "College Bourget Varsity",
     "Team": "College Bourget Varsity",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -28853,8 +29085,8 @@
     "Team2024": "Edge School",
     "Team": "Calgary Edge School",
     "College": "Holy Cross",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Hannah Deck",
@@ -29137,9 +29369,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Etobicoke",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Etobicoke U15AA",
     "Team2025": "Durham West U15AA",
-    "Team": "Durham West"
+    "Team": "Durham West",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Cheyenne Degeer",
@@ -29156,9 +29393,9 @@
     "Team2024": "Central York U22AA",
     "Team": "Central York Panthers",
     "College": "St. Lawrence",
-    "Jr": "TmON-B",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R"
+    "Jr": "ONcamp",
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Julianna Degroot",
@@ -29281,9 +29518,9 @@
     "Team2025": "Edge Mountaineers 19U",
     "Team": "Edge Mountaineers",
     "College": "Minnesota State",
-    "Jr": "TmAB",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Olivia Dejardins",
@@ -29808,9 +30045,9 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Central Plains",
-    "Jr": "TmMB",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Dana Dender",
@@ -29967,6 +30204,15 @@
     "Team2025": "Mississauga U15AA",
     "Team": "Mississauga",
     "CCM68": "Yes"
+  },
+  {
+    "Name": "Emilla DePerio",
+    "PersonKey": "deperio|emilla",
+    "Position": "D",
+    "City": "Mississauga",
+    "State": "ONT",
+    "Country": "CAN",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Gracyn Depratto",
@@ -30143,7 +30389,7 @@
     "Notable": "Team USA U18 2024,2025 (2X)"
   },
   {
-    "Name": "Therese De Ruiter",
+    "Name": "Therese de Ruiter",
     "PersonKey": "deruiter|therese",
     "BirthYr": 2010,
     "DOB": "3/1/2010",
@@ -30155,7 +30401,9 @@
     "Team2024": "Mississauga U18AA",
     "Team2025": "Mississauga U18AA",
     "Team": "Mississauga",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Katelyn Desa",
@@ -30290,7 +30538,9 @@
     "Team2023": "Central York U15AA",
     "Team2025": "Barrie U22AA",
     "Team": "Barrie",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Katie DeSisto",
@@ -30666,9 +30916,9 @@
     "Team2023": "Vancouver Island Seals 16U",
     "Team2025": "Delta Hockey Academy Green",
     "Team": "Delta Hockey Academy Green",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "BCcamp",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Umber Dhillon",
@@ -31259,8 +31509,8 @@
     "Country": "CAN",
     "Team2025": "Ridley College",
     "Team": "Ridley College",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Avery Dini",
@@ -31403,7 +31653,11 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
-    "Team2024": "Durham West U18AA"
+    "State": "ONT",
+    "Country": "CAN",
+    "Team2024": "Durham West U18AA",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Danielle Dipasquale",
@@ -31831,8 +32085,8 @@
     "Team2023": "Fraser Valley U18",
     "Team": "Fraser Valley",
     "College": "Lindenwood",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Kayla Doerre",
@@ -31921,9 +32175,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "D",
+    "City": "Greater Sudbury",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Mississauga U15AA",
     "Team": "Mississauga",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Carrie Doiron",
@@ -32491,9 +32750,12 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
-    "Team": "North York Storm"
+    "Team": "North York Storm",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Keiran Douglas",
@@ -32602,12 +32864,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Jordan Downey",
@@ -32780,7 +33045,7 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Syracuse",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025"
@@ -33141,7 +33406,9 @@
     "Team2024": "London U18AA",
     "Team2025": "London U18AA",
     "Team": "London",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Emma Duarte",
@@ -33177,9 +33444,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "London",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Bluewater U15AA",
     "Team2025": "Bluewater U15AA",
-    "Team": "Bluewater"
+    "Team": "Bluewater",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lauren Dubarry",
@@ -33310,7 +33582,7 @@
     "Team2025": "Saskatoon Stars 19U",
     "Team": "Saskatoon Stars",
     "College": "Mercyhurst",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -33643,12 +33915,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Embrun",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "East Ottawa Stars U15AA",
     "Team2025": "East Ottawa Stars U15AA",
     "Team": "East Ottawa Stars",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Natalie Duncan",
@@ -34035,8 +34310,8 @@
     "Country": "CAN",
     "Team": "Battlefords Sharks",
     "College": "Merrimack",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Agustina Dursi",
@@ -34251,8 +34526,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club 14U",
-    "Team": "Ottawa Senators Women's Hockey Club"
+    "Team": "Ottawa Senators Women's Hockey Club",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kate Dykema",
@@ -35238,6 +35518,16 @@
     "Team": "Culver Academy Prep"
   },
   {
+    "Name": "Caitlyn Elliot",
+    "PersonKey": "elliot|caitlyn",
+    "Grad": 2028,
+    "Position": "G",
+    "State": "ONT",
+    "Country": "CAN",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
+  },
+  {
     "Name": "Taylor Elliot",
     "PersonKey": "elliot|taylor",
     "Grad": 2026,
@@ -35591,12 +35881,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Richmond Hill",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Central York U18AA",
     "Team2025": "Central York U18AA",
     "Team": "Central York",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Reese Engel",
@@ -35752,9 +36045,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Whitby",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Durham West U18AA",
     "Team2025": "Peterborough U15AA",
-    "Team": "Peterborough"
+    "Team": "Peterborough",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Rylee Eno",
@@ -36082,9 +36380,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Kitchener",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Cambridge U15AA",
     "Team2025": "Waterloo U15AA",
-    "Team": "Waterloo"
+    "Team": "Waterloo",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Mila Errigo",
@@ -36342,9 +36645,9 @@
     "Country": "CAN",
     "Team": "Northern Alberta",
     "College": "RIT",
-    "Jr": "TmAB",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Emily Evans",
@@ -36639,9 +36942,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Oakville U15AA",
     "Team2025": "Oakville Hornets 14U",
-    "Team": "Oakville Hornets"
+    "Team": "Oakville Hornets",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Alexandra Fagan",
@@ -36786,9 +37094,14 @@
     "BirthYr": 2012,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Mississauga U15AA",
     "Team": "Mississauga",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Riley Falkner",
@@ -37130,6 +37443,7 @@
     "Team": "London",
     "College": "Delaware",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -37229,8 +37543,8 @@
     "Country": "CAN",
     "Team2023": "St Marys Academy",
     "Team": "St. Mary's Academy",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Bianca Faso",
@@ -37508,8 +37822,8 @@
     "Country": "CAN",
     "Team2025": "Lindsay Surge U18",
     "Team": "Lindsay Surge",
-    "Jr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Miriam Felton",
@@ -37856,11 +38170,16 @@
     "Team": "Sno-Kings"
   },
   {
-    "Name": "Alex Ferrer",
+    "Name": "Alexandra Ferrer",
     "PersonKey": "ferrer|alexandra",
     "BirthYr": 2012,
     "Grad": 2030,
-    "Position": "F"
+    "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Shana Ferrier",
@@ -38490,8 +38809,8 @@
     "Team2025": "Delta Hockey Academy Green",
     "Team": "Delta Hockey Academy Green",
     "College": "Minnesota State",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Carly Finno",
@@ -38785,8 +39104,8 @@
     "Team2025": "Kingston U22AA",
     "Team": "Kingston",
     "College": "RPI",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Lauren Fisher",
@@ -40061,6 +40380,7 @@
     "Team2025": "Stoney Creek U18AA",
     "Team": "Stoney Creek",
     "College": "Harvard",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -40172,10 +40492,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Etobicoke U15AA",
     "Team2024": "Hamilton U15AA",
     "Team2025": "Toronto Aeros U22AA",
-    "Team": "Toronto Aeros"
+    "Team": "Toronto Aeros",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Emma Forwell",
@@ -40213,9 +40537,9 @@
     "Country": "CAN",
     "Team": "Lloydminster",
     "College": "Vermont",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "ABcamp",
-    "Highest": "TmAB"
+    "Highest": "ABcamp"
   },
   {
     "Name": "Jules Foster",
@@ -40365,12 +40689,16 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sophia Fox",
@@ -40479,8 +40807,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Westman",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Taelyn Franklin",
@@ -40526,6 +40854,7 @@
     "Team2025": "Barrie U22AA",
     "Team": "Barrie",
     "College": "Mercyhurst",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -41050,7 +41379,9 @@
     "Team2024": "Ottawa Senators U15AA",
     "Team2025": "Ottawa Senators U22AA",
     "Team": "Ottawa Senators",
-    "College": "Quinnipiac"
+    "College": "Quinnipiac",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Olivia Friedberg",
@@ -41340,9 +41671,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Aurora",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Central York U15AA",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Genevieve Frum",
@@ -41703,8 +42039,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Saskatoon",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Piper Gaertner",
@@ -41761,7 +42097,7 @@
     "School": "Stanstead College",
     "Team": "Stanstead College",
     "College": "Clarkson",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "U18-C",
     "Highest": "U18-C"
   },
@@ -41929,8 +42265,8 @@
     "City": "Langley",
     "State": "BCO",
     "Country": "CAN",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Sophia Galick",
@@ -42490,11 +42826,11 @@
     "Country": "CAN",
     "Team2025": "Limoilou Cegep",
     "Team": "Limoilou Cegep",
-    "Fresh": "TmQC",
-    "Soph": "TmQC",
+    "Fresh": "QCcamp",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Elle Gasseau",
@@ -42607,9 +42943,13 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Sudbury U15AA",
     "Team2025": "Toronto Aeros U22AA",
-    "Team": "Toronto Aeros"
+    "Team": "Toronto Aeros",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Alison Gauley",
@@ -42676,11 +43016,11 @@
     "School": "John Abbott College (QC)",
     "Team2025": "John Abbott College",
     "Team": "John Abbott College",
-    "Fresh": "TmQC",
+    "Fresh": "QCcamp",
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Raina Gauthier",
@@ -43840,7 +44180,7 @@
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Annie Gilbertson",
@@ -44809,10 +45149,10 @@
     "Team2024": "Champlain College",
     "Team2025": "John Abbott College",
     "Team": "John Abbott College",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Brooklyn Godisak",
@@ -45619,8 +45959,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Regina",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Revan Gouadec",
@@ -45637,6 +45977,7 @@
     "Team2025": "Etobicoke U18AA",
     "Team": "Etobicoke",
     "College": "Dartmouth",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -45734,9 +46075,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Ottawa Senators U15AA",
     "Team2025": "Ottawa Senators Women's Hockey Club 14U",
-    "Team": "Ottawa Senators Women's Hockey Club"
+    "Team": "Ottawa Senators Women's Hockey Club",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Madison Gouldthorpe",
@@ -46155,8 +46501,8 @@
     "Team2024": "South Alberta Hockey Academy",
     "Team": "South Alberta Hockey Academy",
     "College": "RIT",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Aislin Grammer",
@@ -46291,9 +46637,9 @@
     "State": "ALB",
     "Country": "CAN",
     "Team": "Edmonton",
-    "Jr": "TmAB",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Leesha Grant",
@@ -46634,9 +46980,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Cambridge",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Burlington U15AA",
     "Team2025": "Burlington Barracudas 14U",
-    "Team": "Burlington Barracudas"
+    "Team": "Burlington Barracudas",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Teyah Gray",
@@ -47302,10 +47653,10 @@
     "Team2024": "Oha Mavericks U22AA",
     "Team2025": "Mount Academy",
     "Team": "Mount Academy",
-    "Soph": "TmSK",
-    "Jr": "TmSK",
+    "Soph": "SKcamp",
+    "Jr": "SKcamp",
     "Sr": "x",
-    "Highest": "TmSK"
+    "Highest": "SKcamp"
   },
   {
     "Name": "Siya Grewal",
@@ -47980,9 +48331,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Elmira",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Kitchener U15AA",
     "Team2025": "Waterloo U15AA",
-    "Team": "Waterloo"
+    "Team": "Waterloo",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kate Grzeskowiak",
@@ -48058,8 +48414,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Westman",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Addison Guertin",
@@ -48387,6 +48743,15 @@
     "School": "Vermont Academy"
   },
   {
+    "Name": "Gianna Gushulak",
+    "PersonKey": "gushulak|gianna",
+    "Position": "F",
+    "City": "Fort Frances",
+    "State": "ONT",
+    "Country": "CAN",
+    "Highest": "ON_U16"
+  },
+  {
     "Name": "Lauren Gustafson",
     "PersonKey": "gustafson|lauren",
     "BirthYr": 2008,
@@ -48582,9 +48947,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Burlington",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Burlington U15AA",
     "Team2025": "Burlington Barracudas 14U",
-    "Team": "Burlington Barracudas"
+    "Team": "Burlington Barracudas",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kate Haapanen",
@@ -49261,8 +49631,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Interlake",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Doryane Halle",
@@ -49304,6 +49674,7 @@
     "Team2025": "Durham West U22AA",
     "Team": "Durham West",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -49485,9 +49856,9 @@
     "School": "Shawnigan Lake School",
     "Team": "Shawnigan Lake School",
     "College": "Robert Morris",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "x",
-    "Highest": "TmBC",
+    "Highest": "BCcamp",
     "Notable": "Press Release says for 2027, not on roster"
   },
   {
@@ -49561,8 +49932,8 @@
     "Country": "CAN",
     "Team": "Red Deer",
     "College": "RPI",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Olivia Hamilton",
@@ -50111,8 +50482,8 @@
     "Country": "CAN",
     "Team": "Edmonton Jr Oilers",
     "College": "Union",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Gracie Hanson",
@@ -50564,9 +50935,9 @@
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
     "College": "Syracuse",
-    "Jr": "TmAtl",
+    "Jr": "ATcamp",
     "Sr": "x",
-    "Highest": "TmAtl"
+    "Highest": "ATcamp"
   },
   {
     "Name": "Mallory Harold",
@@ -50593,8 +50964,8 @@
     "Team2024": "Whitby U22AA",
     "Team": "Whitby Wolves",
     "College": "Providence",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Coutts Harper",
@@ -51002,9 +51373,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Vaughan",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Clarington U15AA",
     "Team2025": "Toronto-Leaside U15AA",
-    "Team": "Toronto-Leaside"
+    "Team": "Toronto-Leaside",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Taylor Hartinger",
@@ -51364,8 +51740,8 @@
     "Team2024": "Etobicoke U22AA",
     "Team": "Etobicoke Dolphins",
     "College": "St. Lawrence",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Evangelina Hassan",
@@ -51679,7 +52055,12 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
-    "CCM68": "Yes"
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Brianna Hayden",
@@ -51958,8 +52339,8 @@
     "Team2023": "Etobicoke U22AA",
     "Team": "Etobicoke",
     "College": "Boston University",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Claire Healy",
@@ -52374,8 +52755,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Eastman",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Genevieve Heidkamp",
@@ -52949,8 +53330,8 @@
     "Country": "CAN",
     "Team2024": "Pacific Steelers",
     "Team": "RHA Kelowna",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Jennavieve Henley",
@@ -53017,8 +53398,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Swift Current",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Quinn Henriksen",
@@ -53130,8 +53511,8 @@
     "Team2024": "St Marys Academy",
     "Team2025": "Balmoral Hall 19U",
     "Team": "Balmoral Hall",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Peyton Henwood",
@@ -53157,11 +53538,14 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Markham",
     "State": "ONT",
     "Country": "CAN",
     "Team2025": "Durham West U15AA",
     "Team": "Durham West",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Mya Hepburn",
@@ -53695,7 +54079,7 @@
     "Team2025": "Central York U22AA",
     "Team": "Central York",
     "College": "RPI",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -53892,8 +54276,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Swift Current",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Jade Hill",
@@ -54149,8 +54533,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Swift Current",
-    "Jr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Lorelai Himle",
@@ -54433,8 +54817,8 @@
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Merrimack",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Maren Hodgeman",
@@ -54643,8 +55027,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Mono",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Brampton U15AA",
-    "Team": "Brampton"
+    "Team": "Brampton",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kessa Hogue",
@@ -55205,8 +55594,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Ottawa Lady 67'S U15AA",
-    "Team": "Ottawa Lady"
+    "Team": "Ottawa Lady",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Silver Hopkins",
@@ -55361,7 +55755,12 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
-    "Team2024": "Scarborough U15AA"
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
+    "Team2024": "Scarborough U15AA",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Carly Horstman",
@@ -55676,8 +56075,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "East Ottawa Stars U15AA",
-    "Team": "East Ottawa Stars"
+    "Team": "East Ottawa Stars",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Rowan Houweling",
@@ -55806,10 +56210,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Ancaster U15AA",
     "Team2024": "Ancaster U18AA",
     "Team2025": "Ancaster U18AA",
-    "Team": "Ancaster"
+    "Team": "Ancaster",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Hayley Howarth",
@@ -56374,8 +56782,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Westman",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Veronika Hujova",
@@ -56595,12 +57003,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Nobleton",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Oakville U15AA",
     "Team2025": "Oakville Hornets 14U",
     "Team": "Oakville Hornets",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Reese Humprhries",
@@ -56889,8 +57300,8 @@
     "State": "PEI",
     "Country": "CAN",
     "Team": "Eastern",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Ella Huntley",
@@ -56996,8 +57407,8 @@
     "Team2025": "Connecticut Polar Bears 19U",
     "Team": "Connecticut Polar Bears",
     "College": "St. Cloud State",
-    "Jr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Lily Hurley",
@@ -57644,8 +58055,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "North York U15AA",
-    "Team": "North York"
+    "Team": "North York",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Brynn Irvine",
@@ -58059,8 +58475,8 @@
     "Country": "CAN",
     "Team": "Winnipeg Ice",
     "College": "Maine",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Ashlyn Jacobs",
@@ -58097,10 +58513,10 @@
     "Country": "CAN",
     "Team2025": "Limoilou Cegep",
     "Team": "Limoilou Cegep",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Khloe Jacobs",
@@ -59200,8 +59616,13 @@
     "PersonKey": "joaquin|trystan",
     "Grad": 2029,
     "Position": "F",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Mississauga U15AA",
-    "Team": "Mississauga"
+    "Team": "Mississauga",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Angelie Jobin",
@@ -59394,9 +59815,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Etobicoke U15AA",
     "Team2025": "St Catharines U15AA",
-    "Team": "St Catharines"
+    "Team": "St Catharines",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Karenhatironhtha Johnson",
@@ -59684,6 +60110,7 @@
     "Team2025": "Stoney Creek U18AA",
     "Team": "Stoney Creek",
     "College": "Boston University",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -59906,8 +60333,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Swift Current",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Avery Jones",
@@ -60202,8 +60629,8 @@
     "Country": "CAN",
     "Team2023": "Delta Prep Green",
     "Team": "Delta Hockey Academy",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Talia Jones",
@@ -60398,8 +60825,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Belleville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Belleville U15AA",
-    "Team": "Belleville"
+    "Team": "Belleville",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sophie Jovanovic",
@@ -60581,9 +61013,9 @@
     "Team2025": "OHA Edmonton 19U",
     "Team": "OHA Edmonton",
     "College": "St. Lawrence",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "ABcamp",
-    "Highest": "TmAB"
+    "Highest": "ABcamp"
   },
   {
     "Name": "Natalie Juhassz",
@@ -60645,9 +61077,9 @@
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green",
     "Team": "Delta Hockey Academy Green",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "BCcamp",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Kimberly Jung",
@@ -60839,7 +61271,7 @@
     "Team2024": "Pacific Steelers",
     "Team": "Pacific",
     "College": "New Hampshire",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -60882,8 +61314,8 @@
     "Team2023": "Balmoral Hall",
     "Team": "Balmoral Hall",
     "College": "Bemidji State",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Madison Kaiser",
@@ -60917,7 +61349,12 @@
     "PersonKey": "kakepetum|victoria",
     "BirthYr": 2011,
     "Grad": 2029,
-    "Position": "F"
+    "Position": "F",
+    "City": "Thunder Bay",
+    "State": "ONT",
+    "Country": "CAN",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Reina Kakuta",
@@ -61431,8 +61868,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Regina",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Kailey Karpan",
@@ -61446,9 +61883,9 @@
     "Team2024": "South Alberta Hockey Academy",
     "Team2025": "South Alberta Hockey Academy 19U",
     "Team": "South Alberta Hockey Academy",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "SKcamp",
-    "Highest": "TmSK"
+    "Highest": "SKcamp"
   },
   {
     "Name": "Remi Karsh",
@@ -61495,8 +61932,8 @@
     "Team2024": "St Marys Academy",
     "Team2025": "NAHA Navy 19U",
     "Team": "NAHA Navy",
-    "Jr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Kate Kasica",
@@ -61801,8 +62238,8 @@
     "Country": "CAN",
     "Team2023": "Ottawa Sens U22AA",
     "Team": "Ottawa Lady Sens",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Caroline Kazanov",
@@ -61887,10 +62324,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Durham West U15AA",
     "Team2024": "Durham West U15AA",
     "Team2025": "Toronto-Leaside U22AA",
-    "Team": "Toronto-Leaside"
+    "Team": "Toronto-Leaside",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Amelia Keane",
@@ -61911,8 +62352,8 @@
     "State": "NSC",
     "Country": "CAN",
     "Team": "Greenfoot",
-    "Jr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Bella Kearney",
@@ -62045,9 +62486,9 @@
     "City": "White City",
     "State": "SAS",
     "Country": "CAN",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "SKcamp",
-    "Highest": "TmSK"
+    "Highest": "SKcamp"
   },
   {
     "Name": "Paige Keen",
@@ -62117,9 +62558,9 @@
     "Team2023": "Fraser Valley U18",
     "Team": "Shawnigan Lake School",
     "College": "RIT",
-    "Jr": "TmBC",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Jr": "BCcamp",
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Aubrey Kehoe",
@@ -62176,9 +62617,9 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Battlefords",
-    "Jr": "TmSK",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Sammy Keil",
@@ -62303,8 +62744,8 @@
     "Team2024": "Barrie U22A",
     "Team": "Barrie Jr Sharks",
     "College": "St. Lawrence",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Mikah Keller",
@@ -62539,9 +62980,9 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Dartmouth",
-    "Jr": "TmBC",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Jr": "BCcamp",
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Sydney Kelm",
@@ -64326,8 +64767,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team": "Northern Alberta",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Lauren Kjonaas",
@@ -64360,9 +64801,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Saint Anns",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Etobicoke U15AA",
     "Team2025": "St Catharines U15AA",
-    "Team": "St Catharines"
+    "Team": "St Catharines",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Stella Klakoski",
@@ -64408,8 +64854,8 @@
     "Country": "CAN",
     "Team2023": "Edge School",
     "Team": "Edge School",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Marra Klassen",
@@ -64659,9 +65105,9 @@
     "State": "PEI",
     "Country": "CAN",
     "Team": "Rothesay Netherwood",
-    "Jr": "TmAtl",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Leah Klingel",
@@ -64689,8 +65135,8 @@
     "Team2024": "Durham West U22AA",
     "Team": "Durham West Lightning",
     "College": "Yale",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Emma Kloosterman",
@@ -64867,9 +65313,14 @@
     "PersonKey": "knorr|brooklyn",
     "Grad": 2029,
     "Position": "G",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Nepean U15AA",
     "Team2025": "Nepean Wildcats 14U",
-    "Team": "Nepean Wildcats"
+    "Team": "Nepean Wildcats",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kate Knotek",
@@ -65470,9 +65921,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Mississauga",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Etobicoke U15AA",
     "Team2025": "Etobicoke U15AA",
-    "Team": "Etobicoke"
+    "Team": "Etobicoke",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kali Koopman",
@@ -65916,8 +66372,8 @@
     "State": "ALB",
     "Country": "CAN",
     "Team": "Notre Dame",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Mia Kozak",
@@ -66014,9 +66470,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Waterloo",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Kitchener U15AA",
     "Team2025": "Kitchener U15AA",
-    "Team": "Kitchener"
+    "Team": "Kitchener",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sloane Kraemer",
@@ -66365,9 +66826,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Aurora",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Central York U15AA",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Zoey Krienke",
@@ -66599,10 +67065,10 @@
     "Team2025": "Mississauga U22AA",
     "Team": "Mississauga",
     "College": "Quinnipiac",
-    "Soph": "TmON-B",
-    "Jr": "TmON-B",
+    "Soph": "ONcamp",
+    "Jr": "ONcamp",
     "Sr": "x",
-    "Highest": "TmON-B"
+    "Highest": "ONcamp"
   },
   {
     "Name": "Molly Krywanio",
@@ -66872,12 +67338,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Midland",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Barrie U15AA",
     "Team2025": "Barrie U15AA",
     "Team": "Barrie",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Grace Kusek Absent",
@@ -67073,8 +67542,12 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "G",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Whitby U15AA",
-    "Team2024": "Whitby U15AA"
+    "Team2024": "Whitby U15AA",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Julianne Labbe",
@@ -67142,8 +67615,8 @@
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
     "College": "Merrimack",
-    "Sr": "TmQC",
-    "Highest": "TmQC"
+    "Sr": "QCcamp",
+    "Highest": "QCcamp"
   },
   {
     "Name": "Amelia Labore",
@@ -67192,10 +67665,10 @@
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
     "College": "Holy Cross",
-    "Soph": "TmQC",
-    "Jr": "TmQC",
+    "Soph": "QCcamp",
+    "Jr": "QCcamp",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Alexa Labrecque",
@@ -67318,7 +67791,7 @@
     "Team2025": "Northwood School",
     "Team": "Northwood School",
     "College": "Boston University",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "U18-C",
     "Sr": "U18-C",
     "Highest": "U18-C"
@@ -67426,7 +67899,12 @@
     "PersonKey": "ladd|hennley",
     "Grad": 2029,
     "Position": "F",
-    "Team2024": "Clarington U15AA"
+    "City": "Pickering",
+    "State": "ONT",
+    "Country": "CAN",
+    "Team2024": "Clarington U15AA",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kendall Ladich",
@@ -67508,8 +67986,8 @@
     "State": "QUE",
     "Country": "CAN",
     "Team": "Champlain College",
-    "Sr": "TmQC",
-    "Highest": "TmQC"
+    "Sr": "QCcamp",
+    "Highest": "QCcamp"
   },
   {
     "Name": "Chloe Lafleche",
@@ -67561,11 +68039,11 @@
     "Team2023": "Intrepide De Loutaouais U18",
     "Team2024": "Champlain College",
     "Team": "Champlain-Lennoxville",
-    "Fresh": "TmQC",
-    "Soph": "TmQC",
+    "Fresh": "QCcamp",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Cendrine Lafoley",
@@ -67615,7 +68093,7 @@
     "School": "Stanstead College",
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "U18-C",
     "Sr": "x",
     "Highest": "U18-C",
@@ -67913,7 +68391,7 @@
     "Country": "CAN",
     "Team": "Edmonton Jr Oilers",
     "College": "St. Cloud State",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -68527,8 +69005,8 @@
     "Team2025": "Mississauga U22AA",
     "Team": "Mississauga",
     "College": "Boston University",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B",
+    "Sr": "ONcamp",
+    "Highest": "ONcamp",
     "Notable": "Decommit Syracuse - BU 6.15.26"
   },
   {
@@ -68726,7 +69204,7 @@
     "Team": "Durham West",
     "College": "Minnesota -Duluth",
     "CCM68": "Yes",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Graduating & enrolling Early"
@@ -68816,8 +69294,8 @@
     "State": "PEI",
     "Country": "CAN",
     "Team": "Mount Academy",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Mya Larkin",
@@ -69534,9 +70012,9 @@
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
     "College": "Boston College",
-    "Jr": "TmQC",
+    "Jr": "QCcamp",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Perrine Lavorel",
@@ -69771,8 +70249,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Winnipeg Ice",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Ava Lazaroff",
@@ -69797,7 +70275,7 @@
     "Team": "Central York",
     "College": "UCONN",
     "CCM68": "Yes",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -69846,9 +70324,9 @@
     "Team2025": "Calgary Fire 19U",
     "Team": "Calgary Fire",
     "College": "Bemidji State",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "ABcamp",
-    "Highest": "TmAB"
+    "Highest": "ABcamp"
   },
   {
     "Name": "Taylor Lazzaro",
@@ -69902,9 +70380,9 @@
     "School": "RINK Winnepeg",
     "Team2025": "RHA Winnipeg",
     "Team": "RHA Winnipeg",
-    "Jr": "TmSK",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Salo Leah",
@@ -70265,6 +70743,7 @@
     "Team": "Mississauga",
     "College": "Quinnipiac",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "U18-C",
     "Highest": "U18-C"
   },
@@ -70311,9 +70790,9 @@
     "Team2025": "Edge Mountaineers 19U",
     "Team": "Edge Mountaineers",
     "College": "Northeastern",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "ABcamp",
-    "Highest": "TmAB"
+    "Highest": "ABcamp"
   },
   {
     "Name": "Ada Lee",
@@ -70347,6 +70826,7 @@
     "Team": "Burlington",
     "College": "Holy Cross",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -70480,9 +70960,9 @@
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green",
     "Team": "Delta Hockey Academy Green",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "BCcamp",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Grace Lee",
@@ -70980,12 +71460,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Belmont",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Kitchener U15AA",
     "Team2025": "London U15AA",
     "Team": "London",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Abigail Lehr",
@@ -71350,7 +71833,7 @@
     "Team2025": "Limoilou Cegep",
     "Team": "Limoilou Cegep",
     "College": "Minnesota",
-    "Fresh": "TmQC",
+    "Fresh": "QCcamp",
     "Soph": "WNT-C",
     "Jr": "WNT-C",
     "Sr": "x",
@@ -71722,7 +72205,7 @@
     "Team2025": "College Bourget Varsity",
     "Team": "College Bourget Varsity",
     "College": "Clarkson",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "WNT-C",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
@@ -71920,12 +72403,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Mississauga",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Mississauga U15AA",
     "Team2025": "Mississauga U15AA",
     "Team": "Mississauga",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Maya Lewis",
@@ -71934,12 +72420,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Markham",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Oakville U15AA",
     "Team2025": "Oakville Hornets 14U",
     "Team": "Oakville Hornets",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Reese Lewis",
@@ -72834,10 +73323,14 @@
     "BirthYr": 2010,
     "Grad": 2029,
     "Position": "D",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "London U15AA",
     "Team2025": "Ridley College",
     "Team": "Ridley College",
-    "Sr": "x"
+    "Fresh": "ON_U16",
+    "Sr": "x",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Joella Lipinski",
@@ -73102,8 +73595,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "D",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Oakville Hornets 14U",
-    "Team": "Oakville Hornets"
+    "Team": "Oakville Hornets",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sophia Liu",
@@ -73213,9 +73711,9 @@
     "Team2024": "Barrie U22A",
     "Team": "Barrie Jr Sharks",
     "College": "Northeastern",
-    "Jr": "TmAB",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Emma Lloyd",
@@ -73277,9 +73775,9 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Vermont",
-    "Jr": "TmBC",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Jr": "BCcamp",
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Makenna Lloyd-Howe",
@@ -73394,9 +73892,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Carlisle",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Burlington U15AA",
     "Team2025": "Burlington Barracudas 14U",
-    "Team": "Burlington Barracudas"
+    "Team": "Burlington Barracudas",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Nora Locke",
@@ -73612,7 +74115,7 @@
     "Country": "CAN",
     "Team": "Regina Junior Rebels",
     "College": "Mercyhurst",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -73814,6 +74317,7 @@
     "Team": "Nepean",
     "College": "Quinnipiac",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -73831,7 +74335,7 @@
     "Team2023": "Shawnigan Lake Prep",
     "Team": "Shawnigan Lake School",
     "College": "Cornell",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "U18-C",
     "Highest": "U18-C",
     "Notable": "Instagram says Cornell 2030"
@@ -74023,8 +74527,8 @@
     "Team2023": "Edge School",
     "Team2024": "Edge School",
     "Team": "Edge School",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Abigale Loring",
@@ -74268,7 +74772,12 @@
     "PersonKey": "loumarano|gracie",
     "BirthYr": 2011,
     "Grad": 2029,
-    "Position": "F"
+    "Position": "F",
+    "City": "Thunder Bay",
+    "State": "ONT",
+    "Country": "CAN",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Amelia Lourenco",
@@ -74904,8 +75413,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Etobicoke U15AA",
-    "Team": "Etobicoke"
+    "Team": "Etobicoke",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lucia Luptakova",
@@ -74967,9 +75481,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Belleville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Belleville U15AA",
     "Team2025": "Belleville U15AA",
-    "Team": "Belleville"
+    "Team": "Belleville",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Brittyn Lybecker",
@@ -75623,7 +76142,7 @@
     "Team2025": "Mississauga U22AA",
     "Team": "Mississauga",
     "College": "Cornell",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -75775,9 +76294,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Aurora",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Central York U15AA",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lochlan MacGillivray",
@@ -75878,8 +76402,8 @@
     "School": "Stanstead College",
     "Team": "Stanstead College",
     "College": "Delaware",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Lexi MacIntyre",
@@ -75893,9 +76417,9 @@
     "State": "NSC",
     "Country": "CAN",
     "Team": "Northern",
-    "Soph": "TmAtl",
+    "Soph": "ATcamp",
     "Sr": "x",
-    "Highest": "TmAtl"
+    "Highest": "ATcamp"
   },
   {
     "Name": "Mullen MacIntyre",
@@ -75919,18 +76443,21 @@
     "Team2024": "St Marys Academy"
   },
   {
-    "Name": "Avery MacIsaac",
+    "Name": "Avery Macisaac",
     "PersonKey": "macisaac|avery",
     "BirthYr": 2011,
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Markham",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Madison MacIsaac",
@@ -76109,8 +76636,8 @@
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Minnesota -Duluth",
-    "Soph": "TmBC",
-    "Jr": "TmBC",
+    "Soph": "BCcamp",
+    "Jr": "BCcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Decommit Providence"
@@ -76155,7 +76682,7 @@
     "Team2025": "Nepean U22AA",
     "Team": "Nepean",
     "College": "St. Lawrence",
-    "Jr": "TmAtl",
+    "Jr": "ATcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2026"
@@ -76261,8 +76788,8 @@
     "State": "NSC",
     "Country": "CAN",
     "Team": "Kings Edgehill",
-    "Jr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Bea Maclean",
@@ -76306,9 +76833,9 @@
     "State": "NSC",
     "Country": "CAN",
     "Team": "Northern",
-    "Soph": "TmAtl",
+    "Soph": "ATcamp",
     "Sr": "x",
-    "Highest": "TmAtl"
+    "Highest": "ATcamp"
   },
   {
     "Name": "Meghan MacLean",
@@ -76335,8 +76862,8 @@
     "Team2025": "Northwood School",
     "Team": "Northwood School",
     "College": "St. Thomas",
-    "Soph": "TmAtl",
-    "Highest": "TmAtl"
+    "Soph": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Lillian Macleish",
@@ -76382,9 +76909,9 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Minnesota -Duluth",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "x",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Emma Macleod",
@@ -76507,8 +77034,8 @@
     "State": "PEI",
     "Country": "CAN",
     "Team": "Stanstead College",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Paige MacPhee",
@@ -76592,8 +77119,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Etobicoke U15AA",
-    "Team": "Etobicoke"
+    "Team": "Etobicoke",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Hannah Macron",
@@ -76797,7 +77329,7 @@
     "Team2025": "Whitby U22AA",
     "Team": "Whitby",
     "College": "Boston University",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2026"
@@ -76872,8 +77404,8 @@
     "State": "BCO",
     "Country": "CAN",
     "Team": "Thompson-Okanagan",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Mya Magowan",
@@ -76933,8 +77465,8 @@
     "Team2023": "Central York U22AA",
     "Team": "Central York",
     "College": "Dartmouth",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Molly Maguire",
@@ -77325,10 +77857,10 @@
     "Team2025": "Mississauga U22AA",
     "Team": "Mississauga",
     "College": "Maine",
-    "Soph": "TmBC",
-    "Jr": "TmBC",
+    "Soph": "BCcamp",
+    "Jr": "BCcamp",
     "Sr": "x",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Ana Makrogiannis",
@@ -77551,9 +78083,9 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Clarkson",
-    "Jr": "TmBC",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Jr": "BCcamp",
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Lucy Mallgrave",
@@ -77953,8 +78485,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Winnipeg Ice",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Juliette Mann",
@@ -78018,7 +78550,7 @@
     "Team2024": "Burlington U22AA",
     "Team": "Burlington Barracudas",
     "College": "Clarkson",
-    "Jr": "TmMB",
+    "Jr": "MBcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025"
@@ -78140,8 +78672,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Weyburn",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Lily Mao",
@@ -78701,9 +79233,9 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Regina",
-    "Jr": "TmSK",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Kiyah Marshall",
@@ -78808,8 +79340,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Clarington",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Durham West U18AA",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Koya Martell",
@@ -78866,7 +79403,9 @@
     "Team2025": "Waterloo U22AA",
     "Team": "Waterloo",
     "College": "Robert Morris",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Annabelle Martin",
@@ -79231,7 +79770,9 @@
     "Team2025": "Central York U18AA",
     "Team": "Central York",
     "College": "Brown",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Shae Martin",
@@ -79484,8 +80025,8 @@
     "Country": "CAN",
     "Team": "Edmonton Jr Oilers",
     "College": "Merrimack",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Khaleesi Martz",
@@ -79969,9 +80510,9 @@
     "Country": "CAN",
     "Team": "Edmonton Jr Oilers",
     "College": "Clarkson",
-    "Jr": "TmAB",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Addison Matthews",
@@ -80061,8 +80602,8 @@
     "Country": "CAN",
     "Team2023": "Delta Prep Green",
     "Team2024": "Delta Prep Green",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Maddy Matthews",
@@ -80116,10 +80657,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "D",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Etobicoke U15AA",
     "Team2024": "Hamilton U15AA",
     "Team2025": "Etobicoke U18AA",
-    "Team": "Etobicoke"
+    "Team": "Etobicoke",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Grace Mattingly",
@@ -80380,8 +80925,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Durham West U15AA",
-    "Team": "Durham West"
+    "Team": "Durham West",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Arabella May",
@@ -80555,7 +81105,7 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Penn State",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025"
@@ -80605,8 +81155,8 @@
     "Team2025": "Mississauga U22AA",
     "Team": "Mississauga",
     "College": "St. Lawrence",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Abbey Mazzela",
@@ -81124,6 +81674,15 @@
     "Team": "Scarborough"
   },
   {
+    "Name": "Emerson McClure",
+    "PersonKey": "mcclure|emerson",
+    "Position": "D",
+    "City": "Rockwood",
+    "State": "ONT",
+    "Country": "CAN",
+    "Highest": "ON_U16"
+  },
+  {
     "Name": "Emmerson Mcclure",
     "PersonKey": "mcclure|emmerson",
     "BirthYr": 2011,
@@ -81364,12 +81923,16 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Heidelberg",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Waterloo U15AA",
     "Team2025": "Waterloo U22AA",
     "Team": "Waterloo",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Mika Mccoubrey",
@@ -81377,9 +81940,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Guelph",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Kitchener U15AA",
     "Team2025": "Waterloo U15AA",
-    "Team": "Waterloo"
+    "Team": "Waterloo",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Ella Mccourt",
@@ -81552,9 +82120,9 @@
     "Team2025": "Etobicoke U22AA",
     "Team": "Etobicoke",
     "College": "Minnesota",
-    "Jr": "TmON-R",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R",
+    "Jr": "ONcamp",
+    "Sr": "ONcamp",
+    "Highest": "ONcamp",
     "Notable": "Team Canada U18 2025,2026 (2X)"
   },
   {
@@ -81632,9 +82200,9 @@
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Boston University",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "ABcamp",
-    "Highest": "TmAB"
+    "Highest": "ABcamp"
   },
   {
     "Name": "Emelia Mcdermid",
@@ -81649,9 +82217,9 @@
     "Country": "CAN",
     "Team2024": "RHA Kelowna",
     "Team": "RHA Kelowna",
-    "Jr": "TmAB",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Emy Mcdermid",
@@ -81834,7 +82402,7 @@
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Ohio State",
-    "Soph": "TmMB",
+    "Soph": "MBcamp",
     "Jr": "WNT-C",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
@@ -81975,9 +82543,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Nepean U15AA",
     "Team2025": "Nepean Wildcats 14U",
-    "Team": "Nepean Wildcats"
+    "Team": "Nepean Wildcats",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Katie(Katherine) Mcdougall",
@@ -82723,8 +83296,8 @@
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Penn State",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Willa Mcintosh",
@@ -82815,8 +83388,8 @@
     "Team": "Barrie",
     "College": "Quinnipiac",
     "CCM68": "Yes",
-    "Jr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Maddie McKay",
@@ -83382,6 +83955,14 @@
     "Notable": "Team USA U18 2026"
   },
   {
+    "Name": "Alexandra McLean",
+    "PersonKey": "mclean|alexandra",
+    "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
+    "Highest": "ON_U16"
+  },
+  {
     "Name": "Andie Mclean",
     "PersonKey": "mclean|andie",
     "BirthYr": 2010,
@@ -83411,8 +83992,8 @@
     "Team2024": "Ottawa Sens U22AA",
     "Team": "Ottawa Lady Senators",
     "College": "UCONN",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Grace Mclean",
@@ -83438,12 +84019,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Courtice",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Durham West U15AA",
     "Team2025": "Durham West U15AA",
     "Team": "Durham West",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Nora McLean",
@@ -83547,8 +84131,8 @@
     "Country": "CAN",
     "Team": "Red Deer",
     "College": "Syracuse",
-    "Jr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Ava Mclllmurray",
@@ -83754,9 +84338,9 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Battlefords",
-    "Jr": "TmSK",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Evelyn Mcnally",
@@ -84446,8 +85030,8 @@
     "Country": "CAN",
     "Team2023": "St Albert Slash U18AA",
     "Team": "St. Albert",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Gemma Melo",
@@ -84660,8 +85244,8 @@
     "State": "NFL",
     "Country": "CAN",
     "Team": "Mount Academy",
-    "Jr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Keira Mercer",
@@ -85065,8 +85649,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Belle River",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Durham West U15AA",
-    "Team": "Durham West"
+    "Team": "Durham West",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Paisley Meyer",
@@ -85163,9 +85752,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Vaughan",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Durham West U15AA",
     "Team2025": "Durham West U15AA",
-    "Team": "Durham West"
+    "Team": "Durham West",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sia Michanos",
@@ -85190,9 +85784,9 @@
     "School": "Stanstead College",
     "Team": "Stanstead College",
     "College": "Maine",
-    "Jr": "TmAtl",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Riley Michaud",
@@ -85336,8 +85930,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Windsor",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Windsor U15AA",
-    "Team": "Windsor"
+    "Team": "Windsor",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Maria Mikaelyan",
@@ -85796,6 +86395,15 @@
     "Team": "MN Elite Sky - Streamline"
   },
   {
+    "Name": "Quinn Miller-Johnston",
+    "PersonKey": "millerjohnston|quinn",
+    "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
+    "Highest": "ON_U16"
+  },
+  {
     "Name": "Madison Millership",
     "PersonKey": "millership|madison",
     "Position": "F",
@@ -85875,9 +86483,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "East Ottawa Stars U15AA",
     "Team2025": "East Ottawa Stars U15AA",
-    "Team": "East Ottawa Stars"
+    "Team": "East Ottawa Stars",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Finley Mills",
@@ -85885,8 +86498,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Windsor",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Windsor U15AA",
-    "Team": "Windsor"
+    "Team": "Windsor",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Haven Mills",
@@ -86124,9 +86742,13 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Thunder Bay",
     "State": "ONT",
     "Country": "CAN",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "vienna minnella",
@@ -86262,8 +86884,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "North Halton U15AA",
-    "Team": "North Halton"
+    "Team": "North Halton",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Olivia Mishacoff",
@@ -86315,8 +86942,8 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "Robert Morris",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Jane Mistry",
@@ -86346,6 +86973,7 @@
     "Team2023": "Markham-Stouffville U15AA",
     "Team2025": "Durham West U22AA",
     "Team": "Durham West",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -87110,9 +87738,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Essex",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Windsor U15AA",
     "Team2025": "Windsor U15AA",
-    "Team": "Windsor"
+    "Team": "Windsor",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Anabelle Monfils",
@@ -87708,8 +88341,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Saskatoon",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Emmi Moors",
@@ -87973,8 +88606,8 @@
     "State": "PEI",
     "Country": "CAN",
     "Team": "Western Wind",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Brooke Moreno",
@@ -88369,8 +89002,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "D",
+    "City": "Sudbury",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Sudbury U15AA",
-    "Team": "Sudbury"
+    "Team": "Sudbury",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Rylee Morris",
@@ -88425,9 +89063,13 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "G",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "London U18AA",
     "Team2025": "London U18AA",
-    "Team": "London"
+    "Team": "London",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Cassidy Morrison",
@@ -88825,8 +89467,8 @@
     "Team": "Etobicoke",
     "College": "Wisconsin",
     "CCM68": "Yes",
-    "Fresh": "TmAtl",
-    "Soph": "TmAtl",
+    "Fresh": "ATcamp",
+    "Soph": "ATcamp",
     "Jr": "WNT-C",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
@@ -89039,7 +89681,7 @@
     "Country": "CAN",
     "Team": "Battlefords Sharks",
     "College": "Maine",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -89089,9 +89731,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "D",
+    "City": "Burlington",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Mississauga U15AA",
     "Team": "Mississauga",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lauren Muhn",
@@ -89366,8 +90013,8 @@
     "State": "PEI",
     "Country": "CAN",
     "Team": "Eastern",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Olivia Mullins",
@@ -89449,7 +90096,7 @@
     "Team2025": "Nepean U22AA",
     "Team": "Nepean",
     "College": "Clarkson",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -89522,7 +90169,9 @@
     "Team2023": "Etobicoke U15AA",
     "Team2025": "Toronto Aeros U22AA",
     "Team": "Toronto Aeros",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Madelyn Munoz",
@@ -90605,8 +91254,8 @@
     "Team2024": "Nepean U22AA",
     "Team": "Nepean Wildcats",
     "College": "St. Lawrence",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Ella Nannene",
@@ -90933,6 +91582,7 @@
     "Team2025": "North York U22AA",
     "Team": "North York",
     "College": "Robert Morris",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -91560,6 +92210,7 @@
     "Team2023": "Hamilton U15AA",
     "Team2025": "Oakville U22AA",
     "Team": "Oakville",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -91897,8 +92548,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Hamilton",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Burlington Barracudas 14U",
-    "Team": "Burlington Barracudas"
+    "Team": "Burlington Barracudas",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Larissa Nguyen",
@@ -92319,8 +92975,8 @@
     "Team2023": "Balmoral Hall",
     "Team": "Balmoral Hall",
     "College": "Merrimack",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Riko Nishiuchi",
@@ -92510,8 +93166,8 @@
     "Team2024": "Winnipeg Avros U18",
     "Team2025": "Winnipeg Avros 19U",
     "Team": "Winnipeg Avros",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Keirlyn Nohlgren",
@@ -93603,9 +94259,9 @@
     "Team2025": "Nepean U22AA",
     "Team": "Nepean",
     "College": "St. Lawrence",
-    "Jr": "TmON-B",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Jr": "ONcamp",
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Ciara O'Connor",
@@ -94100,9 +94756,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Ajax",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Durham West U15AA",
     "Team": "Durham West",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Brynn O'Leary",
@@ -94334,8 +94995,8 @@
     "State": "NSC",
     "Country": "CAN",
     "Team": "King's-Edgehill School",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Avery Olson",
@@ -94487,12 +95148,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Mississauga",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Mississauga U15AA",
     "Team2025": "Mississauga U15AA",
     "Team": "Mississauga",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Eve Omura",
@@ -95013,10 +95677,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Belleville U15AA",
     "Team2024": "Kingston U15AA",
     "Team2025": "Kingston U22AA",
-    "Team": "Kingston"
+    "Team": "Kingston",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Arya O'Shaughnessy",
@@ -95071,9 +95739,12 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Thunder Bay",
     "State": "ONT",
     "Country": "CAN",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lily Oster",
@@ -95164,9 +95835,13 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Brampton U15AA",
     "Team2025": "Oakville Hornets 16U",
-    "Team": "Oakville Hornets"
+    "Team": "Oakville Hornets",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Reagan O'Toole",
@@ -95288,8 +95963,8 @@
     "School": "Stanstead College",
     "Team": "Stanstead College",
     "College": "UCONN",
-    "Soph": "TmAtl",
-    "Highest": "TmAtl"
+    "Soph": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Eva Ouellette",
@@ -95489,9 +96164,9 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Swift Current",
-    "Jr": "TmSK",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Teagan Padgett",
@@ -96115,7 +96790,7 @@
     "Country": "CAN",
     "Team2023": "Intrepide De Loutaouais U15",
     "Team": "Spartans de Stanstead",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "U18-C",
     "Highest": "U18-C"
   },
@@ -96786,8 +97461,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Mulmur",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Riley Patton",
@@ -97780,8 +98460,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Westman",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Georgia Perkins",
@@ -98072,8 +98752,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Swift Current",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Makayla Peters",
@@ -98271,8 +98951,8 @@
     "Team2025": "Durham West U22AA",
     "Team": "Durham West",
     "College": "Brown",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Mickenzie Petford",
@@ -98537,7 +99217,7 @@
     "Team2025": "Whitby U22AA",
     "Team": "Whitby",
     "College": "UCONN",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C"
   },
@@ -98648,10 +99328,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "D",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Central York U15AA",
     "Team2024": "Central York U18AA",
     "Team2025": "Central York U18AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sophia Pham",
@@ -98681,8 +99365,8 @@
     "Team2025": "Mississauga U22AA",
     "Team": "Mississauga",
     "College": "Clarkson",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Lucy Phelan",
@@ -98785,9 +99469,13 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Bluewater U18AA",
     "Team2025": "Bluewater 18AA",
-    "Team": "Bluewater"
+    "Team": "Bluewater",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Niomi Phillips",
@@ -99193,9 +99881,9 @@
     "Team2025": "Kingston U22AA",
     "Team": "Kingston",
     "College": "Robert Morris",
-    "Jr": "TmMB",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Ashley Piersol",
@@ -99333,8 +100021,8 @@
     "Country": "CAN",
     "Team2023": "Balmoral Hall",
     "Team": "Balmoral Hall",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Presley Pinfold",
@@ -100177,8 +100865,8 @@
     "Team2025": "Moncton Rockets U18",
     "Team": "Moncton Rockets",
     "College": "Brown",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl",
+    "Sr": "ATcamp",
+    "Highest": "ATcamp",
     "Notable": "Not on 26' Roster"
   },
   {
@@ -100265,8 +100953,8 @@
     "State": "ONT",
     "Country": "CAN",
     "Team": "Durham West",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Tegan Pokryfke",
@@ -100860,8 +101548,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Mississauga",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Etobicoke U15AA",
-    "Team": "Etobicoke"
+    "Team": "Etobicoke",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Grace Porter",
@@ -100954,12 +101647,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Grimsby",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Stoney Creek U15AA",
     "Team2025": "Burlington Barracudas 14U",
     "Team": "Burlington Barracudas",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Meghan Postelli",
@@ -101238,8 +101934,8 @@
     "State": "NFL",
     "Country": "CAN",
     "Team": "Mount Academy",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Sarah Power",
@@ -101530,8 +102226,8 @@
     "Country": "CAN",
     "Team": "Edmonton Jr Oilers",
     "College": "Merrimack",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Kiki Prefontaine-Robinson",
@@ -101667,10 +102363,10 @@
     "Team2023": "Champlain College",
     "Team2024": "Champlain College",
     "Team": "Champlain-Lennoxville",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Teagan Preyma",
@@ -102729,8 +103425,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Ottawa Lady 67'S U15AA",
-    "Team": "Ottawa Lady"
+    "Team": "Ottawa Lady",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Chloe Quirk",
@@ -103376,8 +104077,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Battlefords",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Ruby Rauk",
@@ -103545,8 +104246,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "St. Catharines",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "St Catharines U15AA",
-    "Team": "St Catharines"
+    "Team": "St Catharines",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kendra Raypholtz",
@@ -103625,8 +104331,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Yellowhead",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Camryn Reardon",
@@ -104082,8 +104788,8 @@
     "Team2025": "Cambridge U22AA",
     "Team": "Cambridge",
     "College": "Delaware",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Alexis Reid-Bailey",
@@ -104241,9 +104947,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Mississauga",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "North York U15AA",
     "Team": "North York",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Talia Reinhart",
@@ -104783,8 +105494,8 @@
     "Team2024": "Nepean U22AA",
     "Team": "Nepean Wildcats",
     "College": "UCONN",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Lauren Riccobelli",
@@ -104823,7 +105534,7 @@
     "Team2024": "RHA Kelowna",
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
-    "Soph": "TmBC",
+    "Soph": "BCcamp",
     "Jr": "U18-C",
     "Highest": "U18-C"
   },
@@ -104843,9 +105554,9 @@
     "Team2024": "RHA Kelowna",
     "Team": "RINK Kelowna",
     "College": "St. Thomas",
-    "Jr": "TmMB",
-    "Sr": "TmBC",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Sr": "BCcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Casey Rice",
@@ -105249,12 +105960,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Greater Sudbury",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Sudbury U15AA",
     "Team2025": "Sudbury U15AA",
     "Team": "Sudbury",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Ava Rienhart",
@@ -105338,8 +106052,8 @@
     "Team2024": "Eastman U18",
     "Team2025": "Eastman Selects 19U",
     "Team": "Eastman Selects",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Cecilia Riiff",
@@ -105510,9 +106224,9 @@
     "Team2024": "Balmoral Hall",
     "Team2025": "Balmoral Hall 19U",
     "Team": "Balmoral Hall",
-    "Soph": "TmMB",
+    "Soph": "MBcamp",
     "Sr": "x",
-    "Highest": "TmMB"
+    "Highest": "MBcamp"
   },
   {
     "Name": "Rowyn Ringor",
@@ -105528,8 +106242,8 @@
     "Team2023": "Balmoral Hall",
     "Team": "Balmoral Hall",
     "College": "Post",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Kaitlin Ringrose",
@@ -105774,10 +106488,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "G",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Mississauga U15AA",
     "Team2024": "Toronto Aeros U18AA",
     "Team2025": "Toronto Aeros U18AA",
-    "Team": "Toronto Aeros"
+    "Team": "Toronto Aeros",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Peyton Rizzi",
@@ -107117,8 +107835,8 @@
     "Country": "CAN",
     "Team": "Northern",
     "College": "Syracuse",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Amanda Rosen",
@@ -108776,9 +109494,15 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Greater Sudbury",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Sudbury U18AA",
     "Team2025": "Sudbury U18AA",
-    "Team": "Sudbury"
+    "Team": "Sudbury",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Brille Sabrina",
@@ -108803,8 +109527,8 @@
     "Team2024": "Ottawa Sens U22AA",
     "Team": "Ottawa Lady Senators",
     "College": "Stonehill",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Caylee Sachs",
@@ -108831,8 +109555,13 @@
     "PersonKey": "sachs|stephanie",
     "Grad": 2030,
     "Position": "D",
+    "City": "Mississauga",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Etobicoke U15AA",
-    "Team": "Etobicoke"
+    "Team": "Etobicoke",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Samantha Sada",
@@ -108927,8 +109656,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Brantford",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Ancaster U15AA",
-    "Team": "Ancaster"
+    "Team": "Ancaster",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Manon Saint Jean",
@@ -109047,6 +109781,7 @@
     "Team2024": "Ottawa Senators U18AA",
     "Team2025": "Ottawa Sens U18AA",
     "Team": "Ottawa Sens",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -109149,7 +109884,7 @@
     "Team2025": "OHA Edmonton 19U",
     "Team": "OHA Edmonton",
     "College": "Clarkson",
-    "Soph": "TmAB",
+    "Soph": "ABcamp",
     "Jr": "U18-C",
     "Highest": "U18-C"
   },
@@ -109453,7 +110188,7 @@
     "Team2024": "Etobicoke U22AA",
     "Team": "Etobicoke Dolphins",
     "College": "Maine",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -109567,8 +110302,8 @@
     "Team2025": "Stoney Creek U22AA",
     "Team": "Stoney Creek",
     "College": "Colgate",
-    "Soph": "TmAtl",
-    "Jr": "TmAtl",
+    "Soph": "ATcamp",
+    "Jr": "ATcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -109642,8 +110377,8 @@
     "Country": "CAN",
     "Team2023": "Oha Tardiff",
     "Team": "Ontario Hockey Academy",
-    "Jr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Molly Sant",
@@ -110563,8 +111298,8 @@
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Minnesota State",
-    "Sr": "TmBC",
-    "Highest": "TmBC"
+    "Sr": "BCcamp",
+    "Highest": "BCcamp"
   },
   {
     "Name": "Eve Schirru",
@@ -110572,8 +111307,13 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "D",
+    "City": "London",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "London U15AA",
-    "Team": "London"
+    "Team": "London",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lucia Schittone",
@@ -110808,7 +111548,7 @@
     "State": "BCO",
     "Country": "CAN",
     "Team": "Delta Hockey Academy",
-    "Soph": "TmBC",
+    "Soph": "BCcamp",
     "Jr": "U18-C",
     "Highest": "U18-C"
   },
@@ -111009,9 +111749,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "D",
+    "City": "Burlington",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Oakville Hornets 14U",
     "Team": "Oakville Hornets",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Taylor Schreifels",
@@ -111323,8 +112068,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Clarington",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Whitby U15AA",
-    "Team": "Whitby"
+    "Team": "Whitby",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Julia Schuster",
@@ -111796,9 +112546,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "City": "Clarington",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Clarington U15AA",
     "Team2025": "Peterborough U15AA",
-    "Team": "Peterborough"
+    "Team": "Peterborough",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lily Seal",
@@ -112223,8 +112978,8 @@
     "Team2025": "Nepean U22AA",
     "Team": "Nepean",
     "College": "Boston College",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "June Semling",
@@ -113082,8 +113837,8 @@
     "Country": "CAN",
     "Team2023": "Ridley College",
     "Team": "Ridley College",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Nora Shea",
@@ -113130,8 +113885,8 @@
     "State": "NSC",
     "Country": "CAN",
     "Team": "King's-Edgehill School",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Charlie Shearer",
@@ -113426,8 +114181,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Weyburn",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Cameryn Shiels",
@@ -113444,7 +114199,7 @@
     "Team2025": "Delta Hockey Academy Green",
     "Team": "Delta Hockey Academy Green",
     "College": "Providence",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -113493,9 +114248,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Etobicoke U15AA",
     "Team2025": "Toronto-Leaside U15AA",
-    "Team": "Toronto-Leaside"
+    "Team": "Toronto-Leaside",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Reese Shigwadja",
@@ -113758,9 +114518,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Grimsby",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Burlington U15AA",
     "Team2025": "Burlington Barracudas 14U",
-    "Team": "Burlington Barracudas"
+    "Team": "Burlington Barracudas",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kai Shuler",
@@ -113782,9 +114547,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Nepean Wildcats 14U",
     "Team": "Nepean Wildcats",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Milana Shuman",
@@ -113814,8 +114584,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Kingston",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Bailey Shwartz",
@@ -114254,12 +115024,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Oakville",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Oakville Hornets 14U",
     "Team2025": "Oakville Hornets 14U",
     "Team": "Oakville Hornets",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Jane(Injured) Simeon",
@@ -114637,8 +115410,12 @@
     "PersonKey": "sinisi|serena",
     "Grad": 2028,
     "Position": "D",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Markham-Stouffville U15AA",
-    "Team2024": "Durham West U15AA"
+    "Team2024": "Durham West U15AA",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Ava Sirbos",
@@ -114719,8 +115496,8 @@
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Clarkson",
-    "Soph": "TmBC",
-    "Jr": "TmBC",
+    "Soph": "BCcamp",
+    "Jr": "BCcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2026"
@@ -114737,9 +115514,9 @@
     "School": "RINK Kelowna",
     "Team2025": "RHA Kelowna",
     "Team": "RHA Kelowna",
-    "Fresh": "TmBC",
+    "Fresh": "BCcamp",
     "Soph": "BCcamp",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Mia Sit",
@@ -114961,9 +115738,9 @@
     "Team2025": "OHA Edmonton 19U",
     "Team": "OHA Edmonton",
     "College": "Cornell",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "SKcamp",
-    "Highest": "TmSK"
+    "Highest": "SKcamp"
   },
   {
     "Name": "Gwynn Skoogman",
@@ -115682,9 +116459,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Ottawa",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Ottawa 67s U15AA",
     "Team2025": "Ottawa Lady 67'S U15AA",
-    "Team": "Ottawa Lady"
+    "Team": "Ottawa Lady",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Chloe Smith",
@@ -116123,8 +116905,8 @@
     "Country": "CAN",
     "Team": "Balmoral Hall",
     "College": "Bemidji State",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Nadia Smith",
@@ -116182,11 +116964,11 @@
     "Team2024": "London U22AA",
     "Team": "St Albert Slash",
     "College": "Bemidji State",
-    "Fresh": "TmAB",
-    "Soph": "TmAB",
+    "Fresh": "ABcamp",
+    "Soph": "ABcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmAB"
+    "Highest": "ABcamp"
   },
   {
     "Name": "Peyton Smith",
@@ -116269,9 +117051,13 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "London U18AA",
     "Team2025": "London U18AA",
-    "Team": "London"
+    "Team": "London",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Tarryn Smith",
@@ -116543,9 +117329,9 @@
     "Team2024": "Waterloo U22AA",
     "Team": "Waterloo Ravens",
     "College": "Providence",
-    "Jr": "TmON-B",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Jr": "ONcamp",
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Sloane Snyder",
@@ -116591,9 +117377,9 @@
     "Team": "RINK Winnepeg",
     "College": "Cornell",
     "CCM68": "Yes",
-    "Soph": "TmMB",
-    "Jr": "TmMB",
-    "Highest": "TmMB"
+    "Soph": "MBcamp",
+    "Jr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Aleksandra Soboleva",
@@ -116676,6 +117462,7 @@
     "Team": "Mississauga",
     "College": "Boston College",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -116794,9 +117581,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "D",
+    "City": "Melancthon",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Mississauga U15AA",
     "Team": "Mississauga",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Stella Solomon",
@@ -116849,12 +117641,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Scarborough",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Scarborough U15AA",
     "Team2025": "Durham West U15AA",
     "Team": "Durham West",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Alia Somero",
@@ -116994,6 +117789,15 @@
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
     "CCM68": "Yes"
+  },
+  {
+    "Name": "Seraphina Song",
+    "PersonKey": "song|seraphina",
+    "Position": "D",
+    "City": "Milton",
+    "State": "ONT",
+    "Country": "CAN",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Keira Sonnemann",
@@ -117256,8 +118060,8 @@
     "Team2023": "RHA Kelowna",
     "Team": "RHA Kelowna",
     "College": "Clarkson",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Natalie Spaeth",
@@ -117848,8 +118652,8 @@
     "Team2025": "Mississauga U22AA",
     "Team": "Mississauga",
     "College": "Princeton",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Alexis St. Amant",
@@ -117992,7 +118796,12 @@
     "PersonKey": "stansell|teagyn",
     "Grad": 2029,
     "Position": "F",
-    "Team2024": "Oha Maverick Prep U18AA"
+    "City": "Thunder Bay",
+    "State": "ONT",
+    "Country": "CAN",
+    "Team2024": "Oha Maverick Prep U18AA",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Jasmin Stansfield",
@@ -118039,6 +118848,7 @@
     "Team": "Toronto-Leaside",
     "College": "Yale",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -118357,7 +119167,12 @@
     "PersonKey": "steele|sophia",
     "BirthYr": 2011,
     "Grad": 2029,
-    "Position": "D"
+    "Position": "D",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Abby Steer",
@@ -118404,9 +119219,9 @@
     "Country": "CAN",
     "Team2025": "Saskatoon Stars 19U",
     "Team": "Saskatoon Stars",
-    "Jr": "TmSK",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Sophie Stefik",
@@ -118476,8 +119291,8 @@
     "Country": "CAN",
     "Team": "Saskatoon",
     "College": "RIT",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Maria Steinbach",
@@ -118804,9 +119619,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Markham",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Central York U15AA",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Bridget Stevenson",
@@ -119138,9 +119958,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Aurora",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "North York U15AA",
     "Team2025": "Durham West U15AA",
-    "Team": "Durham West"
+    "Team": "Durham West",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Elle Stickley",
@@ -119201,8 +120026,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Kitchener",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Waterloo U15AA",
-    "Team": "Waterloo"
+    "Team": "Waterloo",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lauren Stiles",
@@ -119655,9 +120485,9 @@
     "Team2025": "Northwood School",
     "Team": "Northwood School",
     "College": "Colgate",
-    "Jr": "TmQC",
+    "Jr": "QCcamp",
     "Sr": "QCcamp",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Sophie St-Pierre",
@@ -119739,6 +120569,7 @@
     "Team": "Whitby",
     "College": "Mercyhurst",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -119898,8 +120729,8 @@
     "Team": "RHA Winnipeg",
     "College": "St. Thomas",
     "CCM68": "Yes",
-    "Jr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Connie Streeter",
@@ -119977,8 +120808,8 @@
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
     "College": "Bemidji State",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Danielle Strom",
@@ -120137,9 +120968,9 @@
     "Team2025": "Barrie U22AA",
     "Team": "Barrie",
     "College": "Harvard",
-    "Jr": "TmON-B",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Jr": "ONcamp",
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Margaret Stuart",
@@ -120213,8 +121044,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Whitchurch-Stouffville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Markham-Stouffville U15AA",
-    "Team": "Markham-Stouffville"
+    "Team": "Markham-Stouffville",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sarlota Styblova",
@@ -120245,9 +121081,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Aurora",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Central York U15AA",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Mary Styspeck",
@@ -120950,9 +121791,9 @@
     "Team": "Saskatoon Stars",
     "College": "Bemidji State",
     "CCM68": "Yes",
-    "Jr": "TmSK",
+    "Jr": "SKcamp",
     "Sr": "SKcamp",
-    "Highest": "TmSK"
+    "Highest": "SKcamp"
   },
   {
     "Name": "Aleiyah Sutton",
@@ -121235,8 +122076,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Pilot Mound",
-    "Jr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Kendra Swanzey",
@@ -121301,8 +122142,8 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Weyburn",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Dakota Swearingen",
@@ -121576,10 +122417,14 @@
     "PersonKey": "synott|jane",
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Cornwall U15AA",
     "Team2024": "Cornwall U15AA",
     "Team2025": "Ottawa Lady 67'S U22AA",
-    "Team": "Ottawa Lady"
+    "Team": "Ottawa Lady",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Gracie Szadkowski",
@@ -121929,12 +122774,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "Scarborough U15AA",
     "Team2025": "Etobicoke U15AA",
     "Team": "Etobicoke",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Ella Tamkin",
@@ -122072,7 +122920,9 @@
     "Team2025": "Central York U18AA",
     "Team": "Central York",
     "College": "RPI",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Ella Tarasovich",
@@ -122650,8 +123500,8 @@
     "Country": "CAN",
     "Team2025": "Winnipeg Ice 19U",
     "Team": "Winnipeg Ice",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Ava Telfer",
@@ -122751,7 +123601,7 @@
     "Country": "CAN",
     "Team2025": "Central Plains Capitals 19U",
     "Team": "Central Plains Capitals",
-    "Highest": "TmMB"
+    "Highest": "MBcamp"
   },
   {
     "Name": "Anna Terjanian",
@@ -122816,7 +123666,7 @@
     "Team2023": "St Albert Slash U18AA",
     "Team": "St Albert Slash",
     "College": "Colgate",
-    "Jr": "TmAB",
+    "Jr": "ABcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2026"
@@ -123042,8 +123892,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Embrun",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Cornwall U15AA",
-    "Team": "Cornwall"
+    "Team": "Cornwall",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Bailey Theis",
@@ -123096,7 +123951,7 @@
     "Team2024": "Nepean U22AA",
     "Team": "Nepean Wildcats",
     "College": "New Hampshire",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025"
@@ -123117,6 +123972,7 @@
     "Team": "Mississauga",
     "College": "Dartmouth",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -123395,8 +124251,8 @@
     "Country": "CAN",
     "Team2025": "Rothesay Netherwood School",
     "Team": "Rothesay Netherwood School",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Illya Thomas",
@@ -123428,10 +124284,14 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "G",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Etobicoke U15AA",
     "Team2024": "Toronto Aeros U18AA",
     "Team2025": "Toronto Aeros U18AA",
-    "Team": "Toronto Aeros"
+    "Team": "Toronto Aeros",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kakwi Thomas",
@@ -123593,9 +124453,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Shannonville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Belleville U15AA",
     "Team2025": "Belleville U15AA",
-    "Team": "Belleville"
+    "Team": "Belleville",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Avery Thompson",
@@ -123619,7 +124484,9 @@
     "Team2024": "East Ottawa Stars U18AA",
     "Team2025": "East Ottawa Stars U18AA",
     "Team": "East Ottawa Stars",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Dara Thompson",
@@ -123633,8 +124500,8 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Yellowhead",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Gia Thompson",
@@ -123847,8 +124714,8 @@
     "Team2023": "Etobicoke U22AA",
     "Team": "Etobicoke",
     "College": "Northeastern",
-    "Sr": "TmON-R",
-    "Highest": "TmON-R"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "True Thompson",
@@ -124483,12 +125350,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Bianca Toffan",
@@ -124615,9 +125485,9 @@
     "Team2024": "Eastman U18",
     "Team2025": "Eastman Selects 19U",
     "Team": "Eastman Selects",
-    "Jr": "TmMB",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Jr": "MBcamp",
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Eva Tomlin",
@@ -125160,7 +126030,7 @@
     "Team2025": "Stanstead College U22",
     "Team": "Stanstead College",
     "College": "Wisconsin",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "WNT-C",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
@@ -125274,6 +126144,7 @@
     "Team2025": "Central York U22AA",
     "Team": "Central York",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -125319,8 +126190,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "St. Catharines",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Burlington Barracudas 14U",
-    "Team": "Burlington Barracudas"
+    "Team": "Burlington Barracudas",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Olivia Trochta",
@@ -125786,11 +126662,11 @@
     "State": "QUE",
     "Country": "CAN",
     "Team": "Filon Or et des Bois",
-    "Fresh": "TmQC",
+    "Fresh": "QCcamp",
     "Soph": "x",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Lea Turcotte",
@@ -126025,9 +126901,9 @@
     "Country": "CAN",
     "Team2023": "RHA Kelowna",
     "Team2024": "RHA Kelowna",
-    "Jr": "TmBC",
+    "Jr": "BCcamp",
     "Sr": "x",
-    "Highest": "TmBC"
+    "Highest": "BCcamp"
   },
   {
     "Name": "Camdyn Twiss",
@@ -126093,9 +126969,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Oakville",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Oakville U15AA",
     "Team2025": "Oakville Hornets 14U",
-    "Team": "Oakville Hornets"
+    "Team": "Oakville Hornets",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Brooke Ueland",
@@ -126434,8 +127315,8 @@
     "Country": "CAN",
     "Team2025": "Rothesay Netherwood School",
     "Team": "Rothesay Netherwood School",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Maren Ushko",
@@ -126533,8 +127414,12 @@
     "PersonKey": "vail|elizabeth",
     "BirthYr": 2011,
     "Position": "F",
+    "City": "Ailsa Craig",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Bluewater U15AA",
-    "Team": "Bluewater"
+    "Team": "Bluewater",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Abby Vaill",
@@ -127152,9 +128037,9 @@
     "Team": "Stoney Creek",
     "College": "UCONN",
     "CCM68": "Yes",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "ONcamp",
-    "Highest": "TmON-B"
+    "Highest": "ONcamp"
   },
   {
     "Name": "Olivia VanSickle VanSickle",
@@ -127227,7 +128112,7 @@
     "Team2025": "Etobicoke U22AA",
     "Team": "Etobicoke",
     "College": "Providence",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "U18-C",
     "Highest": "U18-C"
   },
@@ -127493,10 +128378,10 @@
     "Team2023": "Champlain College",
     "Team2024": "Champlain College",
     "Team": "Champlain-Lennoxville",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Riley Veldman",
@@ -127849,10 +128734,10 @@
     "Team2024": "Limoilou",
     "Team2025": "Limoilou Cegep",
     "Team": "Limoilou Cegep",
-    "Soph": "TmQC",
+    "Soph": "QCcamp",
     "Jr": "x",
     "Sr": "x",
-    "Highest": "TmQC"
+    "Highest": "QCcamp"
   },
   {
     "Name": "Rachel Vicente",
@@ -128124,6 +129009,7 @@
     "Team": "Stoney Creek",
     "College": "UCONN",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "ONcamp",
     "Highest": "ONcamp"
   },
@@ -128163,10 +129049,23 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2023": "Etobicoke U15AA",
     "Team2024": "Oakville Hornets 16U",
     "Team2025": "Oakville U22AA",
-    "Team": "Oakville"
+    "Team": "Oakville",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
+  },
+  {
+    "Name": "Grace Vinet",
+    "PersonKey": "vinet|grace",
+    "Position": "F",
+    "City": "Rosslyn",
+    "State": "ONT",
+    "Country": "CAN",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Oliva Vinet",
@@ -129373,8 +130272,8 @@
     "Team2023": "Waterloo Ravens 19U",
     "Team": "Lindsay",
     "College": "Syracuse",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Trinity Walsh",
@@ -129509,12 +130408,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Terry Wang",
@@ -130109,6 +131011,15 @@
     "CCM68": "Yes"
   },
   {
+    "Name": "Margaret Wathke",
+    "PersonKey": "wathke|margaret",
+    "Position": "F",
+    "City": "Chesley",
+    "State": "ONT",
+    "Country": "CAN",
+    "Highest": "ON_U16"
+  },
+  {
     "Name": "Colbie Watson",
     "PersonKey": "watson|colbie",
     "BirthYr": 2010,
@@ -130382,9 +131293,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Aurora",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Central York U15AA",
     "Team2025": "Central York U15AA",
-    "Team": "Central York"
+    "Team": "Central York",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Elyse Webb",
@@ -130608,9 +131524,14 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Greater Napanee",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Kingston U15AA",
     "Team2025": "Kingston U15AA",
-    "Team": "Kingston"
+    "Team": "Kingston",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Carsyn Weglarz",
@@ -130841,8 +131762,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "St. Jacobs",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Waterloo U15AA",
-    "Team": "Waterloo"
+    "Team": "Waterloo",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Devon Weiss",
@@ -131143,8 +132069,8 @@
     "Country": "CAN",
     "Team2023": "Winnipeg Avros U18",
     "Team": "Winnipeg Avros",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Lauren West",
@@ -131468,8 +132394,8 @@
     "Team": "Stoney Creek",
     "College": "Princeton",
     "CCM68": "Yes",
-    "Soph": "TmAtl",
-    "Highest": "TmAtl"
+    "Soph": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Aliana White",
@@ -131889,8 +132815,8 @@
     "Country": "CAN",
     "Team": "Nepean",
     "College": "Stonehill",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Ashlea Whyte",
@@ -132441,8 +133367,8 @@
     "Team2024": "Northwood School",
     "Team": "Northwood School",
     "College": "Vermont",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Brooklyn Wilkins",
@@ -132496,8 +133422,8 @@
     "Country": "CAN",
     "Team2023": "Ottawa Sens U22AA",
     "Team": "Ottawa Sens",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Amelia Wilkinson",
@@ -132515,7 +133441,7 @@
     "Team2025": "Durham West U22AA",
     "Team": "Durham West",
     "College": "UCONN",
-    "Jr": "TmON-B",
+    "Jr": "ONcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025"
@@ -132578,7 +133504,9 @@
     "Country": "CAN",
     "Team2024": "Barrie U15AA",
     "Team": "Barrie Jr Sharks",
-    "College": "New Hampshire"
+    "College": "New Hampshire",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Harriet Willard",
@@ -132701,9 +133629,9 @@
     "Team2024": "Waterloo U22AA",
     "Team2025": "Skaneateles 14U",
     "Team": "Skaneateles",
-    "Jr": "TmAtl",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Jr": "ATcamp",
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Carter Williams",
@@ -132800,9 +133728,9 @@
     "State": "SAS",
     "Country": "CAN",
     "Team": "Notre Dame",
-    "Jr": "TmSK",
-    "Sr": "TmSK",
-    "Highest": "TmSK"
+    "Jr": "SKcamp",
+    "Sr": "SKcamp",
+    "Highest": "SKcamp"
   },
   {
     "Name": "Laila Williams",
@@ -132969,8 +133897,8 @@
     "Team2024": "Balmoral Hall",
     "Team": "Balmoral Hall",
     "College": "Syracuse",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Jillian Willis",
@@ -133328,8 +134256,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Kingston",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Kingston U15AA",
-    "Team": "Kingston"
+    "Team": "Kingston",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Avery Winchell",
@@ -133467,12 +134400,16 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
     "Team": "North York Storm",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Malee Winter",
@@ -133487,7 +134424,9 @@
     "Team2024": "Barrie U15AA",
     "Team2025": "Barrie U22AA",
     "Team": "Barrie",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Riley Winter",
@@ -133625,9 +134564,14 @@
     "BirthYr": 2012,
     "Grad": 2030,
     "Position": "F",
+    "City": "Toronto",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Etobicoke U15AA",
     "Team": "Etobicoke",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Fresh": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Kiya Witkin",
@@ -134029,7 +134973,7 @@
     "Team2024": "Etobicoke U22AA",
     "Team": "Etobicoke Dolphins",
     "College": "Colgate",
-    "Jr": "TmAtl",
+    "Jr": "ATcamp",
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025"
@@ -134075,8 +135019,8 @@
     "State": "NBR",
     "Country": "CAN",
     "Team": "Rothesay Netherwood School",
-    "Sr": "TmAtl",
-    "Highest": "TmAtl"
+    "Sr": "ATcamp",
+    "Highest": "ATcamp"
   },
   {
     "Name": "Jada Wood",
@@ -134188,9 +135132,13 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "G",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "Toronto-Leaside U18AA",
     "Team2025": "Toronto-Leaside U18AA",
-    "Team": "Toronto-Leaside"
+    "Team": "Toronto-Leaside",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Madelaine Wopling",
@@ -134278,7 +135226,7 @@
     "Country": "CAN",
     "Team2025": "Winnipeg Ice 19U",
     "Team": "Winnipeg Ice",
-    "Highest": "TmMB"
+    "Highest": "MBcamp"
   },
   {
     "Name": "Selene Wozney",
@@ -134714,8 +135662,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
+    "City": "Uxbridge",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Whitby U15AA",
-    "Team": "Whitby"
+    "Team": "Whitby",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Audrie Yanda",
@@ -134915,8 +135868,8 @@
     "Team2023": "Balmoral Hall",
     "Team": "Balmoral Hall",
     "College": "Hamilton",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
+    "Sr": "MBcamp",
+    "Highest": "MBcamp"
   },
   {
     "Name": "Serra Yilder",
@@ -135076,8 +136029,13 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Sarnia",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2025": "Bluewater U15AA",
-    "Team": "Bluewater"
+    "Team": "Bluewater",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Lille Young",
@@ -135263,9 +136221,15 @@
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Aurora",
+    "State": "ONT",
+    "Country": "CAN",
     "Team2024": "North York U18AA",
     "Team2025": "North York Storm 16U",
-    "Team": "North York Storm"
+    "Team": "North York Storm",
+    "Fresh": "ON_U16",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Amelia Yuke",
@@ -135967,9 +136931,9 @@
     "State": "ALB",
     "Country": "CAN",
     "Team": "Red Deer",
-    "Jr": "TmAB",
-    "Sr": "TmAB",
-    "Highest": "TmAB"
+    "Jr": "ABcamp",
+    "Sr": "ABcamp",
+    "Highest": "ABcamp"
   },
   {
     "Name": "Haylee Zinken",
@@ -136008,8 +136972,8 @@
     "Team2023": "Durham West U22AA",
     "Team": "Durham West",
     "College": "RIT",
-    "Sr": "TmON-B",
-    "Highest": "TmON-B"
+    "Sr": "ONcamp",
+    "Highest": "ONcamp"
   },
   {
     "Name": "Macy Ziskinder",
