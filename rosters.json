@@ -4447,7 +4447,7 @@
           "rp": "F"
         },
         {
-          "pk": "morey|piper",
+          "pk": "morey|shea",
           "n": "12",
           "name": "Piper Morey",
           "ry": "2009",
@@ -8925,7 +8925,7 @@
           "rp": "D"
         },
         {
-          "pk": "hayek|nicole",
+          "pk": "hayek|nicol",
           "n": "44",
           "name": "Nicole Hayek",
           "ry": "2010",
@@ -8965,9 +8965,9 @@
           "rp": "F"
         },
         {
-          "pk": "martin|lillia",
+          "pk": "martin|lilia",
           "n": "19",
-          "name": "Lillia Martin",
+          "name": "Lilia Martin",
           "ry": "2010",
           "rg": "2028",
           "rp": "F"
@@ -9051,30 +9051,6 @@
           "ry": "2010",
           "rg": "2029",
           "rp": "G"
-        },
-        {
-          "pk": "finke|emersyn",
-          "n": "23",
-          "name": "Emersyn Finke",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F"
-        },
-        {
-          "pk": "martin|lilia",
-          "n": "19",
-          "name": "Lilia Martin",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F"
-        },
-        {
-          "pk": "hayek|nicol",
-          "n": "44",
-          "name": "Nicol Hayek",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
         }
       ]
     },
@@ -17025,9 +17001,9 @@
           "rp": "D"
         },
         {
-          "pk": "martin|lillian",
+          "pk": "martin|lilia",
           "n": "4",
-          "name": "Lily Martin",
+          "name": "Lilia Martin",
           "ry": "2008",
           "rg": "2026",
           "rp": "F"
@@ -23311,326 +23287,334 @@
       ]
     },
     {
-      "team": "MN Blue Ox 14U",
+      "team": "MN Blue Ox",
       "country": "US",
       "players": [
-        {
-          "pk": "hardwick|ellissa",
-          "n": "14",
-          "name": "Ellissa Hardwick",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
         {
           "pk": "hagen|rylie",
           "n": "15",
           "name": "Rylie Hagen",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "hardwick|ellissa",
+          "n": "14",
+          "name": "Ellissa Hardwick",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
         },
         {
           "pk": "hjelmen|ady",
           "n": "18",
           "name": "Ady Hjelmen",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
         },
         {
           "pk": "hyduke|rohrey",
           "n": "12",
           "name": "Rohrey Hyduke",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "johnson|addison",
           "n": "7",
           "name": "Addy Johnson",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "oberg|raya",
           "n": "19",
           "name": "Raya Oberg",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "glas|kaylie",
-          "n": "17",
-          "name": "Kaylie Glas",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "freeman|kylee",
-          "n": "16",
-          "name": "Kylee Freeman",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "halvorson|brynn",
-          "n": "6",
-          "name": "Brynn Halvorson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "hebel|calleigh",
-          "n": "8",
-          "name": "Calleigh Hebel",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "sandstrom|tenley",
-          "n": "2",
-          "name": "Tenley Sandstrom",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "sutherland|britain",
-          "n": "9",
-          "name": "Britain Sutherland",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "bertie|teagan",
           "n": "10",
           "name": "Teagan Bertie",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "freeman|kylee",
+          "n": "16",
+          "name": "Kylee Freeman",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "glas|kaylie",
+          "n": "17",
+          "name": "Kaylie Glas",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
         },
         {
           "pk": "grafstrom|svea",
           "n": "5",
           "name": "Svea Grafstrom",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "halvorson|brynn",
+          "n": "6",
+          "name": "Brynn Halvorson",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "hebel|calleigh",
+          "n": "8",
+          "name": "Calleigh Hebel",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "horstman|eleanor",
           "n": "13",
           "name": "Ellie Horstman",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2031",
+          "rp": "F"
         },
         {
           "pk": "houle|elise",
           "n": "11",
           "name": "Elise Houle",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "rehm|elizabeth",
           "n": "4",
           "name": "Betsy Rehm",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "sandstrom|tenley",
+          "n": "2",
+          "name": "Tenley Sandstrom",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "sutherland|britain",
+          "n": "9",
+          "name": "Britain Sutherland",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "tohm|jessa",
+          "n": "3",
+          "name": "Jessa Tohm",
+          "ry": "2011",
+          "rg": "2031",
+          "rp": "F"
         },
         {
           "pk": "gregoire|gracie",
           "n": "1",
           "name": "Gracie Gregoire",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "G"
         },
         {
           "pk": "kvasager|reese",
           "n": "20",
           "name": "Reese Kvasager",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
         }
       ]
     },
     {
-      "team": "MN Elite Black - Royalty 19U",
+      "team": "MN Elite Black - Royalty",
       "country": "US",
       "players": [
         {
-          "pk": "christopherson|bryn",
-          "n": "4",
-          "name": "Bryn Christopherson",
+          "pk": "ball|katherine",
+          "n": "2",
+          "name": "Katie Ball",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2026",
+          "rp": "D"
         },
         {
           "pk": "callahan|elizabeth",
           "n": "3",
           "name": "Elizabeth Callahan",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2026",
+          "rp": "D"
         },
         {
-          "pk": "jelinek|claire",
-          "n": "6",
-          "name": "Claire Jelinek",
+          "pk": "christopherson|bryn",
+          "n": "4",
+          "name": "Bryn Christopherson",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "ball|katherine",
-          "n": "2",
-          "name": "Katie Ball",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2026",
+          "rp": "D"
         },
         {
           "pk": "gardner|taylor",
           "n": "5",
           "name": "Taylor Gardner",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2026",
+          "rp": "D"
+        },
+        {
+          "pk": "jelinek|claire",
+          "n": "6",
+          "name": "Claire Jelinek",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
         },
         {
           "pk": "vanstraaten|alexa",
           "n": "7",
           "name": "Alexa Van Straaten",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "king|chloe",
-          "n": "11",
-          "name": "Chloe King",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "olson|sophia",
-          "n": "14",
-          "name": "Sophia Olson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "zakrajsheck|kathryn",
-          "n": "19",
-          "name": "Katie Zakrajsheck",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2026",
+          "rp": "D"
         },
         {
           "pk": "arthur|callie",
           "n": "8",
           "name": "Callie Arthur",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "johnson|colleigh",
-          "n": "10",
-          "name": "Colleigh Johnson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
         },
         {
           "pk": "bendickson|grace",
           "n": "9",
           "name": "Grace Bendickson",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "johnson|colleigh",
+          "n": "10",
+          "name": "Colleigh Johnson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "king|chloe",
+          "n": "11",
+          "name": "Chloe King",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
         },
         {
           "pk": "koch|maysie",
           "n": "12",
           "name": "Maysie Koch",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "ostapeic|julia",
-          "n": "15",
-          "name": "Julia Ostapeic",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "perreault|ella",
-          "n": "16",
-          "name": "Ella Perreault",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "williams|makenzie",
-          "n": "18",
-          "name": "Makenzie Williams",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
         },
         {
           "pk": "nonweiler|ella",
           "n": "13",
           "name": "Ella Nonweiler",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "olson|sophia",
+          "n": "14",
+          "name": "Sophia Olson",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "ostapeic|julia",
+          "n": "15",
+          "name": "Julia Ostapeic",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "perreault|ella",
+          "n": "16",
+          "name": "Ella Perreault",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
         },
         {
           "pk": "prellwitz|brenna",
           "n": "17",
           "name": "Brenna Prellwitz",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2026",
+          "rp": "F"
         },
         {
-          "pk": "thompson|taylor",
-          "n": "30",
-          "name": "Taylor Thompson",
+          "pk": "williams|makenzie",
+          "n": "18",
+          "name": "Makenzie Williams",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "zakrajsheck|kathryn",
+          "n": "19",
+          "name": "Katie Zakrajsheck",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
         },
         {
           "pk": "marchese|gianna",
           "n": "1",
           "name": "Gianna Marchese",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2027",
+          "rp": "G"
+        },
+        {
+          "pk": "thompson|taylor",
+          "n": "30",
+          "name": "Taylor Thompson",
+          "ry": "",
+          "rg": "2026",
+          "rp": "G"
         },
         {
           "pk": "clardy|brielle",
@@ -23667,88 +23651,168 @@
       ]
     },
     {
-      "team": "MN Elite Blue - Nabc 16U",
+      "team": "MN Elite Blue - NABC",
       "country": "US",
       "players": [
         {
-          "pk": "ulrich|alexis",
-          "n": "9",
-          "name": "Alexis Ulrich",
+          "pk": "lafleur|aleah",
+          "n": "7",
+          "name": "Aleah La Fleur",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "holtzleicer|jahnica",
-          "n": "5",
-          "name": "Jahnica Holtzleicer",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "heinicke|alivia",
-          "n": "4",
-          "name": "Liv Heinicke",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "horton|lillian",
           "n": "6",
           "name": "Lillian Horton",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "ulrich|alexis",
+          "n": "9",
+          "name": "Alexis Ulrich",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "murray|lauryn",
           "n": "8",
           "name": "Lauryn Murray",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
-          "pk": "lafleur|aleah",
-          "n": "7",
-          "name": "Aleah La Fleur",
+          "pk": "holtzleicer|jahnica",
+          "n": "5",
+          "name": "Jahnica Holtzleicer",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2028",
+          "rp": "D"
         },
         {
-          "pk": "schlieman|mackenna",
-          "n": "20",
-          "name": "Mackenna Schlieman",
+          "pk": "heinicke|alivia",
+          "n": "4",
+          "name": "Liv Heinicke",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "rychley|hannah",
-          "n": "19",
-          "name": "Hannah Rychley",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "heising|brynn",
-          "n": "13",
-          "name": "Brynn Heising",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "sutch|amelia",
           "n": "22",
           "name": "Amelia Sutch",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "christian|alexandra",
+          "n": "11",
+          "name": "Alexandra Christian",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "heising|brynn",
+          "n": "13",
+          "name": "Brynn Heising",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "lindsay|alaina",
+          "n": "14",
+          "name": "Alaina Lindsay",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "pohl|anna",
+          "n": "17",
+          "name": "Anna Pohl",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "rychley|hannah",
+          "n": "19",
+          "name": "Hannah Rychley",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "babbit|ashley",
+          "n": "10",
+          "name": "Ashley Babbit",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "sommerfeld|claire",
+          "n": "21",
+          "name": "Claire Sommerfeld",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "lopez|gabriella",
+          "n": "15",
+          "name": "Gabi Lopez",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "schlieman|mackenna",
+          "n": "20",
+          "name": "Mackenna Schlieman",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "unklesbay|reese",
+          "n": "23",
+          "name": "Reese Unklesbay",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "risch|taylor",
+          "n": "18",
+          "name": "Taylor Risch",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "carlson|poppy",
+          "n": "1",
+          "name": "Poppy Carlson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G"
+        },
+        {
+          "pk": "draheim|ilamay",
+          "n": "30",
+          "name": "Ilamay Draheim",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G"
         },
         {
           "pk": "babbitt|ashley",
@@ -23757,394 +23821,354 @@
           "ry": "",
           "rg": "",
           "rp": "Forward"
-        },
-        {
-          "pk": "lindsay|alaina",
-          "n": "14",
-          "name": "Alaina Lindsay",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "pohl|anna",
-          "n": "17",
-          "name": "Anna Pohl",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "sommerfeld|claire",
-          "n": "21",
-          "name": "Claire Sommerfeld",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "unklesbay|reese",
-          "n": "23",
-          "name": "Reese Unklesbay",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "christian|alexandra",
-          "n": "11",
-          "name": "Alexandra Christian",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "lopez|gabriella",
-          "n": "15",
-          "name": "Gabi Lopez",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "risch|taylor",
-          "n": "18",
-          "name": "Taylor Risch",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "carlson|poppy",
-          "n": "1",
-          "name": "Poppy Carlson",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
-        },
-        {
-          "pk": "draheim|ilamay",
-          "n": "30",
-          "name": "Ilamay Draheim",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
         }
       ]
     },
     {
-      "team": "MN Elite Gold - Compass Capital 16U",
+      "team": "MN Elite Gold - Compass Capital",
       "country": "US",
       "players": [
-        {
-          "pk": "post|alaina",
-          "n": "7",
-          "name": "Alaina Post",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "schreifels|taylor",
-          "n": "4",
-          "name": "Taylor Schreifels",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "ueland|brooke",
-          "n": "5",
-          "name": "Brooke Ueland",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "zhao|bonnie",
-          "n": "6",
-          "name": "Bonnie Zhao",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
         {
           "pk": "maida|erica",
           "n": "2",
           "name": "Erica Maida",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
           "pk": "rogers|lillian",
           "n": "3",
           "name": "Lily Rogers",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
-          "pk": "hochbaum|kennedy",
-          "n": "14",
-          "name": "Kennedy Hochbaum",
+          "pk": "schreifels|taylor",
+          "n": "4",
+          "name": "Taylor Schreifels",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "D"
         },
         {
-          "pk": "fischer|cate",
-          "n": "10",
-          "name": "Cate Fischer",
+          "pk": "ueland|brooke",
+          "n": "5",
+          "name": "Brooke Ueland",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "D"
         },
         {
-          "pk": "hosfield|elaina",
-          "n": "15",
-          "name": "Elaina Hosfield",
+          "pk": "zhao|bonnie",
+          "n": "6",
+          "name": "Bonnie Zhao",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "post|alaina",
+          "n": "7",
+          "name": "Alaina Post",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
         },
         {
           "pk": "cody|angela",
           "n": "9",
           "name": "Angela Cody",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "wolter|madeline",
-          "n": "19",
-          "name": "Madeline Wolter",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
         },
         {
           "pk": "carlson|mali",
           "n": "8",
           "name": "Mali Carlson",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
         },
         {
-          "pk": "hansen|madeline",
-          "n": "13",
-          "name": "Madeline Hansen",
+          "pk": "fischer|cate",
+          "n": "10",
+          "name": "Cate Fischer",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "morgan|jia",
-          "n": "17",
-          "name": "Jia Morgan",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "gretz|brinley",
-          "n": "12",
-          "name": "Brinley Gretz",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
         },
         {
           "pk": "gore|makayla",
           "n": "11",
           "name": "Makayla Gore",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
         },
         {
-          "pk": "mullin|avery",
-          "n": "18",
-          "name": "Avery Mullin",
+          "pk": "gretz|brinley",
+          "n": "12",
+          "name": "Brinley Gretz",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "hansen|madeline",
+          "n": "13",
+          "name": "Madeline Hansen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "hosfield|elaina",
+          "n": "15",
+          "name": "Elaina Hosfield",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
         },
         {
           "pk": "miller|makenna",
           "n": "16",
           "name": "Makenna Miller",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "mullin|avery",
+          "n": "18",
+          "name": "Avery Mullin",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "wolter|madeline",
+          "n": "19",
+          "name": "Madeline Wolter",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "morgan|jia",
+          "n": "17",
+          "name": "Jia Morgan",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "hochbaum|kennedy",
+          "n": "14",
+          "name": "Kennedy Hochbaum",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
         },
         {
           "pk": "prosser|isabella",
           "n": "1",
           "name": "Isabella Prosser",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2027",
+          "rp": "G"
         },
         {
           "pk": "weiland|kaia",
           "n": "30",
           "name": "Kaia Weiland",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2027",
+          "rp": "G"
         }
       ]
     },
     {
-      "team": "MN Elite Green - Traveling Teams 19U",
+      "team": "MN Elite Green - Traveling Teams",
       "country": "US",
       "players": [
+        {
+          "pk": "bailey|ashlyn",
+          "n": "2",
+          "name": "Ashlyn Bailey",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
+        },
         {
           "pk": "cullen|teagan",
           "n": "3",
           "name": "Teagan Cullen",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "knott|millie",
-          "n": "5",
-          "name": "Millie Knott",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "stauber|sarah",
-          "n": "6",
-          "name": "Sarah Stauber",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
           "pk": "haley|reagan",
           "n": "4",
           "name": "Reagan Haley",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2026",
+          "rp": "D"
         },
         {
-          "pk": "thomas|cambriia",
-          "n": "18",
-          "name": "Cambriia Thomas",
+          "pk": "knott|millie",
+          "n": "5",
+          "name": "Millie Knott",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "stauber|sarah",
+          "n": "6",
+          "name": "Sarah Stauber",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
         },
         {
           "pk": "wilson|lucey",
           "n": "7",
           "name": "Lucey Wilson",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2026",
+          "rp": "D"
         },
         {
-          "pk": "french|jaylie",
-          "n": "9",
-          "name": "Jaylie French",
+          "pk": "johnson|lydia",
+          "n": "17",
+          "name": "Lydia Johnson",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "thomas|cambriia",
+          "n": "18",
+          "name": "Cambriia Thomas",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
         },
         {
           "pk": "benson|shay",
           "n": "8",
           "name": "Shay Benson",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
         },
         {
-          "pk": "reese|taylor",
-          "n": "13",
-          "name": "Taylor Reese",
+          "pk": "french|jaylie",
+          "n": "9",
+          "name": "Jaylie French",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "schultz|blake",
-          "n": "15",
-          "name": "Blake Schultz",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "debay|kylie",
-          "n": "19",
-          "name": "Kylie Debay",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "kalbrener|karlee",
-          "n": "11",
-          "name": "Karlee Kalbrener",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "melquist|haylee",
-          "n": "21",
-          "name": "Haylee Melquist",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "nichols|grace",
-          "n": "12",
-          "name": "Grace Nichols",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "ruska|reese",
-          "n": "14",
-          "name": "Reese Ruska",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
         },
         {
           "pk": "hovda|jasmine",
           "n": "10",
           "name": "Jasmine Hovda",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2026",
+          "rp": "F"
         },
         {
-          "pk": "rolli|payton",
-          "n": "30",
-          "name": "Payton Rolli",
+          "pk": "kalbrener|karlee",
+          "n": "11",
+          "name": "Karlee Kalbrener",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "nichols|grace",
+          "n": "12",
+          "name": "Grace Nichols",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "reese|taylor",
+          "n": "13",
+          "name": "Taylor Reese",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "ruska|reese",
+          "n": "14",
+          "name": "Reese Ruska",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "schultz|blake",
+          "n": "15",
+          "name": "Blake Schultz",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "scott|mayme",
+          "n": "16",
+          "name": "Mayme Scott",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "debay|kylie",
+          "n": "19",
+          "name": "Kylie Debay",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "dutton|lilly",
+          "n": "20",
+          "name": "Lilly Dutton",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "melquist|haylee",
+          "n": "21",
+          "name": "Haylee Melquist",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
         },
         {
           "pk": "lisell|madalyn",
           "n": "1",
           "name": "Madalyn Lisell",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2027",
+          "rp": "G"
+        },
+        {
+          "pk": "rolli|payton",
+          "n": "30",
+          "name": "Payton Rolli",
+          "ry": "",
+          "rg": "2026",
+          "rp": "G"
         },
         {
           "pk": "antilla|aaili",
@@ -24157,32 +24181,184 @@
       ]
     },
     {
-      "team": "MN Elite Navy - Morgan Stanley 19U",
+      "team": "MN Elite Navy - Morgan Stanley",
       "country": "US",
       "players": [
+        {
+          "pk": "aswegan|kylie",
+          "n": "2",
+          "name": "Kylie Aswegan",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
+        },
+        {
+          "pk": "defauw|lillian",
+          "n": "3",
+          "name": "Lillian DeFauw",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
+        },
         {
           "pk": "eggert|annika",
           "n": "4",
           "name": "Annika Eggert",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "elfstrand|madeline",
+          "n": "5",
+          "name": "Madeline Elfstrand",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "emmegrinsteinner|emerson",
+          "n": "6",
+          "name": "Emerson (Emme) Grinsteinner",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "iverson|riley",
+          "n": "7",
+          "name": "Riley Iverson",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
         },
         {
           "pk": "anderson|cali",
           "n": "8",
           "name": "Cali Anderson",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
-          "pk": "aswegan|kylie",
-          "n": "2",
-          "name": "Kylie Aswegan",
+          "pk": "schumm|alexa",
+          "n": "21",
+          "name": "Alexa Schumm",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "bond|ella",
+          "n": "9",
+          "name": "Ella Bond",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "costa|abbey",
+          "n": "10",
+          "name": "Abbey Costa",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "gerdes|julia",
+          "n": "11",
+          "name": "Julia Gerdes",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "goskeson|morgan",
+          "n": "12",
+          "name": "Morgan Goskeson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "kennedy|morgan",
+          "n": "13",
+          "name": "Morgan Kennedy",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "koehler|brelynn",
+          "n": "14",
+          "name": "Brelynn Koehler",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "laska|brynne",
+          "n": "15",
+          "name": "Brynne Laska",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "newton|brielle",
+          "n": "16",
+          "name": "Brielle Newton",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "petterssen|sidney",
+          "n": "17",
+          "name": "Sidney Petterssen",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "renslow|lillian",
+          "n": "18",
+          "name": "Lillian Renslow",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "sharkey|ella",
+          "n": "19",
+          "name": "Ella Sharkey",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "sherf|alexa",
+          "n": "20",
+          "name": "Alexa Sherf",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "solnitzky|haley",
+          "n": "30",
+          "name": "Haley Solnitzky",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G"
+        },
+        {
+          "pk": "underwood|makena",
+          "n": "34",
+          "name": "Makena Underwood",
+          "ry": "",
+          "rg": "2026",
+          "rp": "G"
         },
         {
           "pk": "grinsteinner|emerson",
@@ -24191,118 +24367,6 @@
           "ry": "",
           "rg": "",
           "rp": "Defense"
-        },
-        {
-          "pk": "iverson|riley",
-          "n": "7",
-          "name": "Riley Iverson",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "defauw|lillian",
-          "n": "3",
-          "name": "Lillian Defauw",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "elfstrand|madeline",
-          "n": "5",
-          "name": "Madeline Elfstrand",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "renslow|lillian",
-          "n": "18",
-          "name": "Lillian Renslow",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "goskeson|morgan",
-          "n": "12",
-          "name": "Morgan Goskeson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "gerdes|julia",
-          "n": "11",
-          "name": "Julia Gerdes",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "koehler|brelynn",
-          "n": "14",
-          "name": "Brelynn Koehler",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "sharkey|ella",
-          "n": "19",
-          "name": "Ella Sharkey",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "kennedy|morgan",
-          "n": "13",
-          "name": "Morgan Kennedy",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "petterssen|sidney",
-          "n": "17",
-          "name": "Sidney Petterssen",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "sherf|alexa",
-          "n": "20",
-          "name": "Alexa Sherf",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "bond|ella",
-          "n": "9",
-          "name": "Ella Bond",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "costa|abbey",
-          "n": "10",
-          "name": "Abbey Costa",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "laska|brynne",
-          "n": "15",
-          "name": "Brynne Laska",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
         },
         {
           "pk": "clardy|brielle",
@@ -24321,30 +24385,6 @@
           "rp": "Forward"
         },
         {
-          "pk": "newton|brielle",
-          "n": "16",
-          "name": "Brielle Newton",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "solnitzky|haley",
-          "n": "30",
-          "name": "Haley Solnitzky",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
-        },
-        {
-          "pk": "underwood|makena",
-          "n": "34",
-          "name": "Makena Underwood",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
-        },
-        {
           "pk": "hills|claire",
           "n": "35",
           "name": "Claire Hills",
@@ -24355,144 +24395,160 @@
       ]
     },
     {
-      "team": "MN Elite Silver - Msp 16U",
+      "team": "MN Elite Silver - MSP Magazine",
       "country": "US",
       "players": [
-        {
-          "pk": "braunshausen|olivia",
-          "n": "2",
-          "name": "Olivia Braunshausen",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
         {
           "pk": "buccicone|annabelle",
           "n": "3",
           "name": "Annabelle Buccicone",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "gallagher|fiona",
           "n": "4",
           "name": "Fiona Gallagher",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "manion|taylee",
-          "n": "5",
-          "name": "Taylee Manion",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
           "pk": "noble|noelle",
           "n": "6",
           "name": "Noelle Noble",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
           "pk": "tomlinson|maisy",
           "n": "7",
           "name": "Maisy Tomlinson",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
-          "pk": "miller|delaney",
-          "n": "14",
-          "name": "Delaney Miller",
+          "pk": "braunshausen|olivia",
+          "n": "2",
+          "name": "Olivia Braunshausen",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "D"
         },
         {
-          "pk": "petersen|jayden",
-          "n": "15",
-          "name": "Jayden Petersen",
+          "pk": "manion|taylee",
+          "n": "5",
+          "name": "Taylee Manion",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "bakker|hadley",
           "n": "8",
           "name": "Hadley Bakker",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "davis|audrey",
-          "n": "11",
-          "name": "Audrey Davis",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "johnson|sarah",
-          "n": "13",
-          "name": "Sarah Johnson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "chatleain|jaycee",
-          "n": "10",
-          "name": "Jaycee Chatleain",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "hall|taylor",
-          "n": "12",
-          "name": "Taylor Hall",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "starr|kayla",
-          "n": "17",
-          "name": "Kayla Starr",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "boone|maddison",
-          "n": "9",
-          "name": "Maddison Boone",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "wieneke|harper",
-          "n": "18",
-          "name": "Harper Wieneke",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2027",
+          "rp": "F"
         },
         {
           "pk": "skoogman|gwynneth",
           "n": "16",
           "name": "Gwynneth Skoogman",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "chatleain|jaycee",
+          "n": "10",
+          "name": "Jaycee Chatleain",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "davis|audrey",
+          "n": "11",
+          "name": "Audrey Davis",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "johnson|sarah",
+          "n": "13",
+          "name": "Sarah Johnson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "miller|delaney",
+          "n": "14",
+          "name": "Delaney Miller",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "petersen|jayden",
+          "n": "15",
+          "name": "Jayden Petersen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "starr|kayla",
+          "n": "17",
+          "name": "Kayla Starr",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "wieneke|harper",
+          "n": "18",
+          "name": "Harper Wieneke",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "boone|maddison",
+          "n": "9",
+          "name": "Maddison Boone",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "hall|taylor",
+          "n": "12",
+          "name": "Taylor Hall",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "anderson|vivienne",
+          "n": "1",
+          "name": "Vivienne Anderson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G"
+        },
+        {
+          "pk": "engfer|finley",
+          "n": "30",
+          "name": "Finley Engfer",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G"
         },
         {
           "pk": "anderson|vivenne",
@@ -24501,218 +24557,338 @@
           "ry": "",
           "rg": "",
           "rp": "Goalie"
-        },
-        {
-          "pk": "engfer|finley",
-          "n": "30",
-          "name": "Finley Engfer",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
         }
       ]
     },
     {
-      "team": "MN Elite Sky - Streamline 16U",
+      "team": "MN Elite Sky - Streamline Design",
       "country": "US",
       "players": [
         {
-          "pk": "omann|marian",
-          "n": "6",
-          "name": "Marian Omann",
+          "pk": "kapeller|brooke",
+          "n": "4",
+          "name": "Brooke Kapeller",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "sterns|isabella",
           "n": "7",
           "name": "Isabella Sterns",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "jacobson|carly",
-          "n": "3",
-          "name": "Carly Jacobson",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "kapeller|brooke",
-          "n": "4",
-          "name": "Brooke Kapeller",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "kramer|estella",
-          "n": "5",
-          "name": "Stella Kramer",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "halverson|brielle",
           "n": "2",
           "name": "Brielle Halverson",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2029",
+          "rp": "D"
         },
         {
-          "pk": "benedict|carmen",
-          "n": "9",
-          "name": "Carmen Benedict",
+          "pk": "jacobson|carly",
+          "n": "3",
+          "name": "Carly Jacobson",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2029",
+          "rp": "D"
         },
         {
-          "pk": "kelzenberg|jozie",
-          "n": "13",
-          "name": "Jozie Kelzenberg",
+          "pk": "kramer|estella",
+          "n": "5",
+          "name": "Stella Kramer",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2029",
+          "rp": "D"
         },
         {
-          "pk": "miller|taylor",
-          "n": "15",
-          "name": "Taylor Miller",
+          "pk": "omann|marian",
+          "n": "6",
+          "name": "Marian Omann",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "D"
         },
         {
-          "pk": "bailey|eleanor",
-          "n": "8",
-          "name": "Ellie Bailey",
+          "pk": "defauw|allison",
+          "n": "10",
+          "name": "Allie DeFauw",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "peck|lilly",
-          "n": "16",
-          "name": "Lilly Peck",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "szybatka|kami",
-          "n": "19",
-          "name": "Kami Szybatka",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
         },
         {
           "pk": "heckendorf|charlotte",
           "n": "12",
           "name": "Charlotte Heckendorf",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
         },
         {
-          "pk": "fitzgerald|mae",
-          "n": "11",
-          "name": "Mae Fitzgerald",
+          "pk": "szybatka|kami",
+          "n": "19",
+          "name": "Kami Szybatka",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
         },
         {
-          "pk": "defauw|allison",
-          "n": "10",
-          "name": "Allie Defauw",
+          "pk": "bailey|eleanor",
+          "n": "8",
+          "name": "Ellie Bailey",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2029",
+          "rp": "F"
         },
         {
-          "pk": "roberts|olivia",
-          "n": "17",
-          "name": "Olivia Roberts",
+          "pk": "benedict|carmen",
+          "n": "9",
+          "name": "Carmen Benedict",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "mcgarvey|katherine",
+          "n": "14",
+          "name": "Katherine McGarvey",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "peck|lilly",
+          "n": "16",
+          "name": "Lilly Peck",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "kelzenberg|jozie",
+          "n": "13",
+          "name": "Jozie Kelzenberg",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "strothman|estella",
           "n": "18",
           "name": "Stella Strothman",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2029",
+          "rp": "F"
         },
         {
-          "pk": "mcgarvey|katherine",
-          "n": "14",
-          "name": "Katherine Mcgarvey",
+          "pk": "fitzgerald|mae",
+          "n": "11",
+          "name": "Mae Fitzgerald",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "roberts|olivia",
+          "n": "17",
+          "name": "Olivia Roberts",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "miller|taylor",
+          "n": "15",
+          "name": "Taylor Miller",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
         },
         {
           "pk": "ottum|alexa",
           "n": "1",
           "name": "Alexa Ottum",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2029",
+          "rp": "G"
         },
         {
           "pk": "tessier|zoey",
           "n": "30",
           "name": "Zoey Tessier",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2028",
+          "rp": "G"
         }
       ]
     },
     {
-      "team": "MN Elite Vegas - Tradition 19U",
+      "team": "MN Elite Vegas - Tradition Mortgage",
       "country": "US",
       "players": [
+        {
+          "pk": "mcalexander|jemma",
+          "n": "3",
+          "name": "Jemma McAlexander",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "mclay|addison",
+          "n": "4",
+          "name": "Addison McLay",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
         {
           "pk": "moe|elizabeth",
           "n": "5",
           "name": "Libby Moe",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "miller|mia",
-          "n": "11",
-          "name": "Mia Miller",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "mcalexander|jemma",
-          "n": "3",
-          "name": "Jemma Mcalexander",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2027",
+          "rp": "D"
         },
         {
           "pk": "sander|kateryna",
           "n": "8",
           "name": "Katya Sander",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2026",
+          "rp": "D"
+        },
+        {
+          "pk": "wethington|adeline",
+          "n": "10",
+          "name": "Adeline Wethington",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "miller|mia",
+          "n": "11",
+          "name": "Mia Miller",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
+        },
+        {
+          "pk": "burnevik|sydney",
+          "n": "12",
+          "name": "Sydney Burnevik",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "gnetz|alaina",
+          "n": "13",
+          "name": "Alaina Gnetz",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "hansen|talla",
+          "n": "14",
+          "name": "Talla Hansen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "kimbrel|madelyn",
+          "n": "15",
+          "name": "Maddy Kimbrel",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "laager|grace",
+          "n": "18",
+          "name": "Grace Laager",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "lee|madelyn",
+          "n": "19",
+          "name": "Madelyn Lee",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "mccoy|cate",
+          "n": "20",
+          "name": "Cate McCoy",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "nelson|lorelai",
+          "n": "21",
+          "name": "Lorelai Nelson",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "pohl|emily",
+          "n": "22",
+          "name": "Emily Pohl",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "rupp|bailey",
+          "n": "24",
+          "name": "Bailey Rupp",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "ryan|allison",
+          "n": "25",
+          "name": "Allison Ryan",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F"
+        },
+        {
+          "pk": "semling|june",
+          "n": "26",
+          "name": "June Semling",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "mcgawn|jane",
+          "n": "1",
+          "name": "Janie McGawn",
+          "ry": "",
+          "rg": "2026",
+          "rp": "G"
+        },
+        {
+          "pk": "swartout|kayla",
+          "n": "30",
+          "name": "Kayla Swartout",
+          "ry": "",
+          "rg": "2026",
+          "rp": "G"
         },
         {
           "pk": "gnetz|brooke",
@@ -24721,489 +24897,521 @@
           "ry": "",
           "rg": "",
           "rp": "Defense"
-        },
-        {
-          "pk": "mclay|addison",
-          "n": "4",
-          "name": "Addison Mclay",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "wethington|adeline",
-          "n": "10",
-          "name": "Adeline Wethington",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "lee|madelyn",
-          "n": "19",
-          "name": "Madelyn Lee",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "gnetz|alaina",
-          "n": "13",
-          "name": "Alaina Gnetz",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "kimbrel|madelyn",
-          "n": "15",
-          "name": "Maddy Kimbrel",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "pohl|emily",
-          "n": "22",
-          "name": "Emily Pohl",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "rupp|bailey",
-          "n": "24",
-          "name": "Bailey Rupp",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "burnevik|sydney",
-          "n": "12",
-          "name": "Sydney Burnevik",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "hansen|talla",
-          "n": "14",
-          "name": "Talla Hansen",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "laager|grace",
-          "n": "18",
-          "name": "Grace Laager",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "mccoy|cate",
-          "n": "20",
-          "name": "Cate Mccoy",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "nelson|lorelai",
-          "n": "21",
-          "name": "Lorelai Nelson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "ryan|allison",
-          "n": "25",
-          "name": "Allison Ryan",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "semling|june",
-          "n": "26",
-          "name": "June Semling",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "mcgawn|jane",
-          "n": "1",
-          "name": "Janie Mcgawn",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
-        },
-        {
-          "pk": "swartout|kayla",
-          "n": "30",
-          "name": "Kayla Swartout",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
         }
       ]
     },
     {
-      "team": "MN Elite White - Ftw Ccm 16U",
+      "team": "MN Elite White - FTW CCM",
       "country": "US",
       "players": [
-        {
-          "pk": "greenagel|margaret",
-          "n": "2",
-          "name": "Maggie Greenagel",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "koski|brooke",
-          "n": "4",
-          "name": "Brooke Koski",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "milbridge|avery",
-          "n": "5",
-          "name": "Avery Milbridge",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
         {
           "pk": "vigness|adley",
           "n": "6",
           "name": "Adley Vigness",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "bartovich|madison",
-          "n": "19",
-          "name": "Madison Bartovich",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "heitzman|natalie",
-          "n": "20",
-          "name": "Natalie Heitzman",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "knutson|grace",
-          "n": "3",
-          "name": "Grace Knutson",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "waldorf|danica",
           "n": "8",
           "name": "Danica Waldorf",
           "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "rg": "2028",
+          "rp": "D"
         },
         {
-          "pk": "dalager|lila",
-          "n": "12",
-          "name": "Lila Dalager",
+          "pk": "knutson|grace",
+          "n": "3",
+          "name": "Grace Knutson",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "D"
         },
         {
-          "pk": "hedlund|greta",
-          "n": "15",
-          "name": "Greta Hedlund",
+          "pk": "bartovich|madison",
+          "n": "19",
+          "name": "Madison Bartovich",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "D"
+        },
+        {
+          "pk": "greenagel|margaret",
+          "n": "2",
+          "name": "Maggie Greenagel",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "koski|brooke",
+          "n": "4",
+          "name": "Brooke Koski",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "milbridge|avery",
+          "n": "5",
+          "name": "Avery Milbridge",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "heitzman|natalie",
+          "n": "20",
+          "name": "Natalie Heitzman",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D"
         },
         {
           "pk": "kaups|ella",
           "n": "16",
           "name": "Ella Kaups",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "ketring|ella",
-          "n": "17",
-          "name": "Ella Ketring",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "anthony|olivia",
-          "n": "10",
-          "name": "Olivia Anthony",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "bjorkman|anna",
-          "n": "11",
-          "name": "Anna Bjorkman",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "lorenson|lindsey",
-          "n": "22",
-          "name": "Lindsey Lorenson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "anderson|opal",
-          "n": "9",
-          "name": "Opal Anderson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "dutton|maya",
-          "n": "14",
-          "name": "Maya Dutton",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "theis|bailey",
-          "n": "18",
-          "name": "Bailey Theis",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "carlson|katelyn",
-          "n": "21",
-          "name": "Katelyn Carlson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
         },
         {
           "pk": "doherty|emily",
           "n": "13",
           "name": "Emily Doherty",
           "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "rg": "2028",
+          "rp": "F"
         },
         {
-          "pk": "strang|izabella",
-          "n": "36",
-          "name": "Izabella Strang",
+          "pk": "lorenson|lindsey",
+          "n": "22",
+          "name": "Lindsey Lorenson",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "dutton|maya",
+          "n": "14",
+          "name": "Maya Dutton",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "anderson|opal",
+          "n": "9",
+          "name": "Opal Anderson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "anthony|olivia",
+          "n": "10",
+          "name": "Olivia Anthony",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "bjorkman|anna",
+          "n": "11",
+          "name": "Anna Bjorkman",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "dalager|lila",
+          "n": "12",
+          "name": "Lila Dalager",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "hedlund|greta",
+          "n": "15",
+          "name": "Greta Hedlund",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "ketring|ella",
+          "n": "17",
+          "name": "Ella Ketring",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "theis|bailey",
+          "n": "18",
+          "name": "Bailey Theis",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "carlson|katelyn",
+          "n": "21",
+          "name": "Katelyn Carlson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "pieper|emma",
           "n": "30",
           "name": "Emma Pieper",
           "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "rg": "2028",
+          "rp": "G"
+        },
+        {
+          "pk": "strang|izabella",
+          "n": "36",
+          "name": "Izabella Strang",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G"
         }
       ]
     },
     {
-      "team": "MN Green Giants 14U",
+      "team": "MN Green Giants",
       "country": "US",
       "players": [
         {
           "pk": "lindholm|mila",
           "n": "13",
           "name": "Mila Lindholm",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "hall|brooklyn",
-          "n": "18",
-          "name": "Brooklyn Hall",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "nowling|brenna",
-          "n": "15",
-          "name": "Brenna Nowling",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "pitzen|olivia",
           "n": "14",
           "name": "Olivia Pitzen",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "nowling|brenna",
+          "n": "15",
+          "name": "Brenna Nowling",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "pohl|ella",
           "n": "16",
           "name": "Ella Pohl",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
         },
         {
           "pk": "taylor|tru",
           "n": "17",
           "name": "Tru Taylor",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
         },
         {
-          "pk": "wagner|avery",
-          "n": "19",
-          "name": "Avery Wagner",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "genia|kathryn",
-          "n": "8",
-          "name": "Kathryn Genia",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "peck|kaiya",
-          "n": "5",
-          "name": "Kaiya Peck",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "kotzenmacher|chloe",
-          "n": "7",
-          "name": "Chloe Kotzenmacher",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "pk": "hall|brooklyn",
+          "n": "18",
+          "name": "Brooklyn Hall",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
         },
         {
           "pk": "caven|finley",
           "n": "2",
           "name": "Finley Caven",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "jones|abigail",
           "n": "3",
           "name": "Abigail Jones",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "zins|alyson",
-          "n": "6",
-          "name": "Alyson Zins",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "krueger|korbyn",
-          "n": "10",
-          "name": "Korbyn Krueger",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "herman|evelyn",
-          "n": "9",
-          "name": "Evelyn Herman",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
         },
         {
           "pk": "johnson|estella",
           "n": "4",
           "name": "Stella Johnson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "peck|kaiya",
+          "n": "5",
+          "name": "Kaiya Peck",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "zins|alyson",
+          "n": "6",
+          "name": "Alyson Zins",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "kotzenmacher|chloe",
+          "n": "7",
+          "name": "Chloe Kotzenmacher",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "genia|kathryn",
+          "n": "8",
+          "name": "Kathryn Genia",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "herman|evelyn",
+          "n": "9",
+          "name": "Evelyn Herman",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "krueger|korbyn",
+          "n": "10",
+          "name": "Korbyn Krueger",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "reynolds|hailey",
           "n": "11",
           "name": "Hailey Reynolds",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "skoglund|lucy",
           "n": "12",
           "name": "Lucy Skoglund",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "wagner|avery",
+          "n": "19",
+          "name": "Avery Wagner",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "grams|natalie",
           "n": "1",
           "name": "Natalie Grams",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "G"
         },
         {
           "pk": "nuernberg|lauren",
           "n": "20",
           "name": "Lauren Nuernberg",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
         }
       ]
     },
     {
-      "team": "MN Grey Ducks 14U",
+      "team": "MN Grey Ducks",
       "country": "US",
       "players": [
+        {
+          "pk": "hanson|indiana",
+          "n": "2",
+          "name": "Indiana Hanson",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "harazin|brecklyn",
+          "n": "3",
+          "name": "Brecklyn Harazin",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "hugget|gwen",
+          "n": "4",
+          "name": "Gwen Hugget",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "mcgriff|brooke",
+          "n": "5",
+          "name": "Brooke McGriff",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "nelson|britt",
+          "n": "6",
+          "name": "Britt Nelson",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "schmidt|sally",
+          "n": "7",
+          "name": "Sally Schmidt",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "akerson|alaina",
+          "n": "8",
+          "name": "Alaina Akerson",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "bergstrom|brynlee",
+          "n": "9",
+          "name": "Brynlee Bergstrom",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "cano|viviana",
+          "n": "10",
+          "name": "Viviana Cano",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "demuth|eme",
+          "n": "11",
+          "name": "Eme DeMuth",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "geislinger|kardun",
+          "n": "12",
+          "name": "Kardun Geislinger",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "haider|olivia",
+          "n": "13",
+          "name": "Olivia Haider",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "haugen|callie",
+          "n": "14",
+          "name": "Callie Haugen",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "hodgeman|maren",
+          "n": "15",
+          "name": "Maren Hodgeman",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "honsey|hayden",
+          "n": "16",
+          "name": "Hayden Honsey",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "hutchinson|kora",
+          "n": "17",
+          "name": "Kora Hutchinson",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "loucks|sawyer",
+          "n": "18",
+          "name": "Sawyer Loucks",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "torberg|lilah",
+          "n": "19",
+          "name": "Lilah Torberg",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "buesking|olivia",
+          "n": "1",
+          "name": "Olivia Buesking",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
+        },
+        {
+          "pk": "honsey|harper",
+          "n": "20",
+          "name": "Harper Honsey",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
+        },
         {
           "pk": "huggett|gwen",
           "n": "4",
@@ -25213,105 +25421,9 @@
           "rp": "Defense"
         },
         {
-          "pk": "mcgriff|brooke",
-          "n": "5",
-          "name": "Brooke Mcgriff",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "hanson|indiana",
-          "n": "2",
-          "name": "Indiana Hanson",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "harazin|brecklyn",
-          "n": "3",
-          "name": "Brecklyn Harazin",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "nelson|britt",
-          "n": "6",
-          "name": "Britt Nelson",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "schmidt|sally",
-          "n": "7",
-          "name": "Sally Schmidt",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
           "pk": "demuth|emerson",
           "n": "11",
           "name": "Emerson Demuth",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "geislinger|kardun",
-          "n": "12",
-          "name": "Kardun Geislinger",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "haugen|callie",
-          "n": "14",
-          "name": "Callie Haugen",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "loucks|sawyer",
-          "n": "18",
-          "name": "Sawyer Loucks",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "akerson|alaina",
-          "n": "8",
-          "name": "Alaina Akerson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "bergstrom|brynlee",
-          "n": "9",
-          "name": "Brynlee Bergstrom",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "honsey|hayden",
-          "n": "16",
-          "name": "Hayden Honsey",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "cano|viviana",
-          "n": "10",
-          "name": "Viviana Cano",
           "ry": "",
           "rg": "",
           "rp": "Forward"
@@ -25331,22 +25443,6 @@
           "ry": "",
           "rg": "",
           "rp": "Forward"
-        },
-        {
-          "pk": "buesking|olivia",
-          "n": "1",
-          "name": "Olivia Buesking",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
-        },
-        {
-          "pk": "honsey|harper",
-          "n": "20",
-          "name": "Harper Honsey",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
         }
       ]
     },
@@ -25903,286 +25999,294 @@
       ]
     },
     {
-      "team": "MN Lakers 14U",
+      "team": "MN Lakers",
       "country": "US",
       "players": [
         {
           "pk": "chambliss|makenna",
           "n": "13",
           "name": "Makenna Chambliss",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "nelson|josephine",
-          "n": "12",
-          "name": "Josie Nelson",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "dunlap|evelyn",
           "n": "16",
           "name": "Evelyn Dunlap",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
         },
         {
-          "pk": "palmstein|reese",
-          "n": "15",
-          "name": "Reese Palmstein",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "pk": "nelson|josephine",
+          "n": "12",
+          "name": "Josie Nelson",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
         },
         {
           "pk": "noble|ashley",
           "n": "14",
           "name": "Ashley Noble",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "palmstein|reese",
+          "n": "15",
+          "name": "Reese Palmstein",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "whipple|caroline",
           "n": "11",
           "name": "Caroline Whipple",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "nichols|audrey",
-          "n": "4",
-          "name": "Audrey Nichols",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "hartle|joey",
-          "n": "5",
-          "name": "Joey Hartle",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "kragness|leighton",
-          "n": "2",
-          "name": "Leighton Kragness",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "gerebi|grace",
-          "n": "3",
-          "name": "Grace Gerebi",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "keepman|caroline",
-          "n": "6",
-          "name": "Caroline Keepman",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "aronson|lillian",
           "n": "8",
           "name": "Lillian Aronson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
-          "pk": "starkey|kendall",
-          "n": "9",
-          "name": "Kendall Starkey",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "svobodny|raeya",
-          "n": "10",
-          "name": "Raeya Svobodny",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "pk": "gerebi|grace",
+          "n": "3",
+          "name": "Grace Gerebi",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "grinsteinner|piper",
           "n": "7",
           "name": "Piper Grinsteinner",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
-          "pk": "tam|piper",
-          "n": "20",
-          "name": "Piper Tam",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "pk": "hartle|joey",
+          "n": "5",
+          "name": "Joey Hartle",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "keepman|caroline",
+          "n": "6",
+          "name": "Caroline Keepman",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "kragness|leighton",
+          "n": "2",
+          "name": "Leighton Kragness",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "nichols|audrey",
+          "n": "4",
+          "name": "Audrey Nichols",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "starkey|kendall",
+          "n": "9",
+          "name": "Kendall Starkey",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "svobodny|raeya",
+          "n": "10",
+          "name": "Raeya Svobodny",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
         },
         {
           "pk": "byrne|chloe",
           "n": "1",
           "name": "Chloe Byrne",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
+        },
+        {
+          "pk": "tam|piper",
+          "n": "20",
+          "name": "Piper Tam",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
         }
       ]
     },
     {
-      "team": "MN Loons 14U",
+      "team": "MN Loons",
       "country": "US",
       "players": [
-        {
-          "pk": "salonek|elizabeth",
-          "n": "7",
-          "name": "Elizabeth Salonek",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
         {
           "pk": "beck|brooklyn",
           "n": "2",
           "name": "Brooklyn Beck",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "sachs|caylee",
-          "n": "6",
-          "name": "Caylee Sachs",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
         },
         {
           "pk": "birch|sydney",
           "n": "3",
           "name": "Sydney Birch",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "kaufman|emily",
           "n": "4",
           "name": "Emily Kaufman",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
         },
         {
           "pk": "remitz|elizabeth",
           "n": "5",
           "name": "Elizabeth Remitz",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
         },
         {
-          "pk": "risty|danielle",
-          "n": "12",
-          "name": "Danielle Risty",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "pk": "sachs|caylee",
+          "n": "6",
+          "name": "Caylee Sachs",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
-          "pk": "secor|brynn",
-          "n": "14",
-          "name": "Brynn Secor",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "lyckholm|aven",
-          "n": "10",
-          "name": "Aven Lyckholm",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "stoehr|adele",
-          "n": "17",
-          "name": "Adele Stoehr",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "langer|bristol",
-          "n": "9",
-          "name": "Bristol Langer",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "stevens|adriana",
-          "n": "15",
-          "name": "Adriana Stevens",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "stinsa|renata",
-          "n": "16",
-          "name": "Renata Stinsa",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "pk": "salonek|elizabeth",
+          "n": "7",
+          "name": "Elizabeth Salonek",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "johnson|skyla",
           "n": "8",
           "name": "Skyla Johnson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "langer|bristol",
+          "n": "9",
+          "name": "Bristol Langer",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "lyckholm|aven",
+          "n": "10",
+          "name": "Aven Lyckholm",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
         },
         {
           "pk": "nestingen|alida",
           "n": "11",
           "name": "Alida Nestingen",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "risty|danielle",
+          "n": "12",
+          "name": "Danielle Risty",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
         },
         {
           "pk": "schumann|emery",
           "n": "13",
           "name": "Emery Schumann",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "secor|brynn",
+          "n": "14",
+          "name": "Brynn Secor",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "stevens|adriana",
+          "n": "15",
+          "name": "Adriana Stevens",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "stinsa|renata",
+          "n": "16",
+          "name": "Renata Stinsa",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "stoehr|adele",
+          "n": "17",
+          "name": "Adele Stoehr",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "erickson|elin",
           "n": "1",
           "name": "Elin Erickson",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "G"
+        },
+        {
+          "pk": "simones|paige",
+          "n": "20",
+          "name": "Paige Simones",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "G"
         },
         {
           "pk": "krampe|olivia",
@@ -26195,168 +26299,168 @@
       ]
     },
     {
-      "team": "MN Moose 14U",
+      "team": "MN Moose",
       "country": "US",
       "players": [
         {
           "pk": "bahn|kamryn",
           "n": "2",
           "name": "Kamryn Bahn",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "scholla|brynnly",
-          "n": "5",
-          "name": "Brynnly Scholla",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "stoffel|bentley",
-          "n": "6",
-          "name": "Bentley Stoffel",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "coodin|isabella",
           "n": "3",
           "name": "Isabella Coodin",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "norsten|makayla",
           "n": "4",
           "name": "Makayla Norsten",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "scholla|brynnly",
+          "n": "5",
+          "name": "Brynnly Scholla",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "stoffel|bentley",
+          "n": "6",
+          "name": "Bentley Stoffel",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "zywiec|annalise",
           "n": "7",
           "name": "Annalise Zywiec",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "jorgenson|jane",
-          "n": "13",
-          "name": "Janie Jorgenson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D"
         },
         {
           "pk": "ambuehl|riley",
           "n": "8",
           "name": "Riley Ambuehl",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "gretz|taylor",
-          "n": "10",
-          "name": "Taylor Gretz",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "lamantia|audrey",
-          "n": "14",
-          "name": "Audrey Lamantia",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "newman|ingrid",
-          "n": "16",
-          "name": "Ingrid Newman",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "hollingsworth|leighton",
-          "n": "11",
-          "name": "Leighton Hollingsworth",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "mortel|lola",
-          "n": "15",
-          "name": "Lola Mortel",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "trembley|addison",
-          "n": "17",
-          "name": "Addison Trembley",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "crotteau|camryn",
           "n": "9",
           "name": "Camryn Crotteau",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "gretz|taylor",
+          "n": "10",
+          "name": "Taylor Gretz",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "hollingsworth|leighton",
+          "n": "11",
+          "name": "Leighton Hollingsworth",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
         },
         {
           "pk": "huebsch|merissa",
           "n": "12",
           "name": "Merissa Huebsch",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "jorgenson|jane",
+          "n": "13",
+          "name": "Janie Jorgenson",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "lamantia|audrey",
+          "n": "14",
+          "name": "Audrey Lamantia",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "mortel|lola",
+          "n": "15",
+          "name": "Lola Mortel",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "newman|ingrid",
+          "n": "16",
+          "name": "Ingrid Newman",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "trembley|addison",
+          "n": "17",
+          "name": "Addison Trembley",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
         },
         {
           "pk": "vix|reese",
           "n": "18",
           "name": "Reese Vix",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "wendt|novalee",
           "n": "19",
           "name": "Novalee Wendt",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "simet|ruby",
-          "n": "1",
-          "name": "Ruby Simet",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "peterson|layla",
           "n": "20",
           "name": "Layla Peterson",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
+        },
+        {
+          "pk": "simet|ruby",
+          "n": "1",
+          "name": "Ruby Simet",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
         }
       ]
     },
@@ -26487,168 +26591,168 @@
       ]
     },
     {
-      "team": "MN Walleye 14U",
+      "team": "MN Walleye",
       "country": "US",
       "players": [
         {
-          "pk": "slag|alexandra",
-          "n": "3",
-          "name": "Alexandra Slag",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "pk": "doucette|jennifer",
+          "n": "7",
+          "name": "Jenna Doucette",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
         },
         {
           "pk": "giarusso|olivia",
           "n": "5",
           "name": "Olivia Giarusso",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "tapani|bristol",
-          "n": "6",
-          "name": "Bristol Tapani",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "kurtz|dakota",
-          "n": "4",
-          "name": "Dakota Kurtz",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
-        },
-        {
-          "pk": "doucette|jennifer",
-          "n": "7",
-          "name": "Jenna Doucette",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
         },
         {
           "pk": "joseph|lydia",
           "n": "2",
           "name": "Lydia Joseph",
-          "ry": "",
-          "rg": "",
-          "rp": "Defense"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "kurtz|dakota",
+          "n": "4",
+          "name": "Dakota Kurtz",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "slag|alexandra",
+          "n": "3",
+          "name": "Alexandra Slag",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "tapani|bristol",
+          "n": "6",
+          "name": "Bristol Tapani",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
         },
         {
           "pk": "george|reese",
           "n": "11",
           "name": "Reese George",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "osberg|isabella",
-          "n": "16",
-          "name": "Isabella Osberg",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "rekstad|elin",
-          "n": "14",
-          "name": "Elin Rekstad",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "morris|alexandra",
-          "n": "10",
-          "name": "Alexandra Morris",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "hendricks|katherine",
           "n": "13",
           "name": "Kate Hendricks",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "liu|sophia",
-          "n": "18",
-          "name": "Sophia Liu",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "najar|nadine",
-          "n": "19",
-          "name": "Nadine Najar",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "scott|emily",
-          "n": "15",
-          "name": "Emily Scott",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "towne|ella",
-          "n": "17",
-          "name": "Ella Towne",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "hintzman|kynlee",
           "n": "8",
           "name": "Kynlee Hintzman",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "liu|sophia",
+          "n": "18",
+          "name": "Sophia Liu",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "morris|alexandra",
+          "n": "10",
+          "name": "Alexandra Morris",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "najar|nadine",
+          "n": "19",
+          "name": "Nadine Najar",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "osberg|isabella",
+          "n": "16",
+          "name": "Isabella Osberg",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "rekstad|elin",
+          "n": "14",
+          "name": "Elin Rekstad",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "scott|emily",
+          "n": "15",
+          "name": "Emily Scott",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "smith|isla",
           "n": "9",
           "name": "Isla Smith",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "towne|ella",
+          "n": "17",
+          "name": "Ella Towne",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "wilson|kiana",
           "n": "12",
           "name": "Kiana Wilson",
-          "ry": "",
-          "rg": "",
-          "rp": "Forward"
-        },
-        {
-          "pk": "milinkovich|clara",
-          "n": "1",
-          "name": "Clara Milinkovich",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F"
         },
         {
           "pk": "antonenko|evelyn",
           "n": "20",
           "name": "Evelyn Antonenko",
-          "ry": "",
-          "rg": "",
-          "rp": "Goalie"
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
+        },
+        {
+          "pk": "milinkovich|clara",
+          "n": "1",
+          "name": "Clara Milinkovich",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "G"
         }
       ]
     },
@@ -30481,14 +30585,6 @@
           "ry": "2011",
           "rg": "2029",
           "rp": "G"
-        },
-        {
-          "pk": "rienhart|ava",
-          "n": "23",
-          "name": "Ava Rienhart",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F"
         }
       ]
     },
@@ -52813,7 +52909,7 @@
           "rp": "D"
         },
         {
-          "pk": "morey|piper",
+          "pk": "morey|shea",
           "n": "12",
           "name": "Piper Morey",
           "ry": "2009",
@@ -68581,6 +68677,496 @@
       ]
     },
     {
+      "team": "MN Blue Ox",
+      "country": "US",
+      "players": [
+        {
+          "pk": "gast|brooklyn",
+          "n": "19",
+          "name": "Brooklyn Gast",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "huotari|finley",
+          "n": "20",
+          "name": "Finley Huotari",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "marvin|adley",
+          "n": "21",
+          "name": "Adley Marvin",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "zembo|kendall",
+          "n": "22",
+          "name": "Kendall Zembo",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "coulter|carlie",
+          "n": "23",
+          "name": "Carlie Coulter",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "johnson|victoria",
+          "n": "24",
+          "name": "Victoria Johnson",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "greelis|lennon",
+          "n": "25",
+          "name": "Lennon Greelis",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "hockett|katherine",
+          "n": "26",
+          "name": "Kate Hockett",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "lavalla|delia",
+          "n": "27",
+          "name": "Delia Lavalla",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "walker|madeline",
+          "n": "28",
+          "name": "Madeline Walker",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "quo|catherine",
+          "n": "29",
+          "name": "Catherine Quo",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "skelly|danica",
+          "n": "30",
+          "name": "Danica Skelly",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "hadrava|kylie",
+          "n": "31",
+          "name": "Kylie Hadrava",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "jokinen|zara",
+          "n": "32",
+          "name": "Zara Jokinen",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "olsen|hadley",
+          "n": "33",
+          "name": "Hadley Olsen",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "rawlings|merryn",
+          "n": "34",
+          "name": "Merryn Rawlings",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "rose|kynslee",
+          "n": "35",
+          "name": "Kynslee Rose",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "medak|evelin",
+          "n": "36",
+          "name": "Evelin Medak",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "gregoire|gracie",
+          "n": "52",
+          "name": "Gracie Gregoire",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "G"
+        },
+        {
+          "pk": "knutson|eleanor",
+          "n": "53",
+          "name": "Ellie Knutson",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "G"
+        }
+      ]
+    },
+    {
+      "team": "MN Green Giants",
+      "country": "US",
+      "players": [
+        {
+          "pk": "kramer|ruby",
+          "n": "10",
+          "name": "Ruby Kramer",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "hemr|eleanor",
+          "n": "13",
+          "name": "Ellie Hemr",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "nelsen|teagan",
+          "n": "14",
+          "name": "Teagan Nelsen",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "prihoda|leslie",
+          "n": "15",
+          "name": "Leslie Prihoda",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "pohl|ella",
+          "n": "16",
+          "name": "Ella Pohl",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "taylor|tru",
+          "n": "17",
+          "name": "Tru Taylor",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "hall|brooklyn",
+          "n": "18",
+          "name": "Brooklyn Hall",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "carleton|olive",
+          "n": "2",
+          "name": "Olive Carleton",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "jones|abigail",
+          "n": "3",
+          "name": "Abigail Jones",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "guider|jennifer",
+          "n": "4",
+          "name": "Jenna Guider",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "shafer|gianna",
+          "n": "5",
+          "name": "Gianna Shafer",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "zins|alyson",
+          "n": "6",
+          "name": "Alyson Zins",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "derose|isabella",
+          "n": "7",
+          "name": "Isabella Derose",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "jones|courtney",
+          "n": "8",
+          "name": "Courtney Jones",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "kerfeld|eleanor",
+          "n": "9",
+          "name": "Eleanor Kerfeld",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "wadsen|alexandria",
+          "n": "11",
+          "name": "Alexandria Wadsen",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "lindsay|ariana",
+          "n": "12",
+          "name": "Ariana Lindsay",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "brockway|brantlee",
+          "n": "19",
+          "name": "Brantlee Brockway",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "lanigan|mary",
+          "n": "50",
+          "name": "Mary Lanigan",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "G"
+        },
+        {
+          "pk": "moe|payton",
+          "n": "51",
+          "name": "Payton Moe",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "G"
+        }
+      ]
+    },
+    {
+      "team": "MN Grey Ducks",
+      "country": "US",
+      "players": [
+        {
+          "pk": "boyle|kyley",
+          "n": "19",
+          "name": "Kyley Boyle",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "conlon|vera",
+          "n": "20",
+          "name": "Vera Conlon",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "fordham|maysen",
+          "n": "21",
+          "name": "Maysen Fordham",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "hodgman|paycen",
+          "n": "22",
+          "name": "Paycen Hodgman",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "larsen|anne",
+          "n": "23",
+          "name": "Anne Larsen",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "paulson|gabrielle",
+          "n": "24",
+          "name": "Gabrielle Paulson",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "akerson|peyton",
+          "n": "25",
+          "name": "Peyton Akerson",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "barten|macey",
+          "n": "26",
+          "name": "Macey Barten",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "billman|emery",
+          "n": "27",
+          "name": "Emery Billman",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "fordham|parker",
+          "n": "28",
+          "name": "Parker Fordham",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "grabau|maylee",
+          "n": "29",
+          "name": "Maylee Grabau",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "green|aubrey",
+          "n": "30",
+          "name": "Aubrey Green",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "johnson|madeleine",
+          "n": "32",
+          "name": "Madeleine Johnson",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "kohler|hazel",
+          "n": "33",
+          "name": "Hazel Kohler",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "levin|natalie",
+          "n": "34",
+          "name": "Natalie Levin",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "okeefe|abigail",
+          "n": "35",
+          "name": "Abigail OKeefe",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "starr|kylie",
+          "n": "36",
+          "name": "Kylie Starr",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "chronic|katherine",
+          "n": "52",
+          "name": "Kate Chronic",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "G"
+        },
+        {
+          "pk": "sevcik|elise",
+          "n": "53",
+          "name": "Elise Sevcik",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "G"
+        }
+      ]
+    },
+    {
       "team": "MN Junior Whitecaps 14U",
       "country": "US",
       "players": [
@@ -68986,6 +69572,670 @@
           "name": "Liv Krampe",
           "ry": "",
           "rg": "2029",
+          "rp": "G"
+        }
+      ]
+    },
+    {
+      "team": "MN Lakers",
+      "country": "US",
+      "players": [
+        {
+          "pk": "levy|makenzie",
+          "n": "12",
+          "name": "Makenzie Levy",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "martin|mckayla",
+          "n": "13",
+          "name": "McKayla Martin",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "pena|aurelia",
+          "n": "14",
+          "name": "Aurelia Pena",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "dunlap|evelyn",
+          "n": "16",
+          "name": "Evelyn Dunlap",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "rehfeld|reese",
+          "n": "15",
+          "name": "Reese Rehfeld",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "schubert|quinn",
+          "n": "17",
+          "name": "Quinn Schubert",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "suter|avery",
+          "n": "18",
+          "name": "Avery Suter",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "boylan|nora",
+          "n": "1",
+          "name": "Nora Boylan",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "carlson|theresa",
+          "n": "2",
+          "name": "Tessa Carlson",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "kuznia|harper",
+          "n": "3",
+          "name": "Harper Kuznia",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "smith|olive",
+          "n": "4",
+          "name": "Olive Smith",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "cook|mackenzie",
+          "n": "5",
+          "name": "Mackenzie Cook",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "strothman|madeline",
+          "n": "6",
+          "name": "Madeline Strothman",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "moos|anne",
+          "n": "7",
+          "name": "Annie Moos",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "roddis|jane",
+          "n": "8",
+          "name": "Jane Roddis",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "bengtson|bria",
+          "n": "9",
+          "name": "Bria Bengtson",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "stinsa|renata",
+          "n": "10",
+          "name": "Renata Stinsa",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "swenson|hadley",
+          "n": "11",
+          "name": "Hadley Swenson",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "brown|abigail",
+          "n": "50",
+          "name": "Abigail Brown",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "G"
+        },
+        {
+          "pk": "hentges|eleanor",
+          "n": "51",
+          "name": "Ellie Hentges",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "G"
+        }
+      ]
+    },
+    {
+      "team": "MN Loons",
+      "country": "US",
+      "players": [
+        {
+          "pk": "brazzell|truett",
+          "n": "1",
+          "name": "Truett Brazzell",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "cranston|lucy",
+          "n": "2",
+          "name": "Lucy Cranston",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "kampa|lucille",
+          "n": "3",
+          "name": "Lucille Kampa",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "luger|brynnlee",
+          "n": "4",
+          "name": "Brynnlee Luger",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "osorio|jasmin",
+          "n": "5",
+          "name": "Jasmin Osorio",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "smith|aubrey",
+          "n": "6",
+          "name": "Aubrey Smith",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "kobeska|macy",
+          "n": "7",
+          "name": "Macy Kobeska",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "tobias|alexis",
+          "n": "8",
+          "name": "Alexis Tobias",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "bloedow|elizabeth",
+          "n": "9",
+          "name": "Elizabeth Bloedow",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "irvine|brynn",
+          "n": "10",
+          "name": "Brynn Irvine",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "kotval|nora",
+          "n": "11",
+          "name": "Nora Kotval",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "langer|bristol",
+          "n": "12",
+          "name": "Bristol Langer",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "secor|brynn",
+          "n": "13",
+          "name": "Brynn Secor",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "savre|carly",
+          "n": "14",
+          "name": "Carly Savre",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "jones|mckenna",
+          "n": "15",
+          "name": "Mckenna Jones",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "sienko|emmelene",
+          "n": "16",
+          "name": "Emmelene Sienko",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "nelson|kylee",
+          "n": "17",
+          "name": "Kylee Nelson",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "nelson|lucille",
+          "n": "18",
+          "name": "Lucille Nelson",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "skillrud|eloise",
+          "n": "50",
+          "name": "Eloise Skillrud",
+          "ry": "2012",
+          "rg": "2032",
+          "rp": "G"
+        },
+        {
+          "pk": "bailey|paige",
+          "n": "51",
+          "name": "Paige Bailey",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "G"
+        }
+      ]
+    },
+    {
+      "team": "MN Moose",
+      "country": "US",
+      "players": [
+        {
+          "pk": "beckwith|kendall",
+          "n": "16",
+          "name": "Kendall Beckwith",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "husemann|haylee",
+          "n": "15",
+          "name": "Haylee Husemann",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "labore|amelia",
+          "n": "17",
+          "name": "Amelia Labore",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "scholla|brynnly",
+          "n": "19",
+          "name": "Brynnly Scholla",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "tikhnenko|marta",
+          "n": "18",
+          "name": "Marta Tikhnenko",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "woessner|lauren",
+          "n": "14",
+          "name": "Lauren Woessner",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "D"
+        },
+        {
+          "pk": "clardy|kenleigh",
+          "n": "13",
+          "name": "Kenleigh Clardy",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "czech|scarlett",
+          "n": "12",
+          "name": "Scarlett Czech",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "ehrenstrom|taylor",
+          "n": "11",
+          "name": "Taylor Ehrenstrom",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "ehrlich|sophia",
+          "n": "10",
+          "name": "Sophia Ehrlich",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "haseley|cora",
+          "n": "9",
+          "name": "Cora Haseley",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "hollingsworth|leighton",
+          "n": "8",
+          "name": "Leighton Hollingsworth",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "huebsch|merissa",
+          "n": "7",
+          "name": "Merissa Huebsch",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "johnson|adalyn",
+          "n": "6",
+          "name": "Adalyn Johnson",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "le|laney",
+          "n": "5",
+          "name": "Laney Le",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "lunneborg|lauren",
+          "n": "4",
+          "name": "Lauren Lunneborg",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "nilsen|katherine",
+          "n": "3",
+          "name": "Kate Nilsen",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "williams|maria",
+          "n": "2",
+          "name": "Maria Williams",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "conaway|elsa",
+          "n": "50",
+          "name": "Elsa Conaway",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "G"
+        },
+        {
+          "pk": "haugrud|makayla",
+          "n": "51",
+          "name": "Makayla Haugrud",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "G"
+        }
+      ]
+    },
+    {
+      "team": "MN Walleye",
+      "country": "US",
+      "players": [
+        {
+          "pk": "giarusso|olivia",
+          "n": "1",
+          "name": "Olivia Giarusso",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "edlund|ryanne",
+          "n": "2",
+          "name": "Ryanne Edlund",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "tapani|bristol",
+          "n": "3",
+          "name": "Bristol Tapani",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "barber|logan",
+          "n": "4",
+          "name": "Logan Barber",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "huber|vivian",
+          "n": "5",
+          "name": "Vivian Huber",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D"
+        },
+        {
+          "pk": "palmer|madison",
+          "n": "6",
+          "name": "Madison Palmer",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "D"
+        },
+        {
+          "pk": "sheely|scarlett",
+          "n": "7",
+          "name": "Scarlett Sheely",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "opel|annika",
+          "n": "8",
+          "name": "Annika Opel",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "prosser|emeri",
+          "n": "9",
+          "name": "Emeri Prosser",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "matson|chloe",
+          "n": "10",
+          "name": "Chloe Matson",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "roux|gemma",
+          "n": "11",
+          "name": "Gemma Roux",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "bedard|avery",
+          "n": "12",
+          "name": "Avery Bedard",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "king|audriana",
+          "n": "13",
+          "name": "Audriana King",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "mccormick|bridget",
+          "n": "14",
+          "name": "Bridget McCormick",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "joseph|adeline",
+          "n": "15",
+          "name": "Adeline Joseph",
+          "ry": "2013",
+          "rg": "2032",
+          "rp": "F"
+        },
+        {
+          "pk": "grant|lucy",
+          "n": "16",
+          "name": "Lucy Grant",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "sinclair|myah",
+          "n": "17",
+          "name": "Myah Sinclair",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "peterson|clara",
+          "n": "18",
+          "name": "Clara Peterson",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F"
+        },
+        {
+          "pk": "williams|andie",
+          "n": "50",
+          "name": "Andie Williams",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "G"
+        },
+        {
+          "pk": "wicklund|kelcie",
+          "n": "51",
+          "name": "Kelcie Wicklund",
+          "ry": "2012",
+          "rg": "2030",
           "rp": "G"
         }
       ]
