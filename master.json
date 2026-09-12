@@ -972,7 +972,8 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "River Lakes",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes",
     "Sr": "x"
@@ -986,7 +987,8 @@
     "Position": "F",
     "Height": "5' 7\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "River Lakes"
   },
   {
     "Name": "Nana Akimoto",
@@ -1955,7 +1957,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Apple Valley",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes"
   },
@@ -2371,9 +2374,10 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Maple Grove",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -2516,9 +2520,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Grand Rapids/Greenway",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Paige Anderson",
@@ -2628,8 +2633,8 @@
     "Country": "US",
     "School": "Orono HS",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Jr Whitecaps Black 19U",
-    "Team": "MN Jr Whitecaps Black",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
@@ -2900,8 +2905,8 @@
     "School": "Warroad HS",
     "Team2023": "Northern Elite 14U",
     "Team2024": "Northern Elite 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -2944,7 +2949,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Orono HS",
-    "Team2025": "MN Walleye 14U",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -3498,7 +3503,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Minnetonka HS",
-    "Team2025": "MN Lakers 14U",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -3638,8 +3643,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Blake School",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty"
   },
   {
@@ -3903,8 +3909,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Champlain Park/Coon Rapids",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -4525,7 +4532,10 @@
     "Grad": 2028,
     "Position": "F",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Breck School",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC"
   },
   {
     "Name": "Ashley Babbitt",
@@ -4829,7 +4839,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Farmington",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes"
   },
@@ -4856,8 +4867,11 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Crookston",
     "Team2023": "Northern Elite 16U",
-    "Team2024": "Northern Elite 19U"
+    "Team2024": "Northern Elite 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
+    "Team": "MN Elite Green - Traveling Teams"
   },
   {
     "Name": "Ellie Bailey",
@@ -4873,8 +4887,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Os Winter League",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -4924,6 +4938,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "White Bear Lake",
     "Sr": "x"
   },
   {
@@ -5156,8 +5171,8 @@
     "School": "Maple Grove HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Merrimack",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -5342,8 +5357,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial/Spring Lake Park",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty"
   },
   {
@@ -5616,6 +5632,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Wayzata",
     "Sr": "x"
   },
   {
@@ -6246,6 +6263,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "River Lakes",
     "Sr": "x"
   },
   {
@@ -6328,8 +6346,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "School": "Rock Ridge",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Rylee Bartz",
@@ -7367,7 +7386,8 @@
     "Height": "5\"3",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Gentry Academy",
+    "Team2025": "MN Loons",
     "Team": "MN Loons"
   },
   {
@@ -7437,6 +7457,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Eagan",
     "Sr": "x"
   },
   {
@@ -7449,6 +7470,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Wayzata",
     "Sr": "x"
   },
   {
@@ -8199,7 +8221,7 @@
     "School": "Benilde-St Margarets HS",
     "Team2023": "MN Jr Whitecaps 16U",
     "Team2024": "MN Elite Navy - Morgan Stanley",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "Saint Michael's",
     "Fresh": "U15",
@@ -8227,8 +8249,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Shakopee HS",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -8269,6 +8291,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "MN Made",
     "Sr": "x"
   },
   {
@@ -8541,7 +8564,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Moorhead HS",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "College": "St. Thomas",
     "Fresh": "U15",
@@ -8853,7 +8876,8 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Buffalo",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Sr": "x"
   },
@@ -9095,7 +9119,8 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Moorhead",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes",
     "Jr": "x",
@@ -9721,6 +9746,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "North Wright County",
     "Sr": "x"
   },
   {
@@ -9862,7 +9888,8 @@
     "Height": "5\"3",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "White Bear Lake",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Regionals": "Yes"
   },
@@ -10207,9 +10234,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Moorhead",
     "Team2024": "Northern Elite 16U White",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Reese Black",
@@ -10658,6 +10686,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Saints",
     "Sr": "x"
   },
   {
@@ -11292,8 +11321,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Blake School",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -11430,8 +11460,8 @@
     "Country": "US",
     "School": "Woodbury HS",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Quinnipiac",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -12469,11 +12499,13 @@
     "PersonKey": "boylan|nora",
     "BirthYr": 2012,
     "DOB": "5/29/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "F",
     "Height": "5' 5\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Edina",
+    "Sr": "x"
   },
   {
     "Name": "Aiofe Boyle",
@@ -12534,6 +12566,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Central MN",
     "Sr": "x"
   },
   {
@@ -13075,8 +13108,8 @@
     "School": "Hill-Murray HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Penn State",
     "Fresh": "U15",
     "Soph": "U18",
@@ -13181,6 +13214,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Hill-Murray",
     "Sr": "x"
   },
   {
@@ -13901,6 +13935,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Andover",
     "Jr": "x",
     "Sr": "x"
   },
@@ -14208,13 +14243,15 @@
     "PersonKey": "brown|abigail",
     "BirthYr": 2012,
     "DOB": "12/18/2012",
-    "Grad": 2024,
+    "Grad": 2032,
     "Position": "G",
     "Height": "5' 4\"",
     "City": "Ridgefield",
     "State": "CT",
     "Country": "US",
-    "School": "Millbrook"
+    "School": "Millbrook",
+    "Jr": "x",
+    "Sr": "x"
   },
   {
     "Name": "Alexis Brown",
@@ -15108,9 +15145,10 @@
     "City": "Blaine",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial",
     "Team2023": "MN Jr Whitecaps - Black 14U",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "Fresh": "U15",
     "Soph": "U18",
     "Jr": "U18",
@@ -15307,7 +15345,8 @@
     "Height": "5'9\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Dodge County",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes"
   },
@@ -15908,8 +15947,8 @@
     "Country": "US",
     "School": "Champlin Park/Coon Rapids HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Assumption",
     "Soph": "U15",
     "Jr": "U1617",
@@ -16488,7 +16527,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
+    "School": "Chaska/Chanhassen",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers"
   },
   {
@@ -17053,7 +17093,7 @@
     "Country": "US",
     "School": "Mound Westonka HS",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "Minnesota -Duluth",
     "Soph": "U15",
@@ -17598,7 +17638,8 @@
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Dodge County",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes"
   },
@@ -17924,6 +17965,7 @@
     "Height": "4' 11\"",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial/SLP",
     "Jr": "x",
     "Sr": "x"
   },
@@ -17982,8 +18024,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "School": "Grand Rapids/Greenway",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Katie Carlson",
@@ -18021,7 +18064,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "School": "Lakeville North",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -18059,8 +18103,9 @@
     "City": "Minnetonka",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "School": "Minnetonka",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Fresh": "U15",
     "Soph": "U18",
     "Sr": "x",
@@ -18081,12 +18126,14 @@
     "PersonKey": "carlson|theresa",
     "BirthYr": 2012,
     "DOB": "9/4/2012",
-    "Grad": 2031,
+    "Grad": 2032,
     "Position": "F",
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Edina",
     "CCM68": "Yes",
+    "Jr": "x",
     "Sr": "x"
   },
   {
@@ -19431,7 +19478,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Blaine HS",
-    "Team2025": "MN Green Giants 14U",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -19887,7 +19934,8 @@
     "City": "Edina",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
+    "School": "Benilde-St. Margaret's",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -20519,8 +20567,8 @@
     "Country": "US",
     "School": "Hill-Murray HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Minnesota",
     "Soph": "U15",
     "Jr": "U1617",
@@ -21458,8 +21506,8 @@
     "Country": "US",
     "School": "Orono HS",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Dartmouth",
     "Soph": "U15",
     "Highest": "U15"
@@ -21565,8 +21613,9 @@
     "City": "Edina",
     "State": "MN",
     "Country": "US",
+    "School": "Two Rivers/St Paul",
     "Team2024": "MN Elite Green - FTW CCM",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "Fresh": "U15",
     "Sr": "x",
@@ -21590,6 +21639,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Mankato",
     "Jr": "x",
     "Sr": "x"
   },
@@ -21982,6 +22032,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Eastview",
     "Sr": "x"
   },
   {
@@ -22851,7 +22902,7 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "CCM68": "Yes",
     "Fresh": "U15",
@@ -23855,6 +23906,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Lakeville",
     "Sr": "x"
   },
   {
@@ -23968,6 +24020,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "MN River",
     "Jr": "x",
     "Sr": "x"
   },
@@ -24205,7 +24258,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Woodbury",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes"
   },
@@ -24250,6 +24304,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Shakopee",
     "Jr": "x",
     "Sr": "x"
   },
@@ -25069,7 +25124,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "School": "Blaine",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -25415,7 +25471,8 @@
     "Position": "D",
     "Height": "5' 6\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Moorhead"
   },
   {
     "Name": "Meridith Coulter",
@@ -25888,6 +25945,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Gentry Academy",
     "Sr": "x"
   },
   {
@@ -26310,7 +26368,8 @@
     "Height": "5' 0\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Woodbury",
+    "Team2025": "MN Moose",
     "Team": "MN Moose"
   },
   {
@@ -26693,8 +26752,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Alexandria",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams"
   },
   {
@@ -27280,6 +27340,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Apple Valley",
     "Sr": "x"
   },
   {
@@ -27501,9 +27562,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Thief River Falls",
     "Team2023": "Northern Elite 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Emry Dalcourt",
@@ -28541,8 +28603,8 @@
     "School": "Edina HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Wisconsin",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -29025,8 +29087,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Grand Rapids/Greenway",
     "Team2024": "Northern Elite 19U",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams"
   },
   {
@@ -29406,8 +29469,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Holy Family HS",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "College": "St. Thomas",
     "Soph": "U15",
     "Jr": "U1617",
@@ -29420,8 +29483,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Holy Family Catholic",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -30075,6 +30139,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Marshall HS",
+    "Team2025": "MN Grey Ducks",
+    "Team": "MN Grey Ducks",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -30458,6 +30524,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Champlin Park",
     "Sr": "x"
   },
   {
@@ -32235,9 +32302,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Alexandria",
     "Team2024": "Northern Elite 16U White",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Fiona Doherty",
@@ -32784,7 +32852,8 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Osseo/Maple Grove",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye"
   },
   {
@@ -33199,8 +33268,8 @@
     "State": "MN",
     "Country": "US",
     "School": "South Central HS",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Minnesota State",
     "Soph": "U15",
     "Jr": "U1617",
@@ -34104,13 +34173,15 @@
     "PersonKey": "dunlap|evelyn",
     "BirthYr": 2012,
     "DOB": "1/30/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "D",
     "Height": "5' 8\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
-    "Team": "MN Lakers"
+    "School": "Eden Prairie",
+    "Team2025": "MN Lakers",
+    "Team": "MN Lakers",
+    "Sr": "x"
   },
   {
     "Name": "Alaina Dunn",
@@ -34499,9 +34570,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Alexandria",
     "Team2024": "Northern Elite 19U",
-    "Team2025": "Northern Elite Green 19U",
-    "Team": "Northern Elite Green"
+    "Team2025": "MN Elite Green - Traveling Teams",
+    "Team": "MN Elite Green - Traveling Teams"
   },
   {
     "Name": "Maya Dutton",
@@ -34516,10 +34588,11 @@
     "City": "Alexandria",
     "State": "MN",
     "Country": "US",
+    "School": "Alexandria",
     "Team2023": "Northern Elite 14U",
     "Team2024": "Northern Elite 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -34999,7 +35072,8 @@
     "Position": "D",
     "Height": "5' 7\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Osseo Maple Grove"
   },
   {
     "Name": "Colby Edmands",
@@ -35178,7 +35252,7 @@
     "Country": "USA",
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley",
     "College": "Assumption",
     "Sr": "x"
@@ -35223,6 +35297,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Cottage Grove",
     "Sr": "x"
   },
   {
@@ -35253,6 +35328,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Rosemount",
     "Sr": "x"
   },
   {
@@ -35421,7 +35497,7 @@
     "Country": "US",
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -35954,7 +36030,10 @@
     "Grad": 2027,
     "Position": "D",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Minnetonka",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
+    "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
     "Name": "Liv Emmerson",
@@ -36084,8 +36163,8 @@
     "Country": "US",
     "School": "Apple Valley HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Providence",
     "Soph": "WNT",
     "Jr": "U18",
@@ -36332,7 +36411,8 @@
     "Height": "5\"3",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Hill-Murray",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Sr": "x"
   },
@@ -39042,7 +39122,7 @@
     "Country": "US",
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "College": "Assumption",
     "Soph": "U15",
@@ -39376,8 +39456,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Edina HS",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -40395,6 +40475,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Dodge County",
     "Jr": "x",
     "Sr": "x"
   },
@@ -40408,6 +40489,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Dodge County",
     "Jr": "x",
     "Sr": "x"
   },
@@ -41225,7 +41307,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Hermantown",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes",
     "Sr": "x"
@@ -41319,7 +41402,7 @@
     "School": "Warroad HS",
     "Team2023": "Northern Elite 16U",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -42456,8 +42539,8 @@
     "Country": "US",
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Minnesota State",
     "Soph": "U15",
     "Jr": "U1617",
@@ -42771,7 +42854,7 @@
     "PersonKey": "gardner|taylor",
     "BirthYr": 2007,
     "DOB": "12/1/2007",
-    "Grad": 2023,
+    "Grad": 2026,
     "Position": "D",
     "Height": "5’7”",
     "Weight": 150,
@@ -42782,9 +42865,11 @@
     "School": "Edina HS",
     "Team2023": "MN Jr Whitecaps 16U",
     "Team2024": "MN Elite Green - FTW CCM",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
-    "Sr": "U15",
+    "Fresh": "U15",
+    "Soph": "U1617",
+    "Sr": "x",
     "Highest": "U1617"
   },
   {
@@ -43003,6 +43088,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Moorhead",
     "Sr": "x"
   },
   {
@@ -43322,7 +43408,8 @@
     "Height": "4' 8\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Buffalo",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes",
     "Sr": "x"
@@ -43375,7 +43462,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Centennial/SLP HS",
-    "Team2025": "MN Green Giants 14U",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -43481,7 +43568,8 @@
     "City": "Maple Grove",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Osseo/Maple Grove",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -43580,8 +43668,9 @@
     "City": "Andover",
     "State": "MN",
     "Country": "US",
+    "School": "Andover",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley",
     "Fresh": "U15",
     "Sr": "x",
@@ -43626,7 +43715,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Holy Family HS",
-    "Team2025": "MN Lakers 14U",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -43948,7 +44037,8 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "The Blake School",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye"
   },
   {
@@ -44881,7 +44971,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Brainerd/Little Falls",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes",
     "Sr": "x"
@@ -45141,8 +45232,8 @@
     "Country": "US",
     "School": "Woodbury HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Minnesota -Duluth",
     "Soph": "U15",
     "Jr": "U18",
@@ -45971,8 +46062,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Apple Valley",
     "Team2023": "MN Jr Whitecaps - White 14U",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -46036,8 +46128,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Albert Lea",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -46287,6 +46380,7 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
+    "School": "North Wright County",
     "Sr": "x"
   },
   {
@@ -46478,7 +46572,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Warroad",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox"
   },
   {
@@ -46661,7 +46756,8 @@
     "Height": "5'2\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Rogers",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Sr": "x"
   },
@@ -46795,7 +46891,8 @@
     "Position": "F",
     "Height": "5' 1\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Orono/Westonka"
   },
   {
     "Name": "Margaret Grant",
@@ -47239,6 +47336,7 @@
     "Height": "4' 11\"",
     "State": "MN",
     "Country": "US",
+    "School": "Coleraine",
     "Sr": "x"
   },
   {
@@ -47268,6 +47366,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Austin",
     "Sr": "x"
   },
   {
@@ -47398,10 +47497,11 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Fergus Falls",
     "Team2023": "Northern Elite 14U",
     "Team2024": "Northern Elite 16U White",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Paisley Greenbaum",
@@ -47574,7 +47674,8 @@
     "Height": "5' 0\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Moorhead",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Sr": "x"
   },
@@ -47760,7 +47861,7 @@
     "Country": "US",
     "School": "Apple Valley HS",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "Soph": "U15",
     "Highest": "U15"
@@ -47775,7 +47876,8 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Apple Valley",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes",
     "Sr": "x"
@@ -48123,7 +48225,8 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
+    "School": "Minnetonka",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes"
   },
@@ -48600,6 +48703,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Blaine/Rogers",
     "College": "Trinity",
     "Sr": "x"
   },
@@ -49234,6 +49338,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Eveleth",
     "Jr": "x",
     "Sr": "x"
   },
@@ -49321,7 +49426,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Moorhead HS",
-    "Team2025": "MN Blue Ox 14U",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -49433,7 +49538,10 @@
     "Position": "F",
     "Height": "5'4\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Minnesota River",
+    "Team2025": "MN Grey Ducks",
+    "Team": "MN Grey Ducks"
   },
   {
     "Name": "Charlotte Haig",
@@ -49537,7 +49645,7 @@
     "Country": "US",
     "School": "Warroad HS",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "College": "Franklin Pierce",
     "Soph": "U15",
@@ -49629,7 +49737,8 @@
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Rogers",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Sr": "x"
   },
@@ -49733,8 +49842,8 @@
     "School": "Breck HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Minnesota -Duluth",
     "CCM68": "Yes",
     "Fresh": "U15",
@@ -49900,8 +50009,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Orono Westonka",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -49935,7 +50044,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Alexandria",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes"
   },
@@ -50559,7 +50669,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "School": "Edina",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -50586,8 +50697,8 @@
     "Country": "US",
     "School": "Benilde-St Margarets HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Minnesota",
     "Fresh": "U15",
     "Soph": "U18",
@@ -50685,7 +50796,8 @@
     "Height": "5'3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Albert Lea",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Sr": "x"
   },
@@ -50744,7 +50856,8 @@
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "New Ulm",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes"
   },
@@ -50875,7 +50988,8 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Warroad",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox"
   },
   {
@@ -51601,7 +51715,8 @@
     "City": "Chaska",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
+    "School": "Chaska/Chanhassen",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Fresh": "U15",
@@ -51851,7 +51966,8 @@
     "Position": "F",
     "Height": "5' 1\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Cottage Grove"
   },
   {
     "Name": "Serena Hasen",
@@ -52043,7 +52159,8 @@
     "Height": "5'3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "New Ulm",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks"
   },
   {
@@ -52079,6 +52196,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Woodbury",
     "Sr": "x"
   },
   {
@@ -52674,7 +52792,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Warroad",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes"
   },
@@ -52730,8 +52849,9 @@
     "City": "Monticello",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "School": "North Wright County",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -52794,9 +52914,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Roseau",
     "Team2024": "Northern Elite 16U White",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Faith Heenan",
@@ -53011,8 +53132,8 @@
     "Country": "US",
     "School": "Prior Lake HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Bemidji State",
     "Soph": "U15",
     "Jr": "U1617",
@@ -53057,8 +53178,8 @@
     "School": "Benilde-St Margarets HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Maine",
     "Soph": "U15",
     "Highest": "U15"
@@ -53070,8 +53191,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "School": "Proctor Hermantown",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Kendall Heldt",
@@ -53298,6 +53420,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial",
     "Sr": "x"
   },
   {
@@ -53487,7 +53610,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Wayzata HS",
-    "Team2025": "MN Walleye 14U",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -53670,6 +53793,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Chaska/Chanhassen",
     "Sr": "x"
   },
   {
@@ -53798,7 +53922,8 @@
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Centennial",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes"
   },
@@ -54799,8 +54924,9 @@
     "Height": "5' 5\"",
     "State": "WI",
     "Country": "US",
+    "School": "Breck School",
     "Team2024": "Madison Capitols 14U",
-    "Team2025": "MN Walleye 14U",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "CCM68": "Yes",
     "Regionals": "Yes"
@@ -54875,8 +55001,9 @@
     "Height": "5' 8\"",
     "State": "MN",
     "Country": "US",
+    "School": "East Grand Forks",
     "Team2024": "Northern Elite 14U",
-    "Team2025": "MN Blue Ox 14U",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Sr": "x"
   },
@@ -54946,7 +55073,7 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "College": "St. Thomas",
     "Fresh": "U15",
@@ -54964,6 +55091,7 @@
     "Height": "5' 0\"",
     "State": "MN",
     "Country": "US",
+    "School": "Moorhead",
     "Sr": "x"
   },
   {
@@ -55014,7 +55142,10 @@
     "Position": "F",
     "Height": "5'2\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Dodge County",
+    "Team2025": "MN Grey Ducks",
+    "Team": "MN Grey Ducks"
   },
   {
     "Name": "amanda hodgins",
@@ -55078,6 +55209,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Dodge County",
     "Sr": "x"
   },
   {
@@ -55380,7 +55512,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Lakeville North",
+    "Team2025": "MN Moose",
     "Team": "MN Moose"
   },
   {
@@ -55604,8 +55737,8 @@
     "Country": "US",
     "School": "Hill-Murray HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -55712,7 +55845,8 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Buffalo",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes"
   },
@@ -55726,7 +55860,8 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Buffalo",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks"
   },
   {
@@ -55978,7 +56113,8 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Alexandria",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes",
     "Jr": "x",
@@ -56007,8 +56143,8 @@
     "School": "Edina HS",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Dartmouth",
     "Soph": "U15",
     "Jr": "U1617",
@@ -56043,9 +56179,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "White Bear Lake",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -56189,7 +56326,8 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Brainerd/Little Falls",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox"
   },
   {
@@ -56327,7 +56465,7 @@
     "Country": "US",
     "School": "Roseau HS",
     "Team2024": "Northern Elite 19U",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "College": "St. Cloud State",
     "Fresh": "U15",
@@ -56725,7 +56863,8 @@
     "Position": "D",
     "Height": "5' 3\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Benilde-St. Margaret's"
   },
   {
     "Name": "Addi Hubert",
@@ -56811,7 +56950,8 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Woodbury",
+    "Team2025": "MN Moose",
     "Team": "MN Moose"
   },
   {
@@ -56849,7 +56989,10 @@
     "Position": "D",
     "Height": "5' 5\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Litchfield/DasselCokato",
+    "Team2025": "MN Grey Ducks",
+    "Team": "MN Grey Ducks"
   },
   {
     "Name": "Gwen Huggett",
@@ -57520,6 +57663,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Moorhead",
     "Sr": "x"
   },
   {
@@ -57682,7 +57826,8 @@
     "Position": "D",
     "Height": "5' 11\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Eagan"
   },
   {
     "Name": "Ashley Hush",
@@ -57772,6 +57917,9 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Central MN",
+    "Team2025": "MN Grey Ducks",
+    "Team": "MN Grey Ducks",
     "Regionals": "Yes"
   },
   {
@@ -57851,8 +57999,9 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Grand Rapids",
     "Team2024": "Northern Elite 14U",
-    "Team2025": "MN Blue Ox 14U",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes"
   },
@@ -58272,6 +58421,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "White Bear Lake",
     "Sr": "x"
   },
   {
@@ -58464,7 +58614,7 @@
     "Country": "US",
     "School": "Academy of Holy Angels",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley",
     "College": "St. Cloud State",
     "Soph": "U15",
@@ -58778,8 +58928,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Hastings HS",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -59440,7 +59590,7 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Red",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "RPI",
     "Soph": "U15",
@@ -59874,7 +60024,8 @@
     "Position": "F",
     "Height": "5' 3\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Farmington"
   },
   {
     "Name": "Addy Johnson",
@@ -59886,7 +60037,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Cloquet/Esko/Carlton",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox"
   },
   {
@@ -59933,7 +60085,7 @@
     "Country": "US",
     "School": "Blaine HS",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "Fresh": "U15",
     "Sr": "x",
@@ -60006,7 +60158,8 @@
     "Height": "5'3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Blaine",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes",
     "Sr": "x"
@@ -60086,8 +60239,11 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Moorhead",
     "Team2023": "Northern Elite 16U",
-    "Team2024": "Northern Elite Green"
+    "Team2024": "Northern Elite Green",
+    "Team2025": "MN Elite Green - Traveling Teams",
+    "Team": "MN Elite Green - Traveling Teams"
   },
   {
     "Name": "Madeleine Johnson",
@@ -60099,6 +60255,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Edina",
     "Sr": "x"
   },
   {
@@ -60194,10 +60351,11 @@
     "City": "Vadnais Heights",
     "State": "MN",
     "Country": "US",
+    "School": "Moundsview",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -60233,7 +60391,8 @@
     "Height": "5\"7",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Forest Lake",
+    "Team2025": "MN Loons",
     "Team": "MN Loons"
   },
   {
@@ -60271,7 +60430,8 @@
     "Position": "D",
     "Height": "5' 8\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Grand Rapids"
   },
   {
     "Name": "Alexandra Johnston",
@@ -60430,7 +60590,8 @@
     "Position": "F",
     "Height": "5' 4\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Duluth"
   },
   {
     "Name": "Smith Jolene",
@@ -60514,13 +60675,15 @@
     "PersonKey": "jones|abigail",
     "BirthYr": 2012,
     "DOB": "12/17/2012",
-    "Grad": 2031,
+    "Grad": 2032,
     "Position": "F",
     "Height": "5'2\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Centennial",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
+    "Jr": "x",
     "Sr": "x"
   },
   {
@@ -60592,6 +60755,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Andover",
     "Jr": "x",
     "Sr": "x"
   },
@@ -60733,6 +60897,7 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
+    "School": "Stillwater",
     "Sr": "x"
   },
   {
@@ -60966,7 +61131,8 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Hill-Murray",
+    "Team2025": "MN Moose",
     "Team": "MN Moose"
   },
   {
@@ -60979,6 +61145,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Wayzata",
     "Sr": "x"
   },
   {
@@ -61003,7 +61170,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Holy Family HS",
-    "Team2025": "MN Walleye 14U",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Soph": "U15",
     "Highest": "U15"
@@ -61595,7 +61762,7 @@
     "Country": "US",
     "School": "West Fargo",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "Fresh": "U15",
     "Sr": "x",
@@ -61717,6 +61884,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Forest Lake",
     "Sr": "x"
   },
   {
@@ -61872,8 +62040,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Minnetonka HS",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "College": "Lindenwood",
     "Soph": "U15",
     "Jr": "U1617",
@@ -62363,7 +62531,8 @@
     "Height": "5\"5",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Stillwater",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Sr": "x"
   },
@@ -62408,9 +62577,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Proctor Hermantown",
     "Team2024": "Northern Elite 16U White",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Mary Kavanaugh",
@@ -62740,7 +62910,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Minnetonka HS",
-    "Team2025": "MN Lakers 14U",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -63258,8 +63428,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline"
+    "School": "Centennial",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design"
   },
   {
     "Name": "Diana Kemp",
@@ -63448,8 +63619,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Benilde-St. Margaret's",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -63622,6 +63794,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial",
     "Jr": "x",
     "Sr": "x"
   },
@@ -63732,8 +63905,8 @@
     "School": "Roseau HS",
     "Team2023": "Northern Elite 14U",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -64286,8 +64459,8 @@
     "Country": "US",
     "School": "Orono HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Wisconsin",
     "Soph": "U15",
     "Jr": "WNT",
@@ -64438,6 +64611,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Osseo Maple Grove",
     "Sr": "x"
   },
   {
@@ -64468,7 +64642,7 @@
     "Country": "USA",
     "School": "Holy Family HS",
     "Team2024": "MN Elite Navy - Morgan Stanley",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "Franklin Pierce",
     "Sr": "x"
@@ -65559,8 +65733,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Bemidji",
     "Team2024": "Northern Elite 16U White",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams"
   },
   {
@@ -65621,6 +65796,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Red Lake Falls",
     "Sr": "x"
   },
   {
@@ -65630,10 +65806,11 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Thief River Falls",
     "Team2023": "Northern Elite 14U",
     "Team2024": "Northern Elite 16U White",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Kali Knutson",
@@ -65683,6 +65860,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial",
     "Sr": "x"
   },
   {
@@ -65736,7 +65914,7 @@
     "Country": "US",
     "School": "Dodge County HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "St. Thomas",
     "Fresh": "U15",
@@ -65810,7 +65988,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "School": "Westonka/Southwest Christian",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -65931,6 +66110,7 @@
     "Height": "5' 0\"",
     "State": "MN",
     "Country": "US",
+    "School": "Buffalo",
     "Sr": "x"
   },
   {
@@ -66323,8 +66503,8 @@
     "School": "Cloquet-Esko-Carlton HS",
     "Team2023": "Northern Elite 14U",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -66483,6 +66663,7 @@
     "Height": "4' 9\"",
     "State": "MN",
     "Country": "US",
+    "School": "Stillwater",
     "Sr": "x"
   },
   {
@@ -66495,7 +66676,8 @@
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Blaine",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes"
   },
@@ -66743,7 +66925,8 @@
     "City": "Edina",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
+    "School": "Edina",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Fresh": "U15",
@@ -66806,8 +66989,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Os Winter Training",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -66851,6 +67034,7 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial",
     "Sr": "x"
   },
   {
@@ -67213,7 +67397,8 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Rogers",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes"
   },
@@ -67533,7 +67718,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Wayzata",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes"
   },
@@ -67659,11 +67845,13 @@
     "PersonKey": "kuznia|harper",
     "BirthYr": 2012,
     "DOB": "3/12/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "F",
     "Height": "5' 5\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Edina",
+    "Sr": "x"
   },
   {
     "Name": "Hailey Kuznik",
@@ -67687,7 +67875,8 @@
     "City": "East Grand Forks",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "East Grand Forks",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Soph": "U15",
     "Highest": "U15"
@@ -67771,8 +67960,8 @@
     "Country": "US",
     "School": "Centennial/SLP HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Boston College",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -67872,6 +68061,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Inver Grove Heights",
     "Sr": "x"
   },
   {
@@ -68262,8 +68452,8 @@
     "Country": "US",
     "School": "Breck HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Boston College",
     "Soph": "U15",
     "Jr": "U1617",
@@ -68653,7 +68843,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Rosemount HS",
-    "Team2025": "MN Moose 14U",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -69210,13 +69400,15 @@
     "PersonKey": "langer|bristol",
     "BirthYr": 2012,
     "DOB": "3/23/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "F",
     "Height": "4\"11",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
-    "Team": "MN Loons"
+    "School": "NA-OS",
+    "Team2025": "MN Loons",
+    "Team": "MN Loons",
+    "Sr": "x"
   },
   {
     "Name": "Lily Langham",
@@ -69310,6 +69502,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Blaine",
     "Jr": "x",
     "Sr": "x"
   },
@@ -69718,6 +69911,7 @@
     "Height": "5' 9\"",
     "State": "MN",
     "Country": "US",
+    "School": "Minneapolis",
     "Sr": "x"
   },
   {
@@ -69838,7 +70032,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "School": "Stillwater",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -70127,7 +70322,8 @@
     "Position": "F",
     "Height": "5' 1\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Baudette"
   },
   {
     "Name": "Adelie Lavallee",
@@ -70606,6 +70802,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Eagan",
     "Sr": "x"
   },
   {
@@ -71294,8 +71491,8 @@
     "Country": "US",
     "School": "White Bear Lake HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "St. Cloud State",
     "Soph": "U15",
     "Jr": "U1617",
@@ -72515,6 +72712,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "North Wright County",
     "Sr": "x"
   },
   {
@@ -72573,11 +72771,13 @@
     "PersonKey": "levy|makenzie",
     "BirthYr": 2012,
     "DOB": "5/17/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "D",
     "Height": "5' 4\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Edina",
+    "Sr": "x"
   },
   {
     "Name": "Ellie Lewington",
@@ -73355,7 +73555,8 @@
     "Height": "5'8\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Blaine",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes"
   },
@@ -73383,8 +73584,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Minnetonka HS",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -73400,6 +73601,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Blaine",
     "Jr": "x",
     "Sr": "x"
   },
@@ -73633,7 +73835,7 @@
     "Country": "US",
     "School": "Roseau HS",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "Soph": "U1617",
     "Sr": "x",
@@ -73878,7 +74080,7 @@
     "PersonKey": "liu|sophia",
     "BirthYr": 2009,
     "DOB": "12/1/2009",
-    "Grad": 2028,
+    "Grad": 2030,
     "Position": "D",
     "Height": "5’7”",
     "Weight": 130,
@@ -73886,14 +74088,16 @@
     "City": "Santa Monica",
     "State": "CA",
     "Country": "US",
+    "School": "Minnetonka",
     "Team2023": "Central York U18AA",
     "Team2024": "Toronto Aeros U22AA",
-    "Team2025": "Culver Academy 16U",
-    "Team": "Culver Academy",
+    "Team2025": "MN Walleye",
+    "Team": "MN Walleye",
     "CCM68": "Yes",
     "Regionals": "Yes",
-    "Fresh": "U15",
-    "Jr": "U1617",
+    "Fresh": "U1617",
+    "Soph": "x",
+    "Jr": "x",
     "Sr": "x",
     "Highest": "U1617"
   },
@@ -74672,8 +74876,8 @@
     "School": "Orono HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Minnesota State",
     "Fresh": "U15",
     "Sr": "x",
@@ -74780,9 +74984,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Warroad",
     "Team2024": "Northern Elite 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Elle Lorenz",
@@ -74924,7 +75129,8 @@
     "Height": "5'6\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Austin",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes"
   },
@@ -75451,6 +75657,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "White Bear Lake",
     "Sr": "x"
   },
   {
@@ -75624,6 +75831,7 @@
     "Height": "5' 0\"",
     "State": "MN",
     "Country": "US",
+    "School": "Eagan",
     "Sr": "x"
   },
   {
@@ -75810,7 +76018,8 @@
     "Height": "5\"8",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Chisago Lakes",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Regionals": "Yes",
     "Sr": "x"
@@ -77971,9 +78180,10 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial/Spring Lake Park",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -78722,8 +78932,8 @@
     "School": "Proctor",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "Northern Elite 19U",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Minnesota",
     "Fresh": "U15",
     "Soph": "WNT",
@@ -79063,7 +79273,7 @@
     "Country": "US",
     "School": "Rosemount HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "Fresh": "U15",
     "Sr": "x",
@@ -79964,6 +80174,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Chaska/Chanhassen",
     "Jr": "x",
     "Sr": "x"
   },
@@ -80317,6 +80528,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Warroad",
     "Sr": "x"
   },
   {
@@ -80635,6 +80847,7 @@
     "Height": "5' 8\"",
     "State": "MN",
     "Country": "US",
+    "School": "Orono/Westonka",
     "Sr": "x"
   },
   {
@@ -81486,8 +81699,8 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Harvard",
     "Fresh": "U15",
     "Soph": "U18",
@@ -82119,7 +82332,8 @@
     "Position": "F",
     "Height": "5' 3\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Osseo Maple Grove"
   },
   {
     "Name": "Caeley Mccormick",
@@ -82245,8 +82459,8 @@
     "Country": "US",
     "School": "Edina HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Dartmouth",
     "Soph": "U15",
     "Jr": "U1617",
@@ -83023,8 +83237,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline"
+    "School": "Edina",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design"
   },
   {
     "Name": "Reagan Mcgarvey",
@@ -83086,8 +83301,8 @@
     "Country": "US",
     "School": "Blake HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Dartmouth",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -83397,7 +83612,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "North Wright County",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Sr": "x"
   },
@@ -84236,8 +84452,8 @@
     "Country": "US",
     "School": "Hill-Murray HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Ohio State",
     "Fresh": "U15",
     "Soph": "U18",
@@ -85043,7 +85259,8 @@
     "Position": "F",
     "Height": "5' 5\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Duluth"
   },
   {
     "Name": "Emma Medeiros",
@@ -85381,7 +85598,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "School": "Moorhead",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams"
   },
   {
@@ -86334,10 +86552,11 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Proctor Hermantown",
     "Team2023": "Northern Elite 14U",
     "Team2024": "Northern Elite 16U White",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Charleigh Milburn",
@@ -86402,7 +86621,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Breck HS",
-    "Team2025": "MN Walleye 14U",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Soph": "U15",
     "Highest": "U15"
@@ -86523,8 +86742,8 @@
     "School": "Minnetonka HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Dartmouth",
     "Soph": "U15",
     "Jr": "U1617",
@@ -86605,8 +86824,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Woodbury",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -86680,8 +86900,8 @@
     "Country": "US",
     "School": "Northfield HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Minnesota State",
     "Soph": "U15",
     "Jr": "U1617",
@@ -86713,10 +86933,11 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Hill-Murray",
     "Team2023": "Cambridge U18AA",
     "Team2024": "MN Elite Red",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline"
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design"
   },
   {
     "Name": "Quinn Miller-Johnston",
@@ -87566,8 +87787,8 @@
     "Country": "US",
     "School": "Edina HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Quinnipiac",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -87585,6 +87806,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Northern Tier stars",
     "Sr": "x"
   },
   {
@@ -88706,11 +88928,13 @@
     "PersonKey": "moos|anne",
     "BirthYr": 2012,
     "DOB": "3/12/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "F",
     "Height": "5' 7\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Breck",
+    "Sr": "x"
   },
   {
     "Name": "Heidi Moos",
@@ -89011,8 +89235,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Edina",
     "Team2024": "MN Elite Red",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -89220,7 +89445,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Wayzata",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes"
   },
@@ -89620,7 +89846,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Woodbury",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes"
   },
@@ -90320,7 +90547,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "School": "Academy of Holy Angels",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -91018,8 +91246,8 @@
     "Country": "US",
     "School": "Eagan HS",
     "Team2024": "MN Elite Red",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -91514,7 +91742,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Osseo/Maple Grove",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes"
   },
@@ -92132,7 +92361,8 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "North Wright County",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes",
     "Sr": "x"
@@ -92181,7 +92411,7 @@
     "PersonKey": "nelson|josephine",
     "BirthYr": 2011,
     "DOB": "5/1/2011",
-    "Grad": 2029,
+    "Grad": 2030,
     "Position": "D",
     "Height": "5'10\"",
     "Weight": 135,
@@ -92190,10 +92420,11 @@
     "State": "MN",
     "Country": "US",
     "School": "Edina HS",
-    "Team2025": "MN Lakers 14U",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
-    "Soph": "U15",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
@@ -92206,6 +92437,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Chisago Lakes",
     "Sr": "x"
   },
   {
@@ -92224,8 +92456,8 @@
     "School": "Edina HS",
     "Team2023": "MN Jr Whitecaps - White 19U",
     "Team2024": "MN Jr Whitecaps 19U",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Penn State",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -92243,6 +92475,7 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
+    "School": "Saints",
     "Sr": "x"
   },
   {
@@ -92489,7 +92722,8 @@
     "Height": "5\"4",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "St. Paul Capitals",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Sr": "x"
   },
@@ -92764,7 +92998,8 @@
     "Height": "5' 9\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Woodbury",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes"
   },
@@ -92813,7 +93048,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "School": "Mankato East",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -92940,7 +93176,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Holy Family HS",
-    "Team2025": "MN Lakers 14U",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -92953,9 +93189,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Proctor Hermantown",
     "Team2023": "Northern Elite 16U",
     "Team2024": "Northern Elite 19U",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "College": "St Norbert"
   },
@@ -93235,6 +93472,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Eastview",
     "Sr": "x"
   },
   {
@@ -93363,7 +93601,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Holy Family HS",
-    "Team2025": "MN Lakers 14U",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -93395,8 +93633,8 @@
     "School": "Wayzata HS",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Bemidji State",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -93676,7 +93914,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Holy Family HS",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "Stonehill",
     "Jr": "U1617",
@@ -93858,7 +94096,8 @@
     "City": "Woodbury",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Woodbury",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Soph": "U15",
     "Highest": "U15"
@@ -94067,7 +94306,8 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Centennial",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants"
   },
   {
@@ -94096,7 +94336,8 @@
     "Height": "5'6\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Rogers",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes"
   },
@@ -94342,7 +94583,8 @@
     "Height": "5' 9\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Alexandria",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes"
   },
@@ -95079,6 +95321,7 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
+    "School": "Bloomington Jefferson",
     "Sr": "x"
   },
   {
@@ -95326,6 +95569,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Fergus Falls",
     "Sr": "x"
   },
   {
@@ -95433,7 +95677,7 @@
     "School": "Hill-Murray HS",
     "Team2023": "MN Jr Whitecaps 16U",
     "Team2024": "MN Elite Green - FTW CCM",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "St. Cloud State",
     "Fresh": "U15",
@@ -95495,8 +95739,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline"
+    "School": "Westonka/Southwest Christian",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design"
   },
   {
     "Name": "Emily Omasta",
@@ -95724,7 +95969,8 @@
     "Position": "F",
     "Height": "5' 3\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Armstrong Cooper"
   },
   {
     "Name": "Zoe Ordanis",
@@ -96013,7 +96259,7 @@
     "PersonKey": "osberg|isabella",
     "BirthYr": 2011,
     "DOB": "10/1/2011",
-    "Grad": 2030,
+    "Grad": 2029,
     "Position": "F",
     "Height": "5'4\"",
     "Weight": 120,
@@ -96021,11 +96267,11 @@
     "City": "Maple Grove",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Osseo/Maple Grove",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes",
-    "Fresh": "U15",
-    "Sr": "x",
+    "Soph": "U15",
     "Highest": "U15"
   },
   {
@@ -96076,6 +96322,7 @@
     "Height": "4' 11\"",
     "State": "MN",
     "Country": "US",
+    "School": "Roseville-Mahtomedi",
     "Jr": "x",
     "Sr": "x"
   },
@@ -96086,7 +96333,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "School": "Wayzata",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty"
   },
   {
@@ -96274,8 +96522,9 @@
     "City": "Bloomington",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "School": "Edina",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -96706,6 +96955,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Wayzata",
     "Sr": "x"
   },
   {
@@ -96733,7 +96983,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Blake HS",
-    "Team2025": "MN Lakers 14U",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -97922,6 +98172,7 @@
     "Height": "5' 8\"",
     "State": "MN",
     "Country": "US",
+    "School": "Hutchinson",
     "Sr": "x"
   },
   {
@@ -98206,7 +98457,8 @@
     "Height": "5'3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Blaine",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes"
   },
@@ -98225,8 +98477,8 @@
     "Country": "US",
     "School": "Orono HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -98561,6 +98813,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Waconia",
     "Sr": "x"
   },
   {
@@ -98910,9 +99163,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial/Spring Lake Park",
     "Team2023": "MN Jr Whitecaps 16U",
     "Team2024": "MN Elite Green - FTW CCM",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty"
   },
   {
@@ -99170,8 +99424,8 @@
     "Country": "US",
     "School": "Elk River HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
@@ -99235,7 +99489,8 @@
     "Position": "F",
     "Height": "5' 2\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Osseo Maple Grove"
   },
   {
     "Name": "Emma Peterson",
@@ -99284,7 +99539,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Rosemount",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes"
   },
@@ -99539,9 +99795,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Lakeville North",
     "Team2023": "San Jose Jr Sharks 16U",
     "Team2024": "MN Elite Navy - Morgan Stanley",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -100179,8 +100436,8 @@
     "School": "East Grand Forks HS",
     "Team2023": "Northern Elite 14U",
     "Team2024": "Northern Elite 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM",
     "College": "Bemidji State",
     "Soph": "U15",
     "Jr": "WNT",
@@ -100752,7 +101009,8 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Champlin Park",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Sr": "x"
   },
@@ -101120,8 +101378,8 @@
     "Country": "US",
     "School": "Hill-Murray HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -101132,13 +101390,15 @@
     "PersonKey": "pohl|ella",
     "BirthYr": 2012,
     "DOB": "1/11/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "D",
     "Height": "5'3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
-    "Team": "MN Green Giants"
+    "School": "Rogers",
+    "Team2025": "MN Green Giants",
+    "Team": "MN Green Giants",
+    "Sr": "x"
   },
   {
     "Name": "Emily Pohl",
@@ -101155,8 +101415,8 @@
     "Country": "US",
     "School": "Hill-Murray HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Wisconsin",
     "Fresh": "U15",
     "Soph": "U18",
@@ -101998,12 +102258,13 @@
     "Name": "Alaina Post",
     "PersonKey": "post|alaina",
     "Grad": 2027,
-    "Position": "F",
+    "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Park of Cottage Grove",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -102625,7 +102886,7 @@
     "Country": "US",
     "School": "Edina HS",
     "Team2024": "MN Elite Green - FTW CCM",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "Franklin Pierce",
     "CCM68": "Yes",
@@ -102830,6 +103091,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Pine City",
     "Sr": "x"
   },
   {
@@ -103025,6 +103287,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Wayzata",
     "Sr": "x"
   },
   {
@@ -103042,7 +103305,7 @@
     "Country": "US",
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "Soph": "U15",
     "Highest": "U15"
@@ -103825,6 +104088,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Warroad",
     "Sr": "x"
   },
   {
@@ -104516,7 +104780,8 @@
     "Position": "F",
     "Height": "5' 4\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Grand Rapids"
   },
   {
     "Name": "Lily Rawnsley",
@@ -104933,7 +105198,7 @@
     "Country": "US",
     "School": "Warroad HS",
     "Team2024": "Northern Elite 19U",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "College": "St. Thomas",
     "Fresh": "U15",
@@ -105030,6 +105295,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Waconia",
     "Sr": "x"
   },
   {
@@ -105042,7 +105308,8 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Alexandria",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes",
     "Sr": "x"
@@ -105409,7 +105676,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Benilde-St. Margaret's",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes"
   },
@@ -105510,7 +105778,8 @@
     "Height": "5\"3",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Roseville",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Regionals": "Yes",
     "Sr": "x"
@@ -105583,7 +105852,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "School": "Centennial/Spring Lake Park",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -105750,7 +106020,8 @@
     "Height": "5'3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Gentry Academy",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes"
   },
@@ -106718,8 +106989,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Farmington HS",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -106776,7 +107047,8 @@
     "Height": "5\"1",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Roseville",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Regionals": "Yes",
     "Sr": "x"
@@ -107108,7 +107380,7 @@
     "PersonKey": "roberts|olivia",
     "BirthYr": 2010,
     "DOB": "3/1/2010",
-    "Grad": 2030,
+    "Grad": 2028,
     "Position": "F",
     "Height": "5’5”",
     "Weight": 120,
@@ -107117,11 +107389,10 @@
     "State": "MN",
     "Country": "US",
     "School": "Forest Lake HS",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "CCM68": "Yes",
-    "Jr": "x",
-    "Sr": "x",
+    "Soph": "U15",
     "Highest": "U15"
   },
   {
@@ -107533,6 +107804,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Edina",
     "Sr": "x"
   },
   {
@@ -107777,7 +108049,7 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "Soph": "U15",
     "Highest": "U15"
@@ -107916,7 +108188,7 @@
     "School": "Warroad HS",
     "Team2023": "Northern Elite 16U",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "College": "Minnesota"
   },
@@ -108182,7 +108454,8 @@
     "Position": "F",
     "Height": "5' 4\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Roseau"
   },
   {
     "Name": "Zoe Rose",
@@ -108732,6 +109005,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Osseo Maple Grove",
     "Sr": "x"
   },
   {
@@ -109249,8 +109523,8 @@
     "School": "Bemidji HS",
     "Team2023": "Northern Elite 16U",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Minnesota -Duluth",
     "Fresh": "U15",
     "Soph": "U18",
@@ -109345,7 +109619,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "School": "St. Cloud Crush",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams"
   },
   {
@@ -109614,8 +109889,8 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Assumption",
     "Soph": "U15",
     "Jr": "U1617",
@@ -109735,8 +110010,8 @@
     "Country": "US",
     "School": "Forest Lake HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Fresh": "U15",
     "Soph": "WNT",
     "Sr": "x",
@@ -109919,7 +110194,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Gentry Academy HS",
-    "Team2025": "MN Loons 14U",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -110165,7 +110440,7 @@
     "PersonKey": "salonek|elizabeth",
     "BirthYr": 2011,
     "DOB": "3/1/2011",
-    "Grad": 2030,
+    "Grad": 2029,
     "Position": "D",
     "Height": "5'4\"",
     "Weight": 117,
@@ -110174,11 +110449,10 @@
     "State": "MN",
     "Country": "US",
     "School": "Blake HS",
-    "Team2025": "MN Loons 14U",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Regionals": "Yes",
-    "Fresh": "U15",
-    "Sr": "x",
+    "Soph": "U15",
     "Highest": "U15"
   },
   {
@@ -110473,8 +110747,8 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Minnesota",
     "Soph": "U15",
     "Jr": "U18",
@@ -110631,7 +110905,8 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Roseau",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox",
     "Regionals": "Yes"
   },
@@ -111189,6 +111464,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "White Bear Lake",
     "Jr": "x",
     "Sr": "x"
   },
@@ -111726,8 +112002,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Breck HS",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Minnesota",
     "Soph": "U15",
     "Jr": "U1617",
@@ -111830,7 +112106,8 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Grey Ducks 14U",
+    "School": "Buffalo",
+    "Team2025": "MN Grey Ducks",
     "Team": "MN Grey Ducks",
     "Regionals": "Yes"
   },
@@ -112061,14 +112338,14 @@
     "PersonKey": "scholla|brynnly",
     "BirthYr": 2012,
     "DOB": "6/29/2012",
-    "Grad": 2031,
+    "Grad": 2030,
     "Position": "D",
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
-    "Team": "MN Moose",
-    "Sr": "x"
+    "School": "Farmington",
+    "Team2025": "MN Moose",
+    "Team": "MN Moose"
   },
   {
     "Name": "Charlotte Scholz",
@@ -112158,7 +112435,7 @@
     "Country": "US",
     "School": "Andover HS",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "College": "Sacred Heart",
     "Soph": "U15",
@@ -112209,6 +112486,7 @@
     "Height": "5' 0\"",
     "State": "MN",
     "Country": "US",
+    "School": "Eden Prairie",
     "Sr": "x"
   },
   {
@@ -112271,8 +112549,9 @@
     "City": "East Grand Forks",
     "State": "MN",
     "Country": "US",
+    "School": "East Grand Forks",
     "Team2023": "Northern Elite 16U",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "Jr": "U1617",
     "Sr": "x",
@@ -112368,7 +112647,8 @@
     "Height": "5\"9",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Moundsview/Irondale",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Sr": "x"
   },
@@ -112385,8 +112665,10 @@
     "City": "St. Michael",
     "State": "MN",
     "Country": "US",
+    "School": "North Wright County",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team": "NWC Riverhawks",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
+    "Team": "MN Elite Navy - Morgan Stanley",
     "CCM68": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -112785,7 +113067,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Minneapolis Storm",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes"
   },
@@ -112832,9 +113115,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Rock Ridge",
     "Team2024": "Northern Elite Green",
-    "Team2025": "Northern Elite Green 19U",
-    "Team": "Northern Elite Green"
+    "Team2025": "MN Elite Green - Traveling Teams",
+    "Team": "MN Elite Green - Traveling Teams"
   },
   {
     "Name": "Olivia Scott",
@@ -113073,7 +113357,8 @@
     "Height": "5\"4",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Gentry Academy",
+    "Team2025": "MN Loons",
     "Team": "MN Loons"
   },
   {
@@ -113392,8 +113677,8 @@
     "Country": "US",
     "School": "Champlin Park/Coon Rapids HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Minnesota State",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -113619,6 +113904,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Cannon River",
     "Sr": "x"
   },
   {
@@ -113852,6 +114138,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial/SLP",
     "Sr": "x"
   },
   {
@@ -114083,8 +114370,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Holy Family Catholic",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -114343,7 +114631,8 @@
     "Position": "F",
     "Height": "5' 0\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Wayzata"
   },
   {
     "Name": "Mila Shefchek",
@@ -114472,7 +114761,8 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "School": "Breck School",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -115144,6 +115434,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "White Bear Lake",
     "Sr": "x"
   },
   {
@@ -115469,7 +115760,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Holy Family HS",
-    "Team2025": "MN Moose 14U",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -115627,6 +115918,9 @@
     "Height": "5\"4",
     "State": "MN",
     "Country": "US",
+    "School": "Moundsview/Irondale",
+    "Team2025": "MN Loons",
+    "Team": "MN Loons",
     "Regionals": "Yes",
     "Sr": "x"
   },
@@ -115734,7 +116028,8 @@
     "Position": "F",
     "Height": "5' 3\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Osseo Maple Grove"
   },
   {
     "Name": "Maya Sindhwani",
@@ -115994,7 +116289,8 @@
     "Position": "F",
     "Height": "5' 3\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Grand Rapids"
   },
   {
     "Name": "Kezia Skerritt",
@@ -116047,6 +116343,7 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
+    "School": "Saints",
     "Jr": "x",
     "Sr": "x"
   },
@@ -116114,7 +116411,8 @@
     "City": "Otsego",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Anoka/Rogers",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes",
     "Fresh": "U15",
@@ -116174,8 +116472,8 @@
     "School": "Hill-Murray HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -116343,7 +116641,8 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Osseo/Maple Grove",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes"
   },
@@ -116783,6 +117082,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Roseville-Mahtomedi",
     "Sr": "x"
   },
   {
@@ -117048,7 +117348,8 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Osseo/Maple Grove",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye"
   },
   {
@@ -117334,7 +117635,8 @@
     "Position": "F",
     "Height": "5' 3\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Chaska/Chanhassen"
   },
   {
     "Name": "Olivia Smith",
@@ -117980,8 +118282,9 @@
     "Position": "G",
     "State": "MN",
     "Country": "US",
+    "School": "Stillwater",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley"
   },
   {
@@ -118117,8 +118420,8 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Wisconsin",
     "Soph": "U15",
     "Jr": "U18",
@@ -119323,7 +119626,8 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
+    "School": "Holy Family",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes"
   },
@@ -119389,8 +119693,8 @@
     "School": "Bloomington Jefferson HS",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Mercyhurst",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -119408,6 +119712,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Bloomington Jefferson",
     "Jr": "x",
     "Sr": "x"
   },
@@ -119449,8 +119754,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Proctor Hermantown",
     "Team2024": "Northern Elite 19U",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams"
   },
   {
@@ -119940,12 +120246,13 @@
     "Name": "Isabella Sterns",
     "PersonKey": "sterns|isabella",
     "Grad": 2028,
-    "Position": "F",
+    "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Minnetonka",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline"
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design"
   },
   {
     "Name": "Madisyn Stetson",
@@ -119979,7 +120286,8 @@
     "Height": "5\"5",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Scandia",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Sr": "x"
   },
@@ -120470,14 +120778,16 @@
     "PersonKey": "stinsa|renata",
     "BirthYr": 2012,
     "DOB": "2/20/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "F",
     "Height": "5\"5",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Victoria",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Sr": "x"
   },
   {
     "Name": "Grace Stirling",
@@ -120603,7 +120913,8 @@
     "Height": "5\"8",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Loons 14U",
+    "School": "Roseville",
+    "Team2025": "MN Loons",
     "Team": "MN Loons",
     "Regionals": "Yes"
   },
@@ -120624,7 +120935,8 @@
     "Height": "5' 0\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Hastings",
+    "Team2025": "MN Moose",
     "Team": "MN Moose"
   },
   {
@@ -120960,9 +121272,10 @@
     "Position": "G",
     "State": "MN",
     "Country": "US",
+    "School": "Cloquet",
     "Team2024": "Northern Elite 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Alexa Strano",
@@ -121313,8 +121626,8 @@
     "State": "MN",
     "Country": "US",
     "School": "Breck HS",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -121329,6 +121642,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Minnetonka",
     "Sr": "x"
   },
   {
@@ -122078,8 +122392,8 @@
     "Country": "US",
     "School": "Centennial/SLP HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "College": "Minnesota",
     "Soph": "U15",
     "Jr": "WNT",
@@ -122094,7 +122408,8 @@
     "Position": "D",
     "Height": "5' 6\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Edina"
   },
   {
     "Name": "Addison Sutherland",
@@ -122129,7 +122444,8 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Blue Ox 14U",
+    "School": "Grand Rapids",
+    "Team2025": "MN Blue Ox",
     "Team": "MN Blue Ox"
   },
   {
@@ -122345,7 +122661,8 @@
     "Height": "5' 7\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
+    "School": "Chaska/Chanhassen",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers"
   },
   {
@@ -122513,8 +122830,8 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2024": "MN Elite Silver - MSP",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Wisconsin",
     "Soph": "U15",
     "Jr": "U1617",
@@ -122656,6 +122973,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "MN Made",
     "Sr": "x"
   },
   {
@@ -122858,9 +123176,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Woodbury",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline"
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design"
   },
   {
     "Name": "Hailey Tabb",
@@ -123152,7 +123471,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Hill-Murray HS",
-    "Team2025": "MN Lakers 14U",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -123300,7 +123619,8 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Osseo Maple Grove",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Sr": "x"
   },
@@ -123782,13 +124102,15 @@
     "PersonKey": "taylor|tru",
     "BirthYr": 2012,
     "DOB": "3/24/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "D",
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
-    "Team": "MN Green Giants"
+    "School": "Minnesota Elite",
+    "Team2025": "MN Green Giants",
+    "Team": "MN Green Giants",
+    "Sr": "x"
   },
   {
     "Name": "Veronica Taylor",
@@ -124224,8 +124546,8 @@
     "Country": "US",
     "School": "Forest Lake HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Sky - Streamline 16U",
-    "Team": "MN Elite Sky - Streamline",
+    "Team2025": "MN Elite Sky - Streamline Design",
+    "Team": "MN Elite Sky - Streamline Design",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -124319,9 +124641,10 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
+    "School": "Duluth Northern Stars",
     "Team2023": "Northern Elite 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Lucy Theissen",
@@ -124618,8 +124941,9 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Proctor Hermantown",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams"
   },
   {
@@ -125097,7 +125421,7 @@
     "School": "Forest Lake HS",
     "Team2023": "Etobicoke U22AA",
     "Team2024": "MN Elite Green - FTW CCM",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "Assumption",
     "Fresh": "U15",
@@ -125463,6 +125787,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Woodbury",
     "Sr": "x"
   },
   {
@@ -125713,6 +126038,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Forest Lake",
     "Sr": "x"
   },
   {
@@ -125811,6 +126137,9 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Brainerd/Little Falls",
+    "Team2025": "MN Blue Ox",
+    "Team": "MN Blue Ox",
     "Regionals": "Yes",
     "Jr": "x",
     "Sr": "x"
@@ -125928,8 +126257,8 @@
     "School": "Maple Grove HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "St. Thomas",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -126023,6 +126352,9 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Central MN",
+    "Team2025": "MN Grey Ducks",
+    "Team": "MN Grey Ducks",
     "Sr": "x"
   },
   {
@@ -126198,7 +126530,8 @@
     "Height": "4' 9\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Providence Academy",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye"
   },
   {
@@ -126463,7 +126796,8 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Farmington",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Sr": "x"
   },
@@ -127402,9 +127736,10 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Centennial",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -127518,8 +127853,8 @@
     "Country": "US",
     "School": "Breck HS",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Soph": "U15",
     "Jr": "WNT",
     "Highest": "WNT"
@@ -127594,7 +127929,7 @@
     "Country": "US",
     "School": "Farmington HS",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Navy - Morgan Stanley 19U",
+    "Team2025": "MN Elite Navy - Morgan Stanley",
     "Team": "MN Elite Navy - Morgan Stanley",
     "College": "Saint Michael's",
     "Soph": "U15",
@@ -127633,9 +127968,10 @@
     "City": "Lake Elmo",
     "State": "MN",
     "Country": "US",
+    "School": "Hill-Murray",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Blue - Nabc 16U",
-    "Team": "MN Elite Blue - Nabc",
+    "Team2025": "MN Elite Blue - NABC",
+    "Team": "MN Elite Blue - NABC",
     "Fresh": "U15",
     "Jr": "WNT",
     "Sr": "x",
@@ -128490,7 +128826,7 @@
     "Country": "US",
     "School": "Dodge County HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "Assumption",
     "Jr": "U1617",
@@ -129324,8 +129660,8 @@
     "Country": "US",
     "School": "Crookston HS",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm",
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM",
     "College": "St. Thomas",
     "Fresh": "U15",
     "Jr": "U1617",
@@ -129702,7 +130038,8 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Woodbury",
+    "Team2025": "MN Moose",
     "Team": "MN Moose"
   },
   {
@@ -130037,6 +130374,7 @@
     "Height": "5' 3\"",
     "State": "MN",
     "Country": "US",
+    "School": "Elk River",
     "Sr": "x"
   },
   {
@@ -130081,7 +130419,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Centennial/SLP HS",
-    "Team2025": "MN Green Giants 14U",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -130219,9 +130557,10 @@
     "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Alexandria",
     "Team2024": "Northern Elite 14U",
-    "Team2025": "MN Elite White - Ftw Ccm 16U",
-    "Team": "MN Elite White - Ftw Ccm"
+    "Team2025": "MN Elite White - FTW CCM",
+    "Team": "MN Elite White - FTW CCM"
   },
   {
     "Name": "Emma Waldrop",
@@ -130354,6 +130693,7 @@
     "Height": "5' 2\"",
     "State": "MN",
     "Country": "US",
+    "School": "Moorhead",
     "Sr": "x"
   },
   {
@@ -132012,7 +132352,7 @@
     "School": "Centennial/SLP HS",
     "Team2023": "MN Jr Whitecaps - Black 14U",
     "Team2024": "MN Elite Red",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "College": "Mercyhurst",
     "CCM68": "Yes",
@@ -132348,7 +132688,8 @@
     "Height": "5' 8\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Lakeville South",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes"
   },
@@ -132596,8 +132937,8 @@
     "Country": "US",
     "School": "Blake HS",
     "Team2024": "MN Elite Sky - Streamline",
-    "Team2025": "MN Elite Vegas - Tradition 19U",
-    "Team": "MN Elite Vegas - Tradition",
+    "Team2025": "MN Elite Vegas - Tradition Mortgage",
+    "Team": "MN Elite Vegas - Tradition Mortgage",
     "College": "Yale",
     "Fresh": "U15",
     "Jr": "U1617",
@@ -132776,7 +133117,8 @@
     "Height": "5' 6\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Lakers 14U",
+    "School": "Minnetonka",
+    "Team2025": "MN Lakers",
     "Team": "MN Lakers",
     "Regionals": "Yes"
   },
@@ -133255,7 +133597,8 @@
     "Position": "G",
     "Height": "5' 4\"",
     "State": "MN",
-    "Country": "US"
+    "Country": "US",
+    "School": "Osseo Maple Grove"
   },
   {
     "Name": "Leah Wicks",
@@ -133354,8 +133697,8 @@
     "School": "Maple Grove HS",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Blue - NABC",
-    "Team2025": "MN Elite Silver - Msp 16U",
-    "Team": "MN Elite Silver - Msp",
+    "Team2025": "MN Elite Silver - MSP Magazine",
+    "Team": "MN Elite Silver - MSP Magazine",
     "College": "Assumption",
     "Soph": "U15",
     "Jr": "U1617",
@@ -133998,6 +134341,7 @@
     "Height": "5' 4\"",
     "State": "MN",
     "Country": "US",
+    "School": "Osseo Maple Grove",
     "Sr": "x"
   },
   {
@@ -134183,9 +134527,10 @@
     "City": "Anaheim",
     "State": "CA",
     "Country": "US",
+    "School": "Blake School",
     "Team2023": "Anaheim 16U",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -134201,6 +134546,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Rosemount",
     "Sr": "x"
   },
   {
@@ -134565,7 +134911,8 @@
     "Height": "4' 11\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Walleye 14U",
+    "School": "Wayzata",
+    "Team2025": "MN Walleye",
     "Team": "MN Walleye",
     "Regionals": "Yes"
   },
@@ -134592,8 +134939,9 @@
     "City": "Moorhead",
     "State": "MN",
     "Country": "US",
+    "School": "Moorhead",
     "Team2024": "Northern Elite Green",
-    "Team2025": "MN Elite Green - Traveling Teams 19U",
+    "Team2025": "MN Elite Green - Traveling Teams",
     "Team": "MN Elite Green - Traveling Teams",
     "Soph": "U15",
     "Highest": "U15"
@@ -135051,6 +135399,7 @@
     "Height": "4' 10\"",
     "State": "MN",
     "Country": "US",
+    "School": "Mendota Heights",
     "Sr": "x"
   },
   {
@@ -135248,7 +135597,7 @@
     "School": "Centennial/SLP HS",
     "Team2023": "MN Jr Whitecaps - White 14U",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital",
     "College": "St. Cloud State"
   },
@@ -136782,7 +137131,7 @@
     "Country": "US",
     "School": "Benilde-St Margarets HS",
     "Team2024": "MN Elite Orange - TTS",
-    "Team2025": "MN Elite Black - Royalty 19U",
+    "Team2025": "MN Elite Black - Royalty",
     "Team": "MN Elite Black - Royalty",
     "College": "St. Cloud State",
     "Fresh": "U15",
@@ -136956,6 +137305,7 @@
     "Height": "5' 5\"",
     "State": "MN",
     "Country": "US",
+    "School": "Hermantown",
     "Sr": "x"
   },
   {
@@ -137113,11 +137463,12 @@
     "Name": "Bonnie Zhao",
     "PersonKey": "zhao|bonnie",
     "Grad": 2027,
-    "Position": "F",
+    "Position": "D",
     "State": "MN",
     "Country": "US",
+    "School": "Woodbury",
     "Team2024": "MN Elite Gold - Compass Capital",
-    "Team2025": "MN Elite Gold - Compass Capital 16U",
+    "Team2025": "MN Elite Gold - Compass Capital",
     "Team": "MN Elite Gold - Compass Capital"
   },
   {
@@ -137362,14 +137713,16 @@
     "PersonKey": "zins|alyson",
     "BirthYr": 2012,
     "DOB": "2/1/2012",
-    "Grad": 2030,
+    "Grad": 2031,
     "Position": "F",
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Green Giants 14U",
+    "School": "Minnesota Elite",
+    "Team2025": "MN Green Giants",
     "Team": "MN Green Giants",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Sr": "x"
   },
   {
     "Name": "Zoe Ziotas",
@@ -137659,7 +138012,8 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
-    "Team2025": "MN Moose 14U",
+    "School": "Cottage Grove",
+    "Team2025": "MN Moose",
     "Team": "MN Moose",
     "Regionals": "Yes",
     "Sr": "x"
