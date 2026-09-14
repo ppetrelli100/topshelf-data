@@ -141784,6 +141784,7 @@
     "City": "Sheboygan",
     "State": "WI",
     "Country": "US",
+    "School": "Hill",
     "Team2025": "Princeton Tiger Lillies 19U",
     "Team": "Milwaukee Junior Admirals",
     "Soph": "U15",
@@ -141794,14 +141795,24 @@
     "PersonKey": "wagner|sarah",
     "BirthYr": 2006,
     "DOB": "4/21/2006",
+    "Grad": 2024,
     "Position": "D",
     "Height": "5'3\"",
+    "City": "Bay Shore",
+    "State": "NY",
     "Country": "US",
+    "School": "Loomis",
     "College": "Hamilton"
   },
   {
     "Name": "Sophia Wagner",
-    "PersonKey": "wagner|sophia"
+    "PersonKey": "wagner|sophia",
+    "Grad": 2026,
+    "Position": "F",
+    "City": "Plymouth",
+    "State": "MA",
+    "Country": "US",
+    "School": "Tabor"
   },
   {
     "Name": "Coralina Wahlen",
@@ -141933,8 +141944,14 @@
     "Name": "Raquel Walecka",
     "PersonKey": "walecka|raquel",
     "BirthYr": 2005,
+    "Grad": 2025,
     "Position": "F",
-    "Country": "US"
+    "City": "Stoughton",
+    "State": "MA",
+    "Country": "US",
+    "School": "Worcester",
+    "Jr": "x",
+    "Sr": "x"
   },
   {
     "Name": "Cailyn Walfield",
@@ -141949,6 +141966,7 @@
     "City": "Malone",
     "State": "NY",
     "Country": "US",
+    "School": "Canterbury",
     "Team2026": "CT Polar Bears 19U",
     "Fresh": "U15",
     "Sr": "x",
@@ -142006,7 +142024,13 @@
   },
   {
     "Name": "Halliway Walker",
-    "PersonKey": "walker|halliway"
+    "PersonKey": "walker|halliway",
+    "Grad": 2028,
+    "Position": "F",
+    "City": "Pomfret",
+    "State": "CT",
+    "Country": "US",
+    "School": "Groton"
   },
   {
     "Name": "Jenna Walker",
@@ -142175,8 +142199,10 @@
     "BirthYr": 2009,
     "Grad": 2028,
     "Position": "G",
+    "City": "West Roxbury",
     "State": "MA",
     "Country": "US",
+    "School": "Thayer",
     "Sr": "x"
   },
   {
@@ -142191,7 +142217,13 @@
   },
   {
     "Name": "Hudson Wallace",
-    "PersonKey": "wallace|hudson"
+    "PersonKey": "wallace|hudson",
+    "Grad": 2028,
+    "Position": "F",
+    "City": "Rockport",
+    "State": "ME",
+    "Country": "US",
+    "School": "Kents Hill"
   },
   {
     "Name": "Kaitlyn Wallace",
@@ -142264,6 +142296,7 @@
     "City": "Fenton",
     "State": "MI",
     "Country": "US",
+    "School": "Lawrenceville",
     "Team": "Nashville Jr Predators",
     "Fresh": "U15",
     "Sr": "x",
@@ -142283,27 +142316,36 @@
     "Name": "Emma Walsh",
     "PersonKey": "walsh|emma",
     "BirthYr": 2006,
+    "Grad": 2024,
     "Position": "F",
     "Height": "5'2\"",
-    "Country": "US"
+    "City": "Winchester",
+    "State": "MA",
+    "Country": "US",
+    "School": "Newton CDS"
   },
   {
     "Name": "Erin Walsh",
     "PersonKey": "walsh|erin",
     "BirthYr": 2012,
     "DOB": "3/21/2012",
+    "Grad": 2025,
     "Position": "D",
+    "City": "Melrose",
     "State": "MA",
-    "Country": "US"
+    "Country": "US",
+    "School": "Governors"
   },
   {
     "Name": "Stella Walsh",
     "PersonKey": "walsh|estella",
     "BirthYr": 2009,
     "Grad": 2028,
-    "Position": "F",
+    "Position": 0,
+    "City": "Dorchester",
     "State": "MA",
     "Country": "US",
+    "School": "Dexter",
     "Team2025": "CPC Boston Americans 16U",
     "Sr": "x"
   },
@@ -142364,8 +142406,12 @@
     "Name": "Honora Walsh",
     "PersonKey": "walsh|honora",
     "BirthYr": 2008,
+    "Grad": 2026,
     "Position": "D",
-    "Country": "US"
+    "City": "Marlboro",
+    "State": "VT",
+    "Country": "US",
+    "School": "Vermont Academy"
   },
   {
     "Name": "Maeve Walsh",
@@ -142427,6 +142473,7 @@
     "City": "Highlands Ranch",
     "State": "CO",
     "Country": "US",
+    "School": "New Hampton",
     "Team": "New Hampton Huskies",
     "College": "Beloit",
     "CCM68": "Yes",
@@ -142501,19 +142548,35 @@
   {
     "Name": "Amy Wang",
     "PersonKey": "wang|amy",
+    "Grad": 2026,
     "Position": "G",
+    "City": "Atlanta",
+    "State": "GA",
     "Country": "US",
+    "School": "Hill",
     "Team2024": "CT Polar Bears 19U",
     "Team2025": "CT Polar Bears 19U",
     "College": "Wesleyan"
   },
   {
     "Name": "AnnaBelle Wang",
-    "PersonKey": "wang|annabelle"
+    "PersonKey": "wang|annabelle",
+    "Grad": 2028,
+    "Position": "D",
+    "City": "Fulton",
+    "State": "MD",
+    "Country": "US",
+    "School": "Hotchkiss"
   },
   {
     "Name": "Catherine Wang",
-    "PersonKey": "wang|catherine"
+    "PersonKey": "wang|catherine",
+    "Grad": 2028,
+    "Position": "D",
+    "City": "Walnut",
+    "State": "CA",
+    "Country": "US",
+    "School": "Milton"
   },
   {
     "Name": "Diana Wang",
@@ -142682,8 +142745,10 @@
     "BirthYr": 2007,
     "Grad": 2025,
     "Position": "F",
+    "City": "Dedham",
     "State": "MA",
-    "Country": "US"
+    "Country": "US",
+    "School": "Milton"
   },
   {
     "Name": "Lauren Ward",
@@ -142752,6 +142817,7 @@
     "City": "Dedham",
     "State": "MA",
     "Country": "US",
+    "School": "Milton",
     "Team2024": "Spitfires 19U",
     "Team": "Spitfires",
     "College": "Aurora",
@@ -142858,7 +142924,12 @@
   },
   {
     "Name": "Lily Warner",
-    "PersonKey": "warner|lillian"
+    "PersonKey": "warner|lillian",
+    "Grad": 2026,
+    "City": "Donnelly",
+    "State": "ID",
+    "Country": "US",
+    "School": "Proctor"
   },
   {
     "Name": "Marina Warner",
@@ -142987,7 +143058,10 @@
     "DOB": "3/8/2008",
     "Grad": 2027,
     "Position": "F",
+    "City": "Rochester",
+    "State": "NY",
     "Country": "US",
+    "School": "Cushing",
     "Team2024": "Assabet Valley 16U",
     "Sr": "x"
   },
@@ -143113,7 +143187,13 @@
   },
   {
     "Name": "Ally Wasson",
-    "PersonKey": "wasson|allison"
+    "PersonKey": "wasson|allison",
+    "Grad": 2028,
+    "Position": "F",
+    "City": "Elizabeth",
+    "State": "PA",
+    "Country": "US",
+    "School": "Hotchkiss"
   },
   {
     "Name": "Allyson Wasson",
@@ -143238,7 +143318,13 @@
   },
   {
     "Name": "Devon Watson",
-    "PersonKey": "watson|devon"
+    "PersonKey": "watson|devon",
+    "Grad": 2025,
+    "Position": "D",
+    "City": "Trumbull",
+    "State": "CT",
+    "Country": "US",
+    "School": "Taft"
   },
   {
     "Name": "Ella Watson",
@@ -143377,11 +143463,23 @@
   },
   {
     "Name": "Caroline Watts",
-    "PersonKey": "watts|caroline"
+    "PersonKey": "watts|caroline",
+    "Grad": 2025,
+    "Position": "F/D",
+    "City": "Greenwich",
+    "State": "CT",
+    "Country": "US",
+    "School": "Greenwich Academy"
   },
   {
     "Name": "Ellie Watts",
-    "PersonKey": "watts|eleanor"
+    "PersonKey": "watts|eleanor",
+    "Grad": 2026,
+    "Position": "F",
+    "City": "Greenwich",
+    "State": "CT",
+    "Country": "US",
+    "School": "Greenwich Academy"
   },
   {
     "Name": "Georgia Watts",
@@ -143398,7 +143496,13 @@
   },
   {
     "Name": "Lydia Watts",
-    "PersonKey": "watts|lydia"
+    "PersonKey": "watts|lydia",
+    "Grad": 2028,
+    "Position": "F",
+    "City": "Epsom",
+    "State": "NH",
+    "Country": "US",
+    "School": "Holderness"
   },
   {
     "Name": "Sophia Watts-Horricks",
@@ -143471,7 +143575,13 @@
   },
   {
     "Name": "Isla Weaber",
-    "PersonKey": "weaber|isla"
+    "PersonKey": "weaber|isla",
+    "Grad": 2028,
+    "Position": 0,
+    "City": "Salisbury",
+    "State": "VT",
+    "Country": "US",
+    "School": "NMH"
   },
   {
     "Name": "Kyler Weatherred",
@@ -143490,8 +143600,13 @@
     "Name": "Anna Weaver",
     "PersonKey": "weaver|anna",
     "BirthYr": 2005,
+    "Grad": 2024,
     "Position": "F",
-    "Country": "US"
+    "City": "Manchester",
+    "State": "VT",
+    "Country": "US",
+    "School": "Pomfret",
+    "Sr": "x"
   },
   {
     "Name": "Cynnimin Weaver",
@@ -143523,6 +143638,7 @@
     "City": "North Yarmouth",
     "State": "ME",
     "Country": "US",
+    "School": "North Yarmouth",
     "Team2025": "Assabet Valley 14U",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -143798,6 +143914,7 @@
     "City": "Quechee",
     "State": "VT",
     "Country": "US",
+    "School": "Holderness",
     "Team": "Hartford Hurricanes",
     "Fresh": "U15",
     "Sr": "x",
@@ -143826,10 +143943,14 @@
     "PersonKey": "wehrs|sophia",
     "BirthYr": 2009,
     "DOB": "3/11/2009",
+    "Grad": 2027,
     "Position": "F",
     "Height": "5'4\"",
     "Weight": 126,
-    "Country": "US"
+    "City": "Newburg",
+    "State": "MD",
+    "Country": "US",
+    "School": "Portsmouth Abbey"
   },
   {
     "Name": "Himari Weiby",
@@ -143855,7 +143976,13 @@
   },
   {
     "Name": "Caleigh Weig",
-    "PersonKey": "weig|caleigh"
+    "PersonKey": "weig|caleigh",
+    "Grad": 2025,
+    "Position": "D",
+    "City": "Maynard",
+    "State": "MA",
+    "Country": "US",
+    "School": "Holderness"
   },
   {
     "Name": "Kaia Weiland",
@@ -143989,7 +144116,13 @@
   },
   {
     "Name": "Adeline Weisel",
-    "PersonKey": "weisel|adeline"
+    "PersonKey": "weisel|adeline",
+    "Grad": 2026,
+    "Position": "D",
+    "City": "Needham",
+    "State": "MA",
+    "Country": "US",
+    "School": "Thayer"
   },
   {
     "Name": "Jadyn Weiser",
@@ -144022,6 +144155,7 @@
     "City": "Baldwinsville",
     "State": "NY",
     "Country": "US",
+    "School": "Taft",
     "Team2024": "Midfairfield CT Stars 16U",
     "Team2026": "Midfairfield CT Stars 19U",
     "Team": "Syracuse Nationals",
@@ -144110,7 +144244,13 @@
   },
   {
     "Name": "Bella Welch",
-    "PersonKey": "welch|anabella"
+    "PersonKey": "welch|anabella",
+    "Grad": 2026,
+    "Position": 0,
+    "City": "Scottsdale",
+    "State": "AZ",
+    "Country": "US",
+    "School": "Choate"
   },
   {
     "Name": "Raquel Welch",
@@ -144121,6 +144261,12 @@
   {
     "Name": "Rylee Welch",
     "PersonKey": "welch|rylee",
+    "Grad": 2026,
+    "Position": "F",
+    "City": "Wilbraham",
+    "State": "MA",
+    "Country": "US",
+    "School": "Pomfret",
     "College": "Williams"
   },
   {
@@ -144254,6 +144400,7 @@
     "City": "Dover",
     "State": "NH",
     "Country": "US",
+    "School": "St Pauls",
     "Team": "East Coast Wizards",
     "College": "Maine",
     "Jr": "U1617",
@@ -144568,7 +144715,13 @@
   },
   {
     "Name": "Alex Whalen",
-    "PersonKey": "whalen|alexandra"
+    "PersonKey": "whalen|alexandra",
+    "Grad": 2024,
+    "Position": "D",
+    "City": "Ridgefield",
+    "State": "CT",
+    "Country": "US",
+    "School": "Westminster"
   },
   {
     "Name": "Clara Whalen",
@@ -144635,8 +144788,10 @@
     "BirthYr": 2009,
     "Grad": 2028,
     "Position": "G",
+    "City": "Sandwich",
     "State": "MA",
     "Country": "US",
+    "School": "Groton",
     "Sr": "x"
   },
   {
@@ -144741,6 +144896,7 @@
     "City": "Watertown",
     "State": "CT",
     "Country": "US",
+    "School": "Frederick Gunn",
     "Team2026": "CT Polar Bears 16U",
     "Team": "Hartford Jr Wolfpack",
     "Soph": "U15",
@@ -144748,7 +144904,12 @@
   },
   {
     "Name": "Courtney White",
-    "PersonKey": "white|courtney"
+    "PersonKey": "white|courtney",
+    "Grad": 2024,
+    "City": "Braintree",
+    "State": "MA",
+    "Country": "US",
+    "School": "Newton CDS"
   },
   {
     "Name": "Eavan White",
@@ -144782,10 +144943,15 @@
     "Name": "Grace White",
     "PersonKey": "white|grace",
     "BirthYr": 2008,
+    "Grad": 2027,
     "Position": "F",
+    "City": "Fredericton",
     "State": "NBR",
     "Country": "CAN",
+    "School": "St Pauls",
     "Team2025": "Assabet Valley 19U",
+    "Jr": "ATcamp",
+    "Sr": "x",
     "Highest": "ATcamp"
   },
   {
@@ -144804,9 +144970,11 @@
     "PersonKey": "white|harley",
     "BirthYr": 2008,
     "Grad": 2027,
-    "Position": "D",
+    "Position": "F",
+    "City": "Gloucester",
     "State": "MA",
     "Country": "US",
+    "School": "Pingree",
     "Sr": "x"
   },
   {
@@ -144821,8 +144989,12 @@
     "Name": "Jocelyn White",
     "PersonKey": "white|jocelyn",
     "BirthYr": 2008,
+    "Grad": 2026,
     "Position": "G",
-    "Country": "US"
+    "City": "Massena",
+    "State": "NY",
+    "Country": "US",
+    "School": "Lawrence Academy"
   },
   {
     "Name": "Jordyn White",
@@ -144874,6 +145046,12 @@
   {
     "Name": "Becca White",
     "PersonKey": "white|rebecca",
+    "Grad": 2025,
+    "Position": "F",
+    "City": "Orono",
+    "State": "ME",
+    "Country": "US",
+    "School": "Milton",
     "College": "Adrian"
   },
   {
@@ -144889,6 +145067,7 @@
     "City": "Fremont",
     "State": "NH",
     "Country": "US",
+    "School": "Berwick",
     "Team2025": "Assabet Valley 14U",
     "Team": "Assabet Valley",
     "Soph": "U15",
@@ -144938,7 +145117,13 @@
   },
   {
     "Name": "Allysen Whitehead",
-    "PersonKey": "whitehead|allysen"
+    "PersonKey": "whitehead|allysen",
+    "Grad": 2025,
+    "Position": "F",
+    "City": "Danbury",
+    "State": "CT",
+    "Country": "US",
+    "School": "Westminster"
   },
   {
     "Name": "Berkeley Whitehead",
@@ -145010,9 +145195,14 @@
     "Name": "Sara Whitlock",
     "PersonKey": "whitlock|sara",
     "BirthYr": 2005,
+    "Grad": 2024,
     "Position": "F",
     "Height": "5'1\"",
-    "Country": "US"
+    "City": "North Andover",
+    "State": "MA",
+    "Country": "US",
+    "School": "Governors",
+    "Sr": "x"
   },
   {
     "Name": "Ava Whitmore",
@@ -145038,7 +145228,10 @@
     "BirthYr": 2010,
     "Grad": 2029,
     "Position": "D",
+    "City": "Rochester",
+    "State": "NY",
     "Country": "US",
+    "School": "Frederick Gunn",
     "Team2024": "Rochester Jr Americans 14U",
     "Team2026": "Rochester Jr Americans 19U",
     "Sr": "x"
@@ -145289,7 +145482,12 @@
   },
   {
     "Name": "Maja Wielgos",
-    "PersonKey": "wielgos|maja"
+    "PersonKey": "wielgos|maja",
+    "Grad": 2027,
+    "City": "Norwalk",
+    "State": "CT",
+    "Country": "US",
+    "School": "Millbrook"
   },
   {
     "Name": "Harper Wieneke",
@@ -145317,7 +145515,10 @@
     "PersonKey": "wieners|olivia",
     "Grad": 2027,
     "Position": "D",
+    "City": "Imperial",
+    "State": "MO",
     "Country": "US",
+    "School": "Taft",
     "Team2024": "St Louis Lady Blues 19U"
   },
   {
@@ -145335,6 +145536,12 @@
   {
     "Name": "Brady Wierl",
     "PersonKey": "wierl|brady",
+    "Grad": 2026,
+    "Position": "F",
+    "City": "South Salem",
+    "State": "NY",
+    "Country": "US",
+    "School": "Deerfield",
     "College": "Lake Forest"
   },
   {
@@ -145387,8 +145594,10 @@
     "BirthYr": 2008,
     "Grad": 2027,
     "Position": "D",
+    "City": "Needham",
     "State": "MA",
     "Country": "US",
+    "School": "Tabor",
     "Sr": "x"
   },
   {
@@ -145446,6 +145655,7 @@
     "City": "Louisville",
     "State": "CO",
     "Country": "US",
+    "School": "Hill",
     "Team2025": "Gilmour Academy 19U",
     "Team": "Team Colorado",
     "Jr": "x",
@@ -145567,7 +145777,10 @@
     "Position": "D",
     "Height": "5'7\"",
     "Weight": 137,
+    "City": "New Hill",
+    "State": "NC",
     "Country": "US",
+    "School": "Deerfield",
     "Team2024": "East Coast Wizards 16U",
     "Team2025": "East Coast Wizards 19U",
     "Team2026": "Midfairfield CT Stars 19U",
@@ -145596,6 +145809,7 @@
     "City": "Arvada",
     "State": "CO",
     "Country": "US",
+    "School": "Exeter",
     "Team2025": "Valley Jr. Warriors 16U",
     "Team": "Team Colorado",
     "Fresh": "U15",
@@ -145662,7 +145876,13 @@
   },
   {
     "Name": "Stella Wildes",
-    "PersonKey": "wildes|estella"
+    "PersonKey": "wildes|estella",
+    "Grad": 2028,
+    "Position": 0,
+    "City": "Stratham",
+    "State": "NH",
+    "Country": "US",
+    "School": "Berwick"
   },
   {
     "Name": "Crosby Wildfong",
@@ -145696,9 +145916,14 @@
     "Name": "Ella Wiley",
     "PersonKey": "wiley|ella",
     "BirthYr": 2007,
+    "Grad": 2026,
     "Position": "G",
     "Height": "5'6\"",
-    "Country": "US"
+    "City": "Falmouth",
+    "State": "ME",
+    "Country": "US",
+    "School": "Millbrook",
+    "Sr": "x"
   },
   {
     "Name": "Olivia Wilk",
@@ -145850,7 +146075,13 @@
   },
   {
     "Name": "Avery Wilkinson",
-    "PersonKey": "wilkinson|avery"
+    "PersonKey": "wilkinson|avery",
+    "Grad": 2027,
+    "Position": "F",
+    "City": "Chesterfield",
+    "State": "VA",
+    "Country": "US",
+    "School": "Portsmouth Abbey"
   },
   {
     "Name": "Brynn Wilkinson",
@@ -145873,7 +146104,13 @@
   },
   {
     "Name": "Kailyn Willa",
-    "PersonKey": "willa|kailyn"
+    "PersonKey": "willa|kailyn",
+    "Grad": 2027,
+    "Position": "D",
+    "City": "Topsfield",
+    "State": "MA",
+    "Country": "US",
+    "School": "Hotchkiss"
   },
   {
     "Name": "Gabbie Willard",
@@ -145923,6 +146160,12 @@
   {
     "Name": "Hattie Willard",
     "PersonKey": "willard|hattie",
+    "Grad": 2026,
+    "Position": 0,
+    "City": "Mill Neck",
+    "State": "NY",
+    "Country": "US",
+    "School": "Loomis",
     "College": "Wesleyan"
   },
   {
@@ -146055,7 +146298,8 @@
     "Grad": 2025,
     "Position": "F",
     "State": "MA",
-    "Country": "US"
+    "Country": "US",
+    "School": "BB&N"
   },
   {
     "Name": "Kitty Williams",
@@ -146108,7 +146352,10 @@
   },
   {
     "Name": "Jaelynn Williams",
-    "PersonKey": "williams|jaelynn"
+    "PersonKey": "williams|jaelynn",
+    "Grad": 2026,
+    "Position": "F",
+    "School": "Hebron"
   },
   {
     "Name": "Jessica Williams",
@@ -146245,7 +146492,10 @@
   },
   {
     "Name": "Peyton Williams",
-    "PersonKey": "williams|peyton"
+    "PersonKey": "williams|peyton",
+    "Grad": 2024,
+    "Position": "F",
+    "School": "Greenwich Academy"
   },
   {
     "Name": "Rya Williams",
@@ -146442,7 +146692,10 @@
   },
   {
     "Name": "Maizey Wilner",
-    "PersonKey": "wilner|maizey"
+    "PersonKey": "wilner|maizey",
+    "Grad": 2029,
+    "Position": "F",
+    "School": "Greenwich Academy"
   },
   {
     "Name": "Abigail Wilson",
@@ -146661,7 +146914,13 @@
   },
   {
     "Name": "Lydia Wilson",
-    "PersonKey": "wilson|lydia"
+    "PersonKey": "wilson|lydia",
+    "Grad": 2026,
+    "Position": "F/D",
+    "City": "Stowe",
+    "State": "VT",
+    "Country": "US",
+    "School": "Taft"
   },
   {
     "Name": "Miller Wilson",
@@ -146720,6 +146979,12 @@
   {
     "Name": "Jo Wimler",
     "PersonKey": "wimler|jo",
+    "Grad": 2024,
+    "Position": "F",
+    "City": "Portland",
+    "State": "CT",
+    "Country": "US",
+    "School": "Frederick Gunn",
     "College": "Endicott"
   },
   {
@@ -146758,7 +147023,12 @@
   },
   {
     "Name": "Addy Winchenbaugh",
-    "PersonKey": "winchenbaugh|addison"
+    "PersonKey": "winchenbaugh|addison",
+    "Grad": 2026,
+    "City": "Weston",
+    "State": "MA",
+    "Country": "US",
+    "School": "Newton CDS"
   },
   {
     "Name": "McKenzie Winchester",
@@ -147282,8 +147552,10 @@
     "BirthYr": 2006,
     "Grad": 2025,
     "Position": "D",
+    "City": "Framingham",
     "State": "MA",
     "Country": "US",
+    "School": "Tabor",
     "Sr": "x"
   },
   {
@@ -147531,7 +147803,12 @@
   },
   {
     "Name": "Averell Wood",
-    "PersonKey": "wood|averell"
+    "PersonKey": "wood|averell",
+    "Grad": 2026,
+    "City": "Unionville",
+    "State": "CT",
+    "Country": "US",
+    "School": "Millbrook"
   },
   {
     "Name": "Elsa Wood",
@@ -147539,8 +147816,10 @@
     "BirthYr": 2006,
     "Grad": 2026,
     "Position": "F",
+    "City": "Manchester-By-The-Sea",
     "State": "MA",
     "Country": "US",
+    "School": "Brooks",
     "Jr": "x",
     "Sr": "x"
   },
@@ -147602,7 +147881,13 @@
   },
   {
     "Name": "Rowan Wood",
-    "PersonKey": "wood|rowan"
+    "PersonKey": "wood|rowan",
+    "Grad": 2026,
+    "Position": "F",
+    "City": "Morrisonville",
+    "State": "NY",
+    "Country": "US",
+    "School": "Kents Hill"
   },
   {
     "Name": "Zoey Wood",
@@ -147647,8 +147932,10 @@
     "Grad": 2025,
     "Position": "D",
     "Height": "5'7\"",
+    "City": "Maynard",
     "State": "MA",
     "Country": "US",
+    "School": "Cushing",
     "College": "Bowdoin"
   },
   {
@@ -147680,7 +147967,9 @@
   },
   {
     "Name": "Millie Woods",
-    "PersonKey": "woods|millie"
+    "PersonKey": "woods|millie",
+    "Grad": 2026,
+    "School": "Winsor"
   },
   {
     "Name": "Ella Woodtke",
@@ -147895,8 +148184,10 @@
     "DOB": "4/27/2010",
     "Grad": 2026,
     "Position": "F",
+    "City": "Belmont",
     "State": "MA",
     "Country": "US",
+    "School": "Exeter",
     "College": "Canton"
   },
   {
@@ -147943,7 +148234,7 @@
     "City": "New Preston",
     "State": "CT",
     "Country": "US",
-    "School": "Northwood School",
+    "School": "Frederick Gunn",
     "Team2025": "Northwood School 19U",
     "Team2026": "Chicago Mission 19U",
     "Team": "Northwood School",
@@ -148011,7 +148302,13 @@
   },
   {
     "Name": "Molly Wrinn",
-    "PersonKey": "wrinn|molly"
+    "PersonKey": "wrinn|molly",
+    "Grad": 2025,
+    "Position": "D",
+    "City": "Annapolis",
+    "State": "MD",
+    "Country": "US",
+    "School": "Holderness"
   },
   {
     "Name": "Adele Wrisley",
@@ -148062,7 +148359,10 @@
     "Grad": 2030,
     "Position": "D",
     "Height": "5'8\"",
+    "City": "Concord",
+    "State": "MA",
     "Country": "US",
+    "School": "Groton",
     "Team2025": "East Coast Wizards 14U",
     "Team2026": "East Coast Wizards 14U",
     "CCM68": "Yes"
@@ -148153,11 +148453,23 @@
   },
   {
     "Name": "Alexandra [Xan] Collins",
-    "PersonKey": "xancollins|alexandra"
+    "PersonKey": "xancollins|alexandra",
+    "Grad": 2027,
+    "Position": "F/D",
+    "City": "Greenwich",
+    "State": "CT",
+    "Country": "US",
+    "School": "Sacred Heart Greenwich"
   },
   {
     "Name": "Elsa Xi",
-    "PersonKey": "xi|elsa"
+    "PersonKey": "xi|elsa",
+    "Grad": 2029,
+    "Position": "D",
+    "City": "Shanghai",
+    "State": "China",
+    "Country": "Asia",
+    "School": "Berkshire"
   },
   {
     "Name": "Alice Xie",
@@ -148235,6 +148547,7 @@
     "City": "Westport",
     "State": "CT",
     "Country": "US",
+    "School": "Exeter",
     "Team2025": "Stanstead College U22",
     "Team2026": "RINK Kelowna U22",
     "Team": "East Coast Wizards",
@@ -148266,9 +148579,13 @@
     "PersonKey": "yager|chelsea",
     "BirthYr": 2009,
     "DOB": "7/4/2009",
+    "Grad": 2027,
     "Position": "F",
     "Height": "5'2\"",
-    "Country": "CAN"
+    "City": "Quispamsis",
+    "State": "NBR",
+    "Country": "CAN",
+    "School": "Brewster"
   },
   {
     "Name": "Adriana Yam",
@@ -148386,7 +148703,12 @@
   },
   {
     "Name": "Wu Yat Tik",
-    "PersonKey": "yattik|wu"
+    "PersonKey": "yattik|wu",
+    "Grad": 2025,
+    "City": "Bethesda",
+    "State": "MD",
+    "Country": "US",
+    "School": "Exeter"
   },
   {
     "Name": "Olive Ybarra",
@@ -148480,7 +148802,13 @@
   },
   {
     "Name": "Jaselle Yepez",
-    "PersonKey": "yepez|jaselle"
+    "PersonKey": "yepez|jaselle",
+    "Grad": 2025,
+    "Position": "F",
+    "City": "Stoneham",
+    "State": "MA",
+    "Country": "US",
+    "School": "Pingree"
   },
   {
     "Name": "Abby Yesh",
@@ -148636,7 +148964,13 @@
   },
   {
     "Name": "Alisa Yoshino",
-    "PersonKey": "yoshino|alisa"
+    "PersonKey": "yoshino|alisa",
+    "Grad": 2028,
+    "Position": "F",
+    "City": "West Vancouver",
+    "State": "BCO",
+    "Country": "CAN",
+    "School": "Westminster"
   },
   {
     "Name": "Thank You,",
@@ -148671,11 +149005,22 @@
   },
   {
     "Name": "Gabi Young",
-    "PersonKey": "young|gabriella"
+    "PersonKey": "young|gabriella",
+    "Grad": 2027,
+    "City": "Lyndonville",
+    "State": "VT",
+    "Country": "US",
+    "School": "Kimball Union"
   },
   {
     "Name": "Gianna Young",
-    "PersonKey": "young|gianna"
+    "PersonKey": "young|gianna",
+    "Grad": 2027,
+    "Position": "D",
+    "City": "Wilmington",
+    "State": "MA",
+    "Country": "US",
+    "School": "New Hampton"
   },
   {
     "Name": "Hannah Young",
@@ -148757,9 +149102,14 @@
     "Name": "Piper Young",
     "PersonKey": "young|piper",
     "BirthYr": 2008,
-    "Position": "D",
+    "Grad": 2028,
+    "Position": "G",
+    "City": "Belchertown",
     "State": "MA",
-    "Country": "US"
+    "Country": "US",
+    "School": "Tilton",
+    "Jr": "x",
+    "Sr": "x"
   },
   {
     "Name": "Reagan Young",
@@ -148784,16 +149134,24 @@
     "PersonKey": "young|sydney",
     "BirthYr": 2010,
     "DOB": "6/26/2010",
-    "Grad": 2028,
+    "Grad": 2029,
     "Position": "D",
+    "City": "Needham",
     "State": "MA",
     "Country": "US",
+    "School": "BB&N",
     "Team2024": "East Coast Wizards 14U",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards 16U",
+    "Sr": "x"
   },
   {
     "Name": "Taylor Young",
-    "PersonKey": "young|taylor"
+    "PersonKey": "young|taylor",
+    "Grad": 2026,
+    "City": "Needham",
+    "State": "MA",
+    "Country": "US",
+    "School": "Newton CDS"
   },
   {
     "Name": "Valentina Young",
@@ -149131,7 +149489,13 @@
   },
   {
     "Name": "Bella Zapata",
-    "PersonKey": "zapata|anabella"
+    "PersonKey": "zapata|anabella",
+    "Grad": 2027,
+    "Position": "F",
+    "City": "Cherry Hill",
+    "State": "NJ",
+    "Country": "US",
+    "School": "Westminster"
   },
   {
     "Name": "Izabella Zapata",
@@ -149176,7 +149540,10 @@
   },
   {
     "Name": "Gabby Zarro",
-    "PersonKey": "zarro|gabriella"
+    "PersonKey": "zarro|gabriella",
+    "Grad": 2025,
+    "Position": "G",
+    "School": "Greenwich CDS"
   },
   {
     "Name": "Mary Zavoral",
@@ -149231,7 +149598,13 @@
   },
   {
     "Name": "Helen Zeaske",
-    "PersonKey": "zeaske|helen"
+    "PersonKey": "zeaske|helen",
+    "Grad": 2026,
+    "Position": "G",
+    "City": "Lexington",
+    "State": "MA",
+    "Country": "US",
+    "School": "NMH"
   },
   {
     "Name": "Chloe Zebrowski",
@@ -149265,7 +149638,13 @@
   },
   {
     "Name": "Charlotte Zembruski",
-    "PersonKey": "zembruski|charlotte"
+    "PersonKey": "zembruski|charlotte",
+    "Grad": 2028,
+    "Position": "D",
+    "City": "Hanover Twp.",
+    "State": "PA",
+    "Country": "US",
+    "School": "Pomfret"
   },
   {
     "Name": "Angelina Zerby",
@@ -149460,8 +149839,10 @@
     "BirthYr": 2007,
     "Grad": 2026,
     "Position": "F",
+    "City": "Westwood",
     "State": "MA",
     "Country": "US",
+    "School": "Nobles",
     "Team2024": "East Coast Wizards 19U",
     "Team2025": "East Coast Wizards 19U",
     "Team2026": "East Coast Wizards 19U",
@@ -149499,7 +149880,13 @@
   },
   {
     "Name": "Averi Zhong",
-    "PersonKey": "zhong|averi"
+    "PersonKey": "zhong|averi",
+    "Grad": 2024,
+    "Position": "F",
+    "City": "Acton",
+    "State": "MA",
+    "Country": "US",
+    "School": "Frederick Gunn"
   },
   {
     "Name": "Clara Zhong",
@@ -150008,6 +150395,7 @@
     "City": "Braintree",
     "State": "MA",
     "Country": "US",
+    "School": "Nobles",
     "Team": "Assabet Valley",
     "College": "Brown",
     "Soph": "U1617",
