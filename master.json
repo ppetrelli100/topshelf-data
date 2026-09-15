@@ -179,16 +179,13 @@
     "PersonKey": "abougoush|sophia",
     "BirthYr": 2011,
     "DOB": "2/24/2011",
-    "Grad": 2029,
     "Position": "D",
     "Height": "5'11\"",
     "Weight": 161,
     "City": "Peachland",
     "State": "BCO",
     "Country": "CAN",
-    "Team2026": "RINK Kelowna U22",
-    "Fresh": "TmBC",
-    "Soph": "BCcamp",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Highest": "TmBC"
   },
   {
@@ -252,6 +249,8 @@
     "DOB": "6/10/2013",
     "Grad": 2031,
     "Position": "D",
+    "Height": "5'5\"",
+    "State": "VA",
     "Country": "US",
     "Team2026": "Lovell Academy 14U"
   },
@@ -744,10 +743,14 @@
   {
     "Name": "Norah Advani",
     "PersonKey": "advani|norah",
-    "Grad": 2029,
+    "BirthYr": 2011,
+    "DOB": "3/30/2011",
+    "Grad": 2030,
     "Position": "D",
-    "Country": "US",
-    "Team2024": "Anaheim 14U"
+    "Height": "5'4\"",
+    "Team2024": "Anaheim 14U",
+    "Team2026": "Shattuck-St. Mary's 16U",
+    "Sr": "x"
   },
   {
     "Name": "Audrey Afez",
@@ -1120,8 +1123,11 @@
     "Name": "Ailee Akiya",
     "PersonKey": "akiya|ailee",
     "BirthYr": 2012,
+    "DOB": "6/1/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'4\"",
+    "State": "WI",
     "Country": "US",
     "Team2025": "Windy City Storm 14U",
     "Team2026": "Lovell Academy 14U",
@@ -1478,7 +1484,7 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Jillian Alexander",
@@ -1632,11 +1638,12 @@
     "DOB": "5/8/2009",
     "Grad": 2027,
     "Position": "D",
+    "Height": "5'10\"",
     "City": "Airdrie",
     "State": "ALB",
     "Country": "CAN",
     "School": "RINK Kelowna",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "RINK Kelowna",
     "College": "Minnesota State",
     "Jr": "ABcamp",
@@ -2113,7 +2120,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Vivian Amato",
@@ -2163,6 +2170,7 @@
     "Country": "US",
     "School": "Apple Valley",
     "Team2025": "MN Moose 14U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes"
   },
   {
@@ -2315,11 +2323,13 @@
     "PersonKey": "amundson|darby",
     "BirthYr": 2009,
     "DOB": "3/30/2009",
-    "Grad": 2027,
     "Position": "D",
+    "Height": "5'7\"",
+    "State": "AB",
     "Country": "CAN",
     "Team2024": "Balmoral Hall U22",
-    "Team2025": "Delta Hockey Academy Green U22"
+    "Team2025": "Delta Hockey Academy Green U22",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Devyn Amundson",
@@ -2496,8 +2506,12 @@
   {
     "Name": "Ali Anderson",
     "PersonKey": "anderson|ali",
+    "BirthYr": 2012,
+    "DOB": "6/5/2012",
     "Grad": 2030,
     "Position": "D",
+    "Height": "5'5\"",
+    "State": "IL",
     "Country": "US",
     "Team2025": "Windy City Storm 14U",
     "Team2026": "Lovell Academy 14U"
@@ -2624,7 +2638,7 @@
     "PersonKey": "anderson|cecilia",
     "Position": "F",
     "Country": "US",
-    "Team2025": "Boston Jr Eagles 16U"
+    "Team2025": "Boston Jr Eagles-2 16U"
   },
   {
     "Name": "Ellen Anderson",
@@ -2774,7 +2788,7 @@
     "School": "Grand Rapids/Greenway",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U22"
+    "Team2026": "MN Elite Green 19U"
   },
   {
     "Name": "Paige Anderson",
@@ -2896,7 +2910,7 @@
     "School": "Orono HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Black 19U",
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
@@ -3197,7 +3211,7 @@
     "School": "Warroad HS",
     "Team2024": "MN Northern Elite 14U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -3818,7 +3832,7 @@
     "Team2026": "Warriors Lac St Louis U15"
   },
   {
-    "Name": "Lillian Aronson",
+    "Name": "Lily Aronson",
     "PersonKey": "aronson|lillian",
     "BirthYr": 2011,
     "DOB": "5/1/2011",
@@ -3832,6 +3846,7 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2025": "MN Lakers 14U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -3981,6 +3996,15 @@
     "Country": "CAN",
     "Team2024": "Windsor U18",
     "Team2025": "Windsor U18"
+  },
+  {
+    "Name": "Calie Arthur",
+    "PersonKey": "arthur|calie",
+    "Grad": 2027,
+    "Position": "F",
+    "Country": "US",
+    "School": "BLAKE",
+    "Team2026": "MN Elite Navy 19U"
   },
   {
     "Name": "Callie Arthur",
@@ -4324,7 +4348,7 @@
     "Grad": 2029,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Addyson Atkinson",
@@ -4832,7 +4856,7 @@
     "Grad": 2031,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Emma Avigni",
@@ -4875,10 +4899,11 @@
     "PersonKey": "ayers|jorja",
     "BirthYr": 2011,
     "DOB": "7/15/2011",
-    "Grad": 2029,
     "Position": "D",
+    "Height": "5'8\"",
+    "State": "SK",
     "Country": "CAN",
-    "Team2026": "RINK Kelowna U22"
+    "Team2026": "Rink Hockey Academy - Kelowna U18"
   },
   {
     "Name": "Amma Ayisi",
@@ -4894,7 +4919,7 @@
     "Grad": 2030,
     "Position": "G",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Jade Ayles",
@@ -4979,6 +5004,7 @@
     "School": "Breck HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -5331,7 +5357,7 @@
     "Country": "US",
     "School": "Os Winter League",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Sky 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -5631,6 +5657,7 @@
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Merrimack",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -5874,7 +5901,7 @@
     "State": "ONT",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U15",
+    "Team2026": "Ottawa Senators U15",
     "Fresh": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -6621,8 +6648,8 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
-    "Team": "Ottawa Lady Senators",
+    "Team2024": "Ottawa Senators U22",
+    "Team": "Ottawa Senators",
     "College": "Delaware",
     "Sr": "TmON-B",
     "Highest": "TmON-B"
@@ -6795,8 +6822,8 @@
     "Position": "D",
     "Height": "5'3\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18"
   },
   {
     "Name": "Macey Barten",
@@ -6974,6 +7001,15 @@
     "Team2025": "Anaheim Lady Ducks 14U",
     "Team2026": "Les Olympiques De Loutaouais U18",
     "Sr": "x"
+  },
+  {
+    "Name": "Emma Bassen",
+    "PersonKey": "bassen|emma",
+    "Grad": 2028,
+    "Position": "F",
+    "Country": "US",
+    "School": "Alexandria High School",
+    "Team2026": "MN Elite White 16U"
   },
   {
     "Name": "Gabriella Bassett",
@@ -7543,9 +7579,9 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
+    "Team2024": "Ottawa Senators U15",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U18",
+    "Team2026": "Ottawa Senators U18",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -8395,6 +8431,7 @@
     "State": "QUE",
     "Country": "CAN",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "Team": "Shattuck St-Mary's",
     "Fresh": "TmQC",
     "Soph": "QCcamp",
@@ -8735,7 +8772,7 @@
     "Grad": 2027,
     "Position": "G",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Brynn Belleau",
@@ -8971,7 +9008,7 @@
     "Country": "US",
     "School": "Shakopee HS",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -9325,7 +9362,7 @@
     "Country": "US",
     "School": "Moorhead HS",
     "Team2025": "MN Elite Green 19U",
-    "Team2026": "Northern Elite Gold U22",
+    "Team2026": "MN Elite Green 19U",
     "College": "St. Thomas",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -9836,6 +9873,7 @@
     "Country": "US",
     "School": "Shattuck-St. Mary's",
     "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Colgate",
     "Soph": "U15",
@@ -10250,6 +10288,7 @@
     "State": "CO",
     "Country": "US",
     "Team2025": "Team Colorado 14U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "Team": "Team Colorado",
     "Fresh": "U15",
     "Sr": "x",
@@ -10324,10 +10363,13 @@
     "Name": "Melina Bezic",
     "PersonKey": "bezic|melina",
     "BirthYr": 2010,
+    "DOB": "11/17/2010",
     "Position": "G",
+    "Height": "5'10\"",
     "City": "Burnaby",
     "State": "BCO",
     "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18",
     "Highest": "BCcamp"
   },
   {
@@ -10644,12 +10686,12 @@
     "PersonKey": "billsten|olivia",
     "BirthYr": 2011,
     "DOB": "2/3/2011",
-    "Grad": 2029,
     "Position": "F",
     "Height": "5'6\"",
     "Weight": 106,
+    "State": "AB",
     "Country": "CAN",
-    "Team2026": "OHA Edmonton U22"
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Valerie Bilsson",
@@ -10887,7 +10929,7 @@
     "Country": "CAN",
     "School": "Delta Hockey Academy",
     "Team2025": "Delta Hockey Academy Green U22",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Delta Hockey Academy",
     "College": "UCONN",
     "Soph": "TmBC",
@@ -11163,10 +11205,10 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "School": "Moorhead",
+    "School": "Moorhead High School",
     "Team2024": "MN Northern Elite 16U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U22"
+    "Team2026": "MN Elite Green 19U"
   },
   {
     "Name": "Reese Black",
@@ -11353,7 +11395,7 @@
     "Grad": 2031,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Summer Blake St-Pierre",
@@ -11458,24 +11500,25 @@
     "PersonKey": "blane|kinleigh",
     "BirthYr": 2009,
     "DOB": "10/30/2009",
-    "Grad": 2027,
     "Position": "F",
     "Height": "5'7\"",
     "City": "Coquitlam",
     "State": "BCO",
     "Country": "CAN",
-    "Team2026": "Delta Prep Green U22",
-    "Sr": "BCcamp",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Highest": "BCcamp"
   },
   {
     "Name": "Rhyen Blane",
     "PersonKey": "blane|rhyen",
     "BirthYr": 2011,
-    "Grad": 2029,
+    "DOB": "12/20/2011",
     "Position": "F",
+    "Height": "5'6\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2025": "Delta Hockey Academy U15"
+    "Team2025": "Delta Hockey Academy U15",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Leah Blankenchip",
@@ -11572,13 +11615,12 @@
     "Name": "Avery Bliss",
     "PersonKey": "bliss|avery",
     "BirthYr": 2012,
-    "Grad": 2030,
     "Position": "F",
+    "Height": "5'8\"",
     "City": "West Kelowna",
     "State": "BCO",
     "Country": "CAN",
-    "Team2026": "RINK Kelowna U22",
-    "Fresh": "BCcamp",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Highest": "BCcamp"
   },
   {
@@ -11890,8 +11932,8 @@
     "Grad": 2028,
     "Position": "F",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2024": "Ottawa Senators U15",
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Sabina Boals",
@@ -12263,7 +12305,7 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "Shattuck-St. Mary's 16U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "Shattuck St. Mary's",
     "CCM68": "Yes",
     "Jr": "ABcamp",
@@ -12404,14 +12446,13 @@
     "PersonKey": "bonin|emilie",
     "BirthYr": 2010,
     "DOB": "5/5/2010",
-    "Grad": 2028,
     "Position": "D",
     "Height": "5'9\"",
     "State": "MAN",
     "Country": "CAN",
     "Team2024": "St Marys Academy U22",
     "Team2025": "Balmoral Hall 19U",
-    "Team2026": "Balmoral Hall U22",
+    "Team2026": "Balmoral Hall U18",
     "CCM68": "Yes"
   },
   {
@@ -12527,6 +12568,7 @@
     "School": "Woodbury HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Black 19U",
     "Team": "MN Elite Silver",
     "College": "Quinnipiac",
     "Fresh": "U15",
@@ -12788,9 +12830,9 @@
     "Position": "D",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
+    "Team2024": "Ottawa Senators U15",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
-    "Team2026": "Ottawa Lady Senators U22",
+    "Team2026": "Ottawa Senators U22",
     "CCM68": "Yes",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
@@ -12822,6 +12864,7 @@
     "School": "Shattuck-St. Mary's",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Cornell",
     "CCM68": "Yes",
@@ -13103,7 +13146,7 @@
     "Grad": 2031,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Chelsey Bourque",
@@ -13159,6 +13202,7 @@
     "School": "South Alberta Hockey Academy",
     "Team2024": "South Alberta Hockey Academy U22",
     "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "Team": "South Alberta Hockey Academy",
     "College": "St. Cloud State",
     "Jr": "ABcamp",
@@ -13786,7 +13830,7 @@
     "PersonKey": "boynton|delaney",
     "BirthYr": 2009,
     "DOB": "3/1/2009",
-    "Grad": 2027,
+    "Grad": 2028,
     "Position": "D",
     "Height": "5’8”",
     "Weight": 115,
@@ -13794,8 +13838,10 @@
     "City": "Franklin",
     "State": "TN",
     "Country": "US",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Team": "Nashville Jr Predators",
-    "Soph": "U15",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
@@ -14116,9 +14162,11 @@
     "BirthYr": 2010,
     "DOB": "9/26/2010",
     "Position": "F",
+    "Height": "5'9\"",
     "City": "Port Coquitlam",
     "State": "BCO",
     "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18",
     "Highest": "BCcamp"
   },
   {
@@ -14336,6 +14384,7 @@
     "School": "Hill-Murray HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Black 19U",
     "Team": "MN Elite Silver",
     "College": "Penn State",
     "Fresh": "U15",
@@ -14938,10 +14987,14 @@
   {
     "Name": "Maielle Briggs",
     "PersonKey": "briggs|maielle",
+    "BirthYr": 2010,
+    "DOB": "8/21/2010",
     "Position": "F",
+    "Height": "5'2\"",
     "City": "100 Mile House",
     "State": "BCO",
     "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18",
     "Highest": "BCcamp"
   },
   {
@@ -15203,7 +15256,7 @@
     "State": "SAS",
     "Country": "CAN",
     "Team2025": "Saskatoon Stars 19U",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "Saskatoon Stars",
     "College": "Union",
     "CCM68": "Yes",
@@ -15317,6 +15370,7 @@
     "Country": "US",
     "School": "Shattuck-St. Mary's",
     "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Princeton",
     "CCM68": "Yes",
@@ -15392,7 +15446,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Middlesex",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Lily Bromley",
@@ -15424,7 +15478,7 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Duggan Brooke",
@@ -15432,7 +15486,7 @@
     "Grad": 2028,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Asbach Brooklyn",
@@ -15457,7 +15511,7 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Ahrens Brooklynn",
@@ -16299,6 +16353,7 @@
     "City": "Warman",
     "State": "SAS",
     "Country": "CAN",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "Jr": "SKcamp",
     "Highest": "SKcamp"
   },
@@ -16462,8 +16517,8 @@
     "Position": "D",
     "Height": "5'10\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18"
   },
   {
     "Name": "Alyssa Bryant",
@@ -16584,6 +16639,7 @@
     "Country": "US",
     "School": "Centennial",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Black 19U",
     "Team": "MN Jr Whitecaps",
     "Fresh": "U15",
     "Soph": "U18",
@@ -16759,13 +16815,14 @@
     "DOB": "1/9/2009",
     "Grad": 2027,
     "Position": "D",
+    "Height": "5'5\"",
     "City": "Fort St. John",
     "State": "BCO",
     "Country": "CAN",
     "School": "OHA Edmonton",
     "Team2024": "Okanagan Hockeyacademy Edmonton U22",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "Saint Anselm",
     "Sr": "BCcamp",
@@ -16993,10 +17050,11 @@
     "PersonKey": "bunde|brynli",
     "BirthYr": 2012,
     "Grad": 2030,
-    "Position": "F",
+    "Position": "D",
     "Country": "US",
+    "School": "Lakeville North",
     "Team2025": "MN Whitecaps Futures 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "CCM68": "Yes"
   },
   {
@@ -17398,7 +17456,7 @@
     "Grad": 2026,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22"
+    "Team2024": "Ottawa Senators U22"
   },
   {
     "Name": "Reeve Burley",
@@ -17796,8 +17854,11 @@
     "Name": "Noelle Bussey",
     "PersonKey": "bussey|noelle",
     "BirthYr": 2012,
+    "DOB": "3/4/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'5\"",
+    "State": "MA",
     "Country": "US",
     "Team2026": "Lovell Academy 14U"
   },
@@ -18778,6 +18839,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Wayzata Youth Hockey",
+    "Team2026": "MN Elite Silver 16U",
     "Fresh": "U15",
     "Soph": "WNT",
     "Sr": "x",
@@ -18824,8 +18886,11 @@
     "Name": "Aubrie Cameron",
     "PersonKey": "cameron|aubrie",
     "BirthYr": 2012,
+    "DOB": "5/25/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'4\"",
+    "State": "NY",
     "Country": "US",
     "Team2026": "Lovell Academy 14U",
     "CCM68": "Yes"
@@ -19316,9 +19381,9 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
+    "Team2024": "Ottawa Senators U15",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U18",
+    "Team2026": "Ottawa Senators U18",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -19658,10 +19723,14 @@
   {
     "Name": "Marin Carlos",
     "PersonKey": "carlos|marin",
+    "BirthYr": 2010,
+    "DOB": "3/5/2010",
     "Position": "F",
+    "Height": "5'8\"",
     "City": "Powell River",
     "State": "BCO",
     "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18",
     "Highest": "BCcamp"
   },
   {
@@ -19713,8 +19782,9 @@
     "Position": "F",
     "State": "MN",
     "Country": "US",
-    "School": "Grand Rapids/Greenway",
-    "Team2025": "MN Elite White 16U"
+    "School": "GRAND RAPIDS-GREENWAY",
+    "Team2025": "MN Elite White 16U",
+    "Team2026": "MN Elite White 16U"
   },
   {
     "Name": "Katie Carlson",
@@ -19755,8 +19825,9 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "School": "Lakeville North",
-    "Team2025": "MN Elite Gold 16U"
+    "School": "Lakeville North High School",
+    "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Navy 19U"
   },
   {
     "Name": "Megan Carlson",
@@ -19792,8 +19863,9 @@
     "City": "Minnetonka",
     "State": "MN",
     "Country": "US",
-    "School": "Minnetonka",
+    "School": "Minnetonka High School",
     "Team2025": "MN Elite Blue 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Team": "MN Lakers",
     "Fresh": "U15",
     "Soph": "U18",
@@ -20393,7 +20465,7 @@
     "State": "MT",
     "Country": "US",
     "School": "Middlesex",
-    "Team2025": "Boston Jr Eagles 16U"
+    "Team2025": "Boston Jr Eagles-2 16U"
   },
   {
     "Name": "Chloe Carroll",
@@ -20675,6 +20747,17 @@
     "Country": "CAN"
   },
   {
+    "Name": "Sophie Carter",
+    "PersonKey": "carter|sophia",
+    "BirthYr": 2009,
+    "DOB": "10/5/2009",
+    "Position": "F",
+    "Height": "5'10\"",
+    "State": "AB",
+    "Country": "CAN",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
+  },
+  {
     "Name": "Brinley Cartier",
     "PersonKey": "cartier|brinley",
     "BirthYr": 2009,
@@ -20831,7 +20914,7 @@
     "Country": "CAN",
     "Team2024": "Nepean Wildcats U15",
     "Team2025": "Nepean Wildcats U15",
-    "Team2026": "Ottawa Lady Senators U18",
+    "Team2026": "Ottawa Senators U18",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -20928,8 +21011,8 @@
     "Grad": 2026,
     "Position": "F",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18"
   },
   {
     "Name": "Clare Cassell",
@@ -20939,7 +21022,7 @@
     "Position": "F",
     "Height": "5'2\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18"
+    "Team2024": "Ottawa Senators U18"
   },
   {
     "Name": "Delia Cassell",
@@ -20949,8 +21032,8 @@
     "Position": "F",
     "Height": "5'3\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
-    "Team2025": "Ottawa Sens U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18"
   },
   {
     "Name": "Isabelle Casselman",
@@ -21166,10 +21249,13 @@
     "Name": "Elle Cathrea",
     "PersonKey": "cathrea|elle",
     "BirthYr": 2012,
-    "Grad": 2030,
+    "DOB": "5/10/2012",
     "Position": "D",
+    "Height": "5'5\"",
+    "State": "BC",
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy U15",
+    "Team2026": "Delta Hockey Academy - Black U18",
     "CCM68": "Yes"
   },
   {
@@ -21280,6 +21366,7 @@
     "Country": "US",
     "School": "Blaine HS",
     "Team2025": "MN Green Giants 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -21758,7 +21845,7 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Naomi Chambers",
@@ -21781,9 +21868,9 @@
     "City": "Edina",
     "State": "MN",
     "Country": "US",
-    "School": "Benilde-St. Margaret's",
+    "School": "BENILDE ST MARGARETS",
     "Team2025": "MN Lakers 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -22184,7 +22271,7 @@
     "Position": "G",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Danika Charaest",
@@ -22440,6 +22527,15 @@
     "State": "NH",
     "Country": "US",
     "School": "Portsmouth Abbey"
+  },
+  {
+    "Name": "Jaycee Chatelain",
+    "PersonKey": "chatelain|jaycee",
+    "Grad": 2027,
+    "Position": "F",
+    "Country": "US",
+    "School": "HILL MURRAY",
+    "Team2026": "MN Elite Black 19U"
   },
   {
     "Name": "Audrey Chatfield",
@@ -22899,9 +22995,9 @@
     "Position": "F",
     "Height": "5'5\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
+    "Team2024": "Ottawa Senators U18",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Morgan Chevrier",
@@ -22909,7 +23005,7 @@
     "Grad": 2028,
     "Position": "G",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15"
+    "Team2024": "Ottawa Senators U15"
   },
   {
     "Name": "Ryann Chevrier",
@@ -22924,6 +23020,17 @@
     "Team2024": "Sudbury Lady Wolves U18",
     "Team2025": "Sudbury Lady Wolves U18",
     "Team2026": "Sudbury Lady Wolves U18"
+  },
+  {
+    "Name": "Claire Cheyne",
+    "PersonKey": "cheyne|claire",
+    "BirthYr": 2009,
+    "DOB": "8/24/2009",
+    "Position": "D",
+    "Height": "5'6\"",
+    "State": "BC",
+    "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Isabella Chhabra",
@@ -22984,7 +23091,7 @@
     "School": "OHA Edmonton",
     "Team2024": "Okanagan Hockeyacademy Edmonton U22",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "Minnesota",
     "Soph": "TmAB",
@@ -23515,6 +23622,7 @@
     "School": "Orono HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Blue 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Dartmouth",
     "Soph": "U15",
     "Highest": "U15"
@@ -23857,9 +23965,11 @@
     "PersonKey": "cinquino|tommie",
     "BirthYr": 2012,
     "DOB": "3/22/2012",
+    "Grad": 2030,
     "Position": "F",
     "Height": "5'1\"",
     "Country": "US",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "CCM68": "Yes"
   },
   {
@@ -24038,7 +24148,7 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Savard Clara",
@@ -24046,7 +24156,7 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Brielle Clardy",
@@ -24063,6 +24173,7 @@
     "Country": "US",
     "School": "Eastview HS",
     "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Blue 16U",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -24310,7 +24421,7 @@
     "State": "ONT",
     "Country": "CAN",
     "Team2025": "Nepean Wildcats U15",
-    "Team2026": "Ottawa Lady Senators U18",
+    "Team2026": "Ottawa Senators U18",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -24370,9 +24481,9 @@
     "Position": "G",
     "Height": "5'8\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
-    "Team2025": "Ottawa Sens U18",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Hannah Clarke",
@@ -24418,7 +24529,7 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team": "Ottawa Lady Senators",
+    "Team": "Ottawa Senators",
     "College": "St. Lawrence",
     "Jr": "x",
     "Sr": "x"
@@ -24429,7 +24540,7 @@
     "Grad": 2023,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22"
+    "Team2024": "Ottawa Senators U22"
   },
   {
     "Name": "Marley Clarke",
@@ -24748,17 +24859,22 @@
     "State": "OH",
     "Country": "US",
     "School": "Shattuck-St. Mary's",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Franklin Pierce"
   },
   {
     "Name": "Alyse Clift",
     "PersonKey": "clift|alyse",
+    "BirthYr": 2011,
+    "DOB": "5/16/2011",
     "Position": "F",
+    "Height": "5'7\"",
     "City": "Surrey",
     "State": "BCO",
     "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18",
     "Highest": "BCcamp"
   },
   {
@@ -24785,10 +24901,13 @@
     "Name": "Reagan Cling",
     "PersonKey": "cling|reagan",
     "BirthYr": 2012,
+    "DOB": "10/25/2012",
     "Grad": 2031,
     "Position": "F",
+    "Height": "5'3\"",
     "Country": "US",
     "Team2025": "CT Jr Rangers 14U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "Sr": "x"
   },
   {
@@ -25028,6 +25147,7 @@
     "School": "Holy Family HS",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Navy 19U",
     "CCM68": "Yes",
     "Fresh": "U15",
     "Sr": "x",
@@ -25217,7 +25337,7 @@
     "State": "MA",
     "Country": "US",
     "Team2024": "Boston Jr Eagles 14U",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Team": "Boston Jr Eagles",
     "Regionals": "Yes",
     "Fresh": "U15",
@@ -25396,8 +25516,9 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
-    "Country": "CAN",
-    "Team2026": "Northern Elite Gold U18"
+    "Country": "US",
+    "School": "Duluth Northern Stars",
+    "Team2026": "MN Elite White 16U"
   },
   {
     "Name": "Zoe Cole",
@@ -26158,6 +26279,7 @@
     "Country": "US",
     "School": "Shattuck-St. Mary's",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Colgate",
     "CCM68": "Yes",
@@ -26324,7 +26446,7 @@
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green U22",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Delta Hockey Academy Green",
     "Sr": "BCcamp",
     "Highest": "BCcamp"
@@ -26337,7 +26459,7 @@
     "Position": "G",
     "Country": "US",
     "Team2024": "East Coast Wizards 14U",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Saige Connor",
@@ -26490,6 +26612,7 @@
     "Position": "F",
     "Height": "5'3\"",
     "Weight": 130,
+    "State": "TX",
     "Country": "US",
     "Team2025": "Lovell Academy 16U",
     "Team2026": "Lovell Academy 16U",
@@ -26662,11 +26785,11 @@
     "PersonKey": "cooper|ailee",
     "BirthYr": 2009,
     "DOB": "3/6/2009",
-    "Grad": 2027,
     "Position": "D",
     "Height": "5'9\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2026": "Delta Prep Green U22"
+    "Team2026": "Delta Hockey Academy - Green U18"
   },
   {
     "Name": "Autumn Cooper",
@@ -26812,7 +26935,7 @@
     "School": "OHA Edmonton",
     "Team2024": "Okanagan Hockeyacademy Edmonton U22",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "Quinnipiac",
     "Jr": "TmAB",
@@ -27237,7 +27360,7 @@
     "PersonKey": "corraro|callie",
     "BirthYr": 2008,
     "DOB": "5/10/2008",
-    "Grad": 2027,
+    "Grad": "PG",
     "Position": "G",
     "Height": "5’8”",
     "Weight": 125,
@@ -27250,9 +27373,8 @@
     "Team2026": "Lovell Academy 19U",
     "Team": "Lovell Academy",
     "College": "Union",
-    "Fresh": "U15",
-    "Sr": "x",
-    "Highest": "U15"
+    "Highest": "U15",
+    "Notable": "Gap Year"
   },
   {
     "Name": "Kylie Correa",
@@ -27329,8 +27451,11 @@
     "Name": "Aria Corum",
     "PersonKey": "corum|aria",
     "BirthYr": 2012,
+    "DOB": "2/18/2012",
     "Grad": 2030,
     "Position": "G",
+    "Height": "5'5\"",
+    "State": "NH",
     "Country": "US",
     "Team2025": "Lovell Academy 14U",
     "Team2026": "Lovell Academy 14U",
@@ -27507,9 +27632,11 @@
     "Position": "F",
     "Height": "5'7\"",
     "Weight": 126,
-    "Country": "US",
+    "State": "AB",
+    "Country": "CAN",
     "Team2024": "South Alberta Hockey Academy U22",
-    "Team2025": "South Alberta Hockey Academy 19U"
+    "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Alexia Cote",
@@ -27962,7 +28089,7 @@
     "State": "ONT",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U18",
+    "Team2026": "Ottawa Senators U18",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -28026,6 +28153,17 @@
     "Team2024": "Edouard-Monpetit U22",
     "Jr": "x",
     "Sr": "x"
+  },
+  {
+    "Name": "Courtney Couvion",
+    "PersonKey": "couvion|courtney",
+    "BirthYr": 2011,
+    "DOB": "8/30/2011",
+    "Position": "F",
+    "Height": "5'4\"",
+    "State": "BC",
+    "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Harper Coverdale",
@@ -28216,6 +28354,15 @@
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
+  },
+  {
+    "Name": "Kenedee Crable",
+    "PersonKey": "crable|kenedee",
+    "Grad": 2028,
+    "Position": "D",
+    "Country": "US",
+    "School": "Breck",
+    "Team2026": "MN Elite Blue 16U"
   },
   {
     "Name": "Chloe Crabtree",
@@ -28522,6 +28669,7 @@
     "School": "South Alberta Hockey Academy",
     "Team2024": "South Alberta Hockey Academy U22",
     "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "Team": "South Alberta Hockey Academy",
     "College": "Mercyhurst",
     "Jr": "SKcamp",
@@ -29210,7 +29358,6 @@
     "Height": "5'8\"",
     "State": "MN",
     "Country": "US",
-    "School": "Alexandria",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite Green 19U",
     "Team2026": "Lovell Academy 19U",
@@ -29491,13 +29638,13 @@
     "PersonKey": "curle|jakiah",
     "BirthYr": 2009,
     "DOB": "3/9/2009",
-    "Grad": 2027,
     "Position": "F",
     "Height": "5'10\"",
+    "State": "MB",
     "Country": "CAN",
     "Team2024": "St Marys Academy U22",
     "Team2025": "Balmoral Hall 19U",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Annabelle Curran",
@@ -29559,7 +29706,7 @@
     "State": "MA",
     "Country": "US",
     "Team2024": "Boston Jr Eagles 14U",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Team2026": "CPC Boston Americans 16U",
     "Regionals": "Yes"
   },
@@ -30247,6 +30394,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Shattuck-St. Mary's",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Ohio State",
     "Soph": "WNT",
@@ -30473,14 +30621,13 @@
     "PersonKey": "dammann|sienna",
     "BirthYr": 2011,
     "DOB": "10/8/2011",
-    "Grad": 2029,
     "Position": "F",
     "Height": "5'9\"",
     "Weight": 159,
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "RINK Kelowna U22",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "CCM68": "Yes"
   },
   {
@@ -31261,6 +31408,7 @@
     "School": "Edina HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Wisconsin",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -31424,10 +31572,13 @@
     "Name": "Sophia Daviss",
     "PersonKey": "daviss|sophia",
     "BirthYr": 2011,
-    "Grad": 2029,
+    "DOB": "1/26/2011",
     "Position": "D",
+    "Height": "5'4\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2025": "Delta Hockey Academy U15"
+    "Team2025": "Delta Hockey Academy U15",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Rhyan Davy",
@@ -31886,7 +32037,7 @@
     "Position": "D",
     "Height": "5'6\"",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Team2025": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Lucy Decaire",
@@ -32193,7 +32344,7 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "Northern Elite Gold U18",
+    "Team2026": "MN Elite Silver 16U",
     "Team": "MN Elite Sky",
     "College": "St. Thomas",
     "Soph": "U15",
@@ -32929,8 +33080,9 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "US",
+    "School": "Breck",
     "Team2025": "MN Grey Ducks 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes"
   },
   {
@@ -33288,7 +33440,7 @@
     "Country": "US",
     "School": "Thayer",
     "Team2024": "Boston Jr Eagles 14U",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Team2026": "CPC Boston Americans 16U",
     "Team": "Boston Jr Eagles",
     "Fresh": "U15",
@@ -33340,6 +33492,7 @@
     "Country": "US",
     "School": "Shattuck-St. Mary's",
     "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Wisconsin",
     "Fresh": "WNT",
@@ -33489,7 +33642,7 @@
     "Position": "D",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Ella DeSilva",
@@ -33674,8 +33827,11 @@
     "Name": "Brynlee Desrosiers",
     "PersonKey": "desrosiers|brynlee",
     "BirthYr": 2012,
+    "DOB": "4/19/2012",
     "Grad": 2030,
     "Position": "D",
+    "Height": "5'5\"",
+    "State": "NY",
     "Country": "US",
     "Team2026": "Lovell Academy 14U",
     "CCM68": "Yes"
@@ -33936,7 +34092,7 @@
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green U22",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Delta Hockey Academy Green",
     "Jr": "TmBC",
     "Sr": "BCcamp",
@@ -33959,7 +34115,7 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Anna Diane Mckee",
@@ -34149,7 +34305,7 @@
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "Okanagan Hockey Academy Penticton U22",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "Okanagan Hockey Academy Penticton",
     "Jr": "BCcamp",
     "Highest": "BCcamp"
@@ -34459,6 +34615,17 @@
     "Notable": "Team USA U18 2024"
   },
   {
+    "Name": "Addison Di Meglio",
+    "PersonKey": "dimeglio|addison",
+    "BirthYr": 2011,
+    "DOB": "9/3/2011",
+    "Position": "D",
+    "Height": "5'9\"",
+    "State": "BC",
+    "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18"
+  },
+  {
     "Name": "Kate Dimitrovic",
     "PersonKey": "dimitrovic|katherine",
     "Grad": 2027,
@@ -34494,7 +34661,7 @@
     "Grad": 2027,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Adele Ding",
@@ -35267,9 +35434,10 @@
     "Height": "5'6\"",
     "State": "MN",
     "Country": "US",
-    "School": "Alexandria",
+    "School": "ALEXANDRIA AREA HIGH SCHOOL",
     "Team2024": "MN Northern Elite 16U",
     "Team2025": "MN Elite White 16U",
+    "Team2026": "MN Elite Green 19U",
     "Sr": "x"
   },
   {
@@ -35501,7 +35669,7 @@
     "Position": "D",
     "Height": "5'7\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
+    "Team2024": "Ottawa Senators U18",
     "Team2025": "Nepean Wildcats U22",
     "Team2026": "Nepean Wildcats U22"
   },
@@ -35679,8 +35847,11 @@
     "Name": "Ella Doran",
     "PersonKey": "doran|ella",
     "BirthYr": 2012,
+    "DOB": "11/6/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'0\"",
+    "State": "CT",
     "Country": "US",
     "Team2026": "Lovell Academy 14U",
     "CCM68": "Yes"
@@ -36302,6 +36473,7 @@
     "Country": "US",
     "School": "South Central HS",
     "Team2025": "MN Elite Blue 16U",
+    "Team2026": "MN Elite Green 19U",
     "Team": "South Central Flyers",
     "College": "Minnesota State",
     "Soph": "U15",
@@ -37044,7 +37216,7 @@
     "Country": "CAN",
     "Team2024": "Nepean Wildcats U18",
     "Team2025": "Nepean Wildcats U18",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Layla Duhamel",
@@ -37146,14 +37318,14 @@
     "PersonKey": "dunbar|mercedes",
     "BirthYr": 2009,
     "DOB": "12/20/2009",
-    "Grad": 2027,
     "Position": "F",
     "Height": "5'6\"",
     "Weight": 146,
+    "State": "AB",
     "Country": "CAN",
     "Team2024": "Okanagan Hockeyacademy Edmonton U22",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22"
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Allison Dunbrack",
@@ -37334,7 +37506,7 @@
     "Height": "5'8\"",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Teagan Dunn",
@@ -37389,10 +37561,12 @@
     "Name": "Kittson Dunning",
     "PersonKey": "dunning|kittson",
     "BirthYr": 2011,
-    "Grad": 2029,
+    "DOB": "9/20/2011",
     "Position": "D",
+    "Height": "5'7\"",
+    "State": "MB",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Cadence Dunsmuir",
@@ -37707,7 +37881,7 @@
     "School": "Alexandria",
     "Team2024": "MN Northern Elite 14U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U18",
+    "Team2026": "MN Elite White 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -37827,7 +38001,7 @@
     "State": "ONT",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U22",
+    "Team2026": "Ottawa Senators U22",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -38132,7 +38306,7 @@
     "Grad": 2027,
     "Position": "F",
     "Country": "CAN",
-    "Team2024": "Ottawa Sens U22"
+    "Team2024": "Ottawa Senators U22"
   },
   {
     "Name": "Adriana Echavarria",
@@ -38160,6 +38334,15 @@
     "College": "Oswego",
     "Soph": "U15",
     "Highest": "U15"
+  },
+  {
+    "Name": "Gianna Eckel",
+    "PersonKey": "eckel|gianna",
+    "Grad": 2028,
+    "Position": "G",
+    "Country": "US",
+    "School": "Champlin Park",
+    "Team2026": "MN Elite Sky 16U"
   },
   {
     "Name": "Vivian Eckerman",
@@ -38225,6 +38408,16 @@
     "Country": "US",
     "School": "Austin Prep",
     "Sr": "x"
+  },
+  {
+    "Name": "Baylin Edgar",
+    "PersonKey": "edgar|baylin",
+    "BirthYr": 2013,
+    "DOB": "3/2/2013",
+    "Grad": 2031,
+    "Position": "F",
+    "Height": "5'2\"",
+    "Team2026": "Shattuck-St. Mary's 16U"
   },
   {
     "Name": "Ryanne Edlund",
@@ -38384,9 +38577,13 @@
   {
     "Name": "Reka Effi Hiezl",
     "PersonKey": "effihiezl|reka",
+    "BirthYr": 2009,
+    "DOB": "6/10/2009",
+    "Grad": 2027,
     "Position": "F",
-    "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Height": "5'6\"",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's 19U"
   },
   {
     "Name": "Meredith Egan",
@@ -38427,6 +38624,7 @@
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Navy 19U",
     "Team": "MN Jr Whitecaps",
     "College": "Assumption",
     "Sr": "x"
@@ -38686,6 +38884,7 @@
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Navy 19U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -38770,12 +38969,14 @@
     "Name": "Allison Elijah",
     "PersonKey": "elijah|allison",
     "BirthYr": 2009,
+    "DOB": "9/10/2009",
     "Grad": 2028,
     "Position": "F",
     "Height": "5'4\"",
-    "Country": "US",
+    "State": "ON",
+    "Country": "CAN",
     "Team2025": "Lovell Academy 16U",
-    "Team2026": "Lovell Academy 19U",
+    "Team2026": "Lovell Academy U22",
     "Sr": "x"
   },
   {
@@ -38790,7 +38991,7 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Holland Elise",
@@ -39145,7 +39346,7 @@
     "Grad": 2029,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "MacDonald Emerson",
@@ -39394,6 +39595,7 @@
     "School": "Apple Valley HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Providence",
     "Soph": "WNT",
     "Jr": "U18",
@@ -39465,6 +39667,15 @@
     "Country": "US",
     "Team2025": "Little Caesars 14U",
     "Team2026": "Little Caesars 14U"
+  },
+  {
+    "Name": "Kyla Engstrom",
+    "PersonKey": "engstrom|kyla",
+    "Grad": 2029,
+    "Position": "D",
+    "Country": "US",
+    "School": "Minnetonka Varsity",
+    "Team2026": "MN Elite Silver 16U"
   },
   {
     "Name": "Kenni Eno",
@@ -39737,6 +39948,16 @@
     "Grad": 2024,
     "Position": "G",
     "Country": "CAN"
+  },
+  {
+    "Name": "Rocky Erickson",
+    "PersonKey": "erickson|rocky",
+    "BirthYr": 2010,
+    "DOB": "2/9/2010",
+    "Grad": 2028,
+    "Position": "D",
+    "Height": "5'8\"",
+    "Team2026": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Rachel Ericson",
@@ -40299,10 +40520,13 @@
     "Name": "Annika Ewankiw",
     "PersonKey": "ewankiw|annika",
     "BirthYr": 2011,
-    "Grad": 2029,
+    "DOB": "9/21/2011",
     "Position": "G",
+    "Height": "5'3\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2025": "Delta Hockey Academy U15"
+    "Team2025": "Delta Hockey Academy U15",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Sarah Ewanyshyn",
@@ -40419,10 +40643,12 @@
     "DOB": "3/29/2010",
     "Grad": 2028,
     "Position": "F",
+    "Height": "5'4\"",
     "City": "Regina",
     "State": "SAS",
     "Country": "CAN",
     "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "Team": "South Alberta Hockey Academy",
     "Jr": "SKcamp",
     "Highest": "SKcamp"
@@ -40950,10 +41176,12 @@
     "Name": "Bree Farmer",
     "PersonKey": "farmer|bree",
     "BirthYr": 2011,
-    "Grad": 2029,
+    "DOB": "10/23/2011",
     "Position": "F",
+    "Height": "5'7\"",
+    "State": "MB",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Kylie Farnsworth",
@@ -41456,6 +41684,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Andover HS",
+    "Team2026": "MN Elite Sky 16U",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -41796,7 +42025,7 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15",
+    "Team2026": "Ottawa Senators U15",
     "Fresh": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -41860,7 +42089,7 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15"
+    "Team2024": "Ottawa Senators U15"
   },
   {
     "Name": "Ella Ferry",
@@ -41940,7 +42169,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Maddy Fick",
@@ -41994,6 +42223,7 @@
     "School": "Crookston HS",
     "Team2024": "MN Northern Elite 14U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -42383,6 +42613,7 @@
     "Country": "US",
     "School": "Rosemount HS",
     "Team2025": "MN Elite Black 19U",
+    "Team2026": "MN Elite Blue 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -42601,6 +42832,7 @@
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Navy 19U",
     "College": "Assumption",
     "Soph": "U15",
     "Highest": "U15"
@@ -42880,8 +43112,8 @@
     "Position": "F",
     "Height": "5'4\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18",
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
     "Team2026": "East Ottawa Stars U22"
   },
   {
@@ -42924,7 +43156,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Leighton Fitzgerald",
@@ -42960,6 +43192,7 @@
     "Country": "US",
     "School": "Edina HS",
     "Team2025": "MN Elite Sky 16U",
+    "Team2026": "MN Elite Sky 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -42998,7 +43231,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Reagan Fitzgerald",
@@ -45069,7 +45302,7 @@
     "School": "Warroad HS",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite Green 19U",
-    "Team2026": "Northern Elite Gold U22",
+    "Team2026": "MN Elite Green 19U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -45166,24 +45399,24 @@
     "PersonKey": "frey|angelina",
     "BirthYr": 2012,
     "DOB": "3/11/2012",
-    "Grad": 2030,
     "Position": "F",
     "Height": "5'6\"",
     "Weight": 123,
+    "State": "MB",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Madilynn Frey",
     "PersonKey": "frey|madilynn",
     "BirthYr": 2010,
     "DOB": "5/18/2010",
-    "Grad": 2028,
     "Position": "F",
     "Height": "5'4\"",
+    "State": "MB",
     "Country": "CAN",
     "Team2025": "RINK Winnepeg U22",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Sylvie Frey",
@@ -45200,6 +45433,7 @@
     "Country": "US",
     "Team2024": "Team Colorado 14U",
     "Team2025": "Team Colorado 16U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Team": "Team Colorado",
     "Soph": "U15",
     "Highest": "U15"
@@ -45254,10 +45488,10 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
+    "Team2024": "Ottawa Senators U15",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
-    "Team2026": "Ottawa Lady Senators U22",
-    "Team": "Ottawa Lady Senators",
+    "Team2026": "Ottawa Senators U22",
+    "Team": "Ottawa Senators",
     "College": "Quinnipiac",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
@@ -45762,6 +45996,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Mankato East HS",
+    "Team2026": "MN Elite White 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -45899,7 +46134,8 @@
     "City": "Bismarck",
     "State": "ND",
     "Country": "US",
-    "Team2026": "Northern Elite Gold U18",
+    "School": "WARROAD",
+    "Team2026": "MN Elite White 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -45942,13 +46178,12 @@
     "PersonKey": "gabriel|samera",
     "BirthYr": 2010,
     "DOB": "5/13/2010",
-    "Grad": 2028,
     "Position": "F",
+    "Height": "5'4\"",
     "City": "Oliver",
     "State": "BCO",
     "Country": "CAN",
-    "Team2026": "Delta Prep Green U22",
-    "Jr": "BCcamp",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Highest": "BCcamp"
   },
   {
@@ -45965,7 +46200,7 @@
     "Grad": 2027,
     "Position": "G",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Evans Gabrielle",
@@ -45998,8 +46233,8 @@
     "Position": "F",
     "Height": "5'5\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18"
   },
   {
     "Name": "Sierra Gaffney",
@@ -46256,7 +46491,7 @@
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green U22",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Delta Hockey Academy Green",
     "Sr": "BCcamp",
     "Highest": "BCcamp"
@@ -46323,6 +46558,7 @@
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Minnesota State",
     "Soph": "U15",
     "Jr": "U1617",
@@ -46609,7 +46845,7 @@
     "Position": "G",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
     "Sr": "ONcamp",
     "Highest": "ONcamp"
@@ -46629,10 +46865,13 @@
     "Name": "Samantha Garden",
     "PersonKey": "garden|samantha",
     "BirthYr": 2011,
-    "Grad": 2029,
+    "DOB": "11/6/2011",
     "Position": "F",
+    "Height": "5'7\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2025": "Delta Hockey Academy U15"
+    "Team2025": "Delta Hockey Academy U15",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Brooklyn Gardner",
@@ -46695,7 +46934,7 @@
     "Country": "CAN",
     "Team2024": "Nepean Wildcats U18",
     "Team2025": "Nepean Wildcats U22",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Teagan Garfield",
@@ -46823,6 +47062,7 @@
     "Position": "D",
     "Height": "5'6\"",
     "Weight": 126,
+    "State": "CA",
     "Country": "US",
     "Team2026": "Lovell Academy 14U"
   },
@@ -47351,7 +47591,7 @@
     "Country": "US",
     "School": "Centennial/SLP HS",
     "Team2025": "MN Green Giants 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Sky 16U",
     "Team": "Centennial",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -47414,6 +47654,7 @@
     "Country": "US",
     "School": "Nobles",
     "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Harvard",
     "Fresh": "U15",
@@ -47468,8 +47709,9 @@
     "City": "Maple Grove",
     "State": "MN",
     "Country": "US",
-    "School": "Osseo/Maple Grove",
+    "School": "OMGHA 15A 2026, 2027 will play for MGHS",
     "Team2025": "MN Walleye 14U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -47481,7 +47723,7 @@
     "Grad": 2030,
     "Position": "G",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Olivia Georges",
@@ -47545,9 +47787,11 @@
     "BirthYr": 2010,
     "DOB": "4/16/2010",
     "Position": "D",
+    "Height": "5'7\"",
     "City": "West Kelowna",
     "State": "BCO",
     "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18",
     "Highest": "BCcamp"
   },
   {
@@ -47580,9 +47824,10 @@
     "City": "Andover",
     "State": "MN",
     "Country": "US",
-    "School": "Andover",
+    "School": "Andover HS",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Navy 19U",
     "Team": "AHYHA",
     "Fresh": "U15",
     "Sr": "x",
@@ -47632,7 +47877,7 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2025": "MN Lakers 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -48155,7 +48400,7 @@
     "City": "St. Albert",
     "State": "ALB",
     "Country": "CAN",
-    "Team2026": "Lovell Academy 19U",
+    "Team2026": "Lovell Academy U22",
     "Team": "St Albert Slash",
     "College": "Clarkson",
     "Sr": "ABcamp",
@@ -48465,7 +48710,7 @@
     "Position": "D",
     "Height": "5'0\"",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Hailee Gill",
@@ -48762,9 +49007,11 @@
     "Position": "F",
     "Height": "5'3\"",
     "Weight": 115,
-    "Country": "US",
+    "State": "SK",
+    "Country": "CAN",
     "Team2024": "South Alberta Hockey Academy U22",
-    "Team2025": "South Alberta Hockey Academy 19U"
+    "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Anne Gingras",
@@ -48839,8 +49086,11 @@
     "Name": "Reese Giovonti",
     "PersonKey": "giovonti|reese",
     "BirthYr": 2011,
+    "DOB": "1/30/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'8\"",
+    "State": "FL",
     "Country": "US",
     "Team2025": "Lovell Academy 14U",
     "Team2026": "Lovell Academy 14U",
@@ -49259,9 +49509,9 @@
     "Position": "F",
     "Height": "5'7\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
+    "Team2024": "Ottawa Senators U18",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Emma Gnade",
@@ -49343,8 +49593,10 @@
     "Position": "F",
     "Height": "5'5\"",
     "Country": "US",
+    "School": "Farmington High School",
     "Team2024": "MN Jr Whitecaps 14U",
-    "Team2025": "MN Jr Whitecaps Black 16U"
+    "Team2025": "MN Jr Whitecaps Black 16U",
+    "Team2026": "MN Elite Silver 16U"
   },
   {
     "Name": "Jenna Goblirsch",
@@ -49362,6 +49614,7 @@
     "School": "Farmington HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Jr Whitecaps Black 16U",
+    "Team2026": "MN Elite Silver 16U",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -49478,6 +49731,16 @@
     "Team2024": "Guelph U15",
     "Team2025": "Ancaster U15",
     "Team2026": "North York Storm U18"
+  },
+  {
+    "Name": "Adelaide Goettl",
+    "PersonKey": "goettl|adelaide",
+    "Grad": 2029,
+    "Position": "F",
+    "Country": "US",
+    "School": "MAPLE GROVE",
+    "Team2026": "MN Elite Sky 16U",
+    "Regionals": "Yes"
   },
   {
     "Name": "Isabelle Goettl",
@@ -49599,6 +49862,7 @@
     "Country": "US",
     "Team2024": "Little Caesars 14U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "Team": "Little Caesars",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -49897,10 +50161,14 @@
     "PersonKey": "good|nora",
     "BirthYr": 2008,
     "DOB": "12/23/2008",
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'8\"",
     "Country": "US",
-    "Team2025": "MN Prospects - Lakers 19U"
+    "School": "DULUTH",
+    "Team2025": "MN Prospects - Lakers 19U",
+    "Team2026": "MN Elite Green 19U",
+    "Sr": "x"
   },
   {
     "Name": "Simone Good",
@@ -50039,7 +50307,7 @@
     "Grad": 2027,
     "Position": "G",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Isabelle Goodwin",
@@ -50049,8 +50317,8 @@
     "Position": "G",
     "Height": "5'7\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
-    "Team2025": "Ottawa Sens U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18"
   },
   {
     "Name": "Chloe Goofers",
@@ -50277,9 +50545,10 @@
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "School": "Albert Lea",
+    "School": "Albert Lea High School",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Navy 19U",
     "Sr": "x"
   },
   {
@@ -50306,14 +50575,14 @@
     "PersonKey": "gosselinberg|maive",
     "BirthYr": 2009,
     "DOB": "8/17/2009",
-    "Grad": 2027,
     "Position": "G",
     "Height": "5'11\"",
     "Weight": 141,
+    "State": "AB",
     "Country": "CAN",
     "Team2024": "Okanaganhockeyacademy Penticton 19U",
     "Team2025": "Okanagan Hockey Academy Penticton U22",
-    "Team2026": "Delta Prep Green U22"
+    "Team2026": "Delta Hockey Academy - Green U18"
   },
   {
     "Name": "Julia Gotal",
@@ -50465,9 +50734,9 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
+    "Team2024": "Ottawa Senators U15",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U18",
+    "Team2026": "Ottawa Senators U18",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
   },
@@ -50613,7 +50882,8 @@
     "State": "NY",
     "Country": "US",
     "School": "Shattuck-St. Mary's",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Merrimack",
     "CCM68": "Yes",
@@ -50714,7 +50984,7 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Katie Grady",
@@ -50969,7 +51239,7 @@
     "State": "MA",
     "Country": "US",
     "Team2024": "East Coast Wizards 14U",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Natalie Grams",
@@ -51567,7 +51837,7 @@
     "Position": "D",
     "Height": "5'5\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18"
+    "Team2024": "Ottawa Senators U18"
   },
   {
     "Name": "Mila Greco",
@@ -51577,7 +51847,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Sophia Greco",
@@ -51586,9 +51856,9 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
+    "Team2024": "Ottawa Senators U15",
     "Team2025": "Nepean Wildcats U18",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Elizabeth Greeley",
@@ -51767,7 +52037,7 @@
     "State": "SAS",
     "Country": "CAN",
     "Team2025": "Saskatoon Stars 19U",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "Saskatoon Stars",
     "College": "Mercyhurst",
     "CCM68": "Yes",
@@ -51795,10 +52065,10 @@
     "Height": "5'9\"",
     "State": "MN",
     "Country": "US",
-    "School": "Fergus Falls",
+    "School": "Moorhead",
     "Team2024": "MN Northern Elite 16U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U22"
+    "Team2026": "MN Elite Green 19U"
   },
   {
     "Name": "Paisley Greenbaum",
@@ -52552,16 +52822,20 @@
     "Highest": "U15"
   },
   {
-    "Name": "Emerson Grinsteinner",
+    "Name": "Emme Grinsteinner",
     "PersonKey": "grinsteinner|emerson",
     "BirthYr": 2008,
     "DOB": "10/5/2008",
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
+    "School": "Minnetonka",
     "Team2024": "MN Elite Sky 16U",
-    "Team2025": "MN Elite Navy 19U"
+    "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Vegas 19U",
+    "Sr": "x"
   },
   {
     "Name": "Piper Grinsteinner",
@@ -52573,8 +52847,9 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
-    "School": "Minnetonka",
+    "School": "MINNETONKA",
     "Team2025": "MN Lakers 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes"
   },
   {
@@ -53449,7 +53724,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Middlesex",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Sr": "x"
   },
   {
@@ -54105,10 +54380,12 @@
     "PersonKey": "hale|kaia",
     "BirthYr": 2010,
     "DOB": "6/7/2010",
+    "Grad": 2028,
     "Position": "F",
     "Height": "5'6\"",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Molly Hale",
@@ -54132,6 +54409,15 @@
     "State": "VT",
     "Country": "US",
     "School": "Holderness"
+  },
+  {
+    "Name": "Peyton Haley",
+    "PersonKey": "haley|peyton",
+    "Grad": 2028,
+    "Position": "F",
+    "Country": "US",
+    "School": "Andover high school",
+    "Team2026": "MN Elite Blue 16U"
   },
   {
     "Name": "Reagan Haley",
@@ -54217,6 +54503,7 @@
     "Country": "US",
     "School": "Greenwich Academy",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "CCM68": "Yes",
     "Regionals": "Yes",
     "Soph": "U1617",
@@ -54227,10 +54514,14 @@
     "Name": "Brooke Hall",
     "PersonKey": "hall|brooke",
     "BirthYr": 2012,
-    "Grad": 2030,
+    "DOB": "4/9/2012",
+    "Grad": 2031,
     "Position": "D",
+    "Height": "5'9\"",
     "Country": "US",
-    "Team2025": "CT Jr Rangers 14U"
+    "Team2025": "CT Jr Rangers 14U",
+    "Team2026": "Shattuck-St. Mary's 16U",
+    "Sr": "x"
   },
   {
     "Name": "Brooklyn Hall",
@@ -54269,9 +54560,14 @@
   {
     "Name": "Kate Hall",
     "PersonKey": "hall|katherine",
+    "BirthYr": 2008,
+    "DOB": "7/2/2008",
+    "Grad": 2027,
     "Position": "D",
-    "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Height": "5'10\"",
+    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
+    "Sr": "x"
   },
   {
     "Name": "Kathryn Hall",
@@ -54352,7 +54648,7 @@
     "School": "Breck HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
-    "Team2026": "Whitby Wolves U18",
+    "Team2026": "MN Elite Black 19U",
     "Team": "MN Elite Silver",
     "College": "Minnesota -Duluth",
     "CCM68": "Yes",
@@ -54531,7 +54827,7 @@
     "Country": "US",
     "School": "Orono Westonka",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Sky 16U",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -54627,7 +54923,7 @@
     "PersonKey": "hamel|eden",
     "BirthYr": 2008,
     "DOB": "7/13/2008",
-    "Grad": 2027,
+    "Grad": 2026,
     "Position": "F",
     "Height": "5'4",
     "Weight": 130,
@@ -54635,11 +54931,10 @@
     "State": "BCO",
     "Country": "CAN",
     "School": "Shawnigan Lake School",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Shawnigan Lake School",
     "College": "Robert Morris",
-    "Jr": "TmBC",
-    "Sr": "x",
+    "Sr": "TmBC",
     "Highest": "TmBC",
     "Notable": "Press Release says for 2027, not on roster"
   },
@@ -54745,6 +55040,7 @@
     "City": "Hampton",
     "State": "NH",
     "Country": "US",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "CCM68": "Yes",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -54979,7 +55275,7 @@
     "Grad": 2028,
     "Position": "F",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15"
+    "Team2024": "Ottawa Senators U15"
   },
   {
     "Name": "Amelia Hanke",
@@ -55262,6 +55558,7 @@
     "School": "Benilde-St Margarets HS",
     "Team2024": "MN Elite Silver 16U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Minnesota",
     "Fresh": "U15",
     "Soph": "U18",
@@ -55557,7 +55854,11 @@
     "Name": "Elle Hardwick",
     "PersonKey": "hardwick|elle",
     "BirthYr": 2012,
+    "Grad": 2030,
     "Position": "D",
+    "Country": "US",
+    "School": "WARROAD",
+    "Team2026": "MN Elite White 16U",
     "CCM68": "Yes"
   },
   {
@@ -55861,7 +56162,7 @@
     "Grad": 2029,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Kealey Harper",
@@ -55869,7 +56170,7 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Nichols Harper",
@@ -56148,10 +56449,12 @@
     "Name": "Adley Harrison",
     "PersonKey": "harrison|adley",
     "BirthYr": 2012,
-    "Grad": 2030,
+    "DOB": "5/29/2012",
     "Position": "F",
+    "Height": "5'3\"",
+    "State": "MB",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22",
+    "Team2026": "Balmoral Hall U18",
     "CCM68": "Yes"
   },
   {
@@ -56358,9 +56661,9 @@
     "City": "Chaska",
     "State": "MN",
     "Country": "US",
-    "School": "Chaska/Chanhassen",
+    "School": "Holy Family Catholic High School",
     "Team2025": "MN Lakers 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes",
     "Fresh": "U15",
     "Sr": "x",
@@ -57184,9 +57487,9 @@
     "Position": "D",
     "Height": "5'4\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
+    "Team2024": "Ottawa Senators U18",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Orla Hayes",
@@ -57562,8 +57865,9 @@
     "City": "Monticello",
     "State": "MN",
     "Country": "US",
-    "School": "North Wright County",
+    "School": "Holy Family",
     "Team2025": "MN Elite Sky 16U",
+    "Team2026": "MN Elite Silver 16U",
     "Team": "North Wright County Riverhawks",
     "Soph": "U15",
     "Highest": "U15"
@@ -57869,7 +58173,7 @@
     "School": "Prior Lake HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Team": "MN Elite Blue",
     "College": "Bemidji State",
     "Soph": "U15",
@@ -57890,6 +58194,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Blake HS",
+    "Team2026": "MN Elite Sky 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -57917,6 +58222,7 @@
     "School": "Benilde-St Margarets HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Blue 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Maine",
     "Soph": "U15",
     "Highest": "U15"
@@ -58165,7 +58471,7 @@
     "School": "OHA Edmonton",
     "Team2024": "Okanagan Hockeyacademy Edmonton U22",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "St. Cloud State",
     "Sr": "ABcamp",
@@ -58380,6 +58686,7 @@
     "Country": "US",
     "School": "Wayzata HS",
     "Team2025": "MN Walleye 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -59070,7 +59377,7 @@
     "School": "Calgary Edge School",
     "Team2024": "Edge School U22",
     "Team2025": "Edge Mountaineers 19U",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Calgary Edge School",
     "College": "Mercyhurst",
     "Sr": "ABcamp",
@@ -59205,13 +59512,12 @@
     "PersonKey": "hickling|sierra",
     "BirthYr": 2009,
     "DOB": "3/26/2009",
-    "Grad": 2027,
     "Position": "F",
     "Height": "5'2\"",
     "Weight": 126,
     "State": "CA",
     "Country": "US",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna 16U",
     "CCM68": "Yes"
   },
   {
@@ -59514,12 +59820,14 @@
     "Name": "Lydia Hill",
     "PersonKey": "hill|lydia",
     "BirthYr": 2010,
-    "Grad": 2028,
+    "DOB": "2/20/2010",
     "Position": "F",
+    "Height": "5'8\"",
+    "State": "MB",
     "Country": "CAN",
     "Team2024": "Balmoral Hall U22",
     "Team2025": "Balmoral Hall 19U",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Madeline Hill",
@@ -59759,7 +60067,7 @@
     "Position": "D",
     "State": "MA",
     "Country": "US",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Team2026": "Boston Jr Eagles 16U",
     "Regionals": "Yes"
   },
@@ -59984,6 +60292,7 @@
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "Team": "MN Elite Gold",
     "College": "St. Thomas",
     "Fresh": "U15",
@@ -60104,7 +60413,9 @@
     "City": "Mantorville",
     "State": "MN",
     "Country": "US",
+    "School": "DODGE COUNTY",
     "Team2025": "MN Grey Ducks 14U",
+    "Team2026": "MN Elite White 16U",
     "Team": "Dodge County Wildcats",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -60289,7 +60600,7 @@
     "State": "ONT",
     "Country": "CAN",
     "Team2025": "East Ottawa Stars U22",
-    "Team2026": "Ottawa Lady Senators U22",
+    "Team2026": "Ottawa Senators U22",
     "Team": "East Ottawa Stars",
     "Sr": "ONcamp",
     "Highest": "ONcamp"
@@ -60711,7 +61022,7 @@
     "PersonKey": "holtzleicer|jahnica",
     "BirthYr": 2010,
     "DOB": "3/1/2010",
-    "Grad": 2028,
+    "Grad": 2029,
     "Position": "D",
     "Height": "5’5”",
     "Weight": 135,
@@ -60722,9 +61033,10 @@
     "School": "Hill-Murray HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
-    "Soph": "U15",
-    "Jr": "U1617",
+    "Team2026": "MN Elite Silver 16U",
+    "Fresh": "U15",
+    "Soph": "U1617",
+    "Sr": "x",
     "Highest": "U1617"
   },
   {
@@ -60939,6 +61251,17 @@
     "Position": "D",
     "Country": "US",
     "Team2026": "LA Lions 14U"
+  },
+  {
+    "Name": "Addie Hoppe",
+    "PersonKey": "hoppe|addison",
+    "BirthYr": 2011,
+    "DOB": "2/7/2011",
+    "Grad": 2029,
+    "Position": "G",
+    "Height": "5'8\"",
+    "Country": "US",
+    "Team2026": "Shattuck-St. Mary's 16U"
   },
   {
     "Name": "Adeline Hoppe",
@@ -61159,6 +61482,7 @@
     "School": "Edina HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Blue 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Dartmouth",
     "Soph": "U15",
     "Jr": "U1617",
@@ -61364,16 +61688,13 @@
     "PersonKey": "houle|harlee",
     "BirthYr": 2009,
     "DOB": "3/4/2009",
-    "Grad": 2027,
     "Position": "G",
     "Height": "5'9\"",
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's U18",
     "Team": "OHA Edmonton",
-    "Jr": "ABcamp",
-    "Sr": "ABcamp",
     "Highest": "ABcamp"
   },
   {
@@ -61548,9 +61869,12 @@
     "Name": "Talia Hovsepian",
     "PersonKey": "hovsepian|talia",
     "BirthYr": 2012,
+    "DOB": "8/1/2012",
+    "Grad": 2030,
     "Position": "F",
     "Height": "5'2\"",
     "Country": "US",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "CCM68": "Yes"
   },
   {
@@ -61753,6 +62077,17 @@
     "Team2026": "Delta Prep Green U22"
   },
   {
+    "Name": "Lexi Howitt",
+    "PersonKey": "howitt|lexi",
+    "BirthYr": 2009,
+    "DOB": "4/28/2009",
+    "Position": "F",
+    "Height": "5'9\"",
+    "State": "BC",
+    "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Green U18"
+  },
+  {
     "Name": "Julia Hozjan",
     "PersonKey": "hozjan|julia",
     "Grad": 2028,
@@ -61784,7 +62119,6 @@
     "PersonKey": "hrubeniuk|ava",
     "BirthYr": 2009,
     "DOB": "3/10/2009",
-    "Grad": 2027,
     "Position": "F",
     "Height": "5'8\"",
     "Weight": 150,
@@ -61792,7 +62126,7 @@
     "Country": "CAN",
     "Team2024": "RINK Winnepeg U22",
     "Team2025": "RINK Winnepeg U22",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "CCM68": "Yes"
   },
   {
@@ -62002,8 +62336,9 @@
     "Grad": 2029,
     "Position": "F",
     "Height": "5'7\"",
-    "Country": "CAN",
-    "Team2026": "Northern Elite Gold U18",
+    "Country": "US",
+    "School": "BUFFALO",
+    "Team2026": "MN Elite White 16U",
     "Sr": "x"
   },
   {
@@ -62179,7 +62514,7 @@
     "Country": "CAN",
     "Team2024": "Nepean Wildcats U22",
     "Team2025": "Nepean Wildcats U22",
-    "Team2026": "Ottawa Lady Senators U22",
+    "Team2026": "Ottawa Senators U22",
     "Team": "Nepean Wildcats",
     "College": "UCONN",
     "CCM68": "Yes",
@@ -62703,7 +63038,12 @@
     "Name": "Hope Hunter",
     "PersonKey": "hunter|hope",
     "BirthYr": 2012,
+    "DOB": "5/23/2012",
     "Position": "D",
+    "Height": "5'5\"",
+    "State": "SK",
+    "Country": "CAN",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "CCM68": "Yes"
   },
   {
@@ -62714,7 +63054,7 @@
     "Position": "F",
     "Height": "5'6\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
+    "Team2024": "Ottawa Senators U18",
     "Team2025": "Nepean Wildcats U18",
     "Team2026": "Nepean Wildcats U18"
   },
@@ -63410,11 +63750,12 @@
     "PersonKey": "impett|kelsey",
     "BirthYr": 2010,
     "DOB": "3/23/2010",
-    "Grad": 2028,
     "Position": "D",
+    "Height": "5'4\"",
+    "State": "NT",
     "Country": "CAN",
     "Team2025": "Northern Alberta Xtreme 19U",
-    "Team2026": "OHA Edmonton U22"
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Khamis Ines",
@@ -63901,13 +64242,13 @@
     "PersonKey": "iwami|reika",
     "BirthYr": 2008,
     "DOB": "4/10/2008",
-    "Grad": 2027,
     "Position": "D",
+    "Height": "5'2\"",
+    "State": "BC",
     "Country": "CAN",
     "Team2024": "Balmoral Hall U22",
     "Team2025": "Balmoral Hall 19U",
-    "Team2026": "Balmoral Hall U22",
-    "Sr": "x"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Annalie Izzolo",
@@ -64139,8 +64480,11 @@
     "Name": "Khloe Jacobs",
     "PersonKey": "jacobs|khloe",
     "BirthYr": 2012,
+    "DOB": "8/4/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'4\"",
+    "State": "MI",
     "Country": "US",
     "Team2025": "Little Caesars 14U",
     "Team2026": "Lovell Academy 14U",
@@ -64198,7 +64542,7 @@
     "Country": "US",
     "School": "Hastings HS",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -64803,8 +65147,12 @@
   {
     "Name": "Ella Jay Bendza",
     "PersonKey": "jaybendza|ella",
+    "BirthYr": 2012,
+    "DOB": "5/12/2012",
     "Grad": 2030,
     "Position": "D",
+    "Height": "5'4\"",
+    "State": "RI",
     "Country": "US",
     "Team2026": "Lovell Academy 14U"
   },
@@ -64847,7 +65195,7 @@
     "State": "CZE",
     "Country": "Intl",
     "School": "Shattuck-St. Mary's",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Maine",
     "Jr": "WNT-O",
@@ -65194,7 +65542,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "Boston Jr Eagles 16U"
+    "Team2025": "Boston Jr Eagles-2 16U"
   },
   {
     "Name": "Rory Jex",
@@ -65473,6 +65821,7 @@
     "School": "Blaine HS",
     "Team2024": "MN Elite Orange 16U",
     "Team2025": "MN Elite Black 19U",
+    "Team2026": "MN Elite Black 19U",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -65627,9 +65976,9 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Lydia Johnson",
@@ -65641,10 +65990,10 @@
     "Height": "5'9\"",
     "State": "MN",
     "Country": "US",
-    "School": "Moorhead",
+    "School": "Moorhead Spuds",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite Green 19U",
-    "Team2026": "Northern Elite Gold U22",
+    "Team2026": "MN Elite Green 19U",
     "Sr": "x"
   },
   {
@@ -65706,8 +66055,9 @@
     "Grad": 2028,
     "Position": "F",
     "Height": "5'7\"",
-    "Country": "CAN",
-    "Team2026": "Northern Elite Gold U22",
+    "Country": "US",
+    "School": "Bemidji Lumberjacks",
+    "Team2026": "MN Elite Green 19U",
     "Sr": "x"
   },
   {
@@ -65770,7 +66120,7 @@
     "School": "Moundsview",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
-    "Team2026": "Anaheim 19U",
+    "Team2026": "MN Elite Vegas 19U",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -66149,10 +66499,10 @@
     "City": "Kanata",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Nepean Wildcats U22",
     "Team2026": "Nepean Wildcats U22",
-    "Team": "Ottawa Lady Senators",
+    "Team": "Ottawa Senators",
     "College": "Ohio State",
     "Jr": "WNT-C",
     "Sr": "WNT-C",
@@ -66637,7 +66987,7 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2025": "MN Walleye 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -66863,13 +67213,14 @@
     "PersonKey": "jugnauth|neve",
     "BirthYr": 2009,
     "DOB": "9/25/2009",
-    "Grad": 2027,
     "Position": "F",
+    "Height": "5'3\"",
     "Weight": 106,
+    "State": "AB",
     "Country": "CAN",
     "Team2024": "Okanagan Hockeyacademy Edmonton U22",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22"
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Ryann Jugnauth",
@@ -66885,7 +67236,7 @@
     "School": "OHA Edmonton",
     "Team2024": "Okanagan Hockeyacademy Edmonton U22",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "St. Lawrence",
     "Jr": "TmAB",
@@ -66958,7 +67309,7 @@
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green U22",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Delta Hockey Academy Green",
     "Jr": "TmBC",
     "Sr": "BCcamp",
@@ -67063,6 +67414,15 @@
     "Grad": 2025,
     "Position": "D",
     "Country": "CAN"
+  },
+  {
+    "Name": "Karlee Kabrenner",
+    "PersonKey": "kabrenner|karlee",
+    "Grad": 2027,
+    "Position": "F",
+    "Country": "US",
+    "School": "Warroad High School",
+    "Team2026": "MN Elite Green 19U"
   },
   {
     "Name": "Chloe Kachur",
@@ -67528,15 +67888,13 @@
     "PersonKey": "kang|myah",
     "BirthYr": 2009,
     "DOB": "9/23/2009",
-    "Grad": 2027,
     "Position": "D",
     "Height": "5'9\"",
     "Weight": 139,
     "City": "Surrey",
     "State": "BCO",
     "Country": "CAN",
-    "Team2026": "Delta Prep Green U22",
-    "Sr": "BCcamp",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Highest": "BCcamp"
   },
   {
@@ -67615,7 +67973,7 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Team": "MN Elite Sky",
     "College": "Lindenwood",
     "Soph": "U15",
@@ -67727,7 +68085,8 @@
     "City": "Pelham",
     "State": "NY",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "South Westchester Blackhawks",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -67861,6 +68220,7 @@
     "Country": "CAN",
     "Team2024": "South Alberta Hockey Academy U22",
     "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "Team": "South Alberta Hockey Academy",
     "Jr": "TmSK",
     "Sr": "SKcamp",
@@ -68051,7 +68411,7 @@
     "Country": "US",
     "School": "Nobles",
     "Team2024": "Boston Jr Eagles 14U",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Team2026": "Boston Jr Eagles 16U",
     "Team": "Boston Jr Eagles",
     "Regionals": "Yes",
@@ -68192,10 +68552,10 @@
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
-    "School": "Proctor Hermantown",
+    "School": "Duluth Northern Stars",
     "Team2024": "MN Northern Elite 16U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U22",
+    "Team2026": "MN Elite Green 19U",
     "Sr": "x"
   },
   {
@@ -68283,7 +68643,7 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Lydia Kealty",
@@ -68550,6 +68910,7 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2025": "MN Lakers 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -68559,11 +68920,15 @@
     "PersonKey": "keepman|kennedy",
     "BirthYr": 2009,
     "DOB": "10/26/2009",
+    "Grad": 2028,
     "Position": "D",
     "Height": "5'10\"",
     "State": "MN",
     "Country": "US",
-    "Team2024": "MN Elite Red 16U"
+    "School": "Minnetonka High School",
+    "Team2024": "MN Elite Red 16U",
+    "Team2026": "MN Elite Navy 19U",
+    "Sr": "x"
   },
   {
     "Name": "Caryss Kehl",
@@ -68991,6 +69356,7 @@
     "School": "Shattuck-St. Mary's",
     "Team2024": "Chicago Mission 14U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Quinnipiac",
     "Regionals": "Yes",
@@ -69106,9 +69472,9 @@
     "Height": "5'6\"",
     "State": "MN",
     "Country": "US",
-    "School": "Centennial",
+    "School": "Centennial High School",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Sr": "x"
   },
   {
@@ -69190,7 +69556,7 @@
     "Grad": 2029,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Peyton Kendrick",
@@ -69326,6 +69692,7 @@
     "School": "Benilde-St. Margaret's",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Black 19U",
     "Sr": "x"
   },
   {
@@ -69638,7 +70005,7 @@
     "School": "Roseau HS",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U22",
+    "Team2026": "MN Elite Green 19U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -69905,7 +70272,7 @@
     "Grad": 2029,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Dowd Kiera",
@@ -69995,7 +70362,7 @@
     "Height": "5'4\"",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
     "Sr": "ONcamp",
     "Highest": "ONcamp"
@@ -70459,6 +70826,7 @@
     "Country": "US",
     "Team2024": "CT Jr Rangers 14U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "CCM68": "Yes",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -70901,6 +71269,17 @@
     "Team2026": "CIHA U22"
   },
   {
+    "Name": "Kamryn Kish",
+    "PersonKey": "kish|kamryn",
+    "BirthYr": 2009,
+    "DOB": "5/2/2009",
+    "Position": "F",
+    "Height": "5'4\"",
+    "State": "SK",
+    "Country": "CAN",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
+  },
+  {
     "Name": "Alyssa Kishbaugh",
     "PersonKey": "kishbaugh|alyssa",
     "BirthYr": 2013,
@@ -71072,12 +71451,12 @@
     "PersonKey": "klapak|emilee",
     "BirthYr": 2010,
     "DOB": "1/26/2010",
-    "Grad": 2028,
     "Position": "G",
     "Height": "5'7\"",
     "Weight": 130,
+    "State": "SK",
     "Country": "CAN",
-    "Team2026": "RINK Kelowna U22"
+    "Team2026": "Rink Hockey Academy - Kelowna U18"
   },
   {
     "Name": "Layla Klapak",
@@ -71145,6 +71524,17 @@
     "Weight": 146,
     "Country": "CAN",
     "Team2026": "OHA Edmonton U22"
+  },
+  {
+    "Name": "Ellya Klaus",
+    "PersonKey": "klaus|ellya",
+    "BirthYr": 2011,
+    "DOB": "12/14/2011",
+    "Position": "F",
+    "Height": "5'7\"",
+    "State": "AB",
+    "Country": "CAN",
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Calissa Klein",
@@ -71218,8 +71608,9 @@
     "City": "Fargo",
     "State": "ND",
     "Country": "US",
+    "School": "Moorhead Spuds",
     "Team2025": "Team North Dakota 16U",
-    "Team2026": "Northern Elite Gold U18",
+    "Team2026": "MN Elite White 16U",
     "Team": "Team North Dakota",
     "Soph": "U15",
     "Highest": "U15"
@@ -71635,9 +72026,10 @@
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
-    "School": "Bemidji",
+    "School": "BEMIDJI",
     "Team2024": "MN Northern Elite 16U",
     "Team2025": "MN Elite Green 19U",
+    "Team2026": "MN Elite Green 19U",
     "Sr": "x"
   },
   {
@@ -71716,10 +72108,10 @@
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
-    "School": "Thief River Falls",
+    "School": "Thief River Falls Prowlers",
     "Team2024": "MN Northern Elite 16U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U22",
+    "Team2026": "MN Elite Green 19U",
     "Sr": "x"
   },
   {
@@ -71829,6 +72221,7 @@
     "School": "Dodge County HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Black 19U",
+    "Team2026": "MN Elite Green 19U",
     "College": "St. Thomas",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -72475,7 +72868,7 @@
     "School": "Cloquet-Esko-Carlton HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -72503,8 +72896,12 @@
   {
     "Name": "Piper Koskiniemi",
     "PersonKey": "koskiniemi|piper",
+    "BirthYr": 2012,
+    "DOB": "5/2/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'6\"",
+    "State": "MI",
     "Country": "US",
     "Team2025": "Fox Motors 14U",
     "Team2026": "Lovell Academy 14U"
@@ -72929,9 +73326,9 @@
     "City": "Edina",
     "State": "MN",
     "Country": "US",
-    "School": "Edina",
+    "School": "Edina 15UA",
     "Team2025": "MN Lakers 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "Team": "MN Lakers",
     "Regionals": "Yes",
     "Fresh": "U15",
@@ -72999,7 +73396,7 @@
     "Country": "US",
     "School": "Os Winter Training",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -73060,8 +73457,9 @@
     "City": "Mahtomedi",
     "State": "MN",
     "Country": "US",
+    "School": "Mahtomedi Bantam AA",
     "Team2025": "MN Loons 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -73394,10 +73792,13 @@
     "Name": "Danika Krooshoop",
     "PersonKey": "krooshoop|danika",
     "BirthYr": 2010,
-    "Grad": 2028,
+    "DOB": "6/30/2010",
     "Position": "D",
+    "Height": "5'8\"",
+    "State": "AB",
     "Country": "CAN",
-    "Team2025": "South Alberta Hockey Academy U22"
+    "Team2025": "South Alberta Hockey Academy U22",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Mila Kropf",
@@ -73436,8 +73837,9 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "School": "Rogers",
+    "School": "ROGERS",
     "Team2025": "MN Green Giants 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes"
   },
   {
@@ -73499,6 +73901,7 @@
     "State": "AZ",
     "Country": "US",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "Team": "LA Lions",
     "CCM68": "Yes",
     "Fresh": "U15",
@@ -73637,8 +74040,11 @@
     "Name": "Alana Kulakofsky",
     "PersonKey": "kulakofsky|alana",
     "BirthYr": 2012,
+    "DOB": "5/7/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'2\"",
+    "State": "IL",
     "Country": "US",
     "Team2025": "Chicago Mission 14U",
     "Team2026": "Lovell Academy 14U"
@@ -73817,7 +74223,9 @@
     "BirthYr": 2012,
     "DOB": "5/29/2012",
     "Grad": 2030,
-    "Position": "D",
+    "Position": "F",
+    "Height": "5'4\"",
+    "State": "MA",
     "Country": "US",
     "Team2025": "Lovell Academy 14U",
     "Team2026": "Lovell Academy 14U",
@@ -73952,8 +74360,9 @@
     "City": "East Grand Forks",
     "State": "MN",
     "Country": "US",
-    "School": "East Grand Forks",
+    "School": "EAST GRAND FORKS",
     "Team2025": "MN Blue Ox 14U",
+    "Team2026": "MN Elite White 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -74048,6 +74457,7 @@
     "School": "Centennial/SLP HS",
     "Team2024": "MN Elite Silver 16U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Boston College",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -74178,6 +74588,7 @@
     "Country": "CAN",
     "Team2024": "Eastman U18",
     "Team2025": "Eastman Selects 19U",
+    "Team2026": "Balmoral Hall U18",
     "Highest": "MBcamp"
   },
   {
@@ -74576,7 +74987,7 @@
     "School": "Breck HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Team": "MN Elite Blue",
     "College": "Boston College",
     "Soph": "U15",
@@ -74875,6 +75286,7 @@
     "Country": "US",
     "Team2024": "Madison Capitols 14U",
     "Team2025": "Madison Capitols 16U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Madison Capitols",
     "College": "Northeastern",
     "CCM68": "Yes",
@@ -74892,7 +75304,7 @@
     "Country": "CAN",
     "Team2024": "East Ottawa Stars U18",
     "Team2025": "East Ottawa Stars U18",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Arya Lalbeharry",
@@ -75003,6 +75415,7 @@
     "Country": "US",
     "School": "Rosemount HS",
     "Team2025": "MN Moose 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -75283,13 +75696,13 @@
     "BirthYr": 2011,
     "DOB": "2/16/2011",
     "Grad": 2029,
-    "Position": "D",
+    "Position": "F",
     "Height": "5'7\"",
     "Weight": 143,
     "State": "NBR",
     "Country": "CAN",
     "Team2025": "Lovell Academy 14U",
-    "Team2026": "Lovell Academy 16U",
+    "Team2026": "Lovell Academy U18",
     "CCM68": "Yes"
   },
   {
@@ -77800,6 +78213,7 @@
     "State": "CA",
     "Country": "US",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "LA Lions",
     "CCM68": "Yes",
     "Fresh": "U15",
@@ -77840,7 +78254,7 @@
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green U22",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Delta Hockey Academy Green",
     "Jr": "TmBC",
     "Sr": "BCcamp",
@@ -77934,11 +78348,15 @@
     "PersonKey": "lee|makayla",
     "BirthYr": 2008,
     "DOB": "11/8/2008",
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
-    "Team2024": "MN Elite Orange 16U"
+    "School": "Warroad High School",
+    "Team2024": "MN Elite Orange 16U",
+    "Team2026": "MN Elite Green 19U",
+    "Sr": "x"
   },
   {
     "Name": "Marie Lee",
@@ -78034,10 +78452,12 @@
     "Name": "Yubon Lee",
     "PersonKey": "lee|yubon",
     "BirthYr": 2012,
-    "Grad": 2030,
+    "DOB": "11/12/2012",
     "Position": "F",
-    "Country": "CAN",
-    "Team2025": "Delta Hockey Academy U15"
+    "Height": "5'4\"",
+    "Country": "Korea",
+    "Team2025": "Delta Hockey Academy U15",
+    "Team2026": "Delta Hockey Academy - Black 16U"
   },
   {
     "Name": "Jocelyn Leeder",
@@ -78382,8 +78802,8 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
-    "Team": "Ottawa Lady Senators",
+    "Team2024": "Ottawa Senators U22",
+    "Team": "Ottawa Senators",
     "College": "Dartmouth"
   },
   {
@@ -78443,6 +78863,16 @@
     "Team2026": "North York Storm U22",
     "Team": "Barrie Jr Sharks",
     "College": "Robert Morris"
+  },
+  {
+    "Name": "Stella Lehtinen",
+    "PersonKey": "lehtinen|estella",
+    "BirthYr": 2010,
+    "DOB": "3/24/2010",
+    "Grad": 2028,
+    "Position": "F",
+    "Height": "5'4\"",
+    "Team2026": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Corinne Leibowitz",
@@ -78529,7 +78959,7 @@
     "Country": "CAN",
     "School": "OHA Edmonton",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "Mercyhurst",
     "Jr": "ABcamp",
@@ -79492,9 +79922,9 @@
     "Position": "F",
     "Height": "5'6\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
-    "Team2025": "Ottawa Sens U18",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Violette Lewis-Ouellette",
@@ -79911,6 +80341,7 @@
     "Height": "5'7\"",
     "Country": "US",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Sr": "x"
   },
   {
@@ -80003,7 +80434,7 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Myers Lily",
@@ -80057,7 +80488,7 @@
     "PersonKey": "limb|jillian",
     "BirthYr": 2010,
     "DOB": "1/12/2010",
-    "Grad": 2027,
+    "Grad": 2028,
     "Position": "D",
     "Height": "5’5”",
     "Weight": 135,
@@ -80067,10 +80498,11 @@
     "Country": "US",
     "School": "Deerfield",
     "Team2025": "East Coast Wizards 16U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "CCM68": "Yes",
     "Regionals": "Yes",
-    "Jr": "U15",
-    "Sr": "U1617",
+    "Soph": "U15",
+    "Jr": "U1617",
     "Highest": "U1617"
   },
   {
@@ -80164,6 +80596,17 @@
     "Team2026": "Washington Pride 14U"
   },
   {
+    "Name": "Addi Lindgren",
+    "PersonKey": "lindgren|addi",
+    "BirthYr": 2009,
+    "DOB": "11/29/2009",
+    "Grad": 2028,
+    "Position": "F",
+    "Height": "5'8\"",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
+    "Sr": "x"
+  },
+  {
     "Name": "Mila Lindholm",
     "PersonKey": "lindholm|mila",
     "BirthYr": 2011,
@@ -80202,7 +80645,7 @@
     "Country": "US",
     "School": "Minnetonka HS",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -80306,7 +80749,7 @@
     "Country": "US",
     "School": "Brooks",
     "Team2024": "Boston Jr Eagles 14U",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Team2026": "CPC Boston Americans 16U",
     "CCM68": "Yes",
     "Regionals": "Yes",
@@ -80466,7 +80909,7 @@
     "School": "Roseau HS",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite Green 19U",
-    "Team2026": "Northern Elite Gold U22",
+    "Team2026": "MN Elite Green 19U",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -81050,9 +81493,10 @@
     "Name": "Sami Locke",
     "PersonKey": "locke|samantha",
     "BirthYr": 2011,
-    "DOB": 2011,
+    "DOB": "4/8/2011",
     "Grad": 2029,
     "Position": "D",
+    "Height": "5'5\"",
     "State": "NJ",
     "Country": "US",
     "Team2024": "Thunder Bay U15",
@@ -81404,7 +81848,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Ashley Long",
@@ -81481,9 +81925,9 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
+    "Team2024": "Ottawa Senators U18",
     "Team2025": "Nepean Wildcats U22",
-    "Team2026": "Ottawa Lady Senators U22",
+    "Team2026": "Ottawa Senators U22",
     "Team": "Nepean Wildcats",
     "College": "Quinnipiac",
     "CCM68": "Yes",
@@ -81582,7 +82026,7 @@
     "School": "Orono HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Vegas 19U",
     "Team": "MN Elite Blue",
     "College": "Minnesota State",
     "Fresh": "U15",
@@ -81697,9 +82141,10 @@
     "Height": "5'3\"",
     "State": "MN",
     "Country": "US",
-    "School": "Warroad",
+    "School": "Warroad MN",
     "Team2024": "MN Northern Elite 14U",
-    "Team2025": "MN Elite White 16U"
+    "Team2025": "MN Elite White 16U",
+    "Team2026": "MN Elite White 16U"
   },
   {
     "Name": "Elle Lorenz",
@@ -81772,7 +82217,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Samson Lory",
@@ -82260,10 +82705,11 @@
     "Name": "Taylin Lucas",
     "PersonKey": "lucas|taylin",
     "BirthYr": 2012,
-    "Grad": 2030,
     "Position": "F",
+    "Height": "5'9\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2026": "RINK Kelowna U22"
+    "Team2026": "Rink Hockey Academy - Kelowna U18"
   },
   {
     "Name": "Alessandra Lucchese",
@@ -82361,8 +82807,8 @@
     "Position": "F",
     "Height": "5'4\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
-    "Team2025": "Ottawa Sens U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18"
   },
   {
     "Name": "Saeri Luddington",
@@ -83069,11 +83515,11 @@
     "PersonKey": "lyver|rachel",
     "BirthYr": 2010,
     "DOB": "7/16/2010",
-    "Grad": 2028,
     "Position": "F",
     "Height": "5'6\"",
+    "State": "MB",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "M M",
@@ -83176,7 +83622,7 @@
     "PersonKey": "macaulay|emily",
     "BirthYr": 2009,
     "DOB": "6/1/2009",
-    "Grad": 2028,
+    "Grad": 2027,
     "Position": "F",
     "Height": "5'5\"",
     "Weight": 145,
@@ -83190,10 +83636,9 @@
     "Team2026": "Lovell Academy 19U",
     "Team": "Lovell Academy",
     "College": "Clarkson",
-    "Fresh": "U15",
-    "Soph": "U1617",
+    "Soph": "U15",
     "Jr": "U1617",
-    "Sr": "x",
+    "Sr": "U1617",
     "Highest": "U1617"
   },
   {
@@ -83649,7 +84094,7 @@
     "Country": "CAN",
     "School": "Okanagan Hockey Academy",
     "Team2025": "Okanagan Hockey Academy Penticton U22",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "Okanagan Hockey Academy",
     "College": "Robert Morris",
     "Sr": "BCcamp",
@@ -84034,7 +84479,7 @@
     "School": "RINK Kelowna",
     "Team2024": "RINK Kelowna U22",
     "Team2025": "RINK Kelowna U22",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "RINK Kelowna",
     "College": "Minnesota -Duluth",
     "Soph": "TmBC",
@@ -84087,9 +84532,9 @@
     "City": "Clakrs Harbour",
     "State": "NSC",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Nepean Wildcats U22",
-    "Team": "Ottawa Lady Senators",
+    "Team": "Ottawa Senators",
     "College": "St. Lawrence",
     "Jr": "TmAtl",
     "Sr": "WNT-C",
@@ -84685,7 +85130,7 @@
     "State": "MA",
     "Country": "US",
     "Team2024": "Boston Jr Eagles 14U",
-    "Team2025": "Boston Jr Eagles 16U"
+    "Team2025": "Boston Jr Eagles-2 16U"
   },
   {
     "Name": "Ava Madden",
@@ -84765,6 +85210,15 @@
     "Team2025": "NJ Colonials 14U"
   },
   {
+    "Name": "Dana Madsen",
+    "PersonKey": "madsen|dana",
+    "Grad": 2029,
+    "Position": "D",
+    "Country": "US",
+    "School": "BENILDE ST MARGARETS",
+    "Team2026": "MN Elite Sky 16U"
+  },
+  {
     "Name": "Vera Mae Camel",
     "PersonKey": "maecamel|vera",
     "BirthYr": 2009,
@@ -84801,7 +85255,7 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Maeve Maeve Burns",
@@ -84946,7 +85400,7 @@
     "PersonKey": "maguire|molly",
     "BirthYr": 2010,
     "DOB": "6/1/2010",
-    "Grad": 2028,
+    "Grad": 2029,
     "Position": "D",
     "Height": "5’4”",
     "Weight": 125,
@@ -84955,14 +85409,20 @@
     "State": "WA",
     "Country": "US",
     "Team2025": "Sno King Jr. Thunderbirds 16U",
-    "Soph": "U15",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
     "Name": "Morgan Mah",
     "PersonKey": "mah|morgan",
     "BirthYr": 2012,
+    "DOB": "1/6/2012",
+    "Grad": 2030,
     "Position": "D",
+    "Height": "5'3\"",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "CCM68": "Yes"
   },
   {
@@ -85188,9 +85648,10 @@
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
-    "School": "Centennial/Spring Lake Park",
+    "School": "Centennial/SLP",
     "Team2024": "MN Elite Gold 16U",
-    "Team2025": "MN Elite Gold 16U"
+    "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Black 19U"
   },
   {
     "Name": "Danielle Maier",
@@ -85199,6 +85660,17 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Washington Pride 19U"
+  },
+  {
+    "Name": "Jojo Mailhot",
+    "PersonKey": "mailhot|jojo",
+    "BirthYr": 2011,
+    "DOB": "7/7/2011",
+    "Position": "F",
+    "Height": "5'0\"",
+    "State": "BC",
+    "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Jordyn Mailhot",
@@ -85743,7 +86215,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Austin Prep",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Madison Maloney",
@@ -86006,6 +86478,7 @@
     "School": "Proctor",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Black 19U",
     "Team": "MN Elite Silver",
     "College": "Minnesota",
     "Fresh": "U15",
@@ -86363,6 +86836,7 @@
     "School": "Rosemount HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Black 19U",
+    "Team2026": "MN Elite Navy 19U",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -87456,10 +87930,10 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
-    "Team2026": "Ottawa Lady Senators U22",
-    "Team": "Ottawa Lady Senators",
+    "Team2026": "Ottawa Senators U22",
+    "Team": "Ottawa Senators",
     "College": "Northeastern",
     "CCM68": "Yes",
     "Jr": "ONcamp",
@@ -87669,10 +88143,13 @@
     "Name": "Khaleesi Martz",
     "PersonKey": "martz|khaleesi",
     "BirthYr": 2011,
-    "Grad": 2029,
+    "DOB": "10/1/2011",
     "Position": "F",
+    "Height": "5'8\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2025": "Delta Hockey Academy U15"
+    "Team2025": "Delta Hockey Academy U15",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Adley Marvin",
@@ -87977,6 +88454,15 @@
     "Position": "D",
     "Country": "CAN",
     "Team2025": "North Coast Thunder U15"
+  },
+  {
+    "Name": "Raya Mathiason",
+    "PersonKey": "mathiason|raya",
+    "Grad": 2028,
+    "Position": "F",
+    "Country": "US",
+    "School": "Prior Lake",
+    "Team2026": "MN Elite Blue 16U"
   },
   {
     "Name": "Piper Mathison",
@@ -88659,11 +89145,12 @@
     "PersonKey": "may|ashtyn",
     "BirthYr": 2010,
     "DOB": "3/9/2010",
-    "Grad": 2028,
     "Position": "F",
+    "Height": "5'7\"",
+    "State": "AB",
     "Country": "CAN",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22"
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Avery May",
@@ -88940,6 +89427,7 @@
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Silver 16U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Harvard",
     "Fresh": "U15",
     "Soph": "U18",
@@ -90005,7 +90493,7 @@
     "School": "RINK Kelowna",
     "Team2024": "RINK Kelowna U22",
     "Team2025": "RINK Kelowna U22",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "RINK Kelowna",
     "College": "Boston University",
     "Jr": "TmAB",
@@ -90539,6 +91027,17 @@
     "Country": "CAN",
     "Team2024": "Kingston Ice Wolves U22",
     "Team2025": "Kingston Ice Wolves U22"
+  },
+  {
+    "Name": "Addi McFegan",
+    "PersonKey": "mcfegan|addi",
+    "BirthYr": 2011,
+    "DOB": "9/23/2011",
+    "Position": "F",
+    "Height": "5'5\"",
+    "State": "BC",
+    "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Green U18"
   },
   {
     "Name": "Addison Mcfegan",
@@ -91173,7 +91672,7 @@
     "PersonKey": "mcintosh|allison",
     "BirthYr": 2008,
     "DOB": "6/1/2008",
-    "Grad": 2026,
+    "Grad": 2027,
     "Position": "D",
     "Height": "5’8”",
     "Weight": 120,
@@ -91182,8 +91681,10 @@
     "State": "MA",
     "Country": "US",
     "School": "St Georges",
-    "Team2025": "Shattuck-St. Mary's 19U",
-    "Soph": "U15",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
@@ -91269,7 +91770,7 @@
     "PersonKey": "mckay|kari",
     "BirthYr": 2009,
     "DOB": "4/2/2009",
-    "Grad": 2028,
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'8\"",
     "Weight": 140,
@@ -91283,9 +91784,8 @@
     "Team2026": "Lovell Academy 19U",
     "Team": "Lovell Academy",
     "College": "Union",
-    "Fresh": "U15",
-    "Soph": "U1617",
-    "Sr": "x",
+    "Soph": "U15",
+    "Jr": "U1617",
     "Highest": "U1617"
   },
   {
@@ -91316,7 +91816,7 @@
     "Grad": 2027,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Madison Mckay",
@@ -91326,7 +91826,7 @@
     "Position": "F",
     "Height": "5'10\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
+    "Team2024": "Ottawa Senators U18",
     "Team2025": "Nepean Wildcats U18"
   },
   {
@@ -91336,7 +91836,7 @@
     "Grad": 2029,
     "Position": "G",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Reese McKay",
@@ -91352,13 +91852,13 @@
     "Name": "Sadie Mckay",
     "PersonKey": "mckay|sadie",
     "BirthYr": 2011,
-    "DOB": 2011,
-    "Grad": 2029,
+    "DOB": "3/5/2011",
     "Position": "D",
+    "Height": "5'6\"",
     "State": "MAN",
     "Country": "CAN",
     "Team2025": "Balmoral Hall 19U",
-    "Team2026": "Balmoral Hall U22",
+    "Team2026": "Balmoral Hall U18",
     "CCM68": "Yes"
   },
   {
@@ -91486,10 +91986,11 @@
     "Name": "Kasey McKenna",
     "PersonKey": "mckenna|kasey",
     "BirthYr": 2010,
-    "Grad": 2028,
     "Position": "F",
+    "Height": "5'4\"",
+    "State": "YT",
     "Country": "CAN",
-    "Team2026": "RINK Kelowna U22"
+    "Team2026": "Rink Hockey Academy - Kelowna U18"
   },
   {
     "Name": "Nina McKenna",
@@ -91919,6 +92420,7 @@
     "School": "Hill-Murray HS",
     "Team2024": "MN Elite Silver 16U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Ohio State",
     "Fresh": "U15",
     "Soph": "U18",
@@ -91963,8 +92465,8 @@
     "City": "Nepean",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
-    "Team": "Ottawa Lady Senators",
+    "Team2024": "Ottawa Senators U22",
+    "Team": "Ottawa Senators",
     "College": "UCONN",
     "Sr": "TmON-B",
     "Highest": "TmON-B"
@@ -92049,9 +92551,9 @@
     "Height": "5'9\"",
     "Weight": 150,
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Amy Mcleod",
@@ -92326,7 +92828,7 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Nepean Wildcats U22",
     "Team2026": "Nepean Wildcats U22",
     "Team": "Nepean Wildcats",
@@ -93073,7 +93575,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Libby Melly",
@@ -94021,12 +94523,17 @@
   {
     "Name": "Dylan Miebs",
     "PersonKey": "miebs|dylan",
+    "BirthYr": 2010,
+    "DOB": "4/5/2010",
     "Grad": 2029,
     "Position": "F",
+    "Height": "5'8\"",
+    "State": "AK",
     "Country": "US",
     "Team2024": "Thunder Bay U15",
     "Team2025": "Lovell Academy 16U",
-    "Team2026": "Lovell Academy 16U"
+    "Team2026": "Lovell Academy 16U",
+    "Sr": "x"
   },
   {
     "Name": "Mckenna Mierau",
@@ -94127,7 +94634,7 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Adrianna Milani",
@@ -94169,14 +94676,14 @@
     "BirthYr": 2009,
     "DOB": "1/20/2009",
     "Grad": 2027,
-    "Position": "D",
+    "Position": "F",
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
-    "School": "Proctor Hermantown",
+    "School": "proctor hermantown mirage",
     "Team2024": "MN Northern Elite 16U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U22"
+    "Team2026": "MN Elite Green 19U"
   },
   {
     "Name": "Charleigh Milburn",
@@ -94245,7 +94752,7 @@
     "Country": "US",
     "School": "Breck HS",
     "Team2025": "MN Walleye 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Silver 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -94338,7 +94845,7 @@
     "Grad": 2031,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Carla Miller",
@@ -94377,6 +94884,7 @@
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Dartmouth",
     "Soph": "U15",
     "Jr": "U1617",
@@ -94466,9 +94974,10 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "School": "Woodbury",
+    "School": "WOODBURY",
     "Team2024": "MN Elite Gold 16U",
-    "Team2025": "MN Elite Gold 16U"
+    "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Navy 19U"
   },
   {
     "Name": "Malila Miller",
@@ -94583,9 +95092,10 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "School": "Hill-Murray",
+    "School": "Hill-Murray Varsity",
     "Team2024": "MN Elite Red 16U",
     "Team2025": "MN Elite Sky 16U",
+    "Team2026": "MN Elite Navy 19U",
     "Sr": "x"
   },
   {
@@ -94749,7 +95259,9 @@
     "City": "Woodbury",
     "State": "MN",
     "Country": "US",
+    "School": "WOODBURY",
     "Team2025": "MN Jr Whitecaps 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -95523,6 +96035,7 @@
     "School": "Edina HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Quinnipiac",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -95594,7 +96107,7 @@
     "PersonKey": "moffitt|ainsley",
     "BirthYr": 2008,
     "DOB": "7/1/2008",
-    "Grad": 2027,
+    "Grad": 2028,
     "Position": "F",
     "Height": "5'7\"",
     "Weight": 145,
@@ -95605,7 +96118,9 @@
     "School": "Kent",
     "Team2024": "Midfairfield CT Stars 16U",
     "Team2025": "Midfairfield CT Stars 19U",
-    "Jr": "U1617",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
+    "Soph": "U1617",
+    "Jr": "x",
     "Sr": "x",
     "Highest": "U1617"
   },
@@ -95732,9 +96247,9 @@
     "Position": "F",
     "Height": "5'9\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Bailey Mollet",
@@ -95816,6 +96331,7 @@
     "Country": "US",
     "Team2024": "CT Jr Rangers 14U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "CCM68": "Yes",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -95868,6 +96384,7 @@
     "Country": "US",
     "Team2024": "Chicago Mission 14U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "Regionals": "Yes",
     "Sr": "x"
   },
@@ -95887,6 +96404,7 @@
     "School": "Shattuck-St. Mary's",
     "Team2024": "Chicago Mission 16U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Merrimack",
     "Jr": "U18",
@@ -95952,7 +96470,8 @@
     "State": "IL",
     "Country": "US",
     "Team2024": "Chicago Mission 16U",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Team": "Chicago Mission",
     "Regionals": "Yes",
     "Fresh": "U15",
@@ -96113,7 +96632,8 @@
     "City": "Tampa",
     "State": "FL",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Team": "Maine Nordiques",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -96413,6 +96933,7 @@
     "State": "SAS",
     "Country": "CAN",
     "Team2025": "Saskatoon Stars 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "Team": "Saskatoon Stars",
     "Jr": "SKcamp",
     "Highest": "SKcamp"
@@ -96864,13 +97385,12 @@
     "PersonKey": "morand|casey",
     "BirthYr": 2011,
     "DOB": "2/3/2011",
-    "Grad": 2029,
     "Position": "G",
     "Height": "5'9\"",
     "Weight": 154,
     "State": "MAN",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22",
+    "Team2026": "Balmoral Hall U18",
     "CCM68": "Yes"
   },
   {
@@ -97050,7 +97570,7 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15"
+    "Team2024": "Ottawa Senators U15"
   },
   {
     "Name": "Kate Morey",
@@ -97100,9 +97620,10 @@
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "School": "Edina",
+    "School": "Edina Varsity",
     "Team2024": "MN Elite Red 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Navy 19U",
     "Sr": "x"
   },
   {
@@ -97835,7 +98356,7 @@
     "PersonKey": "moscatel|madelyn",
     "Position": "G",
     "Country": "US",
-    "Team2025": "Boston Jr Eagles 16U"
+    "Team2025": "Boston Jr Eagles-2 16U"
   },
   {
     "Name": "Ekaterina Moseley",
@@ -97946,6 +98467,7 @@
     "State": "PEI",
     "Country": "CAN",
     "Team2025": "Etobicoke Dolphins U22",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Etobicoke Dolphins",
     "College": "Wisconsin",
     "CCM68": "Yes",
@@ -98043,6 +98565,7 @@
     "School": "South Alberta Hockey Academy",
     "Team2024": "South Alberta Hockey Academy U22",
     "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "Team": "South Alberta Hockey Academy",
     "College": "Minnesota State",
     "Sr": "ABcamp",
@@ -98618,8 +99141,8 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
-    "Team": "Ottawa Lady Senators",
+    "Team2024": "Ottawa Senators U22",
+    "Team": "Ottawa Senators",
     "College": "St. Lawrence"
   },
   {
@@ -98633,10 +99156,10 @@
     "City": "Ottawa",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Nepean Wildcats U22",
     "Team2026": "Nepean Wildcats U22",
-    "Team": "Ottawa Lady Senators",
+    "Team": "Ottawa Senators",
     "College": "Clarkson",
     "Jr": "TmON-B",
     "Sr": "WNT-C",
@@ -98699,7 +99222,7 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15"
+    "Team2024": "Ottawa Senators U15"
   },
   {
     "Name": "Jaelyn Mundy",
@@ -98857,6 +99380,7 @@
     "State": "ALB",
     "Country": "CAN",
     "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18",
     "Team": "SAHA",
     "Highest": "ABcamp"
   },
@@ -99270,6 +99794,7 @@
     "School": "Eagan HS",
     "Team2024": "MN Elite Red 16U",
     "Team2025": "MN Elite Blue 16U",
+    "Team2026": "MN Elite Navy 19U",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -99527,8 +100052,12 @@
   {
     "Name": "Issy Myers",
     "PersonKey": "myers|issy",
+    "BirthYr": 2011,
+    "DOB": "3/31/2011",
     "Grad": 2029,
     "Position": "F",
+    "Height": "5'7\"",
+    "State": "MO",
     "Country": "US",
     "Team2026": "Lovell Academy 16U"
   },
@@ -99718,7 +100247,7 @@
     "State": "ME",
     "Country": "US",
     "School": "North Yarmouth",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Nadiya Naduad",
@@ -99919,7 +100448,7 @@
     "Grad": 2031,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Chambers Naomi",
@@ -100554,7 +101083,7 @@
     "PersonKey": "nelson|josephine",
     "BirthYr": 2011,
     "DOB": "5/1/2011",
-    "Grad": 2030,
+    "Grad": 2029,
     "Position": "D",
     "Height": "5'10\"",
     "Weight": 135,
@@ -100564,10 +101093,9 @@
     "Country": "US",
     "School": "Edina HS",
     "Team2025": "MN Lakers 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Regionals": "Yes",
-    "Fresh": "U15",
-    "Sr": "x",
+    "Soph": "U15",
     "Highest": "U15"
   },
   {
@@ -100735,7 +101263,7 @@
     "Position": "F",
     "Height": "5'4\"",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Team2025": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Mirka Nepplova",
@@ -101012,8 +101540,9 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "US",
+    "School": "Hill Murray",
     "Team2025": "MN Whitecaps Futures 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "CCM68": "Yes"
   },
   {
@@ -101169,8 +101698,9 @@
     "Height": "5' 9\"",
     "State": "MN",
     "Country": "US",
-    "School": "Woodbury",
+    "School": "Hill Murray Varsity",
     "Team2025": "MN Moose 14U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes"
   },
   {
@@ -101360,7 +101890,7 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2025": "MN Lakers 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -101832,6 +102362,7 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2025": "MN Lakers 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -101863,6 +102394,7 @@
     "School": "Wayzata HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Bemidji State",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -101894,6 +102426,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Dexter",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Team": "Spitfires",
     "Regionals": "Yes",
     "Fresh": "U15",
@@ -102370,6 +102903,15 @@
     "Highest": "U15"
   },
   {
+    "Name": "Mikayla Norsten",
+    "PersonKey": "norsten|mikayla",
+    "Grad": 2029,
+    "Position": "D",
+    "Country": "US",
+    "School": "East Ridge Raptors",
+    "Team2026": "MN Elite Gold 16U"
+  },
+  {
     "Name": "Sarah Northon",
     "PersonKey": "northon|sarah",
     "Grad": 2029,
@@ -102738,8 +103280,9 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "US",
+    "School": "Benilde St. Margrets",
     "Team2025": "MN Whitecaps Futures 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "CCM68": "Yes"
   },
   {
@@ -102986,7 +103529,7 @@
     "Country": "US",
     "School": "Thayer",
     "Team2024": "East Coast Wizards 14U",
-    "Team2025": "East Coast Wizards 16U",
+    "Team2025": "East Coast Wizards-2 16U",
     "Sr": "x"
   },
   {
@@ -103260,6 +103803,17 @@
     "Team": "RI Sting",
     "Soph": "U15",
     "Highest": "U15"
+  },
+  {
+    "Name": "Kiley O'Connor",
+    "PersonKey": "oconnor|kiley",
+    "BirthYr": 2010,
+    "DOB": "4/23/2010",
+    "Position": "G",
+    "Height": "5'5\"",
+    "State": "ON",
+    "Country": "CAN",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Mckenna O'connor",
@@ -104094,6 +104648,15 @@
     "Highest": "U15"
   },
   {
+    "Name": "Teagan Olson",
+    "PersonKey": "olson|teagan",
+    "Grad": 2028,
+    "Position": "D",
+    "Country": "US",
+    "School": "Andover Varsity",
+    "Team2026": "MN Elite Blue 16U"
+  },
+  {
     "Name": "Maja Olsson",
     "PersonKey": "olsson|maja",
     "Grad": 2027,
@@ -104150,8 +104713,9 @@
     "Height": "5'7\"",
     "State": "MN",
     "Country": "US",
-    "School": "Westonka/Southwest Christian",
+    "School": "BSM",
     "Team2025": "MN Elite Sky 16U",
+    "Team2026": "MN Elite Navy 19U",
     "Sr": "x"
   },
   {
@@ -104684,7 +105248,7 @@
     "PersonKey": "osberg|isabella",
     "BirthYr": 2011,
     "DOB": "10/1/2011",
-    "Grad": 2029,
+    "Grad": 2030,
     "Position": "F",
     "Height": "5'4\"",
     "Weight": 120,
@@ -104692,10 +105256,12 @@
     "City": "Maple Grove",
     "State": "MN",
     "Country": "US",
-    "School": "Osseo/Maple Grove",
+    "School": "OMGHA U15A",
     "Team2025": "MN Walleye 14U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes",
-    "Soph": "U15",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
@@ -104973,8 +105539,9 @@
     "City": "Bloomington",
     "State": "MN",
     "Country": "US",
-    "School": "Edina",
+    "School": "EDINA",
     "Team2025": "MN Elite Sky 16U",
+    "Team2026": "MN Elite Sky 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -105223,6 +105790,15 @@
     "Country": "US"
   },
   {
+    "Name": "Megan Packer",
+    "PersonKey": "packer|megan",
+    "Grad": 2029,
+    "Position": "D",
+    "Country": "US",
+    "School": "ROSEVILLE/MAHTOMEDI",
+    "Team2026": "MN Elite White 16U"
+  },
+  {
     "Name": "Raela Packet",
     "PersonKey": "packet|raela",
     "BirthYr": 2008,
@@ -105459,6 +106035,7 @@
     "Country": "US",
     "School": "Blake HS",
     "Team2025": "MN Lakers 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -105857,6 +106434,7 @@
     "Country": "US",
     "Team2024": "Chicago Mission 14U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "CCM68": "Yes",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -107095,6 +107673,7 @@
     "School": "Orono HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Sky 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -107127,7 +107706,7 @@
     "Grad": 2030,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Lea Peclard",
@@ -107791,7 +108370,7 @@
     "Country": "US",
     "School": "Dexter",
     "Team2024": "East Coast Wizards 14U",
-    "Team2025": "East Coast Wizards 16U",
+    "Team2025": "East Coast Wizards-2 16U",
     "Team": "East Coast Wizards",
     "Soph": "U15",
     "Highest": "U15"
@@ -108161,6 +108740,7 @@
     "School": "Elk River HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
@@ -108525,6 +109105,8 @@
     "City": "Woodbury",
     "State": "MN",
     "Country": "US",
+    "School": "Woodbury Varsity HS",
+    "Team2026": "MN Elite Gold 16U",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -108549,6 +109131,8 @@
     "City": "Lakeville",
     "State": "MN",
     "Country": "US",
+    "School": "Lakeville North",
+    "Team2026": "MN Elite Gold 16U",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -108667,7 +109251,7 @@
     "Grad": 2029,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Grebinar Peyton",
@@ -109244,6 +109828,7 @@
     "School": "East Grand Forks HS",
     "Team2024": "MN Northern Elite 14U",
     "Team2025": "MN Elite White 16U",
+    "Team2026": "MN Elite White 16U",
     "College": "Bemidji State",
     "Soph": "U15",
     "Jr": "WNT",
@@ -110275,7 +110860,7 @@
     "School": "Hill-Murray HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -110312,6 +110897,7 @@
     "School": "Hill-Murray HS",
     "Team2024": "MN Elite Silver 16U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Wisconsin",
     "Fresh": "U15",
     "Soph": "U18",
@@ -110326,8 +110912,9 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "US",
+    "School": "Hill-Murray",
     "Team2025": "MN Whitecaps Futures 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U"
+    "Team2026": "MN Elite Gold 16U"
   },
   {
     "Name": "Molly Pohlkamp",
@@ -110541,11 +111128,15 @@
     "PersonKey": "polaski|alyssa",
     "BirthYr": 2008,
     "DOB": "12/21/2008",
+    "Grad": 2027,
     "Position": "G",
     "Height": "5'5\"",
     "State": "MN",
     "Country": "US",
-    "Team2024": "MN Elite Gold 16U"
+    "School": "WOODBURY",
+    "Team2024": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Navy 19U",
+    "Sr": "x"
   },
   {
     "Name": "Mya Polastry",
@@ -112371,6 +112962,7 @@
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -112552,6 +113144,7 @@
     "State": "MN",
     "Country": "US",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -113346,7 +113939,7 @@
     "School": "Balmoral Hall",
     "Team2024": "Balmoral Hall U22",
     "Team2025": "Balmoral Hall 19U",
-    "Team2026": "Balmoral Hall U22",
+    "Team2026": "Balmoral Hall U18",
     "Team": "Balmoral Hall",
     "College": "Yale",
     "CCM68": "Yes"
@@ -114084,7 +114677,7 @@
     "Grad": 2031,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Emma Razzaque",
@@ -114252,15 +114845,13 @@
     "PersonKey": "redden|leni",
     "BirthYr": 2010,
     "DOB": "9/22/2010",
-    "Grad": 2028,
     "Position": "F",
     "Height": "5'5\"",
     "Weight": 139,
     "City": "Kelowna",
     "State": "BCO",
     "Country": "CAN",
-    "Team2026": "RINK Kelowna U22",
-    "Jr": "BCcamp",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Highest": "BCcamp"
   },
   {
@@ -114669,9 +115260,10 @@
     "PersonKey": "reierson|campbell",
     "Grad": 2029,
     "Position": "D",
-    "Country": "CAN",
+    "Country": "US",
+    "School": "MOORHEAD",
     "Team2025": "MN Northern Elite 14U",
-    "Team2026": "Northern Elite Gold U18"
+    "Team2026": "MN Elite White 16U"
   },
   {
     "Name": "Dominique Reiher",
@@ -114712,7 +115304,7 @@
     "Country": "US",
     "School": "Governors",
     "Team2024": "East Coast Wizards 14U",
-    "Team2025": "East Coast Wizards 16U",
+    "Team2025": "East Coast Wizards-2 16U",
     "Sr": "x"
   },
   {
@@ -115432,7 +116024,7 @@
     "Country": "CAN",
     "Team2024": "Whitby Wolves U18",
     "Team2025": "Whitby Wolves U18",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "Rha Kelowna",
     "Soph": "TmBC",
     "Jr": "U18-C",
@@ -115549,7 +116141,7 @@
     "Position": "D",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Shawnn Richards",
@@ -116153,15 +116745,14 @@
     "Name": "Jenna Ring",
     "PersonKey": "ring|jennifer",
     "BirthYr": 2009,
-    "Grad": 2027,
     "Position": "G",
+    "Height": "5'10\"",
     "State": "ALB",
     "Country": "CAN",
     "Team2024": "Edge School U22",
     "Team2025": "Edge Mountaineers 19U",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "Edge",
-    "Sr": "ABcamp",
     "Highest": "ABcamp"
   },
   {
@@ -116169,7 +116760,7 @@
     "PersonKey": "ring|lucy",
     "BirthYr": 2009,
     "DOB": "9/21/2009",
-    "Grad": 2028,
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'6",
     "City": "Winnipeg",
@@ -116177,10 +116768,9 @@
     "Country": "CAN",
     "Team2024": "Balmoral Hall U22",
     "Team2025": "Balmoral Hall 19U",
-    "Team2026": "Balmoral Hall U22",
+    "Team2026": "Balmoral Hall U18",
     "Team": "Balmoral Hall",
-    "Soph": "TmMB",
-    "Sr": "x",
+    "Jr": "TmMB",
     "Highest": "TmMB"
   },
   {
@@ -116264,7 +116854,7 @@
     "Position": "G",
     "Height": "5'8\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Nepean Wildcats U22"
   },
   {
@@ -116734,7 +117324,7 @@
     "Country": "US",
     "School": "Forest Lake HS",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "Winnipeg Avros U18",
+    "Team2026": "MN Elite Sky 16U",
     "CCM68": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -117436,6 +118026,7 @@
     "School": "Minnetonka HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Navy 19U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -117492,6 +118083,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Forest Lake HS",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -117542,7 +118134,8 @@
     "City": "Stillwater",
     "State": "MN",
     "Country": "US",
-    "Team2026": "Northern Elite Gold U18",
+    "School": "GENTRY",
+    "Team2026": "MN Elite White 16U",
     "Team": "Gentry Academy Stars",
     "Fresh": "U15",
     "Sr": "x",
@@ -117937,13 +118530,13 @@
     "Name": "Mya Rosenbaum",
     "PersonKey": "rosenbaum|mya",
     "BirthYr": 2011,
-    "DOB": 2011,
-    "Grad": 2029,
+    "DOB": "8/6/2011",
     "Position": "F",
+    "Height": "5'6\"",
     "State": "MAN",
     "Country": "CAN",
     "Team2025": "Balmoral Hall 19U",
-    "Team2026": "Balmoral Hall U22",
+    "Team2026": "Balmoral Hall U18",
     "CCM68": "Yes"
   },
   {
@@ -119039,6 +119632,7 @@
     "School": "Bemidji HS",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Green 19U",
     "College": "Minnesota -Duluth",
     "Fresh": "U15",
     "Soph": "U18",
@@ -119556,7 +120150,7 @@
     "School": "Forest Lake HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Fresh": "U15",
     "Soph": "WNT",
     "Sr": "x",
@@ -119567,13 +120161,13 @@
     "PersonKey": "rydel|cora",
     "BirthYr": 2011,
     "DOB": "6/21/2011",
-    "Grad": 2029,
     "Position": "D",
     "Height": "5'2\"",
     "Weight": 130,
+    "State": "AB",
     "Country": "CAN",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22"
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Mia Ryder",
@@ -119728,8 +120322,8 @@
     "City": "Manotick",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
-    "Team": "Ottawa Lady Senators",
+    "Team2024": "Ottawa Senators U22",
+    "Team": "Ottawa Senators",
     "College": "Stonehill",
     "Sr": "TmON-B",
     "Highest": "TmON-B"
@@ -119749,6 +120343,7 @@
     "Country": "US",
     "School": "Gentry Academy HS",
     "Team2025": "MN Loons 14U",
+    "Team2026": "MN Elite Sky 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -119785,7 +120380,7 @@
     "Grad": 2029,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Dunn Sadie",
@@ -119793,7 +120388,7 @@
     "Grad": 2030,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Jada Sadler",
@@ -120006,8 +120601,8 @@
     "City": "ONT",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
-    "Team2025": "Ottawa Sens U18",
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
     "Team2026": "Ottawa U22",
     "Team": "Ottawa Sens",
     "Soph": "ON_U16",
@@ -120019,7 +120614,7 @@
     "PersonKey": "salonek|elizabeth",
     "BirthYr": 2011,
     "DOB": "3/1/2011",
-    "Grad": 2029,
+    "Grad": 2030,
     "Position": "D",
     "Height": "5'4\"",
     "Weight": 117,
@@ -120029,9 +120624,10 @@
     "Country": "US",
     "School": "Blake HS",
     "Team2025": "MN Loons 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes",
-    "Soph": "U15",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
@@ -120115,7 +120711,7 @@
     "Country": "CAN",
     "School": "OHA Edmonton",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "Clarkson",
     "Soph": "TmAB",
@@ -120171,7 +120767,7 @@
     "Grad": 2027,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Georgia Sambrano",
@@ -120521,9 +121117,9 @@
     "Height": "5' 1\"",
     "State": "MN",
     "Country": "US",
-    "School": "Roseau",
+    "School": "ROSEAU",
     "Team2025": "MN Blue Ox 14U",
-    "Team2026": "Northern Elite Gold U18",
+    "Team2026": "MN Elite White 16U",
     "Regionals": "Yes"
   },
   {
@@ -120598,6 +121194,7 @@
     "City": "Anmore",
     "State": "BCO",
     "Country": "CAN",
+    "Team2026": "Delta Hockey Academy - Black U18",
     "Highest": "BCcamp"
   },
   {
@@ -120860,7 +121457,7 @@
     "Position": "F",
     "Height": "5'3\"",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Team2025": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Bella Sauders",
@@ -121060,7 +121657,7 @@
     "Position": "D",
     "Country": "CAN",
     "Team2025": "Ottawa Lady U15",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Marina Savaria Colic",
@@ -121476,6 +122073,7 @@
     "Country": "US",
     "School": "Edina HS",
     "Team2025": "MN Elite Black 19U",
+    "Team2026": "MN Elite Navy 19U",
     "College": "Bemidji State",
     "Jr": "U1617",
     "Sr": "x",
@@ -121583,6 +122181,7 @@
     "Country": "US",
     "School": "Shattuck-St. Mary's",
     "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Cornell",
     "Soph": "U15",
@@ -121687,7 +122286,7 @@
     "Country": "US",
     "School": "Breck HS",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Team": "MN Elite Blue",
     "College": "Minnesota",
     "Soph": "U15",
@@ -121704,6 +122303,16 @@
     "Team2024": "HoneyBaked 14U",
     "Team2026": "HoneyBaked 19U",
     "Sr": "x"
+  },
+  {
+    "Name": "Brooke Schluter",
+    "PersonKey": "schluter|brooke",
+    "BirthYr": 2009,
+    "DOB": "4/29/2009",
+    "Grad": 2027,
+    "Position": "F",
+    "Height": "5'7\"",
+    "Team2026": "Shattuck-St. Mary's 19U"
   },
   {
     "Name": "Brooke Schlutter",
@@ -121886,6 +122495,7 @@
     "Country": "CAN",
     "School": "Delta Hockey Academy",
     "Team2025": "Delta Hockey Academy Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Team": "Delta Hockey Academy",
     "College": "Penn State",
     "Soph": "BCcamp",
@@ -122117,10 +122727,13 @@
     "PersonKey": "schowalter|lauren",
     "BirthYr": 2008,
     "DOB": "8/12/2008",
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'10\"",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
+    "Sr": "x"
   },
   {
     "Name": "Brooklyn Schramm",
@@ -122153,6 +122766,7 @@
     "School": "Andover HS",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Sacred Heart",
     "Soph": "U15",
     "Sr": "U18",
@@ -122357,7 +122971,8 @@
     "City": "Grand Forks",
     "State": "ND",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
     "Team": "Grand Forks Youth Hockey",
     "Fresh": "U15",
     "Sr": "x",
@@ -122404,9 +123019,10 @@
     "City": "St. Michael",
     "State": "MN",
     "Country": "US",
-    "School": "North Wright County",
+    "School": "NWC",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Navy 19U",
     "Team": "NWC Riverhawks",
     "CCM68": "Yes",
     "Soph": "U15",
@@ -122752,7 +123368,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2025": "Ottawa Senators Women's Hockey Club U15",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Isabella Scopacasa",
@@ -122814,7 +123430,7 @@
     "State": "ME",
     "Country": "US",
     "School": "Pomfret",
-    "Team2025": "East Coast Wizards 16U",
+    "Team2025": "East Coast Wizards-2 16U",
     "Sr": "x"
   },
   {
@@ -123510,6 +124126,7 @@
     "School": "Champlin Park/Coon Rapids HS",
     "Team2024": "MN Elite Silver 16U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Black 19U",
     "College": "Minnesota State",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -124516,7 +125133,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Middlesex",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Sr": "x"
   },
   {
@@ -124695,11 +125312,11 @@
     "PersonKey": "sheppard|peyton",
     "BirthYr": 2011,
     "DOB": "2/1/2011",
-    "Grad": 2029,
     "Position": "D",
     "Height": "5'4\"",
+    "State": "MB",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Alexa Sherf",
@@ -124711,8 +125328,9 @@
     "Height": "5'6\"",
     "State": "MN",
     "Country": "US",
-    "School": "Breck School",
+    "School": "BRECK",
     "Team2025": "MN Elite Navy 19U",
+    "Team2026": "MN Elite Navy 19U",
     "Sr": "x"
   },
   {
@@ -125143,10 +125761,11 @@
     "Name": "Alexandra Shrieves",
     "PersonKey": "shrieves|alexandra",
     "BirthYr": 2010,
-    "Grad": 2028,
     "Position": "D",
+    "Height": "5'9\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2026": "RINK Kelowna U22"
+    "Team2026": "Rink Hockey Academy - Kelowna U18"
   },
   {
     "Name": "Kaitlyn Shroeder",
@@ -125584,7 +126203,7 @@
     "State": "CT",
     "Country": "US",
     "School": "Westminster",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
     "Sr": "x"
   },
   {
@@ -125804,7 +126423,7 @@
     "Country": "US",
     "School": "Holy Family HS",
     "Team2025": "MN Moose 14U",
-    "Team2026": "MN Junior Whitecaps Silver 16U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -126275,11 +126894,12 @@
     "DOB": "5/9/2011",
     "Grad": 2029,
     "Position": "D",
+    "Height": "5'8\"",
     "City": "Lake Country",
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "RINK Kelowna U22",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Team": "Rha Kelowna",
     "Fresh": "TmBC",
     "Soph": "BCcamp",
@@ -126504,8 +127124,9 @@
     "City": "Otsego",
     "State": "MN",
     "Country": "US",
-    "School": "Anoka/Rogers",
+    "School": "Rogers Blaine",
     "Team2025": "MN Green Giants 14U",
+    "Team2026": "MN Elite Gold 16U",
     "Regionals": "Yes",
     "Fresh": "U15",
     "Sr": "x",
@@ -126526,7 +127147,7 @@
     "School": "OHA Edmonton",
     "Team2024": "South Alberta Hockey Academy U22",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "Cornell",
     "Jr": "TmSK",
@@ -126567,7 +127188,7 @@
     "School": "Hill-Murray HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Vegas 19U",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -127263,6 +127884,7 @@
     "State": "CA",
     "Country": "US",
     "Team2025": "LA Lions 14U",
+    "Team2026": "Shattuck-St. Mary's 16U",
     "Team": "LA Lions",
     "CCM68": "Yes",
     "Fresh": "U15",
@@ -127502,7 +128124,7 @@
     "Country": "CAN",
     "Team2024": "Stoney Creek Sabres U18",
     "Team2025": "Fox Motors 16U",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Jillian Smith",
@@ -127755,7 +128377,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Governors",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Mila Smith",
@@ -128001,12 +128623,12 @@
     "PersonKey": "smitke|juliette",
     "BirthYr": 2011,
     "DOB": "9/8/2011",
-    "Grad": 2029,
     "Position": "D",
     "Height": "5'9\"",
     "Weight": 146,
+    "State": "AB",
     "Country": "CAN",
-    "Team2026": "OHA Edmonton U22"
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Lily Smolen",
@@ -128136,8 +128758,8 @@
     "Position": "D",
     "Height": "5'6\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
-    "Team2025": "Ottawa Sens U18"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18"
   },
   {
     "Name": "Poppy Snigh",
@@ -128407,8 +129029,12 @@
   {
     "Name": "Gabby Sojda",
     "PersonKey": "sojda|gabriella",
+    "BirthYr": 2011,
+    "DOB": "7/28/2011",
     "Grad": 2029,
     "Position": "F",
+    "Height": "5'7\"",
+    "State": "NY",
     "Country": "US",
     "Team2026": "Lovell Academy 16U"
   },
@@ -128492,6 +129118,15 @@
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
+  },
+  {
+    "Name": "Haley Solintzky",
+    "PersonKey": "solintzky|haley",
+    "Grad": 2027,
+    "Position": "G",
+    "Country": "US",
+    "School": "Stillwater",
+    "Team2026": "MN Elite Vegas 19U"
   },
   {
     "Name": "Alexandra Sollecito",
@@ -128664,7 +129299,7 @@
     "School": "Minnetonka HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Team": "MN Elite Blue",
     "College": "Wisconsin",
     "Soph": "U15",
@@ -128825,7 +129460,7 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Paolucci Sophia",
@@ -128854,7 +129489,7 @@
     "Grad": 2028,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Talon Sorce",
@@ -129449,8 +130084,11 @@
     "Name": "Emily Spry",
     "PersonKey": "spry|emily",
     "BirthYr": 2012,
+    "DOB": "4/3/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'9\"",
+    "State": "WI",
     "Country": "US",
     "Team2025": "Team Wisconsin 14U",
     "Team2026": "Lovell Academy 14U",
@@ -129715,7 +130353,7 @@
     "Weight": 121,
     "State": "WA",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
     "CCM68": "Yes"
   },
   {
@@ -130061,6 +130699,7 @@
     "School": "Bloomington Jefferson HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "Team": "MN Elite Silver",
     "College": "Mercyhurst",
     "CCM68": "Yes",
@@ -130682,6 +131321,7 @@
     "School": "Minnetonka",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Sky 16U",
+    "Team2026": "MN Elite Navy 19U",
     "Sr": "x"
   },
   {
@@ -130766,9 +131406,10 @@
     "Grad": 2029,
     "Position": "D",
     "Height": "5'5\"",
-    "Country": "CAN",
+    "Country": "US",
+    "School": "ST CLOUD",
     "Team2024": "MN Northern Elite 14U",
-    "Team2026": "Northern Elite Gold U18",
+    "Team2026": "MN Elite White 16U",
     "Sr": "x"
   },
   {
@@ -131026,7 +131667,7 @@
     "Position": "F",
     "Height": "5'5\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18"
+    "Team2024": "Ottawa Senators U18"
   },
   {
     "Name": "Lauren Stewart",
@@ -131818,6 +132459,8 @@
     "DOB": "6/27/2012",
     "Grad": 2030,
     "Position": "G",
+    "Height": "5'4\"",
+    "State": "NY",
     "Country": "US",
     "Team2026": "Lovell Academy 14U",
     "CCM68": "Yes"
@@ -131927,7 +132570,7 @@
     "State": "ME",
     "Country": "US",
     "School": "North Yarmouth",
-    "Team2025": "East Coast Wizards 16U",
+    "Team2025": "East Coast Wizards-2 16U",
     "Sr": "x"
   },
   {
@@ -131948,8 +132591,8 @@
     "Position": "F",
     "Height": "5'7\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
-    "Team2025": "Ottawa Sens U18",
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
     "Team2026": "Nepean Wildcats U18",
     "Sr": "x"
   },
@@ -132164,7 +132807,7 @@
     "Country": "US",
     "School": "Breck HS",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Sky 16U",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -132637,7 +133280,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Brooks",
-    "Team2025": "Boston Jr Eagles 16U"
+    "Team2025": "Boston Jr Eagles-2 16U"
   },
   {
     "Name": "Prudence Sullivan",
@@ -132671,10 +133314,13 @@
     "Name": "Abigail Summers",
     "PersonKey": "summers|abigail",
     "BirthYr": 2011,
-    "Grad": 2028,
+    "DOB": "1/2/2011",
     "Position": "F",
+    "Height": "5'7\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2025": "South Valley Havoc U15"
+    "Team2025": "South Valley Havoc U15",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Hayden Summers",
@@ -132704,8 +133350,9 @@
     "City": "Reile’s Acres",
     "State": "ND",
     "Country": "US",
+    "School": "MOORHEAD",
     "Team2025": "Team North Dakota 16U",
-    "Team2026": "Northern Elite Gold U18",
+    "Team2026": "MN Elite White 16U",
     "Team": "Fargo Freeze",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -132827,7 +133474,7 @@
     "State": "TX",
     "Country": "US",
     "School": "Shattuck-St. Mary's",
-    "Team2025": "Shattuck-St. Mary's 19U",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Delaware",
     "Soph": "U15",
@@ -132973,7 +133620,7 @@
     "School": "Centennial/SLP HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Team": "MN Elite Blue",
     "College": "Minnesota",
     "Soph": "U15",
@@ -133155,7 +133802,7 @@
     "Country": "CAN",
     "School": "OHA Edmonton",
     "Team2025": "OHA Edmonton 19U",
-    "Team2026": "OHA Edmonton U22",
+    "Team2026": "OHA Edmonton Women's - Prep U18",
     "Team": "OHA Edmonton",
     "College": "St. Thomas"
   },
@@ -134163,7 +134810,7 @@
     "Country": "US",
     "School": "Hill-Murray HS",
     "Team2025": "MN Lakers 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -134690,7 +135337,7 @@
     "Grad": 2029,
     "Position": "F",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U18"
+    "Team2026": "Ottawa Senators U18"
   },
   {
     "Name": "Grace Taylor",
@@ -134753,8 +135400,11 @@
     "Name": "Molly Taylor",
     "PersonKey": "taylor|molly",
     "BirthYr": 2012,
+    "DOB": "5/31/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'3\"",
+    "State": "IL",
     "Country": "US",
     "Team2025": "Windy City Storm 14U",
     "Team2026": "Lovell Academy 14U",
@@ -135321,7 +135971,7 @@
     "School": "Forest Lake HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Sky 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Sky 16U",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -135426,9 +136076,9 @@
     "Height": "5'2\"",
     "State": "MN",
     "Country": "US",
-    "School": "Duluth Northern Stars",
+    "School": "DULUTH",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U22"
+    "Team2026": "MN Elite Green 19U"
   },
   {
     "Name": "Lucy Theissen",
@@ -135891,8 +136541,12 @@
   {
     "Name": "Myla Thomas",
     "PersonKey": "thomas|myla",
+    "BirthYr": 2012,
+    "DOB": "2/17/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'2\"",
+    "State": "NY",
     "Country": "US",
     "Team2026": "Lovell Academy 14U"
   },
@@ -136047,7 +136701,7 @@
     "Country": "CAN",
     "Team2024": "East Ottawa Stars U18",
     "Team2025": "East Ottawa Stars U18",
-    "Team2026": "Ottawa Lady Senators U22",
+    "Team2026": "Ottawa Senators U22",
     "CCM68": "Yes",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
@@ -137178,6 +137832,7 @@
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "Team": "MN OS",
     "College": "St. Thomas",
     "CCM68": "Yes",
@@ -137297,8 +137952,10 @@
     "Position": "F",
     "Height": "5'4\"",
     "Weight": 126,
-    "Country": "US",
-    "Team2025": "South Alberta Hockey Academy 19U"
+    "State": "AB",
+    "Country": "CAN",
+    "Team2025": "South Alberta Hockey Academy 19U",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Daniela Tornberg",
@@ -137308,7 +137965,7 @@
     "Grad": 2028,
     "Position": "G",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
+    "Team2024": "Ottawa Senators U15",
     "Team2026": "Nepean Wildcats U18"
   },
   {
@@ -137494,7 +138151,7 @@
     "Position": "D",
     "State": "MA",
     "Country": "US",
-    "Team2025": "Boston Jr Eagles 16U"
+    "Team2025": "Boston Jr Eagles-2 16U"
   },
   {
     "Name": "Stella Tracanna",
@@ -137737,6 +138394,17 @@
     "College": "Boston College",
     "Sr": "U18-C",
     "Highest": "U18-C"
+  },
+  {
+    "Name": "Mckinley Tremblay",
+    "PersonKey": "tremblay|mckinley",
+    "BirthYr": 2011,
+    "DOB": "4/11/2011",
+    "Position": "D",
+    "Height": "5'8\"",
+    "State": "AB",
+    "Country": "CAN",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Megan Tremblay",
@@ -138142,7 +138810,7 @@
     "State": "ME",
     "Country": "US",
     "School": "North Yarmouth",
-    "Team2025": "East Coast Wizards 16U"
+    "Team2025": "East Coast Wizards-2 16U"
   },
   {
     "Name": "Daphne Tsanos",
@@ -138235,6 +138903,17 @@
     "College": "Concordia_WI",
     "Jr": "U1617",
     "Highest": "U1617"
+  },
+  {
+    "Name": "Lila Tuchscherer",
+    "PersonKey": "tuchscherer|lila",
+    "BirthYr": 2011,
+    "DOB": "8/23/2011",
+    "Position": "F",
+    "Height": "5'7\"",
+    "State": "AB",
+    "Country": "CAN",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Emilija Tuciute",
@@ -138946,7 +139625,7 @@
     "School": "Breck HS",
     "Team2024": "MN Jr Whitecaps 14U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Silver 16U",
     "Soph": "U15",
     "Jr": "WNT",
     "Highest": "WNT"
@@ -139060,10 +139739,10 @@
     "City": "Lake Elmo",
     "State": "MN",
     "Country": "US",
-    "School": "Hill-Murray",
+    "School": "Hill-Murray Varsity Girls Hockey",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Blue 16U",
-    "Team2026": "MN Whitecaps Black 19U",
+    "Team2026": "MN Elite Black 19U",
     "Team": "Minnesota Flyers",
     "Fresh": "U15",
     "Jr": "WNT",
@@ -139175,11 +139854,11 @@
     "PersonKey": "ushko|maren",
     "BirthYr": 2011,
     "DOB": "3/17/2011",
-    "Grad": 2029,
     "Position": "F",
     "Height": "5'4\"",
+    "State": "AB",
     "Country": "CAN",
-    "Team2026": "OHA Edmonton U22"
+    "Team2026": "OHA Edmonton Women's - Prep U18"
   },
   {
     "Name": "Katie Usilton",
@@ -139323,7 +140002,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2025": "Ottawa Lady U15",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Myranie Valade",
@@ -139990,7 +140669,7 @@
     "Position": "D",
     "Height": "5'7\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18"
+    "Team2024": "Ottawa Senators U18"
   },
   {
     "Name": "Alexa Van Straaten",
@@ -140143,12 +140822,12 @@
     "PersonKey": "vary|alexis",
     "BirthYr": 2010,
     "DOB": "5/21/2010",
-    "Grad": 2028,
     "Position": "D",
     "Height": "5'3\"",
+    "State": "BC",
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green U22",
-    "Team2026": "Delta Prep Green U22"
+    "Team2026": "Delta Hockey Academy - Green U18"
   },
   {
     "Name": "Isabella Vasseur",
@@ -140197,10 +140876,12 @@
     "PersonKey": "vaszily|addison",
     "BirthYr": 2009,
     "DOB": "6/22/2009",
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'7\"",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Teagan Vaughan",
@@ -140544,7 +141225,7 @@
     "Country": "CAN",
     "Team2024": "East Ottawa Stars U18",
     "Team2025": "East Ottawa Stars U18",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Taylor Verley",
@@ -140800,7 +141481,7 @@
     "Grad": 2030,
     "Position": "G",
     "Country": "CAN",
-    "Team2026": "Ottawa Senators Womens Hockey Club U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Carlee Videtic",
@@ -140853,9 +141534,9 @@
     "City": "Kanata",
     "State": "ONT",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Nepean Wildcats U22",
-    "Team": "Ottawa Lady Senators",
+    "Team": "Ottawa Senators",
     "College": "Ohio State",
     "Jr": "WNT-C",
     "Sr": "WNT-C",
@@ -141182,6 +141863,7 @@
     "School": "Shattuck-St. Mary's",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "Shattuck-St. Mary's 16U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "Team": "Shattuck-St. Mary's",
     "College": "Wisconsin",
     "Soph": "U15",
@@ -141409,8 +142091,11 @@
     "Name": "Louisa Vogelgesang",
     "PersonKey": "vogelgesang|louisa",
     "BirthYr": 2012,
+    "DOB": "6/27/2012",
     "Grad": 2030,
     "Position": "F",
+    "Height": "5'8\"",
+    "State": "OH",
     "Country": "US",
     "Team2026": "Lovell Academy 14U",
     "CCM68": "Yes"
@@ -141742,7 +142427,7 @@
     "Country": "US",
     "School": "Centennial/SLP HS",
     "Team2025": "MN Green Giants 14U",
-    "Team2026": "MN Junior Whitecaps Black 16U",
+    "Team2026": "MN Elite Blue 16U",
     "Team": "Centennial",
     "Regionals": "Yes",
     "Soph": "U15",
@@ -141914,10 +142599,10 @@
     "Height": "5'4\"",
     "State": "MN",
     "Country": "US",
-    "School": "Alexandria",
+    "School": "Alexandria High School",
     "Team2024": "MN Northern Elite 14U",
     "Team2025": "MN Elite White 16U",
-    "Team2026": "Northern Elite Gold U18"
+    "Team2026": "MN Elite White 16U"
   },
   {
     "Name": "Emma Waldrop",
@@ -142112,7 +142797,7 @@
     "Grad": 2031,
     "Position": "D",
     "Country": "CAN",
-    "Team2026": "Ottawa Lady Senators U15"
+    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Shay Walker",
@@ -142189,8 +142874,8 @@
     "Position": "F",
     "Height": "5'4\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U15",
-    "Team2025": "Ottawa Sens U18",
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
     "Team2026": "East Ottawa Stars U18"
   },
   {
@@ -142241,7 +142926,7 @@
     "Grad": 2026,
     "Position": "F",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Ottawa Senators Women's Hockey Club U22"
   },
   {
@@ -142282,7 +142967,7 @@
     "Position": "F",
     "Height": "5'7\"",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Team2025": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Emma Walling",
@@ -142613,10 +143298,12 @@
     "Name": "Lillian Wang",
     "PersonKey": "wang|lillian",
     "BirthYr": 2012,
-    "Grad": 2030,
+    "DOB": "5/20/2012",
     "Position": "F",
+    "Height": "5'3\"",
+    "State": "MB",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Nancy Wang",
@@ -142761,6 +143448,17 @@
     "Country": "CAN",
     "Team2025": "Moncton Rockets U18",
     "Team2026": "Moncton Rockets U18"
+  },
+  {
+    "Name": "Marley Ward",
+    "PersonKey": "ward|marley",
+    "BirthYr": 2011,
+    "DOB": "9/17/2011",
+    "Position": "F",
+    "Height": "5'3\"",
+    "State": "AB",
+    "Country": "CAN",
+    "Team2026": "South Alberta Hockey Academy - Prep U18"
   },
   {
     "Name": "Nicole Ward",
@@ -143356,9 +144054,13 @@
   {
     "Name": "Kate Watson",
     "PersonKey": "watson|katherine",
+    "BirthYr": 2010,
+    "DOB": "3/13/2010",
+    "Grad": 2028,
     "Position": "F",
-    "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Height": "5'8\"",
+    "Team2025": "Shattuck-St. Mary's-2 19U",
+    "Team2026": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Kinsley Watson",
@@ -143609,6 +144311,17 @@
     "Sr": "x"
   },
   {
+    "Name": "Cynnim Weaver",
+    "PersonKey": "weaver|cynnim",
+    "BirthYr": 2009,
+    "DOB": "3/18/2009",
+    "Grad": 2028,
+    "Position": "F",
+    "Height": "5'7\"",
+    "Team2026": "Shattuck-St. Mary's-2 19U",
+    "Sr": "x"
+  },
+  {
     "Name": "Cynnimin Weaver",
     "PersonKey": "weaver|cynnimin",
     "BirthYr": 2009,
@@ -143616,7 +144329,7 @@
     "Position": "F",
     "Height": "5'6\"",
     "Country": "US",
-    "Team2025": "Shattuck-St. Mary's 19U"
+    "Team2025": "Shattuck-St. Mary's-2 19U"
   },
   {
     "Name": "Marin Weaver",
@@ -143699,7 +144412,7 @@
     "State": "MA",
     "Country": "US",
     "School": "St Marks",
-    "Team2025": "East Coast Wizards 16U",
+    "Team2025": "East Coast Wizards-2 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -144000,6 +144713,7 @@
     "School": "Centennial/SLP HS",
     "Team2024": "MN Elite Red 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Mercyhurst",
     "CCM68": "Yes",
     "Jr": "U1617",
@@ -144286,7 +145000,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "Boston Jr Eagles 16U"
+    "Team2025": "Boston Jr Eagles-2 16U"
   },
   {
     "Name": "Ayla Wells",
@@ -144639,6 +145353,7 @@
     "School": "Blake HS",
     "Team2024": "MN Elite Sky 16U",
     "Team2025": "MN Elite Vegas 19U",
+    "Team2026": "MN Elite Black 19U",
     "Team": "MN OS",
     "College": "Yale",
     "Fresh": "U15",
@@ -144742,11 +145457,13 @@
     "DOB": "12/6/2008",
     "Grad": 2027,
     "Position": "G",
+    "Height": "5'9\"",
     "City": "St. Louis",
     "State": "MO",
     "Country": "US",
     "Team2024": "St Louis Lady Blues 19U",
     "Team2025": "St Louis Lady Blues 19U",
+    "Team2026": "Shattuck-St. Mary's 19U",
     "College": "St. Lawrence",
     "Sr": "x"
   },
@@ -144770,9 +145487,9 @@
     "Height": "5'10\"",
     "Weight": 159,
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Senators U18",
-    "Team2025": "Ottawa Sens U18",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2024": "Ottawa Senators U18",
+    "Team2025": "Ottawa Senators U18",
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Kira Whelan",
@@ -144780,7 +145497,7 @@
     "Grad": 2025,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18"
+    "Team2024": "Ottawa Senators U18"
   },
   {
     "Name": "Maggie Whelden",
@@ -144959,11 +145676,12 @@
     "PersonKey": "white|halle",
     "BirthYr": 2010,
     "DOB": "9/23/2010",
-    "Grad": 2028,
     "Position": "F",
+    "Height": "5'5\"",
+    "State": "AB",
     "Country": "CAN",
     "Team2025": "Calgary Fire 19U",
-    "Team2026": "Delta Prep Green U22"
+    "Team2026": "Delta Hockey Academy - Green U18"
   },
   {
     "Name": "Harley White",
@@ -145293,7 +146011,7 @@
     "State": "MA",
     "Country": "US",
     "Team2024": "Boston Jr Eagles 14U",
-    "Team2025": "Boston Jr Eagles 16U",
+    "Team2025": "Boston Jr Eagles-2 16U",
     "Team2026": "Boston Jr Eagles 16U",
     "CCM68": "Yes",
     "Jr": "x",
@@ -145505,6 +146223,7 @@
     "School": "Maple Grove HS",
     "Team2024": "MN Elite Blue 16U",
     "Team2025": "MN Elite Silver 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "Assumption",
     "Soph": "U15",
     "Jr": "U1617",
@@ -146428,13 +147147,12 @@
     "PersonKey": "williams|lucy",
     "BirthYr": 2010,
     "DOB": "1/12/2010",
-    "Grad": 2028,
     "Position": "F",
+    "Height": "5'8\"",
     "City": "North Vancouver",
     "State": "BCO",
     "Country": "CAN",
-    "Team2026": "Delta Prep Green U22",
-    "Jr": "BCcamp",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "Highest": "BCcamp"
   },
   {
@@ -146882,6 +147600,16 @@
     "Regionals": "Yes"
   },
   {
+    "Name": "Kylie Wilson",
+    "PersonKey": "wilson|kylie",
+    "BirthYr": 2012,
+    "DOB": "2/13/2012",
+    "Grad": 2030,
+    "Position": "F",
+    "Height": "5'4\"",
+    "Team2026": "Shattuck-St. Mary's 16U"
+  },
+  {
     "Name": "Kylin Wilson",
     "PersonKey": "wilson|kylin",
     "BirthYr": 2009,
@@ -146964,7 +147692,7 @@
     "Grad": 2025,
     "Position": "F",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U22",
+    "Team2024": "Ottawa Senators U22",
     "College": "Bowdoin"
   },
   {
@@ -147109,11 +147837,11 @@
     "PersonKey": "windus|paige",
     "BirthYr": 2011,
     "DOB": "2/11/2011",
-    "Grad": 2029,
     "Position": "F",
     "Height": "5'2\"",
+    "State": "MB",
     "Country": "CAN",
-    "Team2026": "Balmoral Hall U22"
+    "Team2026": "Balmoral Hall U18"
   },
   {
     "Name": "Trinity Winecke",
@@ -147487,9 +148215,9 @@
     "Position": "F",
     "Height": "5'5\"",
     "Country": "CAN",
-    "Team2024": "Ottawa Lady Sens U18",
+    "Team2024": "Ottawa Senators U18",
     "Team2025": "Ottawa Senators Women's Hockey Club U22",
-    "Team2026": "Ottawa Lady Senators U22"
+    "Team2026": "Ottawa Senators U22"
   },
   {
     "Name": "Stella Wolfe",
@@ -147648,6 +148376,7 @@
     "School": "Centennial/SLP HS",
     "Team2024": "MN Elite Gold 16U",
     "Team2025": "MN Elite Gold 16U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "St. Cloud State"
   },
   {
@@ -148539,7 +149268,7 @@
     "PersonKey": "xu|lauren",
     "BirthYr": 2008,
     "DOB": "2/1/2008",
-    "Grad": 2027,
+    "Grad": 2026,
     "Position": "F",
     "Height": "5’7”",
     "Weight": 125,
@@ -148549,11 +149278,10 @@
     "Country": "US",
     "School": "Exeter",
     "Team2025": "Stanstead College U22",
-    "Team2026": "RINK Kelowna U22",
+    "Team2026": "Rink Hockey Academy - Kelowna 16U",
     "Team": "East Coast Wizards",
-    "Fresh": "U15",
-    "Soph": "U1617",
-    "Sr": "x",
+    "Soph": "U15",
+    "Jr": "U1617",
     "Highest": "U1617"
   },
   {
@@ -148638,6 +149366,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Minnetonka HS",
+    "Team2026": "MN Elite Silver 16U",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -149090,12 +149819,12 @@
     "PersonKey": "young|mya",
     "BirthYr": 2010,
     "DOB": "2/19/2010",
-    "Grad": 2028,
     "Position": "G",
+    "Height": "5'6\"",
     "State": "BCO",
     "Country": "CAN",
     "Team2025": "Delta Hockey Academy Green U22",
-    "Team2026": "Delta Prep Green U22",
+    "Team2026": "Delta Hockey Academy - Green U18",
     "CCM68": "Yes"
   },
   {
@@ -149141,7 +149870,7 @@
     "Country": "US",
     "School": "BB&N",
     "Team2024": "East Coast Wizards 14U",
-    "Team2025": "East Coast Wizards 16U",
+    "Team2025": "East Coast Wizards-2 16U",
     "Sr": "x"
   },
   {
@@ -149430,6 +150159,7 @@
     "School": "Benilde-St Margarets HS",
     "Team2024": "MN Elite Orange 16U",
     "Team2025": "MN Elite Black 19U",
+    "Team2026": "MN Elite Vegas 19U",
     "College": "St. Cloud State",
     "Fresh": "U15",
     "Sr": "x",
@@ -149892,10 +150622,13 @@
     "Name": "Clara Zhong",
     "PersonKey": "zhong|clara",
     "BirthYr": 2011,
-    "Grad": 2029,
+    "DOB": "11/24/2011",
     "Position": "F",
+    "Height": "5'4\"",
+    "State": "BC",
     "Country": "CAN",
-    "Team2025": "Delta Hockey Academy U15"
+    "Team2025": "Delta Hockey Academy U15",
+    "Team2026": "Delta Hockey Academy - Black U18"
   },
   {
     "Name": "Jamie Zhou",
