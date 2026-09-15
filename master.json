@@ -3109,15 +3109,6 @@
     "Team2026": "Kingston Ice Wolves U15"
   },
   {
-    "Name": "Downey Anna",
-    "PersonKey": "anna|downey",
-    "BirthYr": 2011,
-    "Grad": 2029,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2026": "Central York U22"
-  },
-  {
     "Name": "AnnabelleDaniel",
     "PersonKey": "annabelledaniel|annabelledaniel",
     "BirthYr": 2011,
@@ -4505,16 +4496,6 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Belle Tire 19U"
-  },
-  {
-    "Name": "Audrey Martone",
-    "PersonKey": "audrey|martone",
-    "BirthYr": 2009,
-    "Grad": 2027,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2025": "Central York U22",
-    "Team2026": "Central York U22"
   },
   {
     "Name": "Peyton Audrey",
@@ -36217,7 +36198,7 @@
     "Highest": "U1617"
   },
   {
-    "Name": "Anna Downey",
+    "Name": "Downey Anna",
     "PersonKey": "downey|anna",
     "BirthYr": 2011,
     "DOB": 2011,
@@ -36228,6 +36209,7 @@
     "Country": "CAN",
     "Team2024": "North York Storm U18",
     "Team2025": "North York Storm U18",
+    "Team2026": "Central York U22",
     "CCM68": "Yes",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
@@ -39059,15 +39041,6 @@
     "Team2025": "CT Jr Rangers 14U"
   },
   {
-    "Name": "Anna Ella Rendina",
-    "PersonKey": "ellarendina|anna",
-    "Grad": 2031,
-    "Position": "D",
-    "Country": "US",
-    "Team2025": "Chicago Mission 14U",
-    "Team2026": "Chicago Mission 14U"
-  },
-  {
     "Name": "Orr Ellen",
     "PersonKey": "ellen|orr",
     "Grad": 2027,
@@ -39499,6 +39472,13 @@
     "CCM68": "Yes",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
+  },
+  {
+    "Name": "Ella Rendina",
+    "PersonKey": "endina|ella",
+    "Position": "D",
+    "Country": "US",
+    "Team2025": "Chicago Mission 14U"
   },
   {
     "Name": "Reese Engel",
@@ -75690,7 +75670,7 @@
     "BirthYr": 2011,
     "DOB": "2/16/2011",
     "Grad": 2029,
-    "Position": "F",
+    "Position": "D",
     "Height": "5'7\"",
     "Weight": 143,
     "State": "NBR",
@@ -88087,6 +88067,8 @@
     "City": "Peterborough",
     "State": "ONT",
     "Country": "CAN",
+    "Team2025": "Central York U22",
+    "Team2026": "Central York U22",
     "Team": "Central York Panthers",
     "College": "Colgate",
     "CCM68": "Yes",
@@ -100002,7 +99984,7 @@
     "Team2025": "Washington Pride 14U"
   },
   {
-    "Name": "Isabelle Myers",
+    "Name": "isabelle Myers",
     "PersonKey": "myers|isabelle",
     "BirthYr": 2011,
     "DOB": "3/1/2011",
@@ -100016,21 +99998,10 @@
     "Country": "US",
     "School": "Lovell Academy",
     "Team2025": "Lovell Academy 14U",
+    "Team2026": "Lovell Academy 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
-  },
-  {
-    "Name": "Issy Myers",
-    "PersonKey": "myers|issy",
-    "BirthYr": 2011,
-    "DOB": "3/31/2011",
-    "Grad": 2029,
-    "Position": "F",
-    "Height": "5'7\"",
-    "State": "MO",
-    "Country": "US",
-    "Team2026": "Lovell Academy 16U"
   },
   {
     "Name": "Jocelyn Myers",
@@ -151114,20 +151085,5 @@
     "Position": "D",
     "Height": "5'5\"",
     "Country": "US"
-  },
-  {
-    "Name": "Annalise Zywiec",
-    "PersonKey": "zywiec|annalise",
-    "BirthYr": 2011,
-    "DOB": "12/3/2011",
-    "Grad": 2030,
-    "Position": "D",
-    "Height": "5' 1\"",
-    "State": "MN",
-    "Country": "US",
-    "School": "Cottage Grove",
-    "Team2025": "MN Moose 14U",
-    "Regionals": "Yes",
-    "Sr": "x"
   }
 ]
