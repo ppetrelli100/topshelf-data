@@ -11665,13 +11665,14 @@
     "Position": "D",
     "Height": "5'6",
     "Weight": 143,
-    "City": "Penticton",
-    "State": "BCO",
+    "City": "Edmonton",
+    "State": "ALB",
     "Country": "CAN",
     "Team2024": "Okanaganhockeyacademy Penticton 19U",
     "Team2025": "Mississauga Hurricanes U22",
     "Team2026": "Mississauga Hurricanes U22",
-    "Team": "Mississauga",
+    "Team": "Mississauga Hurricanes",
+    "College": "Colgate",
     "Soph": "TmBC",
     "Highest": "TmBC"
   },
@@ -85792,19 +85793,6 @@
     "Position": "F",
     "Country": "CAN",
     "Team2026": "North Shore Warriors U22"
-  },
-  {
-    "Name": "Sophia Makokis",
-    "PersonKey": "makokis|sophia",
-    "BirthYr": 2010,
-    "DOB": "4/30/2010",
-    "Grad": 2028,
-    "Position": "D",
-    "City": "Edmonton",
-    "State": "ALB",
-    "Country": "CAN",
-    "Team": "Mississauga Hurricanes",
-    "College": "Colgate"
   },
   {
     "Name": "Tiani Makokis",
