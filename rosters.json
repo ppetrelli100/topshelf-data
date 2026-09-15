@@ -96087,6 +96087,20 @@
       ]
     },
     {
+      "team": "Durham West Lightning 19U",
+      "country": "US",
+      "players": [
+        {
+          "pk": "leibowitz|corinne",
+          "n": "97",
+          "name": "Corinne Leibowitz",
+          "ry": "2008",
+          "rg": "",
+          "rp": "F"
+        }
+      ]
+    },
+    {
       "team": "Durham West Lightning U15",
       "country": "CAN",
       "players": [
@@ -96366,6 +96380,156 @@
           "name": "Ellis Porter",
           "ry": "2011",
           "rg": "2029",
+          "rp": "G"
+        }
+      ]
+    },
+    {
+      "team": "Durham West Lightning U22",
+      "country": "CAN",
+      "players": [
+        {
+          "pk": "michanos|athanasia",
+          "n": "9",
+          "name": "Athanasia Michanos",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D"
+        },
+        {
+          "pk": "matt|aurora",
+          "n": "11",
+          "name": "Aurora Matt",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D"
+        },
+        {
+          "pk": "supryka|taylor",
+          "n": "13",
+          "name": "Taylor Supryka",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D"
+        },
+        {
+          "pk": "mitchell|allison",
+          "n": "16",
+          "name": "Allie Mitchell",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D"
+        },
+        {
+          "pk": "green|pippa",
+          "n": "26",
+          "name": "Pippa Green",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D"
+        },
+        {
+          "pk": "aquilina|sarah",
+          "n": "77",
+          "name": "Sarah Aquilina",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D"
+        },
+        {
+          "pk": "death|irelyn",
+          "n": "10",
+          "name": "Irelyn Death",
+          "ry": "2008",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "thompson|greer",
+          "n": "17",
+          "name": "Greer Thompson",
+          "ry": "2008",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "atkinson|avery",
+          "n": "19",
+          "name": "Avery Atkinson",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "piotrowski|adelaide",
+          "n": "21",
+          "name": "Adelaide Piotrowski",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "thatcher|neve",
+          "n": "25",
+          "name": "Neve Thatcher",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "whyte|ashlea",
+          "n": "27",
+          "name": "Ashlea Whyte",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "fleming|peyton",
+          "n": "29",
+          "name": "Peyton Fleming",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "beauchemin|brielle",
+          "n": "71",
+          "name": "Brielle Beauchemin",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "cardone|cassandra",
+          "n": "79",
+          "name": "Cassandra Cardone",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "hepburn|ava",
+          "n": "88",
+          "name": "Ava Hepburn",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F"
+        },
+        {
+          "pk": "petro|abbey",
+          "n": "24",
+          "name": "Abbey Petro",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G"
+        },
+        {
+          "pk": "besner|samantha",
+          "n": "33",
+          "name": "Samantha Besner",
+          "ry": "2008",
+          "rg": "",
           "rp": "G"
         }
       ]
