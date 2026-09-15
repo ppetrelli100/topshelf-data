@@ -4507,7 +4507,7 @@
     "Team2025": "Belle Tire 19U"
   },
   {
-    "Name": "Martone Audrey",
+    "Name": "Audrey Martone",
     "PersonKey": "audrey|martone",
     "BirthYr": 2009,
     "Grad": 2027,
@@ -11668,6 +11668,8 @@
     "City": "Penticton",
     "State": "BCO",
     "Country": "CAN",
+    "Team2024": "Okanaganhockeyacademy Penticton 19U",
+    "Team2025": "Mississauga Hurricanes U22",
     "Team2026": "Mississauga Hurricanes U22",
     "Team": "Mississauga",
     "Soph": "TmBC",
@@ -18492,28 +18494,19 @@
     "Name": "Bronwyn Caithness",
     "PersonKey": "caithness|bronwyn",
     "BirthYr": 2010,
-    "Grad": 2028,
-    "Position": "F",
-    "State": "ONT",
-    "Country": "CAN",
-    "Team2024": "Hamilton U15",
-    "Team2025": "Etobicoke Dolphins U18",
-    "Team2026": "Etobicoke Dolphins U22",
-    "Soph": "ON_U16",
-    "Highest": "ON_U16"
-  },
-  {
-    "Name": "Brownwyn Caithness",
-    "PersonKey": "caithness|brownwyn",
-    "BirthYr": 2010,
     "DOB": 2010,
     "Grad": 2028,
     "Position": "F",
     "City": "Mississauga",
     "State": "ONT",
     "Country": "CAN",
+    "Team2024": "Hamilton U15",
+    "Team2025": "Etobicoke Dolphins U18",
+    "Team2026": "Etobicoke Dolphins U22",
     "Team": "Etobicoke Dolphins",
-    "College": "Maine"
+    "College": "Maine",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Flannigan Caitlin",
@@ -82630,15 +82623,6 @@
     "Highest": "U1617"
   },
   {
-    "Name": "Maddy Lubera",
-    "PersonKey": "lubera|madeline",
-    "BirthYr": 2009,
-    "Grad": 2027,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2026": "Etobicoke Dolphins U22"
-  },
-  {
     "Name": "Madelyn Lubera",
     "PersonKey": "lubera|madelyn",
     "BirthYr": 2009,
@@ -82650,6 +82634,7 @@
     "Country": "CAN",
     "Team2024": "Cambridge U22",
     "Team2025": "Etobicoke Dolphins U22",
+    "Team2026": "Etobicoke Dolphins U22",
     "Team": "Cambridge Rivulettes",
     "College": "Union",
     "CCM68": "Yes",
@@ -85818,8 +85803,6 @@
     "City": "Edmonton",
     "State": "ALB",
     "Country": "CAN",
-    "Team2024": "Okanaganhockeyacademy Penticton 19U",
-    "Team2025": "Mississauga Hurricanes U22",
     "Team": "Mississauga Hurricanes",
     "College": "Colgate"
   },
