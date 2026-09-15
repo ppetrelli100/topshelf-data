@@ -49436,12 +49436,15 @@
     "DOB": 2011,
     "Grad": 2029,
     "Position": "F",
+    "City": "Toronto",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "North York Storm U18",
     "Team2025": "North York Storm U18",
     "Team2026": "Central York U22",
-    "CCM68": "Yes"
+    "CCM68": "Yes",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Eliot Glusker",
@@ -151085,5 +151088,20 @@
     "Position": "D",
     "Height": "5'5\"",
     "Country": "US"
+  },
+  {
+    "Name": "Annalise Zywiec",
+    "PersonKey": "zywiec|annalise",
+    "BirthYr": 2011,
+    "DOB": "12/3/2011",
+    "Grad": 2030,
+    "Position": "D",
+    "Height": "5' 1\"",
+    "State": "MN",
+    "Country": "US",
+    "School": "Cottage Grove",
+    "Team2025": "MN Moose 14U",
+    "Regionals": "Yes",
+    "Sr": "x"
   }
 ]
