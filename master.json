@@ -320,7 +320,7 @@
     "State": "TX",
     "Country": "US",
     "Team": "Bismarck Capitals",
-    "College": "StBenedict",
+    "College": "GustavusAdolphus",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -353,7 +353,7 @@
     "State": "NJ",
     "Country": "US",
     "School": "Vermont Academy",
-    "College": "Hamilton"
+    "College": "AlbertusMagnus"
   },
   {
     "Name": "Ella Adair",
@@ -762,7 +762,7 @@
     "Country": "US",
     "Team2024": "Belle Tire 19U",
     "Team2025": "Belle Tire 19U",
-    "College": "Canton"
+    "College": "Plattsburgh"
   },
   {
     "Name": "Macy Agnello",
@@ -1010,6 +1010,7 @@
     "School": "Dexter",
     "Team2024": "Boston Jr Eagles 16U",
     "Team2025": "Boston Jr Eagles 19U",
+    "College": "Middlebury",
     "Sr": "x"
   },
   {
@@ -1125,15 +1126,6 @@
     "Team2025": "Windy City Storm 14U",
     "Team2026": "Lovell Academy 14U",
     "CCM68": "Yes"
-  },
-  {
-    "Name": "Allee Akiya",
-    "PersonKey": "akiya|allee",
-    "BirthYr": 2012,
-    "Grad": 2030,
-    "Position": "F",
-    "Country": "US",
-    "Team2026": "Lovell Academy 14U"
   },
   {
     "Name": "Sera Akizuki",
@@ -1362,7 +1354,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Nobles",
-    "College": "AlbertusMagnus"
+    "College": "Bowdoin"
   },
   {
     "Name": "Maggie Alcock",
@@ -1533,6 +1525,13 @@
     "Team2024": "Dallas 19U"
   },
   {
+    "Name": "Fadden Alexis",
+    "PersonKey": "alexis|fadden",
+    "Grad": 2028,
+    "Position": "F",
+    "School": "Lawrenceville"
+  },
+  {
     "Name": "Ava Alfieri",
     "PersonKey": "alfieri|ava",
     "BirthYr": 2013,
@@ -1571,7 +1570,7 @@
     "Country": "US",
     "School": "Hill",
     "Team": "Washington Pride",
-    "College": "Aurora",
+    "College": "Trinity",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -2368,7 +2367,7 @@
     "Country": "US",
     "Team2024": "CT Polar Bears 19U",
     "Team": "Cleveland Lady Barons",
-    "College": "Adrian",
+    "College": "Amherst",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -2561,7 +2560,7 @@
     "School": "Austin Prep",
     "Team2024": "Saugeen-Maitland U18",
     "Team2025": "Saugeen-Maitland U18",
-    "College": "Arcadia",
+    "College": "Wesleyan",
     "Soph": "x",
     "Jr": "x",
     "Sr": "x"
@@ -3347,7 +3346,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Rivers",
-    "College": "Amherst"
+    "College": "Colby"
   },
   {
     "Name": "Grace Appleton",
@@ -3527,7 +3526,7 @@
     "Country": "US",
     "Team2024": "St Louis Lady Blues 19U",
     "Team2025": "St. Louis AAA Blues 19U",
-    "College": "Hamline"
+    "College": "Aurora"
   },
   {
     "Name": "Alivia Argentieri",
@@ -4345,7 +4344,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Anaheim 19U",
-    "College": "LebanonValley"
+    "College": "Arcadia"
   },
   {
     "Name": "Brigitte Aube",
@@ -4609,7 +4608,7 @@
     "School": "Dexter",
     "Team2025": "Boston Jr Eagles 19U",
     "Team": "East Coast Wizards",
-    "College": "Hamilton",
+    "College": "Hobart & William Smith",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -5011,7 +5010,7 @@
     "Height": "5'3\"",
     "Country": "US",
     "Team2024": "Nichols 19U",
-    "College": "Lawrence"
+    "College": "StJohnFisher"
   },
   {
     "Name": "Jesslyn Bach",
@@ -5098,7 +5097,7 @@
     "PersonKey": "badali|lexi",
     "Position": "G",
     "Country": "US",
-    "College": "Stevenson"
+    "College": "StBenedict"
   },
   {
     "Name": "Alessia Baechler",
@@ -5149,6 +5148,16 @@
     "Country": "US",
     "Team2026": "Biggby Coffee 19U",
     "Sr": "x"
+  },
+  {
+    "Name": "Alannah Baggs",
+    "PersonKey": "baggs|alannah",
+    "Grad": 2027,
+    "Position": "D",
+    "City": "Twillingate",
+    "State": "NL",
+    "Country": "CAN",
+    "School": "Kents Hill"
   },
   {
     "Name": "Gianna Bahe",
@@ -5339,8 +5348,12 @@
   {
     "Name": "Addisyn Baird",
     "PersonKey": "baird|addisyn",
+    "Grad": 2027,
     "Position": "F",
+    "City": "Granger",
+    "State": "IN",
     "Country": "US",
+    "School": "Hill",
     "Team2024": "Belle Tire 16U",
     "Team2025": "Princeton Tiger Lillies 19U"
   },
@@ -6040,7 +6053,7 @@
     "Position": "D",
     "Country": "US",
     "Team2025": "Lovell Academy 19U",
-    "College": "Middlebury"
+    "College": "Arcadia"
   },
   {
     "Name": "Logan Barber",
@@ -6164,7 +6177,7 @@
     "State": "CO",
     "Country": "US",
     "School": "New Hampton",
-    "College": "Beloit",
+    "College": "ConnCollege",
     "Sr": "x"
   },
   {
@@ -6343,7 +6356,7 @@
     "Weight": 139,
     "Country": "CAN",
     "Team2024": "South Alberta Hockey Academy U22",
-    "College": "StNorbert"
+    "College": "Concordia_WI"
   },
   {
     "Name": "Myah Barlow",
@@ -7071,7 +7084,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Taft",
-    "College": "Utica",
+    "College": "Bowdoin",
     "CCM68": "Yes",
     "Sr": "x"
   },
@@ -7430,7 +7443,7 @@
     "Team2024": "Midfairfield CT Stars 19U",
     "Team2025": "Midfairfield CT Stars 19U",
     "Team": "Mid Fairfield Selects",
-    "College": "Endicott",
+    "College": "Hamilton",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -7443,7 +7456,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Gilmour Academy 19U",
-    "College": "StJohnFisher"
+    "College": "Adrian"
   },
   {
     "Name": "Makenzie Beale",
@@ -7990,7 +8003,7 @@
     "State": "MA",
     "Country": "US",
     "School": "BB&N",
-    "College": "Hobart & William Smith",
+    "College": "Johnson & Wales",
     "Sr": "x"
   },
   {
@@ -8196,7 +8209,7 @@
     "Grad": 2026,
     "Position": "G",
     "School": "Rivers",
-    "College": "Roger Williams"
+    "College": "SUNY Plattsburgh"
   },
   {
     "Name": "Teagan Beigel",
@@ -8353,7 +8366,7 @@
     "Country": "CAN",
     "School": "Vermont Academy",
     "Team2025": "Pittsburgh Penguins Elite 19U",
-    "College": "St Catherine",
+    "College": "Colby",
     "Jr": "x",
     "Sr": "x"
   },
@@ -8556,7 +8569,7 @@
     "Country": "US",
     "School": "St Pauls",
     "Team2025": "Boston Jr Eagles 19U",
-    "College": "Saint Mary’s",
+    "College": "Middlebury",
     "Fresh": "U1617",
     "Soph": "U1617",
     "Jr": "x",
@@ -8753,6 +8766,24 @@
     "College": "RPI",
     "Jr": "x",
     "Sr": "x"
+  },
+  {
+    "Name": "Sarah Bellissimo",
+    "PersonKey": "bellissimo|sarah",
+    "Grad": 2027,
+    "City": "Riverside",
+    "State": "CT",
+    "Country": "US",
+    "School": "Sacred Heart Greenwich"
+  },
+  {
+    "Name": "Sydney Bellissimo",
+    "PersonKey": "bellissimo|sydney",
+    "Grad": 2029,
+    "City": "Riverside",
+    "State": "CT",
+    "Country": "US",
+    "School": "Sacred Heart Greenwich"
   },
   {
     "Name": "Alexia Belliveau",
@@ -9474,7 +9505,7 @@
     "State": "NH",
     "Country": "US",
     "School": "Holderness",
-    "College": "Bowdoin"
+    "College": "JohnsonWales"
   },
   {
     "Name": "Elisabeth Bergeron",
@@ -9681,6 +9712,16 @@
     "Team2025": "Philadelphia Jr Flyers 16U",
     "Team2026": "Philadelphia Jr Flyers 19U",
     "Sr": "x"
+  },
+  {
+    "Name": "JC Bernard",
+    "PersonKey": "bernard|jc",
+    "Grad": 2027,
+    "Position": "F",
+    "City": "Pont-Rouge",
+    "State": "QC",
+    "Country": "CAN",
+    "School": "Kimball Union"
   },
   {
     "Name": "Julie-Catherine Bernard",
@@ -11223,7 +11264,7 @@
     "Country": "US",
     "Team2025": "NH Mountain Cats Academy 19U",
     "Team": "Kingdom Blades",
-    "College": "Lawrence",
+    "College": "LebanonValley",
     "Highest": "U15"
   },
   {
@@ -11858,7 +11899,7 @@
     "State": "WA",
     "Country": "US",
     "Team": "CDA Lady Thunder",
-    "College": "MassColLibArts",
+    "College": "Nazareth",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -11942,7 +11983,7 @@
     "Weight": 161,
     "State": "MA",
     "Country": "US",
-    "College": "LebanonValley"
+    "College": "Utica"
   },
   {
     "Name": "Emma Boere",
@@ -11974,7 +12015,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Carolina Jr. Hurricanes 19U",
-    "College": "Elmira"
+    "College": "Endicott"
   },
   {
     "Name": "Gabriella Bogacz",
@@ -12776,7 +12817,7 @@
     "Height": "5'6\"",
     "Country": "US",
     "Team2025": "NH Mountain Cats Academy 19U",
-    "College": "Utica"
+    "College": "Wesleyan"
   },
   {
     "Name": "Leonie Bottcher",
@@ -13062,7 +13103,7 @@
     "State": "ME",
     "Country": "US",
     "School": "Kents Hill",
-    "College": "BuffaloState"
+    "College": "Nichols"
   },
   {
     "Name": "Riley Bourque",
@@ -13624,6 +13665,16 @@
     "Country": "US",
     "School": "Kent",
     "Regionals": "Yes"
+  },
+  {
+    "Name": "Jacqueline Boyle",
+    "PersonKey": "boyle|jacqueline",
+    "Grad": 2030,
+    "Position": "F",
+    "City": "West Roxbury",
+    "State": "MA",
+    "Country": "US",
+    "School": "Newton CDS"
   },
   {
     "Name": "Kiersyn Boyle",
@@ -14480,7 +14531,7 @@
     "Country": "US",
     "School": "Holderness",
     "Team2025": "NH Mountain Cats Academy 19U",
-    "College": "StJohnFisher"
+    "College": "StJoseph"
   },
   {
     "Name": "Brooke Brennan",
@@ -14500,7 +14551,7 @@
     "Position": "F",
     "State": "NBR",
     "Country": "CAN",
-    "College": "BuffaloState",
+    "College": "Nichols",
     "Highest": "ATcamp"
   },
   {
@@ -14779,7 +14830,7 @@
     "Country": "US",
     "Team2024": "MN Elite Orange 16U",
     "Team2025": "MN Prospects - Lakers 19U",
-    "College": "Bowdoin"
+    "College": "Hamline"
   },
   {
     "Name": "Addison Bridge",
@@ -15211,7 +15262,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Brewster",
-    "College": "Oswego"
+    "College": "WilliamSmith"
   },
   {
     "Name": "Lily Brodsky",
@@ -15544,7 +15595,7 @@
     "Country": "US",
     "School": "Nobles",
     "Team": "Assabet Valley",
-    "College": "Wesleyan",
+    "College": "Amherst",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -16324,7 +16375,7 @@
     "State": "VT",
     "Country": "US",
     "School": "St Marks",
-    "College": "AlbertusMagnus"
+    "College": "Bowdoin"
   },
   {
     "Name": "Sophie Brush",
@@ -16512,7 +16563,7 @@
     "State": "NY",
     "Country": "US",
     "School": "Hill",
-    "College": "Bowdoin",
+    "College": "JohnsonWales",
     "Sr": "x"
   },
   {
@@ -16657,7 +16708,7 @@
     "PersonKey": "buesching|megan",
     "BirthYr": 2007,
     "DOB": 2007,
-    "College": "WisconsinRiverFalls",
+    "College": "WisconsinStevensPoint",
     "CCM68": "Yes"
   },
   {
@@ -16789,7 +16840,7 @@
     "State": "IL",
     "Country": "US",
     "Team": "Team Colorado",
-    "College": "Stevenson",
+    "College": "StOlaf",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -17367,7 +17418,7 @@
     "State": "CA",
     "Country": "US",
     "School": "Vermont Academy",
-    "College": "Bowdoin",
+    "College": "JohnsonWales",
     "Jr": "x",
     "Sr": "x"
   },
@@ -18022,7 +18073,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "FL Alliance 19U",
-    "College": "PlymouthState"
+    "College": "Canton"
   },
   {
     "Name": "Audrey Cabaday",
@@ -18183,6 +18234,15 @@
     "Soph": "x",
     "Jr": "x",
     "Sr": "x"
+  },
+  {
+    "Name": "Charlotte Caffray",
+    "PersonKey": "caffray|charlotte",
+    "Grad": 2027,
+    "City": "Greenwich",
+    "State": "CT",
+    "Country": "US",
+    "School": "Sacred Heart Greenwich"
   },
   {
     "Name": "Addison Cagan",
@@ -18381,7 +18441,7 @@
     "School": "Canterbury",
     "Team2024": "CT Polar Bears 19U",
     "Team": "Mamaroneck Girls",
-    "College": "Arcadia",
+    "College": "Wesleyan",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -18455,7 +18515,7 @@
     "Height": "5'5\"",
     "Country": "US",
     "Team2025": "Carolina Jr. Hurricanes 19U",
-    "College": "Framingham"
+    "College": "Hilbert"
   },
   {
     "Name": "Eve Calio",
@@ -18637,7 +18697,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Middlesex",
-    "College": "Aurora"
+    "College": "Trinity"
   },
   {
     "Name": "Elliana Calo",
@@ -18807,7 +18867,7 @@
     "Country": "US",
     "School": "Williston",
     "Team2024": "CT Polar Bears 19U",
-    "College": "Alvernia",
+    "College": "Colby",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -18898,7 +18958,7 @@
     "Position": "D",
     "Country": "CAN",
     "Team2026": "Belleville U18",
-    "College": "LebanonValley"
+    "College": "Alvernia"
   },
   {
     "Name": "Emme Campbell",
@@ -18959,7 +19019,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Berkshire",
-    "College": "Arcadia",
+    "College": "Wesleyan",
     "Sr": "x"
   },
   {
@@ -19388,7 +19448,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2024": "North York Storm U22",
-    "College": "Arcadia"
+    "College": "Hamilton"
   },
   {
     "Name": "Amelia Carey",
@@ -19543,7 +19603,7 @@
     "Height": "5'8\"",
     "Country": "US",
     "Team2024": "Biggby Coffee 19U",
-    "College": "Norwich"
+    "College": "BuffaloState"
   },
   {
     "Name": "Katelyn Carlson",
@@ -19695,7 +19755,7 @@
     "Team2024": "Windy City Storm 16U",
     "Team2025": "Milwaukee Junior Admirals 19U",
     "Team": "Team Illinois",
-    "College": "Nazareth",
+    "College": "Lawrence",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -19945,7 +20005,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Windy City Storm 19U",
-    "College": "Keene"
+    "College": "Kings"
   },
   {
     "Name": "Abigail Carr",
@@ -20374,7 +20434,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Navy 19U",
-    "College": "Williams"
+    "College": "WisconsinEauClaire"
   },
   {
     "Name": "Kyla Carswell",
@@ -20714,7 +20774,7 @@
     "State": "ME",
     "Country": "US",
     "School": "North Yarmouth",
-    "College": "Amherst"
+    "College": "Colby"
   },
   {
     "Name": "Maeve Casey",
@@ -20779,7 +20839,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Carolina Jr. Hurricanes 19U",
-    "College": "Utica"
+    "College": "Wesleyan"
   },
   {
     "Name": "Claire Cassell",
@@ -20889,7 +20949,7 @@
     "Height": "5'7\"",
     "Country": "US",
     "Team2024": "Belle Tire 19U",
-    "College": "StMarys"
+    "College": "Adrian"
   },
   {
     "Name": "Marissa Caswell",
@@ -20963,7 +21023,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "College": "AlbertusMagnus"
+    "College": "Bowdoin"
   },
   {
     "Name": "Mia Cataruzolo",
@@ -22665,7 +22725,7 @@
     "Country": "US",
     "Team2024": "Team Illinois 19U",
     "Team2025": "Windy City Storm 19U",
-    "College": "Norwich"
+    "College": "Marian"
   },
   {
     "Name": "Mylie Chesley",
@@ -22876,7 +22936,7 @@
     "State": "RI",
     "Country": "US",
     "School": "Portsmouth Abbey",
-    "College": "Kings",
+    "College": "StJohnFisher",
     "Sr": "x"
   },
   {
@@ -23185,11 +23245,14 @@
     "CCM68": "Yes"
   },
   {
-    "Name": "Mya Chotvacs Chase",
+    "Name": "Mya Chotvacs-Chase",
     "PersonKey": "chotvacschase|mya",
     "Grad": 2028,
     "Position": "F",
+    "City": "Broomfield",
+    "State": "CO",
     "Country": "US",
+    "School": "Hill",
     "Team2025": "CT Polar Bears 19U",
     "Team2026": "CT Polar Bears 19U"
   },
@@ -23274,7 +23337,7 @@
     "Position": "G",
     "Country": "US",
     "Team2024": "FL Alliance 19U",
-    "College": "SalemState"
+    "College": "Oswego"
   },
   {
     "Name": "Peyton Christensen",
@@ -23321,7 +23384,8 @@
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
-    "Highest": "U1617"
+    "Highest": "U1617",
+    "Notable": "Decommit"
   },
   {
     "Name": "Stevie Christiaens",
@@ -24115,7 +24179,7 @@
     "State": "NJ",
     "Country": "US",
     "School": "Frederick Gunn",
-    "College": "Potsdam",
+    "College": "Morrisville",
     "Sr": "x"
   },
   {
@@ -24999,7 +25063,7 @@
     "State": "NSC",
     "Country": "CAN",
     "School": "Hill",
-    "College": "Wilkes",
+    "College": "Williams",
     "Sr": "ATcamp",
     "Highest": "ATcamp"
   },
@@ -25240,6 +25304,16 @@
     "Sr": "x"
   },
   {
+    "Name": "Cayleigh Coleman",
+    "PersonKey": "coleman|cayleigh",
+    "Grad": 2028,
+    "Position": "F/D",
+    "City": "Brewer",
+    "State": "ME",
+    "Country": "US",
+    "School": "Kents Hill"
+  },
+  {
     "Name": "Elise Coleman",
     "PersonKey": "coleman|elise",
     "BirthYr": 2007,
@@ -25389,6 +25463,16 @@
     "Team2025": "Waterloo Ravens U18"
   },
   {
+    "Name": "Alexandra Collins",
+    "PersonKey": "collins|alexandra",
+    "Grad": 2027,
+    "City": "Greenwich",
+    "State": "CT",
+    "Country": "US",
+    "School": "Sacred Heart Greenwich",
+    "College": "Augsburg"
+  },
+  {
     "Name": "Amaya Collins",
     "PersonKey": "collins|amaya",
     "BirthYr": 2009,
@@ -25523,7 +25607,7 @@
     "Country": "US",
     "School": "Brewster",
     "Team2025": "Lovell Academy 19U",
-    "College": "UnivNewEngland",
+    "College": "Utica",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -25779,7 +25863,7 @@
     "Height": "5'9\"",
     "State": "NBR",
     "Country": "CAN",
-    "College": "Hilbert",
+    "College": "Elmira",
     "Highest": "ATcamp"
   },
   {
@@ -25833,7 +25917,7 @@
     "State": "CT",
     "Country": "US",
     "School": "Taft",
-    "College": "Oswego"
+    "College": "WilliamSmith"
   },
   {
     "Name": "Reagan Comora",
@@ -26428,7 +26512,7 @@
     "State": "NH",
     "Country": "US",
     "School": "Lawrence Academy",
-    "College": "Colby"
+    "College": "Norwich"
   },
   {
     "Name": "Callie Coombe",
@@ -26791,6 +26875,16 @@
     "Sr": "x"
   },
   {
+    "Name": "Bella Coppolino",
+    "PersonKey": "coppolino|anabella",
+    "Grad": 2027,
+    "Position": "F",
+    "City": "Leesburg",
+    "State": "VA",
+    "Country": "US",
+    "School": "Hill"
+  },
+  {
     "Name": "Isabella Coppolino",
     "PersonKey": "coppolino|isabella",
     "BirthYr": 2008,
@@ -27104,7 +27198,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Deerfield",
-    "College": "Trinity",
+    "College": "Colby",
     "Sr": "x"
   },
   {
@@ -28534,7 +28628,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Middlesex",
-    "College": "Oswego",
+    "College": "WilliamSmith",
     "Jr": "x",
     "Sr": "x"
   },
@@ -28759,7 +28853,7 @@
     "State": "NY",
     "Country": "US",
     "Team2025": "Rochester Jr Americans 19U",
-    "College": "Univ of New England",
+    "College": "Hamilton",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -28865,7 +28959,7 @@
     "Weight": 126,
     "Country": "US",
     "Team2024": "Anaheim 19U",
-    "College": "Keene"
+    "College": "Nazareth"
   },
   {
     "Name": "Piper Crump",
@@ -29104,7 +29198,7 @@
     "Country": "US",
     "School": "Kent",
     "Team2024": "CT Polar Bears 19U",
-    "College": "Adrian"
+    "College": "Amherst"
   },
   {
     "Name": "Emily Cumming",
@@ -29219,7 +29313,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2024": "Oakville Hornets U22",
-    "College": "Rivier"
+    "College": "Oswego"
   },
   {
     "Name": "Addison Cunningham",
@@ -29307,7 +29401,7 @@
     "State": "CT",
     "Country": "US",
     "School": "Frederick Gunn",
-    "College": "Concordia_WI",
+    "College": "PlymouthState",
     "Sr": "x"
   },
   {
@@ -31032,7 +31126,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Brewster",
-    "College": "Elmira"
+    "College": "Rivier"
   },
   {
     "Name": "Lilly Davies",
@@ -31978,7 +32072,7 @@
     "Height": "5'3\"",
     "Country": "CAN",
     "Team2024": "Ontario Hockey Academy U22",
-    "College": "StJohnFisher"
+    "College": "Adrian"
   },
   {
     "Name": "Sophie Dedobbelaer",
@@ -32336,7 +32430,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Biggby Coffee 19U",
-    "College": "Hiram"
+    "College": "Hood"
   },
   {
     "Name": "Madeline Delahunt",
@@ -32365,7 +32459,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Worcester",
-    "College": "Endicott",
+    "College": "WorcesterState",
     "Sr": "x"
   },
   {
@@ -32886,7 +32980,7 @@
     "PersonKey": "denhof|danielle",
     "Position": "D",
     "Country": "US",
-    "College": "StScholastica"
+    "College": "Dubuque"
   },
   {
     "Name": "Danika Denhof",
@@ -32952,7 +33046,7 @@
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
     "Team": "Pittsburgh Penguins Elite",
-    "College": "Kings",
+    "College": "StJohnFisher",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -33673,7 +33767,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Thayer",
-    "College": "BuffaloState"
+    "College": "Nichols"
   },
   {
     "Name": "Teagan Devlin",
@@ -34215,7 +34309,7 @@
     "Team2024": "Windy City Storm 19U",
     "Team2025": "Team Illinois 19U",
     "Team": "Windy City Storm",
-    "College": "Nazareth",
+    "College": "Norwich",
     "Regionals": "Yes",
     "Soph": "U15",
     "Jr": "U1617",
@@ -34562,7 +34656,7 @@
     "Weight": 152,
     "Country": "US",
     "Team2024": "Windy City Storm 19U",
-    "College": "Adrian"
+    "College": "Williams"
   },
   {
     "Name": "Annabella Dipalma",
@@ -34784,7 +34878,10 @@
     "Position": "G",
     "Height": "5'6\"",
     "Weight": 134,
+    "City": "Randolf",
+    "State": "NJ",
     "Country": "US",
+    "School": "Hoosac",
     "Team2026": "Philadelphia Jr Flyers 19U",
     "Sr": "x"
   },
@@ -34926,7 +35023,7 @@
     "Weight": 119,
     "Country": "US",
     "Team2024": "Philadelphia Jr Flyers 19U",
-    "College": "Lawrence"
+    "College": "Utica"
   },
   {
     "Name": "Alaina Dobson",
@@ -35048,7 +35145,7 @@
     "Height": "5'6\"",
     "Country": "US",
     "Team2024": "Chicago Mission 19U",
-    "College": "Rivier"
+    "College": "Oswego"
   },
   {
     "Name": "Jacqueline Does Rosiers",
@@ -35178,6 +35275,16 @@
     "Notable": "Team Canada U18 2026"
   },
   {
+    "Name": "Megan Dolan",
+    "PersonKey": "dolan|megan",
+    "Grad": 2026,
+    "Position": "G",
+    "City": "Avon",
+    "State": "CT",
+    "Country": "US",
+    "School": "Kents Hill"
+  },
+  {
     "Name": "Teagan Dolch",
     "PersonKey": "dolch|teagan",
     "BirthYr": 2012,
@@ -35249,7 +35356,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Green 19U",
-    "College": "StBenedict"
+    "College": "GustavusAdolphus"
   },
   {
     "Name": "Grace Donahue",
@@ -35278,7 +35385,7 @@
     "State": "RI",
     "Country": "US",
     "School": "Brewster",
-    "College": "Rivier"
+    "College": "Roger Williams"
   },
   {
     "Name": "Ashlyn Donald",
@@ -35444,7 +35551,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Princeton Tiger Lillies 19U",
-    "College": "Adrian"
+    "College": "Alvernia"
   },
   {
     "Name": "Sofia Donnelly",
@@ -36058,7 +36165,7 @@
     "Position": "F",
     "Height": "5'3\"",
     "Country": "US",
-    "College": "StJohnFisher",
+    "College": "StBenedict",
     "CCM68": "Yes"
   },
   {
@@ -36448,11 +36555,14 @@
     "Position": "F",
     "Height": "5'2\"",
     "Weight": 93,
+    "City": "London",
     "State": "ONT",
     "Country": "CAN",
     "Team2024": "London Devilettes U18",
     "Team2025": "London Devilettes U18",
     "Team2026": "Cambridge U22",
+    "Team": "Cambridge Rivulettes",
+    "College": "St. Lawrence",
     "CCM68": "Yes",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
@@ -37038,7 +37148,7 @@
     "Position": "D",
     "Country": "CAN",
     "Team2024": "Ontario Hockey Academy U22",
-    "College": "Nichols"
+    "College": "Wilkes"
   },
   {
     "Name": "Ella Dunham-Fox",
@@ -37118,11 +37228,19 @@
     "PersonKey": "dunn|ella",
     "BirthYr": 2005,
     "DOB": "7/15/2005",
+    "Grad": 2028,
     "Position": "D",
     "Height": "5'6\"",
+    "City": "Kennett Square",
+    "State": "PA",
     "Country": "US",
+    "School": "Hill",
     "Team2025": "East Coast Valkyries 19U",
-    "College": "Franklin Pierce"
+    "College": "Franklin Pierce",
+    "Fresh": "x",
+    "Soph": "x",
+    "Jr": "x",
+    "Sr": "x"
   },
   {
     "Name": "Makayla Dunn",
@@ -37462,7 +37580,7 @@
     "State": "MO",
     "Country": "US",
     "School": "Hoosac",
-    "College": "Hamline",
+    "College": "AlbertusMagnus",
     "CCM68": "Yes"
   },
   {
@@ -37631,6 +37749,15 @@
     "Soph": "U15",
     "Sr": "U1617",
     "Highest": "U1617"
+  },
+  {
+    "Name": "Audry Dyer",
+    "PersonKey": "dyer|audry",
+    "Grad": 2026,
+    "City": "Darien",
+    "State": "CT",
+    "Country": "US",
+    "School": "Sacred Heart Greenwich"
   },
   {
     "Name": "Laura Dyke",
@@ -37987,7 +38114,7 @@
     "Country": "US",
     "School": "Berkshire",
     "Team": "Midfairfield CT Stars",
-    "College": "Oswego",
+    "College": "WilliamSmith",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -38119,7 +38246,7 @@
     "Position": "D",
     "Height": "5'11\"",
     "Country": "CAN",
-    "College": "Castleton"
+    "College": "Keene"
   },
   {
     "Name": "Hadley Edson",
@@ -38183,7 +38310,7 @@
     "Grad": 2025,
     "Position": "D",
     "Country": "CAN",
-    "College": "SalveRegina"
+    "College": "Potsdam"
   },
   {
     "Name": "Sophie Edwards",
@@ -38219,7 +38346,7 @@
     "Country": "US",
     "Team2025": "Milwaukee Junior Admirals 19U",
     "Team": "Milwaukee Junior Admirals",
-    "College": "Trinity",
+    "College": "Gustavus Adolphus",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -38303,7 +38430,7 @@
     "Weight": 110,
     "Country": "US",
     "Team2024": "Gilmour Academy 19U",
-    "College": "Potsdam",
+    "College": "Morrisville",
     "Sr": "x"
   },
   {
@@ -38669,7 +38796,7 @@
     "State": "ME",
     "Country": "US",
     "Team": "New England Wildcats",
-    "College": "Cortland",
+    "College": "SouthernMaine",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -39182,7 +39309,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Pomfret",
-    "College": "GustavusAdolphus",
+    "College": "Chatham",
     "Jr": "x",
     "Sr": "x"
   },
@@ -39747,6 +39874,16 @@
     "Team2026": "Ontario Hockey Academy U18"
   },
   {
+    "Name": "Carina Eshbaugh",
+    "PersonKey": "eshbaugh|carina",
+    "Grad": 2027,
+    "Position": "G",
+    "City": "West Boylston",
+    "State": "MA",
+    "Country": "US",
+    "School": "Proctor"
+  },
+  {
     "Name": "Alexis Esposito",
     "PersonKey": "esposito|alexis",
     "BirthYr": 2009,
@@ -39821,6 +39958,16 @@
     "Position": "F",
     "Country": "CAN",
     "Team2024": "Central York U22"
+  },
+  {
+    "Name": "Addison Estey",
+    "PersonKey": "estey|addison",
+    "Grad": 2028,
+    "Position": "D",
+    "City": "Saint John",
+    "State": "NB",
+    "Country": "CAN",
+    "School": "Kents Hill"
   },
   {
     "Name": "Erin Eswein",
@@ -40287,7 +40434,7 @@
     "Country": "US",
     "Team2024": "CT Polar Bears 19U",
     "Team": "CT Jr Rangers",
-    "College": "Beloit",
+    "College": "ConnCollege",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -40816,7 +40963,7 @@
     "City": "Rogers",
     "State": "MA",
     "Country": "US",
-    "College": "Amherst",
+    "College": "Colby",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -40902,7 +41049,7 @@
     "Grad": 2024,
     "Position": "G",
     "Country": "US",
-    "College": "Alvernia"
+    "College": "Bowdoin"
   },
   {
     "Name": "Yael Fatiev",
@@ -41079,7 +41226,7 @@
     "Position": "F",
     "Height": "5'6\"",
     "Country": "CAN",
-    "College": "StNorbert"
+    "College": "Concordia_WI"
   },
   {
     "Name": "Avery Feek",
@@ -41087,7 +41234,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "NAHA Navy 19U",
-    "College": "Trine"
+    "College": "UMassBoston"
   },
   {
     "Name": "Alexie Feeney",
@@ -41386,6 +41533,16 @@
     "Team2026": "Brampton Jr Canadettes U18"
   },
   {
+    "Name": "Pauline Ferguson",
+    "PersonKey": "ferguson|pauline",
+    "Grad": 2029,
+    "Position": "F",
+    "City": "Weston",
+    "State": "MA",
+    "Country": "US",
+    "School": "Newton CDS"
+  },
+  {
     "Name": "Sydney Ferguson",
     "PersonKey": "ferguson|sydney",
     "BirthYr": 2007,
@@ -41447,7 +41604,7 @@
     "Height": "5'0\"",
     "Country": "US",
     "Team2024": "Team Illinois 19U",
-    "College": "Kings"
+    "College": "StJohnFisher"
   },
   {
     "Name": "Carolina Fernandez",
@@ -41558,7 +41715,8 @@
     "Grad": 2026,
     "Position": "G",
     "Country": "CAN",
-    "Team2024": "Balmoral Hall U22"
+    "Team2024": "Balmoral Hall U22",
+    "College": "Adrian"
   },
   {
     "Name": "Riley Ferreira",
@@ -42064,8 +42222,12 @@
   {
     "Name": "Evvy Finch",
     "PersonKey": "finch|evvy",
+    "Grad": 2026,
     "Position": "F",
+    "City": "Elizabethtown",
+    "State": "PA",
     "Country": "US",
+    "School": "Hill",
     "Team2025": "East Coast Valkyries 19U"
   },
   {
@@ -42173,9 +42335,12 @@
     "Name": "Emily Finn",
     "PersonKey": "finn|emily",
     "BirthYr": 2010,
+    "Grad": 2028,
     "Position": "D",
+    "City": "Topsfield",
     "State": "MA",
-    "Country": "US"
+    "Country": "US",
+    "School": "Kimball Union"
   },
   {
     "Name": "Lexi Finn",
@@ -42510,6 +42675,16 @@
     "Team2026": "Biggby Coffee 14U"
   },
   {
+    "Name": "Addy Fisher",
+    "PersonKey": "fisher|addison",
+    "Grad": 2029,
+    "Position": "D",
+    "City": "Newburyport",
+    "State": "MA",
+    "Country": "US",
+    "School": "Kimball Union"
+  },
+  {
     "Name": "Ava Fisher",
     "PersonKey": "fisher|ava",
     "BirthYr": 2006,
@@ -42670,7 +42845,7 @@
     "State": "MA",
     "Country": "US",
     "School": "St Marks",
-    "College": "Utica",
+    "College": "Wesleyan",
     "Jr": "x",
     "Sr": "x"
   },
@@ -42755,7 +42930,7 @@
     "State": "MA",
     "Country": "US",
     "School": "St Marks",
-    "College": "Trinity",
+    "College": "Wesleyan",
     "Jr": "x",
     "Sr": "x"
   },
@@ -43545,7 +43720,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Northern Elite 19U",
-    "College": "AlbertusMagnus"
+    "College": "Bowdoin"
   },
   {
     "Name": "Ericah Foldesi",
@@ -44175,6 +44350,13 @@
     "Country": "CAN"
   },
   {
+    "Name": "Liliana Fowler",
+    "PersonKey": "fowler|liliana",
+    "Grad": 2029,
+    "Position": "F/D",
+    "School": "Mount St Charles"
+  },
+  {
     "Name": "Riley Fowler",
     "PersonKey": "fowler|riley",
     "BirthYr": 2013,
@@ -44271,6 +44453,16 @@
     "PersonKey": "fox|sophia",
     "Country": "US",
     "Team2025": "Washington Pride 14U"
+  },
+  {
+    "Name": "Kate Fradette",
+    "PersonKey": "fradette|katherine",
+    "Grad": 2030,
+    "Position": "F/D",
+    "City": "Needham",
+    "State": "MA",
+    "Country": "US",
+    "School": "Newton CDS"
   },
   {
     "Name": "Aubree Francis",
@@ -44577,7 +44769,7 @@
     "Country": "US",
     "School": "Williston",
     "Team2024": "CT Polar Bears 19U",
-    "College": "Aurora",
+    "College": "Middlebury",
     "Sr": "U1617",
     "Highest": "U1617"
   },
@@ -44770,7 +44962,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Northern Elite 19U",
-    "College": "WilliamSmith"
+    "College": "WisconsinEauClaire"
   },
   {
     "Name": "Isabella Freitas",
@@ -44845,7 +45037,7 @@
     "Position": "D",
     "Country": "US",
     "Team2024": "Biggby Coffee 19U",
-    "College": "GustavusAdolphus"
+    "College": "Chatham"
   },
   {
     "Name": "Madison French",
@@ -44939,6 +45131,27 @@
     "Team2026": "Balmoral Hall U18"
   },
   {
+    "Name": "Samson Frey",
+    "PersonKey": "frey|samson",
+    "BirthYr": 2006,
+    "DOB": "4/27/2006",
+    "Grad": 2025,
+    "Position": "G",
+    "Height": "5’7”",
+    "Weight": 165,
+    "GPA": 4,
+    "City": "Northport",
+    "State": "NY",
+    "Country": "US",
+    "Team2024": "Midfairfield CT Stars 19U",
+    "Team": "Midfairfield CT Stars",
+    "College": "Yale",
+    "Soph": "U18",
+    "Jr": "U18",
+    "Sr": "x",
+    "Highest": "U18"
+  },
+  {
     "Name": "Sylvie Frey",
     "PersonKey": "frey|sylvie",
     "BirthYr": 2010,
@@ -44957,33 +45170,6 @@
     "Team": "Team Colorado",
     "Soph": "U15",
     "Highest": "U15"
-  },
-  {
-    "Name": "Natalie Frey-Perusee",
-    "PersonKey": "freyperusee|natalie",
-    "Grad": 2025,
-    "Position": "G",
-    "Country": "US",
-    "Team2024": "Midfairfield CT Stars 19U"
-  },
-  {
-    "Name": "Samson Perusse",
-    "PersonKey": "freyperusse|natalie",
-    "BirthYr": 2006,
-    "DOB": "4/27/2006",
-    "Grad": 2024,
-    "Position": "G",
-    "Height": "5’7”",
-    "Weight": 165,
-    "GPA": 4,
-    "City": "Northport",
-    "State": "NY",
-    "Country": "US",
-    "Team": "Midfairfield CT Stars",
-    "College": "Yale",
-    "Jr": "U18",
-    "Sr": "U18",
-    "Highest": "U18"
   },
   {
     "Name": "Avery Frias",
@@ -45029,6 +45215,7 @@
     "City": "West Chester",
     "State": "PA",
     "Country": "US",
+    "School": "Lawrenceville",
     "Team2024": "Philadelphia Jr Flyers 14U",
     "Team2025": "East Coast Valkyries 19U",
     "Team": "Philadelphia Jr Flyers",
@@ -45452,7 +45639,7 @@
     "State": "ND",
     "Country": "US",
     "School": "Williston",
-    "College": "Trinity",
+    "College": "Marian",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -46234,7 +46421,7 @@
     "Height": "5'3\"",
     "Country": "US",
     "Team2024": "Philadelphia Jr Flyers 19U",
-    "College": "SalemState"
+    "College": "Potsdam"
   },
   {
     "Name": "Meredith Gangl",
@@ -46480,6 +46667,13 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "East Coast Valkyries 19U"
+  },
+  {
+    "Name": "Sofie Garmise",
+    "PersonKey": "garmise|sofie",
+    "Grad": 2027,
+    "Position": "F",
+    "School": "Lawrenceville"
   },
   {
     "Name": "Sophia Garner",
@@ -46960,7 +47154,7 @@
     "Position": "D",
     "Country": "US",
     "Team2024": "St Louis Lady Blues 19U",
-    "College": "StOlaf"
+    "College": "Concordia_WI"
   },
   {
     "Name": "Isabella Geffre",
@@ -47483,7 +47677,7 @@
     "Position": "F",
     "Height": "5'7\"",
     "Country": "US",
-    "College": "StNorbert",
+    "College": "Concordia_WI",
     "CCM68": "Yes"
   },
   {
@@ -47578,7 +47772,7 @@
     "Country": "US",
     "Team2024": "Team Illinois 19U",
     "Team2025": "Milwaukee Junior Admirals 19U",
-    "College": "Adrian"
+    "College": "Wisc Eau Claire"
   },
   {
     "Name": "Julia Ghergurovich",
@@ -48032,7 +48226,7 @@
     "Grad": 2026,
     "Position": "F",
     "Country": "CAN",
-    "College": "BuffaloState"
+    "College": "Morrisville"
   },
   {
     "Name": "Chloe Gilbert",
@@ -48375,7 +48569,7 @@
     "Height": "5'1\"",
     "Country": "US",
     "Team2024": "Northwood School 19U",
-    "College": "Potsdam"
+    "College": "Morrisville"
   },
   {
     "Name": "Kenna Gillis",
@@ -48413,7 +48607,7 @@
     "State": "France",
     "Country": "Europe",
     "School": "Kents Hill",
-    "College": "PlymouthState",
+    "College": "Cortland",
     "Jr": "x",
     "Sr": "x"
   },
@@ -48679,7 +48873,7 @@
     "State": "NY",
     "Country": "US",
     "School": "Lawrence Academy",
-    "College": "LebanonValley"
+    "College": "Arcadia"
   },
   {
     "Name": "Kayley Glagow",
@@ -48849,7 +49043,7 @@
     "State": "ONT",
     "Country": "CAN",
     "School": "Vermont Academy",
-    "College": "Cortland"
+    "College": "Castleton"
   },
   {
     "Name": "Alana Gleicher",
@@ -49270,7 +49464,7 @@
     "Grad": 2025,
     "Position": "F",
     "School": "Mount St Charles",
-    "College": "BuffaloState"
+    "College": "Nichols"
   },
   {
     "Name": "Juliana Goffredo",
@@ -49308,6 +49502,14 @@
     "Position": "F",
     "Country": "CAN",
     "Team2026": "Rothesay Netherwood School U22"
+  },
+  {
+    "Name": "Tan Goksal",
+    "PersonKey": "goksal|tan",
+    "Grad": 2027,
+    "Position": "D",
+    "City": "Istanbul",
+    "School": "Hoosac"
   },
   {
     "Name": "Sasha Goldberg",
@@ -49366,7 +49568,7 @@
     "Weight": 121,
     "Country": "US",
     "Team2025": "NAHA Navy 19U",
-    "College": "UnivNewEngland"
+    "College": "Utica"
   },
   {
     "Name": "Kingston Golding",
@@ -49473,7 +49675,7 @@
     "Country": "US",
     "Team2024": "San Jose Jr Sharks 16U",
     "Team2025": "Anaheim Lady Ducks 19U",
-    "College": "Roger Williams"
+    "College": "Aurora"
   },
   {
     "Name": "Paige Gomperz",
@@ -49533,7 +49735,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Holderness",
-    "College": "Keene",
+    "College": "Nazareth",
     "Sr": "x"
   },
   {
@@ -49581,7 +49783,7 @@
     "Height": "5'7\"",
     "Country": "US",
     "Team2024": "Anaheim 19U",
-    "College": "Dubuque"
+    "College": "MassColLibArts"
   },
   {
     "Name": "Skye Gonzalez",
@@ -49668,7 +49870,7 @@
     "State": "NH",
     "Country": "US",
     "School": "Cushing",
-    "College": "Castleton"
+    "College": "Keene"
   },
   {
     "Name": "Heidi Goodearle",
@@ -49745,6 +49947,17 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Assabet Valley 14U"
+  },
+  {
+    "Name": "Ava Goodrich",
+    "PersonKey": "goodrich|ava",
+    "Grad": 2028,
+    "Position": "F",
+    "City": "Ottawa",
+    "State": "ON",
+    "Country": "CAN",
+    "School": "Kimball Union",
+    "College": "SalveRegina"
   },
   {
     "Name": "Sydney Goodrich",
@@ -49971,7 +50184,7 @@
     "Height": "5'4\"",
     "Country": "US",
     "Team2024": "NJ Colonials 19U",
-    "College": "Keene"
+    "College": "Nazareth"
   },
   {
     "Name": "Mae Gorley",
@@ -50902,7 +51115,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Philadelphia Jr Flyers 19U",
-    "College": "Kings"
+    "College": "StJohnFisher"
   },
   {
     "Name": "Mia Grasser",
@@ -51689,7 +51902,7 @@
     "Country": "US",
     "School": "Andover",
     "Team": "NJ Colonials",
-    "College": "Endicott",
+    "College": "Hamilton",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -52069,9 +52282,11 @@
     "Name": "Claire Griffith",
     "PersonKey": "griffith|claire",
     "BirthYr": 2009,
-    "Position": "D",
+    "Grad": 2027,
+    "Position": "F/D",
     "State": "MA",
-    "Country": "US"
+    "Country": "US",
+    "School": "Mount St Charles"
   },
   {
     "Name": "Gracie Griffith",
@@ -52107,7 +52322,7 @@
     "Country": "US",
     "School": "Exeter",
     "Team": "Nashville Jr Predators",
-    "College": "Aurora",
+    "College": "Trinity",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
@@ -52499,7 +52714,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Lakeville South HS",
-    "College": "Williams",
+    "College": "WisconsinEauClaire",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -52945,7 +53160,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "College": "Bowdoin"
+    "College": "JohnsonWales"
   },
   {
     "Name": "Charlotte Guluzian",
@@ -53933,7 +54148,7 @@
     "School": "Westminster",
     "Team2024": "CT Polar Bears 19U",
     "Team": "Hartford Jr Wolfpack",
-    "College": "Aurora",
+    "College": "Middlebury",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -53978,7 +54193,10 @@
     "Grad": 2031,
     "Position": "D",
     "Height": "5'9\"",
+    "City": "Greenwich",
+    "State": "CT",
     "Country": "US",
+    "School": "Greenwich Academy",
     "Team2025": "CT Jr Rangers 14U",
     "Team2026": "Shattuck-St. Mary's 16U",
     "Sr": "x"
@@ -54088,9 +54306,14 @@
     "Name": "Tatum Hall",
     "PersonKey": "hall|tatum",
     "BirthYr": 2010,
+    "Grad": 2029,
     "Position": "F",
+    "City": "Simsbury",
+    "State": "CT",
     "Country": "US",
-    "Team2025": "East Coast Valkyries 16U"
+    "School": "Hill",
+    "Team2025": "East Coast Valkyries 16U",
+    "Sr": "x"
   },
   {
     "Name": "Taylor Hall",
@@ -54781,7 +55004,7 @@
     "Height": "5'3\"",
     "Country": "CAN",
     "Team2024": "Windsor Southwest U22",
-    "College": "NewEnglandCollege"
+    "College": "Wilkes"
   },
   {
     "Name": "Sarah Hann",
@@ -54947,7 +55170,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Navy 19U",
-    "College": "StOlaf"
+    "College": "Concordia_WI"
   },
   {
     "Name": "? Hansen",
@@ -55876,7 +56099,7 @@
     "Height": "5'3\"",
     "Country": "CAN",
     "Team2024": "Toronto-Leaside U22",
-    "College": "WorcesterState"
+    "College": "Amherst"
   },
   {
     "Name": "Sylvie Harris",
@@ -55976,7 +56199,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Proctor",
-    "College": "Lawrence"
+    "College": "Utica"
   },
   {
     "Name": "Catherine Hart",
@@ -56008,7 +56231,7 @@
     "Position": "D",
     "Country": "US",
     "Team2024": "Dallas 19U",
-    "College": "PlymouthState"
+    "College": "Cortland"
   },
   {
     "Name": "Bianca Harte",
@@ -56394,7 +56617,7 @@
     "Position": "D",
     "Height": "5'4\"",
     "Country": "US",
-    "College": "StOlaf"
+    "College": "Dubuque"
   },
   {
     "Name": "Paige Haskett",
@@ -56453,7 +56676,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Biggby Coffee 19U",
-    "College": "StNorbert"
+    "College": "Aurora"
   },
   {
     "Name": "Emma Hassler",
@@ -56960,7 +57183,7 @@
     "State": "CO",
     "Country": "US",
     "School": "New Hampton",
-    "College": "NewEnglandCollege",
+    "College": "Wilkes",
     "Sr": "x"
   },
   {
@@ -56997,7 +57220,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Worcester",
-    "College": "JohnsonWales",
+    "College": "Manhattanville",
     "Sr": "x"
   },
   {
@@ -57209,7 +57432,10 @@
     "PersonKey": "heard|isabella",
     "Grad": 2030,
     "Position": "D",
+    "City": "Harrison",
+    "State": "NY",
     "Country": "US",
+    "School": "Greenwich Academy",
     "Team2025": "CT Jr Rangers 14U",
     "Team2026": "Midfairfield CT Stars 14U"
   },
@@ -57834,7 +58060,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Washington Pride 19U",
-    "College": "Hilbert"
+    "College": "Elmira"
   },
   {
     "Name": "Tenley Hemmes",
@@ -58763,7 +58989,7 @@
     "Country": "US",
     "School": "River Lakes HS",
     "Team2024": "MN Northern Elite 19U",
-    "College": "WisconsinEauClaire",
+    "College": "WisconsinRiverFalls",
     "Soph": "U15",
     "Sr": "U1617",
     "Highest": "U1617"
@@ -58820,7 +59046,7 @@
     "Position": "D",
     "Height": "5'9\"",
     "Country": "US",
-    "College": "Colby",
+    "College": "Norwich",
     "Sr": "x"
   },
   {
@@ -59958,7 +60184,7 @@
     "Country": "US",
     "School": "Culver Academies",
     "Team2024": "St Louis Lady Blues 19U",
-    "College": "Stevenson",
+    "College": "StMarys",
     "CCM68": "Yes",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -60801,7 +61027,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Northern Elite 19U",
-    "College": "StBenedict"
+    "College": "Hamline"
   },
   {
     "Name": "Ella Hornung",
@@ -60813,7 +61039,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Navy 19U",
-    "College": "WisconsinStevensPoint"
+    "College": "WisconsinSuperior"
   },
   {
     "Name": "Linnell Horschel",
@@ -60828,7 +61054,7 @@
     "State": "NY",
     "Country": "US",
     "Team": "Anchorage North Stars",
-    "College": "StMarys",
+    "College": "Adrian",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -61086,7 +61312,7 @@
     "Position": "D",
     "Country": "US",
     "Team2024": "New Jersey Ironbound 19U",
-    "College": "Lawrence"
+    "College": "Utica"
   },
   {
     "Name": "Elise Houle",
@@ -61316,7 +61542,7 @@
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
     "Team": "Steel City Selects",
-    "College": "Nichols",
+    "College": "Wilkes",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -61637,7 +61863,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "HoneyBaked 19U",
-    "College": "StJohnFisher"
+    "College": "Adrian"
   },
   {
     "Name": "Evelyn Huber",
@@ -61912,7 +62138,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Groton",
-    "College": "Arcadia",
+    "College": "Hamilton",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -61957,7 +62183,7 @@
     "Height": "5'9\"",
     "Country": "US",
     "Team2025": "NH Mountain Cats Academy 19U",
-    "College": "StJohnFisher"
+    "College": "StMarys"
   },
   {
     "Name": "Violet Huhta",
@@ -62117,7 +62343,7 @@
     "Country": "US",
     "School": "St Pauls",
     "Team2024": "Assabet Valley 19U",
-    "College": "Arcadia",
+    "College": "Wesleyan",
     "Sr": "x"
   },
   {
@@ -62447,7 +62673,7 @@
     "Weight": 126,
     "Country": "CAN",
     "Team2024": "South Alberta Hockey Academy U22",
-    "College": "Trine"
+    "College": "LakeForest"
   },
   {
     "Name": "Hayley Hunter",
@@ -62529,7 +62755,7 @@
     "Country": "US",
     "Team2024": "Little Caesars 19U",
     "Team": "Little Caesars",
-    "College": "Colby",
+    "College": "Norwich",
     "Jr": "U1617",
     "Sr": "U1617",
     "Highest": "U1617"
@@ -62644,7 +62870,7 @@
     "Grad": 2025,
     "Position": "F",
     "Country": "US",
-    "College": "Curry"
+    "College": "Castleton"
   },
   {
     "Name": "Breanne Hurley",
@@ -63294,7 +63520,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2024": "Ridley College U22",
-    "College": "StBenedict"
+    "College": "GustavusAdolphus"
   },
   {
     "Name": "Peyton Insogna",
@@ -64420,7 +64646,7 @@
     "Height": "5'4\"",
     "Country": "US",
     "Team2024": "New Jersey Ironbound 19U",
-    "College": "Amherst"
+    "College": "Colby"
   },
   {
     "Name": "Shaye Jasiel",
@@ -64535,6 +64761,7 @@
     "Height": "5'4\"",
     "State": "RI",
     "Country": "US",
+    "School": "Mount St Charles",
     "Team2026": "Lovell Academy 14U"
   },
   {
@@ -64746,7 +64973,7 @@
     "State": "WA",
     "Country": "US",
     "School": "Vermont Academy",
-    "College": "Nazareth",
+    "College": "Roger Williams",
     "Sr": "x"
   },
   {
@@ -64942,7 +65169,7 @@
     "Height": "5'8\"",
     "Weight": 143,
     "Country": "US",
-    "College": "AnnaMaria"
+    "College": "Hamilton"
   },
   {
     "Name": "Smith Jillian",
@@ -66465,7 +66692,7 @@
     "Height": "5'4\"",
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
-    "College": "LakeForest"
+    "College": "StJohnFisher"
   },
   {
     "Name": "Sage Joyce",
@@ -66540,7 +66767,7 @@
     "Country": "US",
     "Team2024": "HoneyBaked 19U",
     "Team": "Arizona Kachinas",
-    "College": "StMarys",
+    "College": "Adrian",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -66572,7 +66799,7 @@
     "Weight": 119,
     "Country": "US",
     "Team2024": "Madison Capitols 19U",
-    "College": "StOlaf",
+    "College": "Concordia_WI",
     "Sr": "x"
   },
   {
@@ -66875,7 +67102,7 @@
     "State": "WI",
     "Country": "US",
     "Team": "Oahe Lady Capitals",
-    "College": "StNorbert",
+    "College": "Aurora",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -67683,7 +67910,7 @@
     "Country": "US",
     "School": "Andover HS",
     "Team2024": "MN Jr Whitecaps 19U",
-    "College": "StJohnFisher",
+    "College": "StBenedict",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -67768,7 +67995,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Groton",
-    "College": "Castleton"
+    "College": "Colby"
   },
   {
     "Name": "Parker Kathan",
@@ -67799,7 +68026,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Team Illinois 19U",
-    "College": "SUNY Plattsburgh"
+    "College": "Chatham"
   },
   {
     "Name": "Aria Katsompenakis",
@@ -68182,7 +68409,7 @@
     "Country": "US",
     "School": "Nobles",
     "Team2025": "Boston Jr Eagles 19U",
-    "College": "SUNY Potsdam",
+    "College": "Trinity",
     "Sr": "x"
   },
   {
@@ -68589,7 +68816,7 @@
     "State": "RI",
     "Country": "US",
     "School": "Tilton",
-    "College": "Elmira"
+    "College": "Rivier"
   },
   {
     "Name": "Autumn Kelly",
@@ -68684,7 +68911,7 @@
     "State": "MN",
     "Country": "US",
     "Team": "Holy Family Catholic",
-    "College": "Elmira",
+    "College": "Rivier",
     "Sr": "U18",
     "Highest": "U18"
   },
@@ -68789,7 +69016,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Worcester",
-    "College": "Bethel",
+    "College": "Endicott",
     "Sr": "x"
   },
   {
@@ -69061,7 +69288,7 @@
     "School": "Andover",
     "Team2024": "Assabet Valley 19U",
     "Team": "Assabet Valley",
-    "College": "Aurora",
+    "College": "Middlebury",
     "Fresh": "U15",
     "Jr": "U1617",
     "Sr": "x",
@@ -69433,7 +69660,7 @@
     "Country": "US",
     "School": "Choate",
     "Team2024": "Midfairfield CT Stars 19U",
-    "College": "Augsburg"
+    "College": "Trinity"
   },
   {
     "Name": "Berkley Keyser",
@@ -70322,7 +70549,10 @@
     "DOB": "5/20/2010",
     "Grad": 2028,
     "Position": "D",
+    "City": "Houston",
+    "State": "TX",
     "Country": "US",
+    "School": "Hill",
     "Team2025": "East Coast Valkyries 19U",
     "Team2026": "CT Polar Bears 16U"
   },
@@ -70990,7 +71220,7 @@
     "Country": "US",
     "Team2024": "BK Selects 19U",
     "Team": "Chicago Mission",
-    "College": "AnnaMaria",
+    "College": "Hamilton",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -71210,7 +71440,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Northern Elite 19U",
-    "College": "Stevenson"
+    "College": "StOlaf"
   },
   {
     "Name": "Naomi Klukas",
@@ -71249,7 +71479,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Culver Academies 19U",
-    "College": "Stevenson"
+    "College": "StOlaf"
   },
   {
     "Name": "Audrey Knapp",
@@ -71390,7 +71620,7 @@
     "Country": "US",
     "School": "Blaine HS",
     "Team2024": "MN Elite Green 19U",
-    "College": "WisconsinEauClaire",
+    "College": "WisconsinRiverFalls",
     "Jr": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -71425,7 +71655,7 @@
     "Weight": 119,
     "Country": "US",
     "Team2024": "Philadelphia Jr Flyers 19U",
-    "College": "Kings"
+    "College": "StJohnFisher"
   },
   {
     "Name": "Ellie Knutson",
@@ -71467,7 +71697,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Northern Elite 19U",
-    "College": "Stevenson"
+    "College": "StMarys"
   },
   {
     "Name": "Samantha Knutson",
@@ -71483,7 +71713,7 @@
     "Country": "US",
     "Team2024": "Chicago Mission 19U",
     "Team": "Belle Tire",
-    "College": "StJohnFisher",
+    "College": "StBenedict",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -71545,7 +71775,7 @@
     "Height": "5'2\"",
     "State": "NBR",
     "Country": "CAN",
-    "College": "Cortland",
+    "College": "SouthernMaine",
     "Highest": "ATcamp"
   },
   {
@@ -71581,7 +71811,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Navy 19U",
-    "College": "Stevenson"
+    "College": "StMarys"
   },
   {
     "Name": "Althea Kochowicz",
@@ -71960,7 +72190,7 @@
     "State": "MN",
     "Country": "US",
     "School": "Eden Prairie HS",
-    "College": "JohnsonWales",
+    "College": "Nazareth",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -71990,7 +72220,7 @@
     "Country": "US",
     "School": "St Pauls",
     "Team": "Hartford Jr Wolfpack",
-    "College": "AnnaMaria",
+    "College": "Hamilton",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -72307,7 +72537,7 @@
     "Grad": 2025,
     "Position": "F",
     "Country": "CAN",
-    "College": "Wilkes"
+    "College": "Beloit"
   },
   {
     "Name": "Bianka Kostkova",
@@ -72359,7 +72589,7 @@
     "School": "Hill",
     "Team2025": "East Coast Valkyries 19U",
     "Team": "York Devils",
-    "College": "Middlebury",
+    "College": "Nazareth",
     "Jr": "U18",
     "Sr": "x",
     "Highest": "U18"
@@ -72836,7 +73066,7 @@
     "State": "CT",
     "Country": "US",
     "School": "Frederick Gunn",
-    "College": "Elmira"
+    "College": "Rivier"
   },
   {
     "Name": "Mia Kraut",
@@ -73927,6 +74157,13 @@
     "Highest": "MBcamp"
   },
   {
+    "Name": "Olyvia Labossiere",
+    "PersonKey": "labossiere|olyvia",
+    "Grad": 2029,
+    "Position": "F",
+    "School": "Mount St Charles"
+  },
+  {
     "Name": "Charlotte Labreche",
     "PersonKey": "labreche|charlotte",
     "BirthYr": 2007,
@@ -74159,7 +74396,7 @@
     "Country": "US",
     "Team2024": "Little Caesars 19U",
     "Team": "Little Caesars",
-    "College": "StMarys",
+    "College": "Adrian",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -74709,6 +74946,16 @@
     "Position": "F",
     "Country": "CAN",
     "Team2026": "North York Storm U15"
+  },
+  {
+    "Name": "Suki Lalonde",
+    "PersonKey": "lalonde|suki",
+    "Grad": 2028,
+    "Position": "G",
+    "City": "Boucherville",
+    "State": "NB",
+    "Country": "CAN",
+    "School": "Kents Hill"
   },
   {
     "Name": "Emersynn Lamabe",
@@ -75679,7 +75926,7 @@
     "State": "IA",
     "Country": "US",
     "School": "Taft",
-    "College": "AlbertusMagnus"
+    "College": "Bowdoin"
   },
   {
     "Name": "Arial Lapsa",
@@ -75904,7 +76151,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Green 19U",
-    "College": "WisconsinEauClaire"
+    "College": "WisconsinRiverFalls"
   },
   {
     "Name": "Anne Larsen",
@@ -76014,7 +76261,7 @@
     "Position": "F",
     "Height": "5'4\"",
     "Country": "US",
-    "College": "Hamline"
+    "College": "AlbertusMagnus"
   },
   {
     "Name": "Alexane Laserra",
@@ -76962,7 +77209,7 @@
     "Country": "US",
     "School": "Berkshire",
     "Team": "CT Jr Rangers",
-    "College": "Beloit",
+    "College": "ConnCollege",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -77001,7 +77248,7 @@
     "Position": "F",
     "Height": "5'7\"",
     "Country": "CAN",
-    "College": "SalemState"
+    "College": "Potsdam"
   },
   {
     "Name": "Estelle Lebeau",
@@ -77279,7 +77526,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Dallas 19U",
-    "College": "Trine"
+    "College": "Marian"
   },
   {
     "Name": "Eve-Marie Leclerc",
@@ -77724,10 +77971,14 @@
     "Name": "Scarlet Lee",
     "PersonKey": "lee|scarlet",
     "BirthYr": 2008,
+    "Grad": 2027,
     "Position": "G",
     "Height": "5'4\"",
+    "City": "Gloucester",
     "State": "MA",
-    "Country": "US"
+    "Country": "US",
+    "School": "Kimball Union",
+    "Sr": "x"
   },
   {
     "Name": "Taylee Lee",
@@ -78073,7 +78324,7 @@
     "School": "Dexter",
     "Team2024": "Assabet Valley 19U",
     "Team": "Bay State Breakers",
-    "College": "Alvernia",
+    "College": "Colby",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -78427,7 +78678,7 @@
     "Weight": 170,
     "Country": "US",
     "Team2024": "Dallas 19U",
-    "College": "Chatham",
+    "College": "NewEnglandCollege",
     "Sr": "x"
   },
   {
@@ -78470,7 +78721,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Kent",
-    "College": "Middlebury"
+    "College": "Nazareth"
   },
   {
     "Name": "Madison Leonard",
@@ -79482,8 +79733,10 @@
     "DOB": "11/3/2010",
     "Grad": 2028,
     "Position": "F",
+    "City": "Bedford",
     "State": "NSC",
     "Country": "CAN",
+    "School": "Hill",
     "Team2025": "East Coast Valkyries 19U",
     "Team2026": "CT Polar Bears 16U",
     "CCM68": "Yes"
@@ -79683,7 +79936,7 @@
     "State": "CT",
     "Country": "US",
     "School": "Canterbury",
-    "College": "Beloit"
+    "College": "ConnCollege"
   },
   {
     "Name": "Madalyn Liles",
@@ -79699,7 +79952,7 @@
     "Country": "US",
     "Team2024": "Dallas 19U",
     "Team": "Dallas Stars",
-    "College": "Colby",
+    "College": "Norwich",
     "CCM68": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -80325,7 +80578,7 @@
     "School": "BB&N",
     "Team2024": "East Coast Wizards 19U",
     "Team": "Bay State Breakers",
-    "College": "Adrian",
+    "College": "Williams",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -80840,7 +81093,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Belle Tire 19U",
-    "College": "StMarys"
+    "College": "Adrian"
   },
   {
     "Name": "Ashley Loeber",
@@ -81918,7 +82171,7 @@
     "Country": "US",
     "School": "New Hampton",
     "Team": "North Shore Vipers",
-    "College": "Adrian",
+    "College": "Williams",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -82044,7 +82297,7 @@
     "Height": "5'3\"",
     "Country": "US",
     "Team2024": "Dallas 19U",
-    "College": "Colby"
+    "College": "PlymouthState"
   },
   {
     "Name": "Sophia Luciano",
@@ -82177,7 +82430,7 @@
     "State": "IL",
     "Country": "US",
     "Team": "St. Louis Blues",
-    "College": "Hilbert",
+    "College": "Elmira",
     "CCM68": "Yes",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -82219,7 +82472,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Dallas 19U",
-    "College": "WisconsinStevensPoint"
+    "College": "WisconsinSuperior"
   },
   {
     "Name": "Ryleigh Lukawski",
@@ -83488,7 +83741,7 @@
     "State": "ONT",
     "Country": "CAN",
     "School": "Millbrook",
-    "College": "Wisc Eau Claire",
+    "College": "Elmira",
     "Sr": "x"
   },
   {
@@ -84293,16 +84546,6 @@
     "School": "St Marks"
   },
   {
-    "Name": "ZoÃ« Macron",
-    "PersonKey": "macron|zoã«",
-    "Grad": 2027,
-    "Position": "D",
-    "City": "Smithtown",
-    "State": "NY",
-    "Country": "US",
-    "School": "Middlesex"
-  },
-  {
     "Name": "Zoe Macron",
     "PersonKey": "macron|zoe",
     "BirthYr": 2008,
@@ -84314,16 +84557,6 @@
     "Country": "US",
     "School": "Middlesex",
     "Sr": "x"
-  },
-  {
-    "Name": "Zoë Macron",
-    "PersonKey": "macron|zoë",
-    "Grad": 2027,
-    "Position": "F/D",
-    "City": "Smithtown",
-    "State": "NY",
-    "Country": "US",
-    "School": "Middlesex"
   },
   {
     "Name": "Ryleigh MacSweeney",
@@ -84609,7 +84842,7 @@
     "Team2024": "Chicago Mission 19U",
     "Team2025": "Chicago Mission 19U",
     "Team": "Chicago Mission",
-    "College": "Arcadia",
+    "College": "Nazareth",
     "CCM68": "Yes",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -84946,6 +85179,7 @@
     "City": "Cheyenne",
     "State": "WY",
     "Country": "US",
+    "School": "Hill",
     "Team2025": "East Coast Valkyries 16U",
     "Team": "Team Colorado",
     "Soph": "U15",
@@ -84990,7 +85224,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Exeter",
-    "College": "StBenedict",
+    "College": "Connecticut College",
     "Jr": "x",
     "Sr": "x"
   },
@@ -85046,7 +85280,7 @@
     "Height": "5'7\"",
     "Country": "US",
     "Team2024": "Biggby Coffee 19U",
-    "College": "LebanonValley",
+    "College": "Arcadia",
     "Sr": "x"
   },
   {
@@ -85905,7 +86139,7 @@
     "Position": "G",
     "Country": "US",
     "Team2025": "Anaheim Lady Ducks 19U",
-    "College": "Keene"
+    "College": "Nazareth"
   },
   {
     "Name": "Solana Manning",
@@ -86360,7 +86594,7 @@
     "Height": "5'4\"",
     "Country": "US",
     "Team2024": "Belle Tire 19U",
-    "College": "StMarys",
+    "College": "Adrian",
     "CCM68": "Yes"
   },
   {
@@ -86720,7 +86954,7 @@
     "State": "CO",
     "Country": "US",
     "School": "Proctor",
-    "College": "Johnson & Wales",
+    "College": "Lake Forest",
     "CCM68": "Yes",
     "Sr": "x"
   },
@@ -87076,7 +87310,7 @@
     "Country": "US",
     "School": "Roseville/Mahtomedi HS",
     "Team2024": "MN Elite Navy 19U",
-    "College": "SalveRegina",
+    "College": "Bethel",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -87130,7 +87364,7 @@
     "Position": "F",
     "Country": "US",
     "Team2026": "Windy City Storm 14U",
-    "College": "SalveRegina"
+    "College": "Bethel"
   },
   {
     "Name": "Tess Martin",
@@ -88524,6 +88758,13 @@
     "Highest": "U18"
   },
   {
+    "Name": "Shane Mayer",
+    "PersonKey": "mayer|shane",
+    "Grad": 2029,
+    "Position": "F",
+    "School": "Lawrenceville"
+  },
+  {
     "Name": "Teri Mayer",
     "PersonKey": "mayer|teri",
     "BirthYr": 2011,
@@ -88751,6 +88992,16 @@
     "Position": "F",
     "Country": "CAN",
     "Team2025": "Kingston Ice Wolves U15"
+  },
+  {
+    "Name": "Kaitlyn Mcauliffe",
+    "PersonKey": "mcauliffe|kaitlyn",
+    "Grad": 2027,
+    "Position": "D",
+    "City": "Oxford",
+    "State": "CT",
+    "Country": "US",
+    "School": "Hoosac"
   },
   {
     "Name": "Tenley Mcauliffe",
@@ -89355,7 +89606,7 @@
     "Weight": 130,
     "Country": "US",
     "Team2024": "Gilmour Academy 19U",
-    "College": "Oswego"
+    "College": "WilliamSmith"
   },
   {
     "Name": "Megan Mccormick",
@@ -90146,7 +90397,7 @@
     "Height": "5'6\"",
     "Country": "US",
     "Team2024": "Gilmour Academy 19U",
-    "College": "Bowdoin"
+    "College": "Endicott"
   },
   {
     "Name": "Andie Mcfadden",
@@ -90215,7 +90466,7 @@
     "State": "QUE",
     "Country": "CAN",
     "School": "Deerfield",
-    "College": "Augsburg",
+    "College": "Bowdoin",
     "Sr": "x"
   },
   {
@@ -90412,7 +90663,7 @@
     "Country": "US",
     "Team2024": "Washington Pride 19U",
     "Team2025": "Washington Pride 19U",
-    "College": "Aurora"
+    "College": "Plattsburgh"
   },
   {
     "Name": "Kathleen McGee",
@@ -91299,7 +91550,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Green 19U",
-    "College": "WilliamSmith"
+    "College": "WisconsinRiverFalls"
   },
   {
     "Name": "Yasmine Mckenzie",
@@ -91317,7 +91568,7 @@
     "Team2024": "Spitfires 19U",
     "Team2025": "Spitfires 19U",
     "Team": "Spitfires",
-    "College": "Castleton",
+    "College": "Amherst",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -91858,7 +92109,7 @@
     "Country": "US",
     "School": "Taft",
     "Team": "Boston Shamrocks",
-    "College": "AnnaMaria",
+    "College": "Hamilton",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -92120,7 +92371,7 @@
     "State": "CO",
     "Country": "US",
     "School": "Worcester",
-    "College": "Trinity"
+    "College": "Utica"
   },
   {
     "Name": "Amaya Mcneil",
@@ -92304,7 +92555,7 @@
     "Height": "5'3\"",
     "Country": "CAN",
     "Team2024": "North York Storm U22",
-    "College": "StOlaf"
+    "College": "Concordia_WI"
   },
   {
     "Name": "Kennedy Mcquade",
@@ -92343,13 +92594,22 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Navy 19U",
-    "College": "SouthernMaine"
+    "College": "Bethel"
   },
   {
     "Name": "Katie McQuillan",
     "PersonKey": "mcquillan|katherine",
     "Grad": 2026,
     "Position": "G",
+    "City": "Stamford",
+    "State": "CT",
+    "Country": "US",
+    "School": "Sacred Heart Greenwich"
+  },
+  {
+    "Name": "Katie McQuillian",
+    "PersonKey": "mcquillian|katherine",
+    "Grad": 2026,
     "City": "Stamford",
     "State": "CT",
     "Country": "US",
@@ -92387,7 +92647,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Middlesex",
-    "College": "Hamilton",
+    "College": "Hobart & William Smith",
     "Sr": "x"
   },
   {
@@ -92424,7 +92684,7 @@
     "School": "Nobles",
     "Team2024": "East Coast Wizards 19U",
     "Team": "Assabet Valley",
-    "College": "Adrian",
+    "College": "Williams",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -92465,7 +92725,7 @@
     "School": "Hill",
     "Team2024": "CT Polar Bears 19U",
     "Team": "Dallas Stars",
-    "College": "Lawrence",
+    "College": "Middlebury",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -92609,7 +92869,7 @@
     "Country": "US",
     "School": "Farmington HS",
     "Team2024": "MN Elite White 19U",
-    "College": "SalveRegina",
+    "College": "Augsburg",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -92823,7 +93083,7 @@
     "Weight": 146,
     "Country": "US",
     "Team2024": "New Jersey Ironbound 19U",
-    "College": "Hamline",
+    "College": "Elmira",
     "Sr": "x"
   },
   {
@@ -93609,7 +93869,7 @@
     "State": "ME",
     "Country": "US",
     "School": "New Hampton",
-    "College": "Alvernia"
+    "College": "Colby"
   },
   {
     "Name": "Delilah Michels",
@@ -93658,8 +93918,10 @@
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "G",
+    "City": "Oakville",
     "State": "ONT",
     "Country": "CAN",
+    "School": "Hill",
     "CCM68": "Yes"
   },
   {
@@ -95403,6 +95665,15 @@
     "Team2025": "LA Lions 16U"
   },
   {
+    "Name": "Alexandra Mollett",
+    "PersonKey": "mollett|alexandra",
+    "Grad": 2028,
+    "City": "Greenwich",
+    "State": "CT",
+    "Country": "US",
+    "School": "Sacred Heart Greenwich"
+  },
+  {
     "Name": "Melayna Mollicone",
     "PersonKey": "mollicone|melayna",
     "BirthYr": 2009,
@@ -96183,7 +96454,7 @@
     "Height": "5'9\"",
     "Country": "US",
     "Team2024": "Okanaganhockeyacademy Penticton 19U",
-    "College": "Concordia_WI"
+    "College": "PlymouthState"
   },
   {
     "Name": "Kenzie Moore",
@@ -97512,12 +97783,15 @@
     "Highest": "U15"
   },
   {
-    "Name": "Kate Moseley",
+    "Name": "Katherine Moseley",
     "PersonKey": "moseley|katherine",
     "BirthYr": 2009,
     "Grad": 2027,
     "Position": "F",
+    "City": "Hanover",
+    "State": "NH",
     "Country": "US",
+    "School": "Kimball Union",
     "Team2026": "HoneyBaked 19U"
   },
   {
@@ -97788,6 +98062,16 @@
     "Position": "F",
     "Country": "CAN",
     "Team2024": "Clarington U15"
+  },
+  {
+    "Name": "Jovana Moy",
+    "PersonKey": "moy|jovana",
+    "Grad": 2027,
+    "Position": "D",
+    "City": "Huntington",
+    "State": "NY",
+    "Country": "US",
+    "School": "Hoosac"
   },
   {
     "Name": "Berta Mozolai",
@@ -98084,7 +98368,7 @@
     "Country": "US",
     "School": "St Pauls",
     "Team": "CPC Boston Americans",
-    "College": "Marian",
+    "College": "Plattsburgh",
     "Fresh": "U15",
     "Jr": "U1617",
     "Sr": "x",
@@ -98759,7 +99043,7 @@
     "Country": "US",
     "School": "Hill",
     "Team2025": "East Coast Valkyries 19U",
-    "College": "St. Cloud State"
+    "College": "SUNY Potsdam"
   },
   {
     "Name": "Liliana Murphy",
@@ -99019,7 +99303,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "College": "Elmira"
+    "College": "Rivier"
   },
   {
     "Name": "Ellie Muscedere",
@@ -99953,7 +100237,7 @@
     "Weight": 163,
     "Country": "US",
     "School": "Lawrenceville",
-    "College": "Lawrence",
+    "College": "Utica",
     "Jr": "x",
     "Sr": "x"
   },
@@ -100060,7 +100344,7 @@
     "Position": "D",
     "Height": "5'3\"",
     "Country": "US",
-    "College": "WisconsinEauClaire"
+    "College": "WisconsinStevensPoint"
   },
   {
     "Name": "Eva Neitenbach",
@@ -100152,6 +100436,16 @@
     "Country": "CAN",
     "Team2024": "Fraser Valley U18",
     "Team2025": "Fraser Valley U18"
+  },
+  {
+    "Name": "Hannah Nelson",
+    "PersonKey": "nelson|hannah",
+    "Grad": 2027,
+    "Position": "F/D",
+    "City": "Hope",
+    "State": "RI",
+    "Country": "US",
+    "School": "Kents Hill"
   },
   {
     "Name": "Isabella Nelson",
@@ -100521,7 +100815,7 @@
     "Country": "US",
     "Team2024": "Culver Academies 19U",
     "Team": "Team Colorado",
-    "College": "AlbertusMagnus",
+    "College": "Bowdoin",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -100740,7 +101034,7 @@
     "Grad": 2025,
     "Position": "D",
     "Country": "US",
-    "College": "Trine"
+    "College": "Marian"
   },
   {
     "Name": "Ava Newitt",
@@ -101009,7 +101303,7 @@
     "School": "Proctor Hermantown",
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite Green 19U",
-    "College": "St Norbert",
+    "College": "Augsburg",
     "Sr": "x"
   },
   {
@@ -101733,7 +102027,7 @@
     "Country": "US",
     "Team2024": "Nichols 19U",
     "Team": "Amherst Lady Knights",
-    "College": "PlymouthState",
+    "College": "Cortland",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -102139,7 +102433,7 @@
     "State": "WI",
     "Country": "US",
     "Team": "Milwaukee Junior Admirals",
-    "College": "WisconsinRiverFalls",
+    "College": "WisconsinStevensPoint",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -102560,7 +102854,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "New Jersey Ironbound 19U",
-    "College": "Rivier"
+    "College": "Oswego"
   },
   {
     "Name": "Brooklyn O’Brien",
@@ -102643,7 +102937,7 @@
     "Highest": "U1617"
   },
   {
-    "Name": "Keira O’Brien",
+    "Name": "Keira O'Brien",
     "PersonKey": "obrien|keira",
     "BirthYr": 2008,
     "DOB": "1/30/2008",
@@ -102690,7 +102984,7 @@
     "State": "IL",
     "Country": "US",
     "School": "Millbrook",
-    "College": "Trine"
+    "College": "Lawrence"
   },
   {
     "Name": "Marissa O'brien",
@@ -102726,11 +103020,15 @@
     "Name": "Ryleigh Obrien",
     "PersonKey": "obrien|ryleigh",
     "BirthYr": 2008,
+    "Grad": 2028,
     "Position": "D",
     "Height": "5'5\"",
     "Country": "US",
+    "School": "Lawrenceville",
     "Team2024": "Stoney Creek Sabres U18",
-    "Team2025": "East Coast Valkyries 19U"
+    "Team2025": "East Coast Valkyries 19U",
+    "Jr": "x",
+    "Sr": "x"
   },
   {
     "Name": "Chloe Obser",
@@ -102863,7 +103161,7 @@
     "Position": "G",
     "Height": "5'3\"",
     "Country": "CAN",
-    "College": "Curry"
+    "College": "Castleton"
   },
   {
     "Name": "Kailee Oconnor",
@@ -102876,7 +103174,7 @@
     "Country": "US",
     "Team2024": "Little Caesars 19U",
     "Team2025": "Little Caesars 19U",
-    "College": "Plattsburgh",
+    "College": "Gustavus Adolphus",
     "CCM68": "Yes"
   },
   {
@@ -102925,7 +103223,7 @@
     "School": "Portsmouth Abbey"
   },
   {
-    "Name": "Mikaylah O’Connor",
+    "Name": "Mikaylah O'Connor",
     "PersonKey": "oconnor|mikaylah",
     "Grad": 2029,
     "Position": "D",
@@ -103007,7 +103305,7 @@
     "Country": "US",
     "Team2024": "Ontario Hockey Academy U22",
     "Team2025": "NH Mountain Cats Academy 19U",
-    "College": "Potsdam"
+    "College": "Trinity"
   },
   {
     "Name": "Avery Odgers",
@@ -103071,7 +103369,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Governors",
-    "College": "Beloit"
+    "College": "ConnCollege"
   },
   {
     "Name": "Kayla O’Donnell",
@@ -103186,6 +103484,13 @@
     "Country": "CAN",
     "Team2025": "Stoney Creek Sabres U15",
     "Team2026": "Stoney Creek Sabres U15"
+  },
+  {
+    "Name": "Autumn Ogram",
+    "PersonKey": "ogram|autumn",
+    "Grad": 2030,
+    "Position": "G",
+    "School": "Mount St Charles"
   },
   {
     "Name": "Gabriella Ogunnupe",
@@ -103311,7 +103616,10 @@
     "Position": "F",
     "Height": "5'6\"",
     "Weight": 119,
-    "Country": "CAN"
+    "City": "Vancouver",
+    "State": "BC",
+    "Country": "CAN",
+    "School": "Kimball Union"
   },
   {
     "Name": "Momoka Okamura",
@@ -103369,7 +103677,7 @@
     "Country": "US",
     "Team2024": "Gilmour Academy 19U",
     "Team": "Cleveland Lady Barons",
-    "College": "Hilbert",
+    "College": "Elmira",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -103515,7 +103823,7 @@
     "Height": "5'4\"",
     "Country": "US",
     "Team2024": "NJ Colonials 19U",
-    "College": "LebanonValley"
+    "College": "Alvernia"
   },
   {
     "Name": "Juliana Oliveira",
@@ -103663,7 +103971,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Tabor",
-    "College": "Beloit",
+    "College": "ConnCollege",
     "Sr": "x"
   },
   {
@@ -103772,7 +104080,7 @@
     "Country": "US",
     "Team2024": "Anaheim 19U",
     "Team": "LA Lions",
-    "College": "Alvernia",
+    "College": "Colby",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -103840,7 +104148,7 @@
     "State": "MT",
     "Country": "US",
     "Team": "Missoula Bruins",
-    "College": "Arcadia",
+    "College": "Wesleyan",
     "Jr": "U15",
     "Highest": "U15"
   },
@@ -104279,7 +104587,7 @@
     "State": "NH",
     "Country": "US",
     "School": "Kents Hill",
-    "College": "Chatham"
+    "College": "NewEnglandCollege"
   },
   {
     "Name": "Jocelyn Orr",
@@ -105719,6 +106027,13 @@
     "School": "Portsmouth Abbey"
   },
   {
+    "Name": "Luciana Parente",
+    "PersonKey": "parente|luciana",
+    "Grad": 2030,
+    "Position": "F",
+    "School": "Mount St Charles"
+  },
+  {
     "Name": "Lakyn Parenteau",
     "PersonKey": "parenteau|lakyn",
     "BirthYr": 2013,
@@ -105999,7 +106314,7 @@
     "Position": "F",
     "Country": "US",
     "School": "Hoosac",
-    "College": "Chatham"
+    "College": "NewEnglandCollege"
   },
   {
     "Name": "Riley Parsons",
@@ -106544,7 +106859,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Worcester",
-    "College": "Trine"
+    "College": "LakeForest"
   },
   {
     "Name": "Maria Payne",
@@ -107900,7 +108215,7 @@
     "Country": "US",
     "School": "Dexter",
     "Team": "Boston Jr Eagles",
-    "College": "Beloit",
+    "College": "ConnCollege",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -108519,6 +108834,16 @@
     "Team2026": "Saugeen-Maitland U15"
   },
   {
+    "Name": "Blake Phillips",
+    "PersonKey": "phillips|blake",
+    "Grad": 2027,
+    "Position": "F",
+    "City": "Eagle River",
+    "State": "AK",
+    "Country": "US",
+    "School": "Proctor"
+  },
+  {
     "Name": "Grace Phillips",
     "PersonKey": "phillips|grace",
     "BirthYr": 2010,
@@ -108564,7 +108889,7 @@
     "Position": "G",
     "Country": "CAN",
     "Team2025": "Pacific Steelers U22",
-    "College": "StMarys"
+    "College": "BuffaloState"
   },
   {
     "Name": "Taylor Phillips",
@@ -109275,7 +109600,7 @@
     "Team2024": "Windy City Storm 19U",
     "Team2025": "Chicago Mission 19U",
     "Team": "Windy City Storm",
-    "College": "Middlebury",
+    "College": "StBenedict",
     "Jr": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -109441,7 +109766,7 @@
     "Country": "US",
     "School": "Kent",
     "Team2025": "CT Polar Bears 19U",
-    "College": "Elmira",
+    "College": "Endicott",
     "Sr": "x"
   },
   {
@@ -109618,7 +109943,7 @@
     "Country": "US",
     "School": "Culver Academies",
     "Team2024": "Culver Academies 19U",
-    "College": "Arcadia",
+    "College": "Wesleyan",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -110332,7 +110657,7 @@
     "Country": "US",
     "Team2024": "NJ Colonials 19U",
     "Team": "Aviator Hockey Club",
-    "College": "Beloit",
+    "College": "ConnCollege",
     "Jr": "U1617",
     "Highest": "U1617"
   },
@@ -110616,7 +110941,7 @@
     "Grad": 2025,
     "Position": "G",
     "Country": "CAN",
-    "College": "LakeForest"
+    "College": "StJohnFisher"
   },
   {
     "Name": "Kismet Pooni",
@@ -110777,7 +111102,7 @@
     "Height": "5'0\"",
     "Country": "US",
     "Team2025": "Lovell Academy 19U",
-    "College": "Worcester State"
+    "College": "Adrian"
   },
   {
     "Name": "Eleanor Porter",
@@ -111225,7 +111550,7 @@
     "Grad": 2025,
     "Position": "D",
     "Country": "CAN",
-    "College": "Rivier"
+    "College": "Oswego"
   },
   {
     "Name": "Katie Power",
@@ -111698,7 +112023,7 @@
     "PersonKey": "price|elle",
     "Grad": 2025,
     "School": "Greenwich CDS",
-    "College": "Hamilton"
+    "College": "AlbertusMagnus"
   },
   {
     "Name": "Julia Price",
@@ -112780,6 +113105,15 @@
     "School": "Pomfret"
   },
   {
+    "Name": "Reese Quinn",
+    "PersonKey": "quinn|reese",
+    "Grad": 2026,
+    "City": "New Canaan",
+    "State": "CT",
+    "Country": "US",
+    "School": "Greenwich Academy"
+  },
+  {
     "Name": "Sophia Quinn",
     "PersonKey": "quinn|sophia",
     "BirthYr": 2005,
@@ -113159,7 +113493,7 @@
     "Position": "D",
     "Height": "5'7\"",
     "Country": "US",
-    "College": "SouthernMaine"
+    "College": "Hamline"
   },
   {
     "Name": "Amanda Ranaudo",
@@ -113450,7 +113784,7 @@
     "Country": "US",
     "School": "Lovell Academy",
     "Team2024": "Pittsburgh Penguins Elite 16U",
-    "College": "SUNY Potsdam",
+    "College": "Univ of New England",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -113681,7 +114015,7 @@
     "Position": "G",
     "Height": "5'10\"",
     "Country": "CAN",
-    "College": "Plattsburgh"
+    "College": "Canton"
   },
   {
     "Name": "Irelyn Raynor",
@@ -113856,7 +114190,7 @@
     "Country": "US",
     "Team2024": "Ontario Hockey Academy U22",
     "Team": "Belle Tire",
-    "College": "LakeForest",
+    "College": "StJohnFisher",
     "CCM68": "Yes",
     "Fresh": "U15",
     "Sr": "x",
@@ -114016,7 +114350,7 @@
     "Weight": 154,
     "Country": "US",
     "Team2024": "New Jersey Ironbound 19U",
-    "College": "Colby",
+    "College": "Norwich",
     "Sr": "x"
   },
   {
@@ -114333,6 +114667,16 @@
     "Team2025": "Washington Pride 14U"
   },
   {
+    "Name": "Ada Reilly",
+    "PersonKey": "reilly|ada",
+    "Grad": 2029,
+    "Position": "D",
+    "City": "Stowe",
+    "State": "VT",
+    "Country": "US",
+    "School": "Kimball Union"
+  },
+  {
     "Name": "Ashley Reilly",
     "PersonKey": "reilly|ashley",
     "BirthYr": 2010,
@@ -114468,7 +114812,7 @@
     "Position": "D",
     "Country": "US",
     "Team2025": "Lovell Academy 19U",
-    "College": "AnnaMaria"
+    "College": "Concordia_WI"
   },
   {
     "Name": "Carrington Reipas",
@@ -114673,6 +115017,16 @@
     "Position": "F",
     "Country": "US",
     "Team2026": "Belle Tire 14U"
+  },
+  {
+    "Name": "Maeva Renaud",
+    "PersonKey": "renaud|maeva",
+    "Grad": 2027,
+    "Position": "G",
+    "City": "Stoneham",
+    "State": "MA",
+    "Country": "US",
+    "School": "Kimball Union"
   },
   {
     "Name": "Makinley Renda",
@@ -115045,7 +115399,7 @@
     "Country": "US",
     "School": "Gilmour Academy",
     "Team2024": "Philadelphia Jr Flyers 19U",
-    "College": "Rivier",
+    "College": "Oswego",
     "Soph": "U1617",
     "Jr": "x",
     "Sr": "x",
@@ -115312,6 +115666,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Thayer",
+    "College": "Middlebury",
     "Sr": "x"
   },
   {
@@ -115591,7 +115946,7 @@
     "City": "Lindenhurst",
     "State": "IL",
     "Country": "US",
-    "College": "Colby",
+    "College": "Norwich",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -115651,7 +116006,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Green 19U",
-    "College": "WilliamSmith",
+    "College": "WisconsinRiverFalls",
     "Sr": "U1617",
     "Highest": "U1617"
   },
@@ -116122,7 +116477,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Brewster",
-    "College": "Hobart & William Smith"
+    "College": "Johnson & Wales"
   },
   {
     "Name": "Olivia Rizzitello",
@@ -116173,8 +116528,10 @@
     "BirthYr": 2011,
     "Grad": 2030,
     "Position": "F",
+    "City": "West Roxbury",
     "State": "MA",
     "Country": "US",
+    "School": "Newton CDS",
     "Team2025": "NAHA 14U",
     "Sr": "x"
   },
@@ -116225,7 +116582,7 @@
     "Country": "US",
     "Team2024": "Ontario Hockey Academy U22",
     "Team": "Washington Pride",
-    "College": "Concordia_WI",
+    "College": "PlymouthState",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -116237,7 +116594,7 @@
     "State": "NY",
     "Country": "US",
     "School": "Millbrook",
-    "College": "Chatham"
+    "College": "Endicott"
   },
   {
     "Name": "Carissa Roberto",
@@ -116911,6 +117268,16 @@
     "Sr": "x"
   },
   {
+    "Name": "Sofia Rodriguez",
+    "PersonKey": "rodriguez|sofia",
+    "Grad": 2027,
+    "Position": "F",
+    "City": "Montreal",
+    "State": "QC",
+    "Country": "CAN",
+    "School": "Hoosac"
+  },
+  {
     "Name": "Uriah Rodriguez",
     "PersonKey": "rodriguez|uriah",
     "BirthYr": 2008,
@@ -116962,7 +117329,7 @@
     "Position": "D",
     "Height": "5'4\"",
     "Country": "CAN",
-    "College": "Plattsburgh"
+    "College": "Canton"
   },
   {
     "Name": "Parker Roenick",
@@ -117370,7 +117737,7 @@
     "State": "NY",
     "Country": "US",
     "School": "Hill",
-    "College": "Stevenson"
+    "College": "StOlaf"
   },
   {
     "Name": "Avery Ronberg",
@@ -117669,7 +118036,7 @@
     "State": "ME",
     "Country": "US",
     "School": "Kents Hill",
-    "College": "Amherst",
+    "College": "Castleton",
     "Sr": "x"
   },
   {
@@ -117823,7 +118190,7 @@
     "School": "Choate",
     "Team2024": "FL Alliance 19U",
     "Team": "Carolina Junior Hurricanes",
-    "College": "StNorbert",
+    "College": "Aurora",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -117916,7 +118283,7 @@
     "Position": "F",
     "Height": "5'9\"",
     "Country": "US",
-    "College": "SouthernMaine"
+    "College": "Hamline"
   },
   {
     "Name": "Susan Rotherham",
@@ -118014,7 +118381,10 @@
     "PersonKey": "rousseau|caroline",
     "Grad": 2028,
     "Position": "D",
+    "City": "Falmouth",
+    "State": "ME",
     "Country": "US",
+    "School": "Hill",
     "Team2026": "Midfairfield CT Stars 19U"
   },
   {
@@ -118264,7 +118634,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2025": "North Halton U15",
-    "College": "Canton"
+    "College": "UnivNewEngland"
   },
   {
     "Name": "Sydney Roy",
@@ -118862,7 +119232,7 @@
     "State": "VT",
     "Country": "US",
     "School": "Rice Memorial",
-    "College": "Neumann",
+    "College": "Norwich",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -119096,6 +119466,16 @@
     "Highest": "U1617"
   },
   {
+    "Name": "Maeve Ryan",
+    "PersonKey": "ryan|maeve",
+    "Grad": 2029,
+    "Position": "F",
+    "City": "Newton",
+    "State": "MA",
+    "Country": "US",
+    "School": "Newton CDS"
+  },
+  {
     "Name": "Ruby Ryan",
     "PersonKey": "ryan|ruby",
     "BirthYr": 2006,
@@ -119142,7 +119522,7 @@
     "Position": "D",
     "Country": "US",
     "Team2024": "Little Caesars 19U",
-    "College": "LebanonValley"
+    "College": "Utica"
   },
   {
     "Name": "Laila Rybinski",
@@ -119291,7 +119671,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "NH Mountain Cats Academy 19U",
-    "College": "RogerWilliams"
+    "College": "SalveRegina"
   },
   {
     "Name": "Lily Sabol",
@@ -119765,7 +120145,7 @@
     "Country": "US",
     "School": "Canterbury",
     "Team": "Massconn United",
-    "College": "Colby",
+    "College": "Elmira",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -120107,7 +120487,7 @@
     "Country": "US",
     "School": "Warroad HS",
     "Team2024": "MN Northern Elite 19U",
-    "College": "StBenedict",
+    "College": "Hamline",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -120600,7 +120980,7 @@
     "Position": "D",
     "Country": "US",
     "Team2024": "FL Alliance 19U",
-    "College": "Manhattanville"
+    "College": "Hood"
   },
   {
     "Name": "Victoria Savage",
@@ -120636,6 +121016,16 @@
     "Grad": 2024,
     "Position": "D",
     "Country": "CAN"
+  },
+  {
+    "Name": "Elsia Savastano",
+    "PersonKey": "savastano|elsia",
+    "Grad": 2028,
+    "Position": "F",
+    "City": "Dartmouth",
+    "State": "MA",
+    "Country": "US",
+    "School": "Kents Hill"
   },
   {
     "Name": "Addison Savidge",
@@ -120767,6 +121157,14 @@
     "Team2026": "Brampton Jr Canadettes U22"
   },
   {
+    "Name": "Serri Saypol",
+    "PersonKey": "saypol|serri",
+    "Grad": 2030,
+    "Position": "F",
+    "City": "Greenwich",
+    "School": "Greenwich Academy"
+  },
+  {
     "Name": "Genevieve Sbrocca",
     "PersonKey": "sbrocca|genevieve",
     "BirthYr": 2006,
@@ -120780,7 +121178,7 @@
     "Country": "US",
     "School": "Hill",
     "Team": "Dallas Stars",
-    "College": "PlymouthState",
+    "College": "Cortland",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -120961,7 +121359,7 @@
     "State": "ME",
     "Country": "US",
     "School": "Berwick",
-    "College": "Nazareth"
+    "College": "Rivier"
   },
   {
     "Name": "Abigail Scharath",
@@ -121394,7 +121792,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Navy 19U",
-    "College": "WilliamSmith"
+    "College": "WisconsinEauClaire"
   },
   {
     "Name": "Clara Schmitt",
@@ -121753,7 +122151,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "The Winchendon School Prep 19U",
-    "College": "Middlebury",
+    "College": "St John Fisher",
     "CCM68": "Yes"
   },
   {
@@ -121879,7 +122277,7 @@
     "Country": "US",
     "Team2024": "Gilmour Academy 19U",
     "Team2025": "Gilmour Lancers Prep 19U",
-    "College": "Gustavus Adolphus"
+    "College": "SUNY Plattsburgh"
   },
   {
     "Name": "Kylie Schultz",
@@ -122814,7 +123212,7 @@
     "Country": "US",
     "Team2025": "NH Mountain Cats Academy 19U",
     "Team": "Knightriders",
-    "College": "Dubuque",
+    "College": "Elmira",
     "Jr": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -122834,9 +123232,11 @@
     "PersonKey": "seehafer|nikkee",
     "BirthYr": 2011,
     "DOB": "5/20/2011",
+    "Grad": 2029,
     "Position": "G",
     "Height": "5'8\"",
     "Country": "US",
+    "School": "Lawrenceville",
     "Team2025": "East Coast Valkyries 16U"
   },
   {
@@ -122941,7 +123341,7 @@
     "Country": "US",
     "School": "Hastings HS",
     "Team2024": "MN Elite Navy 19U",
-    "College": "WilliamSmith",
+    "College": "WisconsinRiverFalls",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -123257,7 +123657,7 @@
     "Height": "5'5\"",
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
-    "College": "Concordia_WI"
+    "College": "PlymouthState"
   },
   {
     "Name": "Yildir Serra",
@@ -123941,7 +124341,7 @@
     "School": "Tabor",
     "Team2024": "Spitfires 19U",
     "Team2025": "Spitfires 19U",
-    "College": "Bowdoin",
+    "College": "Colby",
     "Sr": "x"
   },
   {
@@ -124103,7 +124503,7 @@
     "Weight": 130,
     "Country": "US",
     "Team2024": "NJ Colonials 19U",
-    "College": "UMassBoston"
+    "College": "MilwaukeeSOE"
   },
   {
     "Name": "Reese Sheehan",
@@ -124932,7 +125332,7 @@
     "State": "CA",
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
-    "College": "Keene",
+    "College": "Nazareth",
     "CCM68": "Yes"
   },
   {
@@ -125032,7 +125432,7 @@
     "Country": "US",
     "Team2024": "Little Caesars 19U",
     "Team": "Little Caesars",
-    "College": "Rivier",
+    "College": "Oswego",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -125790,7 +126190,7 @@
     "State": "IL",
     "Country": "US",
     "Team2024": "Windy City Storm 19U",
-    "College": "StJohnFisher",
+    "College": "StBenedict",
     "CCM68": "Yes",
     "Sr": "x"
   },
@@ -126289,7 +126689,7 @@
     "State": "NY",
     "Country": "US",
     "School": "Frederick Gunn",
-    "College": "LebanonValley",
+    "College": "Arcadia",
     "Sr": "x"
   },
   {
@@ -126343,7 +126743,7 @@
     "School": "Hill",
     "Team2025": "East Coast Valkyries 19U",
     "Team": "Arizona Kachinas",
-    "College": "SUNY Potsdam",
+    "College": "Trinity",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -127015,7 +127415,7 @@
     "State": "NY",
     "Country": "US",
     "Team2025": "Skaneateles 14U",
-    "College": "Utica",
+    "College": "StNorbert",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -127034,7 +127434,7 @@
     "Country": "US",
     "School": "Northwood School",
     "Team": "Northwood Prep",
-    "College": "Hamline",
+    "College": "Elmira",
     "Jr": "U1617",
     "Sr": "x",
     "Highest": "U1617"
@@ -127066,7 +127466,12 @@
   {
     "Name": "Jillian Smith",
     "PersonKey": "smith|jillian",
+    "Grad": 2026,
+    "Position": "F",
+    "City": "Long Valley",
+    "State": "NJ",
     "Country": "US",
+    "School": "Hill",
     "Team2024": "CT Polar Bears 19U",
     "Team2025": "CT Polar Bears 19U",
     "College": "Middlebury"
@@ -127495,7 +127900,7 @@
     "Grad": 2025,
     "Position": "F",
     "Country": "CAN",
-    "College": "Potsdam"
+    "College": "Morrisville"
   },
   {
     "Name": "Sydney Smith",
@@ -127646,7 +128051,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Green 19U",
-    "College": "WisconsinEauClaire"
+    "College": "WisconsinRiverFalls"
   },
   {
     "Name": "Addalynn Snell",
@@ -127727,7 +128132,7 @@
     "State": "IL",
     "Country": "US",
     "School": "Hotchkiss",
-    "College": "Arcadia",
+    "College": "Hamilton",
     "CCM68": "Yes"
   },
   {
@@ -128218,7 +128623,7 @@
     "Position": "D",
     "Country": "CAN",
     "Team2024": "Limoilou U22",
-    "College": "Marian"
+    "College": "Kings"
   },
   {
     "Name": "Claire Sommerfeld",
@@ -128811,7 +129216,7 @@
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "College": "Castleton"
+    "College": "Keene"
   },
   {
     "Name": "Sophie Spisak",
@@ -128936,7 +129341,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Kimball Union",
-    "College": "SUNY Plattsburgh",
+    "College": "Trinity",
     "Sr": "x"
   },
   {
@@ -129951,7 +130356,7 @@
     "Position": "D",
     "Country": "US",
     "Team2025": "Utah Lady Grizzlies 19U",
-    "College": "Chatham"
+    "College": "Curry"
   },
   {
     "Name": "Sarah Steinbacher",
@@ -130480,7 +130885,7 @@
     "Height": "5'6\"",
     "Country": "US",
     "Team2024": "Nichols 19U",
-    "College": "Kings"
+    "College": "StJohnFisher"
   },
   {
     "Name": "Claire Stewart",
@@ -131009,7 +131414,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Northwood School 19U",
-    "College": "Plattsburgh"
+    "College": "Canton"
   },
   {
     "Name": "Rilyn Stolz",
@@ -131803,7 +132208,7 @@
     "Country": "US",
     "Team2024": "Little Caesars 19U",
     "Team": "Little Caesars",
-    "College": "StMarys",
+    "College": "Adrian",
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
@@ -132073,7 +132478,7 @@
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
     "Team2025": "Pittsburgh Penguins Elite 19U",
-    "College": "Adrian",
+    "College": "Saint Mary’s",
     "Sr": "x"
   },
   {
@@ -132091,7 +132496,7 @@
     "State": "NH",
     "Country": "US",
     "School": "Vermont Academy",
-    "College": "JohnsonWales"
+    "College": "Manhattanville"
   },
   {
     "Name": "Kaitlin Sullivan",
@@ -132908,7 +133313,7 @@
     "School": "Choate",
     "Team2024": "CT Polar Bears 19U",
     "Team2025": "CT Polar Bears 19U",
-    "College": "Wesleyan",
+    "College": "Williams",
     "Jr": "x",
     "Sr": "x"
   },
@@ -133578,7 +133983,7 @@
     "Height": "5'3\"",
     "Country": "US",
     "Team2024": "Dallas 19U",
-    "College": "Stevenson"
+    "College": "StMarys"
   },
   {
     "Name": "Kathya Talbot",
@@ -135276,7 +135681,7 @@
     "State": "OH",
     "Country": "US",
     "School": "New Hampton",
-    "College": "Aurora",
+    "College": "Middlebury",
     "Jr": "x",
     "Sr": "x"
   },
@@ -135745,7 +136150,7 @@
     "Position": "F",
     "Country": "CAN",
     "Team2024": "Ontario Hockey Academy U22",
-    "College": "Hamline"
+    "College": "Elmira"
   },
   {
     "Name": "Serafina Thompson",
@@ -135956,7 +136361,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Green 19U",
-    "College": "Williams",
+    "College": "WisconsinEauClaire",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -136511,7 +136916,7 @@
     "Grad": 2025,
     "Position": "G",
     "Country": "CAN",
-    "College": "Norwich"
+    "College": "BuffaloState"
   },
   {
     "Name": "Anna Toering",
@@ -136546,7 +136951,7 @@
     "State": "NY",
     "Country": "US",
     "School": "Frederick Gunn",
-    "College": "Oswego"
+    "College": "WilliamSmith"
   },
   {
     "Name": "Sofia Toffolon",
@@ -136630,7 +137035,7 @@
     "Position": "D",
     "Country": "US",
     "Team2024": "FL Alliance 19U",
-    "College": "Hamline"
+    "College": "Elmira"
   },
   {
     "Name": "Alexandra Tombaugh",
@@ -136783,7 +137188,7 @@
     "Position": "D",
     "Height": "5'6\"",
     "Country": "CAN",
-    "College": "Trine"
+    "College": "Lawrence"
   },
   {
     "Name": "Lilah Torberg",
@@ -137418,6 +137823,14 @@
     "Highest": "ONcamp"
   },
   {
+    "Name": "Marguerite Triggiani",
+    "PersonKey": "triggiani|marguerite",
+    "Grad": 2030,
+    "Position": "G",
+    "City": "Greenwich",
+    "School": "Greenwich Academy"
+  },
+  {
     "Name": "Kellen Trimberger",
     "PersonKey": "trimberger|kellen",
     "BirthYr": 2011,
@@ -137803,7 +138216,7 @@
     "Position": "D",
     "Height": "5'8\"",
     "Country": "CAN",
-    "College": "Elmira"
+    "College": "Rivier"
   },
   {
     "Name": "Lawlis Tudor",
@@ -138020,7 +138433,7 @@
     "Weight": 130,
     "Country": "US",
     "Team2024": "Team Illinois 19U",
-    "College": "LakeForest"
+    "College": "StJohnFisher"
   },
   {
     "Name": "Rachel Turer",
@@ -138401,6 +138814,7 @@
     "City": "Frisco",
     "State": "CO",
     "Country": "US",
+    "School": "Hill",
     "Team2025": "East Coast Valkyries 19U",
     "Team": "Team Colorado",
     "Soph": "U15",
@@ -139289,7 +139703,7 @@
     "Position": "D",
     "Country": "CAN",
     "Team2026": "Nepean Wildcats U15",
-    "College": "BuffaloState"
+    "College": "UnivNewEngland"
   },
   {
     "Name": "Adiah VanEngen",
@@ -139876,7 +140290,7 @@
     "Height": "5'7\"",
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
-    "College": "StOlaf"
+    "College": "Concordia_WI"
   },
   {
     "Name": "Lucie Velinska",
@@ -140199,7 +140613,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Utah Lady Grizzlies 19U",
-    "College": "Norwich"
+    "College": "RogerWilliams"
   },
   {
     "Name": "Jacqueline Vesel",
@@ -140232,7 +140646,7 @@
     "State": "MN",
     "Country": "US",
     "Team2024": "MN Elite Navy 19U",
-    "College": "StJohnFisher"
+    "College": "StBenedict"
   },
   {
     "Name": "Chloe Vetter",
@@ -140669,6 +141083,14 @@
     "Team2026": "Northern Selects U18"
   },
   {
+    "Name": "Marina Vintiadis",
+    "PersonKey": "vintiadis|marina",
+    "Grad": 2029,
+    "Position": "F",
+    "City": "Greenwich",
+    "School": "Greenwich Academy"
+  },
+  {
     "Name": "Malea Viola",
     "PersonKey": "viola|malea",
     "BirthYr": 2008,
@@ -140747,7 +141169,7 @@
     "Team2024": "Pittsburgh Penguins Elite 16U",
     "Team2025": "Pittsburgh Penguins Elite 19U",
     "Team": "LA Lions",
-    "College": "Williams",
+    "College": "Franklin Pierce",
     "CCM68": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -140776,7 +141198,7 @@
     "Position": "F",
     "Country": "US",
     "Team2024": "Philadelphia Jr Flyers 19U",
-    "College": "Lawrence"
+    "College": "Utica"
   },
   {
     "Name": "Maddison Vitali",
@@ -141834,7 +142256,7 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "NH Mountain Cats Academy 19U",
-    "College": "Middlebury"
+    "College": "SUNY Potsdam"
   },
   {
     "Name": "Emma Walsh",
@@ -141999,7 +142421,7 @@
     "Country": "US",
     "School": "New Hampton",
     "Team": "New Hampton Huskies",
-    "College": "Beloit",
+    "College": "Middlebury",
     "CCM68": "Yes",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -142225,7 +142647,7 @@
     "Height": "5'5\"",
     "Country": "US",
     "Team2024": "Dallas 19U",
-    "College": "Augsburg"
+    "College": "Wesleyan"
   },
   {
     "Name": "Elizabeth Ward",
@@ -142348,7 +142770,7 @@
     "School": "Milton",
     "Team2024": "Spitfires 19U",
     "Team": "Spitfires",
-    "College": "Aurora",
+    "College": "Middlebury",
     "Soph": "U15",
     "Sr": "U1617",
     "Highest": "U1617"
@@ -143590,7 +144012,7 @@
     "Country": "US",
     "Team2024": "New Jersey Ironbound 19U",
     "Team": "Newark Ironbound",
-    "College": "Beloit",
+    "College": "Middlebury",
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
@@ -143804,7 +144226,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Pomfret",
-    "College": "Williams"
+    "College": "Worcester State"
   },
   {
     "Name": "Deanna Weller",
@@ -144300,6 +144722,16 @@
     "Sr": "x"
   },
   {
+    "Name": "Alana Wheeler",
+    "PersonKey": "wheeler|alana",
+    "Grad": 2028,
+    "Position": "G",
+    "City": "Litchfield",
+    "State": "ME",
+    "Country": "US",
+    "School": "Kents Hill"
+  },
+  {
     "Name": "Charlotte Wheeler",
     "PersonKey": "wheeler|charlotte",
     "BirthYr": 2010,
@@ -144592,7 +145024,7 @@
     "State": "ME",
     "Country": "US",
     "School": "Milton",
-    "College": "Adrian"
+    "College": "Williams"
   },
   {
     "Name": "Rylee White",
@@ -144720,7 +145152,7 @@
     "Grad": 2025,
     "Position": "F",
     "Country": "CAN",
-    "College": "SalveRegina"
+    "College": "Potsdam"
   },
   {
     "Name": "Jordin Whiteye",
@@ -145085,7 +145517,7 @@
     "State": "NY",
     "Country": "US",
     "School": "Deerfield",
-    "College": "Lake Forest"
+    "College": "Middlebury"
   },
   {
     "Name": "Peyton Wierl",
@@ -145212,7 +145644,7 @@
     "Position": "D",
     "Country": "US",
     "Team2024": "Gilmour Academy 19U",
-    "College": "Colby"
+    "College": "PlymouthState"
   },
   {
     "Name": "Chloe Wight",
@@ -146373,7 +146805,7 @@
     "Height": "5'3\"",
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
-    "College": "LakeForest",
+    "College": "StJohnFisher",
     "Sr": "x"
   },
   {
@@ -146776,7 +147208,7 @@
     "Team2024": "Chicago Mission 19U",
     "Team2025": "Chicago Mission 19U",
     "Team": "Chicago Mission",
-    "College": "Bowdoin",
+    "College": "Middlebury",
     "CCM68": "Yes",
     "Fresh": "U15",
     "Soph": "U1617",
@@ -147490,7 +147922,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Cushing",
-    "College": "Bowdoin"
+    "College": "Endicott"
   },
   {
     "Name": "Josslyn Woods",
@@ -147735,7 +148167,7 @@
     "State": "MA",
     "Country": "US",
     "School": "Exeter",
-    "College": "Canton"
+    "College": "Bowdoin"
   },
   {
     "Name": "Elisha Wright",
@@ -148394,7 +148826,7 @@
     "State": "MAN",
     "Country": "CAN",
     "Team": "Balmoral Hall",
-    "College": "Hamilton",
+    "College": "AlbertusMagnus",
     "Sr": "TmMB",
     "Highest": "TmMB"
   },
@@ -149214,7 +149646,7 @@
     "Height": "5'5\"",
     "Country": "US",
     "Team2024": "FL Alliance 19U",
-    "College": "StScholastica"
+    "College": "LakeForest"
   },
   {
     "Name": "Bianca Zerr",
