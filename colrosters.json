@@ -63404,6 +63404,284 @@
         "sh": "L",
         "prevSchool": "Madison Capitols"
       }
+    ],
+    "Union": [
+      {
+        "name": "Ava Romanow",
+        "pk": "romanow|ava",
+        "y": "Fr",
+        "pos": "G",
+        "ht": "5-7",
+        "home": "Lacombe",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "1"
+      },
+      {
+        "name": "Evie Hanson",
+        "pk": "hanson|evie",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-10",
+        "home": "Calgary",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "3"
+      },
+      {
+        "name": "Quinn Dunkle",
+        "pk": "dunkle|quinn",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-10",
+        "home": "Cedar Rapids",
+        "st": "IA",
+        "ctry": "US",
+        "no": "5"
+      },
+      {
+        "name": "Megan Ognibene",
+        "pk": "ognibene|megan",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-4",
+        "home": "West Berlin",
+        "st": "VT",
+        "ctry": "US",
+        "no": "6"
+      },
+      {
+        "name": "Giavanna Mancy",
+        "pk": "mancy|giavanna",
+        "y": "Jr",
+        "pos": "D",
+        "ht": "5-9",
+        "home": "Toledo",
+        "st": "OH",
+        "ctry": "US",
+        "no": "7"
+      },
+      {
+        "name": "Madison Macaulay",
+        "pk": "macaulay|madison",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-4",
+        "home": "Queensbury",
+        "st": "NY",
+        "ctry": "US",
+        "no": "8",
+        "prevSchool": "Saint Anselm"
+      },
+      {
+        "name": "Lily Leckelt",
+        "pk": "leckelt|lillian",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-8",
+        "home": "Sherwood Park",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "10"
+      },
+      {
+        "name": "Hayley Kelleher",
+        "pk": "kelleher|hayley",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Natick",
+        "st": "MA",
+        "ctry": "US",
+        "no": "11"
+      },
+      {
+        "name": "Lily Oster",
+        "pk": "oster|lillian",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-6",
+        "home": "Calgary",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "12"
+      },
+      {
+        "name": "Peyton O'Neill",
+        "pk": "oneill|peyton",
+        "y": "Jr",
+        "pos": "D",
+        "ht": "5-6",
+        "home": "Hinsdale",
+        "st": "IL",
+        "ctry": "US",
+        "no": "13"
+      },
+      {
+        "name": "Emma Fulawka",
+        "pk": "fulawka|emma",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Stouffville",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "16"
+      },
+      {
+        "name": "Karianne Engelbert",
+        "pk": "engelbert|karianne",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-10",
+        "home": "Whitby",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "17"
+      },
+      {
+        "name": "Maddie Leaney",
+        "pk": "leaney|maddie",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Maple Ridge",
+        "st": "BC",
+        "ctry": "Canada",
+        "no": "19"
+      },
+      {
+        "name": "Klara Kenttala",
+        "pk": "kenttala|klara",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-7",
+        "home": "Stockholm",
+        "st": "Sweden",
+        "ctry": "Europe",
+        "no": "21"
+      },
+      {
+        "name": "Madi Gaines",
+        "pk": "gaines|madison",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Frankfort",
+        "st": "IL",
+        "ctry": "US",
+        "no": "22"
+      },
+      {
+        "name": "Kaitlyn Toner",
+        "pk": "toner|kaitlyn",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-10",
+        "home": "Aurora",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "23"
+      },
+      {
+        "name": "Megan Duplantie",
+        "pk": "duplantie|megan",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Laval",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "24"
+      },
+      {
+        "name": "Isabel Powers",
+        "pk": "powers|isabel",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-5",
+        "home": "Scottsdale",
+        "st": "AZ",
+        "ctry": "US",
+        "no": "25"
+      },
+      {
+        "name": "Monja Wagner",
+        "pk": "wagner|monja",
+        "y": "Sr",
+        "pos": "G",
+        "ht": "5-5",
+        "home": "Romanshorn",
+        "st": "Switzerland",
+        "ctry": "Europe",
+        "no": "29"
+      },
+      {
+        "name": "Sara Da Silva",
+        "pk": "dasilva|sara",
+        "y": "Jr",
+        "pos": "G",
+        "ht": "5-4",
+        "home": "Toronto",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "30"
+      },
+      {
+        "name": "Emma Rheaume",
+        "pk": "rheaume|emma",
+        "y": "So",
+        "pos": "G",
+        "ht": "5-7",
+        "home": "Neuville",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "35"
+      },
+      {
+        "name": "Reanna Loberg",
+        "pk": "loberg|reanna",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-8",
+        "home": "Grande Prairie",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "41"
+      },
+      {
+        "name": "Ella Skotty",
+        "pk": "skotty|ella",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-7",
+        "home": "Elmhurst",
+        "st": "IL",
+        "ctry": "US",
+        "no": "61"
+      },
+      {
+        "name": "Jill Willis",
+        "pk": "willis|jillian",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-2",
+        "home": "South Glens Falls",
+        "st": "NY",
+        "ctry": "US",
+        "no": "91"
+      },
+      {
+        "name": "Natalie Andelova",
+        "pk": "andelova|natalie",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Laveen Village",
+        "st": "AZ",
+        "ctry": "US",
+        "no": "92"
+      }
     ]
   }
 }
