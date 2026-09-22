@@ -1,0 +1,966 @@
+{
+  "aliases": [
+    {
+      "alias": "abby",
+      "canon": "abigail"
+    },
+    {
+      "alias": "abbie",
+      "canon": "abigail"
+    },
+    {
+      "alias": "addy",
+      "canon": "addison"
+    },
+    {
+      "alias": "alex",
+      "canon": "alexandra"
+    },
+    {
+      "alias": "allie",
+      "canon": "allison"
+    },
+    {
+      "alias": "ally",
+      "canon": "allison"
+    },
+    {
+      "alias": "mandy",
+      "canon": "amanda"
+    },
+    {
+      "alias": "bella",
+      "canon": "anabella"
+    },
+    {
+      "alias": "addie",
+      "canon": "addison"
+    },
+    {
+      "alias": "annie",
+      "canon": "anne"
+    },
+    {
+      "alias": "belle",
+      "canon": "annabelle"
+    },
+    {
+      "alias": "ceci",
+      "canon": "cecilia"
+    },
+    {
+      "alias": "charlie",
+      "canon": "charlotte"
+    },
+    {
+      "alias": "dani",
+      "canon": "danielle"
+    },
+    {
+      "alias": "ellie",
+      "canon": "eleanor"
+    },
+    {
+      "alias": "liz",
+      "canon": "elizabeth"
+    },
+    {
+      "alias": "lizzy",
+      "canon": "elizabeth"
+    },
+    {
+      "alias": "beth",
+      "canon": "elizabeth"
+    },
+    {
+      "alias": "betsy",
+      "canon": "elizabeth"
+    },
+    {
+      "alias": "eliza",
+      "canon": "elizabeth"
+    },
+    {
+      "alias": "libby",
+      "canon": "elizabeth"
+    },
+    {
+      "alias": "emi",
+      "canon": "emilia"
+    },
+    {
+      "alias": "emmy",
+      "canon": "emily"
+    },
+    {
+      "alias": "frankie",
+      "canon": "francesca"
+    },
+    {
+      "alias": "gabby",
+      "canon": "gabriella"
+    },
+    {
+      "alias": "gabi",
+      "canon": "gabriella"
+    },
+    {
+      "alias": "izzy",
+      "canon": "isabella"
+    },
+    {
+      "alias": "jackie",
+      "canon": "jacqueline"
+    },
+    {
+      "alias": "jen",
+      "canon": "jennifer"
+    },
+    {
+      "alias": "jenny",
+      "canon": "jennifer"
+    },
+    {
+      "alias": "jenna",
+      "canon": "jennifer"
+    },
+    {
+      "alias": "jess",
+      "canon": "jessica"
+    },
+    {
+      "alias": "jessie",
+      "canon": "jessica"
+    },
+    {
+      "alias": "josie",
+      "canon": "josephine"
+    },
+    {
+      "alias": "kate",
+      "canon": "katherine"
+    },
+    {
+      "alias": "katie",
+      "canon": "katherine"
+    },
+    {
+      "alias": "kathy",
+      "canon": "katherine"
+    },
+    {
+      "alias": "kat",
+      "canon": "katherine"
+    },
+    {
+      "alias": "maddy",
+      "canon": "madeline"
+    },
+    {
+      "alias": "maddie",
+      "canon": "madelyn"
+    },
+    {
+      "alias": "maggie",
+      "canon": "margaret"
+    },
+    {
+      "alias": "meg",
+      "canon": "margaret"
+    },
+    {
+      "alias": "marge",
+      "canon": "margaret"
+    },
+    {
+      "alias": "mel",
+      "canon": "melissa"
+    },
+    {
+      "alias": "mikey",
+      "canon": "michaelina"
+    },
+    {
+      "alias": "nat",
+      "canon": "natalie"
+    },
+    {
+      "alias": "nattie",
+      "canon": "natalie"
+    },
+    {
+      "alias": "liv",
+      "canon": "olivia"
+    },
+    {
+      "alias": "livvy",
+      "canon": "olivia"
+    },
+    {
+      "alias": "patty",
+      "canon": "patricia"
+    },
+    {
+      "alias": "trish",
+      "canon": "patricia"
+    },
+    {
+      "alias": "tricia",
+      "canon": "patricia"
+    },
+    {
+      "alias": "becca",
+      "canon": "rebecca"
+    },
+    {
+      "alias": "becky",
+      "canon": "rebecca"
+    },
+    {
+      "alias": "sam",
+      "canon": "samantha"
+    },
+    {
+      "alias": "sammie",
+      "canon": "samantha"
+    },
+    {
+      "alias": "sav",
+      "canon": "savannah"
+    },
+    {
+      "alias": "sophie",
+      "canon": "sophia"
+    },
+    {
+      "alias": "steph",
+      "canon": "stephanie"
+    },
+    {
+      "alias": "tess",
+      "canon": "theresa"
+    },
+    {
+      "alias": "tessa",
+      "canon": "theresa"
+    },
+    {
+      "alias": "vicky",
+      "canon": "victoria"
+    },
+    {
+      "alias": "tori",
+      "canon": "victoria"
+    },
+    {
+      "alias": "vivi",
+      "canon": "viviana"
+    },
+    {
+      "alias": "sammy",
+      "canon": "samantha"
+    },
+    {
+      "alias": "jill",
+      "canon": "jillian"
+    },
+    {
+      "alias": "isa",
+      "canon": "isabella"
+    },
+    {
+      "alias": "gwyn",
+      "canon": "gwyneth"
+    },
+    {
+      "alias": "genny",
+      "canon": "genevieve"
+    },
+    {
+      "alias": "stella",
+      "canon": "estella"
+    },
+    {
+      "alias": "cassie",
+      "canon": "cassandra"
+    },
+    {
+      "alias": "sami",
+      "canon": "samantha"
+    },
+    {
+      "alias": "jamie",
+      "canon": "jamison"
+    },
+    {
+      "alias": "gwynn",
+      "canon": "gwyneth"
+    },
+    {
+      "alias": "addie",
+      "canon": "addison"
+    },
+    {
+      "alias": "janie",
+      "canon": "jane"
+    },
+    {
+      "alias": "lily",
+      "canon": "lillian"
+    },
+    {
+      "alias": "hanyu",
+      "canon": "rachel"
+    }
+  ],
+  "overrides": [
+    {
+      "from": "loring|abigail",
+      "to": "loring|abigale"
+    },
+    {
+      "from": "mara|lexi",
+      "to": "mara|alexis"
+    },
+    {
+      "from": "fanale|bella",
+      "to": "fanale|anabella"
+    },
+    {
+      "from": "monko|kat",
+      "to": "monko|kathryne"
+    },
+    {
+      "from": "lopuanov|nela",
+      "to": "lopusanova|nela"
+    },
+    {
+      "from": "boudreau|maëlie",
+      "to": "boudreau|maelie"
+    },
+    {
+      "from": "laforge|maélie",
+      "to": "laforge|maelie"
+    },
+    {
+      "from": "pion|maélie",
+      "to": "pion|maelie"
+    },
+    {
+      "from": "blanger|eva",
+      "to": "belanger|eva"
+    },
+    {
+      "from": "mele|anabella",
+      "to": "mele|isabella"
+    },
+    {
+      "from": "fanale|isabella",
+      "to": "fanale|anabella"
+    },
+    {
+      "from": "simmons|eleanor",
+      "to": "simmons|elizabeth"
+    },
+    {
+      "from": "morrison|eleanor",
+      "to": "morrison|elizabeth"
+    },
+    {
+      "from": "alvarez|addie",
+      "to": "alvarez|adelena"
+    },
+    {
+      "from": "franco|allison",
+      "to": "franco|alejandra"
+    },
+    {
+      "from": "lalonde|allison",
+      "to": "lalonde|alexandra"
+    },
+    {
+      "from": "kim|gabriella",
+      "to": "kim|gabrielle"
+    },
+    {
+      "from": "vasseur|anabella",
+      "to": "vasseur|isabella"
+    },
+    {
+      "from": "desa|katherine",
+      "to": "desa|katelyn"
+    },
+    {
+      "from": "bielenberghowarth|kennedi",
+      "to": "beilenberghowarth|kennedi"
+    },
+    {
+      "from": "thompson|aizah",
+      "to": "thompson|aizah-roze"
+    },
+    {
+      "from": "kirkeby|alexi",
+      "to": "kirkeby|alexis"
+    },
+    {
+      "from": "mcillmurray|ava",
+      "to": "mclllmurray|ava"
+    },
+    {
+      "from": "bell|cami",
+      "to": "bell|camryn"
+    },
+    {
+      "from": "cerruti|cali",
+      "to": "cerruti|caroline"
+    },
+    {
+      "from": "sajevic|cara",
+      "to": "sajevic|caroline"
+    },
+    {
+      "from": "goettl|isabella",
+      "to": "goettl|isabelle"
+    },
+    {
+      "from": "laskowski|amy",
+      "to": "laskowski|amelia"
+    },
+    {
+      "from": "carroll|shae",
+      "to": "carroll|shaelyn"
+    },
+    {
+      "from": "williams|kitty",
+      "to": "williams|catherine"
+    },
+    {
+      "from": "stephes|isabella",
+      "to": "stephes|isabelle"
+    },
+    {
+      "from": "griswold|jaime",
+      "to": "griswold|jamison"
+    },
+    {
+      "from": "hunst|lilly",
+      "to": "hunst|lillian"
+    },
+    {
+      "from": "pion|maa©lie",
+      "to": "pion|maelie"
+    },
+    {
+      "from": "labba|julianne",
+      "to": "labbe|julianne"
+    },
+    {
+      "from": "apovalivova|ada©la",
+      "to": "sapovalivova|adela"
+    },
+    {
+      "from": "bibeau|madelyn",
+      "to": "bibeau|madison"
+    },
+    {
+      "from": "lalonde|gabrielle",
+      "to": "lalonde|gabriella"
+    },
+    {
+      "from": "jeanneullmann|sidney",
+      "to": "ullmann|sidney"
+    },
+    {
+      "from": "gervaisbeauchamp|emma",
+      "to": "beauchamp|emma"
+    },
+    {
+      "from": "nelson|madison",
+      "to": "nelson|madeline"
+    },
+    {
+      "from": "lolacher|berlin",
+      "to": "lolachler|berlin"
+    },
+    {
+      "from": "mayer|rae",
+      "to": "mayer|rhianna"
+    },
+    {
+      "from": "zakrajscheck|eleanor",
+      "to": "zakrajsheck|eleanor"
+    },
+    {
+      "from": "fredrickson|ireland",
+      "to": "frederickson|ireland"
+    },
+    {
+      "from": "mondolfi|isabella",
+      "to": "mondolfi|anabella"
+    },
+    {
+      "from": "mcdermid|emy",
+      "to": "mcdermid|emilia"
+    },
+    {
+      "from": "jopeterson|callie",
+      "to": "peterson|callie"
+    },
+    {
+      "from": "collins|catie",
+      "to": "collins|catherine"
+    },
+    {
+      "from": "paolucci|anabella",
+      "to": "paolucci|isabella"
+    },
+    {
+      "from": "keraenen|tilli",
+      "to": "keranen|tilli"
+    },
+    {
+      "from": "reesebjergstad|caroline",
+      "to": "bjergstad|caroline"
+    },
+    {
+      "from": "witmer|ana",
+      "to": "witmer|anastasia"
+    },
+    {
+      "from": "macauley|madison",
+      "to": "macaulay|madison"
+    },
+    {
+      "from": "soon|lexi",
+      "to": "soon|alexandra"
+    },
+    {
+      "from": "marksarnold|hannah",
+      "to": "arnold|hannah"
+    },
+    {
+      "from": "nancarrow|ellason",
+      "to": "nancarrow|ella"
+    },
+    {
+      "from": "sacca|anabella",
+      "to": "sacca|annabella"
+    },
+    {
+      "from": "ruschpler|skyler",
+      "to": "ruschpler|skylar"
+    },
+    {
+      "from": "chaulk|caprie",
+      "to": "chaulk|capri"
+    },
+    {
+      "from": "humber|madeline",
+      "to": "humber|madelyn"
+    },
+    {
+      "from": "soderquist|madi",
+      "to": "soderquist|madelyn"
+    },
+    {
+      "from": "scalese|tina",
+      "to": "scalese|christina"
+    },
+    {
+      "from": "duplessis|kimee",
+      "to": "duplessis|kimberly"
+    },
+    {
+      "from": "sutherland|mac",
+      "to": "sutherland|mackenzie"
+    },
+    {
+      "from": "funk|madelyn",
+      "to": "funk|madison"
+    },
+    {
+      "from": "zolezzi|anabella",
+      "to": "zolezzi|isabella"
+    },
+    {
+      "from": "charrois|léa-rose",
+      "to": "charrois|lea-rose"
+    },
+    {
+      "from": "charrois|learose",
+      "to": "charrois|lea-rose"
+    },
+    {
+      "from": "ct|arielle",
+      "to": "cote|arielle"
+    },
+    {
+      "from": "gascon|aˆve",
+      "to": "gascon|eve"
+    },
+    {
+      "from": "kimbrel|madeline",
+      "to": "kimbrel|madelyn"
+    },
+    {
+      "from": "sander|katya",
+      "to": "sander|kateryna"
+    },
+    {
+      "from": "olson|sophie",
+      "to": "olson|sophia"
+    },
+    {
+      "from": "deroeve|abbey",
+      "to": "deroeve|abigail"
+    },
+    {
+      "from": "ames|francie",
+      "to": "ames|frances"
+    },
+    {
+      "from": "lopueanova|nela",
+      "to": "lopusanova|nela"
+    },
+    {
+      "from": "kowalow|cady",
+      "to": "kowalow|cayden"
+    },
+    {
+      "from": "wolf|heather",
+      "to": "wolff|heather"
+    },
+    {
+      "from": "taylor|vivian",
+      "to": "taylor|viviana"
+    },
+    {
+      "from": "taylor|vivi",
+      "to": "taylor|viviana"
+    },
+    {
+      "from": "rendina|a",
+      "to": "rendina|e"
+    },
+    {
+      "from": "martin|lilly",
+      "to": "martin|lilia"
+    },
+    {
+      "from": "buzinski|quinn",
+      "to": "buzinski|quinnlyn"
+    },
+    {
+      "from": "hall|andie",
+      "to": "hall|andrea"
+    },
+    {
+      "from": "peel|addison",
+      "to": "peel|addyson"
+    },
+    {
+      "from": "zhao|hany",
+      "to": "zhao|rachel"
+    },
+    {
+      "from": "miller|laney",
+      "to": "miller|delaney"
+    },
+    {
+      "from": "tabor|ellie",
+      "to": "tabor|elliana"
+    },
+    {
+      "from": "sherman|matti",
+      "to": "sherman|mattison"
+    },
+    {
+      "from": "sherman|mattie",
+      "to": "sherman|mattison"
+    },
+    {
+      "from": "lecuyer|haylee",
+      "to": "lecuyer|haylee-kaydence"
+    },
+    {
+      "from": "heinicke|olivia",
+      "to": "heinicke|alivia"
+    },
+    {
+      "from": "heinicke|livi",
+      "to": "heinicke|alivia"
+    },
+    {
+      "from": "heinicke|liv",
+      "to": "heinicke|alivia"
+    },
+    {
+      "from": "wilson|nora",
+      "to": "wilson|eleonore"
+    },
+    {
+      "from": "sutch|mia",
+      "to": "sutch|amelia"
+    },
+    {
+      "from": "skoogman|gwynn",
+      "to": "skoogman|gwynneth"
+    },
+    {
+      "from": "becarra|julie",
+      "to": "becarra|juliana"
+    },
+    {
+      "from": "mccullough|maddie",
+      "to": "mccullough|madeline"
+    },
+    {
+      "from": "mccullough|madelyn",
+      "to": "mccullough|madeline"
+    },
+    {
+      "from": "lubera|maddy",
+      "to": "lubera|madelyn"
+    },
+    {
+      "from": "zakrajsheck|katie",
+      "to": "zakrajsheck|kathryn"
+    },
+    {
+      "from": "zakrajsheck|kate",
+      "to": "zakrajsheck|kathryn"
+    },
+    {
+      "from": "zakrajsheck|katherine",
+      "to": "zakrajsheck|kathryn"
+    },
+    {
+      "from": "reaganbrown|k",
+      "to": "brown|reagan"
+    },
+    {
+      "from": "elfstrand|maddie",
+      "to": "elfstrand|madeline"
+    },
+    {
+      "from": "elfstrand|madelyn",
+      "to": "elfstrand|madeline"
+    },
+    {
+      "from": "blue|tivi",
+      "to": "blue|tivoli"
+    },
+    {
+      "from": "sofiapopova|maya",
+      "to": "popova|maya"
+    },
+    {
+      "from": "lewis|brooklyn",
+      "to": "kennedylewis|brooklyn"
+    },
+    {
+      "from": "davies|mady",
+      "to": "davies|madelyn"
+    },
+    {
+      "from": "cipolla|mady",
+      "to": "cipolla|madelyn"
+    },
+    {
+      "from": "kirsch|mady",
+      "to": "kirsch|madyson"
+    },
+    {
+      "from": "block|sophia",
+      "to": "blockmakokis|sophia"
+    },
+    {
+      "from": "makokis|sophia",
+      "to": "blockmakokis|sophia"
+    },
+    {
+      "from": "bryk|madi",
+      "to": "bryk|madison"
+    },
+    {
+      "from": "mccrann|anniston",
+      "to": "mccrann|aniston"
+    },
+    {
+      "from": "perusse|samson",
+      "to": "frey|samson"
+    },
+    {
+      "from": "freyperusse|natalie",
+      "to": "frey|samson"
+    },
+    {
+      "from": "perusse|natalie",
+      "to": "frey|samson"
+    },
+    {
+      "from": "freyperussee|natalie",
+      "to": "frey|samson"
+    },
+    {
+      "from": "freyperusse|samson",
+      "to": "frey|samson"
+    },
+    {
+      "from": "cruciano|ella",
+      "to": "cruciano|elliana"
+    },
+    {
+      "from": "peace|lexi",
+      "to": "peace|alexia"
+    },
+    {
+      "from": "dougherty|cate",
+      "to": "dougherty|cathryn"
+    },
+    {
+      "from": "kinai|lesia",
+      "to": "kinal|alexandra"
+    },
+    {
+      "from": "aprea|tess",
+      "to": "aprea|theresa"
+    },
+    {
+      "from": "nelson|josie",
+      "to": "nelson|josefina"
+    },
+    {
+      "from": "boose|abby",
+      "to": "boose|gabrielle"
+    },
+    {
+      "from": "falsetto|ali",
+      "to": "falsetto|alexandra"
+    },
+    {
+      "from": "ferreira|mimi",
+      "to": "ferreira|madelyn"
+    },
+    {
+      "from": "flores|tj",
+      "to": "flores|tijana"
+    },
+    {
+      "from": "grinsteinner|emme",
+      "to": "grinsteinner|emerson"
+    },
+    {
+      "from": "leo|sunni",
+      "to": "leo|sunnora"
+    },
+    {
+      "from": "middaugh|lily",
+      "to": "middaugh|lilianna"
+    },
+    {
+      "from": "moorehouse|tilly",
+      "to": "moorehouse|mathilda"
+    },
+    {
+      "from": "paolucci|sophia",
+      "to": "paolucci|zoe"
+    },
+    {
+      "from": "robinsonprefontaine|kiki",
+      "to": "robinsonprefontaine|keyauna"
+    },
+    {
+      "from": "russell|aj",
+      "to": "russell|alexis"
+    },
+    {
+      "from": "skinner|ellie",
+      "to": "skinner|elizabeth"
+    },
+    {
+      "from": "staikos|gigi",
+      "to": "staikos|georgiana"
+    },
+    {
+      "from": "yuan|emily",
+      "to": "yuan|jiawei"
+    },
+    {
+      "from": "schiff|madelyn",
+      "to": "schiff|madeline"
+    },
+    {
+      "from": "monko|katherine",
+      "to": "monko|kathryne"
+    },
+    {
+      "from": "yuan|jiawei",
+      "to": "yuan|emily"
+    },
+    {
+      "from": "bamber|kaity",
+      "to": "bamber|kaitlyn"
+    },
+    {
+      "from": "fang|chuqiao",
+      "to": "fang|joy"
+    },
+    {
+      "from": "zhang|luoyi",
+      "to": "zhang|sissi"
+    },
+    {
+      "from": "zhang|luoyi",
+      "to": "zhang|sissi"
+    },
+    {
+      "from": "morey|piper",
+      "to": "morey|shea"
+    },
+    {
+      "from": "morey|sheapiper",
+      "to": "morey|shea"
+    },
+    {
+      "from": "pipermorey|shea",
+      "to": "morey|shea"
+    },
+    {
+      "from": "hayek|nicole",
+      "to": "hayek|nicol"
+    },
+    {
+      "from": "martin|lillian",
+      "to": "martin|lilia"
+    },
+    {
+      "from": "noble|viviana",
+      "to": "noble|vienna"
+    },
+    {
+      "from": "noble|vivi",
+      "to": "noble|vienna"
+    },
+    {
+      "from": "myers|issy",
+      "to": "myers|isabelle"
+    },
+    {
+      "from": "ellarendina|anna",
+      "to": "rendina|ella"
+    },
+    {
+      "from": "petroski|elisa",
+      "to": "petroski|elisabeth"
+    },
+    {
+      "from": "dougherty|cate",
+      "to": "dougherty|cathryn"
+    },
+    {
+      "from": "katsompenakis|aria",
+      "to": "katsompenakis|ariadne"
+    }
+  ]
+}
