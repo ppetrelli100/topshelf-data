@@ -51735,6 +51735,318 @@
         "st": "QUE",
         "ctry": "Canada"
       }
+    ],
+    "Franklin Pierce": [
+      {
+        "name": "Emma Laroche",
+        "pk": "laroche|emma",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-3",
+        "home": "Highgate",
+        "st": "VT",
+        "ctry": "US"
+      },
+      {
+        "name": "Maiah Aanenson",
+        "pk": "aanenson|maiah",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "White Bear Lake",
+        "st": "MN",
+        "ctry": "US"
+      },
+      {
+        "name": "Casey Coffey",
+        "pk": "coffey|casey",
+        "y": "Jr",
+        "pos": "D",
+        "ht": "5-6",
+        "home": "Hudson",
+        "st": "WI",
+        "ctry": "US"
+      },
+      {
+        "name": "Anna Caumo",
+        "pk": "caumo|anna",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Brunico",
+        "st": "Italy",
+        "ctry": "Europe"
+      },
+      {
+        "name": "Addison Andre",
+        "pk": "andre|addison",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Cottage Grove",
+        "st": "MN",
+        "ctry": "US"
+      },
+      {
+        "name": "Caleigh Murphy",
+        "pk": "murphy|caleigh",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Belle Harbor",
+        "st": "NY",
+        "ctry": "US"
+      },
+      {
+        "name": "Mia Kraut",
+        "pk": "kraut|mia",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-7",
+        "home": "South Lyon",
+        "st": "MI",
+        "ctry": "US"
+      },
+      {
+        "name": "Ashley Wright",
+        "pk": "wright|ashley",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-2",
+        "home": "Milford",
+        "st": "CT",
+        "ctry": "US"
+      },
+      {
+        "name": "Chloe King",
+        "pk": "king|chloe",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Waconia",
+        "st": "MN",
+        "ctry": "US"
+      },
+      {
+        "name": "Jillian Sano",
+        "pk": "sano|jillian",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-3",
+        "home": "Downingtown",
+        "st": "PA",
+        "ctry": "US"
+      },
+      {
+        "name": "Lily Erickson",
+        "pk": "erickson|lillian",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Roseau",
+        "st": "MN",
+        "ctry": "US"
+      },
+      {
+        "name": "Lilah Bauer",
+        "pk": "bauer|lilah",
+        "y": "Jr",
+        "pos": "D",
+        "ht": "5-7",
+        "home": "Monroe",
+        "st": "WI",
+        "ctry": "US"
+      },
+      {
+        "name": "McKenzie Grimm",
+        "pk": "grimm|mckenzie",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-3",
+        "home": "Connellsville",
+        "st": "PA",
+        "ctry": "US"
+      },
+      {
+        "name": "Brenna Prellwitz",
+        "pk": "prellwitz|brenna",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-8",
+        "home": "Bloomington",
+        "st": "MN",
+        "ctry": "US"
+      },
+      {
+        "name": "Anna Rose",
+        "pk": "rose|anna",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Memmingen",
+        "st": "Germany",
+        "ctry": "Europe"
+      },
+      {
+        "name": "Melanie Targosz",
+        "pk": "targosz|melanie",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-11",
+        "home": "Livonia",
+        "st": "MI",
+        "ctry": "US"
+      },
+      {
+        "name": "Lauren Maras",
+        "pk": "maras|lauren",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-1",
+        "home": "Alexandria",
+        "st": "MN",
+        "ctry": "US"
+      },
+      {
+        "name": "Jenna Sharland",
+        "pk": "sharland|jennifer",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-7",
+        "home": "San Jose",
+        "st": "CA",
+        "ctry": "US"
+      },
+      {
+        "name": "Nicola Forth",
+        "pk": "forth|nicola",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Schwenksville",
+        "st": "PA",
+        "ctry": "US"
+      },
+      {
+        "name": "Courtney Swenson",
+        "pk": "swenson|courtney",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-5",
+        "home": "Bolingbrook",
+        "st": "IL",
+        "ctry": "US"
+      },
+      {
+        "name": "Shayna Parry",
+        "pk": "parry|shayna",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-4",
+        "home": "Pittsburgh",
+        "st": "PA",
+        "ctry": "US"
+      },
+      {
+        "name": "Abigail Broz",
+        "pk": "broz|abigail",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-2",
+        "home": "White Bear Lake",
+        "st": "MN",
+        "ctry": "US"
+      },
+      {
+        "name": "Ana Witmer",
+        "pk": "witmer|anastasia",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Glen Rock",
+        "st": "NJ",
+        "ctry": "US"
+      },
+      {
+        "name": "Sophia Prentice",
+        "pk": "prentice|sophia",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-3",
+        "home": "Massena",
+        "st": "NY",
+        "ctry": "US"
+      },
+      {
+        "name": "Alexandria Cistolo",
+        "pk": "cistolo|alexandria",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-6",
+        "home": "Berea",
+        "st": "OH",
+        "ctry": "US"
+      },
+      {
+        "name": "Reagan Haley",
+        "pk": "haley|reagan",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-8",
+        "home": "Bismark",
+        "st": "ND",
+        "ctry": "US"
+      },
+      {
+        "name": "Ava Hunter",
+        "pk": "hunter|ava",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Southampton",
+        "st": "MA",
+        "ctry": "US"
+      },
+      {
+        "name": "Brynn Levinson",
+        "pk": "levinson|brynn",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-2",
+        "home": "Glencoe",
+        "st": "IL",
+        "ctry": "US"
+      },
+      {
+        "name": "Delaney Lawn",
+        "pk": "lawn|delaney",
+        "y": "So",
+        "pos": "G",
+        "ht": "5-2",
+        "home": "Omaha",
+        "st": "NE",
+        "ctry": "US"
+      },
+      {
+        "name": "Rylee Eno",
+        "pk": "eno|rylee",
+        "y": "Jr",
+        "pos": "G",
+        "ht": "5-8",
+        "home": "Uxbridge",
+        "st": "ONT",
+        "ctry": "Canada"
+      },
+      {
+        "name": "Brooke Shoemaker",
+        "pk": "shoemaker|brooke",
+        "y": "Fr",
+        "pos": "G",
+        "ht": "5-7",
+        "home": "De Pere",
+        "st": "WI",
+        "ctry": "US"
+      }
     ]
   }
 }
