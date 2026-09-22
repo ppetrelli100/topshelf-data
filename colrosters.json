@@ -63682,6 +63682,295 @@
         "ctry": "US",
         "no": "92"
       }
+    ],
+    "St. Lawrence": [
+      {
+        "name": "Maja Helge",
+        "pk": "helge|maja",
+        "y": "Fr",
+        "pos": "G",
+        "ht": "5-7",
+        "home": "Vaxjo",
+        "st": "Sweden",
+        "ctry": "Europe",
+        "no": "1"
+      },
+      {
+        "name": "Rylan Haslam",
+        "pk": "haslam|rylan",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Oshawa",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "2"
+      },
+      {
+        "name": "Ella Nancarrow",
+        "pk": "nancarrow|ella",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-5",
+        "home": "Ottawa",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "3"
+      },
+      {
+        "name": "Mave O'Hagan",
+        "pk": "ohagan|mave",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-7",
+        "home": "North Bay",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "9"
+      },
+      {
+        "name": "Sonia Mehta",
+        "pk": "mehta|sonia",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-7",
+        "home": "Midland",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "10"
+      },
+      {
+        "name": "Kendall Doiron",
+        "pk": "doiron|kendall",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-3",
+        "home": "Boylston",
+        "st": "NS",
+        "ctry": "Canada",
+        "no": "11"
+      },
+      {
+        "name": "Cheyenne Degeer",
+        "pk": "degeer|cheyenne",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Tory Hill",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "12"
+      },
+      {
+        "name": "Riley Reeves",
+        "pk": "reeves|riley",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-8",
+        "home": "Woodbury",
+        "st": "MN",
+        "ctry": "US",
+        "no": "13"
+      },
+      {
+        "name": "Lilien Benakova",
+        "pk": "benakova|lilien",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Banska Bystrica",
+        "st": "Slovakia",
+        "ctry": "Europe",
+        "no": "14"
+      },
+      {
+        "name": "Kennedy Emerson",
+        "pk": "emerson|kennedy",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-5",
+        "home": "Potsdam",
+        "st": "NY",
+        "ctry": "US",
+        "no": "18"
+      },
+      {
+        "name": "Hayden Summers",
+        "pk": "summers|hayden",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-9",
+        "home": "Oneida Nation",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "19"
+      },
+      {
+        "name": "Alexia Cote",
+        "pk": "cote|alexia",
+        "y": "Jr",
+        "pos": "D",
+        "ht": "5-5",
+        "home": "Saint-Rosaire",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "20"
+      },
+      {
+        "name": "Halle Mules",
+        "pk": "mules|halle",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-2",
+        "home": "Abington",
+        "st": "MA",
+        "ctry": "US",
+        "no": "21"
+      },
+      {
+        "name": "Carly O'Connor",
+        "pk": "oconnor|carly",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-1",
+        "home": "Osgoode",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "22"
+      },
+      {
+        "name": "Jenny Keller",
+        "pk": "keller|jennifer",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-8",
+        "home": "Calgary",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "26"
+      },
+      {
+        "name": "Maria Mazi",
+        "pk": "mazi|maria",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-8",
+        "home": "Oakville",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "27"
+      },
+      {
+        "name": "Meghan Crowley",
+        "pk": "crowley|meghan",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-10",
+        "home": "Baldwinsville",
+        "st": "NY",
+        "ctry": "US",
+        "no": "28"
+      },
+      {
+        "name": "Jaylee MacKinnon",
+        "pk": "mackinnon|jaylee",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Clark's Harbour",
+        "st": "NS",
+        "ctry": "Canada",
+        "no": "29"
+      },
+      {
+        "name": "Sami Phelan",
+        "pk": "phelan|samantha",
+        "y": "Jr",
+        "pos": "G",
+        "ht": "5-4",
+        "home": "Laguna Beach",
+        "st": "CA",
+        "ctry": "US",
+        "no": "31"
+      },
+      {
+        "name": "Kassidy Lawrence",
+        "pk": "lawrence|kassidy",
+        "y": "Sr",
+        "pos": "G",
+        "ht": "5-6",
+        "home": "Cobourg",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "34"
+      },
+      {
+        "name": "Brooke Mulvihill",
+        "pk": "mulvihill|brooke",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Ottawa",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "36"
+      },
+      {
+        "name": "Alex Therien",
+        "pk": "therien|alexandra",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-10",
+        "home": "Ottawa",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "48",
+        "prevSchool": "New Hampshire"
+      },
+      {
+        "name": "Abby Hehl",
+        "pk": "hehl|abigail",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-4",
+        "home": "Burlington",
+        "st": "NJ",
+        "ctry": "US",
+        "no": "82"
+      },
+      {
+        "name": "Barbora Jurickova",
+        "pk": "jurickova|barbora",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Ostrava",
+        "st": "Czech Republic",
+        "ctry": "Europe",
+        "no": "91"
+      },
+      {
+        "name": "Mae Severn",
+        "pk": "severn|mae",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-7",
+        "home": "Midhurst",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "93"
+      },
+      {
+        "name": "Nellie Svensson",
+        "pk": "svensson|nellie",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-6",
+        "home": "Molndal",
+        "st": "Sweden",
+        "ctry": "Europe",
+        "no": "96"
+      }
     ]
   }
 }
