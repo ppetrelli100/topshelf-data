@@ -1,0 +1,4232 @@
+[
+  {
+    "pattern": "^((the\\s*)?gunnery|frederick\\s*gunn)\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Frederick Gunn",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:bb&n|bbn|buckingham[-\\s]*browne\\s*(?:and|&)?\\s*nichols)\\s*(?:school)?$",
+    "type": "PREP",
+    "friendly": "BB&N",
+    "country": "US"
+  },
+  {
+    "pattern": "^(choate|choaterosemaryhall)$",
+    "type": "PREP",
+    "friendly": "Choate",
+    "country": "US"
+  },
+  {
+    "pattern": "^(dxsf|dexter\\s*(southfield\\s*)?(school)?)$",
+    "type": "PREP",
+    "friendly": "Dexter",
+    "country": "US"
+  },
+  {
+    "pattern": "^(kimball\\s*union\\s*(academy)?|kua)$",
+    "type": "PREP",
+    "friendly": "Kimball Union",
+    "country": "US"
+  },
+  {
+    "pattern": "^loomis(?:\\s*(?:chaffee|chafee)(?:\\s*school)?)?$",
+    "type": "PREP",
+    "friendly": "Loomis",
+    "country": "US"
+  },
+  {
+    "pattern": "^(ncds|newton\\s*country\\s*day\\s*(school)?)$",
+    "type": "PREP",
+    "friendly": "Newton CDS",
+    "country": "US"
+  },
+  {
+    "pattern": "^(nobles|noble\\s*(s|&|and)?\\s*greenough)\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Nobles",
+    "country": "US"
+  },
+  {
+    "pattern": "^(northfieldmounthermon|northfieldmthermon|nmh)$",
+    "type": "PREP",
+    "friendly": "NMH",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:phillips\\s*)?(?:acad(?:emy)?\\s*)?andover\\s*(?:acad(?:emy)?)?$",
+    "type": "PREP",
+    "friendly": "Andover",
+    "country": "US"
+  },
+  {
+    "pattern": "^(phillips\\s*)?(acad|academy\\s*)?exeter\\s*(acad|academy)?$",
+    "type": "PREP",
+    "friendly": "Exeter",
+    "country": "US"
+  },
+  {
+    "pattern": "^(sacredheart|sacredheart\\s*greenwich|conventofsacredheart)$",
+    "type": "PREP",
+    "friendly": "Sacred Heart Greenwich",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:st\\.?\\s*paul'?s\\s*(?:school)?|sps)$",
+    "type": "PREP",
+    "friendly": "St Pauls",
+    "country": "US"
+  },
+  {
+    "pattern": "^(the\\s*)?governors\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Governors",
+    "country": "US"
+  },
+  {
+    "pattern": "^(williston|williston\\s*northampton\\s*(school)?)$",
+    "type": "PREP",
+    "friendly": "Williston",
+    "country": "US"
+  },
+  {
+    "pattern": "^austin\\s*prep\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Austin Prep",
+    "country": "US"
+  },
+  {
+    "pattern": "^berkshire\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Berkshire",
+    "country": "US"
+  },
+  {
+    "pattern": "^berwick\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Berwick",
+    "country": "US"
+  },
+  {
+    "pattern": "^brewster\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Brewster",
+    "country": "US"
+  },
+  {
+    "pattern": "^brooks\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Brooks",
+    "country": "US"
+  },
+  {
+    "pattern": "^canterbury\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Canterbury",
+    "country": "US"
+  },
+  {
+    "pattern": "^cushing\\s*(?:academy\\s*)?(?:prep\\s*)?(?:school\\s*)?(?:varsity)?$",
+    "type": "PREP",
+    "friendly": "Cushing",
+    "country": "US"
+  },
+  {
+    "pattern": "^deerfield\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Deerfield",
+    "country": "US"
+  },
+  {
+    "pattern": "^greenwich\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Greenwich Academy",
+    "country": "US"
+  },
+  {
+    "pattern": "^greenwichcountryday\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Greenwich CDS",
+    "country": "US"
+  },
+  {
+    "pattern": "^groton\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Groton",
+    "country": "US"
+  },
+  {
+    "pattern": "^hebron\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Hebron",
+    "country": "US"
+  },
+  {
+    "pattern": "^holderness\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Holderness",
+    "country": "US"
+  },
+  {
+    "pattern": "^hoosac\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Hoosac",
+    "country": "US"
+  },
+  {
+    "pattern": "^(the\\s*)?hotchkiss\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Hotchkiss",
+    "country": "US"
+  },
+  {
+    "pattern": "^kent\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Kent",
+    "country": "US"
+  },
+  {
+    "pattern": "^kents\\s*hill\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Kents Hill",
+    "country": "US"
+  },
+  {
+    "pattern": "^lawrence\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Lawrence Academy",
+    "country": "US"
+  },
+  {
+    "pattern": "^middlesex\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Middlesex",
+    "country": "US"
+  },
+  {
+    "pattern": "^millbrook\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Millbrook",
+    "country": "US"
+  },
+  {
+    "pattern": "^milton\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Milton",
+    "country": "US"
+  },
+  {
+    "pattern": "^new\\s*hampton\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "New Hampton",
+    "country": "US"
+  },
+  {
+    "pattern": "^nichols\\s*(school\\s*)?(girls)?(prep)?$",
+    "type": "PREP",
+    "friendly": "Nichols",
+    "country": "US"
+  },
+  {
+    "pattern": "^pingree\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Pingree",
+    "country": "US"
+  },
+  {
+    "pattern": "^pomfret\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Pomfret",
+    "country": "US"
+  },
+  {
+    "pattern": "^portsmouth\\s*abbey\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Portsmouth Abbey",
+    "country": "US"
+  },
+  {
+    "pattern": "^proctor\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Proctor",
+    "country": "US"
+  },
+  {
+    "pattern": "^(the\\s*)?rivers\\s*(school\\s*)?(varsity)?$",
+    "type": "PREP",
+    "friendly": "Rivers",
+    "country": "US"
+  },
+  {
+    "pattern": "^rye\\s*country\\s*day\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Rye CDS",
+    "country": "US"
+  },
+  {
+    "pattern": "^st\\.?\\s*george['\u2019]?s\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "St Georges",
+    "country": "US"
+  },
+  {
+    "pattern": "^st\\.?\\s*mark['\u2019]?s\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "St Marks",
+    "country": "US"
+  },
+  {
+    "pattern": "^tabor\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Tabor",
+    "country": "US"
+  },
+  {
+    "pattern": "^(the\\s*)?taft\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Taft",
+    "country": "US"
+  },
+  {
+    "pattern": "^thayer\\s*(academy\\s*)?(varsity)?$",
+    "type": "PREP",
+    "friendly": "Thayer",
+    "country": "US"
+  },
+  {
+    "pattern": "^tilton\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Tilton",
+    "country": "US"
+  },
+  {
+    "pattern": "^vermont\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Vermont Academy",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:westminster|westminister)\\s*(?:school)?$",
+    "type": "PREP",
+    "friendly": "Westminster",
+    "country": "US"
+  },
+  {
+    "pattern": "^winsor\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Winsor",
+    "country": "US"
+  },
+  {
+    "pattern": "^worcester\\s*(academy)?$",
+    "type": "PREP",
+    "friendly": "Worcester",
+    "country": "US"
+  },
+  {
+    "pattern": "^(the\\s*)?hill\\s*(school)?$",
+    "type": "PREP",
+    "friendly": "Hill",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:acad\\.?|academy)[-\\s]*of[-\\s]*holy[-\\s]*angels\\s*(?:hs)?$|^holy[-\\s]*angels\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Academy of Holy Angels",
+    "country": "US"
+  },
+  {
+    "pattern": "^\\s*bu\\s*(?:rn|m)\\s*sville\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Burnsville",
+    "country": "US"
+  },
+  {
+    "pattern": "^(the\\s*)?blake\\s*(school\\s*)?(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Blake HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^(the\\s*)?breck\\s*(hs\\s*)?(school)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Breck HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^albert\\s*lea\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Albert Lea HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^alexandria\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Alexandria HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^andover\\s*(girls\\s*)?(huskies)?(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Andover HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^anoka\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Anoka HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^apple\\s*valley\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Apple Valley HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^austin\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Austin HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^bemidji\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Bemidji HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^benilde[-\\s]*st\\.?\\s*margaret'?s\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Benilde-St Margarets HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^blaine\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Blaine HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^bloomington\\s*jefferson\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Bloomington Jefferson HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^brainerd\\s*(littlefalls\\s*)?(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Brainerd/Little Falls HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^buffalo\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Buffalo HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^centennial[-\\s]*(?:spring[-\\s]*lake[-\\s]*park|slp)?\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Centennial/SLP HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^champlin[-\\s/]*park[-\\s/]*(?:coon[-\\s/]*rapids\\s*)?(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Champlin Park/Coon Rapids HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^chaska[-\\s]*chanhassen\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Chaska/Chanhassen HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^chisago\\s*(lakes\\s*)?(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Chisago Lakes HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^cloquet[\\s\\-]*esko[\\s\\-]*carlton\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Cloquet-Esko-Carlton HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^cretin[-\\s]*derham[-\\s]*hall\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Cretin-Derham Hall HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^crookston\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Crookston HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^delanorockford\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Delano/Rockford HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^detroit\\s*lakes\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Detroit Lakes HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^dodge\\s*county\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Dodge County HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^duluth\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Duluth HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^eagan\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Eagan HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^east\\s*grand\\s*forks\\s*(?:hs)?\\s*(?:girls\\s*)?(?:varsity)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "East Grand Forks HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^east\\s*ridge\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "East Ridge HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^eastview\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Eastview HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^eden\\s*prairie\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Eden Prairie HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^edina\\s*(hs\\s*)?(green)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Edina HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^elk\\s*river\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Elk River HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^fairmont\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Fairmont HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^farmington\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Farmington HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^fergus\\s*falls\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Fergus Falls HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^forest\\s*lake\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Forest Lake HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^gentry\\s*academy\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Gentry Academy HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^grand[-\\s]*rapids[-\\s]*greenway\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Grand Rapids/Greenway HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^hastings\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Hastings HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^hibbingchisholm\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Hibbing/Chisholm HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^hill[-\\s]*murray\\s*(?:school\\s*)?(?:hs)?\\s*(?:varsity)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Hill-Murray HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^holy\\s*family\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Holy Family HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^hopkinspark\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Hopkins/Park HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^hutchinson\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Hutchinson HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^international\\s*falls\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "International Falls HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^lakeville\\s*north\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Lakeville North HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^lakeville\\s*south\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Lakeville South HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^litchfielddasselcokato\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Litchfield-Dassel-Cokato HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^luverne\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Luverne HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^mankato\\s*east\\s*(?:hs)?\\s*(?:girls\\s*)?(?:varsity)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Mankato East HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^mankatowestloyola\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Mankato West/Loyola HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^maple\\s*grove\\s*(crimson|black|white\\s*)?(hs)?(varsity)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Maple Grove HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^marshall\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Marshall HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^minneapolis\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Minneapolis HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^minnesota\\s*river\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Minnesota River HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^minnetonka\\s*(black|white\\s*)?(hs)?(highschool)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Minnetonka HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^moorhead\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Moorhead HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^moose\\s*lake\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Moose Lake HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^morrisbenson\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Morris/Benson HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^moundsviewirondale\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Mounds View/Irondale HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^mound[-\\s]*westonka\\s*(?:southwest[-\\s]*christian|swc)?\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Mound Westonka HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^new\\s*prague\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "New Prague HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^new\\s*ulm\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "New Ulm HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^northern\\s*lakes\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Northern Lakes HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^northern\\s*tier\\s*stars\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Northern Tier Stars HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^northfield\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Northfield HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^north\\s*shore\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "North Shore HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^north\\s*wright\\s*county\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "North Wright County HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^orono\\s*(hs\\s*)?(varsity)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Orono HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^osseoparkcenter\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Osseo-Park Center HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^owatonna\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Owatonna HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^park\\s*cottage\\s*grove\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Park Cottage Grove HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^pine\\s*city\\s*area\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Pine City Area HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^prairie\\s*centre\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Prairie Centre HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^princetonbeckerbiglake\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Princeton/Becker/Big Lake HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^prior\\s*lake\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Prior Lake HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^proctorhermantown\\s*(hs\\s*)?(mirage)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Proctor/Hermantown HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^red\\s*wing\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Red Wing HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^river\\s*lakes\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "River Lakes HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^robbinsdalearmstrongcooper\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Robbinsdale Armstrong/Cooper HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^rochestercenturymarshall\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Rochester Century/Marshall HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^rochester\\s*mayo\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Rochester Mayo HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^rock\\s*ridge\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Rock Ridge HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^rogers\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Rogers HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^roseau\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Roseau HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^rosemount\\s*(hs\\s*)?(irish)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Rosemount HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^roseville[-\\s]*(?:mahtomedi)?\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Roseville/Mahtomedi HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^sartellsaukrapids\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Sartell/Sauk Rapids HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^shakopee\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Shakopee HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^simley\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Simley HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^south\\s*central\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "South Central HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^south\\s*st\\s*paul\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "South St Paul HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^st\\s*cloud\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "St Cloud HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^stillwater\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Stillwater HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^stpaultworivers\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "St Paul/Two Rivers HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^thief\\s*river\\s*falls\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Thief River Falls HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^visitation\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Visitation HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^waconia\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Waconia HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^warroad\\s*(?:warriors|hs)?\\s*(?:varsity)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Warroad HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^wayzata\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Wayzata HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^white\\s*bear\\s*lake\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "White Bear Lake HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^willmar\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Willmar HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^windom\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Windom HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^winona\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Winona HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^woodbury\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Woodbury HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^worthington\\s*(hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Worthington HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^fargo\\s*(?:north\\s*)?(?:south\\s*)?(?:high\\s*school\\s*)?(?:mid\\s*)?(?:spruins\\s*)?(?:hockey\\s*)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Fargo North South High School",
+    "country": "US"
+  },
+  {
+    "pattern": "^orono\\s*westonka$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Orono Westonka",
+    "country": "US"
+  },
+  {
+    "pattern": "^os\\s*flames$",
+    "type": "HIGH SCHOOL",
+    "friendly": "OS Flames",
+    "country": "US"
+  },
+  {
+    "pattern": "^os\\s*flyers$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Os Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^os\\s*winter\\s*league$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Os Winter League",
+    "country": "US"
+  },
+  {
+    "pattern": "^os\\s*winter\\s*training$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Os Winter Training",
+    "country": "US"
+  },
+  {
+    "pattern": "^osseomaplegrove$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Osseo-Maple Grove",
+    "country": "US"
+  },
+  {
+    "pattern": "^wayzata\\s*youth\\s*hockey\\s*association$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Wayzata Youth Hockey",
+    "country": "US"
+  },
+  {
+    "pattern": "^west\\s*fargo$",
+    "type": "HIGH SCHOOL",
+    "friendly": "West Fargo",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:bismarck\\s*)?century\\s*(?:hs|patriots)$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Century HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^hanover\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Hanover HS (NH)",
+    "country": "US"
+  },
+  {
+    "pattern": "^minot\\s*(?:hs)?$",
+    "type": "HIGH SCHOOL",
+    "friendly": "Minot HS",
+    "country": "US"
+  },
+  {
+    "pattern": "^((ct|connecticut)\\s*(jr|junior)\\s*rangers|cjr)\\s*(girls)?$",
+    "type": "CLUB",
+    "friendly": "CT Jr Rangers",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:ma|mass|massachusetts)?\\s*spitfires$",
+    "type": "CLUB",
+    "friendly": "Spitfires",
+    "country": "US"
+  },
+  {
+    "pattern": "^(anaheim\\s*lady\\s*ducks|lady\\s*ducks)$",
+    "type": "CLUB",
+    "friendly": "Anaheim Lady Ducks",
+    "country": "US"
+  },
+  {
+    "pattern": "^(assabet|assabet\\s*valley)\\s*(16\\s*)?(19)?(red\\s*)?(major)?$",
+    "type": "CLUB",
+    "friendly": "Assabet Valley",
+    "country": "US"
+  },
+  {
+    "pattern": "^(bay\\s*state\\s*)?(breakers)$",
+    "type": "CLUB",
+    "friendly": "Bay State Breakers",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:boston\\s*)?(?:jr\\.?|junior)?\\s*eagles\\s*(?:girls)?$",
+    "type": "CLUB",
+    "friendly": "Boston Jr Eagles",
+    "country": "US"
+  },
+  {
+    "pattern": "^(chicago\\s*mission|mission)\\s*(girls)?$",
+    "type": "CLUB",
+    "friendly": "Chicago Mission",
+    "country": "US"
+  },
+  {
+    "pattern": "^(chicago\\s*young\\s*americans|cya)$",
+    "type": "CLUB",
+    "friendly": "Chicago Young Americans",
+    "country": "US"
+  },
+  {
+    "pattern": "^(columbus\\s*blue\\s*jackets|blue\\s*jackets)$",
+    "type": "CLUB",
+    "friendly": "Columbus Blue Jackets",
+    "country": "US"
+  },
+  {
+    "pattern": "^(ct|connecticut)\\s*hattricks$",
+    "type": "CLUB",
+    "friendly": "CT Hattricks",
+    "country": "US"
+  },
+  {
+    "pattern": "^(ct|connecticut)\\s*ice\\s*cats$",
+    "type": "CLUB",
+    "friendly": "CT Ice Cats",
+    "country": "US"
+  },
+  {
+    "pattern": "^(ct|connecticut)\\s*northern\\s*lights$",
+    "type": "CLUB",
+    "friendly": "CT Northern Lights",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:ct|connecticut)\\s*polar\\s*bears\\s*(?:major|aa|a)?$",
+    "type": "CLUB",
+    "friendly": "CT Polar Bears",
+    "country": "US"
+  },
+  {
+    "pattern": "^(dallas\\s*stars\\s*elite|dallas\\s*stars)\\s*(girls)?$",
+    "type": "CLUB",
+    "friendly": "Dallas Stars",
+    "country": "US"
+  },
+  {
+    "pattern": "^(detroit\\s*)?(belle\\s*tire|tire)\\s*(girls)?$",
+    "type": "CLUB",
+    "friendly": "Belle Tire",
+    "country": "US"
+  },
+  {
+    "pattern": "^(detroit\\s*)?(honeybaked)\\s*(girls)?$",
+    "type": "CLUB",
+    "friendly": "HoneyBaked",
+    "country": "US"
+  },
+  {
+    "pattern": "^(detroit\\s*)?(little\\s*)?(caesars)\\s*(girls)?$",
+    "type": "CLUB",
+    "friendly": "Little Caesars",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:(?:east\\s*coast|ecw?)\\s*wizards|ecw|wizards)\\s*(?:girls)?\\s*(?:major)?\\s*(?:minor)?$",
+    "type": "CLUB",
+    "friendly": "East Coast Wizards",
+    "country": "US"
+  },
+  {
+    "pattern": "^(la|losangeles)\\s*lions$",
+    "type": "CLUB",
+    "friendly": "LA Lions",
+    "country": "US"
+  },
+  {
+    "pattern": "^(madison\\s*capitols|madcaps)$",
+    "type": "CLUB",
+    "friendly": "Madison Capitols",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mid[-\\s]*fairfield\\s*(?:ct|connecticut)?\\s*(?:stars)?|mff\\s*(?:stars)?)$",
+    "type": "CLUB",
+    "friendly": "Midfairfield CT Stars",
+    "country": "US"
+  },
+  {
+    "pattern": "^(minuteman\\s*)?(lady)?(flames)$",
+    "type": "CLUB",
+    "friendly": "Minuteman Lady Flames",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mn|minnesota)\\s*(grey|gray)\\s*ducks$",
+    "type": "CLUB",
+    "friendly": "MN Grey Ducks",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mn|minnesota)\\s*green\\s*giants$",
+    "type": "CLUB",
+    "friendly": "MN Green Giants",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mn|minnesota)\\s*ice\\s*cougars$",
+    "type": "CLUB",
+    "friendly": "MN Ice Cougars",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mn|minnesota)\\s*lakers$",
+    "type": "CLUB",
+    "friendly": "MN Lakers",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mn|minnesota)\\s*loons$",
+    "type": "CLUB",
+    "friendly": "MN Loons",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mn|minnesota)\\s*moose$",
+    "type": "CLUB",
+    "friendly": "MN Moose",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn|minnesota)?\\s*northern\\s*elite\\s*(?:green)?$",
+    "type": "CLUB",
+    "friendly": "MN Northern Elite",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mn|minnesota)\\s*voyageurs$",
+    "type": "CLUB",
+    "friendly": "MN Voyageurs",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mn|minnesota)\\s*walleye$",
+    "type": "CLUB",
+    "friendly": "MN Walleye",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn|minn|minnesota)?\\s*(?:off\\s*season|os)\\s*(?:hockey)?$",
+    "type": "CLUB",
+    "friendly": "MN OS",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:newark|nj)?\\s*ironbound\\s*(?:elite)?\\s*(?:premier)?$",
+    "type": "CLUB",
+    "friendly": "Newark Ironbound",
+    "country": "US"
+  },
+  {
+    "pattern": "^(newjerseybandits|nj\\s*bandits)$",
+    "type": "CLUB",
+    "friendly": "NJ Bandits",
+    "country": "US"
+  },
+  {
+    "pattern": "^(new\\s*jersey|nj)\\s*colonials$",
+    "type": "CLUB",
+    "friendly": "NJ Colonials",
+    "country": "US"
+  },
+  {
+    "pattern": "^(nj|new\\s*jersey)\\s*titans$",
+    "type": "CLUB",
+    "friendly": "NJ Titans",
+    "country": "US"
+  },
+  {
+    "pattern": "^(philadelphia\\s*(jr|junior\\s*)?flyers|flyers)$",
+    "type": "CLUB",
+    "friendly": "Philadelphia Jr Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^(pittsburgh\\s*)?(penguins|pens)\\s*(elite)?$",
+    "type": "CLUB",
+    "friendly": "Pittsburgh Penguins Elite",
+    "country": "US"
+  },
+  {
+    "pattern": "^(princeton\\s*tiger\\s*lilies|tiger\\s*lilies|tigerlillies)$",
+    "type": "CLUB",
+    "friendly": "Princeton Tiger Lilies",
+    "country": "US"
+  },
+  {
+    "pattern": "^(rochester\\s*(jr|junior\\s*)?americans|amerks)$",
+    "type": "CLUB",
+    "friendly": "Rochester Jr Americans",
+    "country": "US"
+  },
+  {
+    "pattern": "^(st|saint)\\s*clair\\s*shoressaints$",
+    "type": "CLUB",
+    "friendly": "St Clair Shore Saints",
+    "country": "US"
+  },
+  {
+    "pattern": "^(st|saint)\\s*james\\s*hc$",
+    "type": "CLUB",
+    "friendly": "St James HC",
+    "country": "US"
+  },
+  {
+    "pattern": "^(st|saint)\\s*jude\\s*knights$",
+    "type": "CLUB",
+    "friendly": "St Jude Knights",
+    "country": "US"
+  },
+  {
+    "pattern": "^(st|saint)\\s*lawrencesteel$",
+    "type": "CLUB",
+    "friendly": "St Lawrence Eels",
+    "country": "US"
+  },
+  {
+    "pattern": "^(st\\.?|saint)\\s*louis\\s*blues(?:\\s*u\\d+)?$",
+    "type": "CLUB",
+    "friendly": "St. Louis Blues",
+    "country": "US"
+  },
+  {
+    "pattern": "^(st|saint)\\s*louis\\s*lady\\s*cyclones$",
+    "type": "CLUB",
+    "friendly": "St. Louis Lady Cyclones",
+    "country": "US"
+  },
+  {
+    "pattern": "^(team\\s*illinois|ti)\\s*(girls)?$",
+    "type": "CLUB",
+    "friendly": "Team Illinois",
+    "country": "US"
+  },
+  {
+    "pattern": "^(team\\s*north\\s*dakota|teamnd)$",
+    "type": "CLUB",
+    "friendly": "Team North Dakota",
+    "country": "US"
+  },
+  {
+    "pattern": "^(vt|vermont)\\s*dynamo$",
+    "type": "CLUB",
+    "friendly": "VT Dynamo",
+    "country": "US"
+  },
+  {
+    "pattern": "^(windy\\s*city\\s*storm|windy\\s*city|storm)$",
+    "type": "CLUB",
+    "friendly": "Windy City Storm",
+    "country": "US"
+  },
+  {
+    "pattern": "^airdrie\\s*lightning$",
+    "type": "CLUB",
+    "friendly": "Airdrie Lightning",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^amherst\\s*rangers$",
+    "type": "CLUB",
+    "friendly": "Amherst Rangers",
+    "country": "US"
+  },
+  {
+    "pattern": "^ancaster\\s*avalanche$",
+    "type": "CLUB",
+    "friendly": "Ancaster Avalanche",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^andrelaurendeauboomerang$",
+    "type": "CLUB",
+    "friendly": "Andre-Laurendeau Boomerang",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^aspen\\s*leafs$",
+    "type": "CLUB",
+    "friendly": "Aspen Leafs",
+    "country": "US"
+  },
+  {
+    "pattern": "^assiniboine\\s*park\\s*rangers$",
+    "type": "CLUB",
+    "friendly": "Assiniboine Park Rangers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^ayr\\s*rockets$",
+    "type": "CLUB",
+    "friendly": "Ayr Rockets",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^baltimore\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Baltimore Stars",
+    "country": "US"
+  },
+  {
+    "pattern": "^barrie\\s*(jr|junior\\s*)?(sharks)?$",
+    "type": "CLUB",
+    "friendly": "Barrie Jr Sharks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^battleford\\s*sharks$",
+    "type": "CLUB",
+    "friendly": "Battleford Sharks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^belleville\\s*bearcats$",
+    "type": "CLUB",
+    "friendly": "Belleville Bearcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^belmont\\s*blazers$",
+    "type": "CLUB",
+    "friendly": "Belmont Blazers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^biggby\\s*(coffee\\s*)?(hockeyclub|hc)?$",
+    "type": "CLUB",
+    "friendly": "Biggby Coffee",
+    "country": "US"
+  },
+  {
+    "pattern": "^bluewater\\s*hawks$",
+    "type": "CLUB",
+    "friendly": "Bluewater Hawks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^boston\\s*(jr|junior)\\s*terriers$",
+    "type": "CLUB",
+    "friendly": "Boston Jr Terriers",
+    "country": "US"
+  },
+  {
+    "pattern": "^boston\\s*(jr|junior\\s*)?shamrocks$",
+    "type": "CLUB",
+    "friendly": "Boston Shamrocks",
+    "country": "US"
+  },
+  {
+    "pattern": "^bourget\\s*college\\s*girls\\s*varsity$",
+    "type": "CLUB",
+    "friendly": "Bourget College",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^bowie\\s*bruins$",
+    "type": "CLUB",
+    "friendly": "Bowie Bruins",
+    "country": "US"
+  },
+  {
+    "pattern": "^brampton\\s*(jr|junior\\s*)?(canadettes)?$",
+    "type": "CLUB",
+    "friendly": "Brampton Jr Canadettes",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^brandon\\s*wheat\\s*kings$",
+    "type": "CLUB",
+    "friendly": "Brandon Wheat Kings",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^brantford\\s*ice\\s*cats$",
+    "type": "CLUB",
+    "friendly": "Brantford Ice Cats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^buffalo\\s*(jr|junior)\\s*sabres$",
+    "type": "CLUB",
+    "friendly": "Buffalo Jr Sabres",
+    "country": "US"
+  },
+  {
+    "pattern": "^buffalo\\s*bisons$",
+    "type": "CLUB",
+    "friendly": "Buffalo Bisons",
+    "country": "US"
+  },
+  {
+    "pattern": "^buffalo\\s*regals$",
+    "type": "CLUB",
+    "friendly": "Buffalo Regals",
+    "country": "US"
+  },
+  {
+    "pattern": "^burlington\\s*(?:jr\\.?\\s*)?(?:barracudas)?$",
+    "type": "CLUB",
+    "friendly": "Burlington Barracudas",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^burnaby\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "Burnaby Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^caledon\\s*coyotes$",
+    "type": "CLUB",
+    "friendly": "Caledon Coyotes",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^calgary\\s*fire$",
+    "type": "CLUB",
+    "friendly": "Calgary Fire",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^california\\s*gold\\s*rush$",
+    "type": "CLUB",
+    "friendly": "California Gold Rush",
+    "country": "US"
+  },
+  {
+    "pattern": "^cambridge\\s*rivulettes$",
+    "type": "CLUB",
+    "friendly": "Cambridge Rivulettes",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^cambridge\\s*roadrunners$",
+    "type": "CLUB",
+    "friendly": "Cambridge Roadrunners",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^cape\\s*breton\\s*blizzard$",
+    "type": "CLUB",
+    "friendly": "Cape Breton Blizzard",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^cape\\s*breton\\s*lynx$",
+    "type": "CLUB",
+    "friendly": "Cape Breton Lynx",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^cape\\s*cod\\s*storm$",
+    "type": "CLUB",
+    "friendly": "Cape Cod Storm",
+    "country": "US"
+  },
+  {
+    "pattern": "^carleton\\s*place\\s*cyclones$",
+    "type": "CLUB",
+    "friendly": "Carleton Place Cyclones",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^carolina\\s*(jr|junior)\\s*canes$",
+    "type": "CLUB",
+    "friendly": "Carolina Jr Canes",
+    "country": "US"
+  },
+  {
+    "pattern": "^carolinaladythunderbirds$",
+    "type": "CLUB",
+    "friendly": "Carolina Thunderbirds",
+    "country": "US"
+  },
+  {
+    "pattern": "^casco\\s*bay\\s*(mariners)?$",
+    "type": "CLUB",
+    "friendly": "Casco Bay Mariners",
+    "country": "US"
+  },
+  {
+    "pattern": "^cazenovia\\s*chiefs$",
+    "type": "CLUB",
+    "friendly": "Cazenovia Chiefs",
+    "country": "US"
+  },
+  {
+    "pattern": "^cedarrapids\\s*(jr|junior)\\s*roughriders$",
+    "type": "CLUB",
+    "friendly": "Cedarrapids Jr Junior Roughriders",
+    "country": "US"
+  },
+  {
+    "pattern": "^central\\s*(ct|connecticut)\\s*capitals$",
+    "type": "CLUB",
+    "friendly": "Central Connecticut Capitals",
+    "country": "US"
+  },
+  {
+    "pattern": "^central\\s*ice\\s*pak$",
+    "type": "CLUB",
+    "friendly": "Central Ice Pak",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^central\\s*illinoisrevolution$",
+    "type": "CLUB",
+    "friendly": "Central IL Revolution",
+    "country": "US"
+  },
+  {
+    "pattern": "^central\\s*plains\\s*capitals$",
+    "type": "CLUB",
+    "friendly": "Central Plains Capitals",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^central\\s*storm$",
+    "type": "CLUB",
+    "friendly": "Central Storm",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^central\\s*york\\s*panthers$",
+    "type": "CLUB",
+    "friendly": "Central York Panthers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^cfha\\s*phantoms\\s*storm$",
+    "type": "CLUB",
+    "friendly": "CFHA Phantoms Storm",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^champlaincollegelennoxvillecougars$",
+    "type": "CLUB",
+    "friendly": "Champlain College-Lennoxville Cougars",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^chatham\\s*kent\\s*crush$",
+    "type": "CLUB",
+    "friendly": "Chatham Kent Crush",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^cherry\\s*creekladybruins$",
+    "type": "CLUB",
+    "friendly": "Cherry Creek Bruins",
+    "country": "US"
+  },
+  {
+    "pattern": "^chevy\\s*chase$",
+    "type": "CLUB",
+    "friendly": "Chevy Chase",
+    "country": "US"
+  },
+  {
+    "pattern": "^cheyennemountaincutthroats$",
+    "type": "CLUB",
+    "friendly": "Cheyenne Mtn Cutthroats",
+    "country": "US"
+  },
+  {
+    "pattern": "^cincinnati\\s*(jr|junior)\\s*cyclones$",
+    "type": "CLUB",
+    "friendly": "Cincinnati Jr Cyclones",
+    "country": "US"
+  },
+  {
+    "pattern": "^clarington\\s*flames$",
+    "type": "CLUB",
+    "friendly": "Clarington Flames",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^colorado\\s*springs\\s*tigers$",
+    "type": "CLUB",
+    "friendly": "Colorado Springs Tigers",
+    "country": "US"
+  },
+  {
+    "pattern": "^copper\\s*country$",
+    "type": "CLUB",
+    "friendly": "Copper Country",
+    "country": "US"
+  },
+  {
+    "pattern": "^cornwall\\s*(lady\\s*)?royals$",
+    "type": "CLUB",
+    "friendly": "Cornwall Lady Royals",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^crimson\\s*pride$",
+    "type": "CLUB",
+    "friendly": "Crimson Pride",
+    "country": "US"
+  },
+  {
+    "pattern": "^des\\s*moinesladywild$",
+    "type": "CLUB",
+    "friendly": "Des Moines Wild",
+    "country": "US"
+  },
+  {
+    "pattern": "^detroit\\s*bulldogs$",
+    "type": "CLUB",
+    "friendly": "Detroit Bulldogs",
+    "country": "US"
+  },
+  {
+    "pattern": "^durango\\s*demons$",
+    "type": "CLUB",
+    "friendly": "Durango Demons",
+    "country": "US"
+  },
+  {
+    "pattern": "^durham\\s*(?:w|west)?\\s*(?:jr\\.?|junior)?\\s*(?:lightning)?$",
+    "type": "CLUB",
+    "friendly": "Durham West Lightning",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^eastern\\s*ice\\s*breakers$",
+    "type": "CLUB",
+    "friendly": "Eastern Ice Breakers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^eastern\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Eastern Stars",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^eastman\\s*selects$",
+    "type": "CLUB",
+    "friendly": "Eastman Selects",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^east\\s*ottawa\\s*stars$",
+    "type": "CLUB",
+    "friendly": "East Ottawa Stars",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^edmonton\\s*(?:jr\\.?|junior)?\\s*oilers$",
+    "type": "CLUB",
+    "friendly": "Edmonton Jr Oilers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^edmonton\\s*ice$",
+    "type": "CLUB",
+    "friendly": "Edmonton Ice",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^etobicoke\\s*(?:jr\\.?|junior)?\\s*(?:dolphins)?$",
+    "type": "CLUB",
+    "friendly": "Etobicoke Dolphins",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^exton\\s*mighty\\s*moose$",
+    "type": "CLUB",
+    "friendly": "Exton Mighty Moose",
+    "country": "US"
+  },
+  {
+    "pattern": "^flatheadladyfusion$",
+    "type": "CLUB",
+    "friendly": "Flathead Fusion",
+    "country": "US"
+  },
+  {
+    "pattern": "^florida\\s*(girls\\s*)?alliance$",
+    "type": "CLUB",
+    "friendly": "Florida Alliance",
+    "country": "US"
+  },
+  {
+    "pattern": "^florida\\s*lady\\s*warriors$",
+    "type": "CLUB",
+    "friendly": "Florida Lady Warriors",
+    "country": "US"
+  },
+  {
+    "pattern": "^fox\\s*motors$",
+    "type": "CLUB",
+    "friendly": "Fox Motors",
+    "country": "US"
+  },
+  {
+    "pattern": "^franklin\\s*park\\s*panthers$",
+    "type": "CLUB",
+    "friendly": "Franklin Park Panthers",
+    "country": "US"
+  },
+  {
+    "pattern": "^fraser\\s*valley\\s*rush$",
+    "type": "CLUB",
+    "friendly": "Fraser Valley Rush",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^frederick\\s*freeze$",
+    "type": "CLUB",
+    "friendly": "Frederick Freeze",
+    "country": "US"
+  },
+  {
+    "pattern": "^fundy\\s*highland\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Fundy Highland Stars",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^fundy\\s*kraken$",
+    "type": "CLUB",
+    "friendly": "Fundy Kraken",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^glacier\\s*avalanche$",
+    "type": "CLUB",
+    "friendly": "Glacier Avalanche",
+    "country": "US"
+  },
+  {
+    "pattern": "^golden\\s*stateeliteeagles$",
+    "type": "CLUB",
+    "friendly": "Golden State Eagles",
+    "country": "US"
+  },
+  {
+    "pattern": "^grand\\s*junction\\s*west\\s*elk$",
+    "type": "CLUB",
+    "friendly": "Grand Junction West Elk",
+    "country": "US"
+  },
+  {
+    "pattern": "^greater\\s*vancouver\\s*comets$",
+    "type": "CLUB",
+    "friendly": "Greater Vancouver Comets",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^greenfoot\\s*capitals$",
+    "type": "CLUB",
+    "friendly": "Greenfoot Capitals",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^greenville\\s*lady\\s*warriors$",
+    "type": "CLUB",
+    "friendly": "Greenville Lady Warriors",
+    "country": "US"
+  },
+  {
+    "pattern": "^guelph\\s*(jr|junior\\s*)?gryphons$",
+    "type": "CLUB",
+    "friendly": "Guelph Jr Gryphons",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^hamden\\s*dragons$",
+    "type": "CLUB",
+    "friendly": "Hamden Dragons",
+    "country": "US"
+  },
+  {
+    "pattern": "^hamilton\\s*hawks$",
+    "type": "CLUB",
+    "friendly": "Hamilton Hawks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^hartford\\s*(jr|junior\\s*)?(lady\\s*)?wolfpack$",
+    "type": "CLUB",
+    "friendly": "Hartford Jr Wolfpack",
+    "country": "US"
+  },
+  {
+    "pattern": "^havre\\s*ice\\s*hawks$",
+    "type": "CLUB",
+    "friendly": "Havre Ice Hawks",
+    "country": "US"
+  },
+  {
+    "pattern": "^hoffman\\s*estateswolverines$",
+    "type": "CLUB",
+    "friendly": "Hoffman Estate Wolverines",
+    "country": "US"
+  },
+  {
+    "pattern": "^hti\\s*(lady\\s*)?stars$",
+    "type": "CLUB",
+    "friendly": "HTI Lady Stars",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^hyland\\s*hills\\s*jaguars$",
+    "type": "CLUB",
+    "friendly": "Hyland Hills Jaguars",
+    "country": "US"
+  },
+  {
+    "pattern": "^idaho\\s*(jr|junior)\\s*steelheads$",
+    "type": "CLUB",
+    "friendly": "Idaho Jr Steelheads",
+    "country": "US"
+  },
+  {
+    "pattern": "^indy\\s*(jr|junior)\\s*fuel$",
+    "type": "CLUB",
+    "friendly": "Indy Jr Fuel",
+    "country": "US"
+  },
+  {
+    "pattern": "^interlake\\s*lightning$",
+    "type": "CLUB",
+    "friendly": "Interlake Lightning",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^jackson\\s*hole\\s*moose$",
+    "type": "CLUB",
+    "friendly": "Jackson Hole Moose",
+    "country": "US"
+  },
+  {
+    "pattern": "^kamloops\\s*(jr|junior\\s*)?blazers$",
+    "type": "CLUB",
+    "friendly": "Kamloops Jr Blazers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(kansas\\s*city\\s*|kc\\s*)storm$",
+    "type": "CLUB",
+    "friendly": "KC Storm",
+    "country": "US"
+  },
+  {
+    "pattern": "^kelowna\\s*(jr|junior\\s*)?rockets$",
+    "type": "CLUB",
+    "friendly": "Kelowna Jr Rockets",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^kemptville\\s*thunder$",
+    "type": "CLUB",
+    "friendly": "Kemptville Thunder",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^kingston\\s*(?:jr\\.?|junior)?\\s*(?:ice\\s*wolves)?$",
+    "type": "CLUB",
+    "friendly": "Kingston Ice Wolves",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^kitchener\\s*(lady\\s*)?rangers$",
+    "type": "CLUB",
+    "friendly": "Kitchener Lady Rangers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^lac\\s*st\\s*louis\\s*warriors$",
+    "type": "CLUB",
+    "friendly": "Lac St Louis Warriors",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^lady\\s*patriots$",
+    "type": "CLUB",
+    "friendly": "Lady Patriots",
+    "country": "US"
+  },
+  {
+    "pattern": "^laurentideslanaudierestars$",
+    "type": "CLUB",
+    "friendly": "Laurentides-Lanaudiere Stars (QC)",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^lavalmontrealamazons$",
+    "type": "CLUB",
+    "friendly": "Laval-Montreal Amazons (QC)",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^lehigh\\s*valley\\s*phantoms$",
+    "type": "CLUB",
+    "friendly": "Lehigh Valley Phantoms",
+    "country": "US"
+  },
+  {
+    "pattern": "^limoilou\\s*titans$",
+    "type": "CLUB",
+    "friendly": "Limoilou Titans",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^lindsay\\s*surge$",
+    "type": "CLUB",
+    "friendly": "Lindsay Surge",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^livonia\\s*knights$",
+    "type": "CLUB",
+    "friendly": "Livonia Knights",
+    "country": "US"
+  },
+  {
+    "pattern": "^lloydminster\\s*steelers$",
+    "type": "CLUB",
+    "friendly": "Lloydminster Steelers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^london\\s*(?:jr\\.?|junior)?\\s*(?:devilettes)?$",
+    "type": "CLUB",
+    "friendly": "London Devilettes",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^louisville\\s*arctics$",
+    "type": "CLUB",
+    "friendly": "Louisville Arctics",
+    "country": "US"
+  },
+  {
+    "pattern": "^lumsden\\s*bethune\\s*lynx$",
+    "type": "CLUB",
+    "friendly": "Lumsden Bethune Lynx",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^lumsden\\s*lynx$",
+    "type": "CLUB",
+    "friendly": "Lumsden Lynx",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^maine\\s*gladiators$",
+    "type": "CLUB",
+    "friendly": "Maine Gladiators",
+    "country": "US"
+  },
+  {
+    "pattern": "^markhamstouffvillestars$",
+    "type": "CLUB",
+    "friendly": "Markham-Stouffville Stars",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^massena\\s*river\\s*queens$",
+    "type": "CLUB",
+    "friendly": "Massena River Queens",
+    "country": "US"
+  },
+  {
+    "pattern": "^mauricie\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Mauricie Stars",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^meadow\\s*ridge\\s*barracudas$",
+    "type": "CLUB",
+    "friendly": "Meadow Ridge Barracudas",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^metro\\s*(jr|junior)\\s*jets$",
+    "type": "CLUB",
+    "friendly": "Metro Jr Jr Jets / Metro Jr Junior Jets",
+    "country": "US"
+  },
+  {
+    "pattern": "^metro\\s*east\\s*inferno$",
+    "type": "CLUB",
+    "friendly": "Metro East Inferno",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^metro\\s*west\\s*force$",
+    "type": "CLUB",
+    "friendly": "Metro West Force",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^mid\\s*isle\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "Mid Isle Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^midland\\s*hornets$",
+    "type": "CLUB",
+    "friendly": "Midland Hornets",
+    "country": "US"
+  },
+  {
+    "pattern": "^midstatemustangs$",
+    "type": "CLUB",
+    "friendly": "Mid State Mustangs",
+    "country": "US"
+  },
+  {
+    "pattern": "^(milwaukee\\s*)?(jr|junior)\\.?\\s*admirals$",
+    "type": "CLUB",
+    "friendly": "Milwaukee Junior Admirals",
+    "country": "US"
+  },
+  {
+    "pattern": "^miramichi\\s*panthers$",
+    "type": "CLUB",
+    "friendly": "Miramichi Panthers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(?:mississauga|missy|missi)(?:\\s*(?:jr\\.?|junior)?\\s*hurricanes)?$",
+    "type": "CLUB",
+    "friendly": "Mississauga Hurricanes",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^missoula\\s*bruins$",
+    "type": "CLUB",
+    "friendly": "Missoula Bruins",
+    "country": "US"
+  },
+  {
+    "pattern": "^monarch\\s*coyotes$",
+    "type": "CLUB",
+    "friendly": "Monarch Coyotes",
+    "country": "US"
+  },
+  {
+    "pattern": "^moncton\\s*rockets$",
+    "type": "CLUB",
+    "friendly": "Moncton Rockets",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^montana\\s*rockies$",
+    "type": "CLUB",
+    "friendly": "Montana Rockies",
+    "country": "US"
+  },
+  {
+    "pattern": "^montgomery\\s*ice\\s*devils$",
+    "type": "CLUB",
+    "friendly": "Montgomery Ice Devils",
+    "country": "US"
+  },
+  {
+    "pattern": "^naperville\\s*(?:jr\\.?|junior)?\\s*sabres$",
+    "type": "CLUB",
+    "friendly": "Naperville Sabres",
+    "country": "US"
+  },
+  {
+    "pattern": "^nashville\\s*(jr\\.?|junior)?\\s*predators$",
+    "type": "CLUB",
+    "friendly": "Nashville Jr Predators",
+    "country": "US"
+  },
+  {
+    "pattern": "^navy\\s*rams$",
+    "type": "CLUB",
+    "friendly": "Navy Rams",
+    "country": "US"
+  },
+  {
+    "pattern": "^nepean\\s*(?:jr\\.?|junior)?\\s*(?:wildcats)?$",
+    "type": "CLUB",
+    "friendly": "Nepean Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^newjerseydevils$",
+    "type": "CLUB",
+    "friendly": "NJ Devils",
+    "country": "US"
+  },
+  {
+    "pattern": "^newjerseyrockets$",
+    "type": "CLUB",
+    "friendly": "NJ Rockets",
+    "country": "US"
+  },
+  {
+    "pattern": "^newmexicomustangs$",
+    "type": "CLUB",
+    "friendly": "NM Mustangs",
+    "country": "US"
+  },
+  {
+    "pattern": "^new\\s*tecumseth\\s*icecats$",
+    "type": "CLUB",
+    "friendly": "New Tecumseth IceCats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^niagara\\s*(jr|junior)?\\s*(purple\\s*)?eagles$",
+    "type": "CLUB",
+    "friendly": "Niagara Jr Purple Eagles",
+    "country": "US"
+  },
+  {
+    "pattern": "^niagara\\s*falls\\s*rapids$",
+    "type": "CLUB",
+    "friendly": "Niagara Falls Rapids",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^norman\\s*wild$",
+    "type": "CLUB",
+    "friendly": "Norman Wild",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*bay\\s*((jr|junior)?|junior)?lakers$",
+    "type": "CLUB",
+    "friendly": "North Bay Junior Lakers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*central\\s*impact$",
+    "type": "CLUB",
+    "friendly": "North Central Impact",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*east\\s*bc\\s*predators$",
+    "type": "CLUB",
+    "friendly": "North East BC Predators",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^northern\\s*(va|virginia)\\s*ice\\s*dogs$",
+    "type": "CLUB",
+    "friendly": "Northern VA Ice Dogs",
+    "country": "US"
+  },
+  {
+    "pattern": "^northern\\s*alberta\\s*xtreme\\s*(girls\\s*)?(prep)?$",
+    "type": "CLUB",
+    "friendly": "Northern Alberta Xtreme",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^northern\\s*capitals$",
+    "type": "CLUB",
+    "friendly": "Northern Capitals",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^northern\\s*subway\\s*selects$",
+    "type": "CLUB",
+    "friendly": "Northern Subway Selects",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*halton\\s*twisters$",
+    "type": "CLUB",
+    "friendly": "North Halton Twisters",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*island\\s*impact$",
+    "type": "CLUB",
+    "friendly": "North Island Impact",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*pittsburgh\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "North Pittsburgh Wildcats",
+    "country": "US"
+  },
+  {
+    "pattern": "^north\\s*shore\\s*avalanche$",
+    "type": "CLUB",
+    "friendly": "North Shore Avalanche",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*shore\\s*warriors$",
+    "type": "CLUB",
+    "friendly": "North Shore Warriors",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*shore\\s*winter\\s*club\\s*winterhawks$",
+    "type": "CLUB",
+    "friendly": "North Shore Winter Club Winterhawks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^northwest\\s*sharks$",
+    "type": "CLUB",
+    "friendly": "Northwest Sharks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*york\\s*(storm)?$",
+    "type": "CLUB",
+    "friendly": "North York Storm",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^notre\\s*dame\\s*hounds$",
+    "type": "CLUB",
+    "friendly": "Notre Dame Hounds",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^ny\\s*dynamo$",
+    "type": "CLUB",
+    "friendly": "NY Dynamo",
+    "country": "US"
+  },
+  {
+    "pattern": "^oakville\\s*(?:jr\\.?|junior)?\\s*(?:hornets)?$",
+    "type": "CLUB",
+    "friendly": "Oakville Hornets",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^ohio\\s*blue\\s*jackets$",
+    "type": "CLUB",
+    "friendly": "Ohio Bluejackets",
+    "country": "US"
+  },
+  {
+    "pattern": "^omahalady\\s*(jr|junior)\\s*lancers$",
+    "type": "CLUB",
+    "friendly": "Omaha Lancers",
+    "country": "US"
+  },
+  {
+    "pattern": "^orlandoladybears$",
+    "type": "CLUB",
+    "friendly": "Orlando Bears",
+    "country": "US"
+  },
+  {
+    "pattern": "^oshawa\\s*(lady\\s*)?generals$",
+    "type": "CLUB",
+    "friendly": "Oshawa Lady Generals",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^ottawa\\s*(?:lady)?\\s*67'?s?\\s*(?:jr\\.?|juniors?)?$",
+    "type": "CLUB",
+    "friendly": "Ottawa Jr 67s",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^ottawa\\s*(lady\\s*)?(senators|sens)\\s*(womens?\\s*hockey\\s*club)?$",
+    "type": "CLUB",
+    "friendly": "Ottawa Senators",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^outaouais\\s*intrepide$",
+    "type": "CLUB",
+    "friendly": "Outaouais Intrepide",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^outlook\\s*mainline\\s*ice\\s*hawks$",
+    "type": "CLUB",
+    "friendly": "Outlook Mainline Ice Hawks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^pacific\\s*steelers$",
+    "type": "CLUB",
+    "friendly": "Pacific Steelers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^parkland\\s*fire$",
+    "type": "CLUB",
+    "friendly": "Parkland Fire",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^peace\\s*country\\s*storm$",
+    "type": "CLUB",
+    "friendly": "Peace Country Storm",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^pembina\\s*trail\\s*twins$",
+    "type": "CLUB",
+    "friendly": "Pembina Trail Twins",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^pembina\\s*valley\\s*hawks$",
+    "type": "CLUB",
+    "friendly": "Pembina Valley Hawks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^peterborough\\s*ice\\s*kats$",
+    "type": "CLUB",
+    "friendly": "Peterborough Ice Kats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(?:philly|philadelphia)\\s*(?:jr\\.?|junior)?\\s*flyers$",
+    "type": "CLUB",
+    "friendly": "Philadelphia Jr Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^philadelphia\\s*liberties$",
+    "type": "CLUB",
+    "friendly": "Philadelphia Liberties",
+    "country": "US"
+  },
+  {
+    "pattern": "^piedmont\\s*predators$",
+    "type": "CLUB",
+    "friendly": "Piedmont Predators",
+    "country": "US"
+  },
+  {
+    "pattern": "^pittsburgh\\s*predators$",
+    "type": "CLUB",
+    "friendly": "Pittsburgh Predators",
+    "country": "US"
+  },
+  {
+    "pattern": "^plattsburgh\\s*(jr|junior)\\s*cardinals$",
+    "type": "CLUB",
+    "friendly": "Plattsburgh Jr Cardinals",
+    "country": "US"
+  },
+  {
+    "pattern": "^portland\\s*(jr|junior)\\s*winter\\s*hawks$",
+    "type": "CLUB",
+    "friendly": "Portland Jr Winter Hawks",
+    "country": "US"
+  },
+  {
+    "pattern": "^potomac\\s*lady\\s*patriots$",
+    "type": "CLUB",
+    "friendly": "Potomac Lady Patriots",
+    "country": "US"
+  },
+  {
+    "pattern": "^pownal\\s*red\\s*devils$",
+    "type": "CLUB",
+    "friendly": "Pownal Red Devils",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^prince\\s*albert\\s*bears$",
+    "type": "CLUB",
+    "friendly": "Prince Albert Bears",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^prince\\s*albert\\s*foxes$",
+    "type": "CLUB",
+    "friendly": "Prince Albert Foxes",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^quad\\s*city\\s*blues$",
+    "type": "CLUB",
+    "friendly": "Quad City Blues",
+    "country": "US"
+  },
+  {
+    "pattern": "^quad\\s*county\\s*whitecaps$",
+    "type": "CLUB",
+    "friendly": "Quad County Whitecaps",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^quebec\\s*as$",
+    "type": "CLUB",
+    "friendly": "Quebec As",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^queen\\s*city\\s*royals$",
+    "type": "CLUB",
+    "friendly": "Queen City Royals",
+    "country": "US"
+  },
+  {
+    "pattern": "^quinte\\s*red\\s*devils$",
+    "type": "CLUB",
+    "friendly": "Quinte Red Devils",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^red\\s*deer\\s*chiefs$",
+    "type": "CLUB",
+    "friendly": "Red Deer Chiefs",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^regina\\s*((jr|junior)?|junior)?rebels$",
+    "type": "CLUB",
+    "friendly": "Regina Junior Rebels",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^regina\\s*rebels$",
+    "type": "CLUB",
+    "friendly": "Regina Rebels",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^reston\\s*raiders$",
+    "type": "CLUB",
+    "friendly": "Reston Raiders",
+    "country": "US"
+  },
+  {
+    "pattern": "^richelieu\\s*remparts$",
+    "type": "CLUB",
+    "friendly": "Richelieu Remparts",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^richmond\\s*ravens$",
+    "type": "CLUB",
+    "friendly": "Richmond Ravens",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^ridley\\s*college\\s*tigers\\s*(girls\\s*)?(prep)?$",
+    "type": "CLUB",
+    "friendly": "Ridley College Tigers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^rochester\\s*edge$",
+    "type": "CLUB",
+    "friendly": "Rochester Edge",
+    "country": "US"
+  },
+  {
+    "pattern": "^rocky\\s*mountainladyrough\\s*riders$",
+    "type": "CLUB",
+    "friendly": "Rocky Mountain Rough Riders",
+    "country": "US"
+  },
+  {
+    "pattern": "^rocky\\s*mountain\\s*raiders$",
+    "type": "CLUB",
+    "friendly": "Rocky Mountain Raiders",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^san\\s*jose\\s*(jr|junior)?\\s*sharks$",
+    "type": "CLUB",
+    "friendly": "San Jose Jr Sharks",
+    "country": "US"
+  },
+  {
+    "pattern": "^saskatoon\\s*comet\\s*chargers$",
+    "type": "CLUB",
+    "friendly": "Saskatoon Comet Chargers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^saskatoon\\s*comet\\s*impact$",
+    "type": "CLUB",
+    "friendly": "Saskatoon Comet Impact",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^saskatoon\\s*prairie\\s*blaze$",
+    "type": "CLUB",
+    "friendly": "Saskatoon Prairie Blaze",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^saskatoon\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Saskatoon Stars",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^saugeenmaitlandlightning$",
+    "type": "CLUB",
+    "friendly": "Saugeen-Maitland Lightning",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^scarborough\\s*sharks$",
+    "type": "CLUB",
+    "friendly": "Scarborough Sharks",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^seacoast\\s*spartans$",
+    "type": "CLUB",
+    "friendly": "Seacoast Spartans",
+    "country": "US"
+  },
+  {
+    "pattern": "^sefha\\s*fury$",
+    "type": "CLUB",
+    "friendly": "SEFHA Fury",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^shawnigan\\s*lake\\s*school\\s*(girls\\s*)?(prep)?$",
+    "type": "CLUB",
+    "friendly": "Shawnigan Lake School",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^sherbrooke\\s*harfangs$",
+    "type": "CLUB",
+    "friendly": "Sherbrooke Harfangs",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^sherwood\\s*park\\s*reign$",
+    "type": "CLUB",
+    "friendly": "Sherwood Park Reign",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^sherwood\\s*park\\s*royals$",
+    "type": "CLUB",
+    "friendly": "Sherwood Park Royals",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^skaneateleslakers$",
+    "type": "CLUB",
+    "friendly": "Skaneatlas Lakers",
+    "country": "US"
+  },
+  {
+    "pattern": "^skylandladykings$",
+    "type": "CLUB",
+    "friendly": "Skyland Kings",
+    "country": "US"
+  },
+  {
+    "pattern": "^snider\\s*hockey$",
+    "type": "CLUB",
+    "friendly": "Snider Hockey",
+    "country": "US"
+  },
+  {
+    "pattern": "^sno\\s*king\\s*(jr|junior\\s*)?thunderbirds$",
+    "type": "CLUB",
+    "friendly": "Sno King Thunderbirds",
+    "country": "US"
+  },
+  {
+    "pattern": "^soo\\s*(jr|junior\\s*)?greyhounds$",
+    "type": "CLUB",
+    "friendly": "Soo Jr Greyhounds",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^southeast\\s*gold\\s*wings$",
+    "type": "CLUB",
+    "friendly": "Southeast Gold Wings",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^southern\\s*express$",
+    "type": "CLUB",
+    "friendly": "Southern Express",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^southern\\s*mary\\s*land\\s*sabres$",
+    "type": "CLUB",
+    "friendly": "Southern Mary Land Sabres",
+    "country": "US"
+  },
+  {
+    "pattern": "^southflorida\\s*lucky\\s*pucks$",
+    "type": "CLUB",
+    "friendly": "Southern Florida Lucky Pucks",
+    "country": "US"
+  },
+  {
+    "pattern": "^south\\s*pittsburgh\\s*rebellion$",
+    "type": "CLUB",
+    "friendly": "South Pittsburgh Rebellion",
+    "country": "US"
+  },
+  {
+    "pattern": "^southwest\\s*impact$",
+    "type": "CLUB",
+    "friendly": "Southwest Impact",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^southwest\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "Southwest Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^st\\s*albert\\s*chargers$",
+    "type": "CLUB",
+    "friendly": "St Albert Chargers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^st\\s*albert\\s*slash$",
+    "type": "CLUB",
+    "friendly": "St Albert Slash",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^stamfordladysharks$",
+    "type": "CLUB",
+    "friendly": "Stamford Sharks",
+    "country": "US"
+  },
+  {
+    "pattern": "^state\\s*line\\s*hawks$",
+    "type": "CLUB",
+    "friendly": "State Line Hawks",
+    "country": "US"
+  },
+  {
+    "pattern": "^st\\s*catharines\\s*brock\\s*(jr|junior\\s*)?badgers$",
+    "type": "CLUB",
+    "friendly": "St Catharines Brock Jr Badgers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^st\\s*laurent\\s*patriots$",
+    "type": "CLUB",
+    "friendly": "St Laurent Patriots",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^stoney(?:\\s+creek(?:\\s+(?:jr\\.?|junior)?\\s*sabres)?)?$",
+    "type": "CLUB",
+    "friendly": "Stoney Creek Sabres",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^stratford\\s*(aces)?$",
+    "type": "CLUB",
+    "friendly": "Stratford Aces",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^st\\s*vital\\s*victorias$",
+    "type": "CLUB",
+    "friendly": "St Vital Victorias",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^sudbury\\s*(lady\\s*)?(wolves)?$",
+    "type": "CLUB",
+    "friendly": "Sudbury Lady Wolves",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^summit\\s*lightning$",
+    "type": "CLUB",
+    "friendly": "Summit Lightning",
+    "country": "US"
+  },
+  {
+    "pattern": "^surrey\\s*falcons$",
+    "type": "CLUB",
+    "friendly": "Surrey Falcons",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^swift\\s*current\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "Swift Current Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^tampa\\s*bay\\s*crunch$",
+    "type": "CLUB",
+    "friendly": "Tampa Bay Crunch",
+    "country": "US"
+  },
+  {
+    "pattern": "^team\\s*alaska$",
+    "type": "CLUB",
+    "friendly": "Team Alaska",
+    "country": "US"
+  },
+  {
+    "pattern": "^team\\s*long\\s*island$",
+    "type": "CLUB",
+    "friendly": "Team Long Island",
+    "country": "US"
+  },
+  {
+    "pattern": "^telluride\\s*lizard\\s*heads$",
+    "type": "CLUB",
+    "friendly": "Telluride Lizard Heads",
+    "country": "US"
+  },
+  {
+    "pattern": "^thompsonokanaganlakers$",
+    "type": "CLUB",
+    "friendly": "Thompson-Okanagan Lakers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^thunder\\s*bay\\s*queens$",
+    "type": "CLUB",
+    "friendly": "Thunder Bay Queens",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^toronto\\s*(?:jr\\.?|junior)?\\s*aeros$",
+    "type": "CLUB",
+    "friendly": "Toronto Aeros",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(?:toronto\\s*)?(?:leaside\\s*(?:jr\\.?|junior)?\\s*(?:wildcats)?|wildcats)$",
+    "type": "CLUB",
+    "friendly": "Toronto Leaside Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^toronto\\s*(?:jr\\.?|junior)?\\s*(?:marlboros|marlies)",
+    "type": "CLUB",
+    "friendly": "Toronto Marlboros",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^traverse\\s*city\\s*north\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Traverse City North Stars",
+    "country": "US"
+  },
+  {
+    "pattern": "^tricitiespredators$",
+    "type": "CLUB",
+    "friendly": "Tri-Cities Predators",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^tripenice$",
+    "type": "CLUB",
+    "friendly": "Tri-Pen Ice",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^tri\\s*valley\\s*lady\\s*blue\\s*devils$",
+    "type": "CLUB",
+    "friendly": "Tri Valley Lady Blue Devils",
+    "country": "US"
+  },
+  {
+    "pattern": "^union\\s*thunder$",
+    "type": "CLUB",
+    "friendly": "Union Thunder",
+    "country": "US"
+  },
+  {
+    "pattern": "^vail\\s*mountaineers$",
+    "type": "CLUB",
+    "friendly": "Vail Mountaineers",
+    "country": "US"
+  },
+  {
+    "pattern": "^valley\\s*(jr|junior)\\s*warriors$",
+    "type": "CLUB",
+    "friendly": "Valley Jr Warriors",
+    "country": "US"
+  },
+  {
+    "pattern": "^valley\\s*wild$",
+    "type": "CLUB",
+    "friendly": "Valley Wild",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^vancouver\\s*angels$",
+    "type": "CLUB",
+    "friendly": "Vancouver Angels",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^vancouver\\s*island\\s*seals$",
+    "type": "CLUB",
+    "friendly": "Vancouver Island Seals",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^vegas\\s*(?:jr\\.?|junior)\\s*golden\\s*knights$",
+    "type": "CLUB",
+    "friendly": "Vegas Jr Golden Knights",
+    "country": "US"
+  },
+  {
+    "pattern": "^vermont\\s*(jr|junior)\\s*catamounts$",
+    "type": "CLUB",
+    "friendly": "Vermont Catamounts",
+    "country": "US"
+  },
+  {
+    "pattern": "^vermontflames$",
+    "type": "CLUB",
+    "friendly": "VT Flames",
+    "country": "US"
+  },
+  {
+    "pattern": "^victoria\\s*reign$",
+    "type": "CLUB",
+    "friendly": "Victoria Reign",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^warman\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "Warman Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^waterloo\\s*(?:jr\\.?|junior)?\\s*(?:ravens)?$",
+    "type": "CLUB",
+    "friendly": "Waterloo Ravens",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^webster\\s*cyclones$",
+    "type": "CLUB",
+    "friendly": "Webster Cyclones",
+    "country": "US"
+  },
+  {
+    "pattern": "^western\\s*flames$",
+    "type": "CLUB",
+    "friendly": "Western Flames",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^western\\s*prairie\\s*klippers$",
+    "type": "CLUB",
+    "friendly": "Western Prairie Klippers",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^western\\s*prairie\\s*thunder$",
+    "type": "CLUB",
+    "friendly": "Western Prairie Thunder",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^western\\s*warriors$",
+    "type": "CLUB",
+    "friendly": "Western Warriors",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^western\\s*wind$",
+    "type": "CLUB",
+    "friendly": "Western Wind",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^western\\s*wolves$",
+    "type": "CLUB",
+    "friendly": "Western Wolves",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^westman\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "Westman Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^westmoreland\\s*eagles$",
+    "type": "CLUB",
+    "friendly": "Westmoreland Eagles",
+    "country": "US"
+  },
+  {
+    "pattern": "^west\\s*northumberland\\s*wild$",
+    "type": "CLUB",
+    "friendly": "West Northumberland Wild",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^west\\s*seneca\\s*wings$",
+    "type": "CLUB",
+    "friendly": "West Seneca Wings",
+    "country": "US"
+  },
+  {
+    "pattern": "^weyburn\\s*gold\\s*wings$",
+    "type": "CLUB",
+    "friendly": "Weyburn Gold Wings",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^whitby\\s*(?:jr\\.?|junior)?\\s*(?:wolves)?$",
+    "type": "CLUB",
+    "friendly": "Whitby Wolves",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^windsor\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "Windsor Wildcats",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^winnipeg\\s*avros$",
+    "type": "CLUB",
+    "friendly": "Winnipeg Avros",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^winnipeg\\s*east\\s*saints$",
+    "type": "CLUB",
+    "friendly": "Winnipeg East Saints",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^winnipeg\\s*ice$",
+    "type": "CLUB",
+    "friendly": "Winnipeg Ice",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^winnipeg\\s*ne\\s*predators$",
+    "type": "CLUB",
+    "friendly": "Winnipeg NE Predators",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^winnipeg\\s*titans$",
+    "type": "CLUB",
+    "friendly": "Winnipeg Titans",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^yale\\s*bulldogs$",
+    "type": "CLUB",
+    "friendly": "Yale Bulldogs",
+    "country": "US"
+  },
+  {
+    "pattern": "^yellowhead\\s*chiefs$",
+    "type": "CLUB",
+    "friendly": "Yellowhead Chiefs",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^adirondack\\s*northstars$",
+    "type": "CLUB",
+    "friendly": "Adirondack Northstars",
+    "country": "US"
+  },
+  {
+    "pattern": "^adk\\s*northstars$",
+    "type": "CLUB",
+    "friendly": "ADK Northstars",
+    "country": "US"
+  },
+  {
+    "pattern": "^ahyha$",
+    "type": "CLUB",
+    "friendly": "AHYHA",
+    "country": "US"
+  },
+  {
+    "pattern": "^alaska\\s*all\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Alaska All Stars",
+    "country": "US"
+  },
+  {
+    "pattern": "^alexandria\\s*a$",
+    "type": "CLUB",
+    "friendly": "Alexandria A",
+    "country": "US"
+  },
+  {
+    "pattern": "^alexandria\\s*cardinals$",
+    "type": "CLUB",
+    "friendly": "Alexandria Cardinals",
+    "country": "US"
+  },
+  {
+    "pattern": "^amherst\\s*lady\\s*knights$",
+    "type": "CLUB",
+    "friendly": "Amherst Lady Knights",
+    "country": "US"
+  },
+  {
+    "pattern": "^anchorage\\s*north\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Anchorage North Stars",
+    "country": "US"
+  },
+  {
+    "pattern": "^archbishop\\s*williams$",
+    "type": "CLUB",
+    "friendly": "Archbishop Williams",
+    "country": "US"
+  },
+  {
+    "pattern": "^(arizona|az)?\\s*kachinas$",
+    "type": "CLUB",
+    "friendly": "Arizona Kachinas",
+    "country": "US"
+  },
+  {
+    "pattern": "^aviator\\s*hockey\\s*club$",
+    "type": "CLUB",
+    "friendly": "Aviator Hockey Club",
+    "country": "US"
+  },
+  {
+    "pattern": "^battlefords\\s*sharks$",
+    "type": "CLUB",
+    "friendly": "Battlefords Sharks",
+    "country": "US"
+  },
+  {
+    "pattern": "^beaver\\s*dam\\s*golden\\s*beavers$",
+    "type": "CLUB",
+    "friendly": "Beaver Dam Golden Beavers",
+    "country": "US"
+  },
+  {
+    "pattern": "^bismarck\\s*capitals$",
+    "type": "CLUB",
+    "friendly": "Bismarck Capitals",
+    "country": "US"
+  },
+  {
+    "pattern": "^boston\\s*advantage$",
+    "type": "CLUB",
+    "friendly": "Boston Advantage",
+    "country": "US"
+  },
+  {
+    "pattern": "^brookings\\s*rangers$",
+    "type": "CLUB",
+    "friendly": "Brookings Rangers",
+    "country": "US"
+  },
+  {
+    "pattern": "^california\\s*wave\\s*(hockey)?$",
+    "type": "CLUB",
+    "friendly": "California Wave Hockey",
+    "country": "US"
+  },
+  {
+    "pattern": "^carolina\\s*junior\\s*hurricanes$",
+    "type": "CLUB",
+    "friendly": "Carolina Junior Hurricanes",
+    "country": "US"
+  },
+  {
+    "pattern": "^cda\\s*lady\\s*thunder$",
+    "type": "CLUB",
+    "friendly": "CDA Lady Thunder",
+    "country": "US"
+  },
+  {
+    "pattern": "^centennial$",
+    "type": "CLUB",
+    "friendly": "Centennial",
+    "country": "US"
+  },
+  {
+    "pattern": "^center$",
+    "type": "CLUB",
+    "friendly": "Center",
+    "country": "US"
+  },
+  {
+    "pattern": "^cfm\\s*sabers$",
+    "type": "CLUB",
+    "friendly": "CFM Sabers",
+    "country": "US"
+  },
+  {
+    "pattern": "^(charles\\s*river|boch)\\s*(blazers)$",
+    "type": "CLUB",
+    "friendly": "Charles River",
+    "country": "US"
+  },
+  {
+    "pattern": "^cleveland\\s*barons$",
+    "type": "CLUB",
+    "friendly": "Cleveland Barons",
+    "country": "US"
+  },
+  {
+    "pattern": "^cleveland\\s*lady\\s*barons$",
+    "type": "CLUB",
+    "friendly": "Cleveland Lady Barons",
+    "country": "US"
+  },
+  {
+    "pattern": "^colorado\\s*select$",
+    "type": "CLUB",
+    "friendly": "Colorado Select",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:cpc\\s*)?(?:boston\\s*)?(?:americans)?$",
+    "type": "CLUB",
+    "friendly": "CPC Boston Americans",
+    "country": "US"
+  },
+  {
+    "pattern": "^crookston\\s*pirates$",
+    "type": "CLUB",
+    "friendly": "Crookston Pirates",
+    "country": "US"
+  },
+  {
+    "pattern": "^ct\\s*junior\\s*eagles$",
+    "type": "CLUB",
+    "friendly": "CT Junior Eagles",
+    "country": "US"
+  },
+  {
+    "pattern": "^dodge\\s*county\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "Dodge County Wildcats",
+    "country": "US"
+  },
+  {
+    "pattern": "^duluth\\s*marshall$",
+    "type": "CLUB",
+    "friendly": "Duluth Marshall",
+    "country": "US"
+  },
+  {
+    "pattern": "^east\\s*coast\\s*valkyries$",
+    "type": "CLUB",
+    "friendly": "East Coast Valkyries",
+    "country": "US"
+  },
+  {
+    "pattern": "^east\\s*grand\\s*forks\\s*greenwave$",
+    "type": "CLUB",
+    "friendly": "East Grand Forks Greenwave",
+    "country": "US"
+  },
+  {
+    "pattern": "^eastview\\s*girls\\s*varsity$",
+    "type": "CLUB",
+    "friendly": "Eastview Girls Varsity",
+    "country": "US"
+  },
+  {
+    "pattern": "^fargo\\s*davies\\s*(girls\\s*)?(hockey)?$",
+    "type": "CLUB",
+    "friendly": "Fargo Davies Girls Hockey",
+    "country": "US"
+  },
+  {
+    "pattern": "^fargo\\s*(freeze)?$",
+    "type": "CLUB",
+    "friendly": "Fargo Freeze",
+    "country": "US"
+  },
+  {
+    "pattern": "^florida\\s*warriors\\s*boys$",
+    "type": "CLUB",
+    "friendly": "Florida Warriors Boys",
+    "country": "US"
+  },
+  {
+    "pattern": "^fond\\s*du\\s*lac\\s*(warbirds)?$",
+    "type": "CLUB",
+    "friendly": "Fond Du Lac Warbirds",
+    "country": "US"
+  },
+  {
+    "pattern": "^fox\\s*cities\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Fox Cities Stars",
+    "country": "US"
+  },
+  {
+    "pattern": "^fox\\s*warriors$",
+    "type": "CLUB",
+    "friendly": "Fox Warriors",
+    "country": "US"
+  },
+  {
+    "pattern": "^gentry\\s*academy\\s*stars$",
+    "type": "CLUB",
+    "friendly": "Gentry Academy Stars",
+    "country": "US"
+  },
+  {
+    "pattern": "^glacier\\s*high\\s*school\\s*hockey$",
+    "type": "CLUB",
+    "friendly": "Glacier High School Hockey",
+    "country": "US"
+  },
+  {
+    "pattern": "^golden\\s*state\\s*elite$",
+    "type": "CLUB",
+    "friendly": "Golden State Elite",
+    "country": "US"
+  },
+  {
+    "pattern": "^goldrush\\s*girls$",
+    "type": "CLUB",
+    "friendly": "Goldrush Girls",
+    "country": "US"
+  },
+  {
+    "pattern": "^grand\\s*forks$",
+    "type": "CLUB",
+    "friendly": "Grand Forks",
+    "country": "US"
+  },
+  {
+    "pattern": "^grand\\s*forks\\s*youth\\s*hockey$",
+    "type": "CLUB",
+    "friendly": "Grand Forks Youth Hockey",
+    "country": "US"
+  },
+  {
+    "pattern": "^grand\\s*rapids\\s*lightning$",
+    "type": "CLUB",
+    "friendly": "Grand Rapids Lightning",
+    "country": "US"
+  },
+  {
+    "pattern": "^green\\s*bay\\s*bobcats$",
+    "type": "CLUB",
+    "friendly": "Green Bay Bobcats",
+    "country": "US"
+  },
+  {
+    "pattern": "^hartford\\s*hurricanes$",
+    "type": "CLUB",
+    "friendly": "Hartford Hurricanes",
+    "country": "US"
+  },
+  {
+    "pattern": "^haywardcoop$",
+    "type": "CLUB",
+    "friendly": "Hayward Co-Op",
+    "country": "US"
+  },
+  {
+    "pattern": "^hcf$",
+    "type": "CLUB",
+    "friendly": "HCF",
+    "country": "US"
+  },
+  {
+    "pattern": "^hh\\s*dow\\s*high\\s*school\\s*boys\\s*varsity$",
+    "type": "CLUB",
+    "friendly": "HH Dow High School Boys Varsity",
+    "country": "US"
+  },
+  {
+    "pattern": "^hockey\\s*club\\s*fairbanks$",
+    "type": "CLUB",
+    "friendly": "Hockey Club Fairbanks",
+    "country": "US"
+  },
+  {
+    "pattern": "^holy\\s*family\\s*catholic$",
+    "type": "CLUB",
+    "friendly": "Holy Family Catholic",
+    "country": "US"
+  },
+  {
+    "pattern": "^holy\\s*family\\s*fire$",
+    "type": "CLUB",
+    "friendly": "Holy Family Fire",
+    "country": "US"
+  },
+  {
+    "pattern": "^honeybaked\\s*boys$",
+    "type": "CLUB",
+    "friendly": "Honeybaked Boys",
+    "country": "US"
+  },
+  {
+    "pattern": "^hyland\\s*hills\\s*lady\\s*jaguars$",
+    "type": "CLUB",
+    "friendly": "Hyland Hills Lady Jaguars",
+    "country": "US"
+  },
+  {
+    "pattern": "^illinois$",
+    "type": "CLUB",
+    "friendly": "Illinois",
+    "country": "US"
+  },
+  {
+    "pattern": "^jamestown\\s*blue\\s*jays$",
+    "type": "CLUB",
+    "friendly": "Jamestown Blue Jays",
+    "country": "US"
+  },
+  {
+    "pattern": "^jrflyers$",
+    "type": "CLUB",
+    "friendly": "Jr. Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^junior\\s*canes$",
+    "type": "CLUB",
+    "friendly": "Junior Canes",
+    "country": "US"
+  },
+  {
+    "pattern": "^junior\\s*flyers$",
+    "type": "CLUB",
+    "friendly": "Junior Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^junior\\s*flyers$",
+    "type": "CLUB",
+    "friendly": "Junior Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^junior\\s*flyers\\s*elite$",
+    "type": "CLUB",
+    "friendly": "Junior Flyers Elite",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn|minn|minnesota)?\\s*(?:jr\\.?|junior)?\\s*white\\s*caps$",
+    "type": "CLUB",
+    "friendly": "MN Jr Whitecaps",
+    "country": "US"
+  },
+  {
+    "pattern": "^kachinas\\s*elite\\s*green$",
+    "type": "CLUB",
+    "friendly": "Kachinas Elite Green",
+    "country": "US"
+  },
+  {
+    "pattern": "^kensington\\s*valley\\s*ravens$",
+    "type": "CLUB",
+    "friendly": "Kensington Valley Ravens",
+    "country": "US"
+  },
+  {
+    "pattern": "^kingdom\\s*blades$",
+    "type": "CLUB",
+    "friendly": "Kingdom Blades",
+    "country": "US"
+  },
+  {
+    "pattern": "^knightriders$",
+    "type": "CLUB",
+    "friendly": "Knightriders",
+    "country": "US"
+  },
+  {
+    "pattern": "^lady\\s*barons$",
+    "type": "CLUB",
+    "friendly": "Lady Barons",
+    "country": "US"
+  },
+  {
+    "pattern": "^lady\\s*blue\\s*devils$",
+    "type": "CLUB",
+    "friendly": "Lady Blue Devils",
+    "country": "US"
+  },
+  {
+    "pattern": "^lady\\s*blues$",
+    "type": "CLUB",
+    "friendly": "Lady Blues",
+    "country": "US"
+  },
+  {
+    "pattern": "^lafayette\\s*locomotive$",
+    "type": "CLUB",
+    "friendly": "Lafayette Locomotive",
+    "country": "US"
+  },
+  {
+    "pattern": "^lafayette\\s*locos$",
+    "type": "CLUB",
+    "friendly": "Lafayette Locos",
+    "country": "US"
+  },
+  {
+    "pattern": "^lawrenceville$",
+    "type": "CLUB",
+    "friendly": "Lawrenceville",
+    "country": "US"
+  },
+  {
+    "pattern": "^legacy\\s*bismarck$",
+    "type": "CLUB",
+    "friendly": "Legacy Bismarck",
+    "country": "US"
+  },
+  {
+    "pattern": "^littleton$",
+    "type": "CLUB",
+    "friendly": "Littleton",
+    "country": "US"
+  },
+  {
+    "pattern": "^long\\s*beach\\s*lightning$",
+    "type": "CLUB",
+    "friendly": "Long Beach Lightning",
+    "country": "US"
+  },
+  {
+    "pattern": "^long\\s*island\\s*gulls$",
+    "type": "CLUB",
+    "friendly": "Long Island Gulls",
+    "country": "US"
+  },
+  {
+    "pattern": "^lovell\\s*winter\\s*club$",
+    "type": "CLUB",
+    "friendly": "Lovell Winter Club",
+    "country": "US"
+  },
+  {
+    "pattern": "^madison\\s*capitols\\s*girls$",
+    "type": "CLUB",
+    "friendly": "Madison Capitols Girls",
+    "country": "US"
+  },
+  {
+    "pattern": "^maine\\s*nordiques$",
+    "type": "CLUB",
+    "friendly": "Maine Nordiques",
+    "country": "US"
+  },
+  {
+    "pattern": "^mamaroneck\\s*girls$",
+    "type": "CLUB",
+    "friendly": "Mamaroneck Girls",
+    "country": "US"
+  },
+  {
+    "pattern": "^mamaroneck\\s*tigers$",
+    "type": "CLUB",
+    "friendly": "Mamaroneck Tigers",
+    "country": "US"
+  },
+  {
+    "pattern": "^marshall\\s*tigers$",
+    "type": "CLUB",
+    "friendly": "Marshall Tigers",
+    "country": "US"
+  },
+  {
+    "pattern": "^massconn\\s*united$",
+    "type": "CLUB",
+    "friendly": "Massconn United",
+    "country": "US"
+  },
+  {
+    "pattern": "^mid\\s*fairfield\\s*selects$",
+    "type": "CLUB",
+    "friendly": "Mid Fairfield Selects",
+    "country": "US"
+  },
+  {
+    "pattern": "^midfairfield\\s*ct$",
+    "type": "CLUB",
+    "friendly": "Midfairfield CT",
+    "country": "US"
+  },
+  {
+    "pattern": "^minnesota\\s*flyers$",
+    "type": "CLUB",
+    "friendly": "Minnesota Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^missisquoi\\s*valley\\s*union$",
+    "type": "CLUB",
+    "friendly": "Missisquoi Valley Union",
+    "country": "US"
+  },
+  {
+    "pattern": "^moorhead\\s*spuds$",
+    "type": "CLUB",
+    "friendly": "Moorhead Spuds",
+    "country": "US"
+  },
+  {
+    "pattern": "^moose\\s*lake\\s*area\\s*rebels$",
+    "type": "CLUB",
+    "friendly": "Moose Lake Area Rebels",
+    "country": "US"
+  },
+  {
+    "pattern": "^new\\s*england\\s*wildcats$",
+    "type": "CLUB",
+    "friendly": "New England Wildcats",
+    "country": "US"
+  },
+  {
+    "pattern": "^new\\s*hampton\\s*huskies$",
+    "type": "CLUB",
+    "friendly": "New Hampton Huskies",
+    "country": "US"
+  },
+  {
+    "pattern": "^nj\\s*rockets$",
+    "type": "CLUB",
+    "friendly": "NJ Rockets",
+    "country": "US"
+  },
+  {
+    "pattern": "^nm\\s*ice$",
+    "type": "CLUB",
+    "friendly": "NM Ice",
+    "country": "US"
+  },
+  {
+    "pattern": "^nm\\s*ice\\s*wolves$",
+    "type": "CLUB",
+    "friendly": "NM Ice Wolves",
+    "country": "US"
+  },
+  {
+    "pattern": "^north\\s*shore\\s*vipers$",
+    "type": "CLUB",
+    "friendly": "North Shore Vipers",
+    "country": "US"
+  },
+  {
+    "pattern": "^north\\s*wright\\s*county\\s*riverhawks$",
+    "type": "CLUB",
+    "friendly": "North Wright County Riverhawks",
+    "country": "US"
+  },
+  {
+    "pattern": "^northern\\s*express$",
+    "type": "CLUB",
+    "friendly": "Northern Express",
+    "country": "US"
+  },
+  {
+    "pattern": "^northfield\\s*raiders$",
+    "type": "CLUB",
+    "friendly": "Northfield Raiders",
+    "country": "US"
+  },
+  {
+    "pattern": "^northstar\\s*girls$",
+    "type": "CLUB",
+    "friendly": "Northstar Girls",
+    "country": "US"
+  },
+  {
+    "pattern": "^northstars\\s*team\\s*alaska\\s*team$",
+    "type": "CLUB",
+    "friendly": "Northstars Team Alaska Team",
+    "country": "US"
+  },
+  {
+    "pattern": "^northwood\\s*prep$",
+    "type": "CLUB",
+    "friendly": "Northwood Prep",
+    "country": "US"
+  },
+  {
+    "pattern": "^northwood\\s*school\\s*philadelphia$",
+    "type": "CLUB",
+    "friendly": "Northwood School Philadelphia",
+    "country": "US"
+  },
+  {
+    "pattern": "^notre\\s*dame\\s*academy\\s*hingham$",
+    "type": "CLUB",
+    "friendly": "Notre Dame Academy Hingham",
+    "country": "US"
+  },
+  {
+    "pattern": "^nwc\\s*riverhawks$",
+    "type": "CLUB",
+    "friendly": "NWC Riverhawks",
+    "country": "US"
+  },
+  {
+    "pattern": "^oahe\\s*lady\\s*capitals$",
+    "type": "CLUB",
+    "friendly": "Oahe Lady Capitals",
+    "country": "US"
+  },
+  {
+    "pattern": "^oakland\\s*junior\\s*grizzlies$",
+    "type": "CLUB",
+    "friendly": "Oakland Junior Grizzlies",
+    "country": "US"
+  },
+  {
+    "pattern": "^pal\\s*bantam\\s*major$",
+    "type": "CLUB",
+    "friendly": "PAL Bantam Major",
+    "country": "US"
+  },
+  {
+    "pattern": "^parma\\s*flyers$",
+    "type": "CLUB",
+    "friendly": "Parma Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^portledge\\s*school$",
+    "type": "CLUB",
+    "friendly": "Portledge School",
+    "country": "US"
+  },
+  {
+    "pattern": "^ptl$",
+    "type": "CLUB",
+    "friendly": "PTL",
+    "country": "US"
+  },
+  {
+    "pattern": "^rgh$",
+    "type": "CLUB",
+    "friendly": "RGH",
+    "country": "US"
+  },
+  {
+    "pattern": "^ri\\s*sting$",
+    "type": "CLUB",
+    "friendly": "RI Sting",
+    "country": "US"
+  },
+  {
+    "pattern": "^rochester\\s*coalition$",
+    "type": "CLUB",
+    "friendly": "Rochester Coalition",
+    "country": "US"
+  },
+  {
+    "pattern": "^rogers\\s*varsity$",
+    "type": "CLUB",
+    "friendly": "Rogers Varsity",
+    "country": "US"
+  },
+  {
+    "pattern": "^rome\\s*(girls\\s*)?(grizzlies)?(hockey)?$",
+    "type": "CLUB",
+    "friendly": "Rome Grizzlies",
+    "country": "US"
+  },
+  {
+    "pattern": "^royal\\s*oak\\s*eagles$",
+    "type": "CLUB",
+    "friendly": "Royal Oak Eagles",
+    "country": "US"
+  },
+  {
+    "pattern": "^saintmarys$",
+    "type": "CLUB",
+    "friendly": "Saint Mary\u2019s",
+    "country": "US"
+  },
+  {
+    "pattern": "^san\\s*diego\\s*angels$",
+    "type": "CLUB",
+    "friendly": "San Diego Angels",
+    "country": "US"
+  },
+  {
+    "pattern": "^san\\s*josejrsharks\\s*girls$",
+    "type": "CLUB",
+    "friendly": "San Jose Jr. Sharks Girls",
+    "country": "US"
+  },
+  {
+    "pattern": "^schenectady\\s*boys$",
+    "type": "CLUB",
+    "friendly": "Schenectady Boys",
+    "country": "US"
+  },
+  {
+    "pattern": "^sioux\\s*falls\\s*flyers$",
+    "type": "CLUB",
+    "friendly": "Sioux Falls Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^snoking$",
+    "type": "CLUB",
+    "friendly": "Sno-King",
+    "country": "US"
+  },
+  {
+    "pattern": "^snokingyouth$",
+    "type": "CLUB",
+    "friendly": "Sno-King Youth",
+    "country": "US"
+  },
+  {
+    "pattern": "^south\\s*central\\s*flyers$",
+    "type": "CLUB",
+    "friendly": "South Central Flyers",
+    "country": "US"
+  },
+  {
+    "pattern": "^south\\s*westchester\\s*blackhawks$",
+    "type": "CLUB",
+    "friendly": "South Westchester Blackhawks",
+    "country": "US"
+  },
+  {
+    "pattern": "^st\\s*croix\\s*valley\\s*fusion$",
+    "type": "CLUB",
+    "friendly": "St Croix Valley Fusion",
+    "country": "US"
+  },
+  {
+    "pattern": "^stjames\\s*academy$",
+    "type": "CLUB",
+    "friendly": "St. James Academy",
+    "country": "US"
+  },
+  {
+    "pattern": "^stjames\\s*gold$",
+    "type": "CLUB",
+    "friendly": "St. James Gold",
+    "country": "US"
+  },
+  {
+    "pattern": "^stars\\s*elite$",
+    "type": "CLUB",
+    "friendly": "Stars Elite",
+    "country": "US"
+  },
+  {
+    "pattern": "^stateline$",
+    "type": "CLUB",
+    "friendly": "Stateline",
+    "country": "US"
+  },
+  {
+    "pattern": "^steel\\s*city\\s*selects$",
+    "type": "CLUB",
+    "friendly": "Steel City Selects",
+    "country": "US"
+  },
+  {
+    "pattern": "^stillwater\\s*ponies$",
+    "type": "CLUB",
+    "friendly": "Stillwater Ponies",
+    "country": "US"
+  },
+  {
+    "pattern": "^sv\\s*youth\\s*hockey$",
+    "type": "CLUB",
+    "friendly": "SV Youth Hockey",
+    "country": "US"
+  },
+  {
+    "pattern": "^syracuse\\s*nationals$",
+    "type": "CLUB",
+    "friendly": "Syracuse Nationals",
+    "country": "US"
+  },
+  {
+    "pattern": "^syracuse\\s*valley\\s*eagles$",
+    "type": "CLUB",
+    "friendly": "Syracuse Valley Eagles",
+    "country": "US"
+  },
+  {
+    "pattern": "^team\\s*colorado$",
+    "type": "CLUB",
+    "friendly": "Team Colorado",
+    "country": "US"
+  },
+  {
+    "pattern": "^team\\s*long\\s*island$",
+    "type": "CLUB",
+    "friendly": "Team Long Island",
+    "country": "US"
+  },
+  {
+    "pattern": "^team\\s*south\\s*dakota$",
+    "type": "CLUB",
+    "friendly": "Team South Dakota",
+    "country": "US"
+  },
+  {
+    "pattern": "^team\\s*wisconsin$",
+    "type": "CLUB",
+    "friendly": "Team Wisconsin",
+    "country": "US"
+  },
+  {
+    "pattern": "^tricityjramericans$",
+    "type": "CLUB",
+    "friendly": "Tri-City Jr. Americans",
+    "country": "US"
+  },
+  {
+    "pattern": "^trivalleybulls$",
+    "type": "CLUB",
+    "friendly": "Tri-Valley Bulls",
+    "country": "US"
+  },
+  {
+    "pattern": "^utah\\s*lady\\s*grizzles$",
+    "type": "CLUB",
+    "friendly": "Utah Lady Grizzles",
+    "country": "US"
+  },
+  {
+    "pattern": "^utah\\s*lady\\s*grizzlies$",
+    "type": "CLUB",
+    "friendly": "Utah Lady Grizzlies",
+    "country": "US"
+  },
+  {
+    "pattern": "^uvha\\s*swarm\\s*green$",
+    "type": "CLUB",
+    "friendly": "UVHA Swarm Green",
+    "country": "US"
+  },
+  {
+    "pattern": "^valley\\s*thunder\\s*girls$",
+    "type": "CLUB",
+    "friendly": "Valley Thunder Girls",
+    "country": "US"
+  },
+  {
+    "pattern": "^vipers$",
+    "type": "CLUB",
+    "friendly": "Vipers",
+    "country": "US"
+  },
+  {
+    "pattern": "^washington\\s*pride$",
+    "type": "CLUB",
+    "friendly": "Washington Pride",
+    "country": "US"
+  },
+  {
+    "pattern": "^washington\\s*wild$",
+    "type": "CLUB",
+    "friendly": "Washington Wild",
+    "country": "US"
+  },
+  {
+    "pattern": "^wenatchee\\s*wolverines$",
+    "type": "CLUB",
+    "friendly": "Wenatchee Wolverines",
+    "country": "US"
+  },
+  {
+    "pattern": "^west\\s*dundee\\s*leafs$",
+    "type": "CLUB",
+    "friendly": "West Dundee Leafs",
+    "country": "US"
+  },
+  {
+    "pattern": "^west\\s*fargo\\s*stampede$",
+    "type": "CLUB",
+    "friendly": "West Fargo Stampede",
+    "country": "US"
+  },
+  {
+    "pattern": "^west\\s*fargo\\s*stampede$",
+    "type": "CLUB",
+    "friendly": "West Fargo Stampede",
+    "country": "US"
+  },
+  {
+    "pattern": "^wisconsin\\s*tnt$",
+    "type": "CLUB",
+    "friendly": "Wisconsin TNT",
+    "country": "US"
+  },
+  {
+    "pattern": "^york\\s*(lady\\s*)?devils$",
+    "type": "CLUB",
+    "friendly": "York Devils",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+green(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Green",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+navy(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Navy",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+black(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Black",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+white(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite White",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+vegas(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Vegas",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+gold(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Gold",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+silver(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Silver",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+blue(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Blue",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+sky(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Sky",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:mn\\s+elite|msp(?:\\s+elite)?)\\s+orange(?:\\s*(?:-\\s*.*|\\([^)]*\\)))?$",
+    "type": "CLUB",
+    "friendly": "MN Elite Orange",
+    "country": "US"
+  },
+  {
+    "pattern": "^(mount|mt)\\s*(saint|st)\\s*charles\\s*(academy)?$",
+    "type": "ACADEMY",
+    "friendly": "Mount St Charles",
+    "country": "US"
+  },
+  {
+    "pattern": "^(rochester\\s*youth\\s*hockey\\s*-\\s*)?(bishop\\s*kearney|bishopkearney|bk)\\s*(selects)?\\s*(academy)?",
+    "type": "ACADEMY",
+    "friendly": "BK Selects",
+    "country": "US"
+  },
+  {
+    "pattern": "^(naha|north\\s*american\\s*hockey\\s*(academy)?)\\s*(red|white)?\\s*(jr|junior)?\\s*(winter)?\\s*(hawks)?$",
+    "type": "ACADEMY",
+    "friendly": "NAHA",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:rink|rha)\\s*(?:(?:hockey\\s*academy)|h\\s*a)?\\s*(?:kelowna)?\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "RINK Kelowna",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(?:rink|rha)\\s*(?:(?:hockey\\s*academy)|h\\s*a)?\\s*(?:winnipeg)?\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "RINK Winnepeg",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(shattuck[-\\s]*(st\\.?[-\\s]*mary['\u2019]?s?)?[-\\s]*(girls)?[-\\s]*(prep)?|ssm)$",
+    "type": "ACADEMY",
+    "friendly": "Shattuck-St. Mary's",
+    "country": "US"
+  },
+  {
+    "pattern": "^bostonhockey\\s*(academy)?$",
+    "type": "ACADEMY",
+    "friendly": "Boston Hockey Academy",
+    "country": "US"
+  },
+  {
+    "pattern": "^culver\\s*(girls)?(academy|academies)?(girls)?(prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Culver Academies",
+    "country": "US"
+  },
+  {
+    "pattern": "^delta\\s*hockey\\s*(?:academy|acad\\.?)\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Delta Hockey Academy",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^gilmour\\s*(prep)?(academy)?(girls)?(prep)?(gladiators)?$",
+    "type": "ACADEMY",
+    "friendly": "Gilmour Academy",
+    "country": "US"
+  },
+  {
+    "pattern": "^lovell\\s*(academy)?(lions)?$",
+    "type": "ACADEMY",
+    "friendly": "Lovell Academy",
+    "country": "US"
+  },
+  {
+    "pattern": "^northwood\\s*(prep)?(school)?$",
+    "type": "ACADEMY",
+    "friendly": "Northwood School",
+    "country": "US"
+  },
+  {
+    "pattern": "^okanagan\\s*(?:hockey\\s*academy|ha)\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Okanagan Hockey Academy",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(?:ontario\\s*hockey\\s*academy|oha)\\s*(?:mavericks)?\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Ontario Hockey Academy",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^pilotmoundhockeyacademy\\s*(girls)?(prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Pilot Mound Hockey Academy",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^rice\\s*(?:memorial)?\\s*(?:school)?\\s*(?:girls)?\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Rice Memorial",
+    "country": "US"
+  },
+  {
+    "pattern": "^(?:south[-\\s]*alberta[-\\s]*hockey[-\\s]*academy|saha)\\s*(?:girls)?\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "South Alberta Hockey Academy",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^stmarysacademy\\s*(girls)?(prep)?$",
+    "type": "ACADEMY",
+    "friendly": "St Marys Academy",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^stanstead\\s*(?:college\\s*)?(?:girls\\s*)?(?:prep\\s*)?$",
+    "type": "ACADEMY",
+    "friendly": "Stanstead College",
+    "country": "US"
+  },
+  {
+    "pattern": "^edge\\s*(school)?(prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Edge School",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^balmoral\\s*hall\\s*(?:school)?\\s*(?:girls)?\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Balmoral Hall",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^calgary\\s*edge\\s*school\\s*(girls\\s*)?(prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Calgary Edge School",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^dawson\\s*(college\\s*)?(blues)?$",
+    "type": "ACADEMY",
+    "friendly": "Dawson College Blues",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^john\\s*abbott\\s*college\\s*(?:islanders)?$",
+    "type": "ACADEMY",
+    "friendly": "John Abbott College (QC)",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^oha\\s*edmonton\\s*(girls\\s*)?(prep)?$",
+    "type": "ACADEMY",
+    "friendly": "OHA Edmonton",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^winchendon\\s*(?:school|prep)?$",
+    "type": "ACADEMY",
+    "friendly": "Winchendon School",
+    "country": "US"
+  }
+]
