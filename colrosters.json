@@ -64649,6 +64649,272 @@
         "ctry": "US",
         "no": "35"
       }
+    ],
+    "Cornell": [
+      {
+        "name": "Jeanne Lortie",
+        "pk": "lortie|jeanne",
+        "y": "Jr",
+        "pos": "G",
+        "ht": "5-7",
+        "home": "Montreal",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "1"
+      },
+      {
+        "name": "Rachel Bishop",
+        "pk": "bishop|rachel",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-8",
+        "home": "Baie-D'Urfe",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "2"
+      },
+      {
+        "name": "Piper Grober",
+        "pk": "grober|piper",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-7",
+        "home": "Toronto",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "3"
+      },
+      {
+        "name": "Lily Pachl",
+        "pk": "pachl|lillian",
+        "y": "So",
+        "pos": "D",
+        "ht": "5-3",
+        "home": "Hudson",
+        "st": "WI",
+        "ctry": "US",
+        "no": "5"
+      },
+      {
+        "name": "Abby Thibodeau",
+        "pk": "thibodeau|abigail",
+        "y": "Sr",
+        "pos": "D",
+        "ht": "5-5",
+        "home": "Fonthill",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "7"
+      },
+      {
+        "name": "Taya Lonsdale",
+        "pk": "lonsdale|taya",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-9",
+        "home": "Shawnigan Lake",
+        "st": "BC",
+        "ctry": "Canada",
+        "no": "8"
+      },
+      {
+        "name": "Lindzi Avar",
+        "pk": "avar|lindzi",
+        "y": "Jr",
+        "pos": "F",
+        "ht": "5-10",
+        "home": "Chanhassen",
+        "st": "MN",
+        "ctry": "US",
+        "no": "9"
+      },
+      {
+        "name": "Beatrice Perron-Roy",
+        "pk": "perronroy|beatrice",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Sherbrooke",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "10"
+      },
+      {
+        "name": "Riley Scorgie",
+        "pk": "scorgie|riley",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Edmonton",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "12"
+      },
+      {
+        "name": "Zahra Nauhaus",
+        "pk": "nauhaus|zahra",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Pittsburgh",
+        "st": "PA",
+        "ctry": "US",
+        "no": "13"
+      },
+      {
+        "name": "Keira Bruen",
+        "pk": "bruen|keira",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "6-1",
+        "home": "West Roxbury",
+        "st": "MA",
+        "ctry": "US",
+        "no": "14"
+      },
+      {
+        "name": "Rose Dwyer",
+        "pk": "dwyer|rose",
+        "y": "Jr",
+        "pos": "D",
+        "ht": "5-10",
+        "home": "Wynnewood",
+        "st": "PA",
+        "ctry": "US",
+        "no": "16"
+      },
+      {
+        "name": "Carly Dann",
+        "pk": "dann|carly",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-10",
+        "home": "Hanover",
+        "st": "NH",
+        "ctry": "US",
+        "no": "17"
+      },
+      {
+        "name": "Delaney Fleming",
+        "pk": "fleming|delaney",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Rochester",
+        "st": "MN",
+        "ctry": "US",
+        "no": "18"
+      },
+      {
+        "name": "Karel Prefontaine",
+        "pk": "prefontaine|karel",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Gatineau",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "19"
+      },
+      {
+        "name": "Jillian McLaughlin",
+        "pk": "mclaughlin|jillian",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Oceanside",
+        "st": "CA",
+        "ctry": "US",
+        "no": "22"
+      },
+      {
+        "name": "Nora Curtis",
+        "pk": "curtis|nora",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-10",
+        "home": "Skaneateles",
+        "st": "NY",
+        "ctry": "US",
+        "no": "24"
+      },
+      {
+        "name": "Olivia Ferebee",
+        "pk": "ferebee|olivia",
+        "y": "So",
+        "pos": "G",
+        "ht": "5-5",
+        "home": "Lake Placid",
+        "st": "NY",
+        "ctry": "US",
+        "no": "31"
+      },
+      {
+        "name": "Annelies Bergmann",
+        "pk": "bergmann|annelies",
+        "y": "Sr",
+        "pos": "G",
+        "ht": "6-1",
+        "home": "Detroit",
+        "st": "MI",
+        "ctry": "US",
+        "no": "43"
+      },
+      {
+        "name": "Shannon Pearson",
+        "pk": "pearson|shannon",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Calgary",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "47"
+      },
+      {
+        "name": "Taia MacDonald",
+        "pk": "macdonald|taia",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-8",
+        "home": "Toronto",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "65"
+      },
+      {
+        "name": "London McDavid",
+        "pk": "mcdavid|london",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-7",
+        "home": "Maple Ridge",
+        "st": "BC",
+        "ctry": "Canada",
+        "no": "79"
+      },
+      {
+        "name": "Renee Bishop",
+        "pk": "bishop|renee",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-8",
+        "home": "Baie-D'Urfe",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "86"
+      },
+      {
+        "name": "Kayla O' Donnell",
+        "pk": "odonnell|kayla",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-4",
+        "home": "Buffalo",
+        "st": "NY",
+        "ctry": "US",
+        "no": "88"
+      }
     ]
   }
 }
