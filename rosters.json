@@ -108811,6 +108811,212 @@
       ]
     },
     {
+      "team": "NAHA 19U",
+      "country": "US",
+      "players": [
+        {
+          "pk": "flod|teagan",
+          "n": "7",
+          "name": "Teagan Flod",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "mehling|eleanor",
+          "n": "8",
+          "name": "Ellie Mehling",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D"
+        },
+        {
+          "pk": "herringer|reese",
+          "n": "9",
+          "name": "Reese Herringer",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "monusky|payton",
+          "n": "12",
+          "name": "Payton Monusky",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "fitzpatrick|margaret",
+          "n": "13",
+          "name": "Maggie Fitzpatrick",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D"
+        },
+        {
+          "pk": "polonyi|petra",
+          "n": "15",
+          "name": "Petra Polonyi",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "henderson|morgan",
+          "n": "17",
+          "name": "Morgan Henderson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "buhrmaster|anya",
+          "n": "18",
+          "name": "Anya Buhrmaster",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "gilbertson|anne",
+          "n": "19",
+          "name": "Annie Gilbertson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "worth|mary",
+          "n": "20",
+          "name": "Mary Worth",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "cummins|brooke",
+          "n": "21",
+          "name": "Brooke Cummins",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "innes|kealy",
+          "n": "23",
+          "name": "Kealy Innes",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "johnson|olivia",
+          "n": "24",
+          "name": "Olivia Johnson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "kartusch|reese",
+          "n": "27",
+          "name": "Reese Kartusch",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "blom|hayden",
+          "n": "28",
+          "name": "Hayden Blom",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "labonte|emilie",
+          "n": "29",
+          "name": "Emilie Labonte",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D"
+        },
+        {
+          "pk": "iversen|evelyn",
+          "n": "38",
+          "name": "Evelyn Iversen",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "chriss|natali",
+          "n": "42",
+          "name": "Natali Chriss",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "desantis|anna",
+          "n": "47",
+          "name": "Anna DeSantis",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "gray|kira",
+          "n": "49",
+          "name": "Kira Gray",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F"
+        },
+        {
+          "pk": "pircio|maja",
+          "n": "96",
+          "name": "Maja Pircio",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "bethune|nicole",
+          "n": "30",
+          "name": "Nicole Bethune",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G"
+        },
+        {
+          "pk": "brown|evelyn",
+          "n": "32",
+          "name": "Evelyn Brown",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G"
+        },
+        {
+          "pk": "milner|evangeline",
+          "n": "33",
+          "name": "Evangeline Milner",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G"
+        },
+        {
+          "pk": "cohen|rebecca",
+          "n": "35",
+          "name": "Rebecca Cohen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G"
+        }
+      ]
+    },
+    {
       "team": "Nepean Wildcats U15",
       "country": "CAN",
       "players": [
