@@ -66801,6 +66801,273 @@
         "ctry": "Canada",
         "no": "93"
       }
+    ],
+    "Wisconsin": [
+      {
+        "name": "Rhyah Stewart",
+        "pk": "stewart|rhyah",
+        "y": "",
+        "pos": "G",
+        "ht": "5' 8''",
+        "home": "Antigonish",
+        "st": "NS",
+        "ctry": "Canada",
+        "no": "1"
+      },
+      {
+        "name": "Finley McCarthy",
+        "pk": "mccarthy|finley",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 9''",
+        "home": "Whitefish",
+        "st": "MT",
+        "ctry": "US",
+        "no": "2"
+      },
+      {
+        "name": "Mackenzie Jones",
+        "pk": "jones|mackenzie",
+        "y": "",
+        "pos": "Defender",
+        "ht": "5' 11''",
+        "home": "Andover",
+        "st": "Minnesota",
+        "ctry": "__UNKNOWN__",
+        "no": "3"
+      },
+      {
+        "name": "Shayla Beaudette",
+        "pk": "beaudette|shayla",
+        "y": "",
+        "pos": "",
+        "ht": "5' 6''",
+        "home": "Aurora",
+        "st": "Colorado",
+        "ctry": "__UNKNOWN__",
+        "no": "4"
+      },
+      {
+        "name": "Rachel Gorbatenko",
+        "pk": "gorbatenko|rachel",
+        "y": "",
+        "pos": "Defender",
+        "ht": "5' 11''",
+        "home": "Barrington",
+        "st": "Illinois",
+        "ctry": "__UNKNOWN__",
+        "no": "5"
+      },
+      {
+        "name": "Emma Cerruti",
+        "pk": "cerruti|emma",
+        "y": "",
+        "pos": "D",
+        "ht": "5' 8''",
+        "home": "Norwell",
+        "st": "Massachusetts",
+        "ctry": "__UNKNOWN__",
+        "no": "6"
+      },
+      {
+        "name": "Kelly Gorbatenko",
+        "pk": "gorbatenko|kelly",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 11''",
+        "home": "Barrington",
+        "st": "IL",
+        "ctry": "US",
+        "no": "7"
+      },
+      {
+        "name": "Hannah Halverson",
+        "pk": "halverson|hannah",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 6''",
+        "home": "Edina",
+        "st": "MN",
+        "ctry": "US",
+        "no": "8"
+      },
+      {
+        "name": "Ava Murphy",
+        "pk": "murphy|ava",
+        "y": "",
+        "pos": "D",
+        "ht": "5' 9''",
+        "home": "Kitchener",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "9"
+      },
+      {
+        "name": "Cassie Hall",
+        "pk": "hall|cassandra",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 7''",
+        "home": "South Lyon",
+        "st": "MI",
+        "ctry": "US",
+        "no": "11"
+      },
+      {
+        "name": "Brynn Holvenstot",
+        "pk": "holvenstot|brynn",
+        "y": "",
+        "pos": "",
+        "ht": "5' 7''",
+        "home": "Fond Du Lac",
+        "st": "Wisconsin",
+        "ctry": "__UNKNOWN__",
+        "no": "12"
+      },
+      {
+        "name": "Maggie Scannell",
+        "pk": "scannell|margaret",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 10''",
+        "home": "Wynantskill",
+        "st": "New York",
+        "ctry": "__UNKNOWN__",
+        "no": "14"
+      },
+      {
+        "name": "Nicole Gorbatenko",
+        "pk": "gorbatenko|nicole",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 11''",
+        "home": "Barrington",
+        "st": "Illinois",
+        "ctry": "__UNKNOWN__",
+        "no": "15"
+      },
+      {
+        "name": "Nela Lopusanova",
+        "pk": "lopusanova|nela",
+        "y": "",
+        "pos": "",
+        "ht": "5' 8''",
+        "home": "Zilina",
+        "st": "Slovakia",
+        "ctry": "Europe",
+        "no": "18"
+      },
+      {
+        "name": "Emma Venusio",
+        "pk": "venusio|emma",
+        "y": "",
+        "pos": "D",
+        "ht": "5' 6''",
+        "home": "Toronto",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "21"
+      },
+      {
+        "name": "Laney Potter",
+        "pk": "potter|laney",
+        "y": "",
+        "pos": "D",
+        "ht": "5' 11''",
+        "home": "Cranberry Township",
+        "st": "PA",
+        "ctry": "US",
+        "no": "22"
+      },
+      {
+        "name": "Maddy Kimbrel",
+        "pk": "kimbrel|madelyn",
+        "y": "",
+        "pos": "",
+        "ht": "5' 4''",
+        "home": "Orono",
+        "st": "MN",
+        "ctry": "US",
+        "no": "23"
+      },
+      {
+        "name": "Charlotte Pieckenhagen",
+        "pk": "pieckenhagen|charlotte",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 10''",
+        "home": "St. Catharines",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "24"
+      },
+      {
+        "name": "Adela Sapovalivova",
+        "pk": "sapovalivova|adela",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 4''",
+        "home": "Beroun",
+        "st": "Czechia",
+        "ctry": "Europe",
+        "no": "26"
+      },
+      {
+        "name": "Haley Box",
+        "pk": "box|haley",
+        "y": "",
+        "pos": "",
+        "ht": "5' 4''",
+        "home": "Cheyenne",
+        "st": "Wyoming",
+        "ctry": "__UNKNOWN__",
+        "no": "27"
+      },
+      {
+        "name": "Rosalie Tremblay",
+        "pk": "tremblay|rosalie",
+        "y": "",
+        "pos": "F",
+        "ht": "5' 8''",
+        "home": "Sherbrooke",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "28"
+      },
+      {
+        "name": "Lauren Johnson",
+        "pk": "johnson|lauren",
+        "y": "",
+        "pos": "D",
+        "ht": "5' 7''",
+        "home": "Sun Prairie",
+        "st": "Wisconsin",
+        "ctry": "__UNKNOWN__",
+        "no": "29",
+        "prevSchool": "Union"
+      },
+      {
+        "name": "Ava McNaughton",
+        "pk": "mcnaughton|ava",
+        "y": "",
+        "pos": "G",
+        "ht": "6' 0''",
+        "home": "Seven Fields",
+        "st": "PA",
+        "ctry": "US",
+        "no": "30"
+      },
+      {
+        "name": "Kayla Swartout",
+        "pk": "swartout|kayla",
+        "y": "",
+        "pos": "G",
+        "ht": "5' 6''",
+        "home": "Shakopee",
+        "st": "Minnesota",
+        "ctry": "__UNKNOWN__",
+        "no": "31"
+      }
     ]
   }
 }
