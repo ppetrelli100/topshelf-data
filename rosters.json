@@ -108637,6 +108637,180 @@
       ]
     },
     {
+      "team": "NAHA 16U",
+      "country": "US",
+      "players": [
+        {
+          "pk": "collacchi|emma",
+          "n": "53",
+          "name": "Emma Collacchi",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D"
+        },
+        {
+          "pk": "keenan|courtney",
+          "n": "5",
+          "name": "Courtney Keenan",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "margolis|emme",
+          "n": "71",
+          "name": "Emme Margolis",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "smart|kristaya",
+          "n": "55",
+          "name": "Kristaya Smart",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D"
+        },
+        {
+          "pk": "anslow|molly",
+          "n": "2",
+          "name": "Molly Anslow",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "chapkosky|karissa",
+          "n": "16",
+          "name": "Karissa Chapkosky",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "drevitch|molly",
+          "n": "44",
+          "name": "Molly Drevitch",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "henderson|kylie",
+          "n": "81",
+          "name": "Kylie Henderson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "lobisser|charlotte",
+          "n": "22",
+          "name": "Charlotte Lobisser",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "mehling|katherine",
+          "n": "6",
+          "name": "Katie Mehling",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F"
+        },
+        {
+          "pk": "schneider|lillian",
+          "n": "14",
+          "name": "Lillian Schneider",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "livingstone|kylie",
+          "n": "4",
+          "name": "Kylie Livingstone",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "mcauliffe|tenley",
+          "n": "12",
+          "name": "Tenley McAuliffe",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "silveira|charlotte",
+          "n": "11",
+          "name": "Charlotte Silveira",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "nojaim|alison",
+          "n": "26",
+          "name": "Alison Nojaim",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "jenecke|keeley",
+          "n": "13",
+          "name": "Keeley Jenecke",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F"
+        },
+        {
+          "pk": "cetina|eva",
+          "n": "3",
+          "name": "Eva Cetina",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "kvasnickova|veronica",
+          "n": "37",
+          "name": "Veronica Kvasnickova",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F"
+        },
+        {
+          "pk": "peterson|eleanor",
+          "n": "1",
+          "name": "Ellie Peterson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G"
+        },
+        {
+          "pk": "frasso|olivia",
+          "n": "31",
+          "name": "Olivia Frasso",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G"
+        },
+        {
+          "pk": "ramos|chloe",
+          "n": "29",
+          "name": "Chloe Ramos",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G"
+        }
+      ]
+    },
+    {
       "team": "Nepean Wildcats U15",
       "country": "CAN",
       "players": [
