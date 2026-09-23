@@ -64918,8 +64918,13 @@
     ],
     "Bemidji State": [
       {
+<<<<<<< HEAD
         "name": "Kaitlin Groess",
         "pk": "groess|kaitlin",
+=======
+        "name": "Kaitlin GroessHear how to pronounce Kaitlin Groess",
+        "pk": "groesshearhowtopronouncekaitlingroess|kaitlin",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "Jr",
         "pos": "",
         "ht": "",
@@ -64929,8 +64934,13 @@
         "no": "1"
       },
       {
+<<<<<<< HEAD
         "name": "Senja Leeper",
         "pk": "leeper|senja",
+=======
+        "name": "Senja LeeperHear how to pronounce Senja Leeper",
+        "pk": "leeperhearhowtopronouncesenjaleeper|senja",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "So",
         "pos": "",
         "ht": "",
@@ -64940,8 +64950,13 @@
         "no": "2"
       },
       {
+<<<<<<< HEAD
         "name": "Olivia Dronen",
         "pk": "dronen|olivia",
+=======
+        "name": "Olivia DronenHear how to pronounce Olivia Dronen",
+        "pk": "dronenhearhowtopronounceoliviadronen|olivia",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "Sr",
         "pos": "",
         "ht": "",
@@ -64951,8 +64966,13 @@
         "no": "3"
       },
       {
+<<<<<<< HEAD
         "name": "Lola Macuiba",
         "pk": "macuiba|lola",
+=======
+        "name": "Lola MacuibaHear how to pronounce Lola Macuiba",
+        "pk": "macuibahearhowtopronouncelolamacuiba|lola",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "So",
         "pos": "",
         "ht": "",
@@ -64973,8 +64993,13 @@
         "no": "6"
       },
       {
+<<<<<<< HEAD
         "name": "Kasey Senden",
         "pk": "senden|kasey",
+=======
+        "name": "Kasey SendenHear how to pronounce Kasey Senden",
+        "pk": "sendenhearhowtopronouncekaseysenden|kasey",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "So",
         "pos": "",
         "ht": "",
@@ -64984,8 +65009,13 @@
         "no": "7"
       },
       {
+<<<<<<< HEAD
         "name": "Avery Achterkirch",
         "pk": "achterkirch|avery",
+=======
+        "name": "Avery AchterkirchHear how to pronounce Avery Achterkirch",
+        "pk": "achterkirchhearhowtopronounceaveryachterkirch|avery",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "Jr",
         "pos": "",
         "ht": "",
@@ -65017,8 +65047,13 @@
         "no": "11"
       },
       {
+<<<<<<< HEAD
         "name": "Talya Hendrickson",
         "pk": "hendrickson|talya",
+=======
+        "name": "Talya HendricksonHear how to pronounce Talya Hendrickson",
+        "pk": "hendricksonhearhowtopronouncetalyahendrickson|talya",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "Sr",
         "pos": "",
         "ht": "",
@@ -65058,11 +65093,20 @@
         "home": "Excelsior",
         "st": "MN",
         "ctry": "US",
+<<<<<<< HEAD
         "no": "18"
       },
       {
         "name": "Maddie Kaiser",
         "pk": "kaiser|maddie",
+=======
+        "no": "18",
+        "prevSchool": "Quinnipiac"
+      },
+      {
+        "name": "Maddie KaiserHear how to pronounce Maddie Kaiser",
+        "pk": "kaiserhearhowtopronouncemaddiekaiser|madelyn",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "So",
         "pos": "",
         "ht": "",
@@ -65072,8 +65116,13 @@
         "no": "19"
       },
       {
+<<<<<<< HEAD
         "name": "Elly Klepinger",
         "pk": "klepinger|elly",
+=======
+        "name": "Elly KlepingerHear how to pronounce Elly Klepinger",
+        "pk": "klepingerhearhowtopronounceellyklepinger|elly",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "Sr",
         "pos": "",
         "ht": "",
@@ -65127,8 +65176,13 @@
         "no": "25"
       },
       {
+<<<<<<< HEAD
         "name": "Katy Comstock",
         "pk": "comstock|katy",
+=======
+        "name": "Katy ComstockHear how to pronounce Katy Comstock",
+        "pk": "comstockhearhowtopronouncekatycomstock|katy",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "So",
         "pos": "",
         "ht": "",
@@ -65168,7 +65222,12 @@
         "home": "El Paso",
         "st": "TX",
         "ctry": "US",
+<<<<<<< HEAD
         "no": "30"
+=======
+        "no": "30",
+        "prevSchool": "Minnesota -Duluth"
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
       },
       {
         "name": "Ava Hills",
@@ -65182,8 +65241,13 @@
         "no": "33"
       },
       {
+<<<<<<< HEAD
         "name": "Ashlyn Hazlett",
         "pk": "hazlett|ashlyn",
+=======
+        "name": "Ashlyn HazlettHear how to pronounce Ashlyn Hazlett",
+        "pk": "hazletthearhowtopronounceashlynhazlett|ashlyn",
+>>>>>>> 36e2a09b8327c7754b11ce658f4fc47a8935551e
         "y": "So",
         "pos": "",
         "ht": "",
