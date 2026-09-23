@@ -64915,6 +64915,285 @@
         "ctry": "US",
         "no": "88"
       }
+    ],
+    "Bemidji State": [
+      {
+        "name": "Kaitlin GroessHear how to pronounce Kaitlin Groess",
+        "pk": "groesshearhowtopronouncekaitlingroess|kaitlin",
+        "y": "Jr",
+        "pos": "",
+        "ht": "",
+        "home": "Ham Lake",
+        "st": "MN",
+        "ctry": "US",
+        "no": "1"
+      },
+      {
+        "name": "Senja LeeperHear how to pronounce Senja Leeper",
+        "pk": "leeperhearhowtopronouncesenjaleeper|senja",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "Chaska",
+        "st": "MN",
+        "ctry": "US",
+        "no": "2"
+      },
+      {
+        "name": "Olivia DronenHear how to pronounce Olivia Dronen",
+        "pk": "dronenhearhowtopronounceoliviadronen|olivia",
+        "y": "Sr",
+        "pos": "",
+        "ht": "",
+        "home": "Moorhead",
+        "st": "MN",
+        "ctry": "US",
+        "no": "3"
+      },
+      {
+        "name": "Lola MacuibaHear how to pronounce Lola Macuiba",
+        "pk": "macuibahearhowtopronouncelolamacuiba|lola",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "Seattle",
+        "st": "WA",
+        "ctry": "US",
+        "no": "4"
+      },
+      {
+        "name": "Hannah Graves",
+        "pk": "graves|hannah",
+        "y": "Sr",
+        "pos": "",
+        "ht": "",
+        "home": "Hermantown",
+        "st": "MN",
+        "ctry": "US",
+        "no": "6"
+      },
+      {
+        "name": "Kasey SendenHear how to pronounce Kasey Senden",
+        "pk": "sendenhearhowtopronouncekaseysenden|kasey",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "Vadnais Heights",
+        "st": "MN",
+        "ctry": "US",
+        "no": "7"
+      },
+      {
+        "name": "Avery AchterkirchHear how to pronounce Avery Achterkirch",
+        "pk": "achterkirchhearhowtopronounceaveryachterkirch|avery",
+        "y": "Jr",
+        "pos": "",
+        "ht": "",
+        "home": "Rogers",
+        "st": "MN",
+        "ctry": "US",
+        "no": "8"
+      },
+      {
+        "name": "Davina Davis",
+        "pk": "davis|davina",
+        "y": "Fr",
+        "pos": "",
+        "ht": "",
+        "home": "Calgary",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "9"
+      },
+      {
+        "name": "Addie Morris",
+        "pk": "morris|addison",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "Jackson Hole",
+        "st": "WY",
+        "ctry": "US",
+        "no": "11"
+      },
+      {
+        "name": "Talya HendricksonHear how to pronounce Talya Hendrickson",
+        "pk": "hendricksonhearhowtopronouncetalyahendrickson|talya",
+        "y": "Sr",
+        "pos": "",
+        "ht": "",
+        "home": "Warroad",
+        "st": "MN",
+        "ctry": "US",
+        "no": "13"
+      },
+      {
+        "name": "Kate Johnson",
+        "pk": "johnson|katherine",
+        "y": "Sr",
+        "pos": "",
+        "ht": "",
+        "home": "Warroad",
+        "st": "MN",
+        "ctry": "US",
+        "no": "14"
+      },
+      {
+        "name": "Shelby Sandberg",
+        "pk": "sandberg|shelby",
+        "y": "Sr",
+        "pos": "",
+        "ht": "",
+        "home": "Ham Lake",
+        "st": "MN",
+        "ctry": "US",
+        "no": "15"
+      },
+      {
+        "name": "Ruby Rauk",
+        "pk": "rauk|ruby",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "Excelsior",
+        "st": "MN",
+        "ctry": "US",
+        "no": "18",
+        "prevSchool": "Quinnipiac"
+      },
+      {
+        "name": "Maddie KaiserHear how to pronounce Maddie Kaiser",
+        "pk": "kaiserhearhowtopronouncemaddiekaiser|madelyn",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "Winnipeg",
+        "st": "MB",
+        "ctry": "Canada",
+        "no": "19"
+      },
+      {
+        "name": "Elly KlepingerHear how to pronounce Elly Klepinger",
+        "pk": "klepingerhearhowtopronounceellyklepinger|elly",
+        "y": "Sr",
+        "pos": "",
+        "ht": "",
+        "home": "Corcoran",
+        "st": "MN",
+        "ctry": "US",
+        "no": "20"
+      },
+      {
+        "name": "Morgan Smith",
+        "pk": "smith|morgan",
+        "y": "Jr",
+        "pos": "",
+        "ht": "",
+        "home": "Winnipeg",
+        "st": "MB",
+        "ctry": "Canada",
+        "no": "21"
+      },
+      {
+        "name": "Autumn Cooper",
+        "pk": "cooper|autumn",
+        "y": "Jr",
+        "pos": "",
+        "ht": "",
+        "home": "South Range",
+        "st": "WI",
+        "ctry": "US",
+        "no": "22"
+      },
+      {
+        "name": "Dior Stringer",
+        "pk": "stringer|dior",
+        "y": "Fr",
+        "pos": "",
+        "ht": "",
+        "home": "Swift Current",
+        "st": "SK",
+        "ctry": "Canada",
+        "no": "24"
+      },
+      {
+        "name": "Izy Fairchild",
+        "pk": "fairchild|izy",
+        "y": "Jr",
+        "pos": "",
+        "ht": "",
+        "home": "Hermantown",
+        "st": "MN",
+        "ctry": "US",
+        "no": "25"
+      },
+      {
+        "name": "Katy ComstockHear how to pronounce Katy Comstock",
+        "pk": "comstockhearhowtopronouncekatycomstock|katy",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "Warroad",
+        "st": "MN",
+        "ctry": "US",
+        "no": "26"
+      },
+      {
+        "name": "Carmen Bray",
+        "pk": "bray|carmen",
+        "y": "Sr",
+        "pos": "",
+        "ht": "",
+        "home": "Nanaimo",
+        "st": "BC",
+        "ctry": "Canada",
+        "no": "27"
+      },
+      {
+        "name": "Hailey Armstrong",
+        "pk": "armstrong|hailey",
+        "y": "Sr",
+        "pos": "",
+        "ht": "",
+        "home": "Dawson Creek",
+        "st": "BC",
+        "ctry": "Canada",
+        "no": "29"
+      },
+      {
+        "name": "Sophia Villanueva",
+        "pk": "villanueva|sophia",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "El Paso",
+        "st": "TX",
+        "ctry": "US",
+        "no": "30",
+        "prevSchool": "Minnesota -Duluth"
+      },
+      {
+        "name": "Ava Hills",
+        "pk": "hills|ava",
+        "y": "5th",
+        "pos": "",
+        "ht": "",
+        "home": "Pembroke",
+        "st": "NH",
+        "ctry": "US",
+        "no": "33"
+      },
+      {
+        "name": "Ashlyn HazlettHear how to pronounce Ashlyn Hazlett",
+        "pk": "hazletthearhowtopronounceashlynhazlett|ashlyn",
+        "y": "So",
+        "pos": "",
+        "ht": "",
+        "home": "Waconia",
+        "st": "MN",
+        "ctry": "US",
+        "no": "35"
+      }
     ]
   }
 }
