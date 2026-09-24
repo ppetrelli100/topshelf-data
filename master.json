@@ -5697,7 +5697,7 @@
   },
   {
     "Name": "Leicia-Lee Baldwin",
-    "PersonKey": "baldwin|leicia-lee",
+    "PersonKey": "baldwin|leicialee",
     "BirthYr": 2009,
     "Grad": 2027,
     "Position": "G",
@@ -7851,7 +7851,7 @@
   },
   {
     "Name": "Ann-Sophie Beaumont",
-    "PersonKey": "beaumont|ann-sophie",
+    "PersonKey": "beaumont|annsophie",
     "BirthYr": 2008,
     "Grad": 27,
     "Position": "F",
@@ -9721,7 +9721,7 @@
   },
   {
     "Name": "Julie-Catherine Bernard",
-    "PersonKey": "bernard|julie-catherine",
+    "PersonKey": "bernard|juliecatherine",
     "Grad": 2027,
     "Position": "F",
     "School": "Kimball Union"
@@ -9923,7 +9923,7 @@
   },
   {
     "Name": "Ann-Sophie Bertrand",
-    "PersonKey": "bertrand|ann-sophie",
+    "PersonKey": "bertrand|annsophie",
     "Grad": 2025,
     "Position": "F",
     "Country": "CAN",
@@ -20125,14 +20125,14 @@
   },
   {
     "Name": "ÃMilie CarriãRe",
-    "PersonKey": "carriare|amilie",
+    "PersonKey": "carriare|aÂ‰milie",
     "Position": "F",
     "Country": "US",
     "Team2025": "Eastman Selects 19U"
   },
   {
     "Name": "Chloã CarriãRe",
-    "PersonKey": "carriare|chloa",
+    "PersonKey": "carriare|chloaÂ‰",
     "Position": "D",
     "Country": "US",
     "Team2025": "Eastman Selects 19U"
@@ -25459,7 +25459,7 @@
   },
   {
     "Name": "Alyssa-Rose Collin",
-    "PersonKey": "collin|alyssa-rose",
+    "PersonKey": "collin|alyssarose",
     "BirthYr": 2009,
     "Grad": 2029,
     "Position": "G",
@@ -25887,7 +25887,7 @@
   },
   {
     "Name": "Lily-Don Comeau",
-    "PersonKey": "comeau|lily-don",
+    "PersonKey": "comeau|lilydon",
     "Position": "F",
     "Country": "US",
     "Team2024": "Thunder Bay U18",
@@ -27348,7 +27348,7 @@
   },
   {
     "Name": "Marie-Pier Cossette",
-    "PersonKey": "cossette|marie-pier",
+    "PersonKey": "cossette|mariepier",
     "BirthYr": 2006,
     "DOB": "2/23/2006",
     "Grad": 2026,
@@ -27498,7 +27498,7 @@
   },
   {
     "Name": "Ann-Sophie Cote",
-    "PersonKey": "cote|ann-sophie",
+    "PersonKey": "cote|annsophie",
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
@@ -27969,7 +27969,7 @@
   },
   {
     "Name": "Lea-Rose Couture",
-    "PersonKey": "couture|lea-rose",
+    "PersonKey": "couture|learose",
     "BirthYr": 2007,
     "Grad": 2027,
     "Position": "D",
@@ -37023,7 +37023,7 @@
   },
   {
     "Name": "Kelly-Ann Dufour",
-    "PersonKey": "dufour|kelly-ann",
+    "PersonKey": "dufour|kellyann",
     "BirthYr": 2011,
     "Position": "F",
     "Country": "CAN",
@@ -37641,7 +37641,7 @@
   },
   {
     "Name": "ANN-Laurence Dutil",
-    "PersonKey": "dutil|ann-laurence",
+    "PersonKey": "dutil|annlaurence",
     "Grad": 2026,
     "Position": "F",
     "Country": "CAN"
@@ -38129,23 +38129,16 @@
     "School": "Holderness"
   },
   {
-    "Name": "Kristina Eccleston",
+    "Name": "Kristina(callup) Eccleston",
     "PersonKey": "eccleston|kristina",
     "BirthYr": 2009,
     "DOB": "9/4/2009",
     "Grad": 2027,
     "Position": "F",
     "Country": "CAN",
+    "Team2024": "Ottawa Senators U22",
     "Team2025": "Brampton Jr Canadettes U22",
     "Team2026": "Brampton Jr Canadettes U22"
-  },
-  {
-    "Name": "Kristina(callup) Eccleston",
-    "PersonKey": "eccleston|kristina(callup)",
-    "Grad": 2027,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2024": "Ottawa Senators U22"
   },
   {
     "Name": "Adriana Echavarria",
@@ -43065,7 +43058,7 @@
   },
   {
     "Name": "Maggie-Kate Fitzpatrick",
-    "PersonKey": "fitzpatrick|maggie-kate",
+    "PersonKey": "fitzpatrick|maggiekate",
     "Grad": 2024,
     "Position": "F",
     "Country": "CAN"
@@ -44037,7 +44030,7 @@
   },
   {
     "Name": "Neeleigh-Raye Ford",
-    "PersonKey": "ford|neeleigh-raye",
+    "PersonKey": "ford|neeleighraye",
     "Grad": 2025,
     "Position": "D",
     "Country": "CAN"
@@ -52630,7 +52623,7 @@
   },
   {
     "Name": "Victoria-Rose Grise",
-    "PersonKey": "grise|victoria-rose",
+    "PersonKey": "grise|victoriarose",
     "Grad": 2027,
     "Position": "G",
     "Country": "CAN",
@@ -52834,7 +52827,7 @@
   },
   {
     "Name": "Lana-Lee Grove",
-    "PersonKey": "grove|lana-lee",
+    "PersonKey": "grove|lanalee",
     "BirthYr": 2008,
     "Grad": 2028,
     "Position": "D",
@@ -67245,30 +67238,6 @@
     "Highest": "QCcamp"
   },
   {
-    "Name": "Madelin Kaiser",
-    "PersonKey": "kaiser|madelin",
-    "Grad": 2025,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2024": "Balmoral Hall U22"
-  },
-  {
-    "Name": "Maddie Kaiser",
-    "PersonKey": "kaiser|madelyn",
-    "BirthYr": 2007,
-    "DOB": "3/3/2007",
-    "Grad": 2025,
-    "Position": "F",
-    "Height": "5'6",
-    "City": "Winnipeg",
-    "State": "MAN",
-    "Country": "CAN",
-    "Team": "Balmoral Hall",
-    "College": "Bemidji State",
-    "Sr": "TmMB",
-    "Highest": "TmMB"
-  },
-  {
     "Name": "Madison Kaiser",
     "PersonKey": "kaiser|madison",
     "BirthYr": 2004,
@@ -67286,18 +67255,22 @@
     "Highest": "WNT"
   },
   {
-    "Name": "Maddie Kaiser",
+    "Name": "Madelin Kaiser",
     "PersonKey": "kaiser|madisonbsu",
     "BirthYr": 2007,
     "DOB": "10/10/2007",
     "Grad": 2025,
     "Position": "F",
+    "Height": "5'6",
     "City": "Winnipeg",
     "State": "MAN",
     "Country": "CAN",
     "School": "Balmoral Hall",
+    "Team2024": "Balmoral Hall U22",
     "Team": "Balmoral Hall",
-    "College": "Bemidji State"
+    "College": "Bemidji State",
+    "Sr": "TmMB",
+    "Highest": "TmMB"
   },
   {
     "Name": "Ratana Kajonsaksumet",
@@ -76839,7 +76812,7 @@
   },
   {
     "Name": "Marie-Aube Lavoie",
-    "PersonKey": "lavoie|marie-aube",
+    "PersonKey": "lavoie|marieaube",
     "BirthYr": 2006,
     "Grad": 2026,
     "Position": "F",
@@ -77202,7 +77175,7 @@
   },
   {
     "Name": "Ella-Rose Lazzaretto",
-    "PersonKey": "lazzaretto|ella-rose",
+    "PersonKey": "lazzaretto|ellarose",
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "D",
@@ -77635,7 +77608,7 @@
   },
   {
     "Name": "Eve-Marie Leclerc",
-    "PersonKey": "leclerc|eve-marie",
+    "PersonKey": "leclerc|evemarie",
     "Grad": 2026,
     "Position": "G",
     "City": "Donnacona",
@@ -77654,7 +77627,7 @@
   },
   {
     "Name": "Haylee-Kaydence Lecuyer",
-    "PersonKey": "lecuyer|haylee-kaydence",
+    "PersonKey": "lecuyer|hayleekaydence",
     "BirthYr": 2010,
     "DOB": "4/30/2010",
     "Grad": 2028,
@@ -77669,18 +77642,9 @@
     "Team": "Mississauga Hurricanes",
     "College": "Quinnipiac",
     "CCM68": "Yes",
+    "Soph": "ON_U16",
     "Jr": "U18-C",
     "Highest": "U18-C"
-  },
-  {
-    "Name": "Haylee Lecuyer",
-    "PersonKey": "lecuyer|hayleekaydence",
-    "Grad": 2028,
-    "Position": "F",
-    "State": "ONT",
-    "Country": "CAN",
-    "Soph": "ON_U16",
-    "Highest": "ON_U16"
   },
   {
     "Name": "Sophie Ledain",
@@ -79209,7 +79173,7 @@
   },
   {
     "Name": "Kensington(Kensie) Leung",
-    "PersonKey": "leung|kensington(kensie)",
+    "PersonKey": "leung|kensington",
     "BirthYr": 2011,
     "Grad": 2028,
     "Position": "F",
@@ -84318,7 +84282,7 @@
   },
   {
     "Name": "Hali-Rose MacLean",
-    "PersonKey": "maclean|hali-rose",
+    "PersonKey": "maclean|halirose",
     "BirthYr": 2008,
     "DOB": "12/5/2008",
     "Grad": 2027,
@@ -90448,7 +90412,7 @@
   },
   {
     "Name": "Katie(Katherine) Mcdougall",
-    "PersonKey": "mcdougall|katie(katherine)",
+    "PersonKey": "mcdougall|katie",
     "BirthYr": 2011,
     "Grad": 2029,
     "Position": "F",
@@ -91646,7 +91610,7 @@
   },
   {
     "Name": "Emma-Mae Mckenzie",
-    "PersonKey": "mckenzie|emma-mae",
+    "PersonKey": "mckenzie|emmamae",
     "Grad": 2024,
     "Position": "F",
     "Country": "CAN"
@@ -92908,7 +92872,7 @@
   },
   {
     "Name": "O'Connor Megan",
-    "PersonKey": "megan|o'connor",
+    "PersonKey": "megan|oconnor",
     "Grad": 2026,
     "Position": "F",
     "City": "Greenville",
@@ -96080,7 +96044,7 @@
   },
   {
     "Name": "Marie-Catherine Mondou",
-    "PersonKey": "mondou|marie-catherine",
+    "PersonKey": "mondou|mariecatherine",
     "Grad": 2025,
     "Position": "D",
     "Country": "CAN"
@@ -96906,7 +96870,7 @@
   },
   {
     "Name": "Mckinley\"B\" Moran",
-    "PersonKey": "moran|mckinley\"b\"",
+    "PersonKey": "moran|mckinleyb",
     "Grad": 2030,
     "Position": "D",
     "Country": "US",
@@ -97001,7 +96965,7 @@
   },
   {
     "Name": "Cecylia-Rose Moreau",
-    "PersonKey": "moreau|cecylia-rose",
+    "PersonKey": "moreau|cecyliarose",
     "Grad": 2028,
     "Position": "F",
     "Country": "CAN",
@@ -97061,7 +97025,7 @@
   },
   {
     "Name": "Annie-Pier Morency",
-    "PersonKey": "morency|annie-pier",
+    "PersonKey": "morency|anniepier",
     "BirthYr": 2006,
     "DOB": "5/10/2006",
     "Grad": 2024,
@@ -101981,7 +101945,7 @@
   },
   {
     "Name": "aˆve Noel",
-    "PersonKey": "noel|aˆve",
+    "PersonKey": "noel|aË†ve",
     "BirthYr": 2007,
     "Grad": 2027,
     "Position": "D",
@@ -106059,7 +106023,7 @@
   },
   {
     "Name": "Julie-Ann Paradis",
-    "PersonKey": "paradis|julie-ann",
+    "PersonKey": "paradis|julieann",
     "BirthYr": 2005,
     "Grad": 2026,
     "Position": "D",
@@ -106934,7 +106898,7 @@
   },
   {
     "Name": "Marie-Maxim Payette",
-    "PersonKey": "payette|marie-maxim",
+    "PersonKey": "payette|mariemaxim",
     "Grad": 2026,
     "Position": "F",
     "Country": "CAN"
@@ -107143,7 +107107,7 @@
   },
   {
     "Name": "Madelyn(maddy) Pears",
-    "PersonKey": "pears|madelyn(maddy)",
+    "PersonKey": "pears|madelyn",
     "Grad": 2024,
     "Position": "F",
     "Country": "CAN"
@@ -111175,7 +111139,7 @@
   },
   {
     "Name": "Maya-Sofia Popova",
-    "PersonKey": "popova|maya-sofia",
+    "PersonKey": "popova|mayasofia",
     "Grad": 2027,
     "Position": "D",
     "Country": "US"
@@ -114742,7 +114706,7 @@
   },
   {
     "Name": "Miya-Rose Reid",
-    "PersonKey": "reid|miya-rose",
+    "PersonKey": "reid|miyarose",
     "Grad": 2029,
     "Position": "F",
     "Country": "CAN",
@@ -115664,7 +115628,7 @@
   },
   {
     "Name": "Sarah-Maude Richard",
-    "PersonKey": "richard|sarah-maude",
+    "PersonKey": "richard|sarahmaude",
     "Grad": 2024,
     "Position": "G",
     "City": "Beresford",
@@ -115830,7 +115794,7 @@
   },
   {
     "Name": "Ella-Ray Richer",
-    "PersonKey": "richer|ella-ray",
+    "PersonKey": "richer|ellaray",
     "BirthYr": 2012,
     "Grad": 2032,
     "Position": "F",
@@ -120468,7 +120432,7 @@
   },
   {
     "Name": "Ayla-Marie Sanders",
-    "PersonKey": "sanders|ayla-marie",
+    "PersonKey": "sanders|aylamarie",
     "Position": "F",
     "Country": "US",
     "Team2025": "Team Alaska 16U"
@@ -128996,7 +128960,7 @@
   },
   {
     "Name": "Mia-Rose Sossoyan",
-    "PersonKey": "sossoyan|mia-rose",
+    "PersonKey": "sossoyan|miarose",
     "BirthYr": 2007,
     "Grad": 2028,
     "Position": "F",
@@ -136069,7 +136033,7 @@
   },
   {
     "Name": "Aizah-Roze Thompson",
-    "PersonKey": "thompson|aizah-roze",
+    "PersonKey": "thompson|aizahroze",
     "BirthYr": 2005,
     "DOB": "1/1/2005",
     "Grad": 2022,
@@ -138532,7 +138496,7 @@
   },
   {
     "Name": "a‰my Turcotte",
-    "PersonKey": "turcotte|a‰my",
+    "PersonKey": "turcotte|aâ€°my",
     "BirthYr": 2007,
     "Grad": 2028,
     "Position": "F",
@@ -139206,7 +139170,7 @@
   },
   {
     "Name": "Sydney(call Up) Pyburn",
-    "PersonKey": "uppyburn|sydney(call",
+    "PersonKey": "uppyburn|sydney",
     "BirthYr": 2006,
     "Position": "G",
     "Country": "CAN",
@@ -139958,7 +139922,7 @@
   },
   {
     "Name": "Clara-Mai Van Houtte-Cachero",
-    "PersonKey": "vanhouttecachero|clara-mai",
+    "PersonKey": "vanhouttecachero|claramai",
     "BirthYr": 2006,
     "DOB": "5/13/2006",
     "Grad": 2024,
@@ -141155,7 +141119,7 @@
   },
   {
     "Name": "Maya-Jade Vincelette",
-    "PersonKey": "vincelette|maya-jade",
+    "PersonKey": "vincelette|mayajade",
     "BirthYr": 2010,
     "Grad": 2028,
     "Position": "F",
@@ -142096,7 +142060,7 @@
   },
   {
     "Name": "Brae-Lynn Walker",
-    "PersonKey": "walker|brae-lynn",
+    "PersonKey": "walker|braelynn",
     "Grad": 2029,
     "Position": "F",
     "Country": "CAN",
@@ -143981,7 +143945,7 @@
   },
   {
     "Name": "Tiarra-Lynn Weegar",
-    "PersonKey": "weegar|tiarra-lynn",
+    "PersonKey": "weegar|tiarralynn",
     "BirthYr": 2009,
     "Grad": 2027,
     "Position": "F",
@@ -148867,7 +148831,7 @@
   },
   {
     "Name": "Li-An Ye",
-    "PersonKey": "ye|li-an",
+    "PersonKey": "ye|lian",
     "Grad": 2029,
     "Position": "F",
     "Country": "US",
