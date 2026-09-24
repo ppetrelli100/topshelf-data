@@ -589,14 +589,6 @@
     "Team2024": "Windy City Storm 14U"
   },
   {
-    "Name": "Cruciano Addison",
-    "PersonKey": "addison|cruciano",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "Belle Tire 19U"
-  },
-  {
     "Name": "Evelyne Addy",
     "PersonKey": "addy|evelyne",
     "Grad": 2028,
@@ -1529,7 +1521,9 @@
     "PersonKey": "alexis|fadden",
     "Grad": 2028,
     "Position": "F",
-    "School": "Lawrenceville"
+    "Country": "US",
+    "School": "Lawrenceville",
+    "Team2025": "East Coast Valkyries 19U"
   },
   {
     "Name": "Ava Alfieri",
@@ -1546,14 +1540,6 @@
     "Position": "D",
     "Country": "US",
     "Team2025": "Washington Pride 19U"
-  },
-  {
-    "Name": "Lilia Â€˜Lilyâ€™ Martin",
-    "PersonKey": "alilyamartin|lilia",
-    "Grad": 2028,
-    "Position": "F",
-    "Country": "US",
-    "Team2024": "Chicago Mission 14U"
   },
   {
     "Name": "Meena Al-Kadiri",
@@ -1898,13 +1884,6 @@
     "Position": "F",
     "Country": "US",
     "Team2026": "Midfairfield CT Stars 14U"
-  },
-  {
-    "Name": "Wasson Allyson",
-    "PersonKey": "allyson|wasson",
-    "Grad": 2028,
-    "Position": "F",
-    "Country": "US"
   },
   {
     "Name": "Adriana Almeida",
@@ -2315,13 +2294,6 @@
     "Position": "D",
     "Country": "US",
     "Team2025": "North Dakota 14U"
-  },
-  {
-    "Name": "Clements Amy",
-    "PersonKey": "amy|clements",
-    "Grad": 2025,
-    "Position": "D",
-    "Country": "CAN"
   },
   {
     "Name": "Avery Amyot",
@@ -3283,13 +3255,6 @@
     "Highest": "TmON-B"
   },
   {
-    "Name": "Michelle â€œemmieâ€ Lembcke",
-    "PersonKey": "aoeemmiealembcke|michelle",
-    "Grad": 2025,
-    "Position": "F",
-    "Country": "US"
-  },
-  {
     "Name": "McKenzie Apicella",
     "PersonKey": "apicella|mckenzie",
     "BirthYr": 2010,
@@ -3997,14 +3962,6 @@
     "Team2025": "NH Mountain Cats Academy 19U"
   },
   {
-    "Name": "Lalbeharry Arya",
-    "PersonKey": "arya|lalbeharry",
-    "Grad": 2030,
-    "Position": "D",
-    "Country": "US",
-    "Team2025": "NJ Colonials 14U"
-  },
-  {
     "Name": "Brooklyn Asbach",
     "PersonKey": "asbach|brooklyn",
     "BirthYr": 2009,
@@ -4415,14 +4372,6 @@
     "Highest": "ON_U16"
   },
   {
-    "Name": "Anna Aucoin AP",
-    "PersonKey": "aucoinap|anna",
-    "Grad": 2029,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2024": "Peterborough U18"
-  },
-  {
     "Name": "Elyane Audet",
     "PersonKey": "audet|elyane",
     "BirthYr": 2007,
@@ -4617,15 +4566,6 @@
     "Country": "CAN"
   },
   {
-    "Name": "Russo Ava",
-    "PersonKey": "ava|russo",
-    "Grad": 2026,
-    "City": "Newton",
-    "State": "MA",
-    "Country": "US",
-    "School": "Rivers"
-  },
-  {
     "Name": "Lindzi Avar",
     "PersonKey": "avar|lindzi",
     "BirthYr": 2005,
@@ -4758,14 +4698,6 @@
     "Position": "G",
     "Country": "US",
     "Team2024": "CT Jr Rangers 14U"
-  },
-  {
-    "Name": "Gill Avienne",
-    "PersonKey": "avienne|gill",
-    "Grad": 2031,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Emma Avigni",
@@ -7230,6 +7162,7 @@
     "Grad": 2026,
     "Position": "F",
     "Country": "US",
+    "Team2024": "Rochester Jr Americans 16U",
     "Team2025": "Rochester Jr Americans 19U"
   },
   {
@@ -8099,11 +8032,14 @@
     "PersonKey": "bedard|florence",
     "BirthYr": 2009,
     "DOB": "8/13/2009",
-    "Grad": 2026,
+    "Grad": 2029,
     "Position": "F",
     "Height": "5'4\"",
     "Country": "CAN",
-    "Team2024": "Les Olympiques De Loutaouais U18"
+    "Team2024": "Les Olympiques De Loutaouais U18",
+    "Team2026": "Edouard-Monpetit U22",
+    "Jr": "x",
+    "Sr": "x"
   },
   {
     "Name": "Anabelle Bednarz",
@@ -11303,14 +11239,6 @@
     "State": "MA",
     "Country": "US",
     "Sr": "x"
-  },
-  {
-    "Name": "Miller Blakely",
-    "PersonKey": "blakely|miller",
-    "Grad": 2031,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Summer Blake St-Pierre",
@@ -14991,6 +14919,7 @@
     "DOB": "3/30/2011",
     "Grad": 2029,
     "Position": "G",
+    "State": "MA",
     "Country": "US",
     "Team2025": "East Coast Wizards 14U"
   },
@@ -15384,16 +15313,6 @@
     "Sr": "WNT",
     "Highest": "WNT",
     "Notable": "Team USA U18 2026"
-  },
-  {
-    "Name": "Asbach Brooklyn",
-    "PersonKey": "brooklyn|asbach",
-    "Grad": 2028,
-    "Position": "F",
-    "City": "St Louis",
-    "State": "MO",
-    "Country": "US",
-    "School": "St Marks"
   },
   {
     "Name": "Scollan Brooklyn",
@@ -17523,6 +17442,7 @@
     "Grad": 2031,
     "Position": "D",
     "Country": "US",
+    "Team2025": "CT Jr Rangers 14U",
     "Team2026": "CT Polar Bears 14U"
   },
   {
@@ -17827,6 +17747,15 @@
     "Position": "D",
     "Country": "CAN",
     "Team2026": "Waterloo Ravens U15"
+  },
+  {
+    "Name": "Butler Cate",
+    "PersonKey": "butler|cate",
+    "Grad": 2024,
+    "City": "Arlington",
+    "State": "MA",
+    "Country": "US",
+    "School": "Rivers"
   },
   {
     "Name": "Emery Butler",
@@ -18231,14 +18160,6 @@
     "Highest": "U15"
   },
   {
-    "Name": "Dionne Cadence",
-    "PersonKey": "cadence|dionne",
-    "BirthYr": 2011,
-    "Position": "G",
-    "State": "MA",
-    "Country": "US"
-  },
-  {
     "Name": "Sophie Cadotte",
     "PersonKey": "cadotte|sophia",
     "BirthYr": 2007,
@@ -18389,14 +18310,6 @@
     "College": "Maine",
     "Soph": "ON_U16",
     "Highest": "ON_U16"
-  },
-  {
-    "Name": "Keller Caitlyn",
-    "PersonKey": "caitlyn|keller",
-    "BirthYr": 2011,
-    "Position": "G",
-    "State": "MA",
-    "Country": "US"
   },
   {
     "Name": "Rose Calabro",
@@ -20124,34 +20037,6 @@
     "School": "Portsmouth Abbey"
   },
   {
-    "Name": "ÃMilie CarriãRe",
-    "PersonKey": "carriare|aÂ‰milie",
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "Eastman Selects 19U"
-  },
-  {
-    "Name": "Chloã CarriãRe",
-    "PersonKey": "carriare|chloaÂ‰",
-    "Position": "D",
-    "Country": "US",
-    "Team2025": "Eastman Selects 19U"
-  },
-  {
-    "Name": "Isabella CarriãRe",
-    "PersonKey": "carriare|isabella",
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "Eastman Selects 19U"
-  },
-  {
-    "Name": "Kennedy  CarriãRe",
-    "PersonKey": "carriare|kennedy",
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "Eastman Selects 19U"
-  },
-  {
     "Name": "Aislin Carrick",
     "PersonKey": "carrick|aislin",
     "BirthYr": 2006,
@@ -20201,16 +20086,15 @@
     "PersonKey": "carriere|chloe",
     "BirthYr": 2008,
     "DOB": "1/20/2008",
-    "Grad": 2026,
     "Position": "D",
     "Height": "5'7\"",
     "Weight": 141,
-    "Country": "CAN",
+    "Country": "US",
     "Team2024": "Eastman U18",
-    "Team2025": "Eastman U18"
+    "Team2025": "Eastman Selects 19U"
   },
   {
-    "Name": "Emilie Carriere",
+    "Name": "ÃMilie CarriãRe",
     "PersonKey": "carriere|emilie",
     "BirthYr": 2010,
     "DOB": "10/21/2010",
@@ -20220,21 +20104,20 @@
     "Weight": 150,
     "Country": "CAN",
     "Team2024": "Eastman U18",
-    "Team2025": "Eastman U18",
+    "Team2025": "Eastman Selects 19U",
     "Team2026": "Eastman U18"
   },
   {
-    "Name": "Isabella Carriere",
+    "Name": "Isabella CarriãRe",
     "PersonKey": "carriere|isabella",
     "BirthYr": 2008,
     "DOB": "2/13/2008",
-    "Grad": 2026,
     "Position": "F",
     "Height": "5'8\"",
     "Weight": 130,
-    "Country": "CAN",
+    "Country": "US",
     "Team2024": "Eastman U18",
-    "Team2025": "Eastman U18"
+    "Team2025": "Eastman Selects 19U"
   },
   {
     "Name": "Kennedy Carriere",
@@ -20247,7 +20130,7 @@
     "Weight": 130,
     "Country": "CAN",
     "Team2024": "Eastman U18",
-    "Team2025": "Eastman U18",
+    "Team2025": "Eastman Selects 19U",
     "Team2026": "Eastman U18"
   },
   {
@@ -21063,15 +20946,6 @@
     "Highest": "U15"
   },
   {
-    "Name": "Butler Cate",
-    "PersonKey": "cate|butler",
-    "Grad": 2024,
-    "City": "Arlington",
-    "State": "MA",
-    "Country": "US",
-    "School": "Rivers"
-  },
-  {
     "Name": "Ada Catenacci",
     "PersonKey": "catenacci|ada",
     "BirthYr": 2011,
@@ -21089,14 +20963,6 @@
     "Position": "D",
     "Country": "US",
     "Team2025": "Skaneateles 14U"
-  },
-  {
-    "Name": "Crowley Catherine",
-    "PersonKey": "catherine|crowley",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "US",
-    "Team2024": "Rochester Jr Americans 16U"
   },
   {
     "Name": "Elle Cathrea",
@@ -21704,10 +21570,12 @@
   {
     "Name": "Naomi Chambers",
     "PersonKey": "chambers|naomi",
+    "BirthYr": 2007,
     "Grad": 2025,
     "Position": "F",
     "Country": "CAN",
-    "Team2024": "Nepean Wildcats U22"
+    "Team2024": "Nepean Wildcats U22",
+    "Team2025": "Ottawa Senators Women's Hockey Club U22"
   },
   {
     "Name": "Makenna Chambliss",
@@ -23084,22 +22952,6 @@
     "Position": "D",
     "Country": "US",
     "Team2025": "Arizona Kachinas 19U"
-  },
-  {
-    "Name": "Chitkara Chloe",
-    "PersonKey": "chloe|chitkara",
-    "Grad": 2026,
-    "City": "Wayland",
-    "State": "MA",
-    "Country": "US",
-    "School": "Rivers"
-  },
-  {
-    "Name": "Gentien Chloe",
-    "PersonKey": "chloe|gentien",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "CAN"
   },
   {
     "Name": "Athena Cho",
@@ -24569,7 +24421,7 @@
     "Highest": "SKcamp"
   },
   {
-    "Name": "Amy Clements",
+    "Name": "Clements Amy",
     "PersonKey": "clements|amy",
     "BirthYr": 2007,
     "Grad": 2025,
@@ -26225,14 +26077,6 @@
     "Team2025": "Valley Jr Warriors 14U"
   },
   {
-    "Name": "Streeter Connie",
-    "PersonKey": "connie|streeter",
-    "Grad": 2025,
-    "Position": "G",
-    "Country": "US",
-    "Team2025": "Belle Tire 19U"
-  },
-  {
     "Name": "Ainsley Connolly",
     "PersonKey": "connolly|ainsley",
     "BirthYr": 2009,
@@ -27133,6 +26977,7 @@
     "City": "Trenton",
     "State": "ONT",
     "Country": "CAN",
+    "Team2024": "Kingston Ice Wolves U22",
     "Team": "Kingston Ice Wolves",
     "College": "Quinnipiac",
     "Jr": "TmON-B",
@@ -27146,14 +26991,6 @@
     "Position": "F",
     "Country": "CAN",
     "Team2026": "Sudbury Lady Wolves U15"
-  },
-  {
-    "Name": "Peyton Cormier(injured)",
-    "PersonKey": "cormierinjured|peyton",
-    "Grad": 2025,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2024": "Kingston Ice Wolves U22"
   },
   {
     "Name": "Frankie Cormier-McFarlane",
@@ -28878,7 +28715,7 @@
     "Team2026": "Boston Jr Eagles 14U"
   },
   {
-    "Name": "Catherine Crowley",
+    "Name": "Crowley Catherine",
     "PersonKey": "crowley|catherine",
     "BirthYr": 2008,
     "DOB": "4/1/2008",
@@ -28890,6 +28727,7 @@
     "City": "Iona",
     "State": "NY",
     "Country": "US",
+    "Team2024": "Rochester Jr Americans 16U",
     "Team2025": "Rochester Jr Americans 19U",
     "College": "Hamilton",
     "Soph": "U15",
@@ -28959,7 +28797,7 @@
     "Highest": "ATcamp"
   },
   {
-    "Name": "Addison Cruciano",
+    "Name": "Cruciano Addison",
     "PersonKey": "cruciano|addison",
     "BirthYr": 2008,
     "Position": "F",
@@ -30267,6 +30105,20 @@
     "Highest": "U1617"
   },
   {
+    "Name": "Daley Taylor",
+    "PersonKey": "daley|taylor",
+    "BirthYr": 2009,
+    "DOB": "12/28/2009",
+    "Grad": 2028,
+    "Position": "F",
+    "Height": "5'6\"",
+    "Weight": 130,
+    "Country": "US",
+    "School": "Greenwich CDS",
+    "College": "Nichols",
+    "Sr": "x"
+  },
+  {
     "Name": "Estelle Dalin",
     "PersonKey": "dalin|estelle",
     "BirthYr": 2010,
@@ -30799,14 +30651,6 @@
     "Jr": "U1617",
     "Sr": "U1617",
     "Highest": "U1617"
-  },
-  {
-    "Name": "Hu Daphne",
-    "PersonKey": "daphne|hu",
-    "Grad": 2030,
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "NJ Colonials 14U"
   },
   {
     "Name": "Olivia Dapueto",
@@ -33238,6 +33082,7 @@
     "City": "Hannibal",
     "State": "NY",
     "Country": "US",
+    "Team2024": "Rochester Jr Americans 16U",
     "Team2025": "Rochester Jr Americans 19U",
     "College": "RIT",
     "Soph": "U15",
@@ -33948,14 +33793,6 @@
     "Country": "CAN",
     "Team2024": "Toronto Aeros U18",
     "Team2025": "Toronto Aeros U18"
-  },
-  {
-    "Name": "Peckett Diana",
-    "PersonKey": "diana|peckett",
-    "Grad": 2030,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Anna Diane Mckee",
@@ -34691,10 +34528,12 @@
     "School": "Tilton"
   },
   {
-    "Name": "Cadence Dionne",
+    "Name": "Dionne Cadence",
     "PersonKey": "dionne|cadence",
+    "BirthYr": 2011,
     "Grad": 2029,
     "Position": "G",
+    "State": "MA",
     "Country": "US",
     "Team2025": "Boston Jr Terriers 14U"
   },
@@ -35668,6 +35507,7 @@
     "Height": "5'0\"",
     "State": "CT",
     "Country": "US",
+    "Team2025": "CT Jr Rangers 14U",
     "Team2026": "Lovell Academy 14U",
     "CCM68": "Yes"
   },
@@ -38818,14 +38658,6 @@
     "Team2025": "Lovell Academy 14U"
   },
   {
-    "Name": "Holland Elise",
-    "PersonKey": "elise|holland",
-    "BirthYr": 2011,
-    "Position": "G",
-    "State": "MA",
-    "Country": "US"
-  },
-  {
     "Name": "Bellavance Elizabeth",
     "PersonKey": "elizabeth|bellavance",
     "Grad": 2027,
@@ -38871,23 +38703,6 @@
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
-  },
-  {
-    "Name": "Doran Ella",
-    "PersonKey": "ella|doran",
-    "Grad": 2030,
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "CT Jr Rangers 14U"
-  },
-  {
-    "Name": "Orr Ellen",
-    "PersonKey": "ellen|orr",
-    "Grad": 2027,
-    "City": "Bismarck",
-    "State": "ND",
-    "Country": "US",
-    "School": "Exeter"
   },
   {
     "Name": "Sydney Elliah",
@@ -39082,7 +38897,7 @@
   },
   {
     "Name": "Natlia Elson",
-    "PersonKey": "elson|natlia",
+    "PersonKey": "elson|natalia",
     "BirthYr": 2007,
     "DOB": 2007,
     "Grad": 2026,
@@ -39115,32 +38930,6 @@
     "Country": "CAN"
   },
   {
-    "Name": "Grennan Emeline",
-    "PersonKey": "emeline|grennan",
-    "BirthYr": 2007,
-    "DOB": "6/22/2007",
-    "Grad": 2025,
-    "Position": "G",
-    "Height": "5’9”",
-    "Weight": 145,
-    "City": "Washington",
-    "State": "DC",
-    "Country": "US",
-    "School": "BK Selects",
-    "Soph": "U15",
-    "Highest": "U15"
-  },
-  {
-    "Name": "MacDonald Emerson",
-    "PersonKey": "emerson|macdonald",
-    "BirthYr": 2007,
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2025": "Ottawa Senators Women's Hockey Club U22",
-    "Sr": "x"
-  },
-  {
     "Name": "Olivia Emerson",
     "PersonKey": "emerson|olivia",
     "BirthYr": 2005,
@@ -39171,14 +38960,6 @@
     "CCM68": "Yes",
     "Soph": "U15",
     "Highest": "U15"
-  },
-  {
-    "Name": "Macartney Emma",
-    "PersonKey": "emma|macartney",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "US",
-    "Team2024": "Rochester Jr Americans 16U"
   },
   {
     "Name": "Juliette Emma Demyttenaere",
@@ -39727,15 +39508,6 @@
     "Team2025": "Sno King Jr. Thunderbirds 16U"
   },
   {
-    "Name": "Sears Erin",
-    "PersonKey": "erin|sears",
-    "Grad": 2027,
-    "City": "Bridport",
-    "State": "VT",
-    "Country": "US",
-    "School": "Exeter"
-  },
-  {
     "Name": "Sophie Erlam",
     "PersonKey": "erlam|sophia",
     "BirthYr": 2008,
@@ -39863,14 +39635,6 @@
     "Team": "Team Long Island",
     "CCM68": "Yes",
     "Highest": "U15"
-  },
-  {
-    "Name": "DeRocha Eryka",
-    "PersonKey": "eryka|derocha",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "US",
-    "Team2024": "Rochester Jr Americans 16U"
   },
   {
     "Name": "Emma Eschweiler",
@@ -40276,16 +40040,6 @@
     "Team2025": "Madison Capitols 19U"
   },
   {
-    "Name": "Finch Evvy",
-    "PersonKey": "evvy|finch",
-    "Grad": 2026,
-    "Position": "F",
-    "City": "Elizabethtown",
-    "State": "PA",
-    "Country": "US",
-    "School": "Hill"
-  },
-  {
     "Name": "Andyn Ewald",
     "PersonKey": "ewald|andyn",
     "BirthYr": 2011,
@@ -40430,13 +40184,6 @@
     "Team": "South Alberta Hockey Academy",
     "Jr": "SKcamp",
     "Highest": "SKcamp"
-  },
-  {
-    "Name": "Alexis Fadden",
-    "PersonKey": "fadden|alexis",
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "East Coast Valkyries 19U"
   },
   {
     "Name": "Maddy Fadista",
@@ -42283,7 +42030,7 @@
     "School": "Hebron"
   },
   {
-    "Name": "Evvy Finch",
+    "Name": "Finch Evvy",
     "PersonKey": "finch|evvy",
     "Grad": 2026,
     "Position": "F",
@@ -43460,6 +43207,7 @@
     "Grad": 2029,
     "Position": "F",
     "Country": "CAN",
+    "School": "Hebron",
     "Team2025": "Sarnia Jr Lady Sting U15"
   },
   {
@@ -43601,17 +43349,6 @@
     "Country": "CAN",
     "Team2024": "Toronto Aeros U22",
     "Team2025": "Toronto Aeros U22"
-  },
-  {
-    "Name": "Bedard Florence",
-    "PersonKey": "florence|bedard",
-    "BirthYr": 2009,
-    "Grad": 2029,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2026": "Edouard-Monpetit U22",
-    "Jr": "x",
-    "Sr": "x"
   },
   {
     "Name": "Anne Florence Poirier",
@@ -44368,6 +44105,15 @@
     "Highest": "QCcamp"
   },
   {
+    "Name": "Foster Riley",
+    "PersonKey": "foster|riley",
+    "BirthYr": 2013,
+    "Grad": 2031,
+    "Position": "D",
+    "Country": "CAN",
+    "Team2026": "Ayr U15"
+  },
+  {
     "Name": "Rachel Foulkes",
     "PersonKey": "foulkes|rachel",
     "BirthYr": 2008,
@@ -44467,6 +44213,11 @@
     "Team": "Arizona Kachinas",
     "Soph": "U15",
     "Highest": "U15"
+  },
+  {
+    "Name": "Fox Lauren",
+    "PersonKey": "fox|lauren",
+    "CCM68": "Yes"
   },
   {
     "Name": "Lindsay Fox",
@@ -46793,6 +46544,7 @@
     "Grad": 2026,
     "Position": "F",
     "Country": "US",
+    "Team2024": "Rochester Jr Americans 16U",
     "Team2025": "Rochester Jr Americans 19U"
   },
   {
@@ -47356,7 +47108,7 @@
     "Country": "CAN"
   },
   {
-    "Name": "Chloe Gentien",
+    "Name": "Gentien Chloe",
     "PersonKey": "gentien|chloe",
     "BirthYr": 2005,
     "DOB": "10/20/2005",
@@ -48449,7 +48201,7 @@
     "Country": "CAN"
   },
   {
-    "Name": "Avienne Gill",
+    "Name": "Gill Avienne",
     "PersonKey": "gill|avienne",
     "BirthYr": 2013,
     "DOB": "4/17/2013",
@@ -52137,7 +51889,7 @@
     "Sr": "x"
   },
   {
-    "Name": "Emeline Grennan",
+    "Name": "Grennan Emeline",
     "PersonKey": "grennan|emeline",
     "BirthYr": 2007,
     "DOB": "6/22/2007",
@@ -52154,6 +51906,7 @@
     "Team2025": "Etobicoke Dolphins U22",
     "Team": "BK Selects",
     "College": "Yale",
+    "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
     "Highest": "U1617"
@@ -52554,14 +52307,6 @@
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
-  },
-  {
-    "Name": "Mckenzie Grimm(injured)",
-    "PersonKey": "grimminjured|mckenzie",
-    "Grad": 2025,
-    "Position": "F",
-    "Country": "US",
-    "Team2024": "Pittsburgh Penguins Elite 19U"
   },
   {
     "Name": "Piper Grinsteiner",
@@ -54076,14 +53821,6 @@
     "Team2026": "Madison Capitols 16U"
   },
   {
-    "Name": "Baughan Hailey",
-    "PersonKey": "hailey|baughan",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "US",
-    "Team2024": "Rochester Jr Americans 16U"
-  },
-  {
     "Name": "Zoe Hainsworth",
     "PersonKey": "hainsworth|zoe",
     "Grad": 2027,
@@ -55110,14 +54847,6 @@
     "CCM68": "Yes"
   },
   {
-    "Name": "Burr Hannah",
-    "PersonKey": "hannah|burr",
-    "Grad": 2031,
-    "Position": "D",
-    "Country": "US",
-    "Team2025": "CT Jr Rangers 14U"
-  },
-  {
     "Name": "Chatelle Hannah",
     "PersonKey": "hannah|chatelle",
     "BirthYr": 2011,
@@ -55145,16 +54874,6 @@
     "Country": "US",
     "School": "Loomis",
     "College": "Middlebury"
-  },
-  {
-    "Name": "Macron Hannah",
-    "PersonKey": "hannah|macron",
-    "Grad": 2026,
-    "Position": "F",
-    "City": "Smithtown",
-    "State": "NY",
-    "Country": "US",
-    "School": "St Marks"
   },
   {
     "Name": "Nora Hannan",
@@ -55905,22 +55624,6 @@
     "College": "Providence",
     "Sr": "TmON-B",
     "Highest": "TmON-B"
-  },
-  {
-    "Name": "Kealey Harper",
-    "PersonKey": "harper|kealey",
-    "Grad": 2030,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2026": "Ottawa Senators U15"
-  },
-  {
-    "Name": "Nichols Harper",
-    "PersonKey": "harper|nichols",
-    "Grad": 2030,
-    "Position": "G",
-    "Country": "US",
-    "Team2026": "Fox Motors 16U"
   },
   {
     "Name": "Tessa Harper",
@@ -60435,8 +60138,11 @@
     "School": "St Georges"
   },
   {
-    "Name": "Elise Holland",
+    "Name": "Holland Elise",
     "PersonKey": "holland|elise",
+    "BirthYr": 2011,
+    "Position": "G",
+    "State": "MA",
     "Country": "US",
     "Team2025": "Boston Jr Eagles 14U",
     "Team2026": "CPC Boston Americans 16U"
@@ -61863,7 +61569,7 @@
     "CCM68": "Yes"
   },
   {
-    "Name": "Daphne Hu",
+    "Name": "Hu Daphne",
     "PersonKey": "hu|daphne",
     "BirthYr": 2012,
     "Position": "F",
@@ -63747,16 +63453,6 @@
     "Team2025": "St. Louis AAA Blues 19U"
   },
   {
-    "Name": "Goncalves Isabella",
-    "PersonKey": "isabella|goncalves",
-    "Grad": 2028,
-    "Position": "F",
-    "City": "Brighton",
-    "State": "MA",
-    "Country": "US",
-    "School": "Nobles"
-  },
-  {
     "Name": "Shawna Isbister",
     "PersonKey": "isbister|shawna",
     "BirthYr": 2006,
@@ -64312,13 +64008,6 @@
     "PersonKey": "jacques|katherine",
     "Grad": 2024,
     "Position": "F",
-    "Country": "CAN"
-  },
-  {
-    "Name": "Lore Jade",
-    "PersonKey": "jade|lore",
-    "Grad": 2023,
-    "Position": "D",
     "Country": "CAN"
   },
   {
@@ -65265,16 +64954,6 @@
     "Weight": 143,
     "Country": "US",
     "College": "Hamilton"
-  },
-  {
-    "Name": "Smith Jillian",
-    "PersonKey": "jillian|smith",
-    "Grad": 2026,
-    "Position": "F",
-    "City": "Long Valley",
-    "State": "NJ",
-    "Country": "US",
-    "School": "Hill"
   },
   {
     "Name": "Valentina Jimenes",
@@ -68296,7 +67975,7 @@
     "Team2025": "Ottawa Senators Women's Hockey Club U15"
   },
   {
-    "Name": "Harper Kealey",
+    "Name": "Kealey Harper",
     "PersonKey": "kealey|harper",
     "BirthYr": 2012,
     "Grad": 2030,
@@ -68493,15 +68172,6 @@
     "Position": "F",
     "State": "MA",
     "Country": "US"
-  },
-  {
-    "Name": "Roberts Keegan",
-    "PersonKey": "keegan|roberts",
-    "BirthYr": 2009,
-    "Grad": 2027,
-    "Position": "D",
-    "Country": "US",
-    "Team2026": "Nichols 19U"
   },
   {
     "Name": "Adele Keeler",
@@ -68799,6 +68469,14 @@
     "Country": "US",
     "Team2025": "Fox Motors 14U",
     "Team2026": "Fox Motors 16U"
+  },
+  {
+    "Name": "Keller Caitlyn",
+    "PersonKey": "keller|caitlyn",
+    "BirthYr": 2011,
+    "Position": "G",
+    "State": "MA",
+    "Country": "US"
   },
   {
     "Name": "Jenny Keller",
@@ -69195,15 +68873,6 @@
     "Team2026": "Belleville U15"
   },
   {
-    "Name": "Powers Kendall",
-    "PersonKey": "kendall|powers",
-    "BirthYr": 2011,
-    "Position": "G",
-    "State": "MA",
-    "Country": "US",
-    "Regionals": "Yes"
-  },
-  {
     "Name": "Peyton Kendrick",
     "PersonKey": "kendrick|peyton",
     "BirthYr": 2011,
@@ -69211,16 +68880,6 @@
     "Position": "F",
     "Country": "CAN",
     "Team2026": "North Bay U18"
-  },
-  {
-    "Name": "Buffery Kenna",
-    "PersonKey": "kenna|buffery",
-    "Grad": 2028,
-    "Position": "F/D",
-    "City": "Warwick",
-    "State": "RI",
-    "Country": "US",
-    "School": "St Georges"
   },
   {
     "Name": "Maeve Kennally",
@@ -69527,14 +69186,6 @@
     "Team2026": "MN Green Giants 14U",
     "Jr": "x",
     "Sr": "x"
-  },
-  {
-    "Name": "Michaels Keri",
-    "PersonKey": "keri|michaels",
-    "Grad": 2029,
-    "Position": "D",
-    "Country": "US",
-    "Team2025": "NJ Colonials 14U"
   },
   {
     "Name": "Lilliana Kerluke",
@@ -69903,23 +69554,6 @@
     "Position": "F",
     "Country": "US",
     "Team2026": "Rochester Jr Americans 16U"
-  },
-  {
-    "Name": "Brindle Kiera",
-    "PersonKey": "kiera|brindle",
-    "BirthYr": 2011,
-    "Position": "G",
-    "State": "MA",
-    "Country": "US"
-  },
-  {
-    "Name": "Dowd Kiera",
-    "PersonKey": "kiera|dowd",
-    "Grad": 2027,
-    "City": "Concord",
-    "State": "MA",
-    "Country": "US",
-    "School": "Exeter"
   },
   {
     "Name": "Kashlynn Kiesman",
@@ -74032,14 +73666,6 @@
     "Team2025": "South Coast Riptide U15"
   },
   {
-    "Name": "Cole Kyleigh",
-    "PersonKey": "kyleigh|cole",
-    "Grad": 2028,
-    "Position": "F",
-    "Country": "US",
-    "Team2026": "HoneyBaked 16U"
-  },
-  {
     "Name": "Alyssa Kyles",
     "PersonKey": "kyles|alyssa",
     "BirthYr": 2010,
@@ -74956,7 +74582,7 @@
     "Team2026": "Ottawa Senators U22"
   },
   {
-    "Name": "Arya Lalbeharry",
+    "Name": "Lalbeharry Arya",
     "PersonKey": "lalbeharry|arya",
     "BirthYr": 2011,
     "Position": "D",
@@ -76585,26 +76211,6 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Boston Jr Terriers 14U"
-  },
-  {
-    "Name": "Fletcher Lauren",
-    "PersonKey": "lauren|fletcher",
-    "Grad": 2024,
-    "Position": "F",
-    "School": "Hebron"
-  },
-  {
-    "Name": "Fox Lauren",
-    "PersonKey": "lauren|fox",
-    "CCM68": "Yes"
-  },
-  {
-    "Name": "Garsin Lauren",
-    "PersonKey": "lauren|garsin",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "US",
-    "Team2024": "Rochester Jr Americans 16U"
   },
   {
     "Name": "Lovella Laurence",
@@ -78682,6 +78288,13 @@
     "School": "Worcester"
   },
   {
+    "Name": "Michelle â€œemmieâ€ Lembcke",
+    "PersonKey": "lembcke|michelle",
+    "Grad": 2025,
+    "Position": "F",
+    "Country": "US"
+  },
+  {
     "Name": "Isabelle Lemelin",
     "PersonKey": "lemelin|isabelle",
     "Grad": 2028,
@@ -79576,14 +79189,6 @@
     "Team2026": "East Ottawa Stars U15"
   },
   {
-    "Name": "Dobbs Lexie",
-    "PersonKey": "lexie|dobbs",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "Belle Tire 19U"
-  },
-  {
     "Name": "Keira Ley",
     "PersonKey": "ley|keira",
     "BirthYr": 2006,
@@ -80051,15 +79656,6 @@
     "College": "New Hampshire",
     "Soph": "U15",
     "Highest": "U15"
-  },
-  {
-    "Name": "Christiansen Lilli",
-    "PersonKey": "lilli|christiansen",
-    "BirthYr": 2010,
-    "Grad": 2028,
-    "Position": "D",
-    "Country": "US",
-    "Team2025": "St Louis Lady Blues 19U"
   },
   {
     "Name": "Lilly Lilly Tarpey",
@@ -81731,6 +81327,14 @@
     "Team2024": "Anaheim 14U"
   },
   {
+    "Name": "Lore Jade",
+    "PersonKey": "lore|jade",
+    "Grad": 2023,
+    "Position": "D",
+    "Country": "CAN",
+    "College": "UCONN"
+  },
+  {
     "Name": "Maria Lorelli",
     "PersonKey": "lorelli|maria",
     "BirthYr": 2012,
@@ -82908,14 +82512,6 @@
     "School": "Hebron"
   },
   {
-    "Name": "Gleason Lyla",
-    "PersonKey": "lyla|gleason",
-    "Grad": 2029,
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "NJ Colonials 14U"
-  },
-  {
     "Name": "Kayla Lyn",
     "PersonKey": "lyn|kayla",
     "BirthYr": 2008,
@@ -83210,7 +82806,7 @@
     "Team2026": "Whitby Wolves U22"
   },
   {
-    "Name": "Emma Macartney",
+    "Name": "Macartney Emma",
     "PersonKey": "macartney|emma",
     "BirthYr": 2008,
     "DOB": "1/1/2008",
@@ -83222,6 +82818,7 @@
     "City": "Bloomfield",
     "State": "NY",
     "Country": "US",
+    "Team2024": "Rochester Jr Americans 16U",
     "Team2025": "Rochester Jr Americans 19U",
     "Team": "Rochester Jr Americans",
     "Soph": "U15",
@@ -83444,6 +83041,16 @@
     "Country": "US",
     "School": "Thayer",
     "College": "WorcesterState"
+  },
+  {
+    "Name": "MacDonald Emerson",
+    "PersonKey": "macdonald|emerson",
+    "BirthYr": 2007,
+    "Grad": 2026,
+    "Position": "F",
+    "Country": "CAN",
+    "Team2025": "Ottawa Senators Women's Hockey Club U22",
+    "Sr": "x"
   },
   {
     "Name": "Emma Macdonald",
@@ -84617,7 +84224,7 @@
     "Highest": "ON_U16"
   },
   {
-    "Name": "Hannah Macron",
+    "Name": "Macron Hannah",
     "PersonKey": "macron|hannah",
     "Grad": 2026,
     "Position": "F",
@@ -84766,14 +84373,6 @@
     "School": "Brewster"
   },
   {
-    "Name": "Zigler Madilyn",
-    "PersonKey": "madilyn|zigler",
-    "Grad": 2029,
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "NJ Colonials 14U"
-  },
-  {
     "Name": "Dana Madsen",
     "PersonKey": "madsen|dana",
     "Grad": 2029,
@@ -84812,14 +84411,6 @@
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2026"
-  },
-  {
-    "Name": "Chambers Maeve",
-    "PersonKey": "maeve|chambers",
-    "Grad": 2030,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2026": "Ottawa Senators U15"
   },
   {
     "Name": "Maeve Maeve Burns",
@@ -86909,7 +86500,7 @@
     "Grad": 2028,
     "Position": "F",
     "Country": "CAN",
-    "Team2024": "Peterborough U15",
+    "Team2024": "Peterborough U18",
     "Team2025": "Peterborough U18"
   },
   {
@@ -86922,6 +86513,14 @@
     "Team2024": "Madison Capitols 16U",
     "Team2025": "Madison Capitols 16U",
     "Team2026": "Madison Capitols 19U"
+  },
+  {
+    "Name": "MYA Marshall",
+    "PersonKey": "marshall|mya",
+    "Grad": 2029,
+    "Position": "F",
+    "Country": "CAN",
+    "Team2024": "Peterborough U18"
   },
   {
     "Name": "Skylar Marshall",
@@ -86939,22 +86538,6 @@
     "CCM68": "Yes",
     "Jr": "U1617",
     "Highest": "U1617"
-  },
-  {
-    "Name": "MYA Marshall AP",
-    "PersonKey": "marshallap|mya",
-    "Grad": 2029,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2024": "Peterborough U18"
-  },
-  {
-    "Name": "Madison Marshall Injured",
-    "PersonKey": "marshallinjured|madison",
-    "Grad": 2028,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2024": "Peterborough U18"
   },
   {
     "Name": "Abygail Marsolais",
@@ -87273,7 +86856,7 @@
     "School": "BB&N"
   },
   {
-    "Name": "Lilia Martin",
+    "Name": "Lilia Â€˜Lilyâ€™ Martin",
     "PersonKey": "martin|lilia",
     "BirthYr": 2010,
     "DOB": "2/1/2010",
@@ -91558,11 +91141,6 @@
     "Country": "US"
   },
   {
-    "Name": "Walsh McKenna",
-    "PersonKey": "mckenna|walsh",
-    "CCM68": "Yes"
-  },
-  {
     "Name": "Malyia Mckennett",
     "PersonKey": "mckennett|malyia",
     "BirthYr": 2006,
@@ -92871,16 +92449,6 @@
     "School": "Austin Prep"
   },
   {
-    "Name": "O'Connor Megan",
-    "PersonKey": "megan|oconnor",
-    "Grad": 2026,
-    "Position": "F",
-    "City": "Greenville",
-    "State": "RI",
-    "Country": "US",
-    "School": "Portsmouth Abbey"
-  },
-  {
     "Name": "Ellie Mehling",
     "PersonKey": "mehling|eleanor",
     "Grad": 2026,
@@ -92988,15 +92556,6 @@
     "Jr": "U1617",
     "Sr": "x",
     "Highest": "U1617"
-  },
-  {
-    "Name": "Allen Melanie",
-    "PersonKey": "melanie|allen",
-    "BirthYr": 2011,
-    "Position": "G",
-    "State": "MA",
-    "Country": "US",
-    "Regionals": "Yes"
   },
   {
     "Name": "Gianna Melchionna",
@@ -93838,15 +93397,6 @@
     "Team2026": "Barrie Jr Sharks U15"
   },
   {
-    "Name": "Griffith Mia",
-    "PersonKey": "mia|griffith",
-    "Grad": 2026,
-    "City": "Suwanee",
-    "State": "GA",
-    "Country": "US",
-    "School": "Exeter"
-  },
-  {
     "Name": "Amelia \"mia\" Simpson",
     "PersonKey": "miasimpson|amelia",
     "Grad": 2025,
@@ -93864,7 +93414,7 @@
     "School": "Portsmouth Abbey"
   },
   {
-    "Name": "Keri Michaels",
+    "Name": "Michaels Keri",
     "PersonKey": "michaels|keri",
     "BirthYr": 2011,
     "Position": "D",
@@ -94329,7 +93879,7 @@
     "CCM68": "Yes"
   },
   {
-    "Name": "Blakely Miller",
+    "Name": "Miller Blakely",
     "PersonKey": "miller|blakely",
     "BirthYr": 2013,
     "Grad": 2031,
@@ -99930,23 +99480,6 @@
     "Team2026": "Mississauga Hurricanes U15"
   },
   {
-    "Name": "Bourns Naomi",
-    "PersonKey": "naomi|bourns",
-    "Grad": 2031,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2026": "Ottawa Senators U15"
-  },
-  {
-    "Name": "Chambers Naomi",
-    "PersonKey": "naomi|chambers",
-    "BirthYr": 2007,
-    "Grad": 2025,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2025": "Ottawa Senators Women's Hockey Club U22"
-  },
-  {
     "Name": "Claire Napier",
     "PersonKey": "napier|claire",
     "BirthYr": 2010,
@@ -101401,7 +100934,7 @@
     "Sr": "x"
   },
   {
-    "Name": "Harper Nichols",
+    "Name": "Nichols Harper",
     "PersonKey": "nichols|harper",
     "BirthYr": 2011,
     "DOB": "5/1/2011",
@@ -101414,6 +100947,7 @@
     "State": "MI",
     "Country": "US",
     "Team2025": "Fox Motors 14U",
+    "Team2026": "Fox Motors 16U",
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
@@ -101735,16 +101269,6 @@
     "CCM68": "Yes"
   },
   {
-    "Name": "Hurley Nina",
-    "PersonKey": "nina|hurley",
-    "Grad": 2026,
-    "Position": "F",
-    "City": "Newton",
-    "State": "MA",
-    "Country": "US",
-    "School": "St Marks"
-  },
-  {
     "Name": "Raphaelle Niquette",
     "PersonKey": "niquette|raphaelle",
     "BirthYr": 2009,
@@ -101944,17 +101468,6 @@
     "Team2025": "Team Colorado 19U"
   },
   {
-    "Name": "aˆve Noel",
-    "PersonKey": "noel|aË†ve",
-    "BirthYr": 2007,
-    "Grad": 2027,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2025": "Edouard-Monpetit Cegep U22",
-    "Jr": "x",
-    "Sr": "x"
-  },
-  {
     "Name": "Alice Noel",
     "PersonKey": "noel|alice",
     "BirthYr": 2009,
@@ -101970,7 +101483,7 @@
     "Sr": "x"
   },
   {
-    "Name": "Eve Noel",
+    "Name": "aˆve Noel",
     "PersonKey": "noel|eve",
     "BirthYr": 2007,
     "DOB": "2/17/2007",
@@ -101978,6 +101491,7 @@
     "Position": "D",
     "Height": "5'9\"",
     "Country": "CAN",
+    "Team2025": "Edouard-Monpetit Cegep U22",
     "Team2026": "Edouard-Monpetit U22",
     "Jr": "x",
     "Sr": "x"
@@ -102478,7 +101992,7 @@
     "Grad": 2028,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Peterborough U15",
+    "Team2024": "Peterborough U18",
     "Team2025": "Peterborough U18",
     "Team2026": "Markham-Stouffville U18"
   },
@@ -102489,14 +102003,6 @@
     "Position": "D",
     "State": "MA",
     "Country": "US"
-  },
-  {
-    "Name": "Claire Nottingham Injured",
-    "PersonKey": "nottinghaminjured|claire",
-    "Grad": 2028,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2024": "Peterborough U18"
   },
   {
     "Name": "Julianna Noury",
@@ -102885,14 +102391,6 @@
     "Team2024": "Guelph U18",
     "Team2025": "Guelph U18",
     "Team2026": "Guelph U18"
-  },
-  {
-    "Name": "Lauren Oâ€™toole",
-    "PersonKey": "oatoole|lauren",
-    "Grad": 2028,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2024": "Oakville Hornets U18"
   },
   {
     "Name": "Sara O'Banion",
@@ -103309,7 +102807,7 @@
     "Country": "CAN"
   },
   {
-    "Name": "Megan O'Connor",
+    "Name": "O'Connor Megan",
     "PersonKey": "oconnor|megan",
     "Grad": 2026,
     "Position": 0,
@@ -103980,24 +103478,6 @@
     "Team2025": "Peterborough U18"
   },
   {
-    "Name": "Pinney Olivia",
-    "PersonKey": "olivia|pinney",
-    "Grad": 2028,
-    "Position": "D",
-    "City": "Westfield",
-    "State": "MA",
-    "Country": "US",
-    "School": "Canterbury"
-  },
-  {
-    "Name": "Rizzitello Olivia",
-    "PersonKey": "olivia|rizzitello",
-    "BirthYr": 2011,
-    "Position": "G",
-    "State": "MA",
-    "Country": "US"
-  },
-  {
     "Name": "Summer Olmstead",
     "PersonKey": "olmstead|summer",
     "Position": "F",
@@ -104663,7 +104143,7 @@
     "Team2026": "Guelph U15"
   },
   {
-    "Name": "Ellen Orr",
+    "Name": "Orr Ellen",
     "PersonKey": "orr|ellen",
     "BirthYr": 2008,
     "Grad": 2027,
@@ -104955,6 +104435,7 @@
     "Position": "F",
     "State": "ONT",
     "Country": "CAN",
+    "Team2024": "Oakville Hornets U18",
     "Team2025": "Oakville Hornets U18",
     "Team2026": "Oakville Hornets U22",
     "Soph": "ON_U16",
@@ -105859,14 +105340,6 @@
     "Team2024": "Belle Tire 19U"
   },
   {
-    "Name": "Zoe(sophia) Paolucci",
-    "PersonKey": "paolucci|zoe(sophia)",
-    "Grad": 2025,
-    "Position": "F",
-    "Country": "US",
-    "Team2024": "Belle Tire 19U"
-  },
-  {
     "Name": "Sophia Paone",
     "PersonKey": "paone|sophia",
     "BirthYr": 2008,
@@ -106207,12 +105680,6 @@
     "State": "MA",
     "Country": "US",
     "School": "Andover"
-  },
-  {
-    "Name": "Fryberger Parker",
-    "PersonKey": "parker|fryberger",
-    "Grad": 2026,
-    "School": "Rivers"
   },
   {
     "Name": "Gabrielle Parker",
@@ -107194,7 +106661,7 @@
     "Country": "CAN"
   },
   {
-    "Name": "Diana Peckett",
+    "Name": "Peckett Diana",
     "PersonKey": "peckett|diana",
     "BirthYr": 2012,
     "Grad": 2030,
@@ -107562,6 +107029,22 @@
     "State": "OR",
     "Country": "US",
     "School": "Portsmouth Abbey"
+  },
+  {
+    "Name": "Katerina Pencikova",
+    "PersonKey": "pencikova|katerina",
+    "BirthYr": 2008,
+    "DOB": "2/26/2008",
+    "Grad": 2027,
+    "Position": "F",
+    "City": "Ostrava",
+    "State": "CZE",
+    "Country": "Intl",
+    "College": "RIT",
+    "Jr": "WNT-O",
+    "Sr": "x",
+    "Highest": "WNT-O",
+    "Notable": "Team Czechia U18 2025,2026 (2X)"
   },
   {
     "Name": "Scarlet Penders",
@@ -108736,30 +108219,6 @@
     "Sr": "x"
   },
   {
-    "Name": "Carter Peyton",
-    "PersonKey": "peyton|carter",
-    "BirthYr": 2008,
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2025": "Okanagan Hockey Academy Edmonton U22"
-  },
-  {
-    "Name": "Grebinar Peyton",
-    "PersonKey": "peyton|grebinar",
-    "Grad": 2027,
-    "Position": "F/D",
-    "City": "Sterling",
-    "State": "MA",
-    "Country": "US",
-    "School": "Hebron"
-  },
-  {
-    "Name": "Tully Peyton",
-    "PersonKey": "peyton|tully",
-    "CCM68": "Yes"
-  },
-  {
     "Name": "Adriana Pezzutti",
     "PersonKey": "pezzutti|adriana",
     "Position": "F",
@@ -109590,7 +109049,7 @@
     "Sr": "x"
   },
   {
-    "Name": "Olivia Pinney",
+    "Name": "Pinney Olivia",
     "PersonKey": "pinney|olivia",
     "BirthYr": 2009,
     "Grad": 2028,
@@ -109732,7 +109191,8 @@
     "Name": "Sophia Pirie",
     "PersonKey": "pirie|sophia",
     "Position": "F",
-    "Country": "US"
+    "Country": "US",
+    "CCM68": "Yes"
   },
   {
     "Name": "Elizabeth Piroli",
@@ -110301,22 +109761,6 @@
     "Country": "CAN",
     "Team2024": "Peterborough U18",
     "Team2026": "Peterborough U18"
-  },
-  {
-    "Name": "Katerina Pencikova",
-    "PersonKey": "pnikova|kateřina",
-    "BirthYr": 2008,
-    "DOB": "2/26/2008",
-    "Grad": 2027,
-    "Position": "F",
-    "City": "Ostrava",
-    "State": "CZE",
-    "Country": "Intl",
-    "College": "RIT",
-    "Jr": "WNT-O",
-    "Sr": "x",
-    "Highest": "WNT-O",
-    "Notable": "Team Czechia U18 2025,2026 (2X)"
   },
   {
     "Name": "Mackenzie Podewell",
@@ -111722,9 +111166,11 @@
     "Highest": "U1617"
   },
   {
-    "Name": "Kendall Powers",
+    "Name": "Powers Kendall",
     "PersonKey": "powers|kendall",
+    "BirthYr": 2011,
     "Position": "G",
+    "State": "MA",
     "Country": "US",
     "Team2025": "Valley Jr Warriors 14U"
   },
@@ -114177,14 +113623,6 @@
     "Highest": "U1617"
   },
   {
-    "Name": "Walker Rayven",
-    "PersonKey": "rayven|walker",
-    "Grad": 2031,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2026": "Ottawa Senators U15"
-  },
-  {
     "Name": "Emma Razzaque",
     "PersonKey": "razzaque|emma",
     "BirthYr": 2012,
@@ -114211,17 +113649,9 @@
     "Grad": 2029,
     "Position": "D",
     "Country": "CAN",
-    "Team2024": "Peterborough U15",
+    "Team2024": "Peterborough U18",
     "Team2025": "Peterborough U15",
     "Team2026": "Peterborough U18"
-  },
-  {
-    "Name": "Sylvia Ready AP",
-    "PersonKey": "readyap|sylvia",
-    "Grad": 2029,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2024": "Peterborough U18"
   },
   {
     "Name": "Hannah Reagh",
@@ -116146,15 +115576,6 @@
     "School": "Tilton"
   },
   {
-    "Name": "Foster Riley",
-    "PersonKey": "riley|foster",
-    "BirthYr": 2013,
-    "Grad": 2031,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2026": "Ayr U15"
-  },
-  {
     "Name": "Grace Riley",
     "PersonKey": "riley|grace",
     "BirthYr": 2007,
@@ -116603,11 +116024,12 @@
     "College": "Johnson & Wales"
   },
   {
-    "Name": "Olivia Rizzitello",
+    "Name": "Rizzitello Olivia",
     "PersonKey": "rizzitello|olivia",
     "BirthYr": 2011,
     "Grad": 2030,
     "Position": "G",
+    "State": "MA",
     "Country": "US",
     "Team2025": "NAHA 14U",
     "Sr": "x"
@@ -116794,9 +116216,10 @@
     "Highest": "U18"
   },
   {
-    "Name": "Keegan Roberts",
+    "Name": "Roberts Keegan",
     "PersonKey": "roberts|keegan",
-    "Grad": 2028,
+    "BirthYr": 2009,
+    "Grad": 2027,
     "Position": "D",
     "Country": "US",
     "Team2026": "Nichols 19U"
@@ -117903,14 +117326,6 @@
     "Position": "F",
     "Country": "US",
     "Team2025": "Boston Jr Terriers 14U"
-  },
-  {
-    "Name": "Clemons Ronya",
-    "PersonKey": "ronya|clemons",
-    "Grad": 2026,
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "Belle Tire 19U"
   },
   {
     "Name": "Adeline Roper",
@@ -119305,7 +118720,7 @@
     "Team2025": "Okanagan Hockey Academy Penticton U22"
   },
   {
-    "Name": "Ava Russo",
+    "Name": "Russo Ava",
     "PersonKey": "russo|ava",
     "Grad": 2026,
     "Position": "G",
@@ -119825,14 +119240,6 @@
     "Highest": "ON_U16"
   },
   {
-    "Name": "Brille Sabrina",
-    "PersonKey": "sabrina|brille",
-    "Grad": 2029,
-    "Position": "F",
-    "Country": "US",
-    "Team2025": "NJ Colonials 14U"
-  },
-  {
     "Name": "Annabella Sacca",
     "PersonKey": "sacca|annabella",
     "BirthYr": 2007,
@@ -120225,15 +119632,6 @@
     "Team2025": "Chicago Mission 14U",
     "Team2026": "Chicago Mission 14U",
     "CCM68": "Yes"
-  },
-  {
-    "Name": "Crowley Samantha",
-    "PersonKey": "samantha|crowley",
-    "Grad": 2027,
-    "City": "Wilmington",
-    "State": "MA",
-    "Country": "US",
-    "School": "Exeter"
   },
   {
     "Name": "Latini Samantha",
@@ -123176,7 +122574,7 @@
     "Team2026": "Rochester Jr Americans 19U"
   },
   {
-    "Name": "Erin Sears",
+    "Name": "Sears Erin",
     "PersonKey": "sears|erin",
     "BirthYr": 2008,
     "DOB": "3/19/2008",
@@ -123785,15 +123183,6 @@
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
     "College": "PlymouthState"
-  },
-  {
-    "Name": "Yildir Serra",
-    "PersonKey": "serra|yildir",
-    "BirthYr": 2008,
-    "Grad": 2026,
-    "Position": "G",
-    "Country": "CAN",
-    "Team2025": "Nepean Wildcats U22"
   },
   {
     "Name": "Gabby Serrano",
@@ -125848,14 +125237,6 @@
     "Highest": "ON_U16"
   },
   {
-    "Name": "Jane(Injured) Simeon",
-    "PersonKey": "simeon|jane(injured)",
-    "Grad": 2029,
-    "Position": "D",
-    "Country": "CAN",
-    "Team2024": "Oakville Hornets U15"
-  },
-  {
     "Name": "Bella Simeone",
     "PersonKey": "simeone|anabella",
     "Grad": 2026,
@@ -127593,7 +126974,7 @@
     "Team2026": "Ottawa Senators U15"
   },
   {
-    "Name": "Jillian Smith",
+    "Name": "Smith Jillian",
     "PersonKey": "smith|jillian",
     "Grad": 2026,
     "Position": "F",
@@ -128916,11 +128297,6 @@
     "School": "Okanagan Hockey Academy",
     "Team": "Okanagan Hockey Academy",
     "College": "Saint Michael's"
-  },
-  {
-    "Name": "Pirie Sophia",
-    "PersonKey": "sophia|pirie",
-    "CCM68": "Yes"
   },
   {
     "Name": "Talon Sorce",
@@ -132048,7 +131424,7 @@
     "Highest": "TmMB"
   },
   {
-    "Name": "Connie Streeter",
+    "Name": "Streeter Connie",
     "PersonKey": "streeter|connie",
     "BirthYr": 2007,
     "Grad": 2025,
@@ -134720,19 +134096,6 @@
     "Sr": "WNT",
     "Highest": "WNT",
     "Notable": "Team USA U18 2025,2026 (2X)"
-  },
-  {
-    "Name": "Daley Taylor",
-    "PersonKey": "taylor|daley",
-    "BirthYr": 2009,
-    "DOB": "12/28/2009",
-    "Grad": 2028,
-    "Position": "F",
-    "Height": "5'6\"",
-    "Weight": 130,
-    "Country": "US",
-    "School": "Greenwich CDS",
-    "Sr": "x"
   },
   {
     "Name": "Ella Taylor",
@@ -138412,7 +137775,7 @@
     "Highest": "U1617"
   },
   {
-    "Name": "Peyton Tully",
+    "Name": "Tully Peyton",
     "PersonKey": "tully|peyton",
     "BirthYr": 2006,
     "DOB": "1/17/2006",
@@ -138425,7 +137788,8 @@
     "Country": "US",
     "Team2024": "Pittsburgh Penguins Elite 19U",
     "Team": "Pittsburgh Penguins Elite",
-    "College": "Post"
+    "College": "Post",
+    "CCM68": "Yes"
   },
   {
     "Name": "Addison Tumak",
@@ -138495,18 +137859,6 @@
     "Team2025": "North Valley Surge U15"
   },
   {
-    "Name": "a‰my Turcotte",
-    "PersonKey": "turcotte|aâ€°my",
-    "BirthYr": 2007,
-    "Grad": 2028,
-    "Position": "F",
-    "Country": "CAN",
-    "Team2025": "Limoilou Cegep U22",
-    "Soph": "x",
-    "Jr": "x",
-    "Sr": "x"
-  },
-  {
     "Name": "Beatrice Turcotte",
     "PersonKey": "turcotte|beatrice",
     "BirthYr": 2009,
@@ -138525,7 +137877,7 @@
     "Highest": "QCcamp"
   },
   {
-    "Name": "Emy Turcotte",
+    "Name": "a‰my Turcotte",
     "PersonKey": "turcotte|emy",
     "BirthYr": 2007,
     "DOB": "11/3/2007",
@@ -138535,6 +137887,7 @@
     "City": "Val-d'Or",
     "State": "QUE",
     "Country": "CAN",
+    "Team2025": "Limoilou Cegep U22",
     "Team2026": "Limoilou U22",
     "Team": "Filon Or et des Bois",
     "Fresh": "TmQC",
@@ -140857,14 +140210,6 @@
     "Team2025": "Pembina Valley Hawks 19U"
   },
   {
-    "Name": "George Victoria",
-    "PersonKey": "victoria|george",
-    "Grad": 2030,
-    "Position": "G",
-    "Country": "CAN",
-    "Team2026": "Ottawa Senators U15"
-  },
-  {
     "Name": "Carlee Videtic",
     "PersonKey": "videtic|carlee",
     "BirthYr": 2010,
@@ -142181,7 +141526,7 @@
     "Team2026": "Windsor U15"
   },
   {
-    "Name": "Rayven Walker",
+    "Name": "Walker Rayven",
     "PersonKey": "walker|rayven",
     "BirthYr": 2013,
     "Grad": 2031,
@@ -142500,7 +141845,7 @@
     "CCM68": "Yes"
   },
   {
-    "Name": "Mckenna Walsh",
+    "Name": "Walsh McKenna",
     "PersonKey": "walsh|mckenna",
     "BirthYr": 2006,
     "DOB": "6/1/2006",
@@ -142514,6 +141859,7 @@
     "Country": "US",
     "Team": "Chicago Mission",
     "College": "Penn State",
+    "CCM68": "Yes",
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
@@ -143268,7 +142614,7 @@
     "School": "Hotchkiss"
   },
   {
-    "Name": "Allyson Wasson",
+    "Name": "Wasson Allyson",
     "PersonKey": "wasson|allyson",
     "BirthYr": 2009,
     "DOB": "10/16/2009",
@@ -148972,7 +148318,7 @@
     "Team2024": "Nepean Wildcats U18"
   },
   {
-    "Name": "Serra Yildir",
+    "Name": "Yildir Serra",
     "PersonKey": "yildir|serra",
     "BirthYr": 2008,
     "DOB": "12/9/2008",
@@ -150120,7 +149466,7 @@
     "Sr": "x"
   },
   {
-    "Name": "Madilyn Zigler",
+    "Name": "Zigler Madilyn",
     "PersonKey": "zigler|madilyn",
     "BirthYr": 2011,
     "Position": "F",
@@ -150301,13 +149647,6 @@
     "Fresh": "U15",
     "Sr": "x",
     "Highest": "U15"
-  },
-  {
-    "Name": "Li Zoe",
-    "PersonKey": "zoe|li",
-    "Grad": 2025,
-    "Position": "F",
-    "Country": "CAN"
   },
   {
     "Name": "Lily Zohner",
