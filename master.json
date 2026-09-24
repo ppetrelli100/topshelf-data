@@ -3094,9 +3094,12 @@
   {
     "Name": "Molly Anslow",
     "PersonKey": "anslow|molly",
-    "Position": "D",
+    "Grad": 2028,
+    "Position": "F",
+    "State": "NY",
     "Country": "US",
     "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
     "Regionals": "Yes"
   },
   {
@@ -4475,8 +4478,8 @@
     "Team2025": "Ancaster U15"
   },
   {
-    "Name": "Marie-aˆve Auger",
-    "PersonKey": "auger|marie-aˆve",
+    "Name": "Marie-Eve Auger",
+    "PersonKey": "auger|marieeve",
     "BirthYr": 2008,
     "Grad": 2028,
     "Position": "D",
@@ -4484,13 +4487,6 @@
     "Team2025": "Andre-Laurendeau Cegep U22",
     "Jr": "x",
     "Sr": "x"
-  },
-  {
-    "Name": "Marie-Eve Auger",
-    "PersonKey": "auger|marie-eve",
-    "Grad": 2027,
-    "Position": "D",
-    "Country": "CAN"
   },
   {
     "Name": "Makenna Aure",
@@ -6182,7 +6178,7 @@
   },
   {
     "Name": "Kelly-Ann Bard",
-    "PersonKey": "bard|kelly-ann",
+    "PersonKey": "bard|kellyann",
     "BirthYr": 2012,
     "Position": "G",
     "CCM68": "Yes"
@@ -10118,9 +10114,12 @@
   {
     "Name": "Nicole Bethune",
     "PersonKey": "bethune|nicole",
+    "Grad": 2028,
     "Position": "G",
+    "State": "RI",
     "Country": "US",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Liv Betten",
@@ -11646,10 +11645,15 @@
     "PersonKey": "blom|hayden",
     "BirthYr": 2007,
     "DOB": "12/31/2007",
+    "Grad": 2027,
     "Position": "F",
     "Height": "5'11\"",
+    "State": "CO",
     "Country": "US",
-    "Team2025": "NAHA Navy 19U"
+    "Team2025": "NAHA Navy 19U",
+    "Team2026": "NAHA 19U",
+    "Jr": "x",
+    "Sr": "x"
   },
   {
     "Name": "Brooklyn Blomquist",
@@ -15652,11 +15656,14 @@
     "PersonKey": "brown|evelyn",
     "BirthYr": 2008,
     "DOB": "5/29/2008",
+    "Grad": 2027,
     "Position": "G",
     "Height": "5'8\"",
     "Weight": 150,
     "Country": "US",
-    "Team2025": "NAHA 19U"
+    "Team2025": "NAHA 19U",
+    "Team2026": "NAHA 19U",
+    "Sr": "x"
   },
   {
     "Name": "Harper Brown",
@@ -16782,6 +16789,15 @@
     "Position": "D",
     "Country": "CAN",
     "Team2025": "South Coast Riptide U15"
+  },
+  {
+    "Name": "Anya Buhrmaster",
+    "PersonKey": "buhrmaster|anya",
+    "Grad": 2028,
+    "Position": "F",
+    "State": "NY",
+    "Country": "US",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Kira Bui",
@@ -21447,6 +21463,15 @@
     "Team2026": "Little Caesars 19U"
   },
   {
+    "Name": "Eva Cetina",
+    "PersonKey": "cetina|eva",
+    "Grad": 2030,
+    "Position": "F",
+    "State": "NY",
+    "Country": "US",
+    "Team2026": "NAHA 16U"
+  },
+  {
     "Name": "Cassidy Cha",
     "PersonKey": "cha|cassidy",
     "BirthYr": 2010,
@@ -21995,6 +22020,7 @@
     "Country": "US",
     "School": "NAHA",
     "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -22277,7 +22303,7 @@
   },
   {
     "Name": "Lea-Rose Charrois",
-    "PersonKey": "charrois|lea-rose",
+    "PersonKey": "charrois|learose",
     "BirthYr": 2008,
     "DOB": "1/3/2008",
     "Grad": 2026,
@@ -23329,6 +23355,15 @@
     "Position": "F",
     "Country": "CAN",
     "Team2024": "Ayr U15"
+  },
+  {
+    "Name": "Natali Chriss",
+    "PersonKey": "chriss|natali",
+    "Grad": 2028,
+    "Position": "F",
+    "State": "MA",
+    "Country": "US",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Ava Christensen",
@@ -25165,10 +25200,12 @@
     "Name": "Rebecca Cohen",
     "PersonKey": "cohen|rebecca",
     "BirthYr": 2009,
+    "Grad": 2027,
     "Position": "G",
     "State": "MA",
     "Country": "US",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Adeline Coish-Ricci",
@@ -25406,6 +25443,7 @@
     "Country": "US",
     "Team2024": "Rochester Jr Americans 14U",
     "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
     "Team": "Rochester Jr Americans",
     "CCM68": "Yes",
     "Regionals": "Yes",
@@ -26657,7 +26695,7 @@
     "Country": "CAN",
     "School": "Shawnigan Lake School",
     "Team": "Shawnigan Lake School",
-    "College": "Long Island"
+    "Notable": "Decommit - Western Ontario - Upsorts"
   },
   {
     "Name": "Grier Cooper",
@@ -29261,7 +29299,7 @@
     "PersonKey": "cummins|brooke",
     "BirthYr": 2008,
     "DOB": "4/16/2008",
-    "Grad": 2026,
+    "Grad": 2027,
     "Position": "D",
     "Height": "5’5”",
     "Weight": 135,
@@ -29271,9 +29309,11 @@
     "Country": "US",
     "School": "NAHA",
     "Team2025": "NAHA 19U",
+    "Team2026": "NAHA 19U",
     "CCM68": "Yes",
-    "Soph": "U15",
-    "Jr": "U1617",
+    "Fresh": "U15",
+    "Soph": "U1617",
+    "Sr": "x",
     "Highest": "U1617"
   },
   {
@@ -30944,6 +30984,24 @@
     "Team2025": "Fox Motors 16U"
   },
   {
+    "Name": "Sophia Johnson",
+    "PersonKey": "dau|sophia",
+    "BirthYr": 2005,
+    "DOB": "6/29/2005",
+    "Grad": 2023,
+    "Position": "D",
+    "Height": "5'10\"",
+    "Weight": 150,
+    "City": "Palmer",
+    "State": "AK",
+    "Country": "US",
+    "Team": "Valley Thunder Girls",
+    "College": "Maine",
+    "CCM68": "Yes",
+    "Jr": "U1617",
+    "Highest": "U1617"
+  },
+  {
     "Name": "Mae Daus",
     "PersonKey": "daus|mae",
     "BirthYr": 2011,
@@ -32534,17 +32592,11 @@
     "Name": "Emma Deleurme",
     "PersonKey": "deleurme|emma",
     "BirthYr": 2008,
-    "DOB": "1/23/2008",
     "Grad": 2026,
     "Position": "F",
-    "City": "Kelwona",
-    "State": "BCO",
     "Country": "CAN",
-    "School": "Delta Hockey Academy",
     "Team2024": "Okanaganhockeyacademy Penticton 19U",
-    "Team2025": "Delta Hockey Academy Green U22",
-    "Team": "Delta Hockey Academy",
-    "College": "St. Thomas"
+    "Team2025": "Delta Hockey Academy Green U22"
   },
   {
     "Name": "Elle Delgado",
@@ -33347,6 +33399,7 @@
     "State": "NH",
     "Country": "US",
     "School": "Holderness",
+    "Team2026": "NAHA 19U",
     "Sr": "x"
   },
   {
@@ -36351,10 +36404,13 @@
     "Name": "Molly Drevitch",
     "PersonKey": "drevitch|molly",
     "BirthYr": 2010,
+    "Grad": 2029,
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
+    "Sr": "x"
   },
   {
     "Name": "Erin Drew",
@@ -39030,6 +39086,20 @@
     "Position": "D",
     "Country": "CAN",
     "Team2024": "Kingston Ice Wolves U15"
+  },
+  {
+    "Name": "Natlia Elson",
+    "PersonKey": "elson|natlia",
+    "BirthYr": 2007,
+    "DOB": 2007,
+    "Grad": 2026,
+    "Position": "F",
+    "City": "Hadley",
+    "State": "MA",
+    "Country": "US",
+    "Team": "Massconn United",
+    "College": "Saint Anselm",
+    "Sr": "x"
   },
   {
     "Name": "Sarah Elson",
@@ -43004,10 +43074,13 @@
     "Name": "Margaret Fitzpatrick",
     "PersonKey": "fitzpatrick|margaret",
     "BirthYr": 2009,
+    "Grad": 2028,
     "Position": "D",
     "State": "MA",
     "Country": "US",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 19U",
+    "Sr": "x"
   },
   {
     "Name": "Raina Fitzpatrick",
@@ -43467,7 +43540,7 @@
     "PersonKey": "flod|teagan",
     "BirthYr": 2007,
     "DOB": "8/6/2007",
-    "Grad": 2026,
+    "Grad": 2027,
     "Position": "F",
     "Height": "5’8”",
     "Weight": 130,
@@ -43477,9 +43550,10 @@
     "School": "NAHA",
     "Team2024": "Philadelphia Jr Flyers 19U",
     "Team2025": "NAHA 19U",
+    "Team2026": "NAHA 19U",
     "Team": "NAHA",
     "College": "Saint Anselm",
-    "Fresh": "U15",
+    "Jr": "x",
     "Sr": "x",
     "Highest": "U15"
   },
@@ -44720,7 +44794,7 @@
     "PersonKey": "frasso|olivia",
     "BirthYr": 2010,
     "DOB": "7/1/2010",
-    "Grad": 2028,
+    "Grad": 2029,
     "Position": "G",
     "Height": "5’7”",
     "Weight": 145,
@@ -44728,8 +44802,10 @@
     "City": "Las Vegas",
     "State": "NV",
     "Country": "US",
+    "Team2026": "NAHA 16U",
     "Team": "LA Lions",
-    "Soph": "U15",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
@@ -45015,11 +45091,12 @@
     "Team2024": "MN Northern Elite 19U",
     "Team2025": "MN Elite Green 19U",
     "Team2026": "MN Elite Green 19U",
+    "College": "Bemidji State",
     "Fresh": "U15",
     "Soph": "U1617",
     "Sr": "x",
     "Highest": "U1617",
-    "Notable": "Decommit Dartmouth 8/26/26"
+    "Notable": "Decommit Dartmouth 8/26/26, Commit to Bemidji 9/18/26"
   },
   {
     "Name": "Kaleigh French",
@@ -46834,13 +46911,13 @@
     "Team2025": "Culver Academy Prep 19U",
     "Team2026": "Belle Tire 19U",
     "Team": "Culver Academies",
-    "College": "St. Thomas",
     "CCM68": "Yes",
     "Fresh": "U15",
     "Soph": "U1617",
     "Jr": "U1617",
     "Sr": "x",
-    "Highest": "U1617"
+    "Highest": "U1617",
+    "Notable": "Decommit - St Thomas - Not on insta as of 9/18/26"
   },
   {
     "Name": "Charlotte Gassen",
@@ -47143,7 +47220,6 @@
     "Country": "US",
     "School": "BK Selects",
     "Team": "BK Selects",
-    "College": "Merrimack",
     "Sr": "x",
     "Notable": "Insta No Longer has Merrimack 9/16/26"
   },
@@ -48318,13 +48394,16 @@
     "PersonKey": "gilbertson|anne",
     "BirthYr": 2009,
     "DOB": "8/20/2009",
+    "Grad": 2028,
     "Position": "F",
     "Height": "5'6\"",
     "State": "WI",
     "Country": "US",
     "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 19U",
     "CCM68": "Yes",
-    "Regionals": "Yes"
+    "Regionals": "Yes",
+    "Sr": "x"
   },
   {
     "Name": "Tereza Gildainova",
@@ -51387,11 +51466,14 @@
     "PersonKey": "gray|kira",
     "BirthYr": 2009,
     "DOB": "7/11/2009",
+    "Grad": 2027,
     "Position": "F",
     "Height": "5'5\"",
     "Weight": 134,
+    "State": "CO",
     "Country": "US",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Layla Gray",
@@ -58235,6 +58317,7 @@
     "Country": "US",
     "School": "NAHA",
     "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -58279,10 +58362,13 @@
     "Name": "Morgan Henderson",
     "PersonKey": "henderson|morgan",
     "BirthYr": 2008,
+    "Grad": 2027,
     "Position": "D",
     "State": "MA",
     "Country": "US",
-    "Team2025": "NAHA Navy 19U"
+    "Team2025": "NAHA Navy 19U",
+    "Team2026": "NAHA 19U",
+    "Sr": "x"
   },
   {
     "Name": "Rose Henderson",
@@ -58852,9 +58938,12 @@
   {
     "Name": "Reese Herringer",
     "PersonKey": "herringer|reese",
+    "Grad": 2027,
     "Position": "F",
+    "State": "NY",
     "Country": "US",
-    "Team2025": "NAHA Navy 19U"
+    "Team2025": "NAHA Navy 19U",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Christina Hershey",
@@ -63493,11 +63582,12 @@
   {
     "Name": "Kealy Innes",
     "PersonKey": "innes|kealy",
-    "BirthYr": 2008,
-    "Grad": 2026,
+    "Grad": 2027,
     "Position": "F",
-    "Country": "CAN",
-    "Team2025": "Oha Mavericks Varsity U22"
+    "State": "ON",
+    "Country": "US",
+    "Team2025": "Oha Mavericks Varsity U22",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Grace Inoue",
@@ -63789,9 +63879,12 @@
   {
     "Name": "Evelyn Iversen",
     "PersonKey": "iversen|evelyn",
+    "Grad": 2028,
     "Position": "F",
+    "State": "AK",
     "Country": "US",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Grace Iverson",
@@ -64926,6 +65019,15 @@
     "Team2025": "Guelph U15"
   },
   {
+    "Name": "Keeley Jenecke",
+    "PersonKey": "jenecke|keeley",
+    "Grad": 2029,
+    "Position": "F",
+    "State": "MN",
+    "Country": "US",
+    "Team2026": "NAHA 16U"
+  },
+  {
     "Name": "Allegra Jenkins",
     "PersonKey": "jenkins|allegra",
     "BirthYr": 2009,
@@ -65688,6 +65790,7 @@
     "Country": "US",
     "School": "NAHA",
     "Team2025": "NAHA 19U",
+    "Team2026": "NAHA 19U",
     "Team": "NAHA",
     "College": "Sacred Heart",
     "Sr": "x"
@@ -65775,24 +65878,6 @@
     "Country": "US",
     "School": "Forest Lake",
     "Team2025": "MN Loons 14U"
-  },
-  {
-    "Name": "Sophia Johnson",
-    "PersonKey": "johnson|sophia",
-    "BirthYr": 2005,
-    "DOB": "6/29/2005",
-    "Grad": 2023,
-    "Position": "D",
-    "Height": "5'10\"",
-    "Weight": 150,
-    "City": "Palmer",
-    "State": "AK",
-    "Country": "US",
-    "Team": "Valley Thunder Girls",
-    "College": "Maine",
-    "CCM68": "Yes",
-    "Jr": "U1617",
-    "Highest": "U1617"
   },
   {
     "Name": "Sydney Johnson",
@@ -67171,14 +67256,13 @@
     "Name": "Maddie Kaiser",
     "PersonKey": "kaiser|madelyn",
     "BirthYr": 2007,
-    "DOB": "10/10/2007",
+    "DOB": "3/3/2007",
     "Grad": 2025,
     "Position": "F",
     "Height": "5'6",
     "City": "Winnipeg",
     "State": "MAN",
     "Country": "CAN",
-    "School": "Balmoral Hall",
     "Team": "Balmoral Hall",
     "College": "Bemidji State",
     "Sr": "TmMB",
@@ -67200,6 +67284,20 @@
     "College": "Minnesota",
     "Sr": "WNT",
     "Highest": "WNT"
+  },
+  {
+    "Name": "Maddie Kaiser",
+    "PersonKey": "kaiser|madisonbsu",
+    "BirthYr": 2007,
+    "DOB": "10/10/2007",
+    "Grad": 2025,
+    "Position": "F",
+    "City": "Winnipeg",
+    "State": "MAN",
+    "Country": "CAN",
+    "School": "Balmoral Hall",
+    "Team": "Balmoral Hall",
+    "College": "Bemidji State"
   },
   {
     "Name": "Ratana Kajonsaksumet",
@@ -67874,6 +67972,7 @@
     "Country": "CAN",
     "Team2024": "St Marys Academy U22",
     "Team2025": "NAHA Navy 19U",
+    "Team2026": "NAHA 19U",
     "Team": "North American",
     "Jr": "TmMB",
     "Highest": "TmMB"
@@ -68029,23 +68128,17 @@
     "College": "Chatham"
   },
   {
-    "Name": "Aria Katsompenakis",
-    "PersonKey": "katsompenakis|aria",
+    "Name": "Ariadne Katsompenakis",
+    "PersonKey": "katsompenakis|ariadne",
+    "BirthYr": 2010,
     "Grad": 2029,
-    "Position": "F",
+    "Position": "D",
     "City": "Charlestown",
     "State": "MA",
     "Country": "US",
-    "School": "BB&N"
-  },
-  {
-    "Name": "Ariadne Katsompenakis",
-    "PersonKey": "katsompenakis|ariadne",
-    "BirthYr": 2011,
-    "Grad": 2029,
-    "Position": "D",
-    "Country": "US",
-    "Team2025": "NAHA 14U"
+    "School": "BB&N",
+    "Team2025": "NAHA 14U",
+    "Sr": "x"
   },
   {
     "Name": "Despina Katsoulotos",
@@ -68482,10 +68575,12 @@
     "Name": "Courtney Keenan",
     "PersonKey": "keenan|courtney",
     "BirthYr": 2011,
+    "Grad": 2029,
     "Position": "D",
     "State": "MA",
     "Country": "US",
     "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
     "Regionals": "Yes"
   },
   {
@@ -73940,6 +74035,14 @@
     "Highest": "U15"
   },
   {
+    "Name": "Veronica Kvasnickova",
+    "PersonKey": "kvasnickova|veronica",
+    "Grad": 2030,
+    "Position": "F",
+    "Country": "US",
+    "Team2026": "NAHA 16U"
+  },
+  {
     "Name": "Miley Kwak",
     "PersonKey": "kwak|miley",
     "Grad": 2027,
@@ -74105,16 +74208,18 @@
     "PersonKey": "labonte|emilie",
     "BirthYr": 2009,
     "DOB": "7/25/2009",
-    "Grad": 2026,
+    "Grad": 2027,
     "Position": "D",
     "City": "Orford",
     "State": "QUE",
     "Country": "CAN",
     "School": "Stanstead College",
     "Team2025": "Stanstead College U22",
+    "Team2026": "NAHA 19U",
     "Team": "Stanstead College",
     "College": "Merrimack",
-    "Sr": "TmQC",
+    "Jr": "TmQC",
+    "Sr": "QCcamp",
     "Highest": "TmQC"
   },
   {
@@ -77564,9 +77669,18 @@
     "Team": "Mississauga Hurricanes",
     "College": "Quinnipiac",
     "CCM68": "Yes",
-    "Soph": "ON_U16",
     "Jr": "U18-C",
     "Highest": "U18-C"
+  },
+  {
+    "Name": "Haylee Lecuyer",
+    "PersonKey": "lecuyer|hayleekaydence",
+    "Grad": 2028,
+    "Position": "F",
+    "State": "ONT",
+    "Country": "CAN",
+    "Soph": "ON_U16",
+    "Highest": "ON_U16"
   },
   {
     "Name": "Sophie Ledain",
@@ -80749,12 +80863,14 @@
     "Name": "Kylie Livingstone",
     "PersonKey": "livingstone|kylie",
     "BirthYr": 2010,
-    "Grad": 2028,
+    "Grad": 2029,
     "Position": "F",
     "City": "Auburn",
     "State": "NH",
     "Country": "US",
-    "School": "Lawrence Academy"
+    "School": "Lawrence Academy",
+    "Team2026": "NAHA 16U",
+    "Sr": "x"
   },
   {
     "Name": "Smith Lizabeth",
@@ -80964,6 +81080,7 @@
     "Country": "US",
     "School": "NAHA",
     "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -86375,7 +86492,7 @@
     "PersonKey": "margolis|emme",
     "BirthYr": 2010,
     "DOB": "4/17/2010",
-    "Grad": 2028,
+    "Grad": 2029,
     "Position": "D",
     "Height": "5’3”",
     "Weight": 110,
@@ -86386,9 +86503,11 @@
     "School": "Lovell Academy",
     "Team2024": "Thunder Bay U15",
     "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
     "CCM68": "Yes",
     "Regionals": "Yes",
-    "Soph": "U15",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
@@ -87171,7 +87290,7 @@
     "College": "Assumption",
     "Soph": "U15",
     "Highest": "U15",
-    "Notable": "NZ Says 2026"
+    "Notable": "Rolled to 27' Class"
   },
   {
     "Name": "Kara Martin",
@@ -89016,6 +89135,7 @@
     "City": "Concord",
     "State": "NC",
     "Country": "US",
+    "Team2026": "NAHA 16U",
     "Regionals": "Yes",
     "Soph": "U15",
     "Highest": "U15"
@@ -91354,11 +91474,10 @@
     "State": "BCO",
     "Country": "CAN",
     "Team": "Fraser Valley Rush",
-    "College": "Lindenwood",
     "Jr": "U18-C",
     "Sr": "U18-C",
     "Highest": "U18-C",
-    "Notable": "Possible Decommit - Not on 2026 Roster"
+    "Notable": "Decommit - - Playing usports at TMU"
   },
   {
     "Name": "Bianca McKee",
@@ -92800,11 +92919,12 @@
   {
     "Name": "Ellie Mehling",
     "PersonKey": "mehling|eleanor",
-    "BirthYr": 2008,
     "Grad": 2026,
     "Position": "D",
+    "State": "NY",
     "Country": "US",
-    "Team2025": "NAHA 19U"
+    "Team2025": "NAHA 19U",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Elizabeth Mehling",
@@ -92826,14 +92946,18 @@
     "Soph": "U15",
     "Jr": "U1617",
     "Sr": "U1617",
-    "Highest": "U1617"
+    "Highest": "U1617",
+    "Notable": "PG Year on NAHA 26 Roster - rolled to 27 class"
   },
   {
-    "Name": "Katherine Mehling",
+    "Name": "Katie Mehling",
     "PersonKey": "mehling|katherine",
+    "Grad": 2028,
     "Position": "F",
+    "State": "NY",
     "Country": "US",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U"
   },
   {
     "Name": "Sonia Mehta",
@@ -93722,7 +93846,7 @@
     "PersonKey": "meyer|paisley",
     "BirthYr": 2009,
     "DOB": "08/00/09",
-    "Grad": 2030,
+    "Grad": 2027,
     "Position": "F",
     "Height": "5'7\"",
     "Weight": 145,
@@ -93735,10 +93859,9 @@
     "Team2025": "East Coast Wizards 16U",
     "Team": "East Coast Wizards",
     "College": "Yale",
-    "Fresh": "U1617",
-    "Soph": "x",
-    "Jr": "x",
-    "Sr": "x",
+    "Soph": "U15",
+    "Jr": "U1617",
+    "Sr": "U1617",
     "Highest": "U1617"
   },
   {
@@ -94711,11 +94834,14 @@
     "PersonKey": "milner|evangeline",
     "BirthYr": 2009,
     "DOB": "2/14/2009",
+    "Grad": 2027,
     "Position": "G",
     "Height": "5'5\"",
     "Weight": 146,
+    "State": "NV",
     "Country": "US",
-    "Team2025": "NAHA Navy 19U"
+    "Team2025": "NAHA Navy 19U",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Vivienne Milosavljevic-Cook",
@@ -96257,11 +96383,14 @@
     "Name": "Payton Monusky",
     "PersonKey": "monusky|payton",
     "BirthYr": 2009,
+    "Grad": 2027,
     "Position": "D",
     "Height": "5'9\"",
+    "State": "NJ",
     "Country": "US",
     "Team2024": "Philadelphia Jr Flyers 16U",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 19U"
   },
   {
     "Name": "Madison Moody",
@@ -97569,7 +97698,8 @@
     "Team2025": "Little Caesars 19U",
     "Team2026": "Little Caesars 19U",
     "Team": "Little Caesars",
-    "College": "Union"
+    "College": "Union",
+    "Notable": "Gap Year - on LC 26' Roster"
   },
   {
     "Name": "Abby Morrissette",
@@ -101928,7 +102058,7 @@
     "PersonKey": "nojaim|alison",
     "BirthYr": 2010,
     "DOB": "2/1/2010",
-    "Grad": 2028,
+    "Grad": 2029,
     "Position": "F",
     "Height": "5’0”",
     "Weight": 131,
@@ -101936,8 +102066,10 @@
     "City": "Seattle",
     "State": "WA",
     "Country": "US",
+    "Team2026": "NAHA 16U",
     "Team": "Arizona Kachinas",
-    "Soph": "U15",
+    "Fresh": "U15",
+    "Sr": "x",
     "Highest": "U15"
   },
   {
@@ -108202,6 +108334,15 @@
     "Team2026": "MN Walleye 14U"
   },
   {
+    "Name": "Ellie Peterson",
+    "PersonKey": "peterson|eleanor",
+    "Grad": 2029,
+    "Position": "G",
+    "State": "MA",
+    "Country": "US",
+    "Team2026": "NAHA 16U"
+  },
+  {
     "Name": "Emma Peterson",
     "PersonKey": "peterson|emma",
     "BirthYr": 2006,
@@ -108433,7 +108574,7 @@
     "Name": "Elisa Petroski",
     "PersonKey": "petroski|elisa",
     "BirthYr": 2007,
-    "DOB": "2/7/2007",
+    "DOB": 2007,
     "Grad": 2025,
     "Position": "D",
     "Country": "US",
@@ -108443,6 +108584,8 @@
   {
     "Name": "Elisabeth Petroski",
     "PersonKey": "petroski|elisabeth",
+    "BirthYr": 2007,
+    "DOB": "2/7/2007",
     "Grad": 2025,
     "Position": "D",
     "Country": "US",
@@ -109610,12 +109753,16 @@
     "PersonKey": "pircio|maja",
     "BirthYr": 2009,
     "DOB": "11/20/2009",
+    "Grad": 2028,
     "Position": "F",
     "Height": "5'8\"",
     "Weight": 152,
+    "State": "OH",
     "Country": "US",
     "Team2024": "New Jersey Ironbound 19U",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 19U",
+    "Sr": "x"
   },
   {
     "Name": "Sophia Pirie",
@@ -110743,11 +110890,14 @@
     "PersonKey": "polonyi|petra",
     "BirthYr": 2008,
     "DOB": "9/25/2008",
+    "Grad": 2027,
     "Position": "F",
     "Height": "5'8\"",
     "Weight": 150,
     "Country": "US",
-    "Team2025": "NAHA Navy 19U"
+    "Team2025": "NAHA Navy 19U",
+    "Team2026": "NAHA 19U",
+    "Sr": "x"
   },
   {
     "Name": "Maria Polozkova",
@@ -113467,6 +113617,15 @@
     "Country": "US",
     "Team2025": "Little Caesars 14U",
     "Team2026": "Little Caesars 14U"
+  },
+  {
+    "Name": "Chloe Ramos",
+    "PersonKey": "ramos|chloe",
+    "Grad": 2029,
+    "Position": "G",
+    "State": "WA",
+    "Country": "US",
+    "Team2026": "NAHA 16U"
   },
   {
     "Name": "Samantha Ramos",
@@ -121905,10 +122064,13 @@
     "Name": "Lillian Schneider",
     "PersonKey": "schneider|lillian",
     "BirthYr": 2010,
+    "Grad": 2029,
     "Position": "F",
     "State": "MA",
     "Country": "US",
-    "Team2025": "NAHA 16U"
+    "Team2025": "NAHA 16U",
+    "Team2026": "NAHA 16U",
+    "Sr": "x"
   },
   {
     "Name": "Robyn Schneider",
@@ -122516,7 +122678,8 @@
     "College": "Union",
     "Jr": "MBcamp",
     "Sr": "x",
-    "Highest": "MBcamp"
+    "Highest": "MBcamp",
+    "Notable": "Gap Year on 26' Kingston Jr Roster"
   },
   {
     "Name": "Kylie Schwab",
@@ -125584,6 +125747,7 @@
     "City": "Rochester",
     "State": "MA",
     "Country": "US",
+    "Team2026": "NAHA 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -127049,6 +127213,7 @@
     "Country": "US",
     "School": "NAHA",
     "Team2025": "NAHA 14U",
+    "Team2026": "NAHA 16U",
     "Soph": "U15",
     "Highest": "U15"
   },
@@ -139950,7 +140115,7 @@
     "College": "Assumption",
     "Jr": "U1617",
     "Highest": "U1617",
-    "Notable": "NZ says 2027"
+    "Notable": "Rolled to 27' Class"
   },
   {
     "Name": "Laniey Van Vlack",
@@ -144483,7 +144648,7 @@
     "Country": "CAN",
     "Team2025": "Okanagan Hockey Academy Penticton U22",
     "Team": "Rocky Mountain Raiders",
-    "College": "Saint Anselm"
+    "Notable": "Decommit - St. Anselm - Went to usports Waterloo"
   },
   {
     "Name": "Adalyn Westergaard",
@@ -148051,11 +148216,15 @@
     "PersonKey": "worth|mary",
     "BirthYr": 2008,
     "DOB": "12/31/2008",
+    "Grad": 2027,
     "Position": "F",
     "Height": "5'3\"",
     "Weight": 121,
+    "State": "CA",
     "Country": "US",
-    "Team2025": "NAHA Navy 19U"
+    "Team2025": "NAHA Navy 19U",
+    "Team2026": "NAHA 19U",
+    "Sr": "x"
   },
   {
     "Name": "Cylver Worton",
@@ -149571,12 +149740,16 @@
   {
     "Name": "Helen Zeaske",
     "PersonKey": "zeaske|helen",
+    "BirthYr": 2007,
+    "DOB": 2007,
     "Grad": 2026,
     "Position": "G",
     "City": "Lexington",
     "State": "MA",
     "Country": "US",
-    "School": "NMH"
+    "School": "NMH",
+    "College": "Saint Anselm",
+    "Sr": "x"
   },
   {
     "Name": "Chloe Zebrowski",
