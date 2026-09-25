@@ -395,6 +395,205 @@
     return { value: trimmed, matched: false };
   }
 
+  /* =======================================================================
+     6. Live-site table extraction — for the collegeview.html "validate"
+        button. Pure string/regex parsing (no DOM dependency), so this runs
+        identically in a browser, under Node, or inside a fetch-proxying
+        Cloudflare Worker. Sidearm Sports roster pages (confirmed across all
+        45 current D1 schools, Sept 2026) render the roster as one plain
+        <table> with a header row; this finds that table, matches its
+        headers the same loose way updates.html matches pasted headers, and
+        extracts rows in the same shape buildRecord() in updates.html
+        produces: {name, pk, y, pos, ht, home, st, ctry, no, sh, prevSchool}.
+     ======================================================================= */
+
+  function stripHtmlTags(s) {
+    return (s || '')
+      .replace(/<br\s*\/?>/gi, ' ')
+      .replace(/<[^>]+>/g, '')
+      .replace(/&nbsp;/gi, ' ')
+      .replace(/&amp;/gi, '&')
+      .replace(/&#39;|&apos;/gi, "'")
+      .replace(/&quot;/gi, '"')
+      .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(n))
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  function extractTables(html) {
+    const tables = [];
+    const tableRe = /<table[\s\S]*?<\/table>/gi;
+    let tm;
+    while ((tm = tableRe.exec(html))) {
+      const tableHtml = tm[0];
+      const rows = [];
+      const rowRe = /<tr[\s\S]*?<\/tr>/gi;
+      let rm;
+      while ((rm = rowRe.exec(tableHtml))) {
+        const cells = [];
+        const cellRe = /<t[hd][^>]*>([\s\S]*?)<\/t[hd]>/gi;
+        let cm;
+        while ((cm = cellRe.exec(rm[0]))) cells.push(stripHtmlTags(cm[1]));
+        if (cells.length) rows.push(cells);
+      }
+      if (rows.length) tables.push(rows);
+    }
+    return tables;
+  }
+
+  // Live-scrape header patterns -- a superset of updates.html's paste
+  // patterns, extended for spellings seen across the 45 D1 sites (Sept
+  // 2026 survey): bare "Position", "Hgt.", "Handness"/"Handedness", and
+  // combined "Hometown / High School" or "Hometown / Previous Team" cells.
+  const LIVE_COLUMN_PATTERNS = [
+    { key: 'no', re: /^(no\.?|#|num(ber)?|jersey)$/i },
+    { key: 'name', re: /^(name|player|full\s*name)$/i },
+    { key: 'year', re: /^(yr\.?|cl\.?|class|year|academic\s*year|eligibility|capt\.?)$/i },
+    { key: 'pos', re: /^(pos\.?|position)$/i },
+    { key: 'ht', re: /^(ht\.?|hgt\.?|height)$/i },
+    { key: 'sh', re: /^(sh\.?|s\/c|s\s*\/\s*c|shoots|shoots\/catches|shot\/catch|handness|handedness)$/i },
+    { key: 'hs', re: /^(high\s*school|hs|prep\s*school)$/i },
+    { key: 'prev', re: /^(previous\.?(\s*(school|team))?|last(\s*(school|team))?|prev\.?(\s*(school|team))?)$/i },
+    // Combined cells -- resolved further below by inspecting the header text.
+    { key: 'hometownCombined', re: /hometown\s*\/\s*(high\s*school|prep\s*school)/i },
+    { key: 'hometownPrevCombined', re: /hometown\s*\/\s*(previous|last)\s*(school|team)/i },
+    { key: 'hometown', re: /^hometown$/i },
+  ];
+
+  function matchColumns(headerCells) {
+    const colMap = {};
+    headerCells.forEach((h, i) => {
+      const clean = (h || '').trim();
+      for (const { key, re } of LIVE_COLUMN_PATTERNS) {
+        if (re.test(clean)) { colMap[key] = i; break; }
+      }
+    });
+    return colMap;
+  }
+
+  function colMapScore(colMap) {
+    // Same bar updates.html uses for a pasted table: need Name plus at
+    // least 2 more recognizable columns, or this isn't the roster table
+    // (rules out a school's coaching-staff or schedule table on the same
+    // page, which have different headers).
+    return colMap.name != null ? Object.keys(colMap).length : 0;
+  }
+
+  // Splits "Plymouth, MA / Bishop Feehan" into its two halves, the way a
+  // combined Hometown/High-School or Hometown/Previous-Team cell needs to
+  // be split before parseHometown() can read the region off the first half.
+  function splitCombinedCell(raw) {
+    const i = raw.search(/\s\/\s/);
+    if (i === -1) return { first: raw, second: '' };
+    return { first: raw.slice(0, i).trim(), second: raw.slice(i + 3).trim() };
+  }
+
+  /* Finds the roster table in a school's live roster page HTML and returns
+     {players, issues} in the same shape updates.html's own parser does --
+     players: [{name, pk, y, pos, ht, home, st, ctry, no, sh, prevSchool}],
+     issues: [string, ...] (name tags, ambiguous nicknames, bad heights,
+     unrecognized regions -- same "flag it, don't guess" policy as every
+     other entry point into this module). setNameMaps() must already have
+     been called (same firstNameMap.json-driven aliasing as everywhere
+     else) before this runs. */
+  function extractRosterTable(html, opts) {
+    opts = opts || {};
+    const tables = extractTables(html);
+    let best = null, bestScore = 0, bestColMap = null;
+    for (const rows of tables) {
+      if (!rows.length) continue;
+      const colMap = matchColumns(rows[0]);
+      const score = colMapScore(colMap);
+      if (score > bestScore) { best = rows; bestScore = score; bestColMap = colMap; }
+    }
+    if (!best) return { players: [], issues: ['Could not find a roster table on the page (need a header row with Name plus at least 2 more recognizable columns).'] };
+
+    const colMap = bestColMap;
+    const players = [];
+    const issues = [];
+    for (let r = 1; r < best.length; r++) {
+      const cells = best[r];
+      const rawName = colMap.name != null ? cells[colMap.name] : '';
+      if (!rawName) continue; // a blank/section-divider row
+      const nameNoPronounce = stripPronounce(rawName);
+      const name = stripNameTags(nameNoPronounce); // store the clean name; the tag is still flagged below
+      const pk = applyPkException(makePersonKey(nameNoPronounce), opts.school);
+
+      const y = colMap.year != null ? normalizeYear(cells[colMap.year]) : '';
+      const pos = colMap.pos != null ? normalizePos(cells[colMap.pos]) : '';
+      const htN = normHeight(colMap.ht != null ? cleanCell(cells[colMap.ht]) : '');
+      const no = colMap.no != null ? cleanCell(cells[colMap.no]) : '';
+      const sh = colMap.sh != null ? cleanCell(cells[colMap.sh]) : '';
+
+      let home = '', st = '', ctry = '', prevSchool = '', hsCell = '';
+      if (colMap.hometownCombined != null) {
+        const { first, second } = splitCombinedCell(cleanCell(cells[colMap.hometownCombined]));
+        const hp = parseHometown(first);
+        home = hp.home; st = hp.st; ctry = hp.ctry;
+        hsCell = second;
+      } else if (colMap.hometownPrevCombined != null) {
+        const { first, second } = splitCombinedCell(cleanCell(cells[colMap.hometownPrevCombined]));
+        const hp = parseHometown(first);
+        home = hp.home; st = hp.st; ctry = hp.ctry;
+        prevSchool = second;
+      } else if (colMap.hometown != null) {
+        const hp = parseHometown(cleanCell(cells[colMap.hometown]));
+        home = hp.home; st = hp.st; ctry = hp.ctry;
+        prevSchool = hp.prevSchool || prevSchool;
+      }
+      if (colMap.prev != null) prevSchool = cleanCell(cells[colMap.prev]) || prevSchool;
+      if (colMap.hs != null) hsCell = cleanCell(cells[colMap.hs]) || hsCell;
+      // colrosters.json's shape has no separate High School field today --
+      // fold it into prevSchool only when there's nothing else there, so we
+      // don't silently drop a High School column some schools show.
+      if (hsCell && !prevSchool) prevSchool = hsCell;
+
+      const tags = nameTags(rawName);
+      if (tags.length) issues.push(`${name}: has a "${tags.join('/')}" tag — ignored for the personkey.`);
+      if (htN.issue) issues.push(`${name}: ${htN.issue}`);
+      if (ctry === '__UNKNOWN__') issues.push(`${name}: unrecognized state/country "${st}" — check the Hometown cell.`);
+      const ambig = computeAmbigIssue(name, pk, false, opts.findHistoricalPksForLastName);
+      if (ambig) issues.push(`${name}: ${ambig}`);
+
+      players.push({
+        name, pk, y, pos, ht: htN.value,
+        home, st: st === '__UNKNOWN__' ? st : st, ctry,
+        ...(no ? { no } : {}), ...(sh ? { sh } : {}), ...(prevSchool ? { prevSchool } : {}),
+      });
+    }
+    return { players, issues };
+  }
+
+  /* =======================================================================
+     7. Clean-to-clean diff -- live-scraped-and-cleaned roster vs. the
+        colrosters.json entry already on file for that school/season.
+        Compares by personkey; any field difference on a matched player
+        counts as "changed", per school's choice (Sept 2026): no threshold,
+        no ignoring minor fields -- a new player, a departed player, or ANY
+        changed field should surface the "update now?" prompt.
+     ======================================================================= */
+  const DIFF_FIELDS = ['name', 'y', 'pos', 'ht', 'home', 'st', 'ctry', 'no', 'sh', 'prevSchool'];
+
+  function diffRoster(liveRows, existingRows) {
+    const byKeyLive = {}; (liveRows || []).forEach(p => { byKeyLive[p.pk] = p; });
+    const byKeyExisting = {}; (existingRows || []).forEach(p => { byKeyExisting[p.pk] = p; });
+
+    const added = [], removed = [], changed = [];
+    for (const pk in byKeyLive) {
+      if (!(pk in byKeyExisting)) { added.push(byKeyLive[pk]); continue; }
+      const a = byKeyLive[pk], b = byKeyExisting[pk];
+      const fieldDiffs = DIFF_FIELDS.filter(f => (a[f] || '') !== (b[f] || ''));
+      if (fieldDiffs.length) changed.push({ pk, name: a.name, fields: fieldDiffs, live: a, existing: b });
+    }
+    for (const pk in byKeyExisting) {
+      if (!(pk in byKeyLive)) removed.push(byKeyExisting[pk]);
+    }
+    return {
+      added, removed, changed,
+      hasChanges: added.length > 0 || removed.length > 0 || changed.length > 0,
+    };
+  }
+
   return {
     setNameMaps, applyPkException,
     stripPronounce, unaccent, stripNameTags, nameTags,
@@ -405,5 +604,7 @@
     normCommitted,
     US_STATE_ABBR, CANADA_PROVINCE, COUNTRY_CONTINENT,
     US_FULL_TO_ABBR, CA_FULL_TO_ABBR, REGION_FULL_TO_ABBR, REGION_ABBR_OK, COUNTRY_WORDS,
+    stripHtmlTags, extractTables, matchColumns, extractRosterTable,
+    diffRoster,
   };
 });
