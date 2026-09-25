@@ -52927,7 +52927,7 @@
         "st": "MI",
         "ctry": "US",
         "no": "4",
-        "prevSchool": "Little Caesars"
+        "prevSchool": "Assumption University"
       },
       {
         "name": "Julia Stephen",
@@ -52951,7 +52951,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
-        "sh": "L",
         "prevSchool": "Burlington Barracudas"
       },
       {
@@ -52964,8 +52963,7 @@
         "st": "NH",
         "ctry": "US",
         "no": "8",
-        "sh": "L",
-        "prevSchool": "New Hampton School"
+        "prevSchool": "Boston College"
       },
       {
         "name": "Callie McLean",
@@ -53073,7 +53071,6 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "20",
-        "sh": "R",
         "prevSchool": "Central York Panthers"
       },
       {
@@ -53110,7 +53107,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "28",
-        "sh": "R",
         "prevSchool": "Burlington Barracudas"
       },
       {
@@ -53159,7 +53155,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "77",
-        "sh": "R",
         "prevSchool": "Durham West Lightning"
       },
       {
@@ -53184,7 +53179,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "88",
-        "sh": "R",
         "prevSchool": "Burlington Barracudas"
       },
       {
@@ -56673,7 +56667,7 @@
       {
         "name": "Kenzee Hope",
         "pk": "hope|kenzee",
-        "y": "R-Jr",
+        "y": "Sr",
         "pos": "D",
         "ht": "5-10",
         "home": "Kelowna",
@@ -56800,7 +56794,7 @@
         "st": "Austria",
         "ctry": "Europe",
         "no": "14",
-        "prevSchool": "SKN Sabres St. Polten"
+        "prevSchool": "SKN Sabres St. Pölten"
       },
       {
         "name": "Amanda Aslan",
@@ -56860,7 +56854,7 @@
         "st": "Italy",
         "ctry": "Europe",
         "no": "20",
-        "prevSchool": "Hameenlinnan Pallokerho"
+        "prevSchool": "Hämeenlinnan Pallokerho"
       },
       {
         "name": "Brooklyn Deck",
@@ -56944,7 +56938,7 @@
         "st": "Sweden",
         "ctry": "Europe",
         "no": "44",
-        "prevSchool": "Linkoping HC"
+        "prevSchool": "Linköping HC"
       },
       {
         "name": "Naemi Herzig",
@@ -62420,7 +62414,7 @@
         "pk": "mobarak|martha",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-9",
+        "ht": "5-10",
         "home": "Chicago",
         "st": "IL",
         "ctry": "US",
@@ -62552,7 +62546,7 @@
         "pk": "serdachny|maya",
         "y": "Sr",
         "pos": "D",
-        "ht": "5-7",
+        "ht": "5-9",
         "home": "Edmonton",
         "st": "AB",
         "ctry": "Canada",
@@ -62658,7 +62652,7 @@
         "pk": "hotles|sadie",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-7",
+        "ht": "5-8",
         "home": "Markham",
         "st": "ON",
         "ctry": "Canada",
