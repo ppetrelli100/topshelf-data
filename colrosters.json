@@ -60004,7 +60004,6 @@
         "home": "St. Charles",
         "st": "MO",
         "ctry": "US",
-        "no": "1",
         "prevSchool": "U18 Team USA"
       },
       {
@@ -60016,7 +60015,6 @@
         "home": "Burnt Hills",
         "st": "NY",
         "ctry": "US",
-        "no": "2",
         "prevSchool": "North American Hockey Academy"
       },
       {
@@ -60028,7 +60026,6 @@
         "home": "Marshfield",
         "st": "MA",
         "ctry": "US",
-        "no": "3",
         "prevSchool": "Boston College"
       },
       {
@@ -60040,7 +60037,6 @@
         "home": "Ann Arbor",
         "st": "MI",
         "ctry": "US",
-        "no": "5",
         "prevSchool": "Mid Fairfield Stars"
       },
       {
@@ -60052,7 +60048,6 @@
         "home": "Glen Ellyn",
         "st": "IL",
         "ctry": "US",
-        "no": "6",
         "prevSchool": "U18 Team USA"
       },
       {
@@ -60064,7 +60059,6 @@
         "home": "London",
         "st": "ON",
         "ctry": "Canada",
-        "no": "7",
         "prevSchool": "Rink HA Kelowna Prep"
       },
       {
@@ -60076,7 +60070,6 @@
         "home": "Picton",
         "st": "ON",
         "ctry": "Canada",
-        "no": "8",
         "prevSchool": "Ottawa Lady Jr. Sens"
       },
       {
@@ -60088,7 +60081,6 @@
         "home": "Kutztown",
         "st": "PA",
         "ctry": "US",
-        "no": "9",
         "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
@@ -60100,7 +60092,6 @@
         "home": "St. George",
         "st": "ON",
         "ctry": "Canada",
-        "no": "10",
         "prevSchool": "Etobicoke Jr Dolphins / U18 Team Canada"
       },
       {
@@ -60112,7 +60103,6 @@
         "home": "Blenheim",
         "st": "ON",
         "ctry": "Canada",
-        "no": "11",
         "prevSchool": "Waterloo Ravens / U18 Team Canada"
       },
       {
@@ -60124,7 +60114,6 @@
         "home": "Oswego",
         "st": "IL",
         "ctry": "US",
-        "no": "12",
         "prevSchool": "Chicago Mission"
       },
       {
@@ -60136,7 +60125,6 @@
         "home": "Langley",
         "st": "BC",
         "ctry": "Canada",
-        "no": "13",
         "prevSchool": "Rink Hockey Academy Kelowna"
       },
       {
@@ -60148,7 +60136,6 @@
         "home": "Como",
         "st": "Italy",
         "ctry": "Europe",
-        "no": "17",
         "prevSchool": "HC Lugano / Team Italy"
       },
       {
@@ -60160,7 +60147,6 @@
         "home": "Edina",
         "st": "MN",
         "ctry": "US",
-        "no": "18",
         "prevSchool": "Edina"
       },
       {
@@ -60172,7 +60158,6 @@
         "home": "Palm Beach",
         "st": "FL",
         "ctry": "US",
-        "no": "19",
         "prevSchool": "University of Vermont"
       },
       {
@@ -60184,8 +60169,7 @@
         "home": "Stockholm",
         "st": "Sweden",
         "ctry": "Europe",
-        "no": "21",
-        "prevSchool": "Djurgarden / U18 Team Sweden"
+        "prevSchool": "Djurgarden / Team Sweden"
       },
       {
         "name": "Sophie Morrow",
@@ -60195,8 +60179,7 @@
         "ht": "5-11",
         "home": "Darien",
         "st": "CT",
-        "ctry": "US",
-        "no": "22"
+        "ctry": "US"
       },
       {
         "name": "Danica Maynard",
@@ -60207,7 +60190,6 @@
         "home": "Lake Country",
         "st": "BC",
         "ctry": "Canada",
-        "no": "27",
         "prevSchool": "Rink HA Kelowna Prep"
       },
       {
@@ -60219,7 +60201,6 @@
         "home": "Mosinee",
         "st": "WI",
         "ctry": "US",
-        "no": "28",
         "prevSchool": "North American Hockey Academy"
       },
       {
@@ -60231,7 +60212,6 @@
         "home": "Elizabeth",
         "st": "PA",
         "ctry": "US",
-        "no": "29",
         "prevSchool": "BK Selects"
       },
       {
@@ -60243,7 +60223,6 @@
         "home": "Pittsburgh",
         "st": "PA",
         "ctry": "US",
-        "no": "30",
         "prevSchool": "Pittsburgh Penguins Elite"
       },
       {
@@ -60255,7 +60234,6 @@
         "home": "Courtice",
         "st": "ON",
         "ctry": "Canada",
-        "no": "45",
         "prevSchool": "Durham West"
       }
     ],
