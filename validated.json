@@ -37,6 +37,24 @@
   "2026-27": {
     "Penn State": {
       "at": "2026-09-25T23:52:41.987Z"
+    },
+    "Merrimack": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "y": 1,
+            "home": 1,
+            "st": 2,
+            "ctry": 2
+          },
+          "at": "2026-09-25T23:58:48.693Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
