@@ -506,7 +506,7 @@
       const score = colMapScore(colMap);
       if (score > bestScore) { best = rows; bestScore = score; bestColMap = colMap; }
     }
-    if (!best) return { players: [], issues: ['Could not find a roster table on the page (need a header row with Name plus at least 2 more recognizable columns).'] };
+    if (!best) return { players: [], issues: ['Could not find a roster table on the page (need a header row with Name plus at least 2 more recognizable columns).'], fieldsAvailable: [] };
 
     const colMap = bestColMap;
     const players = [];
@@ -568,7 +568,27 @@
         ...(no ? { no } : {}), ...(sh ? { sh } : {}), ...(prevSchool ? { prevSchool } : {}),
       });
     }
-    return { players, issues };
+    // Which colrosters.json fields this page's table actually exposes --
+    // a past-season archive page often drops columns the current-season
+    // page has (e.g. Brown's 2025-26 archive has no Shoots column at all,
+    // where the 2026-27 page does). diffRoster needs this to tell "this
+    // field is genuinely blank" from "this page doesn't publish this field
+    // at all" -- only the latter should be skipped rather than flagged as
+    // a change.
+    const fieldsAvailable = ['name'];
+    if (colMap.no != null) fieldsAvailable.push('no');
+    if (colMap.year != null) fieldsAvailable.push('y');
+    if (colMap.pos != null) fieldsAvailable.push('pos');
+    if (colMap.ht != null) fieldsAvailable.push('ht');
+    if (colMap.sh != null) fieldsAvailable.push('sh');
+    if (colMap.hometown != null || colMap.hometownCombined != null || colMap.hometownPrevCombined != null) {
+      fieldsAvailable.push('home', 'st', 'ctry');
+    }
+    if (colMap.prev != null || colMap.hometownPrevCombined != null || colMap.hs != null) {
+      fieldsAvailable.push('prevSchool');
+    }
+
+    return { players, issues, fieldsAvailable };
   }
 
   /* =======================================================================
@@ -581,15 +601,19 @@
      ======================================================================= */
   const DIFF_FIELDS = ['name', 'y', 'pos', 'ht', 'home', 'st', 'ctry', 'no', 'sh', 'prevSchool'];
 
-  function diffRoster(liveRows, existingRows) {
+  function diffRoster(liveRows, existingRows, fieldsAvailable) {
     const byKeyLive = {}; (liveRows || []).forEach(p => { byKeyLive[p.pk] = p; });
     const byKeyExisting = {}; (existingRows || []).forEach(p => { byKeyExisting[p.pk] = p; });
+    // Only diff fields the live page actually publishes, when told -- a
+    // field the page doesn't expose at all (no column for it) is left out
+    // of the comparison entirely, rather than treated as "cleared to blank".
+    const compareFields = fieldsAvailable ? DIFF_FIELDS.filter(f => fieldsAvailable.includes(f)) : DIFF_FIELDS;
 
     const added = [], removed = [], changed = [];
     for (const pk in byKeyLive) {
       if (!(pk in byKeyExisting)) { added.push(byKeyLive[pk]); continue; }
       const a = byKeyLive[pk], b = byKeyExisting[pk];
-      const fieldDiffs = DIFF_FIELDS.filter(f => (a[f] || '') !== (b[f] || ''));
+      const fieldDiffs = compareFields.filter(f => (a[f] || '') !== (b[f] || ''));
       if (fieldDiffs.length) changed.push({ pk, name: a.name, fields: fieldDiffs, live: a, existing: b });
     }
     for (const pk in byKeyExisting) {
