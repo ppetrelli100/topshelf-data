@@ -48468,10 +48468,11 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-5",
-        "home": "Princeton Junction",
+        "home": "Princeton",
         "st": "NJ",
         "ctry": "US",
         "no": "4",
+        "sh": "R",
         "prevSchool": "Junior Flyers"
       },
       {
@@ -48589,7 +48590,7 @@
         "ctry": "US",
         "no": "18",
         "sh": "R",
-        "prevSchool": "Shattuck St. Mary's"
+        "prevSchool": "Shattuck St. Mary's (Minn.)"
       },
       {
         "name": "Brooklyn Nimegeers",
@@ -48615,7 +48616,7 @@
         "ctry": "US",
         "no": "21",
         "sh": "L",
-        "prevSchool": "Shattuck St. Mary's"
+        "prevSchool": "Shattuck St. Mary's (Minn.)"
       },
       {
         "name": "Catie Collins",
@@ -48696,7 +48697,7 @@
         "prevSchool": "BK Selects"
       },
       {
-        "name": "Catherine Williams",
+        "name": "Kitty Williams",
         "pk": "williams|catherine",
         "y": "Fr",
         "pos": "G",
@@ -48719,7 +48720,7 @@
         "ctry": "US",
         "no": "41",
         "sh": "L",
-        "prevSchool": "Edina HS"
+        "prevSchool": "Edina"
       }
     ],
     "Providence": [
