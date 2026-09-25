@@ -584,7 +584,18 @@
     if (colMap.hometown != null || colMap.hometownCombined != null || colMap.hometownPrevCombined != null) {
       fieldsAvailable.push('home', 'st', 'ctry');
     }
-    if (colMap.prev != null || colMap.hometownPrevCombined != null || colMap.hs != null) {
+    // NOTE: colMap.hs (a bare "High School" column, with no dedicated
+    // Previous Team/School column) is intentionally excluded here even
+    // though extractRosterTable() still folds it into prevSchool above via
+    // the HS fallback. A high school name is not the same fact as a prior
+    // hockey program, and some schools' pages only publish the former --
+    // diffing that fallback value against genuine stored prevSchool data
+    // (a real club/prep team) produces a false "changed" on every player
+    // whose real prior team differs from their high school (e.g. Harvard,
+    // which only lists High School + Concentration on its roster page).
+    // Only a genuine dedicated column counts as "this page provides
+    // prevSchool" for diff purposes.
+    if (colMap.prev != null || colMap.hometownPrevCombined != null) {
       fieldsAvailable.push('prevSchool');
     }
 
