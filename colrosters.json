@@ -64630,7 +64630,9 @@
         "home": "Montreal",
         "st": "QC",
         "ctry": "Canada",
-        "no": "1"
+        "no": "1",
+        "sh": "Left",
+        "prevSchool": "Dawson College"
       },
       {
         "name": "Rachel Bishop",
@@ -64641,7 +64643,9 @@
         "home": "Baie-D'Urfe",
         "st": "QC",
         "ctry": "Canada",
-        "no": "2"
+        "no": "2",
+        "sh": "Left",
+        "prevSchool": "Etobicoke Dolphins"
       },
       {
         "name": "Piper Grober",
@@ -64652,7 +64656,9 @@
         "home": "Toronto",
         "st": "ON",
         "ctry": "Canada",
-        "no": "3"
+        "no": "3",
+        "sh": "Left",
+        "prevSchool": "Durham Lightning"
       },
       {
         "name": "Lily Pachl",
@@ -64663,7 +64669,9 @@
         "home": "Hudson",
         "st": "WI",
         "ctry": "US",
-        "no": "5"
+        "no": "5",
+        "sh": "Left",
+        "prevSchool": "Minnesota Jr. Whitecaps"
       },
       {
         "name": "Abby Thibodeau",
@@ -64674,7 +64682,9 @@
         "home": "Fonthill",
         "st": "ON",
         "ctry": "Canada",
-        "no": "7"
+        "no": "7",
+        "sh": "Left",
+        "prevSchool": "Burlington Barracudas"
       },
       {
         "name": "Taya Lonsdale",
@@ -64685,7 +64695,9 @@
         "home": "Shawnigan Lake",
         "st": "BC",
         "ctry": "Canada",
-        "no": "8"
+        "no": "8",
+        "sh": "Left",
+        "prevSchool": "Shawnigan Lake School"
       },
       {
         "name": "Lindzi Avar",
@@ -64696,7 +64708,9 @@
         "home": "Chanhassen",
         "st": "MN",
         "ctry": "US",
-        "no": "9"
+        "no": "9",
+        "sh": "Left",
+        "prevSchool": "Minnetonka High"
       },
       {
         "name": "Beatrice Perron-Roy",
@@ -64707,7 +64721,9 @@
         "home": "Sherbrooke",
         "st": "QC",
         "ctry": "Canada",
-        "no": "10"
+        "no": "10",
+        "sh": "Right",
+        "prevSchool": "Stanstead College"
       },
       {
         "name": "Riley Scorgie",
@@ -64718,7 +64734,9 @@
         "home": "Edmonton",
         "st": "AB",
         "ctry": "Canada",
-        "no": "12"
+        "no": "12",
+        "sh": "Right",
+        "prevSchool": "Barrie Sharks"
       },
       {
         "name": "Zahra Nauhaus",
@@ -64729,7 +64747,9 @@
         "home": "Pittsburgh",
         "st": "PA",
         "ctry": "US",
-        "no": "13"
+        "no": "13",
+        "sh": "Left",
+        "prevSchool": "Shattuck St. Mary's"
       },
       {
         "name": "Keira Bruen",
@@ -64740,7 +64760,9 @@
         "home": "West Roxbury",
         "st": "MA",
         "ctry": "US",
-        "no": "14"
+        "no": "14",
+        "sh": "Right",
+        "prevSchool": "Phillips Academy Andover"
       },
       {
         "name": "Rose Dwyer",
@@ -64751,7 +64773,9 @@
         "home": "Wynnewood",
         "st": "PA",
         "ctry": "US",
-        "no": "16"
+        "no": "16",
+        "sh": "Left",
+        "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Carly Dann",
@@ -64762,7 +64786,9 @@
         "home": "Hanover",
         "st": "NH",
         "ctry": "US",
-        "no": "17"
+        "no": "17",
+        "sh": "Left",
+        "prevSchool": "East Coast Wizards"
       },
       {
         "name": "Delaney Fleming",
@@ -64773,7 +64799,9 @@
         "home": "Rochester",
         "st": "MN",
         "ctry": "US",
-        "no": "18"
+        "no": "18",
+        "sh": "Right",
+        "prevSchool": "Ohio State University"
       },
       {
         "name": "Karel Prefontaine",
@@ -64784,7 +64812,9 @@
         "home": "Gatineau",
         "st": "QC",
         "ctry": "Canada",
-        "no": "19"
+        "no": "19",
+        "sh": "Left",
+        "prevSchool": "Stanstead College"
       },
       {
         "name": "Jillian McLaughlin",
@@ -64795,7 +64825,9 @@
         "home": "Oceanside",
         "st": "CA",
         "ctry": "US",
-        "no": "22"
+        "no": "22",
+        "sh": "Left",
+        "prevSchool": "RINK Hockey Academy Kelowna Prep"
       },
       {
         "name": "Nora Curtis",
@@ -64806,7 +64838,9 @@
         "home": "Skaneateles",
         "st": "NY",
         "ctry": "US",
-        "no": "24"
+        "no": "24",
+        "sh": "Right",
+        "prevSchool": "East Coast Wizards"
       },
       {
         "name": "Olivia Ferebee",
@@ -64817,7 +64851,9 @@
         "home": "Lake Placid",
         "st": "NY",
         "ctry": "US",
-        "no": "31"
+        "no": "31",
+        "sh": "Right",
+        "prevSchool": "Connecticut Polar Bears"
       },
       {
         "name": "Annelies Bergmann",
@@ -64828,7 +64864,9 @@
         "home": "Detroit",
         "st": "MI",
         "ctry": "US",
-        "no": "43"
+        "no": "43",
+        "sh": "Left",
+        "prevSchool": "Oakland Grizzlies"
       },
       {
         "name": "Shannon Pearson",
@@ -64839,7 +64877,9 @@
         "home": "Calgary",
         "st": "AB",
         "ctry": "Canada",
-        "no": "47"
+        "no": "47",
+        "sh": "Left",
+        "prevSchool": "Barrie Jr Sharks"
       },
       {
         "name": "Taia MacDonald",
@@ -64850,7 +64890,9 @@
         "home": "Toronto",
         "st": "ON",
         "ctry": "Canada",
-        "no": "65"
+        "no": "65",
+        "sh": "Left",
+        "prevSchool": "Mississauga Hurricanes"
       },
       {
         "name": "London McDavid",
@@ -64861,7 +64903,9 @@
         "home": "Maple Ridge",
         "st": "BC",
         "ctry": "Canada",
-        "no": "79"
+        "no": "79",
+        "sh": "Left",
+        "prevSchool": "Delta Hockey Academy"
       },
       {
         "name": "Renee Bishop",
@@ -64872,7 +64916,9 @@
         "home": "Baie-D'Urfe",
         "st": "QC",
         "ctry": "Canada",
-        "no": "86"
+        "no": "86",
+        "sh": "Right",
+        "prevSchool": "Etobicoke Dolphins"
       },
       {
         "name": "Kayla O' Donnell",
@@ -64883,7 +64929,9 @@
         "home": "Buffalo",
         "st": "NY",
         "ctry": "US",
-        "no": "88"
+        "no": "88",
+        "sh": "Right",
+        "prevSchool": "Bishop Kearney Selects"
       }
     ],
     "Bemidji State": [
