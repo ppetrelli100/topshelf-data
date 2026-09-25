@@ -41628,12 +41628,11 @@
         "pk": "lyons|monique",
         "y": "So",
         "pos": "F",
-        "ht": "5-3",
+        "ht": "",
         "home": "Bedford",
         "st": "MA",
         "ctry": "US",
         "no": "2",
-        "sh": "L",
         "prevSchool": "East Coast Wizards"
       },
       {
@@ -41646,7 +41645,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "3",
-        "sh": "R",
         "prevSchool": "East Coast Wizards"
       },
       {
@@ -41659,7 +41657,6 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "5",
-        "sh": "L",
         "prevSchool": "Notre Dame Hounds"
       },
       {
@@ -41684,7 +41681,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "7",
-        "sh": "L",
         "prevSchool": "Minnesota Junior Whitecaps"
       },
       {
@@ -41697,7 +41693,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "9",
-        "sh": "R",
         "prevSchool": "Ohio State University"
       },
       {
@@ -41722,7 +41717,6 @@
         "st": "MD",
         "ctry": "US",
         "no": "11",
-        "sh": "R",
         "prevSchool": "Connecticut Polar Bears"
       },
       {
@@ -41771,7 +41765,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "15",
-        "sh": "L",
         "prevSchool": "Mississauga Jr. Hurricanes"
       },
       {
@@ -41783,9 +41776,7 @@
         "home": "Sherbrooke",
         "st": "QC",
         "ctry": "Canada",
-        "no": "17",
-        "sh": "R",
-        "prevSchool": "Stanstead College"
+        "no": "17"
       },
       {
         "name": "Margot Norehad",
@@ -41797,7 +41788,6 @@
         "st": "IL",
         "ctry": "US",
         "no": "18",
-        "sh": "R",
         "prevSchool": "Chicago Mission"
       },
       {
@@ -41810,7 +41800,6 @@
         "st": "CA",
         "ctry": "US",
         "no": "19",
-        "sh": "R",
         "prevSchool": "Shattuck St. Mary's"
       },
       {
@@ -41823,7 +41812,6 @@
         "st": "NH",
         "ctry": "US",
         "no": "20",
-        "sh": "R",
         "prevSchool": "Valley Junior Warriors"
       },
       {
@@ -41836,7 +41824,6 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "21",
-        "sh": "R",
         "prevSchool": "RINK Kelowna Female Prep U18"
       },
       {
@@ -41849,7 +41836,6 @@
         "st": "PA",
         "ctry": "US",
         "no": "22",
-        "sh": "R",
         "prevSchool": "Pittsburgh Pens Elite"
       },
       {
@@ -41886,7 +41872,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "26",
-        "sh": "L",
         "prevSchool": "Philadelphia Jr. Flyers 19U"
       },
       {
@@ -41899,7 +41884,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
-        "sh": "L",
         "prevSchool": "Mississauga Jr. Hurricanes"
       },
       {
@@ -41912,7 +41896,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "28",
-        "sh": "L",
         "prevSchool": "Mississauga Jr. Hurricanes"
       },
       {
@@ -41937,7 +41920,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "31",
-        "sh": "L",
         "prevSchool": "Boston Jr. Eagles"
       },
       {
@@ -41949,9 +41931,7 @@
         "home": "Schomberg",
         "st": "ON",
         "ctry": "Canada",
-        "no": "35",
-        "sh": "R",
-        "prevSchool": "Bill Crothers Secondary School"
+        "no": "35"
       }
     ],
     "Clarkson": [
