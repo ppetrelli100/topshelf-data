@@ -52239,12 +52239,11 @@
         "pk": "stone|eve",
         "y": "Sr",
         "pos": "G",
-        "ht": "5-7",
+        "ht": "5-8",
         "home": "North Billerica",
         "st": "MA",
         "ctry": "US",
         "no": "1",
-        "sh": "R",
         "prevSchool": "The Rivers School"
       },
       {
@@ -52257,7 +52256,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "3",
-        "sh": "R",
         "prevSchool": "Lawrence Academy"
       },
       {
@@ -52266,11 +52264,10 @@
         "y": "So",
         "pos": "D",
         "ht": "5-8",
-        "home": "Russell",
+        "home": "Perth",
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
-        "sh": "L",
         "prevSchool": "St. Thomas Aquinas Catholic"
       },
       {
@@ -52283,7 +52280,6 @@
         "st": "ME",
         "ctry": "US",
         "no": "9",
-        "sh": "R",
         "prevSchool": "Kimball Union Academy"
       },
       {
@@ -52296,8 +52292,7 @@
         "st": "MD",
         "ctry": "US",
         "no": "10",
-        "sh": "R",
-        "prevSchool": "Bishop Kearney High School"
+        "prevSchool": "Bishop Kearney"
       },
       {
         "name": "Peyton Wise",
@@ -52309,7 +52304,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "11",
-        "sh": "R",
         "prevSchool": "Ajax"
       },
       {
@@ -52322,7 +52316,6 @@
         "st": "PA",
         "ctry": "US",
         "no": "12",
-        "sh": "L",
         "prevSchool": "North Catholic"
       },
       {
@@ -52330,12 +52323,11 @@
         "pk": "sacca|gracie",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-8",
-        "home": "Manotick Station",
+        "ht": "5-9",
+        "home": "Manotick",
         "st": "ON",
         "ctry": "Canada",
         "no": "13",
-        "sh": "L",
         "prevSchool": "St. Mark"
       },
       {
@@ -52348,20 +52340,18 @@
         "st": "TN",
         "ctry": "US",
         "no": "14",
-        "sh": "R",
         "prevSchool": "Donelson Christian Academy"
       },
       {
-        "name": "Maddison Achtyl",
-        "pk": "achtyl|maddison",
+        "name": "Maddi Achtyl",
+        "pk": "achtyl|maddi",
         "y": "Sr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Buffalo",
+        "home": "Lancaster",
         "st": "NY",
         "ctry": "US",
         "no": "15",
-        "sh": "R",
         "prevSchool": "Shattuck St. Mary's"
       },
       {
@@ -52374,7 +52364,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "16",
-        "sh": "R",
         "prevSchool": "Cretin-Derham Hall"
       },
       {
@@ -52383,11 +52372,10 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-9",
-        "home": "North St. Paul",
+        "home": "St. Paul",
         "st": "MN",
         "ctry": "US",
         "no": "17",
-        "sh": "L",
         "prevSchool": "Cretin-Derham Hall"
       },
       {
@@ -52396,11 +52384,10 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Tri Cities",
+        "home": "Tri-Cities",
         "st": "WA",
         "ctry": "US",
         "no": "18",
-        "sh": "L",
         "prevSchool": "George Elliot Secondary"
       },
       {
@@ -52408,12 +52395,11 @@
         "pk": "turcotte|lucie",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-6",
+        "ht": "5-5",
         "home": "Gap",
-        "st": "FRANCE",
+        "st": "France",
         "ctry": "Europe",
         "no": "19",
-        "sh": "L",
         "prevSchool": "Kimball Union Academy"
       },
       {
@@ -52426,7 +52412,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "20",
-        "sh": "L",
         "prevSchool": "Dexter Southfield"
       },
       {
@@ -52439,8 +52424,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "21",
-        "sh": "L",
-        "prevSchool": "Academy OF Holy Angels"
+        "prevSchool": "Academy of Holy Angels"
       },
       {
         "name": "Seina Spadone",
@@ -52448,11 +52432,10 @@
         "y": "So",
         "pos": "D",
         "ht": "5-5",
-        "home": "West Seneca",
+        "home": "Buffalo",
         "st": "NY",
         "ctry": "US",
         "no": "23",
-        "sh": "R",
         "prevSchool": "Nichols School"
       },
       {
@@ -52465,7 +52448,6 @@
         "st": "PA",
         "ctry": "US",
         "no": "24",
-        "sh": "L",
         "prevSchool": "Mount Saint Joseph Academy"
       },
       {
@@ -52478,7 +52460,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
-        "sh": "R",
         "prevSchool": "Ajax"
       },
       {
@@ -52487,12 +52468,11 @@
         "y": "Fr",
         "pos": "G",
         "ht": "5-6",
-        "home": "St Michael",
+        "home": "St. Michael",
         "st": "MN",
         "ctry": "US",
         "no": "31",
-        "sh": "L",
-        "prevSchool": "ST Michael-Albertville"
+        "prevSchool": "St. Michael Albertville"
       },
       {
         "name": "Alexsa Caron",
@@ -52504,7 +52484,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "33",
-        "sh": "L",
         "prevSchool": "Buckingham Browne & Nichols"
       },
       {
@@ -52517,7 +52496,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "71",
-        "sh": "L",
         "prevSchool": "Everest Academy"
       },
       {
@@ -52530,7 +52508,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "93",
-        "sh": "L",
         "prevSchool": "St. Mark Catholic"
       }
     ],
