@@ -535,12 +535,12 @@
         const { first, second } = splitCombinedCell(cleanCell(cells[colMap.hometownCombined]));
         const hp = parseHometown(first);
         home = hp.home; st = hp.st; ctry = hp.ctry;
-        hsCell = second;
+        hsCell = cleanCell(second);
       } else if (colMap.hometownPrevCombined != null) {
         const { first, second } = splitCombinedCell(cleanCell(cells[colMap.hometownPrevCombined]));
         const hp = parseHometown(first);
         home = hp.home; st = hp.st; ctry = hp.ctry;
-        prevSchool = second;
+        prevSchool = cleanCell(second); // 'Town / null' -> blank
       } else if (colMap.hometown != null) {
         const hp = parseHometown(cleanCell(cells[colMap.hometown]));
         home = hp.home; st = hp.st; ctry = hp.ctry;
@@ -558,7 +558,7 @@
       // "changed" diff (confirmed on Brown's page: Elodie Roy, Bogi
       // Bahiczki-Toth, Rory Edwards all have a real blank Previous Team
       // alongside a real High School value).
-      if (hsCell && !prevSchool && colMap.prev == null) prevSchool = hsCell;
+      if (hsCell && !prevSchool && colMap.prev == null && colMap.hometownPrevCombined == null) prevSchool = hsCell;
 
       const tags = nameTags(rawName);
       if (tags.length) issues.push(`${name}: has a "${tags.join('/')}" tag — ignored for the personkey.`);
