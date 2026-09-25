@@ -41037,8 +41037,7 @@
         "home": "Dorchester",
         "st": "MA",
         "ctry": "US",
-        "no": "2",
-        "prevSchool": "Dexter Southfield"
+        "no": "2"
       },
       {
         "name": "Alanna Devlin",
@@ -41073,8 +41072,7 @@
         "home": "Winchester",
         "st": "MA",
         "ctry": "US",
-        "no": "6",
-        "prevSchool": "Phillips Academy"
+        "no": "6"
       },
       {
         "name": "Kate Ham",
@@ -41106,13 +41104,12 @@
         "name": "Maude Niemann",
         "pk": "niemann|maude",
         "y": "Fr",
-        "pos": "F",
+        "pos": "",
         "ht": "5-8",
         "home": "Weston",
         "st": "CT",
         "ctry": "US",
-        "no": "9",
-        "prevSchool": "St. Paul's"
+        "no": "9"
       },
       {
         "name": "Jansen Lucas",
@@ -41211,7 +41208,7 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "18",
-        "prevSchool": "Merrimack (HEA)"
+        "prevSchool": "Merrimack College"
       },
       {
         "name": "Jade Arnone",
@@ -41224,7 +41221,7 @@
         "ctry": "US",
         "no": "19",
         "sh": "L",
-        "prevSchool": "Harvard (ECAC)"
+        "prevSchool": "Harvard"
       },
       {
         "name": "Emma Conner",
@@ -41236,8 +41233,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "20",
-        "sh": "L",
-        "prevSchool": "Minnesota (WCHA)"
+        "prevSchool": "University of Minnesota"
       },
       {
         "name": "Maxim Tremblay",
@@ -41248,8 +41244,7 @@
         "home": "Sherbrooke",
         "st": "QC",
         "ctry": "Canada",
-        "no": "21",
-        "prevSchool": "Stanstead College"
+        "no": "21"
       },
       {
         "name": "Lauren Glaser",
