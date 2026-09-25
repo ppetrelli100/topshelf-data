@@ -56031,7 +56031,7 @@
       {
         "name": "Tiana McIntyre",
         "pk": "mcintyre|tiana",
-        "y": "Fifth Year",
+        "y": "5th",
         "pos": "D",
         "ht": "5-8",
         "home": "Park City",
@@ -56106,8 +56106,8 @@
         "pos": "F",
         "ht": "5-6",
         "home": "Sun Prairie",
-        "st": "Wisc.",
-        "ctry": "__UNKNOWN__",
+        "st": "WI",
+        "ctry": "US",
         "no": "11",
         "prevSchool": "Boston Jr. Eagles"
       },
@@ -56175,7 +56175,7 @@
         "name": "Billi Roman",
         "pk": "roman|billi",
         "y": "So",
-        "pos": "F/D",
+        "pos": "F",
         "ht": "5-3",
         "home": "Hockessin",
         "st": "DE",
@@ -56222,7 +56222,7 @@
       {
         "name": "Shea Frost",
         "pk": "frost|shea",
-        "y": "Fifth Year",
+        "y": "5th",
         "pos": "D",
         "ht": "5-10",
         "home": "Andover",
