@@ -49295,12 +49295,13 @@
         "pk": "urbach|olivia",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-6",
+        "ht": "5-7",
         "home": "Barrie",
         "st": "ON",
         "ctry": "Canada",
         "no": "4",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Barrie Jr. Sharks"
       },
       {
         "name": "Cassandra Kehler",
@@ -49312,7 +49313,8 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "5",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Shawnigan Lake School"
       },
       {
         "name": "Laura Dyke",
@@ -49320,7 +49322,7 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-7",
-        "home": "St.johns",
+        "home": "St. John's",
         "st": "NL",
         "ctry": "Canada",
         "no": "7",
@@ -49337,7 +49339,8 @@
         "st": "CA",
         "ctry": "US",
         "no": "8",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Saint Mary's Rams"
       },
       {
         "name": "Lily Andreassi",
@@ -49350,7 +49353,7 @@
         "ctry": "US",
         "no": "9",
         "sh": "L",
-        "prevSchool": "Westview High School"
+        "prevSchool": "San Diego Angels"
       },
       {
         "name": "Zoe Ziotas",
@@ -49362,7 +49365,8 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "10",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Durham West Lightening Jr."
       },
       {
         "name": "Riley Gramlich",
@@ -49375,7 +49379,7 @@
         "ctry": "Canada",
         "no": "11",
         "sh": "L",
-        "prevSchool": "Alberta Schools"
+        "prevSchool": "South Alberta Hockey Academy"
       },
       {
         "name": "Addie Alvarez",
@@ -49387,10 +49391,11 @@
         "st": "NY",
         "ctry": "US",
         "no": "13",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Syracuse Valley Eagles"
       },
       {
-        "name": "Cassandra Barnes",
+        "name": "Cassie Barnes",
         "pk": "barnes|cassandra",
         "y": "Fr",
         "pos": "F",
@@ -49399,7 +49404,8 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "14",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Mississauga Jr. Hurricanes"
       },
       {
         "name": "Jaidan Fahrny",
@@ -49412,7 +49418,7 @@
         "ctry": "US",
         "no": "15",
         "sh": "R",
-        "prevSchool": "Pens Jr Elite"
+        "prevSchool": "Clarkson/Pittsburgh Penguins Elite"
       },
       {
         "name": "Brac Kelley",
@@ -49420,11 +49426,12 @@
         "y": "So",
         "pos": "F",
         "ht": "5-8",
-        "home": "City Of Wilkes Barre",
+        "home": "Wilkes-Barre",
         "st": "PA",
         "ctry": "US",
         "no": "16",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Northwood Prep"
       },
       {
         "name": "Ireland Stein",
@@ -49436,7 +49443,8 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "17",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Saskatoon Midgett AAA Stars"
       },
       {
         "name": "Lexi Sung",
@@ -49455,7 +49463,7 @@
         "name": "Karly Kolssak",
         "pk": "kolssak|karly",
         "y": "Sr",
-        "pos": "D",
+        "pos": "F",
         "ht": "5-8",
         "home": "Wheeling",
         "st": "IL",
@@ -49487,7 +49495,8 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "23",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Saskatoon Stars"
       },
       {
         "name": "Linda Rulle",
@@ -49496,7 +49505,7 @@
         "pos": "F",
         "ht": "5-4",
         "home": "Pale",
-        "st": "LATVIA",
+        "st": "Latvia",
         "ctry": "Europe",
         "no": "24",
         "sh": "L",
@@ -49513,7 +49522,7 @@
         "ctry": "US",
         "no": "26",
         "sh": "R",
-        "prevSchool": "Boise Online"
+        "prevSchool": "Purcell Hockey Academy"
       },
       {
         "name": "Kolbee Ashe",
@@ -49525,19 +49534,21 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "27",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Saskatoon Midgett AAA Stars"
       },
       {
-        "name": "Tilli Keraenen",
+        "name": "Tilli Keranen",
         "pk": "keranen|tilli",
         "y": "Fr",
         "pos": "F",
         "ht": "5-8",
         "home": "Kuopio",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "28",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "KalPa"
       },
       {
         "name": "Sophia Bellina",
@@ -49550,19 +49561,20 @@
         "ctry": "US",
         "no": "29",
         "sh": "L",
-        "prevSchool": "Culver Academy"
+        "prevSchool": "Culver Academy (Ind.)"
       },
       {
         "name": "Tahlia Vasseur",
         "pk": "vasseur|tahlia",
         "y": "Fr",
         "pos": "G",
-        "ht": "6-1",
+        "ht": "6-0",
         "home": "Bonnyville",
         "st": "AB",
         "ctry": "Canada",
         "no": "32",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Ontario Hockey Academy Mavericks"
       },
       {
         "name": "Brenna McNamara",
@@ -49570,11 +49582,12 @@
         "y": "So",
         "pos": "G",
         "ht": "5-9",
-        "home": "Keswick",
+        "home": "Toronto",
         "st": "ON",
         "ctry": "Canada",
         "no": "40",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "North York Storm"
       }
     ],
     "RPI": [
