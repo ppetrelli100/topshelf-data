@@ -11,6 +11,20 @@
           "n": 21,
           "at": "2026-09-25T23:56:23.212Z",
           "baseline": true
+        },
+        {
+          "result": "changes",
+          "n": 21,
+          "added": [
+            "Maddy Campbell"
+          ],
+          "removed": [
+            "Maddy Campbell"
+          ],
+          "fields": {
+            "y": 2
+          },
+          "at": "2026-09-25T23:58:00.075Z"
         }
       ]
     }
