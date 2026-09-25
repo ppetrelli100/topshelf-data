@@ -55149,6 +55149,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "2",
+        "sh": "R",
         "prevSchool": "Bishop Kearney Selects"
       },
       {
@@ -55161,6 +55162,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "3",
+        "sh": "L",
         "prevSchool": "London Jr. Devilettes"
       },
       {
@@ -55173,6 +55175,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "4",
+        "sh": "R",
         "prevSchool": "Bishop Kearney Selects"
       },
       {
@@ -55185,6 +55188,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
+        "sh": "L",
         "prevSchool": "Burlington Barracudas"
       },
       {
@@ -55197,18 +55201,20 @@
         "st": "NY",
         "ctry": "US",
         "no": "8",
+        "sh": "R",
         "prevSchool": "NAHA White 19U"
       },
       {
         "name": "Isabelle Goettl",
         "pk": "goettl|isabelle",
-        "y": "Sr",
+        "y": "Jr",
         "pos": "F",
         "ht": "5-1",
         "home": "Andover",
         "st": "MN",
         "ctry": "US",
         "no": "9",
+        "sh": "L",
         "prevSchool": "Bemidji St. University"
       },
       {
@@ -55221,6 +55227,7 @@
         "st": "IL",
         "ctry": "US",
         "no": "10",
+        "sh": "R",
         "prevSchool": "St. Cloud State University"
       },
       {
@@ -55233,19 +55240,8 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "11",
+        "sh": "R",
         "prevSchool": "Rink Hockey Academy Kelowna"
-      },
-      {
-        "name": "Andrea Trnkova",
-        "pk": "trnkova|andrea",
-        "y": "Sr",
-        "pos": "D",
-        "ht": "5-9",
-        "home": "Usti nad Orlici",
-        "st": "Czech Republic",
-        "ctry": "Europe",
-        "no": "13",
-        "prevSchool": "RPI"
       },
       {
         "name": "Gabrielle Lalonde",
@@ -55257,6 +55253,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "14",
+        "sh": "L",
         "prevSchool": "John Abbott College"
       },
       {
@@ -55268,7 +55265,8 @@
         "home": "Edmonton",
         "st": "AB",
         "ctry": "Canada",
-        "no": "16",
+        "no": "15",
+        "sh": "L",
         "prevSchool": "Edmonton Jr. Oilers"
       },
       {
@@ -55281,6 +55279,7 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "17",
+        "sh": "R",
         "prevSchool": "Robert Morris University"
       },
       {
@@ -55293,6 +55292,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "18",
+        "sh": "R",
         "prevSchool": "Rink Hockey Academy Kelowna"
       },
       {
@@ -55305,6 +55305,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "19",
+        "sh": "L",
         "prevSchool": "Edmonton Jr. Oilers U18"
       },
       {
@@ -55317,6 +55318,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "20",
+        "sh": "L",
         "prevSchool": "Etobicoke Dolphins"
       },
       {
@@ -55329,6 +55331,7 @@
         "st": "France",
         "ctry": "Europe",
         "no": "21",
+        "sh": "L",
         "prevSchool": "John Abbott College"
       },
       {
@@ -55341,6 +55344,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "22",
+        "sh": "L",
         "prevSchool": "Rink Hockey Academy Kelowna"
       },
       {
@@ -55353,6 +55357,7 @@
         "st": "MB",
         "ctry": "Canada",
         "no": "24",
+        "sh": "R",
         "prevSchool": "Burlington Barracudas"
       },
       {
@@ -55365,6 +55370,7 @@
         "st": "MB",
         "ctry": "Canada",
         "no": "26",
+        "sh": "L",
         "prevSchool": "Burlington Barracudas"
       },
       {
@@ -55377,6 +55383,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
+        "sh": "L",
         "prevSchool": "Providence College"
       },
       {
@@ -55389,6 +55396,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "28",
+        "sh": "L",
         "prevSchool": "London Jr Devilettes"
       },
       {
@@ -55401,19 +55409,8 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "29",
+        "sh": "L",
         "prevSchool": "Concordia University"
-      },
-      {
-        "name": "Aneta Senkova",
-        "pk": "senkova|aneta",
-        "y": "Fr",
-        "pos": "G",
-        "ht": "5-8",
-        "home": "Lovosice",
-        "st": "Czech Republic",
-        "ctry": "Europe",
-        "no": "31",
-        "prevSchool": "Kingston Jr Ice Wolves"
       },
       {
         "name": "Kalia Pharand",
@@ -55425,7 +55422,21 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "32",
+        "sh": "L",
         "prevSchool": "Mississauga Hurricanes U22"
+      },
+      {
+        "name": "Aneta Senkova",
+        "pk": "senkova|aneta",
+        "y": "So",
+        "pos": "G",
+        "ht": "5-8",
+        "home": "Lovosice",
+        "st": "Czech Republic",
+        "ctry": "Europe",
+        "no": "35",
+        "sh": "L",
+        "prevSchool": "Kingston Jr Ice Wolves"
       }
     ],
     "Colgate": [
@@ -64601,7 +64612,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "1",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Dawson College"
       },
       {
@@ -64614,7 +64625,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "2",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Etobicoke Dolphins"
       },
       {
@@ -64627,7 +64638,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "3",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Durham Lightning"
       },
       {
@@ -64640,7 +64651,7 @@
         "st": "WI",
         "ctry": "US",
         "no": "5",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Minnesota Jr. Whitecaps"
       },
       {
@@ -64653,7 +64664,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Burlington Barracudas"
       },
       {
@@ -64666,7 +64677,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "8",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Shawnigan Lake School"
       },
       {
@@ -64679,7 +64690,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "9",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Minnetonka High"
       },
       {
@@ -64692,7 +64703,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "10",
-        "sh": "Right",
+        "sh": "R",
         "prevSchool": "Stanstead College"
       },
       {
@@ -64705,7 +64716,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "12",
-        "sh": "Right",
+        "sh": "R",
         "prevSchool": "Barrie Sharks"
       },
       {
@@ -64718,7 +64729,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "13",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Shattuck St. Mary's"
       },
       {
@@ -64731,7 +64742,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "14",
-        "sh": "Right",
+        "sh": "R",
         "prevSchool": "Phillips Academy Andover"
       },
       {
@@ -64744,7 +64755,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "16",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Bishop Kearney Selects"
       },
       {
@@ -64757,7 +64768,7 @@
         "st": "NH",
         "ctry": "US",
         "no": "17",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "East Coast Wizards"
       },
       {
@@ -64770,7 +64781,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "18",
-        "sh": "Right",
+        "sh": "R",
         "prevSchool": "Ohio State University"
       },
       {
@@ -64783,7 +64794,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "19",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Stanstead College"
       },
       {
@@ -64796,7 +64807,7 @@
         "st": "CA",
         "ctry": "US",
         "no": "22",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "RINK Hockey Academy Kelowna Prep"
       },
       {
@@ -64809,7 +64820,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "24",
-        "sh": "Right",
+        "sh": "R",
         "prevSchool": "East Coast Wizards"
       },
       {
@@ -64822,7 +64833,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "31",
-        "sh": "Right",
+        "sh": "R",
         "prevSchool": "Connecticut Polar Bears"
       },
       {
@@ -64835,7 +64846,7 @@
         "st": "MI",
         "ctry": "US",
         "no": "43",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Oakland Grizzlies"
       },
       {
@@ -64848,7 +64859,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "47",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Barrie Jr Sharks"
       },
       {
@@ -64861,7 +64872,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "65",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Mississauga Hurricanes"
       },
       {
@@ -64874,7 +64885,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "79",
-        "sh": "Left",
+        "sh": "L",
         "prevSchool": "Delta Hockey Academy"
       },
       {
@@ -64887,7 +64898,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "86",
-        "sh": "Right",
+        "sh": "R",
         "prevSchool": "Etobicoke Dolphins"
       },
       {
@@ -64900,7 +64911,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "88",
-        "sh": "Right",
+        "sh": "R",
         "prevSchool": "Bishop Kearney Selects"
       }
     ],
