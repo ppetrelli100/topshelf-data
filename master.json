@@ -1521,9 +1521,7 @@
     "PersonKey": "alexis|fadden",
     "Grad": 2028,
     "Position": "F",
-    "Country": "US",
-    "School": "Lawrenceville",
-    "Team2025": "East Coast Valkyries 19U"
+    "School": "Lawrenceville"
   },
   {
     "Name": "Ava Alfieri",
@@ -40186,6 +40184,13 @@
     "Highest": "SKcamp"
   },
   {
+    "Name": "Alexis Fadden",
+    "PersonKey": "fadden|alexis",
+    "Position": "F",
+    "Country": "US",
+    "Team2025": "East Coast Valkyries 19U"
+  },
+  {
     "Name": "Maddy Fadista",
     "PersonKey": "fadista|madeline",
     "BirthYr": 2011,
@@ -41747,6 +41752,24 @@
     "Soph": "U15",
     "Jr": "U1617",
     "Highest": "U1617"
+  },
+  {
+    "Name": "Sara Field",
+    "PersonKey": "field|sara",
+    "BirthYr": 2007,
+    "DOB": "7/17/2007",
+    "Grad": 2025,
+    "Position": "D",
+    "Height": "5’9”",
+    "Weight": 135,
+    "City": "Claremont",
+    "State": "CA",
+    "Country": "US",
+    "Team2024": "Anaheim 19U",
+    "Team": "Anaheim Lady Ducks",
+    "College": "Assumption",
+    "Soph": "U15",
+    "Highest": "U15"
   },
   {
     "Name": "Taylor Field",
@@ -107516,16 +107539,6 @@
     "Position": "D",
     "Country": "CAN",
     "Team2026": "Peterborough U15"
-  },
-  {
-    "Name": "Name",
-    "PersonKey": "personkey",
-    "BirthYr": "BirthYr",
-    "Grad": "Grad",
-    "Position": "Position",
-    "State": "State",
-    "Country": "Country",
-    "College": "SCHOOL2"
   },
   {
     "Name": "Violet Pervais",
