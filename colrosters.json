@@ -47822,9 +47822,7 @@
         "home": "Burnt Hills",
         "st": "NY",
         "ctry": "US",
-        "no": "2",
-        "sh": "L",
-        "prevSchool": "Burnt Hills-Ballston Lake High School"
+        "prevSchool": "North American Hockey Academy"
       },
       {
         "name": "Taya MacDonald",
@@ -47835,9 +47833,7 @@
         "home": "London",
         "st": "ON",
         "ctry": "Canada",
-        "no": "7",
-        "sh": "L",
-        "prevSchool": "Sir Wilfred Laurier French Immersion"
+        "prevSchool": "Rink HA Kelowna Prep"
       },
       {
         "name": "Grace Outwater",
@@ -47848,21 +47844,18 @@
         "home": "Picton",
         "st": "ON",
         "ctry": "Canada",
-        "no": "8",
-        "sh": "R",
-        "prevSchool": "Ottawa Carleton Virtual School"
+        "prevSchool": "Ottawa Lady Jr. Sens"
       },
       {
         "name": "Shelby Shane",
         "pk": "shane|shelby",
         "y": "Fr",
         "pos": "D",
-        "ht": "",
+        "ht": "5-4",
         "home": "Kutztown",
         "st": "PA",
         "ctry": "US",
-        "no": "9",
-        "prevSchool": "Fleetwood Area High School"
+        "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
         "name": "Leah Stecker",
@@ -47873,8 +47866,6 @@
         "home": "Randolph",
         "st": "NJ",
         "ctry": "US",
-        "no": "10",
-        "sh": "R",
         "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
@@ -47886,9 +47877,7 @@
         "home": "Blenheim",
         "st": "ON",
         "ctry": "Canada",
-        "no": "11",
-        "sh": "R",
-        "prevSchool": "Ursuline College Chatham"
+        "prevSchool": "Waterloo Ravens / U18 Team Canada"
       },
       {
         "name": "McKenna Walsh",
@@ -47899,9 +47888,7 @@
         "home": "Oswego",
         "st": "IL",
         "ctry": "US",
-        "no": "12",
-        "sh": "R",
-        "prevSchool": "Oswego East High School"
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Tessa Janecke",
@@ -47912,9 +47899,7 @@
         "home": "Orangeville",
         "st": "IL",
         "ctry": "US",
-        "no": "15",
-        "sh": "L",
-        "prevSchool": "North America Hockey Academy"
+        "prevSchool": "North America Hockey Academy / U18 Team USA"
       },
       {
         "name": "Kendall Butze",
@@ -47925,21 +47910,17 @@
         "home": "Cleveland",
         "st": "OH",
         "ctry": "US",
-        "no": "17",
-        "sh": "L",
         "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Mya Vaslet",
         "pk": "vaslet|mya",
-        "y": "Gr",
+        "y": "Graduate Student",
         "pos": "F",
         "ht": "5-9",
         "home": "Stittsville",
         "st": "ON",
         "ctry": "Canada",
-        "no": "19",
-        "sh": "L",
         "prevSchool": "Etobicoke Jr. Dolphins"
       },
       {
@@ -47947,11 +47928,11 @@
         "pk": "fantin|matilde",
         "y": "Fr",
         "pos": "F",
-        "ht": "",
+        "ht": "5-7",
         "home": "Como",
-        "st": "ITALY",
+        "st": "Italy",
         "ctry": "Europe",
-        "no": "20"
+        "prevSchool": "HC Lugano / Team Italy"
       },
       {
         "name": "Nicole Hall",
@@ -47960,11 +47941,9 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Stockholm",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
-        "no": "21",
-        "sh": "L",
-        "prevSchool": "Kunskapsgymnasiet"
+        "prevSchool": "Djurgarden / Team Sweden"
       },
       {
         "name": "Katelyn Roberts",
@@ -47975,32 +47954,28 @@
         "home": "Chanhassen",
         "st": "MN",
         "ctry": "US",
-        "no": "22",
-        "sh": "R",
-        "prevSchool": "Chaska-Chanhassen"
+        "prevSchool": "Chanhassen"
       },
       {
         "name": "Taylor Lum",
         "pk": "lum|taylor",
-        "y": "Gr",
+        "y": "Graduate Student",
         "pos": "F",
         "ht": "5-3",
         "home": "Etobicoke",
         "st": "ON",
         "ctry": "Canada",
-        "no": "24"
+        "prevSchool": "St. Lawrence (ECAC)"
       },
       {
         "name": "Sophie Morrow",
         "pk": "morrow|sophia",
         "y": "Fr",
         "pos": "D",
-        "ht": "",
+        "ht": "5-11",
         "home": "Darien",
         "st": "CT",
-        "ctry": "US",
-        "no": "25",
-        "prevSchool": "Shattuck St. Mary's"
+        "ctry": "US"
       },
       {
         "name": "Maddy Christian",
@@ -48011,44 +47986,40 @@
         "home": "Elk River",
         "st": "MN",
         "ctry": "US",
-        "no": "26",
-        "sh": "L",
-        "prevSchool": "Elk River High School"
+        "prevSchool": "Elk River"
       },
       {
         "name": "Danica Maynard",
         "pk": "maynard|danica",
         "y": "Fr",
         "pos": "D",
-        "ht": "",
-        "home": "Osoyoos",
+        "ht": "5-2",
+        "home": "Lake Country",
         "st": "BC",
         "ctry": "Canada",
-        "no": "27"
+        "prevSchool": "Rink HA Kelowna Prep"
       },
       {
         "name": "Mikah Keller",
         "pk": "keller|mikah",
         "y": "Fr",
         "pos": "F",
-        "ht": "",
+        "ht": "5-7",
         "home": "Mosinee",
         "st": "WI",
         "ctry": "US",
-        "no": "28",
-        "prevSchool": "Stevens Point Senior HS"
+        "prevSchool": "North American Hockey Academy"
       },
       {
         "name": "Lauren Hernick",
         "pk": "hernick|lauren",
         "y": "Fr",
         "pos": "G",
-        "ht": "",
+        "ht": "5-3",
         "home": "Frankenmuth",
         "st": "MI",
         "ctry": "US",
-        "no": "32",
-        "prevSchool": "Northville High School"
+        "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
         "name": "Katie DeSa",
@@ -48059,20 +48030,18 @@
         "home": "Pawcatuck",
         "st": "CT",
         "ctry": "US",
-        "no": "35",
-        "sh": "L",
-        "prevSchool": "St. George's School"
+        "prevSchool": "Boston Jr. Eagles"
       },
       {
-        "name": "Madison Campbell",
-        "pk": "campbell|madison",
+        "name": "Maddy Campbell",
+        "pk": "campbell|madeline",
         "y": "Fr",
         "pos": "G",
-        "ht": "",
+        "ht": "5-6",
         "home": "Courtice",
         "st": "ON",
         "ctry": "Canada",
-        "no": "45"
+        "prevSchool": "Durham West"
       }
     ],
     "Post": [
