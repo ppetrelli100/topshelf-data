@@ -977,6 +977,14 @@
     {
       "from": "bonavita|madison",
       "to": "bonavita|madelyn"
+    },
+    {
+      "from": "leaney|madelyn",
+      "to": "leaney|maddie"
+    },
+    {
+      "from": "gaines|madi",
+      "to": "gaines|madison"
     }
   ],
   "pkExceptions": [

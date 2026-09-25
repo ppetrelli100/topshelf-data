@@ -489,7 +489,12 @@
     headerCells.forEach((h, i) => {
       const clean = (h || '').trim();
       for (const { key, re } of LIVE_COLUMN_PATTERNS) {
-        if (re.test(clean)) { colMap[key] = i; break; }
+        if (re.test(clean)) {
+          // Some pages have BOTH "Previous Team" and "Previous School" columns
+          // (Union): keep the first as prev, the second as prev2, so neither is lost.
+          if (key === 'prev' && colMap.prev != null) colMap.prev2 = i; else colMap[key] = i;
+          break;
+        }
       }
     });
     return colMap;
@@ -597,7 +602,11 @@
         home = hp.home; st = hp.st; ctry = hp.ctry;
         prevSchool = hp.prevSchool || prevSchool;
       }
-      if (colMap.prev != null) prevSchool = cleanCell(cells[colMap.prev]) || prevSchool;
+      if (colMap.prev != null) {
+        const pa = cleanCell(cells[colMap.prev]);
+        const pb = colMap.prev2 != null ? cleanCell(cells[colMap.prev2]) : '';
+        prevSchool = (pa && pb) ? pa + ' / ' + pb : (pa || pb || prevSchool);
+      }
       if (colMap.hs != null) hsCell = cleanCell(cells[colMap.hs]) || hsCell;
       // colrosters.json's shape has no separate High School field today --
       // fold it into prevSchool only when the page has NO dedicated Previous
