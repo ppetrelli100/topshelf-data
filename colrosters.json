@@ -67155,7 +67155,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "2",
-        "prevSchool": "Dexter Southfield"
+        "prevSchool": "null"
       },
       {
         "name": "Alaina Dunn",
@@ -67179,7 +67179,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "6",
-        "prevSchool": "Phillips Academy"
+        "prevSchool": "null"
       },
       {
         "name": "Mila Advani",
@@ -67191,7 +67191,7 @@
         "st": "CA",
         "ctry": "US",
         "no": "7",
-        "prevSchool": "Shattuck St. Mary's"
+        "prevSchool": "null"
       },
       {
         "name": "Maxim Tremblay",
@@ -67215,7 +67215,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "9",
-        "prevSchool": "Phillips Academy Andover"
+        "prevSchool": "null"
       },
       {
         "name": "Jansen Lucas",
@@ -67252,7 +67252,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "12",
-        "prevSchool": "Stanstead College"
+        "prevSchool": "null"
       },
       {
         "name": "Jaime Griswold",
@@ -67320,12 +67320,12 @@
         "pk": "klein|jilian",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-9",
+        "ht": "",
         "home": "Cottage Grove",
         "st": "MN",
         "ctry": "US",
         "no": "19",
-        "prevSchool": "Shattuck St. Mary's"
+        "prevSchool": "null"
       },
       {
         "name": "Grace Bickett",
@@ -67349,7 +67349,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "21",
-        "prevSchool": "Dexter Southfield"
+        "prevSchool": "null"
       },
       {
         "name": "Lauren Glaser",
@@ -67373,7 +67373,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "25",
-        "prevSchool": "Holy Trinity Catholic"
+        "prevSchool": "null"
       },
       {
         "name": "Kiera Dempsey",
@@ -67423,7 +67423,7 @@
         "ctry": "US",
         "no": "30",
         "sh": "L",
-        "prevSchool": "CPC NA Elite"
+        "prevSchool": "CPC/NA Elite"
       },
       {
         "name": "Avah Sedore",
@@ -67435,7 +67435,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "74",
-        "prevSchool": "North York"
+        "prevSchool": "null"
       }
     ],
     "RIT": [
