@@ -42959,7 +42959,7 @@
         "ctry": "US",
         "no": "13",
         "sh": "R",
-        "prevSchool": "Bishop Kearney High School"
+        "prevSchool": "Bishop Kearney"
       },
       {
         "name": "Brielle Kelly-Paquet",
@@ -42998,7 +42998,7 @@
         "ctry": "US",
         "no": "17",
         "sh": "L",
-        "prevSchool": "Shattuck-St. Mary's"
+        "prevSchool": "Shattuck- St. Mary's"
       },
       {
         "name": "Maura Fiorenza",
@@ -43023,6 +43023,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "19",
+        "sh": "L",
         "prevSchool": "Sir Robert Borden High School"
       },
       {
@@ -43081,7 +43082,7 @@
         "name": "Meredith Jensen",
         "pk": "jensen|meredith",
         "y": "Sr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-8",
         "home": "Lakeville",
         "st": "MN",
