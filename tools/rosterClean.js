@@ -544,9 +544,16 @@
       if (colMap.prev != null) prevSchool = cleanCell(cells[colMap.prev]) || prevSchool;
       if (colMap.hs != null) hsCell = cleanCell(cells[colMap.hs]) || hsCell;
       // colrosters.json's shape has no separate High School field today --
-      // fold it into prevSchool only when there's nothing else there, so we
-      // don't silently drop a High School column some schools show.
-      if (hsCell && !prevSchool) prevSchool = hsCell;
+      // fold it into prevSchool only when the page has NO dedicated Previous
+      // Team column at all (colMap.prev == null). When a page shows both
+      // columns separately, a blank Previous Team for a given player is a
+      // real fact (came straight from high school hockey, no separate
+      // club/junior team) -- promoting High School into prevSchool in that
+      // case would conflate two different fields and produce a false
+      // "changed" diff (confirmed on Brown's page: Elodie Roy, Bogi
+      // Bahiczki-Toth, Rory Edwards all have a real blank Previous Team
+      // alongside a real High School value).
+      if (hsCell && !prevSchool && colMap.prev == null) prevSchool = hsCell;
 
       const tags = nameTags(rawName);
       if (tags.length) issues.push(`${name}: has a "${tags.join('/')}" tag — ignored for the personkey.`);
