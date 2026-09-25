@@ -188,6 +188,8 @@
       const base = YEAR_MAP[rMatch[1].toLowerCase()] || rMatch[1];
       return 'R-' + base;
     }
+    // "Fifth Year" / "Fifth-Year" / "5th Year" -> the stored 5th.
+    if (/^(fifth|5th)[\s-]*year$/i.test(clean)) return '5th';
     return YEAR_MAP[clean.toLowerCase()] || clean;
   }
 
@@ -276,6 +278,8 @@
       'pq': 'QC', 'quebec': 'QC', 'que': 'QC', 'ont': 'ON', 'alta': 'AB', 'sask': 'SK', 'man': 'MB',
     }).forEach(([a, c]) => { L.ca[a] = c; });
     Object.entries({ 'dc': 'DC', 'd c': 'DC', 'washington dc': 'DC', 'district of columbia': 'DC' }).forEach(([a, c]) => { L.us[a] = c; });
+    // Longer AP-style spellings some sites use ("Wisc.", "Penn.", "Ida.", "Tex.").
+    Object.entries({ 'wisc': 'WI', 'penn': 'PA', 'ida': 'ID', 'tex': 'TX' }).forEach(([a, c]) => { L.us[a] = c; });
     Object.keys(CA_FULL_TO_ABBR).forEach(n => { L.ca[k(n)] = CA_FULL_TO_ABBR[n]; });
     L.k = k;
     return (_regionLookup = L);
