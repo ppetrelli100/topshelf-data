@@ -53151,7 +53151,7 @@
       {
         "name": "Brigitte McGuire",
         "pk": "mcguire|brigitte",
-        "y": "So",
+        "y": "Jr",
         "pos": "D",
         "ht": "5-6",
         "home": "Stamford",
@@ -53159,7 +53159,7 @@
         "ctry": "US",
         "no": "4",
         "sh": "L",
-        "prevSchool": "Shattuck-St. Mary's"
+        "prevSchool": "University of Connecticut (HEA)"
       },
       {
         "name": "Quinn Dunkle",
@@ -53172,7 +53172,7 @@
         "ctry": "US",
         "no": "5",
         "sh": "R",
-        "prevSchool": "North American Hockey Academy"
+        "prevSchool": "University of Minnesota Duluth (WCHA)"
       },
       {
         "name": "Megan Ognibene",
@@ -53224,11 +53224,11 @@
         "ctry": "Canada",
         "no": "11",
         "sh": "R",
-        "prevSchool": "RINK Hockey Academy Kelowna (CSSHL)"
+        "prevSchool": "Boston University (HEA)"
       },
       {
-        "name": "Peyton O'Neil",
-        "pk": "oneil|peyton",
+        "name": "Peyton O'Neill",
+        "pk": "oneill|peyton",
         "y": "So",
         "pos": "D",
         "ht": "5-6",
@@ -53237,7 +53237,7 @@
         "ctry": "US",
         "no": "13",
         "sh": "L",
-        "prevSchool": "Chicago Mission"
+        "prevSchool": "Long Island University"
       },
       {
         "name": "Hayley Kelleher",
@@ -53250,15 +53250,15 @@
         "ctry": "US",
         "no": "14",
         "sh": "L",
-        "prevSchool": "Lovell Academy"
+        "prevSchool": "Clarkson University (ECACH)"
       },
       {
         "name": "Emma Fulawka",
         "pk": "fulawka|emma",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-4",
-        "home": "Etobicoke",
+        "ht": "5-5",
+        "home": "Stouffville",
         "st": "ON",
         "ctry": "Canada",
         "no": "16",
@@ -53276,7 +53276,7 @@
         "ctry": "Canada",
         "no": "17",
         "sh": "L",
-        "prevSchool": "Durham West Lightning (OWHL)"
+        "prevSchool": "Durham Lightning (OWHL)"
       },
       {
         "name": "Maddie Leaney",
@@ -53302,7 +53302,7 @@
         "ctry": "US",
         "no": "20",
         "sh": "R",
-        "prevSchool": "Loomis Chafee"
+        "prevSchool": "Loomis Chaffee"
       },
       {
         "name": "Klara Kenttala",
@@ -53311,7 +53311,7 @@
         "pos": "F",
         "ht": "5-7",
         "home": "Stockholm",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "21",
         "sh": "L",
@@ -53323,25 +53323,25 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Northbrook",
-        "st": "IL",
+        "home": "Prior Lake",
+        "st": "MN",
         "ctry": "US",
         "no": "22",
         "sh": "L",
-        "prevSchool": "Chicago Young"
+        "prevSchool": "Chicago Young Americans"
       },
       {
         "name": "Kaitlyn Toner",
         "pk": "toner|kaitlyn",
         "y": "Fr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-10",
         "home": "Aurora",
         "st": "ON",
         "ctry": "Canada",
         "no": "23",
         "sh": "R",
-        "prevSchool": "Toronto Jr. Aeros (OWHL)"
+        "prevSchool": "Toronto Aeros (OWHL)"
       },
       {
         "name": "Megan Duplantie",
@@ -53380,12 +53380,12 @@
         "ctry": "Canada",
         "no": "26",
         "sh": "L",
-        "prevSchool": "Stanstead College"
+        "prevSchool": "Stanstead College (JWHL)"
       },
       {
         "name": "Mallory Mauracher",
         "pk": "mauracher|mallory",
-        "y": "Gr",
+        "y": "Sr",
         "pos": "F",
         "ht": "5-7",
         "home": "Celina",
@@ -53393,7 +53393,7 @@
         "ctry": "US",
         "no": "28",
         "sh": "L",
-        "prevSchool": "Pittsburgh Penguins Elite"
+        "prevSchool": "Quinnipiac University (ECAC)"
       },
       {
         "name": "Monja Wagner",
@@ -53402,7 +53402,7 @@
         "pos": "G",
         "ht": "5-5",
         "home": "Romanshorn",
-        "st": "SWITZERLAND",
+        "st": "Switzerland",
         "ctry": "Europe",
         "no": "29",
         "sh": "R",
