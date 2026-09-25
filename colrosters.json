@@ -61888,7 +61888,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "4",
-        "prevSchool": "Etobicoke Jr. Dolphins"
+        "prevSchool": "Ursuline College Chatham"
       },
       {
         "name": "Brooke Harb",
@@ -61912,7 +61912,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
-        "prevSchool": "Nepean Wildcats (OWHA)"
+        "prevSchool": "St. Thomas Aquinas Catholic"
       },
       {
         "name": "Julie Morrison",
@@ -61949,6 +61949,18 @@
         "ctry": "US",
         "no": "10",
         "prevSchool": "Bishop Kearney"
+      },
+      {
+        "name": "Alex Mitsakis",
+        "pk": "mitsakis|alexandra",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Winchester",
+        "st": "MA",
+        "ctry": "US",
+        "no": "11",
+        "prevSchool": "Dexter Southfield"
       },
       {
         "name": "Ella Nonweiler",
@@ -62035,18 +62047,6 @@
         "prevSchool": "Academy of Holy Angels"
       },
       {
-        "name": "Alex Mitsakis",
-        "pk": "mitsakis|alexandra",
-        "y": "Fr",
-        "pos": "F",
-        "ht": "5-6",
-        "home": "Winchester",
-        "st": "MA",
-        "ctry": "US",
-        "no": "22",
-        "prevSchool": "Boston Jr. Eagles"
-      },
-      {
         "name": "Seina Spadone",
         "pk": "spadone|seina",
         "y": "Jr",
@@ -62068,7 +62068,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
-        "prevSchool": "Central York Panthers (OWHL)"
+        "prevSchool": "Ajax"
       },
       {
         "name": "Nicole Schumm",
@@ -62104,7 +62104,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "61",
-        "prevSchool": "Toronto Junior Aeros"
+        "prevSchool": "Ajax"
       },
       {
         "name": "Maria Duffer",
@@ -62116,7 +62116,7 @@
         "st": "IL",
         "ctry": "US",
         "no": "67",
-        "prevSchool": "Team Illinois"
+        "prevSchool": "Rolling Meadows"
       },
       {
         "name": "Kyana Mitchell",
@@ -62140,7 +62140,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "88",
-        "prevSchool": "Etobicoke Jr. Dolphins"
+        "prevSchool": "St. Marcellinus Secondary School"
       }
     ],
     "Syracuse": [
