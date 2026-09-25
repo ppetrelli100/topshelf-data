@@ -53151,7 +53151,7 @@
       {
         "name": "Brigitte McGuire",
         "pk": "mcguire|brigitte",
-        "y": "So",
+        "y": "Jr",
         "pos": "D",
         "ht": "5-6",
         "home": "Stamford",
@@ -53159,7 +53159,7 @@
         "ctry": "US",
         "no": "4",
         "sh": "L",
-        "prevSchool": "Shattuck-St. Mary's"
+        "prevSchool": "University of Connecticut (HEA)"
       },
       {
         "name": "Quinn Dunkle",
@@ -53172,7 +53172,7 @@
         "ctry": "US",
         "no": "5",
         "sh": "R",
-        "prevSchool": "North American Hockey Academy"
+        "prevSchool": "University of Minnesota Duluth (WCHA)"
       },
       {
         "name": "Megan Ognibene",
@@ -53224,11 +53224,11 @@
         "ctry": "Canada",
         "no": "11",
         "sh": "R",
-        "prevSchool": "RINK Hockey Academy Kelowna (CSSHL)"
+        "prevSchool": "Boston University (HEA)"
       },
       {
-        "name": "Peyton O'Neil",
-        "pk": "oneil|peyton",
+        "name": "Peyton O'Neill",
+        "pk": "oneill|peyton",
         "y": "So",
         "pos": "D",
         "ht": "5-6",
@@ -53237,7 +53237,7 @@
         "ctry": "US",
         "no": "13",
         "sh": "L",
-        "prevSchool": "Chicago Mission"
+        "prevSchool": "Long Island University"
       },
       {
         "name": "Hayley Kelleher",
@@ -53250,15 +53250,15 @@
         "ctry": "US",
         "no": "14",
         "sh": "L",
-        "prevSchool": "Lovell Academy"
+        "prevSchool": "Clarkson University (ECACH)"
       },
       {
         "name": "Emma Fulawka",
         "pk": "fulawka|emma",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-4",
-        "home": "Etobicoke",
+        "ht": "5-5",
+        "home": "Stouffville",
         "st": "ON",
         "ctry": "Canada",
         "no": "16",
@@ -53276,7 +53276,7 @@
         "ctry": "Canada",
         "no": "17",
         "sh": "L",
-        "prevSchool": "Durham West Lightning (OWHL)"
+        "prevSchool": "Durham Lightning (OWHL)"
       },
       {
         "name": "Maddie Leaney",
@@ -53302,7 +53302,7 @@
         "ctry": "US",
         "no": "20",
         "sh": "R",
-        "prevSchool": "Loomis Chafee"
+        "prevSchool": "Loomis Chaffee"
       },
       {
         "name": "Klara Kenttala",
@@ -53311,7 +53311,7 @@
         "pos": "F",
         "ht": "5-7",
         "home": "Stockholm",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "21",
         "sh": "L",
@@ -53323,25 +53323,25 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Northbrook",
-        "st": "IL",
+        "home": "Prior Lake",
+        "st": "MN",
         "ctry": "US",
         "no": "22",
         "sh": "L",
-        "prevSchool": "Chicago Young"
+        "prevSchool": "Chicago Young Americans"
       },
       {
         "name": "Kaitlyn Toner",
         "pk": "toner|kaitlyn",
         "y": "Fr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-10",
         "home": "Aurora",
         "st": "ON",
         "ctry": "Canada",
         "no": "23",
         "sh": "R",
-        "prevSchool": "Toronto Jr. Aeros (OWHL)"
+        "prevSchool": "Toronto Aeros (OWHL)"
       },
       {
         "name": "Megan Duplantie",
@@ -53380,12 +53380,12 @@
         "ctry": "Canada",
         "no": "26",
         "sh": "L",
-        "prevSchool": "Stanstead College"
+        "prevSchool": "Stanstead College (JWHL)"
       },
       {
         "name": "Mallory Mauracher",
         "pk": "mauracher|mallory",
-        "y": "Gr",
+        "y": "Sr",
         "pos": "F",
         "ht": "5-7",
         "home": "Celina",
@@ -53393,7 +53393,7 @@
         "ctry": "US",
         "no": "28",
         "sh": "L",
-        "prevSchool": "Pittsburgh Penguins Elite"
+        "prevSchool": "Quinnipiac University (ECAC)"
       },
       {
         "name": "Monja Wagner",
@@ -53402,7 +53402,7 @@
         "pos": "G",
         "ht": "5-5",
         "home": "Romanshorn",
-        "st": "SWITZERLAND",
+        "st": "Switzerland",
         "ctry": "Europe",
         "no": "29",
         "sh": "R",
@@ -61888,7 +61888,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "4",
-        "prevSchool": "Etobicoke Jr. Dolphins"
+        "prevSchool": "Ursuline College Chatham"
       },
       {
         "name": "Brooke Harb",
@@ -61912,7 +61912,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
-        "prevSchool": "Nepean Wildcats (OWHA)"
+        "prevSchool": "St. Thomas Aquinas Catholic"
       },
       {
         "name": "Julie Morrison",
@@ -61949,6 +61949,18 @@
         "ctry": "US",
         "no": "10",
         "prevSchool": "Bishop Kearney"
+      },
+      {
+        "name": "Alex Mitsakis",
+        "pk": "mitsakis|alexandra",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-6",
+        "home": "Winchester",
+        "st": "MA",
+        "ctry": "US",
+        "no": "11",
+        "prevSchool": "Dexter Southfield"
       },
       {
         "name": "Ella Nonweiler",
@@ -62035,18 +62047,6 @@
         "prevSchool": "Academy of Holy Angels"
       },
       {
-        "name": "Alex Mitsakis",
-        "pk": "mitsakis|alexandra",
-        "y": "Fr",
-        "pos": "F",
-        "ht": "5-6",
-        "home": "Winchester",
-        "st": "MA",
-        "ctry": "US",
-        "no": "22",
-        "prevSchool": "Boston Jr. Eagles"
-      },
-      {
         "name": "Seina Spadone",
         "pk": "spadone|seina",
         "y": "Jr",
@@ -62068,7 +62068,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
-        "prevSchool": "Central York Panthers (OWHL)"
+        "prevSchool": "Ajax"
       },
       {
         "name": "Nicole Schumm",
@@ -62104,7 +62104,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "61",
-        "prevSchool": "Toronto Junior Aeros"
+        "prevSchool": "Ajax"
       },
       {
         "name": "Maria Duffer",
@@ -62116,7 +62116,7 @@
         "st": "IL",
         "ctry": "US",
         "no": "67",
-        "prevSchool": "Team Illinois"
+        "prevSchool": "Rolling Meadows"
       },
       {
         "name": "Kyana Mitchell",
@@ -62140,7 +62140,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "88",
-        "prevSchool": "Etobicoke Jr. Dolphins"
+        "prevSchool": "St. Marcellinus Secondary School"
       }
     ],
     "Syracuse": [
@@ -63365,7 +63365,9 @@
         "home": "Lacombe",
         "st": "AB",
         "ctry": "Canada",
-        "no": "1"
+        "no": "1",
+        "sh": "R",
+        "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Evie Hanson",
@@ -63376,7 +63378,9 @@
         "home": "Calgary",
         "st": "AB",
         "ctry": "Canada",
-        "no": "3"
+        "no": "3",
+        "sh": "R",
+        "prevSchool": "Edmonton Jr. Oilers (AFHL)"
       },
       {
         "name": "Quinn Dunkle",
@@ -63387,7 +63391,9 @@
         "home": "Cedar Rapids",
         "st": "IA",
         "ctry": "US",
-        "no": "5"
+        "no": "5",
+        "sh": "R",
+        "prevSchool": "University of Minnesota Duluth (WCHA)"
       },
       {
         "name": "Megan Ognibene",
@@ -63398,7 +63404,9 @@
         "home": "West Berlin",
         "st": "VT",
         "ctry": "US",
-        "no": "6"
+        "no": "6",
+        "sh": "R",
+        "prevSchool": "North American Hockey Academy (JWHL)"
       },
       {
         "name": "Giavanna Mancy",
@@ -63409,7 +63417,9 @@
         "home": "Toledo",
         "st": "OH",
         "ctry": "US",
-        "no": "7"
+        "no": "7",
+        "sh": "L",
+        "prevSchool": "Shattuck-St. Mary's"
       },
       {
         "name": "Madison Macaulay",
@@ -63421,7 +63431,8 @@
         "st": "NY",
         "ctry": "US",
         "no": "8",
-        "prevSchool": "Saint Anselm"
+        "sh": "R",
+        "prevSchool": "Saint Anselm College (NEWHA)"
       },
       {
         "name": "Lily Leckelt",
@@ -63432,7 +63443,9 @@
         "home": "Sherwood Park",
         "st": "AB",
         "ctry": "Canada",
-        "no": "10"
+        "no": "10",
+        "sh": "L",
+        "prevSchool": "Edmonton Jr. Oilers (AFHL)"
       },
       {
         "name": "Hayley Kelleher",
@@ -63443,7 +63456,9 @@
         "home": "Natick",
         "st": "MA",
         "ctry": "US",
-        "no": "11"
+        "no": "11",
+        "sh": "L",
+        "prevSchool": "Clarkson University (ECACH)"
       },
       {
         "name": "Lily Oster",
@@ -63454,7 +63469,9 @@
         "home": "Calgary",
         "st": "AB",
         "ctry": "Canada",
-        "no": "12"
+        "no": "12",
+        "sh": "L",
+        "prevSchool": "Calgary Red Fire (AFHL)"
       },
       {
         "name": "Peyton O'Neill",
@@ -63465,7 +63482,9 @@
         "home": "Hinsdale",
         "st": "IL",
         "ctry": "US",
-        "no": "13"
+        "no": "13",
+        "sh": "L",
+        "prevSchool": "Long Island University"
       },
       {
         "name": "Emma Fulawka",
@@ -63476,7 +63495,9 @@
         "home": "Stouffville",
         "st": "ON",
         "ctry": "Canada",
-        "no": "16"
+        "no": "16",
+        "sh": "L",
+        "prevSchool": "Mississauga Hurricanes (OWHA)"
       },
       {
         "name": "Karianne Engelbert",
@@ -63487,7 +63508,9 @@
         "home": "Whitby",
         "st": "ON",
         "ctry": "Canada",
-        "no": "17"
+        "no": "17",
+        "sh": "L",
+        "prevSchool": "Durham Lightning (OWHL)"
       },
       {
         "name": "Maddie Leaney",
@@ -63498,7 +63521,9 @@
         "home": "Maple Ridge",
         "st": "BC",
         "ctry": "Canada",
-        "no": "19"
+        "no": "19",
+        "sh": "L",
+        "prevSchool": "RINK Hockey Academy Kelowna (CSSHL)"
       },
       {
         "name": "Klara Kenttala",
@@ -63509,7 +63534,9 @@
         "home": "Stockholm",
         "st": "Sweden",
         "ctry": "Europe",
-        "no": "21"
+        "no": "21",
+        "sh": "L",
+        "prevSchool": "Lulea HF (SDHL)"
       },
       {
         "name": "Madi Gaines",
@@ -63520,7 +63547,9 @@
         "home": "Frankfort",
         "st": "IL",
         "ctry": "US",
-        "no": "22"
+        "no": "22",
+        "sh": "L",
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Kaitlyn Toner",
@@ -63531,7 +63560,9 @@
         "home": "Aurora",
         "st": "ON",
         "ctry": "Canada",
-        "no": "23"
+        "no": "23",
+        "sh": "R",
+        "prevSchool": "Toronto Aeros (OWHL)"
       },
       {
         "name": "Megan Duplantie",
@@ -63542,7 +63573,9 @@
         "home": "Laval",
         "st": "QC",
         "ctry": "Canada",
-        "no": "24"
+        "no": "24",
+        "sh": "L",
+        "prevSchool": "Connecticut Polar Bears"
       },
       {
         "name": "Isabel Powers",
@@ -63553,7 +63586,9 @@
         "home": "Scottsdale",
         "st": "AZ",
         "ctry": "US",
-        "no": "25"
+        "no": "25",
+        "sh": "L",
+        "prevSchool": "Lovell Academy"
       },
       {
         "name": "Monja Wagner",
@@ -63564,7 +63599,9 @@
         "home": "Romanshorn",
         "st": "Switzerland",
         "ctry": "Europe",
-        "no": "29"
+        "no": "29",
+        "sh": "R",
+        "prevSchool": "Shattuck-St. Mary's"
       },
       {
         "name": "Sara Da Silva",
@@ -63575,7 +63612,9 @@
         "home": "Toronto",
         "st": "ON",
         "ctry": "Canada",
-        "no": "30"
+        "no": "30",
+        "sh": "L",
+        "prevSchool": "Toronto Leaside Wildcats (OWHL)"
       },
       {
         "name": "Emma Rheaume",
@@ -63586,7 +63625,9 @@
         "home": "Neuville",
         "st": "QC",
         "ctry": "Canada",
-        "no": "35"
+        "no": "35",
+        "sh": "L",
+        "prevSchool": "Cegep Limoilou Titans (QCHL)"
       },
       {
         "name": "Reanna Loberg",
@@ -63597,7 +63638,9 @@
         "home": "Grande Prairie",
         "st": "AB",
         "ctry": "Canada",
-        "no": "41"
+        "no": "41",
+        "sh": "L",
+        "prevSchool": "Edmonton Jr. Oilers (AFHL)"
       },
       {
         "name": "Ella Skotty",
@@ -63608,7 +63651,9 @@
         "home": "Elmhurst",
         "st": "IL",
         "ctry": "US",
-        "no": "61"
+        "no": "61",
+        "sh": "R",
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Jill Willis",
@@ -63619,7 +63664,9 @@
         "home": "South Glens Falls",
         "st": "NY",
         "ctry": "US",
-        "no": "91"
+        "no": "91",
+        "sh": "R",
+        "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Natalie Andelova",
@@ -63630,7 +63677,9 @@
         "home": "Laveen Village",
         "st": "AZ",
         "ctry": "US",
-        "no": "92"
+        "no": "92",
+        "sh": "L",
+        "prevSchool": "Gilmour Academy"
       }
     ],
     "St. Lawrence": [
