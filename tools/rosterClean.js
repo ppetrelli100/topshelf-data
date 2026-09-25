@@ -178,7 +178,7 @@
     'jr': 'Jr', 'junior': 'Jr', '3rd': 'Jr',
     'sr': 'Sr', 'senior': 'Sr', '4th': 'Sr',
     '5th': '5th', 'fifth': '5th', 'super senior': '5th', '5th year': '5th',
-    'gr': 'Gr', 'grad': 'Gr', 'graduate': 'Gr',
+    'gr': 'Gr', 'grad': 'Gr', 'graduate': 'Gr', 'graduate student': 'Gr', 'grad student': 'Gr', 'grad. student': 'Gr', 'graduate st': 'Gr',
   };
   function normalizeYear(y) {
     const clean = (y || '').replace(/\.$/, '').trim();
