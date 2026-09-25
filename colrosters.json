@@ -40669,7 +40669,7 @@
         "ctry": "US",
         "no": "1",
         "sh": "L",
-        "prevSchool": "Centennial/Spring Lake Park HS"
+        "prevSchool": "Centennial HS"
       },
       {
         "name": "Senja Leeper",
@@ -40682,7 +40682,7 @@
         "ctry": "US",
         "no": "2",
         "sh": "R",
-        "prevSchool": "Minnetonka High School"
+        "prevSchool": "Minnetonka HS"
       },
       {
         "name": "Olivia Dronen",
@@ -40707,7 +40707,8 @@
         "st": "WA",
         "ctry": "US",
         "no": "4",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Shawnigan Lake School"
       },
       {
         "name": "Ana Davis",
@@ -40746,7 +40747,7 @@
         "ctry": "US",
         "no": "7",
         "sh": "R",
-        "prevSchool": "Hill-murray School"
+        "prevSchool": "Hill-Murray HS"
       },
       {
         "name": "Avery Achterkirch",
@@ -40764,7 +40765,7 @@
       {
         "name": "Isa Goettl",
         "pk": "goettl|isabelle",
-        "y": "So",
+        "y": "R-So",
         "pos": "F",
         "ht": "5-1",
         "home": "Andover",
@@ -40772,7 +40773,7 @@
         "ctry": "US",
         "no": "9",
         "sh": "L",
-        "prevSchool": "Andover"
+        "prevSchool": "NCAA-Minnesota"
       },
       {
         "name": "Raeley Carney",
@@ -40793,12 +40794,12 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Minnetonka",
-        "st": "MN",
+        "home": "Jackson Hole",
+        "st": "WY",
         "ctry": "US",
         "no": "11",
         "sh": "R",
-        "prevSchool": "Benilde-st Margaret's School"
+        "prevSchool": "Benilde-St. Margaret's"
       },
       {
         "name": "Paige Smith",
@@ -40811,7 +40812,7 @@
         "ctry": "Canada",
         "no": "12",
         "sh": "R",
-        "prevSchool": "Alberta Schools"
+        "prevSchool": "Edmonton Jr. Oilers"
       },
       {
         "name": "Talya Hendrickson",
@@ -40837,7 +40838,7 @@
         "ctry": "US",
         "no": "14",
         "sh": "L",
-        "prevSchool": "Warroad, HS"
+        "prevSchool": "Warroad HS"
       },
       {
         "name": "Shelby Sandberg",
@@ -40859,13 +40860,14 @@
         "pos": "D",
         "ht": "5-5",
         "home": "Ingolstadt",
-        "st": "GERMANY",
+        "st": "Germany",
         "ctry": "Europe",
         "no": "17",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "ZHK Sarisanka Presov"
       },
       {
-        "name": "Madison Kaiser",
+        "name": "Maddie Kaiser",
         "pk": "kaiser|madisonbsu",
         "y": "Fr",
         "pos": "F",
@@ -40874,7 +40876,8 @@
         "st": "MB",
         "ctry": "Canada",
         "no": "19",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Balmoral Hall Prep"
       },
       {
         "name": "Elly Klepinger",
@@ -40887,7 +40890,7 @@
         "ctry": "US",
         "no": "20",
         "sh": "L",
-        "prevSchool": "Minnetonka High School"
+        "prevSchool": "NCAA-Minnesota"
       },
       {
         "name": "Morgan Smith",
@@ -40900,7 +40903,7 @@
         "ctry": "Canada",
         "no": "21",
         "sh": "L",
-        "prevSchool": "Balmoral Hall"
+        "prevSchool": "Balmoral Hall Prep"
       },
       {
         "name": "Autumn Cooper",
@@ -40933,13 +40936,13 @@
         "pk": "comstock|katy",
         "y": "Fr",
         "pos": "D",
-        "ht": "5-1",
-        "home": "Salol",
+        "ht": "5-0",
+        "home": "Warroad",
         "st": "MN",
         "ctry": "US",
         "no": "26",
         "sh": "L",
-        "prevSchool": "Warroad High School"
+        "prevSchool": "Warroad HS"
       },
       {
         "name": "Carmen Bray",
@@ -40952,7 +40955,7 @@
         "ctry": "Canada",
         "no": "27",
         "sh": "L",
-        "prevSchool": "George Elliot Secondary"
+        "prevSchool": "NCAA-St. Cloud State"
       },
       {
         "name": "Hailey Armstrong",
@@ -40964,7 +40967,8 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "29",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "RINK Hockey Academy-Kelowna"
       },
       {
         "name": "Eva Filippova",
@@ -40973,10 +40977,11 @@
         "pos": "G",
         "ht": "5-5",
         "home": "Khanty-Mansiysk",
-        "st": "RUSSIA",
+        "st": "Russia",
         "ctry": "Europe",
         "no": "30",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "RINK Hockey Academy-Kelowna"
       },
       {
         "name": "Ava Hills",
@@ -40989,7 +40994,7 @@
         "ctry": "US",
         "no": "33",
         "sh": "L",
-        "prevSchool": "Pembroke Academy"
+        "prevSchool": "NCAA-Saint Anselm"
       },
       {
         "name": "Ashlyn Hazlett",
@@ -41002,7 +41007,7 @@
         "ctry": "US",
         "no": "35",
         "sh": "L",
-        "prevSchool": "Minnetonka High School"
+        "prevSchool": "Minnetonka HS"
       }
     ],
     "Boston College": [
