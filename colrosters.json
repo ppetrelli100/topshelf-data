@@ -43131,8 +43131,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "1",
-        "sh": "L",
-        "prevSchool": "Unionville"
+        "prevSchool": "Philadelphia Jr. Flyers / Northeastern"
       },
       {
         "name": "Lexie Lonask",
@@ -43143,22 +43142,18 @@
         "home": "Chandler",
         "st": "AZ",
         "ctry": "US",
-        "no": "2",
-        "sh": "R",
-        "prevSchool": "Shattuck-Saint Mary's School"
+        "no": "2"
       },
       {
-        "name": "Maddie Bonavita",
-        "pk": "bonavita|madelyn",
+        "name": "Madison Bonavita",
+        "pk": "bonavita|madison",
         "y": "Fr",
         "pos": "F",
-        "ht": "6-1",
+        "ht": "6-0",
         "home": "Longmeadow",
         "st": "MA",
         "ctry": "US",
-        "no": "3",
-        "sh": "L",
-        "prevSchool": "Milton Academy"
+        "no": "3"
       },
       {
         "name": "Tiana McIntyre",
@@ -43170,8 +43165,7 @@
         "st": "UT",
         "ctry": "US",
         "no": "4",
-        "sh": "R",
-        "prevSchool": "Park City"
+        "prevSchool": "Pittsburgh Penguins Elite / Quinnipiac"
       },
       {
         "name": "Emma MacIntyre",
@@ -43182,9 +43176,7 @@
         "home": "Halifax",
         "st": "NS",
         "ctry": "Canada",
-        "no": "5",
-        "sh": "R",
-        "prevSchool": "Stanstead College"
+        "no": "5"
       },
       {
         "name": "Kacey Blum",
@@ -43192,12 +43184,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Mclean",
+        "home": "McLean",
         "st": "VA",
         "ctry": "US",
         "no": "6",
-        "sh": "R",
-        "prevSchool": "Mclean High School"
+        "prevSchool": "Washington Pride"
       },
       {
         "name": "Victoria Borg",
@@ -43209,8 +43200,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "8",
-        "sh": "L",
-        "prevSchool": "Blyth Academy"
+        "prevSchool": "Brampton Canadettes U22"
       },
       {
         "name": "Bailey Gray",
@@ -43222,8 +43212,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "9",
-        "sh": "L",
-        "prevSchool": "Benilde-St. Margaret's School"
+        "prevSchool": "MN OS/WhiteCaps"
       },
       {
         "name": "Danica Mark",
@@ -43235,11 +43224,10 @@
         "st": "MN",
         "ctry": "US",
         "no": "10",
-        "sh": "R",
-        "prevSchool": "Duluth Marshall School"
+        "prevSchool": "Union College"
       },
       {
-        "name": "Charlotte Voge",
+        "name": "Charlie Voge",
         "pk": "voge|charlotte",
         "y": "Fr",
         "pos": "F",
@@ -43248,8 +43236,7 @@
         "st": "WI",
         "ctry": "US",
         "no": "11",
-        "sh": "R",
-        "prevSchool": "St. Paul's School"
+        "prevSchool": "Boston Jr. Eagles"
       },
       {
         "name": "Kaitlin Finnegan",
@@ -43261,8 +43248,7 @@
         "st": "KS",
         "ctry": "US",
         "no": "13",
-        "sh": "R",
-        "prevSchool": "Kansas Connections Academy"
+        "prevSchool": "Dallas Stars Elite / Lindenwood"
       },
       {
         "name": "Wren Abboud",
@@ -43274,21 +43260,19 @@
         "st": "MA",
         "ctry": "US",
         "no": "15",
-        "sh": "L",
-        "prevSchool": "Thayer Academy"
+        "prevSchool": "Boston Advantage / Bay State Breakers"
       },
       {
         "name": "Eva Mayo",
         "pk": "mayo|eva",
         "y": "Fr",
-        "pos": "F",
+        "pos": "F/D",
         "ht": "5-6",
         "home": "Honeoye Falls",
         "st": "NY",
         "ctry": "US",
         "no": "16",
-        "sh": "R",
-        "prevSchool": "NY Kent School"
+        "prevSchool": "Mid-Fairfield Stars"
       },
       {
         "name": "Suvina Heidt",
@@ -43300,8 +43284,7 @@
         "st": "CO",
         "ctry": "US",
         "no": "17",
-        "sh": "R",
-        "prevSchool": "Winchendon School"
+        "prevSchool": "North American Hockey Academy"
       },
       {
         "name": "Francesca Barresi",
@@ -43313,8 +43296,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "18",
-        "sh": "R",
-        "prevSchool": "St. Joseph Catholic"
+        "prevSchool": "Ottawa Lady Jr. Sens U22"
       },
       {
         "name": "Katelynn Charlton",
@@ -43326,8 +43308,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "19",
-        "sh": "L",
-        "prevSchool": "St. Martins Catholic Secondary"
+        "prevSchool": "Burlington Barracudas U22"
       },
       {
         "name": "Meera Smith",
@@ -43338,9 +43319,7 @@
         "home": "Victoria",
         "st": "BC",
         "ctry": "Canada",
-        "no": "20",
-        "sh": "R",
-        "prevSchool": "Shawnigan Lake School"
+        "no": "20"
       },
       {
         "name": "Billi Roman",
@@ -43352,8 +43331,7 @@
         "st": "DE",
         "ctry": "US",
         "no": "21",
-        "sh": "L",
-        "prevSchool": "The Tatnall School"
+        "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
         "name": "Taylor Schooley",
@@ -43365,8 +43343,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "24",
-        "sh": "L",
-        "prevSchool": "Moon Area High School"
+        "prevSchool": "Pittsburgh Penguins Elite / Philadelphia Jr. Flyers"
       },
       {
         "name": "Ida Haave",
@@ -43375,11 +43352,10 @@
         "pos": "F",
         "ht": "5-6",
         "home": "Kristiansand",
-        "st": "NORWAY",
+        "st": "Norway",
         "ctry": "Europe",
         "no": "27",
-        "sh": "L",
-        "prevSchool": "Norges Toppidrettsgymnas Lillehammer"
+        "prevSchool": "Norway National Team"
       },
       {
         "name": "Charlotte Payne",
@@ -43391,21 +43367,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "31",
-        "sh": "L",
-        "prevSchool": "Abbey Park"
-      },
-      {
-        "name": "Sydney Butler",
-        "pk": "butler|sydney",
-        "y": "Sr",
-        "pos": "G",
-        "ht": "5-6",
-        "home": "Darien",
-        "st": "CT",
-        "ctry": "US",
-        "no": "35",
-        "sh": "R",
-        "prevSchool": "Academy Info Tech Engineering"
+        "prevSchool": "Oakville Jr. Hornets"
       }
     ],
     "Franklin Pierce": [
