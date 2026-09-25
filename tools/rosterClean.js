@@ -495,12 +495,34 @@
     return colMap;
   }
 
+  // Some Sidearm sites (Clarkson 2025-26) split the roster: the visible table
+  // has every column EXCEPT the name, and the names live in a separate
+  // player list (<li class="sidearm-roster-player">) with the jersey number
+  // beside each. Returns { jerseyNumber: 'Full Name' } from that list.
+  function namesByJerseyFromPlayerList(html) {
+    const out = {};
+    const chunks = String(html || '').split(/<li[^>]*class="[^"]*sidearm-roster-player[\s"][^>]*>/i).slice(1);
+    for (const c of chunks) {
+      const nm = c.match(/aria-label="([^"]+?)\s+-\s+View Profile"/i);
+      const jn = c.match(/sidearm-roster-player-jersey-number[^>]*>\s*([^<\s][^<]*?)\s*</i);
+      if (!nm || !jn) continue;
+      const no = jn[1].trim(), name = stripHtmlTags(nm[1]);
+      if (no && !(no in out)) out[no] = name;
+    }
+    return out;
+  }
+
   function colMapScore(colMap) {
     // Same bar updates.html uses for a pasted table: need Name plus at
     // least 2 more recognizable columns, or this isn't the roster table
     // (rules out a school's coaching-staff or schedule table on the same
     // page, which have different headers).
-    return colMap.name != null ? Object.keys(colMap).length : 0;
+    if (colMap.name != null) return Object.keys(colMap).length;
+    // Nameless roster table (names are in the page's player list instead):
+    // needs the jersey column to pair with, plus position or height, and
+    // enough other columns that it can't be a schedule or staff table.
+    const n = Object.keys(colMap).length;
+    return (colMap.no != null && (colMap.pos != null || colMap.ht != null) && n >= 4) ? n : 0;
   }
 
   // Splits "Plymouth, MA / Bishop Feehan" into its two halves, the way a
@@ -535,9 +557,14 @@
     const colMap = bestColMap;
     const players = [];
     const issues = [];
+    const nameByNo = colMap.name == null ? namesByJerseyFromPlayerList(html) : null;
+    if (nameByNo && !Object.keys(nameByNo).length) {
+      return { players: [], issues: ['The roster table has no Name column and the page has no player list to take names from.'], fieldsAvailable: [] };
+    }
     for (let r = 1; r < best.length; r++) {
       const cells = best[r];
-      const rawName = colMap.name != null ? cells[colMap.name] : '';
+      const rawName = colMap.name != null ? cells[colMap.name]
+        : (nameByNo[cleanCell(colMap.no != null ? cells[colMap.no] : '')] || '');
       if (!rawName) continue; // a blank/section-divider row
       const nameNoPronounce = stripPronounce(rawName);
       // Unaccent to match the storage convention used everywhere else in
