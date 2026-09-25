@@ -516,7 +516,12 @@
       const rawName = colMap.name != null ? cells[colMap.name] : '';
       if (!rawName) continue; // a blank/section-divider row
       const nameNoPronounce = stripPronounce(rawName);
-      const name = stripNameTags(nameNoPronounce); // store the clean name; the tag is still flagged below
+      // Unaccent to match the storage convention used everywhere else in
+      // colrosters.json (see parseHometown above) -- otherwise a page that
+      // renders a player's name with its native diacritics (e.g. "Hesová")
+      // shows up as a spurious "name changed" diff against the existing
+      // unaccented record ("Hesova") on every single validate run.
+      const name = unaccent(stripNameTags(nameNoPronounce)); // store the clean name; the tag is still flagged below
       const pk = applyPkException(makePersonKey(nameNoPronounce), opts.school);
 
       const y = colMap.year != null ? normalizeYear(cells[colMap.year]) : '';
