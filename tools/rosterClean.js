@@ -310,6 +310,12 @@
     const RL = regionLookup(), rk = RL.k(regionRaw);
     if (RL.us[rk]) return { home, st: RL.us[rk], ctry: 'US', prevSchool };
     if (RL.ca[rk]) return { home, st: RL.ca[rk], ctry: 'Canada', prevSchool };
+    // 3-letter country codes some sites use (e.g. "Lovosice, CZE").
+    const ISO3 = { AUT: 'Austria', CZE: 'Czech Republic', DNK: 'Denmark', DEN: 'Denmark', FIN: 'Finland', FRA: 'France', GER: 'Germany', DEU: 'Germany',
+      HUN: 'Hungary', ITA: 'Italy', LAT: 'Latvia', LVA: 'Latvia', NOR: 'Norway', POL: 'Poland', RUS: 'Russia', SVK: 'Slovakia', ESP: 'Spain',
+      SWE: 'Sweden', SUI: 'Switzerland', CHE: 'Switzerland', CHN: 'China', JPN: 'Japan', KOR: 'South Korea' };
+    const iso = ISO3[regionRaw.replace(/\.$/, '').toUpperCase()];
+    if (iso) return { home, st: iso, ctry: COUNTRY_CONTINENT[iso], prevSchool };
     // Other countries: stored as the country name in normal capitalization.
     const cn = Object.keys(COUNTRY_CONTINENT).find(n => n.toLowerCase() === regionRaw.replace(/\.$/, '').toLowerCase());
     if (cn) return { home, st: cn, ctry: COUNTRY_CONTINENT[cn], prevSchool };
@@ -406,6 +412,13 @@
         extracts rows in the same shape buildRecord() in updates.html
         produces: {name, pk, y, pos, ht, home, st, ctry, no, sh, prevSchool}.
      ======================================================================= */
+
+  // Shoots/catches: colrosters.json stores plain L or R (goalies too), so
+  // "Catch L", "Catches Left", "Left" all become L.
+  function normShoots(v) {
+    const m = String(v || '').trim().match(/^(?:catch(?:es)?\s*)?(?:glove\s*)?(l|r|left|right)$/i);
+    return m ? m[1][0].toUpperCase() : String(v || '').trim();
+  }
 
   function stripHtmlTags(s) {
     return (s || '')
@@ -535,7 +548,7 @@
       const pos = colMap.pos != null ? normalizePos(cells[colMap.pos]) : '';
       const htN = normHeight(colMap.ht != null ? cleanCell(cells[colMap.ht]) : '');
       const no = colMap.no != null ? cleanCell(cells[colMap.no]) : '';
-      const sh = colMap.sh != null ? cleanCell(cells[colMap.sh]) : '';
+      const sh = colMap.sh != null ? normShoots(cleanCell(cells[colMap.sh])) : '';
 
       let home = '', st = '', ctry = '', prevSchool = '', hsCell = '';
       if (colMap.hometownCombined != null) {
