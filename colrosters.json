@@ -62968,7 +62968,10 @@
         "ht": "5-3",
         "home": "Highgate",
         "st": "VT",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "2",
+        "sh": "L",
+        "prevSchool": "Vermont Academy"
       },
       {
         "name": "Maiah Aanenson",
@@ -62978,7 +62981,10 @@
         "ht": "5-6",
         "home": "White Bear Lake",
         "st": "MN",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "3",
+        "sh": "R",
+        "prevSchool": "Gentry Academy"
       },
       {
         "name": "Casey Coffey",
@@ -62988,7 +62994,10 @@
         "ht": "5-6",
         "home": "Hudson",
         "st": "WI",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "4",
+        "sh": "L",
+        "prevSchool": "Cretin-Derham Hall"
       },
       {
         "name": "Anna Caumo",
@@ -63011,7 +63020,10 @@
         "ht": "5-5",
         "home": "Cottage Grove",
         "st": "MN",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "6",
+        "sh": "R",
+        "prevSchool": "Roseville-Mahtomedi"
       },
       {
         "name": "Caleigh Murphy",
@@ -63021,7 +63033,10 @@
         "ht": "5-4",
         "home": "Belle Harbor",
         "st": "NY",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "7",
+        "sh": "R",
+        "prevSchool": "Millbrook"
       },
       {
         "name": "Mia Kraut",
@@ -63044,7 +63059,10 @@
         "ht": "5-2",
         "home": "Milford",
         "st": "CT",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "9",
+        "sh": "R",
+        "prevSchool": "Taft"
       },
       {
         "name": "Chloe King",
@@ -63093,7 +63111,10 @@
         "ht": "5-7",
         "home": "Monroe",
         "st": "WI",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "13",
+        "sh": "R",
+        "prevSchool": "NAHA"
       },
       {
         "name": "McKenzie Grimm",
@@ -63103,7 +63124,10 @@
         "ht": "5-3",
         "home": "Connellsville",
         "st": "PA",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "14",
+        "sh": "L",
+        "prevSchool": "Pittsburgh Pens Elite"
       },
       {
         "name": "Brenna Prellwitz",
@@ -63139,7 +63163,10 @@
         "ht": "5-11",
         "home": "Livonia",
         "st": "MI",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "17",
+        "sh": "L",
+        "prevSchool": "Little Caesars"
       },
       {
         "name": "Lauren Maras",
@@ -63149,7 +63176,10 @@
         "ht": "5-1",
         "home": "Alexandria",
         "st": "MN",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "18",
+        "sh": "R",
+        "prevSchool": "Alexandria"
       },
       {
         "name": "Jenna Sharland",
@@ -63159,7 +63189,10 @@
         "ht": "5-7",
         "home": "San Jose",
         "st": "CA",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "19",
+        "sh": "R",
+        "prevSchool": "Shattuck St. Mary's"
       },
       {
         "name": "Nicola Forth",
@@ -63182,7 +63215,10 @@
         "ht": "5-5",
         "home": "Bolingbrook",
         "st": "IL",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "21",
+        "sh": "L",
+        "prevSchool": "Windy City Storm"
       },
       {
         "name": "Shayna Parry",
@@ -63192,7 +63228,10 @@
         "ht": "5-4",
         "home": "Pittsburgh",
         "st": "PA",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "22",
+        "sh": "L",
+        "prevSchool": "Pittsburgh Pens Elite"
       },
       {
         "name": "Abigail Broz",
@@ -63200,9 +63239,12 @@
         "y": "So",
         "pos": "F",
         "ht": "5-2",
-        "home": "White Bear Lake",
+        "home": "Hugo",
         "st": "MN",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "23",
+        "sh": "L",
+        "prevSchool": "Cretin-Derham Hall"
       },
       {
         "name": "Ana Witmer",
@@ -63225,7 +63267,10 @@
         "ht": "5-3",
         "home": "Massena",
         "st": "NY",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "25",
+        "sh": "L",
+        "prevSchool": "Ottawa 67's"
       },
       {
         "name": "Alexandria Cistolo",
@@ -63235,7 +63280,10 @@
         "ht": "5-6",
         "home": "Berea",
         "st": "OH",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "26",
+        "sh": "R",
+        "prevSchool": "Gilmour Academy"
       },
       {
         "name": "Reagan Haley",
@@ -63271,7 +63319,10 @@
         "ht": "5-2",
         "home": "Glencoe",
         "st": "IL",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "29",
+        "sh": "L",
+        "prevSchool": "Robert Morris University"
       },
       {
         "name": "Delaney Lawn",
@@ -63281,7 +63332,10 @@
         "ht": "5-2",
         "home": "Omaha",
         "st": "NE",
-        "ctry": "US"
+        "ctry": "US",
+        "no": "30",
+        "sh": "L",
+        "prevSchool": "Team Illinois"
       },
       {
         "name": "Rylee Eno",
@@ -63291,7 +63345,10 @@
         "ht": "5-8",
         "home": "Uxbridge",
         "st": "ON",
-        "ctry": "Canada"
+        "ctry": "Canada",
+        "no": "31",
+        "sh": "L",
+        "prevSchool": "North York Storm"
       },
       {
         "name": "Brooke Shoemaker",
