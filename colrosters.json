@@ -67461,9 +67461,9 @@
       {
         "name": "Olivia Urbach",
         "pk": "urbach|olivia",
-        "y": "Fr",
+        "y": "So",
         "pos": "F",
-        "ht": "5-7",
+        "ht": "5-6",
         "home": "Barrie",
         "st": "ON",
         "ctry": "Canada",
@@ -67474,7 +67474,7 @@
       {
         "name": "Cassandra Kehler",
         "pk": "kehler|cassandra",
-        "y": "Fr",
+        "y": "So",
         "pos": "D",
         "ht": "5-7",
         "home": "Langley",
@@ -67485,9 +67485,22 @@
         "prevSchool": "Shawnigan Lake School"
       },
       {
+        "name": "Anneka Aspaas",
+        "pk": "aspaas|anneka",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-7",
+        "home": "Melville",
+        "st": "SK",
+        "ctry": "Canada",
+        "no": "6",
+        "sh": "L",
+        "prevSchool": "Battleford Sharks"
+      },
+      {
         "name": "Laura Dyke",
         "pk": "dyke|laura",
-        "y": "Fr",
+        "y": "So",
         "pos": "D",
         "ht": "5-7",
         "home": "St. John's",
@@ -67500,7 +67513,7 @@
       {
         "name": "Kailey Favro",
         "pk": "favro|kailey",
-        "y": "So",
+        "y": "Jr",
         "pos": "F",
         "ht": "5-2",
         "home": "Danville",
@@ -67513,7 +67526,7 @@
       {
         "name": "Lily Andreassi",
         "pk": "andreassi|lillian",
-        "y": "Fr",
+        "y": "So",
         "pos": "D",
         "ht": "5-7",
         "home": "San Diego",
@@ -67526,7 +67539,7 @@
       {
         "name": "Zoe Ziotas",
         "pk": "ziotas|zoe",
-        "y": "So",
+        "y": "Jr",
         "pos": "F",
         "ht": "5-2",
         "home": "Markham",
@@ -67539,7 +67552,7 @@
       {
         "name": "Riley Gramlich",
         "pk": "gramlich|riley",
-        "y": "Fr",
+        "y": "So",
         "pos": "D",
         "ht": "5-5",
         "home": "Burstall",
@@ -67552,7 +67565,7 @@
       {
         "name": "Addie Alvarez",
         "pk": "alvarez|addison",
-        "y": "Jr",
+        "y": "Sr",
         "pos": "F",
         "ht": "5-5",
         "home": "Rochester",
@@ -67565,7 +67578,7 @@
       {
         "name": "Cassie Barnes",
         "pk": "barnes|cassandra",
-        "y": "Fr",
+        "y": "So",
         "pos": "F",
         "ht": "5-9",
         "home": "Uxbridge",
@@ -67576,22 +67589,9 @@
         "prevSchool": "Mississauga Jr. Hurricanes"
       },
       {
-        "name": "Jaidan Fahrny",
-        "pk": "fahrny|jaidan",
-        "y": "Sr",
-        "pos": "F",
-        "ht": "5-3",
-        "home": "Pittsburgh",
-        "st": "PA",
-        "ctry": "US",
-        "no": "15",
-        "sh": "R",
-        "prevSchool": "Clarkson/Pittsburgh Penguins Elite"
-      },
-      {
         "name": "Brac Kelley",
         "pk": "kelley|brac",
-        "y": "So",
+        "y": "Jr",
         "pos": "F",
         "ht": "5-8",
         "home": "Wilkes-Barre",
@@ -67604,7 +67604,7 @@
       {
         "name": "Ireland Stein",
         "pk": "stein|ireland",
-        "y": "So",
+        "y": "Jr",
         "pos": "F",
         "ht": "5-9",
         "home": "Saskatoon",
@@ -67615,35 +67615,61 @@
         "prevSchool": "Saskatoon Midgett AAA Stars"
       },
       {
-        "name": "Lexi Sung",
-        "pk": "sung|lexi",
-        "y": "Sr",
-        "pos": "F",
-        "ht": "5-7",
-        "home": "Great Falls",
-        "st": "VA",
-        "ctry": "US",
-        "no": "18",
-        "sh": "L",
-        "prevSchool": "Washington Pride"
-      },
-      {
-        "name": "Karly Kolssak",
-        "pk": "kolssak|karly",
-        "y": "Sr",
+        "name": "Brynn Evans",
+        "pk": "evans|brynn",
+        "y": "Fr",
         "pos": "F",
         "ht": "5-8",
-        "home": "Wheeling",
-        "st": "IL",
-        "ctry": "US",
+        "home": "Strathmore",
+        "st": "AB",
+        "ctry": "Canada",
+        "no": "18",
+        "sh": "L",
+        "prevSchool": "Edmonton Jr. Oilers"
+      },
+      {
+        "name": "Maddy Delahunt",
+        "pk": "delahunt|madeline",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-7",
+        "home": "Mississauga",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "19",
+        "sh": "L",
+        "prevSchool": "Burlington Jr. Barracudas"
+      },
+      {
+        "name": "Mackenzie Clarke",
+        "pk": "clarke|mackenzie",
+        "y": "Jr",
+        "pos": "D",
+        "ht": "5-8",
+        "home": "Ottawa",
+        "st": "ON",
+        "ctry": "Canada",
         "no": "20",
         "sh": "L",
-        "prevSchool": "Chicago Young Americans"
+        "prevSchool": "St. Lawrence/Ottawa Jr. Lady Senators"
+      },
+      {
+        "name": "Sofia Ripley",
+        "pk": "ripley|sofia",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-7",
+        "home": "Orange",
+        "st": "CA",
+        "ctry": "US",
+        "no": "21",
+        "sh": "R",
+        "prevSchool": "Anaheim Lady Ducks"
       },
       {
         "name": "Emma Pickering",
         "pk": "pickering|emma",
-        "y": "Jr",
+        "y": "Sr",
         "pos": "D",
         "ht": "5-4",
         "home": "Fishers",
@@ -67656,7 +67682,7 @@
       {
         "name": "Madison Buziak",
         "pk": "buziak|madison",
-        "y": "So",
+        "y": "Jr",
         "pos": "D",
         "ht": "5-4",
         "home": "Saskatoon",
@@ -67669,9 +67695,9 @@
       {
         "name": "Linda Rulle",
         "pk": "rulle|linda",
-        "y": "Jr",
+        "y": "Sr",
         "pos": "F",
-        "ht": "5-4",
+        "ht": "5-5",
         "home": "Pale",
         "st": "Latvia",
         "ctry": "Europe",
@@ -67680,9 +67706,22 @@
         "prevSchool": "Lulea HF"
       },
       {
+        "name": "Eryka DeRocha",
+        "pk": "derocha|eryka",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-3",
+        "home": "Hannibal",
+        "st": "NY",
+        "ctry": "US",
+        "no": "25",
+        "sh": "R",
+        "prevSchool": "Rochester Jr. Americans"
+      },
+      {
         "name": "Heron Rohweder",
         "pk": "rohweder|heron",
-        "y": "Fr",
+        "y": "So",
         "pos": "F",
         "ht": "5-4",
         "home": "Boise",
@@ -67695,7 +67734,7 @@
       {
         "name": "Kolbee Ashe",
         "pk": "ashe|kolbee",
-        "y": "Fr",
+        "y": "So",
         "pos": "F",
         "ht": "5-8",
         "home": "Warman",
@@ -67708,9 +67747,9 @@
       {
         "name": "Tilli Keranen",
         "pk": "keranen|tilli",
-        "y": "Fr",
+        "y": "So",
         "pos": "F",
-        "ht": "5-8",
+        "ht": "5-6",
         "home": "Kuopio",
         "st": "Finland",
         "ctry": "Europe",
@@ -67719,22 +67758,9 @@
         "prevSchool": "KalPa"
       },
       {
-        "name": "Sophia Bellina",
-        "pk": "bellina|sophia",
-        "y": "Sr",
-        "pos": "G",
-        "ht": "5-7",
-        "home": "Cleveland",
-        "st": "OH",
-        "ctry": "US",
-        "no": "29",
-        "sh": "L",
-        "prevSchool": "Culver Academy (Ind.)"
-      },
-      {
         "name": "Tahlia Vasseur",
         "pk": "vasseur|tahlia",
-        "y": "Fr",
+        "y": "So",
         "pos": "G",
         "ht": "6-0",
         "home": "Bonnyville",
@@ -67745,9 +67771,22 @@
         "prevSchool": "Ontario Hockey Academy Mavericks"
       },
       {
+        "name": "Oceanne Thiffault",
+        "pk": "thiffault|oceanne",
+        "y": "Fr",
+        "pos": "G",
+        "ht": "5-5",
+        "home": "Montreal",
+        "st": "QC",
+        "ctry": "Canada",
+        "no": "34",
+        "sh": "L",
+        "prevSchool": "Northwood School"
+      },
+      {
         "name": "Brenna McNamara",
         "pk": "mcnamara|brenna",
-        "y": "So",
+        "y": "Jr",
         "pos": "G",
         "ht": "5-9",
         "home": "Toronto",
