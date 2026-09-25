@@ -41937,7 +41937,7 @@
         "ctry": "Canada",
         "no": "3",
         "sh": "L",
-        "prevSchool": "London Junior Devilettes"
+        "prevSchool": "London Jr. Devilettes"
       },
       {
         "name": "Morgan Walton",
@@ -41963,7 +41963,7 @@
         "ctry": "US",
         "no": "6",
         "sh": "L",
-        "prevSchool": "Mercyhurst"
+        "prevSchool": "Mercyhurst University"
       },
       {
         "name": "Jaela Carter",
@@ -41989,7 +41989,7 @@
         "ctry": "Canada",
         "no": "8",
         "sh": "L",
-        "prevSchool": "London Junior Devilettes"
+        "prevSchool": "London Jr. Devilettes"
       },
       {
         "name": "Rhea Hicks",
@@ -42009,13 +42009,13 @@
         "pk": "beecher|lara",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-6",
+        "ht": "5-5",
         "home": "Buffalo",
         "st": "NY",
         "ctry": "US",
         "no": "10",
         "sh": "R",
-        "prevSchool": "University of Vermont"
+        "prevSchool": "Univ. of Vermont"
       },
       {
         "name": "Kaitlyn Mallette",
@@ -42050,7 +42050,7 @@
         "pos": "D",
         "ht": "5-9",
         "home": "Usti nad Orlici",
-        "st": "CZECHIA",
+        "st": "Czech Republic",
         "ctry": "Europe",
         "no": "13",
         "sh": "L",
@@ -42061,8 +42061,8 @@
         "pk": "lalonde|gabriella",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-7",
-        "home": "Pointe-claire",
+        "ht": "5-6",
+        "home": "Montreal",
         "st": "QC",
         "ctry": "Canada",
         "no": "14",
@@ -42074,13 +42074,13 @@
         "pk": "brezenski|greta",
         "y": "So",
         "pos": "F",
-        "ht": "5-6",
+        "ht": "5-5",
         "home": "Waunakee",
         "st": "WI",
         "ctry": "US",
         "no": "15",
         "sh": "L",
-        "prevSchool": "Bishop Kearney Selects 19U"
+        "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Layla Matthew",
@@ -42140,12 +42140,12 @@
         "y": "So",
         "pos": "F",
         "ht": "5-6",
-        "home": "Brooklin",
+        "home": "Whitby",
         "st": "ON",
         "ctry": "Canada",
         "no": "20",
         "sh": "L",
-        "prevSchool": "Etobicoke Junior Dolphins"
+        "prevSchool": "Etobicoke Dolphins"
       },
       {
         "name": "Manon Le scodan",
@@ -42153,8 +42153,8 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Chamonix Mont-blanc",
-        "st": "FRANCE",
+        "home": "Chamonix",
+        "st": "France",
         "ctry": "Europe",
         "no": "21",
         "sh": "L",
@@ -42177,10 +42177,10 @@
         "name": "Kate Manness",
         "pk": "manness|katherine",
         "y": "Fr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-5",
-        "home": "Lasalle",
-        "st": "QC",
+        "home": "Winnipeg",
+        "st": "MB",
         "ctry": "Canada",
         "no": "24",
         "sh": "R",
@@ -42197,16 +42197,16 @@
         "ctry": "Canada",
         "no": "25",
         "sh": "L",
-        "prevSchool": "John Abbott Islanders"
+        "prevSchool": "John Abbott College"
       },
       {
         "name": "Sara Manness",
         "pk": "manness|sara",
         "y": "Fr",
-        "pos": "D",
+        "pos": "F",
         "ht": "5-9",
-        "home": "Lasalle",
-        "st": "QC",
+        "home": "Winnipeg",
+        "st": "MB",
         "ctry": "Canada",
         "no": "26",
         "sh": "L",
@@ -42256,9 +42256,9 @@
         "pk": "senkova|aneta",
         "y": "Fr",
         "pos": "G",
-        "ht": "5-8",
+        "ht": "5-6",
         "home": "Lovosice",
-        "st": "CZECHIA",
+        "st": "Czech Republic",
         "ctry": "Europe",
         "no": "31",
         "sh": "L",
@@ -42270,12 +42270,12 @@
         "y": "Gr",
         "pos": "G",
         "ht": "5-7",
-        "home": "Plover",
+        "home": "Stevens Point",
         "st": "WI",
         "ctry": "US",
         "no": "35",
         "sh": "L",
-        "prevSchool": "Minn Duluth"
+        "prevSchool": "Univ. of Minnesota Duluth"
       }
     ],
     "Colgate": [
