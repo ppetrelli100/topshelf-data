@@ -223,7 +223,7 @@
     'Ontario': 'ON', 'Ont.': 'ON', 'Quebec': 'QC', 'Que.': 'QC', 'Manitoba': 'MB', 'Man.': 'MB',
     'Saskatchewan': 'SK', 'Sask.': 'SK', 'British Columbia': 'BC', 'B.C.': 'BC', 'New Brunswick': 'NB',
     'N.B.': 'NB', 'Nova Scotia': 'NS', 'N.S.': 'NS', 'Prince Edward Island': 'PE', 'P.E.I.': 'PE',
-    'Newfoundland': 'NL', 'Alberta': 'AB', 'Alta.': 'AB', 'Northwest Territories': 'NT',
+    'Newfoundland': 'NL', 'Alberta': 'AB', 'Alta.': 'AB', 'Alb.': 'AB', 'Northwest Territories': 'NT',
   };
 
   const COUNTRY_CONTINENT = {
@@ -416,6 +416,13 @@
       .replace(/&#39;|&apos;/gi, "'")
       .replace(/&quot;/gi, '"')
       .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(n))
+      .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(parseInt(n, 16)))
+      // Named accent entities on names, e.g. &zcaron; &eacute; &oslash; -- otherwise
+      // "Ane&zcaron;ka" comes through literally and the pk never matches.
+      .replace(/&([A-Za-z])(acute|grave|circ|uml|tilde|cedil|caron|ring);/g, (m, b, k) =>
+        (b + { acute: '\u0301', grave: '\u0300', circ: '\u0302', uml: '\u0308', tilde: '\u0303', cedil: '\u0327', caron: '\u030C', ring: '\u030A' }[k]).normalize('NFC'))
+      .replace(/&oslash;/g, '\u00F8').replace(/&Oslash;/g, '\u00D8').replace(/&szlig;/g, '\u00DF')
+      .replace(/&aelig;/g, '\u00E6').replace(/&AElig;/g, '\u00C6').replace(/&lt;/gi, '<').replace(/&gt;/gi, '>')
       .replace(/\s+/g, ' ')
       .trim();
   }
