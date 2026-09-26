@@ -44658,7 +44658,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "1",
-        "sh": "L",
         "prevSchool": "Dodge County"
       },
       {
@@ -44671,7 +44670,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "2",
-        "sh": "R",
         "prevSchool": "Bedford"
       },
       {
@@ -44684,7 +44682,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "3",
-        "sh": "R",
         "prevSchool": "Holy Family Catholic"
       },
       {
@@ -44697,7 +44694,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "6",
-        "sh": "L",
         "prevSchool": "Wayzata HS"
       },
       {
@@ -44710,7 +44706,6 @@
         "st": "MI",
         "ctry": "US",
         "no": "7",
-        "sh": "L",
         "prevSchool": "Hartland"
       },
       {
@@ -44723,7 +44718,6 @@
         "st": "Austria",
         "ctry": "Europe",
         "no": "8",
-        "sh": "L",
         "prevSchool": "Edge School"
       },
       {
@@ -44736,7 +44730,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "10",
-        "sh": "L",
         "prevSchool": "Bishop Smith"
       },
       {
@@ -44749,8 +44742,7 @@
         "st": "MT",
         "ctry": "US",
         "no": "11",
-        "sh": "R",
-        "prevSchool": "Northwood School"
+        "prevSchool": "Northwood School (N.Y.)"
       },
       {
         "name": "Emma Mortl",
@@ -44758,12 +44750,11 @@
         "y": "Sr",
         "pos": "D",
         "ht": "5-8",
-        "home": "Graz",
+        "home": "Graz, Styria",
         "st": "Austria",
         "ctry": "Europe",
         "no": "12",
-        "sh": "L",
-        "prevSchool": "Sacre Coeur Graz"
+        "prevSchool": "Sacré Coeur Graz"
       },
       {
         "name": "Evelyn Latka",
@@ -44775,8 +44766,7 @@
         "st": "CO",
         "ctry": "US",
         "no": "14",
-        "sh": "L",
-        "prevSchool": "Culver Academies"
+        "prevSchool": "Culver Academies (Ind.)"
       },
       {
         "name": "Vivian Skibinski",
@@ -44788,7 +44778,6 @@
         "st": "AK",
         "ctry": "US",
         "no": "16",
-        "sh": "L",
         "prevSchool": "AJ Diamond"
       },
       {
@@ -44801,7 +44790,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "17",
-        "sh": "L",
         "prevSchool": "Rogers HS"
       },
       {
@@ -44814,7 +44802,6 @@
         "st": "MI",
         "ctry": "US",
         "no": "18",
-        "sh": "R",
         "prevSchool": "Powers Catholic"
       },
       {
@@ -44827,7 +44814,6 @@
         "st": "CA",
         "ctry": "US",
         "no": "19",
-        "sh": "R",
         "prevSchool": "Bishop Kearney"
       },
       {
@@ -44840,8 +44826,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "23",
-        "sh": "R",
-        "prevSchool": "Northwood School"
+        "prevSchool": "Northwood School (N.Y.)"
       },
       {
         "name": "Victoria Petruska",
@@ -44853,7 +44838,6 @@
         "st": "TX",
         "ctry": "US",
         "no": "27",
-        "sh": "L",
         "prevSchool": "Leadership Prep"
       },
       {
@@ -44866,7 +44850,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "28",
-        "sh": "L",
         "prevSchool": "Shattuck St. Mary's"
       },
       {
@@ -44875,12 +44858,11 @@
         "y": "Sr",
         "pos": "D",
         "ht": "5-6",
-        "home": "Graz",
+        "home": "Graz, Styria",
         "st": "Austria",
         "ctry": "Europe",
         "no": "29",
-        "sh": "R",
-        "prevSchool": "Sacre Coeur Graz"
+        "prevSchool": "Sacré Coeur Graz"
       },
       {
         "name": "Clara Kammholz",
@@ -44892,7 +44874,6 @@
         "st": "WI",
         "ctry": "US",
         "no": "31",
-        "sh": "L",
         "prevSchool": "Wisconsin Lutheran"
       },
       {
@@ -44905,7 +44886,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "34",
-        "sh": "R",
         "prevSchool": "Cardinal Carter"
       },
       {
@@ -44918,7 +44898,6 @@
         "st": "NJ",
         "ctry": "US",
         "no": "40",
-        "sh": "R",
         "prevSchool": "Nutley HS"
       },
       {
@@ -44931,7 +44910,6 @@
         "st": "IL",
         "ctry": "US",
         "no": "55",
-        "sh": "R",
         "prevSchool": "New Trier"
       },
       {
@@ -44944,7 +44922,6 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "71",
-        "sh": "L",
         "prevSchool": "Edge School"
       },
       {
@@ -44957,7 +44934,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "77",
-        "sh": "R",
         "prevSchool": "Prior Lake"
       }
     ],
