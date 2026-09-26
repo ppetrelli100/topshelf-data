@@ -57738,7 +57738,7 @@
       {
         "name": "Mady Cipolla",
         "pk": "cipolla|madelyn",
-        "y": "R-Jr",
+        "y": "Sr",
         "pos": "F",
         "ht": "5-2",
         "home": "Bowie",
@@ -57753,9 +57753,9 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-10",
-        "home": "Ahtahkakoop Cree Nation/White City",
-        "st": "SK",
-        "ctry": "Canada",
+        "home": "Ahtahkakoop Cree Nation",
+        "st": "",
+        "ctry": "",
         "no": "17",
         "prevSchool": "John Paul II Collegiate and Miller Comprehensive / U18AAA Battleford WPD Ambulance Sharks"
       },
@@ -57805,7 +57805,7 @@
         "st": "Sweden",
         "ctry": "Europe",
         "no": "23",
-        "prevSchool": "Brynas IF (SDHL)"
+        "prevSchool": "Brynäs IF (SDHL)"
       },
       {
         "name": "Jenna Chaplain",
@@ -57853,7 +57853,7 @@
         "st": "Sweden",
         "ctry": "Europe",
         "no": "29",
-        "prevSchool": "Djurgarden (SDHL)"
+        "prevSchool": "Djurgården (SDHL)"
       },
       {
         "name": "Cameron Crawford",
@@ -57901,7 +57901,7 @@
         "st": "Austria",
         "ctry": "Europe",
         "no": "40",
-        "prevSchool": "Linkoping HC (SDHL)"
+        "prevSchool": "Linköping HC (SDHL)"
       },
       {
         "name": "Victoria Hausberger",
@@ -57925,7 +57925,7 @@
         "st": "Sweden",
         "ctry": "Europe",
         "no": "61",
-        "prevSchool": "Linkoping HC (SDHL)"
+        "prevSchool": "Linköping HC (SDHL)"
       },
       {
         "name": "Brooklyn O'Brien",
