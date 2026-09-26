@@ -60937,7 +60937,7 @@
         "pk": "sauriol|alice",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-4",
+        "ht": "5-5",
         "home": "Sherbrooke",
         "st": "QC",
         "ctry": "Canada",
@@ -60957,7 +60957,7 @@
         "sh": "L"
       },
       {
-        "name": "Maddie Lee",
+        "name": "Madelyn Lee",
         "pk": "lee|madelyn",
         "y": "Fr",
         "pos": "F",
@@ -61009,7 +61009,7 @@
       {
         "name": "Laura Zimmermann",
         "pk": "zimmermann|laura",
-        "y": "R-Sr",
+        "y": "5th",
         "pos": "F",
         "ht": "5-4",
         "home": "Ringgenberg",
@@ -61024,7 +61024,7 @@
         "pk": "mustonen|raili",
         "y": "So",
         "pos": "F",
-        "ht": "5-6",
+        "ht": "5-5",
         "home": "Kalajoki",
         "st": "Finland",
         "ctry": "Europe",
@@ -61059,10 +61059,10 @@
       {
         "name": "Marie Moran",
         "pk": "moran|marie",
-        "y": "R-Jr",
-        "pos": "F",
+        "y": "Sr",
+        "pos": "D",
         "ht": "5-8",
-        "home": "Lakeville",
+        "home": "Apple Valley",
         "st": "MN",
         "ctry": "US",
         "no": "15",
@@ -61079,7 +61079,7 @@
         "ctry": "Canada",
         "no": "17",
         "sh": "L",
-        "prevSchool": "Cegep Limoilou Titans (QCHL)"
+        "prevSchool": "Cégep Limoilou Titans (QCHL)"
       },
       {
         "name": "Payton Holloway",
@@ -61097,7 +61097,7 @@
       {
         "name": "Myah Krueger",
         "pk": "krueger|myah",
-        "y": "R-So",
+        "y": "Jr",
         "pos": "F",
         "ht": "5-7",
         "home": "Stillwater",
@@ -61135,7 +61135,7 @@
       {
         "name": "Paige Hoogendam",
         "pk": "hoogendam|paige",
-        "y": "R-Jr",
+        "y": "Sr",
         "pos": "G",
         "ht": "5-8",
         "home": "Ajax",
@@ -61202,7 +61202,7 @@
         "y": "Jr",
         "pos": "G",
         "ht": "5-7",
-        "home": "Nokia",
+        "home": "Ylojarvi",
         "st": "Finland",
         "ctry": "Europe",
         "no": "42",
@@ -61225,7 +61225,7 @@
       {
         "name": "Regan Bulger",
         "pk": "bulger|regan",
-        "y": "R-Sr",
+        "y": "5th",
         "pos": "D",
         "ht": "5-6",
         "home": "Yellowknife",
