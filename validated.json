@@ -933,6 +933,24 @@
           "baseline": true
         }
       ]
+    },
+    "Minnesota -Duluth": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 22,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 2,
+            "home": 1,
+            "st": 1,
+            "ctry": 1
+          },
+          "at": "2026-09-26T00:28:17.101Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
