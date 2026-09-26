@@ -46159,8 +46159,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "1",
-        "sh": "L",
-        "prevSchool": "Patriotes du Cegep de Saint-laurent"
+        "prevSchool": "Canada U-18 / Patriotes du Cegep de Saint-laurent (Cegep team)"
       },
       {
         "name": "Rae Mayer",
@@ -46172,20 +46171,18 @@
         "st": "VA",
         "ctry": "US",
         "no": "2",
-        "sh": "R",
         "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Mary Kate O'Brien",
         "pk": "kateobrien|mary",
-        "y": "Gr",
+        "y": "R-Sr",
         "pos": "F",
         "ht": "5-4",
         "home": "Wilbraham",
         "st": "MA",
         "ctry": "US",
         "no": "3",
-        "sh": "L",
         "prevSchool": "Selects Academy"
       },
       {
@@ -46198,8 +46195,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "5",
-        "sh": "R",
-        "prevSchool": "Moorhead High School"
+        "prevSchool": "Minnesota"
       },
       {
         "name": "Grace Sadura",
@@ -46207,12 +46203,11 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Chanhassen",
-        "st": "MN",
-        "ctry": "US",
+        "home": "Chanhassen Minn.",
+        "st": "",
+        "ctry": "",
         "no": "7",
-        "sh": "R",
-        "prevSchool": "Minnetonka High School"
+        "prevSchool": "Minnetonka H.S."
       },
       {
         "name": "Danielle Burgen",
@@ -46224,8 +46219,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "8",
-        "sh": "R",
-        "prevSchool": "Chisholm Lakes High School"
+        "prevSchool": "USA U-18 / Chisago Lakes H.S."
       },
       {
         "name": "Josie St. Martin",
@@ -46237,8 +46231,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "9",
-        "sh": "L",
-        "prevSchool": "Stillwater Area H.S."
+        "prevSchool": "Ohio State"
       },
       {
         "name": "Ava MacLeod",
@@ -46250,7 +46243,6 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "10",
-        "sh": "L",
         "prevSchool": "RINK Academy Kelowna"
       },
       {
@@ -46263,8 +46255,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "11",
-        "sh": "L",
-        "prevSchool": "Waterloo Ravens U22 Elite"
+        "prevSchool": "Canada U-18/ Waterloo Ravens U22 Elite"
       },
       {
         "name": "Kamdyn Davis",
@@ -46276,7 +46267,6 @@
         "st": "WI",
         "ctry": "US",
         "no": "12",
-        "sh": "R",
         "prevSchool": "Chicago Mission"
       },
       {
@@ -46289,7 +46279,6 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "13",
-        "sh": "L",
         "prevSchool": "Delta Hockey Academy U18"
       },
       {
@@ -46299,14 +46288,13 @@
         "pos": "D",
         "ht": "5-6",
         "home": "Lappeenranta",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "14",
-        "sh": "L",
-        "prevSchool": "Kimpinen High School"
+        "prevSchool": "Minnesota"
       },
       {
-        "name": "Ellie Zakrajscheck",
+        "name": "Ellie Zakrajsheck",
         "pk": "zakrajsheck|eleanor",
         "y": "Fr",
         "pos": "F",
@@ -46314,9 +46302,7 @@
         "home": "Golden Valley",
         "st": "MN",
         "ctry": "US",
-        "no": "16",
-        "sh": "R",
-        "prevSchool": "Minnetonka High School"
+        "no": "16"
       },
       {
         "name": "Ella Pukala",
@@ -46328,12 +46314,11 @@
         "st": "IL",
         "ctry": "US",
         "no": "17",
-        "sh": "R",
         "prevSchool": "Chicago Mission"
       },
       {
-        "name": "Madison Burr",
-        "pk": "burr|madison",
+        "name": "Madi Burr",
+        "pk": "burr|madi",
         "y": "Fr",
         "pos": "F",
         "ht": "5-7",
@@ -46341,7 +46326,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "18",
-        "sh": "L",
         "prevSchool": "Stoney Creek Sabres"
       },
       {
@@ -46351,11 +46335,10 @@
         "pos": "D",
         "ht": "5-8",
         "home": "Richmond",
-        "st": "BC",
-        "ctry": "Canada",
+        "st": "B. C.",
+        "ctry": "__UNKNOWN__",
         "no": "19",
-        "sh": "L",
-        "prevSchool": "Delta Hockey Academy"
+        "prevSchool": "Canada U-18 / Delta Hockey Academy"
       },
       {
         "name": "Thea Johansson",
@@ -46364,10 +46347,9 @@
         "pos": "F",
         "ht": "5-7",
         "home": "Ljungby",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "20",
-        "sh": "L",
         "prevSchool": "Mercyhurst"
       },
       {
@@ -46380,7 +46362,6 @@
         "st": "PA",
         "ctry": "US",
         "no": "21",
-        "sh": "L",
         "prevSchool": "Pittsburgh Penguins Elite"
       },
       {
@@ -46390,10 +46371,9 @@
         "pos": "D",
         "ht": "5-8",
         "home": "Stockholm",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "22",
-        "sh": "L",
         "prevSchool": "Sweden U-18"
       },
       {
@@ -46406,8 +46386,7 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "23",
-        "sh": "R",
-        "prevSchool": "Selects Academy at Bishop Kearney"
+        "prevSchool": "Cornell"
       },
       {
         "name": "Ida Karlsson",
@@ -46416,24 +46395,22 @@
         "pos": "D",
         "ht": "5-9",
         "home": "Avesta",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "24",
-        "sh": "R",
-        "prevSchool": "Leksands IF"
+        "prevSchool": "Sweden U-18 / Leksands IF"
       },
       {
         "name": "Devyn Millwater",
         "pk": "millwater|devyn",
-        "y": "Gr",
+        "y": "R-Sr",
         "pos": "D",
         "ht": "5-7",
         "home": "Victoria",
         "st": "BC",
         "ctry": "Canada",
         "no": "26",
-        "sh": "L",
-        "prevSchool": "St. Cloud State"
+        "prevSchool": "St. Cloud State University"
       },
       {
         "name": "Sophia Villanueva",
@@ -46445,21 +46422,18 @@
         "st": "TX",
         "ctry": "US",
         "no": "30",
-        "sh": "R",
         "prevSchool": "Connecticut Jr. Rangers"
       },
       {
         "name": "Anna Byczek",
         "pk": "byczek|anna",
-        "y": "So",
+        "y": "R-So",
         "pos": "G",
         "ht": "5-9",
         "home": "Marquette",
         "st": "MI",
         "ctry": "US",
-        "no": "31",
-        "sh": "L",
-        "prevSchool": "Bay Port High School"
+        "no": "31"
       }
     ],
     "Minnesota State": [
