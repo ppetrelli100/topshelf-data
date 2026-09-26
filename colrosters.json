@@ -60663,8 +60663,8 @@
         "y": "Jr",
         "pos": "D",
         "ht": "5-5",
-        "home": "Chilliwack",
-        "st": "BC",
+        "home": "Rosedale, British Columbia",
+        "st": "",
         "ctry": "Canada",
         "no": "3",
         "prevSchool": "Chilliwack Secondary School"
@@ -60675,8 +60675,8 @@
         "y": "So",
         "pos": "D",
         "ht": "5-10",
-        "home": "Wilmington",
-        "st": "NC",
+        "home": "Kent",
+        "st": "CT",
         "ctry": "US",
         "no": "4",
         "prevSchool": "Kent School"
@@ -60699,11 +60699,11 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-5",
-        "home": "Saint-Bernard",
-        "st": "QC",
+        "home": "Saint-Bernard, Quebec",
+        "st": "",
         "ctry": "Canada",
         "no": "6",
-        "prevSchool": "Cegep Limoilou"
+        "prevSchool": "Cégep Limoilou"
       },
       {
         "name": "Kahlen Lamarche",
@@ -60711,8 +60711,8 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Sudbury",
-        "st": "ON",
+        "home": "Sudbury, Ontario",
+        "st": "",
         "ctry": "Canada",
         "no": "8",
         "prevSchool": "Everest Academy"
@@ -60735,8 +60735,8 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Saskatoon",
-        "st": "SK",
+        "home": "Saskatoon, Saskatchewan",
+        "st": "",
         "ctry": "Canada",
         "no": "10",
         "prevSchool": "St. Joseph High school"
@@ -60759,11 +60759,10 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-8",
-        "home": "Pointe-Claire",
-        "st": "QC",
+        "home": "Pointe-Claire, Quebec",
+        "st": "",
         "ctry": "Canada",
-        "no": "12",
-        "prevSchool": "John Abbott Islanders"
+        "no": "12"
       },
       {
         "name": "Keara Parker",
@@ -60807,8 +60806,8 @@
         "y": "Sr",
         "pos": "D",
         "ht": "5-9",
-        "home": "River Forest",
-        "st": "IL",
+        "home": "Gainesville",
+        "st": "GA",
         "ctry": "US",
         "no": "17",
         "prevSchool": "Fenwick"
@@ -60818,12 +60817,11 @@
         "pk": "lindaman|ilsa",
         "y": "Jr",
         "pos": "F",
-        "ht": "",
+        "ht": "5-9",
         "home": "Duluth",
         "st": "MN",
         "ctry": "US",
-        "no": "18",
-        "prevSchool": "St. Thomas (WCHA)"
+        "no": "18"
       },
       {
         "name": "Alex Law",
@@ -60843,8 +60841,8 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-9",
-        "home": "Stittsville",
-        "st": "ON",
+        "home": "Ottawa, Ontario",
+        "st": "",
         "ctry": "Canada",
         "no": "21",
         "prevSchool": "Appleby College"
@@ -60859,7 +60857,7 @@
         "st": "France",
         "ctry": "Europe",
         "no": "22",
-        "prevSchool": "Lycee Jules Verne / John Abbott College"
+        "prevSchool": "Lycée Jules Verne / John Abbott College"
       },
       {
         "name": "Cassidy Lobisser",
@@ -60903,8 +60901,8 @@
         "y": "Jr",
         "pos": "D",
         "ht": "5-6",
-        "home": "Brooks",
-        "st": "AB",
+        "home": "Brooks, Alberta",
+        "st": "",
         "ctry": "Canada",
         "no": "28",
         "prevSchool": "George Elliot Secondary School / Team Alberta / Team Canada U18"
@@ -60926,7 +60924,7 @@
         "pk": "frank|felicia",
         "y": "Jr",
         "pos": "G",
-        "ht": "5-9",
+        "ht": "5-8",
         "home": "Falkoping",
         "st": "Sweden",
         "ctry": "Europe",
