@@ -779,6 +779,23 @@
         }
       ],
       "at": "2026-09-26T00:45:45.791Z"
+    },
+    "Stonehill": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 23,
+          "added": [
+            "Maddi Achtyl"
+          ],
+          "removed": [
+            "Maddi Achtyl"
+          ],
+          "fields": {},
+          "at": "2026-09-26T00:46:37.346Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
