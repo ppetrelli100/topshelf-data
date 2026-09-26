@@ -63742,6 +63742,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "3",
+        "sh": "L",
         "prevSchool": "Union College"
       },
       {
@@ -63754,6 +63755,7 @@
         "st": "VT",
         "ctry": "US",
         "no": "4",
+        "sh": "R",
         "prevSchool": "Clarkson University"
       },
       {
@@ -63777,6 +63779,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "7",
+        "sh": "L",
         "prevSchool": "John Abbott College"
       },
       {
@@ -63811,6 +63814,7 @@
         "st": "NH",
         "ctry": "US",
         "no": "11",
+        "sh": "R",
         "prevSchool": "Lovell Academy"
       },
       {
@@ -63823,6 +63827,7 @@
         "st": "CT",
         "ctry": "US",
         "no": "12",
+        "sh": "R",
         "prevSchool": "NAHA White"
       },
       {
@@ -63868,6 +63873,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "18",
+        "sh": "R",
         "prevSchool": "Northwood School"
       },
       {
@@ -63904,6 +63910,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "21",
+        "sh": "L",
         "prevSchool": "Red Deer Chiefs"
       },
       {
@@ -63916,6 +63923,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "22",
+        "sh": "L",
         "prevSchool": "Merrimack College"
       },
       {
@@ -63928,6 +63936,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "23",
+        "sh": "L",
         "prevSchool": "Kent School"
       },
       {
@@ -63940,6 +63949,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "24",
+        "sh": "R",
         "prevSchool": "Kingston Jr. Ice Wolves"
       },
       {
@@ -63952,6 +63962,7 @@
         "st": "NJ",
         "ctry": "US",
         "no": "26",
+        "sh": "R",
         "prevSchool": "Tabor Academy"
       },
       {
@@ -63964,6 +63975,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
+        "sh": "R",
         "prevSchool": "Etobicoke Dolphins"
       },
       {
@@ -63976,6 +63988,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "28",
+        "sh": "R",
         "prevSchool": "Mid Fairfield CT Stars"
       },
       {
@@ -63988,6 +64001,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "29",
+        "sh": "L",
         "prevSchool": "Red Deer Chiefs"
       },
       {
@@ -64000,6 +64014,7 @@
         "st": "Denmark",
         "ctry": "Europe",
         "no": "31",
+        "sh": "L",
         "prevSchool": "Newark Ironbound 19U"
       },
       {
@@ -64023,6 +64038,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "39",
+        "sh": "L",
         "prevSchool": "Shattuck-St. Mary's School"
       },
       {
@@ -64046,6 +64062,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "88",
+        "sh": "R",
         "prevSchool": "Central York Jr. Panthers"
       },
       {
@@ -64069,6 +64086,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "92",
+        "sh": "L",
         "prevSchool": "Philadelphia Flyers"
       },
       {
@@ -64081,6 +64099,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "94",
+        "sh": "L",
         "prevSchool": "Kingston Ice Wolves"
       }
     ],
