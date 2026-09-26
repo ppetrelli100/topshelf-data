@@ -304,7 +304,8 @@
     if (segments.length >= 3 && /^canada$/i.test(segments[segments.length - 1])) {
       const province = segments[segments.length - 2];
       const home = segments.slice(0, segments.length - 2).join(', ');
-      if (CANADA_PROVINCE[province]) return { home, st: CANADA_PROVINCE[province], ctry: 'Canada', prevSchool };
+      const provCode = CANADA_PROVINCE[province] || regionLookup().ca[regionLookup().k(province)];
+      if (provCode) return { home, st: provCode, ctry: 'Canada', prevSchool };
       return { home, st: province, ctry: '__UNKNOWN__', prevSchool };
     }
     const commaIdx = homePart.lastIndexOf(',');
@@ -312,6 +313,9 @@
     const home = homePart.slice(0, commaIdx).trim();
     const regionRaw = homePart.slice(commaIdx + 1).trim();
     const RL = regionLookup(), rk = RL.k(regionRaw);
+    // Country only ("Toronto, Canada" / "Boston, USA"): no state/province on the page, so leave it blank.
+    if (/^(canada|can)$/i.test(regionRaw.replace(/\.$/, ''))) return { home, st: '', ctry: 'Canada', prevSchool };
+    if (/^(usa|u\.?s\.?a?\.?|united states)$/i.test(regionRaw)) return { home, st: '', ctry: 'US', prevSchool };
     if (RL.us[rk]) return { home, st: RL.us[rk], ctry: 'US', prevSchool };
     if (RL.ca[rk]) return { home, st: RL.ca[rk], ctry: 'Canada', prevSchool };
     // 3-letter country codes some sites use (e.g. "Lovosice, CZE").
