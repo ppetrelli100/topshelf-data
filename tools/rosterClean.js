@@ -518,6 +518,15 @@
     return out;
   }
 
+  // Some sites (Robert Morris) list names "Last, First". Flip to "First Last"
+  // so the name and personkey match everything else. Leaves "Smith, Jr." alone.
+  function flipLastFirst(n) {
+    const t = String(n || '').trim();
+    const m = t.match(/^([^,()]+?),\s*([^,]+)$/);
+    if (!m || /^(jr|sr|ii|iii|iv)\.?$/i.test(m[2].trim())) return n;
+    return m[2].trim() + ' ' + m[1].trim();
+  }
+
   function colMapScore(colMap) {
     // Same bar updates.html uses for a pasted table: need Name plus at
     // least 2 more recognizable columns, or this isn't the roster table
@@ -569,8 +578,8 @@
     }
     for (let r = 1; r < best.length; r++) {
       const cells = best[r];
-      const rawName = colMap.name != null ? cells[colMap.name]
-        : (nameByNo[cleanCell(colMap.no != null ? cells[colMap.no] : '')] || '');
+      const rawName = flipLastFirst(colMap.name != null ? cells[colMap.name]
+        : (nameByNo[cleanCell(colMap.no != null ? cells[colMap.no] : '')] || ''));
       if (!rawName) continue; // a blank/section-divider row
       const nameNoPronounce = stripPronounce(rawName);
       // Unaccent to match the storage convention used everywhere else in
