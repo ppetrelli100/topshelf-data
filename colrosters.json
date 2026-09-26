@@ -49848,117 +49848,109 @@
       {
         "name": "Alaina Giampietro",
         "pk": "giampietro|alaina",
-        "y": "Jr",
+        "y": "R-So",
         "pos": "F",
-        "ht": "5-7",
+        "ht": "",
         "home": "Strongsville",
         "st": "OH",
         "ctry": "US",
         "no": "5",
-        "sh": "L",
-        "prevSchool": "Gilmour Academy"
+        "prevSchool": "Ohio State"
       },
       {
         "name": "Emma Goding",
         "pk": "goding|emma",
         "y": "So",
         "pos": "D",
-        "ht": "5-5",
+        "ht": "",
         "home": "Finspang",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "6",
-        "sh": "L",
-        "prevSchool": "MoDo Hockey"
+        "prevSchool": "MoDo Hockey (SDHL)"
       },
       {
         "name": "Rowyn Ringor",
         "pk": "ringor|rowyn",
         "y": "So",
         "pos": "F",
-        "ht": "5-4",
+        "ht": "",
         "home": "Winnipeg",
         "st": "MB",
         "ctry": "Canada",
         "no": "7",
-        "sh": "L",
-        "prevSchool": "Balmoral Hall"
+        "prevSchool": "Post University"
       },
       {
         "name": "Hannah Thornton",
         "pk": "thornton|hannah",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-4",
-        "home": "Whitby",
+        "ht": "",
+        "home": "Brooklin",
         "st": "ON",
         "ctry": "Canada",
         "no": "8",
-        "sh": "R"
+        "prevSchool": "Whitby Wolves (OWHL)"
       },
       {
         "name": "Calli Arnold",
         "pk": "arnold|calli",
-        "y": "Jr",
+        "y": "R-Jr",
         "pos": "F",
-        "ht": "5-2",
+        "ht": "",
         "home": "Dodsland",
         "st": "SK",
         "ctry": "Canada",
         "no": "9",
-        "sh": "L",
-        "prevSchool": "Bishop Kearney"
+        "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Kaitlyn Schooley",
         "pk": "schooley|kaitlyn",
         "y": "Jr",
         "pos": "D",
-        "ht": "5-7",
+        "ht": "",
         "home": "Moon Township",
         "st": "PA",
         "ctry": "US",
         "no": "10",
-        "sh": "L",
-        "prevSchool": "Penguins Elite"
+        "prevSchool": "Pittsburgh Penguins Elite"
       },
       {
         "name": "Taylor Storey",
         "pk": "storey|taylor",
-        "y": "So",
+        "y": "R-So",
         "pos": "F",
-        "ht": "5-3",
+        "ht": "",
         "home": "Waterloo",
         "st": "ON",
         "ctry": "Canada",
         "no": "11",
-        "sh": "R",
-        "prevSchool": "Etobicoke Junior Dolphins"
+        "prevSchool": "Clarkson University"
       },
       {
         "name": "Ashlyn Ham",
         "pk": "ham|ashlyn",
-        "y": "Jr",
+        "y": "R-Jr",
         "pos": "F",
-        "ht": "5-5",
-        "home": "Framingham",
+        "ht": "",
+        "home": "Farmingham",
         "st": "MA",
         "ctry": "US",
         "no": "12",
-        "sh": "R",
-        "prevSchool": "East Coast Wizards"
+        "prevSchool": "Clarkson University"
       },
       {
         "name": "Laura Eustace",
         "pk": "eustace|laura",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-5",
+        "ht": "",
         "home": "Riverview",
         "st": "NB",
         "ctry": "Canada",
         "no": "14",
-        "sh": "L",
         "prevSchool": "Ontario Hockey Academy"
       },
       {
@@ -49966,49 +49958,47 @@
         "pk": "crarer|catriona",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-3",
-        "home": "Ontario",
-        "st": "CA",
-        "ctry": "US",
+        "ht": "",
+        "home": "Pickering",
+        "st": "ON",
+        "ctry": "Canada",
         "no": "16",
-        "sh": "L",
-        "prevSchool": "Durham Junior Lightning"
+        "prevSchool": "Durham Junior Lightning (OWHL)"
       },
       {
         "name": "Linnea Misner",
         "pk": "misner|linnea",
         "y": "Fr",
         "pos": "D",
-        "ht": "5-9",
-        "home": "Cooks Creek",
+        "ht": "",
+        "home": "Springfield",
         "st": "MB",
         "ctry": "Canada",
         "no": "17",
-        "sh": "L"
+        "prevSchool": "RINK Hockey Academy (CSSHL)"
       },
       {
         "name": "Alexis Vrana",
         "pk": "vrana|alexis",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-7",
+        "ht": "",
         "home": "Kingston",
         "st": "ON",
         "ctry": "Canada",
         "no": "18",
-        "sh": "L"
+        "prevSchool": "Kingston Jr. (OWHL)"
       },
       {
         "name": "Thalia D'Elia",
         "pk": "delia|thalia",
         "y": "Jr",
         "pos": "D",
-        "ht": "5-4",
+        "ht": "",
         "home": "West Chester",
         "st": "PA",
         "ctry": "US",
         "no": "19",
-        "sh": "L",
         "prevSchool": "Philadelphia Junior Flyers"
       },
       {
@@ -50016,128 +50006,119 @@
         "pk": "snyder|mary",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-5",
+        "ht": "",
         "home": "Toledo",
         "st": "OH",
         "ctry": "US",
         "no": "20",
-        "sh": "L",
-        "prevSchool": "Notre Dame Academy"
+        "prevSchool": "Belle Tire (19U AAA)"
       },
       {
         "name": "Mya Farr",
         "pk": "farr|mya",
         "y": "So",
         "pos": "D",
-        "ht": "5-9",
+        "ht": "",
         "home": "Belmont",
         "st": "ON",
         "ctry": "Canada",
         "no": "21",
-        "sh": "L",
-        "prevSchool": "East Elgin"
+        "prevSchool": "London Devilettes (OWHL)"
       },
       {
         "name": "Lindsey Smolen",
         "pk": "smolen|lindsey",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-7",
+        "ht": "",
         "home": "Crystal Lake",
         "st": "IL",
         "ctry": "US",
         "no": "22",
-        "sh": "R",
-        "prevSchool": "Chicago Mission"
+        "prevSchool": "Chicago Mission (19U AAA)"
       },
       {
         "name": "Ellie Marcovsky",
         "pk": "marcovsky|eleanor",
         "y": "Gr",
         "pos": "F",
-        "ht": "5-3",
+        "ht": "",
         "home": "Pittsburgh",
         "st": "PA",
         "ctry": "US",
         "no": "23",
-        "sh": "R",
-        "prevSchool": "Bishop Kearney"
+        "prevSchool": "Princeton"
       },
       {
         "name": "Shayne Desjardins",
         "pk": "desjardins|shayne",
         "y": "So",
         "pos": "D",
-        "ht": "5-9",
+        "ht": "",
         "home": "Newmarket",
         "st": "ON",
         "ctry": "Canada",
         "no": "24",
-        "sh": "L",
-        "prevSchool": "Sacred Heart Catholic"
+        "prevSchool": "Whitby Wolves (OWHL)"
       },
       {
         "name": "Molly Dunn",
         "pk": "dunn|molly",
         "y": "Fr",
         "pos": "D",
-        "ht": "5-8",
+        "ht": "",
         "home": "Stittsville",
         "st": "ON",
         "ctry": "Canada",
         "no": "25",
-        "sh": "L"
+        "prevSchool": "Nepean Wildcats (OWHL)"
       },
       {
         "name": "Morgan Giannone",
         "pk": "giannone|morgan",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-6",
-        "home": "Waterdown",
+        "ht": "",
+        "home": "Oakville",
         "st": "ON",
         "ctry": "Canada",
         "no": "26",
-        "sh": "L",
-        "prevSchool": "St. Mary's"
+        "prevSchool": "St. Lawrence University"
       },
       {
         "name": "Mya Kearns",
         "pk": "kearns|mya",
         "y": "So",
         "pos": "D",
-        "ht": "5-8",
+        "ht": "",
         "home": "Canonsburg",
         "st": "PA",
         "ctry": "US",
         "no": "27",
-        "sh": "R",
-        "prevSchool": "Shady Side Academy"
+        "prevSchool": "Pittsburgh Penguins Elite"
       },
       {
         "name": "Jessica MacKinnon",
         "pk": "mackinnon|jessica",
-        "y": "Fr",
+        "y": "So",
         "pos": "F",
-        "ht": "5-5",
+        "ht": "",
         "home": "Clarks Harbour",
         "st": "NS",
         "ctry": "Canada",
         "no": "28",
-        "sh": "L",
-        "prevSchool": "Ridley College"
+        "prevSchool": "Clarkson University"
       },
       {
         "name": "Maggie Hatch",
         "pk": "hatch|margaret",
-        "y": "Sr",
+        "y": "R-Jr",
         "pos": "G",
-        "ht": "5-5",
+        "ht": "",
         "home": "Cleveland Heights",
         "st": "OH",
         "ctry": "US",
         "no": "29",
-        "sh": "L",
         "prevSchool": "Gilmour Academy"
       },
       {
@@ -50145,25 +50126,36 @@
         "pk": "peng|yiyi",
         "y": "Fr",
         "pos": "G",
-        "ht": "5-5",
+        "ht": "",
         "home": "Cornwall",
-        "st": "ON",
+        "st": "PE",
         "ctry": "Canada",
         "no": "30",
-        "sh": "L"
+        "prevSchool": "RINK HA Kelowna"
+      },
+      {
+        "name": "Ella Willoughby",
+        "pk": "willoughby|ella",
+        "y": "So",
+        "pos": "G",
+        "ht": "",
+        "home": "London",
+        "st": "ON",
+        "ctry": "Canada",
+        "no": "33",
+        "prevSchool": "University of Windsor (USports)"
       },
       {
         "name": "Lucy Phillips",
         "pk": "phillips|lucy",
-        "y": "So",
+        "y": "R-So",
         "pos": "G",
-        "ht": "5-10",
+        "ht": "",
         "home": "Upper Tantallon",
         "st": "NS",
         "ctry": "Canada",
         "no": "35",
-        "sh": "L",
-        "prevSchool": "Bay View"
+        "prevSchool": "Quinnipiac"
       }
     ],
     "Sacred Heart": [
