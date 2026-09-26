@@ -45973,9 +45973,7 @@
         "home": "Chanhassen",
         "st": "MN",
         "ctry": "US",
-        "no": "1",
-        "sh": "L",
-        "prevSchool": "Minnetonka High School"
+        "no": "1"
       },
       {
         "name": "Olivia Kortan",
@@ -45986,9 +45984,7 @@
         "home": "Moorhead",
         "st": "MN",
         "ctry": "US",
-        "no": "3",
-        "sh": "L",
-        "prevSchool": "Moorhead High School"
+        "no": "3"
       },
       {
         "name": "Sydney Bailey",
@@ -45999,9 +45995,7 @@
         "home": "Rogers",
         "st": "MN",
         "ctry": "US",
-        "no": "5",
-        "sh": "R",
-        "prevSchool": "Rogers High School"
+        "no": "5"
       },
       {
         "name": "Molly Jordan",
@@ -46013,8 +46007,7 @@
         "st": "CT",
         "ctry": "US",
         "no": "6",
-        "sh": "R",
-        "prevSchool": "Bishop Kearney"
+        "prevSchool": "BK Selects"
       },
       {
         "name": "Nelli Laitinen",
@@ -46023,11 +46016,10 @@
         "pos": "D",
         "ht": "5-7",
         "home": "Lohja",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "7",
-        "sh": "L",
-        "prevSchool": "Haukilahti High School"
+        "prevSchool": "Kiekko-Espoo"
       },
       {
         "name": "Chloe Primerano",
@@ -46038,9 +46030,7 @@
         "home": "North Vancouver",
         "st": "BC",
         "ctry": "Canada",
-        "no": "8",
-        "sh": "L",
-        "prevSchool": "RINK-Kelowna"
+        "no": "8"
       },
       {
         "name": "Ava Lindsay",
@@ -46051,9 +46041,7 @@
         "home": "Minnetonka",
         "st": "MN",
         "ctry": "US",
-        "no": "9",
-        "sh": "R",
-        "prevSchool": "Minnetonka High School"
+        "no": "9"
       },
       {
         "name": "Jamie Nelson",
@@ -46065,8 +46053,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "10",
-        "sh": "L",
-        "prevSchool": "Andover"
+        "prevSchool": "Minnesota State"
       },
       {
         "name": "Josefin Bouveng",
@@ -46075,24 +46062,21 @@
         "pos": "F",
         "ht": "5-9",
         "home": "Vassunda",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "11",
-        "sh": "L",
-        "prevSchool": "Sjolins Gymnasium Sodermalm"
+        "prevSchool": "Brynäs IF"
       },
       {
         "name": "Avery Hovland",
         "pk": "hovland|avery",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-3",
+        "ht": "",
         "home": "West Fargo",
         "st": "ND",
         "ctry": "US",
-        "no": "12",
-        "sh": "L",
-        "prevSchool": "North American Hockey Academy"
+        "no": "12"
       },
       {
         "name": "Emma Kreisz",
@@ -46101,11 +46085,9 @@
         "pos": "F",
         "ht": "5-9",
         "home": "Budapest",
-        "st": "HUNGARY",
+        "st": "Hungary",
         "ctry": "Europe",
-        "no": "13",
-        "sh": "L",
-        "prevSchool": "Stanstead College"
+        "no": "13"
       },
       {
         "name": "Sienna D'Alessandro",
@@ -46113,25 +46095,21 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Pointe Claire",
-        "st": "QC",
-        "ctry": "Canada",
-        "no": "14",
-        "sh": "L",
-        "prevSchool": "Quebec Schools"
+        "home": "Pointe-Claire",
+        "st": "Quebec City",
+        "ctry": "__UNKNOWN__",
+        "no": "14"
       },
       {
         "name": "Allie Franco",
         "pk": "franco|alejandra",
         "y": "Sr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-7",
         "home": "Oakdale",
         "st": "MN",
         "ctry": "US",
-        "no": "16",
-        "sh": "L",
-        "prevSchool": "Hill-Murray School"
+        "no": "16"
       },
       {
         "name": "Kendra Distad",
@@ -46142,9 +46120,7 @@
         "home": "Burnsville",
         "st": "MN",
         "ctry": "US",
-        "no": "17",
-        "sh": "R",
-        "prevSchool": "Minnetonka High School"
+        "no": "17"
       },
       {
         "name": "Abbey Murphy",
@@ -46156,21 +46132,19 @@
         "st": "IL",
         "ctry": "US",
         "no": "18",
-        "sh": "R",
-        "prevSchool": "Mother McAuley High School"
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Sarah Paul",
         "pk": "paul|sarah",
-        "y": "Sr",
+        "y": "R-Sr",
         "pos": "F",
         "ht": "5-8",
         "home": "West Kelowna",
         "st": "BC",
         "ctry": "Canada",
         "no": "19",
-        "sh": "L",
-        "prevSchool": "Penticton Secondary"
+        "prevSchool": "Princeton"
       },
       {
         "name": "Tereza Plosova",
@@ -46178,11 +46152,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-10",
-        "home": "Simonovice",
-        "st": "CZECHIA",
-        "ctry": "Europe",
+        "home": "Czech Republic",
+        "st": "",
+        "ctry": "",
         "no": "22",
-        "sh": "L"
+        "prevSchool": "Djurgårdens IF"
       },
       {
         "name": "Carly Humphrey",
@@ -46193,9 +46167,7 @@
         "home": "Elk River",
         "st": "MN",
         "ctry": "US",
-        "no": "24",
-        "sh": "L",
-        "prevSchool": "Elk River High School"
+        "no": "24"
       },
       {
         "name": "Madison Kaiser",
@@ -46206,9 +46178,7 @@
         "home": "Andover",
         "st": "MN",
         "ctry": "US",
-        "no": "29",
-        "sh": "L",
-        "prevSchool": "Holy Family Catholic High School"
+        "no": "29"
       },
       {
         "name": "Sydney Morrow",
@@ -46220,8 +46190,7 @@
         "st": "CT",
         "ctry": "US",
         "no": "32",
-        "sh": "R",
-        "prevSchool": "Shattuck-St. Mary's"
+        "prevSchool": "Colgate University"
       },
       {
         "name": "Sophia Johnson",
@@ -46232,9 +46201,7 @@
         "home": "Minnetonka",
         "st": "MN",
         "ctry": "US",
-        "no": "35",
-        "sh": "L",
-        "prevSchool": "Minnetonka High School"
+        "no": "35"
       },
       {
         "name": "Gracie Graham",
@@ -46245,9 +46212,7 @@
         "home": "Kelowna",
         "st": "BC",
         "ctry": "Canada",
-        "no": "47",
-        "sh": "L",
-        "prevSchool": "RINK-Kelowna"
+        "no": "47"
       },
       {
         "name": "Hannah Clark",
@@ -46258,12 +46223,10 @@
         "home": "Oshawa",
         "st": "ON",
         "ctry": "Canada",
-        "no": "56",
-        "sh": "L",
-        "prevSchool": "Etobicoke"
+        "no": "56"
       },
       {
-        "name": "Anabella Fanale",
+        "name": "Bella Fanale",
         "pk": "fanale|anabella",
         "y": "Fr",
         "pos": "F",
@@ -46272,8 +46235,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "97",
-        "sh": "R",
-        "prevSchool": "Bishop Kearney High School"
+        "prevSchool": "Bishop Kearney Selects 19U AAA"
       }
     ],
     "Minnesota -Duluth": [
@@ -46903,20 +46865,19 @@
         "ctry": "US",
         "no": "1",
         "sh": "L",
-        "prevSchool": "Lawrenceville School"
+        "prevSchool": "Connecticut Polar Bears"
       },
       {
-        "name": "Addy Finn",
+        "name": "Addison Finn",
         "pk": "finn|addison",
         "y": "So",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-8",
         "home": "Stillwater",
         "st": "MN",
         "ctry": "US",
         "no": "2",
-        "sh": "R",
-        "prevSchool": "Stillwater"
+        "sh": "R"
       },
       {
         "name": "Moa Soderholm",
@@ -46924,12 +46885,11 @@
         "y": "So",
         "pos": "D",
         "ht": "5-6",
-        "home": "Lidingoe",
-        "st": "SWEDEN",
+        "home": "Stockholm",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "3",
-        "sh": "L",
-        "prevSchool": "Lidingo"
+        "sh": "L"
       },
       {
         "name": "Alex Therien",
@@ -46951,8 +46911,7 @@
         "home": "Pittsgrove",
         "st": "NJ",
         "ctry": "US",
-        "no": "5",
-        "prevSchool": "Shattuck St. Mary's"
+        "no": "5"
       },
       {
         "name": "Ireland Fredrickson",
@@ -46963,8 +46922,7 @@
         "home": "Concord",
         "st": "NH",
         "ctry": "US",
-        "no": "6",
-        "prevSchool": "Concord High School"
+        "no": "6"
       },
       {
         "name": "Sydney Leonard",
@@ -46972,12 +46930,12 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Saint Bonifacius",
+        "home": "St. Bonifacius",
         "st": "MN",
         "ctry": "US",
         "no": "7",
         "sh": "L",
-        "prevSchool": "Mound Westonka"
+        "prevSchool": "MSP Grey Sharks"
       },
       {
         "name": "Callista Printz",
@@ -46990,7 +46948,7 @@
         "ctry": "US",
         "no": "8",
         "sh": "R",
-        "prevSchool": "Nichols School"
+        "prevSchool": "Amherst Knights"
       },
       {
         "name": "Kelly Harty",
@@ -47002,8 +46960,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "9",
-        "sh": "L",
-        "prevSchool": "The Governor's Academy"
+        "sh": "L"
       },
       {
         "name": "Kate Sullivan",
@@ -47014,8 +46971,7 @@
         "home": "Hingham",
         "st": "MA",
         "ctry": "US",
-        "no": "11",
-        "prevSchool": "Thayer Academy"
+        "no": "11"
       },
       {
         "name": "Julia Loughlin",
@@ -47026,8 +46982,7 @@
         "home": "Scituate",
         "st": "MA",
         "ctry": "US",
-        "no": "13",
-        "prevSchool": "New Hampton School"
+        "no": "13"
       },
       {
         "name": "Josie Linn",
@@ -47038,8 +46993,7 @@
         "home": "Excelsior",
         "st": "MN",
         "ctry": "US",
-        "no": "16",
-        "prevSchool": "Holy Family Catholic HS"
+        "no": "16"
       },
       {
         "name": "Addison Spitz",
@@ -47050,8 +47004,7 @@
         "home": "Grosse Pointe",
         "st": "MI",
         "ctry": "US",
-        "no": "17",
-        "prevSchool": "Detroit Little Caesars"
+        "no": "17"
       },
       {
         "name": "Courtney Lilley",
@@ -47064,7 +47017,7 @@
         "ctry": "US",
         "no": "18",
         "sh": "R",
-        "prevSchool": "Cushing Academy"
+        "prevSchool": "Assabet Valley"
       },
       {
         "name": "Hannah Rodgers",
@@ -47072,12 +47025,11 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Wilmington",
+        "home": "Raleigh",
         "st": "NC",
         "ctry": "US",
         "no": "19",
-        "sh": "L",
-        "prevSchool": "Shattuck St. Mary's"
+        "sh": "L"
       },
       {
         "name": "Danika Botterill",
@@ -47085,7 +47037,7 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Portage la Prairie",
+        "home": "Portage La Prairie",
         "st": "MB",
         "ctry": "Canada",
         "no": "21",
@@ -47103,7 +47055,7 @@
         "ctry": "US",
         "no": "22",
         "sh": "R",
-        "prevSchool": "Berwick Academy"
+        "prevSchool": "CPC"
       },
       {
         "name": "Charlie Rauch",
@@ -47116,7 +47068,7 @@
         "ctry": "US",
         "no": "27",
         "sh": "L",
-        "prevSchool": "The Hill School"
+        "prevSchool": "Connecticut Polar Bears"
       },
       {
         "name": "Lucie Legro",
@@ -47127,9 +47079,7 @@
         "home": "Brentwood",
         "st": "NH",
         "ctry": "US",
-        "no": "28",
-        "sh": "R",
-        "prevSchool": "New Hampton School"
+        "no": "28"
       },
       {
         "name": "Sadie Makokis",
@@ -47155,7 +47105,7 @@
         "ctry": "US",
         "no": "30",
         "sh": "L",
-        "prevSchool": "Holy Family Catholic"
+        "prevSchool": "MSP Grey Sharks"
       },
       {
         "name": "Aurora Kahlert",
@@ -47175,11 +47125,11 @@
         "pos": "G",
         "ht": "5-8",
         "home": "Seoul",
-        "st": "SOUTH KOREA",
+        "st": "South Korea",
         "ctry": "Asia",
         "no": "34",
         "sh": "L",
-        "prevSchool": "New Hampton School"
+        "prevSchool": "NAE"
       },
       {
         "name": "Kristen Hartman",
@@ -47198,12 +47148,12 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Toronto",
+        "home": "Scarborough",
         "st": "ON",
         "ctry": "Canada",
         "no": "67",
         "sh": "L",
-        "prevSchool": "Notre Dame High School"
+        "prevSchool": "Durham West Jr."
       }
     ],
     "Northeastern": [
@@ -58215,9 +58165,7 @@
         "home": "North Vancouver",
         "st": "BC",
         "ctry": "Canada",
-        "no": "8",
-        "sh": "L",
-        "prevSchool": "RINK-Kelowna"
+        "no": "8"
       },
       {
         "name": "Ava Lindsay",
@@ -58228,8 +58176,7 @@
         "home": "Minnetonka",
         "st": "MN",
         "ctry": "US",
-        "no": "9",
-        "sh": "R"
+        "no": "9"
       },
       {
         "name": "Julia Schalin",
@@ -58263,9 +58210,7 @@
         "home": "Budapest",
         "st": "Hungary",
         "ctry": "Europe",
-        "no": "13",
-        "sh": "L",
-        "prevSchool": "Stanstead College"
+        "no": "13"
       },
       {
         "name": "Sienna D'Alessandro",
@@ -58274,8 +58219,8 @@
         "pos": "F",
         "ht": "5-7",
         "home": "Pointe-Claire",
-        "st": "QC",
-        "ctry": "Canada",
+        "st": "Quebec City",
+        "ctry": "__UNKNOWN__",
         "no": "14"
       },
       {
@@ -58287,8 +58232,7 @@
         "home": "Burnsville",
         "st": "MN",
         "ctry": "US",
-        "no": "17",
-        "sh": "R"
+        "no": "17"
       },
       {
         "name": "Sarah Paul",
@@ -58320,11 +58264,11 @@
         "y": "So",
         "pos": "F",
         "ht": "5-10",
-        "home": "",
-        "st": "Czech Republic",
-        "ctry": "Europe",
+        "home": "Czech Republic",
+        "st": "",
+        "ctry": "",
         "no": "22",
-        "prevSchool": "Djurgardens IF"
+        "prevSchool": "Djurgårdens IF"
       },
       {
         "name": "Carly Humphrey",
@@ -58335,8 +58279,7 @@
         "home": "Elk River",
         "st": "MN",
         "ctry": "US",
-        "no": "24",
-        "sh": "L"
+        "no": "24"
       },
       {
         "name": "Madison Kaiser",
@@ -58347,8 +58290,7 @@
         "home": "Andover",
         "st": "MN",
         "ctry": "US",
-        "no": "29",
-        "sh": "L"
+        "no": "29"
       },
       {
         "name": "Payton Rolli",
@@ -58382,9 +58324,7 @@
         "home": "Kelowna",
         "st": "BC",
         "ctry": "Canada",
-        "no": "47",
-        "sh": "L",
-        "prevSchool": "RINK-Kelowna"
+        "no": "47"
       },
       {
         "name": "Sloane Hartmetz",
@@ -58406,8 +58346,7 @@
         "home": "Oshawa",
         "st": "ON",
         "ctry": "Canada",
-        "no": "56",
-        "sh": "L"
+        "no": "56"
       },
       {
         "name": "Rachel Piggott",
@@ -59072,7 +59011,8 @@
         "home": "Norfolk",
         "st": "MA",
         "ctry": "US",
-        "no": "4"
+        "no": "4",
+        "sh": "R"
       },
       {
         "name": "Nina Rossi",
@@ -59133,7 +59073,8 @@
         "home": "Woburn",
         "st": "MA",
         "ctry": "US",
-        "no": "9"
+        "no": "9",
+        "sh": "L"
       },
       {
         "name": "Elizabeth Allen",
@@ -59144,7 +59085,8 @@
         "home": "Brookline",
         "st": "MA",
         "ctry": "US",
-        "no": "10"
+        "no": "10",
+        "sh": "L"
       },
       {
         "name": "Kate Sullivan",
@@ -59192,8 +59134,7 @@
         "st": "MI",
         "ctry": "US",
         "no": "17",
-        "sh": "R",
-        "prevSchool": "Detroit Little Caesars / Colgate"
+        "sh": "R"
       },
       {
         "name": "Courtney Lilley",
@@ -59206,7 +59147,7 @@
         "ctry": "US",
         "no": "18",
         "sh": "R",
-        "prevSchool": "Asasbet"
+        "prevSchool": "Assabet Valley"
       },
       {
         "name": "Sofia Kari",
@@ -59217,7 +59158,8 @@
         "home": "Alajarvi",
         "st": "Finland",
         "ctry": "Europe",
-        "no": "20"
+        "no": "20",
+        "sh": "R"
       },
       {
         "name": "Danika Botterill",
@@ -59306,8 +59248,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "33",
-        "sh": "L",
-        "prevSchool": "Pacific Steelers"
+        "sh": "L"
       },
       {
         "name": "Ella Souza",
@@ -59318,7 +59259,8 @@
         "home": "Portsmouth",
         "st": "NH",
         "ctry": "US",
-        "no": "47"
+        "no": "47",
+        "sh": "L"
       },
       {
         "name": "Kristen Hartman",
@@ -60196,7 +60138,7 @@
       },
       {
         "name": "Maddy Campbell",
-        "pk": "campbell|madeline",
+        "pk": "campbell|madison",
         "y": "So",
         "pos": "G",
         "ht": "5-6",

@@ -32,11 +32,85 @@
           "at": "2026-09-25T23:58:38.467Z"
         }
       ]
+    },
+    "New Hampshire": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 25,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 20,
+            "name": 1,
+            "pos": 1,
+            "home": 5,
+            "st": 2,
+            "sh": 1
+          },
+          "at": "2026-09-26T00:01:42.272Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 25,
+          "at": "2026-09-26T00:01:50.994Z"
+        }
+      ],
+      "at": "2026-09-26T00:01:50.994Z"
+    },
+    "Minnesota": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 24,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 24,
+            "st": 5,
+            "ht": 1,
+            "home": 2,
+            "ctry": 2,
+            "pos": 1,
+            "y": 1,
+            "name": 1
+          },
+          "at": "2026-09-26T00:03:44.397Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:03:53.199Z"
+        }
+      ],
+      "at": "2026-09-26T00:03:53.199Z"
     }
   },
   "2026-27": {
     "Penn State": {
-      "at": "2026-09-25T23:52:41.987Z"
+      "at": "2026-09-26T00:01:14.322Z",
+      "history": [
+        {
+          "result": "changes",
+          "n": 22,
+          "added": [
+            "Maddy Campbell"
+          ],
+          "removed": [
+            "Maddy Campbell"
+          ],
+          "fields": {},
+          "at": "2026-09-26T00:00:36.131Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 22,
+          "at": "2026-09-26T00:01:14.322Z"
+        }
+      ]
     },
     "Merrimack": {
       "history": [
@@ -52,6 +126,117 @@
             "ctry": 2
           },
           "at": "2026-09-25T23:58:48.693Z",
+          "baseline": true
+        }
+      ]
+    },
+    "New Hampshire": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "sh": 5,
+            "prevSchool": 3
+          },
+          "at": "2026-09-26T00:01:27.651Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:01:36.885Z"
+        }
+      ],
+      "at": "2026-09-26T00:01:36.885Z"
+    },
+    "Minnesota": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 4,
+            "st": 2,
+            "ctry": 2,
+            "home": 1
+          },
+          "at": "2026-09-26T00:03:28.204Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:03:40.929Z"
+        }
+      ],
+      "at": "2026-09-26T00:03:40.929Z"
+    },
+    "Robert Morris": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 25,
+          "added": [
+            "Aufiero, Caroline",
+            "Thiessen, Lucy",
+            "Giampietro, Alaina",
+            "Ringor, Rowyn",
+            "Thornton, Hannah",
+            "Pierre, Rio",
+            "Schooley, Kaitlyn",
+            "Storey, Taylor",
+            "Ham, Ashlyn",
+            "Eustace, Laura",
+            "Brezenski, Greta",
+            "Crarer, Catriona",
+            "Vrana, Ava",
+            "Vrana, Alexis",
+            "D'Elia, Thalia",
+            "Snyder, Mary",
+            "Farr, Mya",
+            "Smolen, Lindsey",
+            "Desjardins, Shayne",
+            "Stevenson, Bridget",
+            "Kearns, Mya",
+            "MacKinnon, Jessica",
+            "Hatch, Maggie",
+            "Peng, Yiyi",
+            "Willoughby, Ella"
+          ],
+          "removed": [
+            "Caroline Aufiero",
+            "Lucy Thiessen",
+            "Alaina Giampietro",
+            "Rowyn Ringer",
+            "Hannah Thornton",
+            "Rio Pierre",
+            "Kaitlyn Schooley",
+            "Taylor Storey",
+            "Ashlyn Ham",
+            "Laura Eustace",
+            "Greta Brezenski",
+            "Catriona Crarer",
+            "Ava Vrana",
+            "Alexis Vrana",
+            "Thalia D'Elia",
+            "Mary Snyder",
+            "Mya Farr",
+            "Lindsey Smolen",
+            "Shayne Desjardins",
+            "Bridget Stevenson",
+            "Mya Kearns",
+            "Jessica MacKinnon",
+            "Maggie Hatch",
+            "Yiyi Peng",
+            "Ella Willoughby"
+          ],
+          "fields": {},
+          "at": "2026-09-26T00:04:23.723Z",
           "baseline": true
         }
       ]
