@@ -399,6 +399,29 @@
           "baseline": true
         }
       ]
+    },
+    "Merrimack": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [
+            "Margaux Favre"
+          ],
+          "fields": {
+            "prevSchool": 26,
+            "ht": 13,
+            "sh": 13,
+            "home": 7,
+            "st": 2,
+            "name": 1,
+            "pos": 3
+          },
+          "at": "2026-09-26T00:27:49.085Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
