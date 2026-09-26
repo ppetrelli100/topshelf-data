@@ -59072,7 +59072,8 @@
         "home": "Norfolk",
         "st": "MA",
         "ctry": "US",
-        "no": "4"
+        "no": "4",
+        "sh": "R"
       },
       {
         "name": "Nina Rossi",
@@ -59133,7 +59134,8 @@
         "home": "Woburn",
         "st": "MA",
         "ctry": "US",
-        "no": "9"
+        "no": "9",
+        "sh": "L"
       },
       {
         "name": "Elizabeth Allen",
@@ -59144,7 +59146,8 @@
         "home": "Brookline",
         "st": "MA",
         "ctry": "US",
-        "no": "10"
+        "no": "10",
+        "sh": "L"
       },
       {
         "name": "Kate Sullivan",
@@ -59192,8 +59195,7 @@
         "st": "MI",
         "ctry": "US",
         "no": "17",
-        "sh": "R",
-        "prevSchool": "Detroit Little Caesars / Colgate"
+        "sh": "R"
       },
       {
         "name": "Courtney Lilley",
@@ -59206,7 +59208,7 @@
         "ctry": "US",
         "no": "18",
         "sh": "R",
-        "prevSchool": "Asasbet"
+        "prevSchool": "Assabet Valley"
       },
       {
         "name": "Sofia Kari",
@@ -59217,7 +59219,8 @@
         "home": "Alajarvi",
         "st": "Finland",
         "ctry": "Europe",
-        "no": "20"
+        "no": "20",
+        "sh": "R"
       },
       {
         "name": "Danika Botterill",
@@ -59306,8 +59309,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "33",
-        "sh": "L",
-        "prevSchool": "Pacific Steelers"
+        "sh": "L"
       },
       {
         "name": "Ella Souza",
@@ -59318,7 +59320,8 @@
         "home": "Portsmouth",
         "st": "NH",
         "ctry": "US",
-        "no": "47"
+        "no": "47",
+        "sh": "L"
       },
       {
         "name": "Kristen Hartman",
