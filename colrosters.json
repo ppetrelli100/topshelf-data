@@ -50457,7 +50457,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "1",
-        "prevSchool": "B Reed Henderson High School"
+        "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
         "name": "Ella Ridge",
@@ -50469,19 +50469,19 @@
         "st": "IL",
         "ctry": "US",
         "no": "2",
-        "prevSchool": "Bishop Kearney"
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Kayla Lunney",
         "pk": "lunney|kayla",
         "y": "Fr",
         "pos": "D",
-        "ht": "5-4",
+        "ht": "5-3",
         "home": "Birmingham",
         "st": "MI",
         "ctry": "US",
         "no": "3",
-        "prevSchool": "Cranbrook Kingswood School"
+        "prevSchool": "Belle Tire AAA"
       },
       {
         "name": "Mackenzie Moss",
@@ -50504,8 +50504,7 @@
         "home": "Penticton",
         "st": "BC",
         "ctry": "Canada",
-        "no": "5",
-        "sh": "L"
+        "no": "5"
       },
       {
         "name": "Sydney Merritt",
@@ -50517,19 +50516,18 @@
         "st": "CA",
         "ctry": "US",
         "no": "6",
-        "prevSchool": "Ann Sobrato"
+        "prevSchool": "Dallas Stars Elite"
       },
       {
         "name": "Ava Hunter",
         "pk": "hunter|ava",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-3",
+        "ht": "5-4",
         "home": "Southampton",
         "st": "MA",
         "ctry": "US",
-        "no": "7",
-        "prevSchool": "ST Pauls School"
+        "no": "7"
       },
       {
         "name": "Madison Macaulay",
@@ -50540,8 +50538,7 @@
         "home": "Queensbury",
         "st": "NY",
         "ctry": "US",
-        "no": "8",
-        "prevSchool": "Lovell Academy"
+        "no": "8"
       },
       {
         "name": "Justyce Ohlgren",
@@ -50553,19 +50550,18 @@
         "st": "MN",
         "ctry": "US",
         "no": "9",
-        "prevSchool": "Rogers"
+        "prevSchool": "Junior Whitecaps"
       },
       {
         "name": "Talia Ondy",
         "pk": "ondy|talia",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-8",
+        "ht": "5-7",
         "home": "Newtown",
         "st": "CT",
         "ctry": "US",
-        "no": "10",
-        "prevSchool": "Lovell Academy"
+        "no": "10"
       },
       {
         "name": "Cora Webber",
@@ -50577,8 +50573,7 @@
         "st": "RI",
         "ctry": "US",
         "no": "11",
-        "sh": "R",
-        "prevSchool": "Williston"
+        "prevSchool": "Maine"
       },
       {
         "name": "Lucy DeCoteau",
@@ -50589,7 +50584,8 @@
         "home": "Canton",
         "st": "NY",
         "ctry": "US",
-        "no": "13"
+        "no": "13",
+        "prevSchool": "Ontario Hockey Academy"
       },
       {
         "name": "Nicola Forth",
@@ -50601,7 +50597,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "14",
-        "prevSchool": "Coventry Christian"
+        "prevSchool": "Junior Flyers"
       },
       {
         "name": "Kismet Dogan",
@@ -50612,7 +50608,8 @@
         "home": "Vancouver",
         "st": "BC",
         "ctry": "Canada",
-        "no": "15"
+        "no": "15",
+        "prevSchool": "Delta Hockey Academy"
       },
       {
         "name": "Julie Duce",
@@ -50624,31 +50621,19 @@
         "st": "IL",
         "ctry": "US",
         "no": "16",
-        "sh": "R",
-        "prevSchool": "Barrington Community High Schl"
-      },
-      {
-        "name": "Natasha Lozowchuk",
-        "pk": "lozowchuk|natasha",
-        "y": "Jr",
-        "pos": "D",
-        "ht": "5-7",
-        "home": "Canmore",
-        "st": "AB",
-        "ctry": "Canada",
-        "no": "17"
+        "prevSchool": "Windy City Storm AAA"
       },
       {
         "name": "Taylor Buckley",
         "pk": "buckley|taylor",
         "y": "Fr",
         "pos": "D",
-        "ht": "5-10",
+        "ht": "5-8",
         "home": "Woburn",
         "st": "MA",
         "ctry": "US",
         "no": "18",
-        "prevSchool": "Cushing Academy"
+        "prevSchool": "East Coast Wizards"
       },
       {
         "name": "Brenna Young",
@@ -50659,8 +50644,7 @@
         "home": "Wilmington",
         "st": "MA",
         "ctry": "US",
-        "no": "19",
-        "prevSchool": "New Hampton School"
+        "no": "19"
       },
       {
         "name": "Eden Granley",
@@ -50672,8 +50656,7 @@
         "st": "UT",
         "ctry": "US",
         "no": "20",
-        "sh": "R",
-        "prevSchool": "Philadelphia Jr. Flyers"
+        "prevSchool": "Holy Cross"
       },
       {
         "name": "Grace Littler",
@@ -50684,7 +50667,8 @@
         "home": "East Wenatchee",
         "st": "WA",
         "ctry": "US",
-        "no": "21"
+        "no": "21",
+        "prevSchool": "Okanagan Hockey Academy"
       },
       {
         "name": "Hailey Tullo",
@@ -50696,7 +50680,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "22",
-        "prevSchool": "Westminster School"
+        "prevSchool": "Connecticut Polar Bears"
       },
       {
         "name": "Alexis Poppleton",
@@ -50708,7 +50692,7 @@
         "st": "WY",
         "ctry": "US",
         "no": "24",
-        "prevSchool": "Thunder Basin High School"
+        "prevSchool": "Dallas Stars Elite"
       },
       {
         "name": "Brooklyn Schneiderhan",
@@ -50720,20 +50704,19 @@
         "st": "MT",
         "ctry": "US",
         "no": "25",
-        "prevSchool": "Jefferson"
+        "prevSchool": "Helena"
       },
       {
         "name": "Lauren Waldo",
         "pk": "waldo|lauren",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-8",
+        "ht": "5-7",
         "home": "Livonia",
         "st": "MI",
         "ctry": "US",
         "no": "26",
-        "sh": "R",
-        "prevSchool": "Adlai E Stevenson High School"
+        "prevSchool": "Belle Tire AAA"
       },
       {
         "name": "Taylor Hartinger",
@@ -50745,7 +50728,7 @@
         "st": "NM",
         "ctry": "US",
         "no": "28",
-        "sh": "L"
+        "prevSchool": "Franklin Pierce"
       },
       {
         "name": "Grace Stirling",
@@ -50753,11 +50736,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Mayfield",
+        "home": "Mayfield Village",
         "st": "OH",
         "ctry": "US",
         "no": "29",
-        "prevSchool": "Tabor Academy"
+        "prevSchool": "Boston Jr. Eagles"
       },
       {
         "name": "Julia Matyas",
@@ -50769,8 +50752,7 @@
         "st": "IL",
         "ctry": "US",
         "no": "33",
-        "sh": "L",
-        "prevSchool": "Westminster School"
+        "prevSchool": "Sacred Heart"
       }
     ],
     "Saint Michael's": [
