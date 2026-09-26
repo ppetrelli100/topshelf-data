@@ -45275,13 +45275,11 @@
         "pk": "lind|erika",
         "y": "Jr",
         "pos": "G",
-        "ht": "6-1",
+        "ht": "6-0",
         "home": "Edmonton",
         "st": "AB",
         "ctry": "Canada",
-        "no": "1",
-        "sh": "L",
-        "prevSchool": "Northern Alberta Xtreme"
+        "no": "1"
       },
       {
         "name": "Jessica Ciarrocchi",
@@ -45293,8 +45291,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "2",
-        "sh": "R",
-        "prevSchool": "The Hill School"
+        "prevSchool": "Brown / Penn State"
       },
       {
         "name": "Payten Evans",
@@ -45306,7 +45303,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "4",
-        "sh": "L"
+        "prevSchool": "Merrimack"
       },
       {
         "name": "Ashley Mandeville",
@@ -45318,7 +45315,6 @@
         "st": "RI",
         "ctry": "US",
         "no": "5",
-        "sh": "L",
         "prevSchool": "Bishop Kearney Selects"
       },
       {
@@ -45331,7 +45327,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "6",
-        "sh": "L"
+        "prevSchool": "Whitby Wolves OWHA U22"
       },
       {
         "name": "Nayeon Kim",
@@ -45340,10 +45336,10 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Gyeonggi-do",
-        "st": "SOUTH KOREA",
+        "st": "South Korea",
         "ctry": "Asia",
         "no": "7",
-        "sh": "R"
+        "prevSchool": "South Korean National Team"
       },
       {
         "name": "Sofia Ljung",
@@ -45352,10 +45348,10 @@
         "pos": "D",
         "ht": "5-7",
         "home": "Hudiksvall",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "8",
-        "sh": "L"
+        "prevSchool": "Brynas IF (SDHL)"
       },
       {
         "name": "Maja Alenius",
@@ -45364,22 +45360,22 @@
         "pos": "D",
         "ht": "5-10",
         "home": "Gavle",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "9",
-        "sh": "L"
+        "prevSchool": "Sweden U18 National Team"
       },
       {
-        "name": "Emmi MourujArvi",
+        "name": "Emmi Mourujarvi",
         "pk": "mourujarvi|emmi",
         "y": "Jr",
         "pos": "D",
-        "ht": "5-7",
+        "ht": "5-10",
         "home": "Posio",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "10",
-        "sh": "L"
+        "prevSchool": "TPS (Naisten Liiga)"
       },
       {
         "name": "Makayla Javier",
@@ -45387,11 +45383,10 @@
         "y": "Sr",
         "pos": "D",
         "ht": "5-6",
-        "home": "West Chester",
-        "st": "PA",
+        "home": "Abingdon",
+        "st": "MD",
         "ctry": "US",
-        "no": "11",
-        "sh": "R"
+        "no": "11"
       },
       {
         "name": "Madison Nelson",
@@ -45403,7 +45398,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "12",
-        "sh": "R"
+        "prevSchool": "Mississauga Hurricanes OWHA U22"
       },
       {
         "name": "Berlin Lolacher",
@@ -45415,34 +45410,31 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "13",
-        "sh": "L",
-        "prevSchool": "Saskatchewan Schools"
+        "prevSchool": "Regina Rebels SFU U18"
       },
       {
         "name": "Julia Schalin",
         "pk": "schalin|julia",
         "y": "So",
         "pos": "F",
-        "ht": "5-8",
+        "ht": "5-3",
         "home": "Espoo",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "14",
-        "sh": "L",
-        "prevSchool": "Kiekko-Espoo"
+        "prevSchool": "Finland National Team"
       },
       {
         "name": "Julia Perjus",
         "pk": "perjus|julia",
-        "y": "So",
+        "y": "R-Fr",
         "pos": "F",
         "ht": "5-8",
         "home": "Stockholm",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "15",
-        "sh": "R",
-        "prevSchool": "Nolaskolan"
+        "prevSchool": "Modo(SDHL) / Sweden U18 National Team"
       },
       {
         "name": "Henlee Mahoney",
@@ -45454,7 +45446,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "16",
-        "sh": "R"
+        "prevSchool": "Stoney Creek Sabres (OWHL)"
       },
       {
         "name": "Avery Bryk",
@@ -45466,19 +45458,19 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "18",
-        "sh": "R"
+        "prevSchool": "Durham West Lightning OWHA U22"
       },
       {
         "name": "Jade Maisonneuve",
         "pk": "maisonneuve|jade",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-4",
-        "home": "St. Isidore",
-        "st": "ON",
-        "ctry": "Canada",
+        "ht": "5-3",
+        "home": "St-Isidore",
+        "st": "Canada",
+        "ctry": "__UNKNOWN__",
         "no": "19",
-        "sh": "R"
+        "prevSchool": "Nepean Wildcats (OWHL)"
       },
       {
         "name": "Regina Metzler",
@@ -45487,11 +45479,10 @@
         "pos": "F",
         "ht": "5-10",
         "home": "Budapest",
-        "st": "HUNGARY",
+        "st": "Hungary",
         "ctry": "Europe",
         "no": "21",
-        "sh": "L",
-        "prevSchool": "Ontario Hockey Academy U22"
+        "prevSchool": "Ontario Hockey Academy U22/ Hungarian National Team"
       },
       {
         "name": "Sofia Nuutinen",
@@ -45500,10 +45491,9 @@
         "pos": "F",
         "ht": "5-7",
         "home": "Vantaa",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
-        "no": "22",
-        "sh": "L"
+        "no": "22"
       },
       {
         "name": "Lexi Stanat",
@@ -45515,7 +45505,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "23",
-        "sh": "L"
+        "prevSchool": "Burlington Barracudas OWHA U22"
       },
       {
         "name": "Sophie McKinley",
@@ -45527,7 +45517,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "24",
-        "sh": "R"
+        "prevSchool": "Merrimack"
       },
       {
         "name": "Abby Poitras",
@@ -45539,7 +45529,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "26",
-        "sh": "L"
+        "prevSchool": "Merrimack"
       },
       {
         "name": "Holly VanNetten",
@@ -45551,7 +45541,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
-        "sh": "R"
+        "prevSchool": "Stoney Creek Sabres OWHA U22"
       },
       {
         "name": "Emma Leibrecht",
@@ -45563,8 +45553,7 @@
         "st": "MO",
         "ctry": "US",
         "no": "28",
-        "sh": "R",
-        "prevSchool": "Lafayette High School"
+        "prevSchool": "Team Illinois U19"
       },
       {
         "name": "Tara Bach",
@@ -45576,7 +45565,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "30",
-        "sh": "L"
+        "prevSchool": "Stoney Creek Sabres OWHA U22 / Germany U18 National Team"
       },
       {
         "name": "Magdalena Luggin",
@@ -45585,11 +45574,10 @@
         "pos": "G",
         "ht": "5-9",
         "home": "Vienna",
-        "st": "AUSTRIA",
+        "st": "Austria",
         "ctry": "Europe",
         "no": "31",
-        "sh": "L",
-        "prevSchool": "SKN Sabres St.Polten"
+        "prevSchool": "SKN Sabres St.Pölten/ Austrian National Team"
       },
       {
         "name": "Avery Norman",
@@ -45601,7 +45589,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "34",
-        "sh": "R"
+        "prevSchool": "Nepean U22"
       }
     ],
     "Merrimack": [
