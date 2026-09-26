@@ -51443,10 +51443,10 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "2",
-        "sh": "L"
+        "prevSchool": "Etobicoke Jr Dolphins"
       },
       {
-        "name": "Ellason Nancarrow",
+        "name": "Ella Nancarrow",
         "pk": "nancarrow|ella",
         "y": "Fr",
         "pos": "D",
@@ -51455,7 +51455,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "3",
-        "sh": "R"
+        "prevSchool": "Nepean Jr. Wildcats"
       },
       {
         "name": "Kennedy Wilson",
@@ -51467,20 +51467,18 @@
         "st": "NY",
         "ctry": "US",
         "no": "4",
-        "sh": "L",
         "prevSchool": "Northwood School"
       },
       {
         "name": "Kiley Mastel",
         "pk": "mastel|kiley",
         "y": "Sr",
-        "pos": "D",
+        "pos": "F",
         "ht": "5-10",
         "home": "Hamden",
         "st": "CT",
         "ctry": "US",
         "no": "7",
-        "sh": "L",
         "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
@@ -51489,11 +51487,10 @@
         "y": "So",
         "pos": "F",
         "ht": "5-7",
-        "home": "Ontario",
-        "st": "CA",
-        "ctry": "US",
+        "home": "North Bay",
+        "st": "ON",
+        "ctry": "Canada",
         "no": "9",
-        "sh": "R",
         "prevSchool": "Cambridge Rivulettes"
       },
       {
@@ -51506,7 +51503,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "12",
-        "sh": "L"
+        "prevSchool": "Central York Jr. Panthers"
       },
       {
         "name": "Riley Reeves",
@@ -51518,20 +51515,19 @@
         "st": "MN",
         "ctry": "US",
         "no": "13",
-        "sh": "R",
-        "prevSchool": "Gentry Academy"
+        "prevSchool": "Bemidji State University"
       },
       {
         "name": "Lilien Benakova",
         "pk": "benakova|lilien",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-8",
+        "ht": "5-5",
         "home": "Banska Bystrica",
-        "st": "SLOVAKIA",
+        "st": "Slovakia",
         "ctry": "Europe",
         "no": "14",
-        "sh": "L"
+        "prevSchool": "Ontario Hockey Academy"
       },
       {
         "name": "Taeyeon Kim",
@@ -51539,11 +51535,10 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-4",
-        "home": "Gwangjin-gu",
-        "st": "SOUTH KOREA",
+        "home": "Gwangjin-gu, Seoul",
+        "st": "South Korea",
         "ctry": "Asia",
         "no": "17",
-        "sh": "L",
         "prevSchool": "Northwood School"
       },
       {
@@ -51556,8 +51551,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "18",
-        "sh": "L",
-        "prevSchool": "Nepean Jr. Wildcats"
+        "prevSchool": "Nepean Jr Wildcats"
       },
       {
         "name": "Hayden Summers",
@@ -51565,11 +51559,11 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-9",
-        "home": "Southwold",
+        "home": "Oneida Nation",
         "st": "ON",
         "ctry": "Canada",
         "no": "19",
-        "sh": "L"
+        "prevSchool": "Stoney Creek Jr. Sabres"
       },
       {
         "name": "Alexia Cote",
@@ -51577,11 +51571,11 @@
         "y": "So",
         "pos": "D",
         "ht": "5-5",
-        "home": "Limoilou",
-        "st": "LIMOILOU",
-        "ctry": "Europe",
+        "home": "Saint-Rosaire",
+        "st": "QC",
+        "ctry": "Canada",
         "no": "20",
-        "sh": "L"
+        "prevSchool": "Limoilou (Cégep)"
       },
       {
         "name": "Halle Mules",
@@ -51590,24 +51584,22 @@
         "pos": "F",
         "ht": "5-2",
         "home": "Abington",
-        "st": "PA",
+        "st": "MA",
         "ctry": "US",
         "no": "21",
-        "sh": "L",
         "prevSchool": "Northwood School"
       },
       {
         "name": "Alexa Davis",
         "pk": "davis|alexa",
         "y": "Gr",
-        "pos": "D",
+        "pos": "D/F",
         "ht": "5-7",
         "home": "Philadelphia",
         "st": "PA",
         "ctry": "US",
         "no": "22",
-        "sh": "L",
-        "prevSchool": "The Hill School"
+        "prevSchool": "Cornell University"
       },
       {
         "name": "Hanna Olson",
@@ -51619,7 +51611,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "24",
-        "sh": "R",
         "prevSchool": "Andover High School"
       },
       {
@@ -51632,7 +51623,6 @@
         "st": "NY",
         "ctry": "US",
         "no": "28",
-        "sh": "R",
         "prevSchool": "Northwood School"
       },
       {
@@ -51645,7 +51635,6 @@
         "st": "CA",
         "ctry": "US",
         "no": "31",
-        "sh": "L",
         "prevSchool": "Anaheim Lady Ducks"
       },
       {
@@ -51655,11 +51644,10 @@
         "pos": "G",
         "ht": "5-10",
         "home": "Herning",
-        "st": "DENMARK",
+        "st": "Denmark",
         "ctry": "Europe",
         "no": "33",
-        "sh": "L",
-        "prevSchool": "Linkoping HC"
+        "prevSchool": "Linköping HC"
       },
       {
         "name": "Kassidy Lawrence",
@@ -51671,7 +51659,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "34",
-        "sh": "L",
         "prevSchool": "Ottawa Jr. Lady Sens"
       },
       {
@@ -51680,11 +51667,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-4",
-        "home": "Nepean",
+        "home": "Ottawa",
         "st": "ON",
         "ctry": "Canada",
         "no": "36",
-        "sh": "R"
+        "prevSchool": "Ottawa Jr. Lady Senators"
       },
       {
         "name": "Abby Hehl",
@@ -51696,20 +51683,19 @@
         "st": "NJ",
         "ctry": "US",
         "no": "82",
-        "sh": "L",
         "prevSchool": "NJ Titans"
       },
       {
         "name": "MacKenzie Clarke",
         "pk": "clarke|mackenzie",
-        "y": "Fr",
+        "y": "So",
         "pos": "D",
         "ht": "5-8",
         "home": "Ottawa",
         "st": "ON",
         "ctry": "Canada",
         "no": "92",
-        "sh": "L"
+        "prevSchool": "Ottawa Jr Lady Sens"
       }
     ],
     "St. Thomas": [
