@@ -51060,7 +51060,7 @@
       {
         "name": "Sydney Bryant",
         "pk": "bryant|sydney",
-        "y": "Jr",
+        "y": "R-So",
         "pos": "D",
         "ht": "5-8",
         "home": "Traverse City",
@@ -51068,7 +51068,7 @@
         "ctry": "US",
         "no": "2",
         "sh": "R",
-        "prevSchool": "Skyline"
+        "prevSchool": "Belle Tire (19U AAA)"
       },
       {
         "name": "Sidney Jackel",
@@ -51081,7 +51081,7 @@
         "ctry": "US",
         "no": "3",
         "sh": "R",
-        "prevSchool": "Pioneer"
+        "prevSchool": "Lindenwood (NCAA)"
       },
       {
         "name": "Alice Sauriol",
@@ -51093,8 +51093,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "4",
-        "sh": "L",
-        "prevSchool": "Stanstead College"
+        "sh": "L"
       },
       {
         "name": "Lily Erickson",
@@ -51106,8 +51105,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "6",
-        "sh": "R",
-        "prevSchool": "Roseau"
+        "sh": "R"
       },
       {
         "name": "Payton Remick",
@@ -51115,12 +51113,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Badger",
+        "home": "Roseau",
         "st": "MN",
         "ctry": "US",
         "no": "7",
-        "sh": "L",
-        "prevSchool": "Roseau"
+        "sh": "L"
       },
       {
         "name": "Grace Wolfe",
@@ -51132,8 +51129,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "8",
-        "sh": "R",
-        "prevSchool": "Owatonna"
+        "sh": "R"
       },
       {
         "name": "Svenja Voigt",
@@ -51142,11 +51138,10 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Cologne",
-        "st": "GERMANY",
+        "st": "Germany",
         "ctry": "Europe",
         "no": "9",
-        "sh": "L",
-        "prevSchool": "Stanstead College"
+        "sh": "L"
       },
       {
         "name": "Aruba Skiston",
@@ -51159,20 +51154,20 @@
         "ctry": "US",
         "no": "10",
         "sh": "L",
-        "prevSchool": "Chicago Mission"
+        "prevSchool": "Chicago Mission (19U AAA)"
       },
       {
         "name": "Laura Zimmermann",
         "pk": "zimmermann|laura",
-        "y": "Jr",
+        "y": "R-Jr",
         "pos": "F",
         "ht": "5-4",
         "home": "Ringgenberg",
-        "st": "SWITZERLAND",
+        "st": "Switzerland",
         "ctry": "Europe",
         "no": "11",
         "sh": "L",
-        "prevSchool": "Ev Bomo Thun"
+        "prevSchool": "EV Bomo Thun (SWHL)"
       },
       {
         "name": "Raili Mustonen",
@@ -51180,12 +51175,12 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Kuortane",
-        "st": "FINLAND",
+        "home": "Kalajoki",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "12",
         "sh": "L",
-        "prevSchool": "Team Kuortane"
+        "prevSchool": "Team Kuortane (Auroraliiga)"
       },
       {
         "name": "Reese Strauts",
@@ -51198,7 +51193,7 @@
         "ctry": "US",
         "no": "13",
         "sh": "R",
-        "prevSchool": "Windy City Storm"
+        "prevSchool": "Windy City Storm (19U AAA)"
       },
       {
         "name": "Maelie Pion",
@@ -51210,21 +51205,19 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "14",
-        "sh": "L",
-        "prevSchool": "Stanstead College"
+        "sh": "L"
       },
       {
         "name": "Marie Moran",
         "pk": "moran|marie",
-        "y": "Jr",
+        "y": "R-So",
         "pos": "F",
         "ht": "5-8",
-        "home": "Lakeville",
+        "home": "Apple Valley",
         "st": "MN",
         "ctry": "US",
         "no": "15",
-        "sh": "R",
-        "prevSchool": "Apple Valley"
+        "sh": "R"
       },
       {
         "name": "Avery Farrell",
@@ -51237,7 +51230,7 @@
         "ctry": "US",
         "no": "16",
         "sh": "R",
-        "prevSchool": "Rogers HS"
+        "prevSchool": "Franklin Pierce (NCAA)"
       },
       {
         "name": "Julianne Labbe",
@@ -51250,7 +51243,7 @@
         "ctry": "Canada",
         "no": "17",
         "sh": "L",
-        "prevSchool": "Cegep Limoilou Titans"
+        "prevSchool": "Cégep Limoilou Titans (QCHL)"
       },
       {
         "name": "Payton Holloway",
@@ -51263,20 +51256,19 @@
         "ctry": "US",
         "no": "18",
         "sh": "L",
-        "prevSchool": "Shattuck St. Mary's"
+        "prevSchool": "Minnesota Duluth (NCAA)"
       },
       {
         "name": "Myah Krueger",
         "pk": "krueger|myah",
-        "y": "Fr",
+        "y": "R-Fr",
         "pos": "F",
         "ht": "5-7",
         "home": "Stillwater",
         "st": "MN",
         "ctry": "US",
         "no": "19",
-        "sh": "R",
-        "prevSchool": "Stillwater"
+        "sh": "R"
       },
       {
         "name": "Hannah Arnold",
@@ -51289,7 +51281,7 @@
         "ctry": "Canada",
         "no": "23",
         "sh": "R",
-        "prevSchool": "St. Mary's Academy"
+        "prevSchool": "St. Mary’s Academy (CSSHL U18)"
       },
       {
         "name": "Sydney Lamb",
@@ -51302,7 +51294,7 @@
         "ctry": "US",
         "no": "28",
         "sh": "R",
-        "prevSchool": "Windy City Storm"
+        "prevSchool": "Windy City Storm (19U AAA)"
       },
       {
         "name": "Jojo Chobak",
@@ -51315,12 +51307,12 @@
         "ctry": "US",
         "no": "29",
         "sh": "L",
-        "prevSchool": "Glenbrook North"
+        "prevSchool": "Minnesota Duluth (NCAA)"
       },
       {
         "name": "Paige Hoogendam",
         "pk": "hoogendam|paige",
-        "y": "Jr",
+        "y": "R-So",
         "pos": "G",
         "ht": "5-8",
         "home": "Ajax",
@@ -51328,7 +51320,7 @@
         "ctry": "Canada",
         "no": "31",
         "sh": "L",
-        "prevSchool": "Pickering"
+        "prevSchool": "Toronto Junior Aeros (OWHL)"
       },
       {
         "name": "Sofianna Sundelin",
@@ -51337,11 +51329,24 @@
         "pos": "F",
         "ht": "5-7",
         "home": "Ulvila",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "34",
         "sh": "L",
-        "prevSchool": "Kuortane Urheiluopisto"
+        "prevSchool": "Team Kuortane (NSML)"
+      },
+      {
+        "name": "Hannele Tarkiainen",
+        "pk": "tarkiainen|hannele",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-7",
+        "home": "Pieksamaki",
+        "st": "Finland",
+        "ctry": "Europe",
+        "no": "40",
+        "sh": "L",
+        "prevSchool": "Team Kuortane (NSML)"
       },
       {
         "name": "Siiri Yrjola",
@@ -51350,11 +51355,11 @@
         "pos": "D",
         "ht": "5-5",
         "home": "Vantaa",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "41",
         "sh": "L",
-        "prevSchool": "HIFK"
+        "prevSchool": "HIFK (NSML)"
       },
       {
         "name": "Emilia Kyrkko",
@@ -51362,12 +51367,12 @@
         "y": "So",
         "pos": "G",
         "ht": "5-7",
-        "home": "Nokia",
-        "st": "FINLAND",
+        "home": "Ylojarvi",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "42",
         "sh": "L",
-        "prevSchool": "Team Kuortane"
+        "prevSchool": "Team Kuortane (NSML)"
       },
       {
         "name": "Maria Mikaelyan",
@@ -51376,24 +51381,23 @@
         "pos": "F",
         "ht": "5-8",
         "home": "Moscow",
-        "st": "RUSSIA",
+        "st": "Russia",
         "ctry": "Europe",
         "no": "44",
         "sh": "L",
-        "prevSchool": "North York Storm"
+        "prevSchool": "North York Storm (OWHL U22 AA)"
       },
       {
         "name": "Regan Bulger",
         "pk": "bulger|regan",
-        "y": "Jr",
+        "y": "R-Jr",
         "pos": "D",
         "ht": "5-6",
         "home": "Yellowknife",
         "st": "NT",
         "ctry": "Canada",
         "no": "45",
-        "sh": "L",
-        "prevSchool": "Shattuck St. Mary's"
+        "sh": "L"
       },
       {
         "name": "Hali Lawrence",
@@ -51406,7 +51410,7 @@
         "ctry": "Canada",
         "no": "56",
         "sh": "L",
-        "prevSchool": "Calgary Fire"
+        "prevSchool": "Post (NCAA)"
       }
     ],
     "St. Lawrence": [
