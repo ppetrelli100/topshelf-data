@@ -44331,8 +44331,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "1",
-        "sh": "R",
-        "prevSchool": "Academy OF Holy Angels"
+        "prevSchool": "Academy of Holy Angels"
       },
       {
         "name": "Quinlyn Borner",
@@ -44344,8 +44343,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "2",
-        "sh": "R",
-        "prevSchool": "Chanhassen High School"
+        "prevSchool": "Chanhassen"
       },
       {
         "name": "Paige Cline",
@@ -44357,7 +44355,6 @@
         "st": "MI",
         "ctry": "US",
         "no": "4",
-        "sh": "L",
         "prevSchool": "L'Anse Creuse North"
       },
       {
@@ -44370,8 +44367,7 @@
         "st": "IL",
         "ctry": "US",
         "no": "5",
-        "sh": "R",
-        "prevSchool": "Alan B Shepard High School"
+        "prevSchool": "Alan B. Shephard"
       },
       {
         "name": "Maegan Cronan",
@@ -44383,7 +44379,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "6",
-        "sh": "R",
         "prevSchool": "Lovell Academy"
       },
       {
@@ -44396,21 +44391,19 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
-        "sh": "L",
         "prevSchool": "St. Thomas of Villanova"
       },
       {
         "name": "Lucie Quarto",
         "pk": "quarto|lucie",
-        "y": "Sr",
+        "y": "Jr",
         "pos": "D",
         "ht": "5-7",
-        "home": "BesanAon",
-        "st": "FRANCE",
+        "home": "Besancon",
+        "st": "France",
         "ctry": "Europe",
         "no": "9",
-        "sh": "L",
-        "prevSchool": "Cergy-Pontoise u17"
+        "prevSchool": "Cergy-Pontoise U17"
       },
       {
         "name": "Hannah Dods",
@@ -44422,7 +44415,6 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "10",
-        "sh": "L",
         "prevSchool": "Chilliwack Secondary"
       },
       {
@@ -44435,20 +44427,18 @@
         "st": "WI",
         "ctry": "US",
         "no": "11",
-        "sh": "L",
-        "prevSchool": "Culver Academy"
+        "prevSchool": "Wrightstown"
       },
       {
         "name": "Zsofia Pazmandi",
         "pk": "pazmandi|zsofia",
-        "y": "Sr",
+        "y": "Jr",
         "pos": "F",
         "ht": "5-4",
         "home": "Kaposvar",
-        "st": "HUNGARY",
+        "st": "Hungary",
         "ctry": "Europe",
         "no": "13",
-        "sh": "R",
         "prevSchool": "Ontario Hockey Academy"
       },
       {
@@ -44458,11 +44448,10 @@
         "pos": "F",
         "ht": "5-6",
         "home": "Madrid",
-        "st": "SPAIN",
+        "st": "Spain",
         "ctry": "Europe",
         "no": "14",
-        "sh": "L",
-        "prevSchool": "Flexschool"
+        "prevSchool": "Flex School"
       },
       {
         "name": "Pusle Dyring-Andersen",
@@ -44471,10 +44460,9 @@
         "pos": "D",
         "ht": "5-9",
         "home": "Stockholm",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "15",
-        "sh": "L",
         "prevSchool": "Kunskapsgymnasiet"
       },
       {
@@ -44484,24 +44472,22 @@
         "pos": "F",
         "ht": "5-3",
         "home": "Presov",
-        "st": "SLOVAKIA",
+        "st": "Slovakia",
         "ctry": "Europe",
         "no": "16",
-        "sh": "L",
         "prevSchool": "Private Secondary Sports School ELBA"
       },
       {
-        "name": "Madelyn Slocum",
+        "name": "Maddie Slocum",
         "pk": "slocum|madelyn",
         "y": "Fr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Clarkston",
+        "home": "Lake Orion",
         "st": "MI",
         "ctry": "US",
         "no": "17",
-        "sh": "L",
-        "prevSchool": "Lake Orion High School"
+        "prevSchool": "Lake Orion"
       },
       {
         "name": "Elina Zilliox",
@@ -44510,11 +44496,10 @@
         "pos": "D",
         "ht": "5-5",
         "home": "Weyersheim",
-        "st": "FRANCE",
+        "st": "France",
         "ctry": "Europe",
         "no": "18",
-        "sh": "L",
-        "prevSchool": "Lycee Marc Bloch"
+        "prevSchool": "Lycée Marc Bloch"
       },
       {
         "name": "Molly Henderson",
@@ -44526,7 +44511,6 @@
         "st": "IL",
         "ctry": "US",
         "no": "19",
-        "sh": "R",
         "prevSchool": "Rockford Christian"
       },
       {
@@ -44539,33 +44523,18 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "20",
-        "sh": "L",
         "prevSchool": "National Sport School"
       },
       {
-        "name": "Ellen Wigermo",
-        "pk": "wigermo|ellen",
-        "y": "Fr",
-        "pos": "F",
-        "ht": "5-8",
-        "home": "Jarna",
-        "st": "SWEDEN",
-        "ctry": "Europe",
-        "no": "22",
-        "sh": "L",
-        "prevSchool": "Ornskoldsviks Gymnasium"
-      },
-      {
-        "name": "Josey Dunne",
-        "pk": "dunne|josey",
+        "name": "Josey Dunne-Weeks",
+        "pk": "dunneweeks|josey",
         "y": "Gr",
         "pos": "D",
         "ht": "5-10",
-        "home": "O Fallon",
+        "home": "O'Fallon",
         "st": "MO",
         "ctry": "US",
         "no": "23",
-        "sh": "R",
         "prevSchool": "Heritage Christian Academy"
       },
       {
@@ -44578,7 +44547,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "24",
-        "sh": "L",
         "prevSchool": "St. Peter Catholic Secondary School"
       },
       {
@@ -44587,11 +44555,10 @@
         "y": "So",
         "pos": "F",
         "ht": "5-8",
-        "home": "Kristiansand",
-        "st": "NORWAY",
+        "home": "Kristainsand",
+        "st": "Norway",
         "ctry": "Europe",
         "no": "26",
-        "sh": "L",
         "prevSchool": "Wang Toppidrett Stavanger"
       },
       {
@@ -44601,10 +44568,9 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Bratislava",
-        "st": "SLOVAKIA",
+        "st": "Slovakia",
         "ctry": "Europe",
         "no": "27",
-        "sh": "L",
         "prevSchool": "Ontario Hockey Academy"
       },
       {
@@ -44617,8 +44583,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "30",
-        "sh": "L",
-        "prevSchool": "Phillips Andover Academy"
+        "prevSchool": "Philips Andover Academy"
       },
       {
         "name": "Catherine Hodgins",
@@ -44630,8 +44595,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "31",
-        "sh": "L",
-        "prevSchool": "Everest Academy"
+        "prevSchool": "Brampton Jr. Canadettes"
       },
       {
         "name": "Madison Bowtell",
@@ -44643,7 +44607,6 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "35",
-        "sh": "L",
         "prevSchool": "George Elliot Secondary"
       }
     ],
