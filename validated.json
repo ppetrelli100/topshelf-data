@@ -75,6 +75,22 @@
           "baseline": true
         }
       ]
+    },
+    "New Hampshire": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "sh": 5,
+            "prevSchool": 3
+          },
+          "at": "2026-09-26T00:01:27.651Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
