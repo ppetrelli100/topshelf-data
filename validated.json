@@ -664,6 +664,26 @@
         }
       ],
       "at": "2026-09-26T00:40:30.694Z"
+    },
+    "Sacred Heart": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 33,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "home": 6,
+            "no": 1,
+            "name": 5,
+            "prevSchool": 14,
+            "pos": 2,
+            "st": 1
+          },
+          "at": "2026-09-26T00:41:07.414Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
