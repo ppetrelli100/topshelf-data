@@ -301,7 +301,7 @@
     homePart = homePart.trim().replace(/[,\s]+$/, '');
     prevSchool = cleanCell(prevSchool);
     const segments = homePart.split(',').map(s => s.trim());
-    if (segments.length >= 3 && /^canada$/i.test(segments[segments.length - 1])) {
+    if (segments.length >= 3 && /^canad(a)?$/i.test(segments[segments.length - 1])) { // "Canad" = a typo some pages have
       const province = segments[segments.length - 2];
       const home = segments.slice(0, segments.length - 2).join(', ');
       const provCode = CANADA_PROVINCE[province] || regionLookup().ca[regionLookup().k(province)];
@@ -314,7 +314,7 @@
     const regionRaw = homePart.slice(commaIdx + 1).trim();
     const RL = regionLookup(), rk = RL.k(regionRaw);
     // Country only ("Toronto, Canada" / "Boston, USA"): no state/province on the page, so leave it blank.
-    if (/^(canada|can)$/i.test(regionRaw.replace(/\.$/, ''))) return { home, st: '', ctry: 'Canada', prevSchool };
+    if (/^(canada|canad|can)$/i.test(regionRaw.replace(/\.$/, ''))) return { home, st: '', ctry: 'Canada', prevSchool };
     if (/^(usa|u\.?s\.?a?\.?|united states)$/i.test(regionRaw)) return { home, st: '', ctry: 'US', prevSchool };
     if (RL.us[rk]) return { home, st: RL.us[rk], ctry: 'US', prevSchool };
     if (RL.ca[rk]) return { home, st: RL.ca[rk], ctry: 'Canada', prevSchool };
