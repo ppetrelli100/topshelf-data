@@ -563,6 +563,26 @@
         }
       ],
       "at": "2026-09-26T00:34:35.921Z"
+    },
+    "Quinnipiac": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "home": 13,
+            "st": 12,
+            "name": 1,
+            "y": 1,
+            "ht": 3,
+            "ctry": 1
+          },
+          "at": "2026-09-26T00:34:54.030Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
