@@ -45973,9 +45973,7 @@
         "home": "Chanhassen",
         "st": "MN",
         "ctry": "US",
-        "no": "1",
-        "sh": "L",
-        "prevSchool": "Minnetonka High School"
+        "no": "1"
       },
       {
         "name": "Olivia Kortan",
@@ -45986,9 +45984,7 @@
         "home": "Moorhead",
         "st": "MN",
         "ctry": "US",
-        "no": "3",
-        "sh": "L",
-        "prevSchool": "Moorhead High School"
+        "no": "3"
       },
       {
         "name": "Sydney Bailey",
@@ -45999,9 +45995,7 @@
         "home": "Rogers",
         "st": "MN",
         "ctry": "US",
-        "no": "5",
-        "sh": "R",
-        "prevSchool": "Rogers High School"
+        "no": "5"
       },
       {
         "name": "Molly Jordan",
@@ -46013,8 +46007,7 @@
         "st": "CT",
         "ctry": "US",
         "no": "6",
-        "sh": "R",
-        "prevSchool": "Bishop Kearney"
+        "prevSchool": "BK Selects"
       },
       {
         "name": "Nelli Laitinen",
@@ -46023,11 +46016,10 @@
         "pos": "D",
         "ht": "5-7",
         "home": "Lohja",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "7",
-        "sh": "L",
-        "prevSchool": "Haukilahti High School"
+        "prevSchool": "Kiekko-Espoo"
       },
       {
         "name": "Chloe Primerano",
@@ -46038,9 +46030,7 @@
         "home": "North Vancouver",
         "st": "BC",
         "ctry": "Canada",
-        "no": "8",
-        "sh": "L",
-        "prevSchool": "RINK-Kelowna"
+        "no": "8"
       },
       {
         "name": "Ava Lindsay",
@@ -46051,9 +46041,7 @@
         "home": "Minnetonka",
         "st": "MN",
         "ctry": "US",
-        "no": "9",
-        "sh": "R",
-        "prevSchool": "Minnetonka High School"
+        "no": "9"
       },
       {
         "name": "Jamie Nelson",
@@ -46065,8 +46053,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "10",
-        "sh": "L",
-        "prevSchool": "Andover"
+        "prevSchool": "Minnesota State"
       },
       {
         "name": "Josefin Bouveng",
@@ -46075,24 +46062,21 @@
         "pos": "F",
         "ht": "5-9",
         "home": "Vassunda",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "11",
-        "sh": "L",
-        "prevSchool": "Sjolins Gymnasium Sodermalm"
+        "prevSchool": "Brynäs IF"
       },
       {
         "name": "Avery Hovland",
         "pk": "hovland|avery",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-3",
+        "ht": "",
         "home": "West Fargo",
         "st": "ND",
         "ctry": "US",
-        "no": "12",
-        "sh": "L",
-        "prevSchool": "North American Hockey Academy"
+        "no": "12"
       },
       {
         "name": "Emma Kreisz",
@@ -46101,11 +46085,9 @@
         "pos": "F",
         "ht": "5-9",
         "home": "Budapest",
-        "st": "HUNGARY",
+        "st": "Hungary",
         "ctry": "Europe",
-        "no": "13",
-        "sh": "L",
-        "prevSchool": "Stanstead College"
+        "no": "13"
       },
       {
         "name": "Sienna D'Alessandro",
@@ -46113,25 +46095,21 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Pointe Claire",
-        "st": "QC",
-        "ctry": "Canada",
-        "no": "14",
-        "sh": "L",
-        "prevSchool": "Quebec Schools"
+        "home": "Pointe-Claire",
+        "st": "Quebec City",
+        "ctry": "__UNKNOWN__",
+        "no": "14"
       },
       {
         "name": "Allie Franco",
         "pk": "franco|alejandra",
         "y": "Sr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-7",
         "home": "Oakdale",
         "st": "MN",
         "ctry": "US",
-        "no": "16",
-        "sh": "L",
-        "prevSchool": "Hill-Murray School"
+        "no": "16"
       },
       {
         "name": "Kendra Distad",
@@ -46142,9 +46120,7 @@
         "home": "Burnsville",
         "st": "MN",
         "ctry": "US",
-        "no": "17",
-        "sh": "R",
-        "prevSchool": "Minnetonka High School"
+        "no": "17"
       },
       {
         "name": "Abbey Murphy",
@@ -46156,21 +46132,19 @@
         "st": "IL",
         "ctry": "US",
         "no": "18",
-        "sh": "R",
-        "prevSchool": "Mother McAuley High School"
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Sarah Paul",
         "pk": "paul|sarah",
-        "y": "Sr",
+        "y": "R-Sr",
         "pos": "F",
         "ht": "5-8",
         "home": "West Kelowna",
         "st": "BC",
         "ctry": "Canada",
         "no": "19",
-        "sh": "L",
-        "prevSchool": "Penticton Secondary"
+        "prevSchool": "Princeton"
       },
       {
         "name": "Tereza Plosova",
@@ -46178,11 +46152,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-10",
-        "home": "Simonovice",
-        "st": "CZECHIA",
-        "ctry": "Europe",
+        "home": "Czech Republic",
+        "st": "",
+        "ctry": "",
         "no": "22",
-        "sh": "L"
+        "prevSchool": "Djurgårdens IF"
       },
       {
         "name": "Carly Humphrey",
@@ -46193,9 +46167,7 @@
         "home": "Elk River",
         "st": "MN",
         "ctry": "US",
-        "no": "24",
-        "sh": "L",
-        "prevSchool": "Elk River High School"
+        "no": "24"
       },
       {
         "name": "Madison Kaiser",
@@ -46206,9 +46178,7 @@
         "home": "Andover",
         "st": "MN",
         "ctry": "US",
-        "no": "29",
-        "sh": "L",
-        "prevSchool": "Holy Family Catholic High School"
+        "no": "29"
       },
       {
         "name": "Sydney Morrow",
@@ -46220,8 +46190,7 @@
         "st": "CT",
         "ctry": "US",
         "no": "32",
-        "sh": "R",
-        "prevSchool": "Shattuck-St. Mary's"
+        "prevSchool": "Colgate University"
       },
       {
         "name": "Sophia Johnson",
@@ -46232,9 +46201,7 @@
         "home": "Minnetonka",
         "st": "MN",
         "ctry": "US",
-        "no": "35",
-        "sh": "L",
-        "prevSchool": "Minnetonka High School"
+        "no": "35"
       },
       {
         "name": "Gracie Graham",
@@ -46245,9 +46212,7 @@
         "home": "Kelowna",
         "st": "BC",
         "ctry": "Canada",
-        "no": "47",
-        "sh": "L",
-        "prevSchool": "RINK-Kelowna"
+        "no": "47"
       },
       {
         "name": "Hannah Clark",
@@ -46258,12 +46223,10 @@
         "home": "Oshawa",
         "st": "ON",
         "ctry": "Canada",
-        "no": "56",
-        "sh": "L",
-        "prevSchool": "Etobicoke"
+        "no": "56"
       },
       {
-        "name": "Anabella Fanale",
+        "name": "Bella Fanale",
         "pk": "fanale|anabella",
         "y": "Fr",
         "pos": "F",
@@ -46272,8 +46235,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "97",
-        "sh": "R",
-        "prevSchool": "Bishop Kearney High School"
+        "prevSchool": "Bishop Kearney Selects 19U AAA"
       }
     ],
     "Minnesota -Duluth": [
