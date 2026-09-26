@@ -48466,7 +48466,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "3",
-        "prevSchool": "Noble and Greenough School"
+        "prevSchool": "Shattuck St. Mary's"
       },
       {
         "name": "Izzy King",
@@ -48478,7 +48478,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "4",
-        "prevSchool": "Buckingham Browne & Nichols SC"
+        "prevSchool": "East Coast Wizards"
       },
       {
         "name": "Hannah Clarke",
@@ -48490,7 +48490,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "5",
-        "prevSchool": "The Country Day School"
+        "prevSchool": "Central York Panthers"
       },
       {
         "name": "Audrey Knapp",
@@ -48514,7 +48514,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
-        "prevSchool": "Cardinal O'Hara"
+        "prevSchool": "Lindenwood Univ."
       },
       {
         "name": "Sophie Harold",
@@ -48526,7 +48526,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "8",
-        "prevSchool": "St. Mary's Catholic Secondary School - Cobourg"
+        "prevSchool": "Whitby Wolves"
       },
       {
         "name": "Kiara Kraft",
@@ -48538,14 +48538,14 @@
         "st": "NY",
         "ctry": "US",
         "no": "9",
-        "prevSchool": "Bishop Kearney High School"
+        "prevSchool": "Selects Academy at Bishop Kearney"
       },
       {
         "name": "Lauren Mack",
         "pk": "mack|lauren",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-8",
+        "ht": "5-5",
         "home": "Excelsior",
         "st": "MN",
         "ctry": "US",
@@ -48562,7 +48562,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "11",
-        "prevSchool": "John Abbott College"
+        "prevSchool": "John Abbott Islanders"
       },
       {
         "name": "Peyton Blaney",
@@ -48574,19 +48574,19 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "12",
-        "prevSchool": "St. Mary Secondary School"
+        "prevSchool": "Etobicoke Dolphins"
       },
       {
         "name": "Sami Snyder",
         "pk": "snyder|samantha",
         "y": "Fr",
-        "pos": "D",
+        "pos": "F",
         "ht": "5-6",
         "home": "Waterloo",
         "st": "ON",
         "ctry": "Canada",
         "no": "13",
-        "prevSchool": "Bluevale Collegiate Institute"
+        "prevSchool": "Waterloo Ravens"
       },
       {
         "name": "Josie Lang",
@@ -48610,7 +48610,7 @@
         "st": "WA",
         "ctry": "US",
         "no": "15",
-        "prevSchool": "Rink Kelowna Hockey Academy"
+        "prevSchool": "Rink Hockey Academy Kelowna"
       },
       {
         "name": "Reichen Kirchmair",
@@ -48622,7 +48622,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "16",
-        "prevSchool": "Appleby College"
+        "prevSchool": "Etobicoke Jr. Dolphins"
       },
       {
         "name": "Bella Paolucci",
@@ -48634,7 +48634,7 @@
         "st": "MI",
         "ctry": "US",
         "no": "17",
-        "prevSchool": "Regina High School"
+        "prevSchool": "Belle Tire"
       },
       {
         "name": "Dylan Berman",
@@ -48642,7 +48642,7 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Minnetonka",
+        "home": "Deephaven",
         "st": "MN",
         "ctry": "US",
         "no": "18",
@@ -48655,10 +48655,10 @@
         "pos": "F",
         "ht": "5-2",
         "home": "Vomperbach",
-        "st": "AUSTRIA",
+        "st": "Austria",
         "ctry": "Europe",
         "no": "19",
-        "prevSchool": "Shattuck St. Mary's"
+        "prevSchool": "Villach Lady Hawks"
       },
       {
         "name": "Molly Farace",
@@ -48670,7 +48670,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "20",
-        "prevSchool": "Holy Cross Catholic Secondary School"
+        "prevSchool": "Whitby Wolves"
       },
       {
         "name": "Taylor Gilmour",
@@ -48682,7 +48682,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "21",
-        "prevSchool": "Napanee District Secondary School"
+        "prevSchool": "Kingston Jr. Ice Wolves"
       },
       {
         "name": "Brenna O'Reilly",
@@ -48694,7 +48694,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "22",
-        "prevSchool": "Buckingham Browne & Nichols SC"
+        "prevSchool": "East Coast Wizards"
       },
       {
         "name": "Taylor Leemrijse",
@@ -48706,7 +48706,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "24",
-        "prevSchool": "Crestwood Preparatory College"
+        "prevSchool": "Durham West Junior Lightning"
       },
       {
         "name": "Taylor Porthan",
@@ -48718,8 +48718,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "25",
-        "sh": "R",
-        "prevSchool": "Edina High School"
+        "prevSchool": "University of Connecticut"
       },
       {
         "name": "Cristina Cavaliere",
@@ -48731,7 +48730,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "26",
-        "prevSchool": "Our Lady of Mt. Camel"
+        "prevSchool": "Oakville Jr. Hornets"
       },
       {
         "name": "Jessie Pellerin",
@@ -48743,7 +48742,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
-        "prevSchool": "St. Stephen's Catholic"
+        "prevSchool": "Durham West Junior Lightning"
       },
       {
         "name": "Hope Walinski",
@@ -48755,7 +48754,7 @@
         "st": "RI",
         "ctry": "US",
         "no": "29",
-        "prevSchool": "Winchendon School"
+        "prevSchool": "Boston Junior Eagles"
       },
       {
         "name": "Mallory Hartl",
@@ -48767,7 +48766,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "31",
-        "prevSchool": "East Central High School"
+        "prevSchool": "Moose Lake Area Rebels"
       },
       {
         "name": "Olivia Klunowski",
@@ -48779,8 +48778,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "32",
-        "sh": "L",
-        "prevSchool": "Ontario Hockey Academy"
+        "prevSchool": "Franklin Pierce Univ."
       }
     ],
     "Quinnipiac": [
