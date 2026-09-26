@@ -47505,8 +47505,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "4",
-        "sh": "R",
-        "prevSchool": "RINK HOCKEY ACADEMY KELOWNA"
+        "prevSchool": "Clarkson"
       },
       {
         "name": "Emma Peschel",
@@ -47518,8 +47517,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "7",
-        "sh": "L",
-        "prevSchool": "Benilde-St. Margaret"
+        "prevSchool": "Benilde-St. Margaret’s"
       },
       {
         "name": "Hilda Svensson",
@@ -47528,11 +47526,10 @@
         "pos": "F",
         "ht": "5-6",
         "home": "Oskarshamn",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "8",
-        "sh": "L",
-        "prevSchool": "Sandagymnasiet"
+        "prevSchool": "HV71"
       },
       {
         "name": "Jenna Raunio",
@@ -47541,11 +47538,10 @@
         "pos": "D",
         "ht": "5-9",
         "home": "Huskvarna",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
         "no": "9",
-        "sh": "R",
-        "prevSchool": "Sandagymnasiet"
+        "prevSchool": "HV71"
       },
       {
         "name": "Kaia Malachino",
@@ -47557,7 +47553,7 @@
         "st": "MI",
         "ctry": "US",
         "no": "11",
-        "prevSchool": "Brighton"
+        "prevSchool": "Colgate / Detroit Little Caesars"
       },
       {
         "name": "Grace McCoshen",
@@ -47569,7 +47565,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "12",
-        "prevSchool": "Northfield H.S."
+        "prevSchool": "Northfield"
       },
       {
         "name": "Mira Jungaker",
@@ -47578,9 +47574,10 @@
         "pos": "D",
         "ht": "5-7",
         "home": "Jonkoping",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
-        "no": "14"
+        "no": "14",
+        "prevSchool": "HV71"
       },
       {
         "name": "Macy Rasmussen",
@@ -47592,7 +47589,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "15",
-        "sh": "R",
         "prevSchool": "Orono"
       },
       {
@@ -47601,12 +47597,11 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-11",
-        "home": "O Fallon",
+        "home": "O'Fallon",
         "st": "MO",
         "ctry": "US",
         "no": "16",
-        "sh": "L",
-        "prevSchool": "The Fulton School"
+        "prevSchool": "St. Louis Lady Blues"
       },
       {
         "name": "Jocelyn Amos",
@@ -47618,8 +47613,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "17",
-        "sh": "R",
-        "prevSchool": "Medway"
+        "prevSchool": "London Devilettes"
       },
       {
         "name": "Maxine Cimoroni",
@@ -47631,8 +47625,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "18",
-        "sh": "L",
-        "prevSchool": "Bishop Strachan School"
+        "prevSchool": "Mississauga Jr. Hurricanes"
       },
       {
         "name": "Jordyn Petrie",
@@ -47664,12 +47657,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Helsinki",
-        "st": "FINLAND",
+        "home": "Tampere",
+        "st": "Finland",
         "ctry": "Europe",
         "no": "21",
-        "sh": "L",
-        "prevSchool": "Makelanrinteen"
+        "prevSchool": "Brynäs IF"
       },
       {
         "name": "Sloane Matthews",
@@ -47681,8 +47673,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "22",
-        "sh": "R",
-        "prevSchool": "Wayzata High School"
+        "prevSchool": "Wayzata H.S."
       },
       {
         "name": "Leah Wicks",
@@ -47694,8 +47685,7 @@
         "st": "NL",
         "ctry": "Canada",
         "no": "23",
-        "sh": "L",
-        "prevSchool": "Shattuck St. Mary's School"
+        "prevSchool": "Shattuck-St. Mary's"
       },
       {
         "name": "Jordan Baxter",
@@ -47703,25 +47693,23 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Coquitlam",
+        "home": "Coquitlum",
         "st": "BC",
         "ctry": "Canada",
         "no": "27",
-        "sh": "R",
-        "prevSchool": "North Delta Secondary"
+        "prevSchool": "Delta Hockey Academy"
       },
       {
         "name": "Brooke Disher",
         "pk": "disher|brooke",
         "y": "Sr",
         "pos": "D",
-        "ht": "5-6",
+        "ht": "5-8",
         "home": "Fort St. John",
         "st": "BC",
         "ctry": "Canada",
         "no": "28",
-        "sh": "L",
-        "prevSchool": "George Elliot Secondary"
+        "prevSchool": "Boston University"
       },
       {
         "name": "Kassidy Carmichael",
@@ -47733,7 +47721,6 @@
         "st": "MA",
         "ctry": "US",
         "no": "29",
-        "sh": "R",
         "prevSchool": "North American Hockey Academy"
       },
       {
@@ -47746,20 +47733,19 @@
         "st": "MN",
         "ctry": "US",
         "no": "30",
-        "prevSchool": "Moorhead High School"
+        "prevSchool": "Moorhead"
       },
       {
         "name": "Hailey MacLeod",
         "pk": "macleod|hailey",
         "y": "Sr",
         "pos": "G",
-        "ht": "5-7",
+        "ht": "6-0",
         "home": "Abbotsford",
         "st": "BC",
         "ctry": "Canada",
         "no": "35",
-        "sh": "L",
-        "prevSchool": "Delta Hockey Academy"
+        "prevSchool": "Minnesota Duluth"
       }
     ],
     "Penn State": [
