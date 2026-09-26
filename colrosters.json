@@ -58203,9 +58203,7 @@
         "home": "North Vancouver",
         "st": "BC",
         "ctry": "Canada",
-        "no": "8",
-        "sh": "L",
-        "prevSchool": "RINK-Kelowna"
+        "no": "8"
       },
       {
         "name": "Ava Lindsay",
@@ -58216,8 +58214,7 @@
         "home": "Minnetonka",
         "st": "MN",
         "ctry": "US",
-        "no": "9",
-        "sh": "R"
+        "no": "9"
       },
       {
         "name": "Julia Schalin",
@@ -58251,9 +58248,7 @@
         "home": "Budapest",
         "st": "Hungary",
         "ctry": "Europe",
-        "no": "13",
-        "sh": "L",
-        "prevSchool": "Stanstead College"
+        "no": "13"
       },
       {
         "name": "Sienna D'Alessandro",
@@ -58262,8 +58257,8 @@
         "pos": "F",
         "ht": "5-7",
         "home": "Pointe-Claire",
-        "st": "QC",
-        "ctry": "Canada",
+        "st": "Quebec City",
+        "ctry": "__UNKNOWN__",
         "no": "14"
       },
       {
@@ -58275,8 +58270,7 @@
         "home": "Burnsville",
         "st": "MN",
         "ctry": "US",
-        "no": "17",
-        "sh": "R"
+        "no": "17"
       },
       {
         "name": "Sarah Paul",
@@ -58308,11 +58302,11 @@
         "y": "So",
         "pos": "F",
         "ht": "5-10",
-        "home": "",
-        "st": "Czech Republic",
-        "ctry": "Europe",
+        "home": "Czech Republic",
+        "st": "",
+        "ctry": "",
         "no": "22",
-        "prevSchool": "Djurgardens IF"
+        "prevSchool": "Djurgårdens IF"
       },
       {
         "name": "Carly Humphrey",
@@ -58323,8 +58317,7 @@
         "home": "Elk River",
         "st": "MN",
         "ctry": "US",
-        "no": "24",
-        "sh": "L"
+        "no": "24"
       },
       {
         "name": "Madison Kaiser",
@@ -58335,8 +58328,7 @@
         "home": "Andover",
         "st": "MN",
         "ctry": "US",
-        "no": "29",
-        "sh": "L"
+        "no": "29"
       },
       {
         "name": "Payton Rolli",
@@ -58370,9 +58362,7 @@
         "home": "Kelowna",
         "st": "BC",
         "ctry": "Canada",
-        "no": "47",
-        "sh": "L",
-        "prevSchool": "RINK-Kelowna"
+        "no": "47"
       },
       {
         "name": "Sloane Hartmetz",
@@ -58394,8 +58384,7 @@
         "home": "Oshawa",
         "st": "ON",
         "ctry": "Canada",
-        "no": "56",
-        "sh": "L"
+        "no": "56"
       },
       {
         "name": "Rachel Piggott",
