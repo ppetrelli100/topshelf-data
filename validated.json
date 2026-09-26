@@ -538,6 +538,25 @@
           "baseline": true
         }
       ]
+    },
+    "Providence": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 27,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 23,
+            "ht": 1,
+            "pos": 1,
+            "home": 1,
+            "st": 1
+          },
+          "at": "2026-09-26T00:33:46.465Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
