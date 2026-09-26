@@ -4,13 +4,32 @@
       "at": "2026-09-25T23:49:09.471Z"
     },
     "Penn State": {
-      "at": "2026-09-25T23:56:23.212Z",
+      "at": "2026-09-25T23:58:38.467Z",
       "history": [
         {
           "result": "clean",
           "n": 21,
           "at": "2026-09-25T23:56:23.212Z",
           "baseline": true
+        },
+        {
+          "result": "changes",
+          "n": 21,
+          "added": [
+            "Maddy Campbell"
+          ],
+          "removed": [
+            "Maddy Campbell"
+          ],
+          "fields": {
+            "y": 2
+          },
+          "at": "2026-09-25T23:58:00.075Z"
+        },
+        {
+          "result": "clean",
+          "n": 21,
+          "at": "2026-09-25T23:58:38.467Z"
         }
       ]
     }
@@ -18,6 +37,24 @@
   "2026-27": {
     "Penn State": {
       "at": "2026-09-25T23:52:41.987Z"
+    },
+    "Merrimack": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "y": 1,
+            "home": 1,
+            "st": 2,
+            "ctry": 2
+          },
+          "at": "2026-09-25T23:58:48.693Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
