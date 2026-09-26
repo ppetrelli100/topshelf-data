@@ -217,6 +217,403 @@
           },
           "at": "2026-09-26T00:14:40.781Z",
           "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:17:05.587Z"
+        }
+      ],
+      "at": "2026-09-26T00:17:05.587Z"
+    },
+    "Maine": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [
+            "Lulu Rucinski"
+          ],
+          "removed": [
+            "Campbell Rucinski"
+          ],
+          "fields": {
+            "prevSchool": 22,
+            "name": 1,
+            "y": 2,
+            "ht": 2,
+            "home": 5,
+            "st": 1
+          },
+          "at": "2026-09-26T00:19:29.103Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:22:06.518Z"
+        }
+      ],
+      "at": "2026-09-26T00:22:06.518Z"
+    },
+    "Brown": {
+      "at": "2026-09-26T00:23:01.792Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:23:01.792Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Bemidji State": {
+      "at": "2026-09-26T00:23:01.973Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 27,
+          "at": "2026-09-26T00:23:01.973Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Assumption": {
+      "at": "2026-09-26T00:23:08.910Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:23:08.910Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Boston College": {
+      "at": "2026-09-26T00:23:21.666Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:23:21.666Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Boston University": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 24,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "y": 2,
+            "prevSchool": 20,
+            "name": 1,
+            "ht": 2
+          },
+          "at": "2026-09-26T00:23:30.699Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:23:45.382Z"
+        }
+      ],
+      "at": "2026-09-26T00:23:45.382Z"
+    },
+    "Clarkson": {
+      "at": "2026-09-26T00:23:53.154Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 28,
+          "at": "2026-09-26T00:23:53.154Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Cornell": {
+      "at": "2026-09-26T00:24:13.122Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 21,
+          "at": "2026-09-26T00:24:13.122Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Dartmouth": {
+      "at": "2026-09-26T00:24:21.634Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:24:21.634Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Delaware": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 21,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "pos": 1
+          },
+          "at": "2026-09-26T00:24:40.958Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 21,
+          "at": "2026-09-26T00:24:48.925Z"
+        }
+      ],
+      "at": "2026-09-26T00:24:48.925Z"
+    },
+    "Harvard": {
+      "at": "2026-09-26T00:25:11.228Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 23,
+          "at": "2026-09-26T00:25:11.228Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Holy Cross": {
+      "at": "2026-09-26T00:25:18.438Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 25,
+          "at": "2026-09-26T00:25:18.438Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Merrimack": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [
+            "Margaux Favre"
+          ],
+          "fields": {
+            "prevSchool": 26,
+            "ht": 13,
+            "sh": 13,
+            "home": 7,
+            "st": 2,
+            "name": 1,
+            "pos": 3
+          },
+          "at": "2026-09-26T00:27:49.085Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:28:06.846Z"
+        }
+      ],
+      "at": "2026-09-26T00:28:06.846Z"
+    },
+    "Minnesota -Duluth": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 24,
+          "added": [
+            "Madi Burr"
+          ],
+          "removed": [
+            "Madison Burr"
+          ],
+          "fields": {
+            "prevSchool": 13,
+            "y": 3,
+            "home": 1,
+            "st": 6,
+            "ctry": 2,
+            "name": 1
+          },
+          "at": "2026-09-26T00:28:35.218Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:28:44.840Z"
+        }
+      ],
+      "at": "2026-09-26T00:28:44.840Z"
+    },
+    "Minnesota State": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 24,
+          "added": [
+            "Tori Anderson"
+          ],
+          "removed": [],
+          "fields": {
+            "ht": 1,
+            "prevSchool": 23,
+            "home": 5,
+            "pos": 1
+          },
+          "at": "2026-09-26T00:29:42.124Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:29:51.866Z"
+        }
+      ],
+      "at": "2026-09-26T00:29:51.866Z"
+    },
+    "St. Thomas": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 25,
+          "added": [
+            "Madison Brown"
+          ],
+          "removed": [
+            "Maddie Brown"
+          ],
+          "fields": {
+            "pos": 1,
+            "home": 2,
+            "st": 1,
+            "y": 2
+          },
+          "at": "2026-09-26T00:31:16.879Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Post": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 24,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 4
+          },
+          "at": "2026-09-26T00:31:26.469Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:31:58.019Z"
+        }
+      ],
+      "at": "2026-09-26T00:31:58.019Z"
+    },
+    "Princeton": {
+      "at": "2026-09-26T00:33:02.750Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 22,
+          "at": "2026-09-26T00:33:02.750Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Providence": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 27,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 23,
+            "ht": 1,
+            "pos": 1,
+            "home": 1,
+            "st": 1
+          },
+          "at": "2026-09-26T00:33:46.465Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 27,
+          "at": "2026-09-26T00:34:35.921Z"
+        }
+      ],
+      "at": "2026-09-26T00:34:35.921Z"
+    },
+    "Quinnipiac": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "home": 13,
+            "st": 12,
+            "name": 1,
+            "y": 1,
+            "ht": 3,
+            "ctry": 1
+          },
+          "at": "2026-09-26T00:34:54.030Z",
+          "baseline": true
+        }
+      ]
+    },
+    "UCONN": {
+      "at": "2026-09-26T00:34:57.023Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 25,
+          "at": "2026-09-26T00:34:57.023Z",
+          "baseline": true
+        }
+      ]
+    },
+    "St. Lawrence": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 22,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 12,
+            "name": 1,
+            "pos": 2,
+            "home": 5,
+            "st": 6,
+            "ctry": 2,
+            "ht": 1,
+            "y": 1
+          },
+          "at": "2026-09-26T00:36:07.479Z",
+          "baseline": true
         }
       ]
     }
@@ -260,8 +657,27 @@
           },
           "at": "2026-09-25T23:58:48.693Z",
           "baseline": true
+        },
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "y": 1,
+            "home": 1,
+            "st": 1,
+            "ctry": 1
+          },
+          "at": "2026-09-26T00:27:36.407Z"
+        },
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:27:44.978Z"
         }
-      ]
+      ],
+      "at": "2026-09-26T00:27:44.978Z"
     },
     "New Hampshire": {
       "history": [
@@ -536,6 +952,315 @@
         }
       ],
       "at": "2026-09-26T00:14:34.933Z"
+    },
+    "Maine": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 27,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "st": 2,
+            "home": 2,
+            "prevSchool": 1
+          },
+          "at": "2026-09-26T00:19:16.673Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 27,
+          "at": "2026-09-26T00:19:24.605Z"
+        }
+      ],
+      "at": "2026-09-26T00:19:24.605Z"
+    },
+    "Clarkson": {
+      "at": "2026-09-26T00:22:29.824Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 23,
+          "at": "2026-09-26T00:22:29.824Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Assumption": {
+      "at": "2026-09-26T00:22:43.754Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 29,
+          "at": "2026-09-26T00:22:43.754Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Bemidji State": {
+      "at": "2026-09-26T00:22:53.620Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 25,
+          "at": "2026-09-26T00:22:53.620Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Brown": {
+      "at": "2026-09-26T00:22:58.681Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:22:58.681Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Boston College": {
+      "at": "2026-09-26T00:23:16.884Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:23:16.884Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Boston University": {
+      "at": "2026-09-26T00:23:27.221Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:23:27.221Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Cornell": {
+      "at": "2026-09-26T00:24:08.802Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:24:08.802Z",
+          "baseline": true
+        }
+      ]
+    },
+    "St. Thomas": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 25,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "pos": 1
+          },
+          "at": "2026-09-26T00:24:11.066Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Dartmouth": {
+      "at": "2026-09-26T00:24:17.689Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:24:17.689Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Delaware": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 25,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "pos": 1
+          },
+          "at": "2026-09-26T00:24:27.332Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 25,
+          "at": "2026-09-26T00:24:37.133Z"
+        }
+      ],
+      "at": "2026-09-26T00:24:37.133Z"
+    },
+    "Harvard": {
+      "at": "2026-09-26T00:25:07.240Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:25:07.240Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Holy Cross": {
+      "at": "2026-09-26T00:25:15.514Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 27,
+          "at": "2026-09-26T00:25:15.514Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Minnesota -Duluth": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 22,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 2,
+            "home": 1,
+            "st": 1,
+            "ctry": 1
+          },
+          "at": "2026-09-26T00:28:17.101Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 22,
+          "at": "2026-09-26T00:28:29.435Z"
+        }
+      ],
+      "at": "2026-09-26T00:28:29.435Z"
+    },
+    "Minnesota State": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 23,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "ht": 4,
+            "y": 1
+          },
+          "at": "2026-09-26T00:28:53.906Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 23,
+          "at": "2026-09-26T00:29:35.718Z"
+        }
+      ],
+      "at": "2026-09-26T00:29:35.718Z"
+    },
+    "Post": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 27,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "home": 2,
+            "st": 2,
+            "ctry": 1
+          },
+          "at": "2026-09-26T00:31:13.788Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 27,
+          "at": "2026-09-26T00:31:22.631Z"
+        }
+      ],
+      "at": "2026-09-26T00:31:22.631Z"
+    },
+    "Princeton": {
+      "at": "2026-09-26T00:32:59.165Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 22,
+          "at": "2026-09-26T00:32:59.165Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Providence": {
+      "at": "2026-09-26T00:33:43.086Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:33:43.086Z",
+          "baseline": true
+        }
+      ]
+    },
+    "UCONN": {
+      "at": "2026-09-26T00:34:30.139Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 24,
+          "at": "2026-09-26T00:34:30.139Z",
+          "baseline": true
+        }
+      ]
+    },
+    "Quinnipiac": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "home": 9,
+            "st": 9,
+            "ht": 2
+          },
+          "at": "2026-09-26T00:34:41.756Z",
+          "baseline": true
+        },
+        {
+          "result": "clean",
+          "n": 26,
+          "at": "2026-09-26T00:34:49.943Z"
+        }
+      ],
+      "at": "2026-09-26T00:34:49.943Z"
+    },
+    "St. Lawrence": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 26
+          },
+          "at": "2026-09-26T00:35:35.915Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
