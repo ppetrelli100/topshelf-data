@@ -49407,7 +49407,7 @@
         "ctry": "Canada",
         "no": "3",
         "sh": "L",
-        "prevSchool": "South Alberta Hockey Academy (CSSHL)"
+        "prevSchool": "Union College"
       },
       {
         "name": "Charlotte Wensley",
@@ -49433,20 +49433,20 @@
         "ctry": "US",
         "no": "6",
         "sh": "R",
-        "prevSchool": "Williston Northampton"
+        "prevSchool": "Williston Northampton School"
       },
       {
         "name": "Naomi Forand",
         "pk": "forand|naomi",
-        "y": "Sr",
+        "y": "Fr",
         "pos": "D",
         "ht": "5-5",
-        "home": "Magog",
+        "home": "Sherbrooke",
         "st": "QC",
         "ctry": "Canada",
         "no": "7",
         "sh": "L",
-        "prevSchool": "Quebec Schools"
+        "prevSchool": "John Abbott College"
       },
       {
         "name": "Victoria Savage",
@@ -49472,7 +49472,7 @@
         "ctry": "US",
         "no": "12",
         "sh": "R",
-        "prevSchool": "Kent School"
+        "prevSchool": "NAHA White"
       },
       {
         "name": "Sabrina Beaudoin",
@@ -49498,7 +49498,7 @@
         "ctry": "US",
         "no": "15",
         "sh": "L",
-        "prevSchool": "Lawrenceville School"
+        "prevSchool": "The Lawrenceville School"
       },
       {
         "name": "Nina Christof",
@@ -49507,7 +49507,7 @@
         "pos": "F",
         "ht": "5-4",
         "home": "Hammelburg",
-        "st": "GERMANY",
+        "st": "Germany",
         "ctry": "Europe",
         "no": "17",
         "sh": "L",
@@ -49543,12 +49543,13 @@
         "name": "Juliette Thibault",
         "pk": "thibault|juliette",
         "y": "Fr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-9",
         "home": "Rockland",
         "st": "ON",
         "ctry": "Canada",
-        "no": "20"
+        "no": "20",
+        "prevSchool": "Ottawa Lady 67's"
       },
       {
         "name": "Gracyn Mackay",
@@ -49573,7 +49574,8 @@
         "st": "MA",
         "ctry": "US",
         "no": "22",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Merrimack College"
       },
       {
         "name": "Aylah Cioffi",
@@ -49638,7 +49640,7 @@
         "ctry": "US",
         "no": "28",
         "sh": "R",
-        "prevSchool": "Loomis Chaffee School"
+        "prevSchool": "Mid Fairfield CT Stars"
       },
       {
         "name": "Molly Hamilton",
@@ -49651,7 +49653,7 @@
         "ctry": "Canada",
         "no": "29",
         "sh": "L",
-        "prevSchool": "Milwaukee Jr. Admirals"
+        "prevSchool": "Red Deer Chiefs"
       },
       {
         "name": "Caroline Bjergstad",
@@ -49659,11 +49661,12 @@
         "y": "Fr",
         "pos": "G",
         "ht": "5-5",
-        "home": "Hvidovre",
-        "st": "DENMARK",
+        "home": "Copenhagen",
+        "st": "Denmark",
         "ctry": "Europe",
         "no": "31",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Newark Ironbound 19U"
       },
       {
         "name": "Reese Keating",
@@ -49684,32 +49687,33 @@
         "y": "So",
         "pos": "D",
         "ht": "5-3",
-        "home": "Saint Albans",
+        "home": "St. Albans",
         "st": "VT",
         "ctry": "US",
         "no": "44",
         "sh": "R",
-        "prevSchool": "Lovell Academy 19U"
+        "prevSchool": "Clarkson University"
       },
       {
         "name": "Ella Newman-Mixon",
         "pk": "newmanmixon|ella",
         "y": "Fr",
         "pos": "D",
-        "ht": "",
+        "ht": "5-9",
         "home": "Whitby",
         "st": "ON",
         "ctry": "Canada",
         "no": "88",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Central York Jr. Panthers"
       },
       {
         "name": "Maelee Ambrass",
         "pk": "ambrass|maelee",
         "y": "So",
         "pos": "G",
-        "ht": "5-10",
-        "home": "Cranberry",
+        "ht": "5-11",
+        "home": "Cranberry Township",
         "st": "PA",
         "ctry": "US",
         "no": "92",
