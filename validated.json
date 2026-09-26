@@ -987,6 +987,22 @@
         }
       ],
       "at": "2026-09-26T00:28:29.435Z"
+    },
+    "Minnesota State": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 23,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "ht": 4,
+            "y": 1
+          },
+          "at": "2026-09-26T00:28:53.906Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
