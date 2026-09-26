@@ -50055,10 +50055,10 @@
         "y": "Fr",
         "pos": "G",
         "ht": "",
-        "home": "Cameron",
+        "home": "Apex",
         "st": "NC",
         "ctry": "US",
-        "no": "0",
+        "no": "00",
         "prevSchool": "Lovell Academy"
       },
       {
@@ -50074,7 +50074,7 @@
         "prevSchool": "The Hill School"
       },
       {
-        "name": "Addison Wagner",
+        "name": "Addie Wagner",
         "pk": "wagner|addison",
         "y": "Fr",
         "pos": "D",
@@ -50107,19 +50107,19 @@
         "st": "MI",
         "ctry": "US",
         "no": "5",
-        "prevSchool": "Saint Catherine of Siena"
+        "prevSchool": "HoneyBaked"
       },
       {
-        "name": "Olivia Laroche",
+        "name": "Olivia LaRoche",
         "pk": "laroche|olivia",
         "y": "Sr",
         "pos": "D",
         "ht": "",
-        "home": "Chaska",
+        "home": "Minnetonka",
         "st": "MN",
         "ctry": "US",
         "no": "6",
-        "prevSchool": "Minnetonka"
+        "prevSchool": "Minnetonka High School"
       },
       {
         "name": "Veronica Taylor",
@@ -50174,11 +50174,12 @@
         "pk": "jussila|hailey",
         "y": "So",
         "pos": "F",
-        "ht": "5-7",
-        "home": "Hermantown",
+        "ht": "",
+        "home": "Duluth",
         "st": "MN",
         "ctry": "US",
-        "no": "12"
+        "no": "12",
+        "prevSchool": "Quinnipiac"
       },
       {
         "name": "Julianna Koman",
@@ -50190,7 +50191,7 @@
         "st": "PA",
         "ctry": "US",
         "no": "14",
-        "prevSchool": "Honeybaked"
+        "prevSchool": "HoneyBaked"
       },
       {
         "name": "Lake Bethard",
@@ -50209,12 +50210,12 @@
         "pk": "bowlby|samantha",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-7",
-        "home": "Burnsville",
+        "ht": "",
+        "home": "Savage",
         "st": "MN",
         "ctry": "US",
         "no": "16",
-        "prevSchool": "Burnsville High"
+        "prevSchool": "Quinnipiac"
       },
       {
         "name": "Norah Morris",
@@ -50229,7 +50230,7 @@
         "prevSchool": "Choate Rosemary Hall School"
       },
       {
-        "name": "Anne Epstein",
+        "name": "Annie Epstein",
         "pk": "epstein|anne",
         "y": "Fr",
         "pos": "F",
@@ -50256,7 +50257,7 @@
         "name": "Kailey Smith",
         "pk": "smith|kailey",
         "y": "Sr",
-        "pos": "D",
+        "pos": "F/D",
         "ht": "",
         "home": "Framingham",
         "st": "MA",
@@ -50265,7 +50266,7 @@
         "prevSchool": "Cushing Academy"
       },
       {
-        "name": "Anastasia Witmer",
+        "name": "Ana Witmer",
         "pk": "witmer|anastasia",
         "y": "Fr",
         "pos": "F",
@@ -50274,7 +50275,7 @@
         "st": "NJ",
         "ctry": "US",
         "no": "21",
-        "prevSchool": "Glen Rock High School"
+        "prevSchool": "Glen Rock"
       },
       {
         "name": "Chase Rutty",
@@ -50286,7 +50287,7 @@
         "st": "NJ",
         "ctry": "US",
         "no": "22",
-        "prevSchool": "Shattuck Saint Mary's"
+        "prevSchool": "Shattuck Saint Mary's School"
       },
       {
         "name": "Shae Carroll",
@@ -50316,16 +50317,16 @@
         "name": "Grayson Limke",
         "pk": "limke|grayson",
         "y": "Jr",
-        "pos": "F",
+        "pos": "F/D",
         "ht": "",
         "home": "Buffalo",
         "st": "MN",
         "ctry": "US",
         "no": "25",
-        "prevSchool": "Holy Family"
+        "prevSchool": "Holy Family High School"
       },
       {
-        "name": "Isabella Chaput",
+        "name": "Izzy Chaput",
         "pk": "chaput|isabella",
         "y": "Jr",
         "pos": "F",
@@ -50346,19 +50347,19 @@
         "st": "NJ",
         "ctry": "US",
         "no": "29",
-        "prevSchool": "Kent School"
+        "prevSchool": "Connecticut College"
       },
       {
         "name": "Mia Wendell",
         "pk": "wendell|mia",
         "y": "Gr",
         "pos": "G",
-        "ht": "5-8",
+        "ht": "",
         "home": "Buffalo",
         "st": "NY",
         "ctry": "US",
         "no": "31",
-        "prevSchool": "Williamsville East"
+        "prevSchool": "Yale"
       },
       {
         "name": "Grace Nelson",
@@ -50370,7 +50371,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "32",
-        "prevSchool": "Bishop Meehan High School"
+        "prevSchool": "Bishop Feehan High School"
       },
       {
         "name": "Lauren Larson",
@@ -50389,13 +50390,12 @@
         "pk": "zielinska|julia",
         "y": "So",
         "pos": "D",
-        "ht": "5-5",
-        "home": "Sanok",
-        "st": "POLAND",
+        "ht": "",
+        "home": "Katowice",
+        "st": "Poland",
         "ctry": "Europe",
         "no": "34",
-        "sh": "L",
-        "prevSchool": "Kiekko-Espoo"
+        "prevSchool": "Bemidji State"
       },
       {
         "name": "Ally Cohen",
@@ -50414,12 +50414,12 @@
         "pk": "holm|bria",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-4",
+        "ht": "",
         "home": "Moorhead",
         "st": "MN",
         "ctry": "US",
         "no": "55",
-        "prevSchool": "Moorhead HS"
+        "prevSchool": "University of Maine"
       },
       {
         "name": "Jillian Petruno",
@@ -50438,13 +50438,12 @@
         "pk": "antonakis|alyssa",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-6",
-        "home": "Elko New Market",
+        "ht": "",
+        "home": "Lakeville",
         "st": "MN",
         "ctry": "US",
         "no": "94",
-        "sh": "L",
-        "prevSchool": "Gentry Academy"
+        "prevSchool": "Northeastern University"
       }
     ],
     "Saint Anselm": [
