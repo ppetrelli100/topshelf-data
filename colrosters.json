@@ -62330,8 +62330,7 @@
         "home": "Scarborough",
         "st": "ME",
         "ctry": "US",
-        "no": "2",
-        "prevSchool": "New Hampton School/Valley Jr. Warriors 19U AAA"
+        "no": "2"
       },
       {
         "name": "Natalie Zarcone",
@@ -62342,8 +62341,7 @@
         "home": "Huntington",
         "st": "NY",
         "ctry": "US",
-        "no": "4",
-        "prevSchool": "Northwood School"
+        "no": "4"
       },
       {
         "name": "Sophia DeAnzeris",
@@ -62354,8 +62352,7 @@
         "home": "Saratoga",
         "st": "NY",
         "ctry": "US",
-        "no": "5",
-        "prevSchool": "Northwood School"
+        "no": "5"
       },
       {
         "name": "Maria Gray",
@@ -62366,8 +62363,7 @@
         "home": "Monona",
         "st": "WI",
         "ctry": "US",
-        "no": "6",
-        "prevSchool": "Phillips Exeter Academy"
+        "no": "6"
       },
       {
         "name": "Stella Retrum",
@@ -62378,8 +62374,7 @@
         "home": "Maple Grove",
         "st": "MN",
         "ctry": "US",
-        "no": "10",
-        "prevSchool": "Penn State (AHA)"
+        "no": "10"
       },
       {
         "name": "Kaylee Lewis",
@@ -62390,8 +62385,7 @@
         "home": "McKinney",
         "st": "TX",
         "ctry": "US",
-        "no": "11",
-        "prevSchool": "Philadelphia Jr. Flyers"
+        "no": "11"
       },
       {
         "name": "Lauren O'Hara",
@@ -62402,20 +62396,18 @@
         "home": "Blaine",
         "st": "MN",
         "ctry": "US",
-        "no": "12",
-        "prevSchool": "Minnesota (WCHA)"
+        "no": "12"
       },
       {
         "name": "Josie Hemp",
         "pk": "hemp|josephine",
-        "y": "Jr",
+        "y": "R-Jr",
         "pos": "D",
         "ht": "5-9",
         "home": "Chanhassen",
         "st": "MN",
         "ctry": "US",
-        "no": "15",
-        "prevSchool": "Minnesota (WCHA)"
+        "no": "15"
       },
       {
         "name": "Mya Lawrence",
@@ -62426,8 +62418,7 @@
         "home": "Okotoks",
         "st": "AB",
         "ctry": "Canada",
-        "no": "16",
-        "prevSchool": "Shawnigan (CSSHL)"
+        "no": "16"
       },
       {
         "name": "Brooke George",
@@ -62438,8 +62429,7 @@
         "home": "East Montpelier",
         "st": "VT",
         "ctry": "US",
-        "no": "17",
-        "prevSchool": "Selects Academy"
+        "no": "17"
       },
       {
         "name": "Cecilia DesLauriers",
@@ -62450,8 +62440,7 @@
         "home": "St. Albans",
         "st": "VT",
         "ctry": "US",
-        "no": "19",
-        "prevSchool": "Deerfield Academy"
+        "no": "19"
       },
       {
         "name": "Zoe Charland",
@@ -62462,8 +62451,7 @@
         "home": "Sherbrooke",
         "st": "QC",
         "ctry": "Canada",
-        "no": "21",
-        "prevSchool": "Stanstead College"
+        "no": "21"
       },
       {
         "name": "Ezra Oien",
@@ -62474,8 +62462,7 @@
         "home": "Owatonna",
         "st": "MN",
         "ctry": "US",
-        "no": "23",
-        "prevSchool": "Owatonna HS"
+        "no": "23"
       },
       {
         "name": "Rose-Marie Brochu",
@@ -62486,8 +62473,7 @@
         "home": "Levis",
         "st": "QC",
         "ctry": "Canada",
-        "no": "24",
-        "prevSchool": "Limoilou"
+        "no": "24"
       },
       {
         "name": "Gracesyn Louis",
@@ -62498,8 +62484,7 @@
         "home": "Redondo Beach",
         "st": "CA",
         "ctry": "US",
-        "no": "29",
-        "prevSchool": "Lovell Academy"
+        "no": "29"
       },
       {
         "name": "Lily Prendergast",
@@ -62510,8 +62495,7 @@
         "home": "Hanover",
         "st": "MA",
         "ctry": "US",
-        "no": "30",
-        "prevSchool": "Etobicoke Dolphins"
+        "no": "30"
       },
       {
         "name": "Zoe Cliche",
@@ -62522,8 +62506,7 @@
         "home": "Ottawa",
         "st": "ON",
         "ctry": "Canada",
-        "no": "31",
-        "prevSchool": "Nepean Wildcats"
+        "no": "31"
       },
       {
         "name": "Tara Bach",
@@ -62534,13 +62517,12 @@
         "home": "Oakville",
         "st": "ON",
         "ctry": "Canada",
-        "no": "32",
-        "prevSchool": "Mercyhurst (AHA)"
+        "no": "32"
       },
       {
         "name": "Ellie Simmons",
         "pk": "simmons|elizabeth",
-        "y": "Sr",
+        "y": "R-Sr",
         "pos": "G",
         "ht": "5-8",
         "home": "Buffalo",
@@ -62552,13 +62534,12 @@
         "name": "Lila Pannacciulli",
         "pk": "pannacciulli|lila",
         "y": "So",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-6",
         "home": "East Meadow",
         "st": "NY",
         "ctry": "US",
-        "no": "44",
-        "prevSchool": "Lovell Academy"
+        "no": "44"
       },
       {
         "name": "Oona Havana",
@@ -62569,8 +62550,7 @@
         "home": "Turku",
         "st": "Finland",
         "ctry": "Europe",
-        "no": "51",
-        "prevSchool": "Karpat (Naisten Liiga)"
+        "no": "51"
       },
       {
         "name": "Hilary Wilkin",
@@ -62581,8 +62561,7 @@
         "home": "Halifax",
         "st": "NS",
         "ctry": "Canada",
-        "no": "71",
-        "prevSchool": "Northwood School"
+        "no": "71"
       },
       {
         "name": "Linnea Misner",
@@ -62593,8 +62572,7 @@
         "home": "Springfield",
         "st": "MB",
         "ctry": "Canada",
-        "no": "77",
-        "prevSchool": "Robert Morris (AHA)"
+        "no": "77"
       },
       {
         "name": "Makena Lloyd-Howe",
@@ -62605,8 +62583,7 @@
         "home": "Tumbler Ridge",
         "st": "BC",
         "ctry": "Canada",
-        "no": "88",
-        "prevSchool": "RINK Hockey Academy"
+        "no": "88"
       },
       {
         "name": "Lexie Hatoum",
@@ -62617,8 +62594,7 @@
         "home": "Ottawa",
         "st": "ON",
         "ctry": "Canada",
-        "no": "92",
-        "prevSchool": "Ottawa Senators"
+        "no": "92"
       },
       {
         "name": "Morgann Skoda",
@@ -62629,8 +62605,7 @@
         "home": "Montreal",
         "st": "QC",
         "ctry": "Canada",
-        "no": "93",
-        "prevSchool": "RPI (ECAC)"
+        "no": "93"
       }
     ],
     "Franklin Pierce": [
