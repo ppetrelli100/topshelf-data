@@ -48800,19 +48800,20 @@
         "y": "So",
         "pos": "D",
         "ht": "5-5",
-        "home": "Rosedale",
-        "st": "BC",
+        "home": "Rosedale, British Columbia",
+        "st": "",
         "ctry": "Canada",
-        "no": "3"
+        "no": "3",
+        "prevSchool": "Chilliwack Secondary School"
       },
       {
-        "name": "Sophia Rousseau",
+        "name": "Sophie Rousseau",
         "pk": "rousseau|sophia",
         "y": "Fr",
         "pos": "D",
         "ht": "5-10",
-        "home": "Wilmington",
-        "st": "NC",
+        "home": "Kent",
+        "st": "CT",
         "ctry": "US",
         "no": "4",
         "prevSchool": "Kent School"
@@ -48826,7 +48827,8 @@
         "home": "Lafayette Hill",
         "st": "PA",
         "ctry": "US",
-        "no": "5"
+        "no": "5",
+        "prevSchool": "Mount Saint Joseph Academy"
       },
       {
         "name": "Ruby Rauk",
@@ -48834,23 +48836,23 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Excelsior",
+        "home": "Minnetonka",
         "st": "MN",
         "ctry": "US",
         "no": "6",
-        "prevSchool": "Minnetonka High School"
+        "prevSchool": "Minnetonka"
       },
       {
         "name": "Tessa Holk",
         "pk": "holk|theresa",
-        "y": "Jr",
+        "y": "Sr",
         "pos": "F",
-        "ht": "5-5",
-        "home": "Ancaster",
-        "st": "ON",
+        "ht": "5-4",
+        "home": "Ancaster, Ontario",
+        "st": "",
         "ctry": "Canada",
         "no": "7",
-        "prevSchool": "Bishop Tonnos Catholic Secondary"
+        "prevSchool": "Bishop Tonnas High School"
       },
       {
         "name": "Kahlen Lamarche",
@@ -48858,8 +48860,8 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Greater Sudbury",
-        "st": "ON",
+        "home": "Sudbury, Ontario",
+        "st": "",
         "ctry": "Canada",
         "no": "8",
         "prevSchool": "Everest Academy"
@@ -48873,7 +48875,8 @@
         "home": "Moorhead",
         "st": "MN",
         "ctry": "US",
-        "no": "9"
+        "no": "9",
+        "prevSchool": "Moorhead High School"
       },
       {
         "name": "Avery Bairos",
@@ -48881,22 +48884,23 @@
         "y": "So",
         "pos": "F",
         "ht": "5-6",
-        "home": "Saskatoon",
-        "st": "SK",
+        "home": "Saskatoon, Saskatchewan",
+        "st": "",
         "ctry": "Canada",
-        "no": "10"
+        "no": "10",
+        "prevSchool": "St. Joseph High school"
       },
       {
         "name": "Regan Berglund",
         "pk": "berglund|regan",
         "y": "Fr",
         "pos": "F",
-        "ht": "5-10",
+        "ht": "5-8",
         "home": "Hugo",
         "st": "MN",
         "ctry": "US",
         "no": "11",
-        "prevSchool": "Hill-murray School"
+        "prevSchool": "Hill-Murray School"
       },
       {
         "name": "Emerson Jarvis",
@@ -48904,12 +48908,11 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-4",
-        "home": "Mundare",
-        "st": "AB",
+        "home": "Edmonton, Alberta",
+        "st": "",
         "ctry": "Canada",
         "no": "12",
-        "sh": "R",
-        "prevSchool": "Bev Facey Community High Schoo"
+        "prevSchool": "Bev Facey"
       },
       {
         "name": "Ella Pasqua",
@@ -48917,11 +48920,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-8",
-        "home": "Shorewood",
+        "home": "Long Lake",
         "st": "MN",
         "ctry": "US",
         "no": "14",
-        "prevSchool": "Benilde-st Margaret's School"
+        "prevSchool": "Benilde-St. Margaret's"
       },
       {
         "name": "Lincoln Brown",
@@ -48933,7 +48936,7 @@
         "st": "CA",
         "ctry": "US",
         "no": "15",
-        "prevSchool": "Culver Academies"
+        "prevSchool": "Culver Academy"
       },
       {
         "name": "Bryn Prier",
@@ -48944,7 +48947,8 @@
         "home": "Juno Beach",
         "st": "FL",
         "ctry": "US",
-        "no": "16"
+        "no": "16",
+        "prevSchool": "William T. Dwyer High School"
       },
       {
         "name": "Brynne West",
@@ -48952,8 +48956,8 @@
         "y": "Jr",
         "pos": "D",
         "ht": "5-9",
-        "home": "River Forest",
-        "st": "IL",
+        "home": "Gainesville",
+        "st": "GA",
         "ctry": "US",
         "no": "17",
         "prevSchool": "Fenwick"
@@ -48980,8 +48984,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "19",
-        "sh": "L",
-        "prevSchool": "Brooklin"
+        "prevSchool": "Brooklin High School"
       },
       {
         "name": "Laurence Frenette",
@@ -48989,12 +48992,10 @@
         "y": "Gr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Boisbriand",
-        "st": "QC",
+        "home": "Boisbriand, Quebec",
+        "st": "",
         "ctry": "Canada",
-        "no": "21",
-        "sh": "R",
-        "prevSchool": "Stanstead College"
+        "no": "21"
       },
       {
         "name": "Jade Barbirati",
@@ -49002,10 +49003,11 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Sonnaz",
-        "st": "FRANCE",
+        "home": "Chambery",
+        "st": "France",
         "ctry": "Europe",
-        "no": "22"
+        "no": "22",
+        "prevSchool": "Lycée Jules Verne / John Abbott College"
       },
       {
         "name": "Ella Johnson",
@@ -49017,7 +49019,7 @@
         "st": "AK",
         "ctry": "US",
         "no": "27",
-        "prevSchool": "Shattuck St. Mary's"
+        "prevSchool": "NAHA"
       },
       {
         "name": "Makayla Watson",
@@ -49025,10 +49027,11 @@
         "y": "So",
         "pos": "D",
         "ht": "5-6",
-        "home": "Calgary",
-        "st": "AB",
+        "home": "Brooks, Alberta",
+        "st": "",
         "ctry": "Canada",
-        "no": "28"
+        "no": "28",
+        "prevSchool": "George Elliot Secondary School / Team Alberta / Team Canada U18"
       },
       {
         "name": "Peyton Cormier",
@@ -49039,7 +49042,8 @@
         "home": "Trenton",
         "st": "ON",
         "ctry": "Canada",
-        "no": "29"
+        "no": "29",
+        "prevSchool": "St. Paul Catholic Secondary School"
       },
       {
         "name": "Felicia Frank",
@@ -49048,9 +49052,10 @@
         "pos": "G",
         "ht": "5-9",
         "home": "Falkoping",
-        "st": "SWEDEN",
+        "st": "Sweden",
         "ctry": "Europe",
-        "no": "30"
+        "no": "30",
+        "prevSchool": "Borgarskolan"
       },
       {
         "name": "Casey Clausen",
@@ -49062,19 +49067,19 @@
         "st": "NY",
         "ctry": "US",
         "no": "33",
-        "prevSchool": "Northwood School"
+        "prevSchool": "The Northwood School"
       },
       {
         "name": "Calli Hogarth",
         "pk": "hogarth|calli",
         "y": "Sr",
         "pos": "G",
-        "ht": "6-1",
+        "ht": "6-0",
         "home": "Barrie",
         "st": "ON",
         "ctry": "Canada",
         "no": "41",
-        "sh": "L"
+        "prevSchool": "Innisdale Secondary School"
       },
       {
         "name": "Tatum Blacker",
@@ -49082,11 +49087,11 @@
         "y": "Sr",
         "pos": "G",
         "ht": "5-5",
-        "home": "Vernon Hills",
-        "st": "IL",
-        "ctry": "US",
+        "home": "Vernon Hill",
+        "st": "Illi.",
+        "ctry": "__UNKNOWN__",
         "no": "50",
-        "prevSchool": "Libertyville"
+        "prevSchool": "Libertyville High"
       }
     ],
     "RIT": [
