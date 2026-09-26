@@ -61845,16 +61845,25 @@
     ],
     "Syracuse": [
       {
+        "name": "Sophia Hausberger",
+        "pk": "hausberger|sophia",
+        "y": "Gr",
+        "pos": "G",
+        "ht": "5-7",
+        "home": "",
+        "st": "",
+        "ctry": "",
+        "prevSchool": "Merrimack"
+      },
+      {
         "name": "Stella Costabile",
         "pk": "costabile|estella",
         "y": "Jr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Belmar",
-        "st": "NJ",
-        "ctry": "US",
-        "no": "2",
-        "prevSchool": "Philly Flyers"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Emma Gnade",
@@ -61862,11 +61871,9 @@
         "y": "So",
         "pos": "F",
         "ht": "5-3",
-        "home": "Fenton",
-        "st": "MO",
-        "ctry": "US",
-        "no": "3",
-        "prevSchool": "Belle Tire"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jamison Hirsh",
@@ -61874,11 +61881,29 @@
         "y": "So",
         "pos": "F",
         "ht": "5-4",
-        "home": "Bensalem",
-        "st": "PA",
-        "ctry": "US",
-        "no": "5",
-        "prevSchool": "Philadelphia Jr. Flyers"
+        "home": "",
+        "st": "",
+        "ctry": ""
+      },
+      {
+        "name": "Nina Geric",
+        "pk": "geric|nina",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-8",
+        "home": "",
+        "st": "",
+        "ctry": ""
+      },
+      {
+        "name": "Kendra Raypholtz",
+        "pk": "raypholtz|kendra",
+        "y": "Fr",
+        "pos": "F",
+        "ht": "5-3",
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jocelyn Fiala",
@@ -61886,11 +61911,9 @@
         "y": "Sr",
         "pos": "D",
         "ht": "5-8",
-        "home": "Clavet",
-        "st": "SK",
-        "ctry": "Canada",
-        "no": "8",
-        "prevSchool": "Saskatoon Stars"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Celia Wiegand",
@@ -61898,11 +61921,9 @@
         "y": "Jr",
         "pos": "D",
         "ht": "5-8",
-        "home": "Jeffersonville",
-        "st": "VT",
-        "ctry": "US",
-        "no": "9",
-        "prevSchool": "Lovell Academy"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jessica Cheung",
@@ -61910,11 +61931,19 @@
         "y": "Jr",
         "pos": "D",
         "ht": "5-7",
-        "home": "Ottawa",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "10",
-        "prevSchool": "Ottawa Lady Sens U22/Team Canada U18"
+        "home": "",
+        "st": "",
+        "ctry": ""
+      },
+      {
+        "name": "Alara Murphy",
+        "pk": "murphy|alara",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-8",
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jordan Blouin",
@@ -61922,11 +61951,9 @@
         "y": "So",
         "pos": "F",
         "ht": "5-7",
-        "home": "Calgary",
-        "st": "AB",
-        "ctry": "Canada",
-        "no": "14",
-        "prevSchool": "Rink Kelowna"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jackson Kinsler",
@@ -61934,11 +61961,9 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Madison",
-        "st": "WI",
-        "ctry": "US",
-        "no": "16",
-        "prevSchool": "Shattuck St. Mary's"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Haley Trudeau",
@@ -61946,11 +61971,19 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-4",
-        "home": "Sherwood Park",
-        "st": "AB",
-        "ctry": "Canada",
-        "no": "17",
-        "prevSchool": "St. Albert Slash"
+        "home": "",
+        "st": "",
+        "ctry": ""
+      },
+      {
+        "name": "Maryn Broderick",
+        "pk": "broderick|maryn",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "6-1",
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Rylee McLeod",
@@ -61958,11 +61991,9 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Grand Prairie",
-        "st": "AB",
-        "ctry": "Canada",
-        "no": "19",
-        "prevSchool": "Red Deer Chiefs"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Laura Leitner",
@@ -61970,11 +62001,9 @@
         "y": "Jr",
         "pos": "D",
         "ht": "5-7",
-        "home": "Krumpendorf",
-        "st": "Austria",
-        "ctry": "Europe",
-        "no": "20",
-        "prevSchool": "Sodertalje SK"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Nea Tervonen",
@@ -61982,11 +62011,20 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-3",
-        "home": "Tampere",
-        "st": "Finland",
-        "ctry": "Europe",
-        "no": "21",
-        "prevSchool": "Team Kuortane"
+        "home": "",
+        "st": "",
+        "ctry": ""
+      },
+      {
+        "name": "Kerttu Lehmus",
+        "pk": "lehmus|kerttu",
+        "y": "So",
+        "pos": "F",
+        "ht": "5-3",
+        "home": "",
+        "st": "",
+        "ctry": "",
+        "prevSchool": "Merrimack"
       },
       {
         "name": "Rachel Walsh",
@@ -61994,11 +62032,9 @@
         "y": "So",
         "pos": "D",
         "ht": "5-7",
-        "home": "Hammonds Plains",
-        "st": "NS",
-        "ctry": "Canada",
-        "no": "24",
-        "prevSchool": "Lindsey Surge"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Makenna Williment",
@@ -62006,11 +62042,9 @@
         "y": "So",
         "pos": "F",
         "ht": "5-10",
-        "home": "Winnipeg",
-        "st": "MB",
-        "ctry": "Canada",
-        "no": "25",
-        "prevSchool": "Balmoral Hall School"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Peyton Armstrong",
@@ -62018,11 +62052,9 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-3",
-        "home": "Bancroft",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "26",
-        "prevSchool": "Kingston Junior Ice Wolves"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Mia Ng",
@@ -62030,11 +62062,19 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Braintree",
-        "st": "MA",
-        "ctry": "US",
-        "no": "28",
-        "prevSchool": "Thayer Academy"
+        "home": "",
+        "st": "",
+        "ctry": ""
+      },
+      {
+        "name": "Cicely Harnum",
+        "pk": "harnum|cicely",
+        "y": "Fr",
+        "pos": "G",
+        "ht": "5-11",
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Ava Drabyk",
@@ -62042,11 +62082,9 @@
         "y": "So",
         "pos": "G",
         "ht": "5-5",
-        "home": "Saskatoon",
-        "st": "SK",
-        "ctry": "Canada",
-        "no": "31",
-        "prevSchool": "RHA Kelowna"
+        "home": "",
+        "st": "",
+        "ctry": ""
       }
     ],
     "UCONN": [
