@@ -56816,7 +56816,7 @@
         "st": "IL",
         "ctry": "US",
         "no": "5",
-        "prevSchool": "Adrian"
+        "prevSchool": "Alan B. Shephard"
       },
       {
         "name": "Mariana Valeri",
@@ -56903,8 +56903,8 @@
         "prevSchool": "Lillehammer"
       },
       {
-        "name": "Tiril Arnzten",
-        "pk": "arnzten|tiril",
+        "name": "Tiril Arntzen",
+        "pk": "arntzen|tiril",
         "y": "Fr",
         "pos": "F",
         "ht": "5-5",
@@ -56936,7 +56936,7 @@
         "st": "Sweden",
         "ctry": "Europe",
         "no": "15",
-        "prevSchool": "Stonehill"
+        "prevSchool": "Kunskapsgymnasiet"
       },
       {
         "name": "Tatiana Blichova",
@@ -56960,7 +56960,7 @@
         "st": "France",
         "ctry": "Europe",
         "no": "18",
-        "prevSchool": "Lycee Marc Bloch"
+        "prevSchool": "Lycée Marc Bloch"
       },
       {
         "name": "Krisztina Weiler",
@@ -57049,7 +57049,7 @@
       {
         "name": "Eva Filippova",
         "pk": "filippova|eva",
-        "y": "5th",
+        "y": "Sr",
         "pos": "G",
         "ht": "5-5",
         "home": "Khanty-Mansiysk",
