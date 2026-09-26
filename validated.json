@@ -1501,6 +1501,26 @@
         }
       ],
       "at": "2026-09-26T00:44:59.955Z"
+    },
+    "St. Cloud State": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 25,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "ht": 2,
+            "name": 1,
+            "y": 5,
+            "pos": 1,
+            "home": 2,
+            "prevSchool": 1
+          },
+          "at": "2026-09-26T00:45:20.339Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
