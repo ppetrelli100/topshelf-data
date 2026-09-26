@@ -5,7 +5,7 @@
   "years": "Keyed by portal year (the spring window after that season ends; 2026 = players leaving after 2025-26). Newest edits are made directly in this file.",
   "row": "Sheet-style field names kept for the site (YEAR, NAME, TEAM LEAVING, POS, YR., HOMETOWN, STATE/COUNTRY, HT, DESTINATION TEAM, NOTABLE, OLD CONF, NEW CONF, DATE ADDED, personkey) plus the fields below.",
   "id": "Stable row id: year|personkey|team leaving.",
-  "status": "left | withdrawn. Withdrawn players never left (excluded from outs).",
+  "status": "left | withdrawn | returned. Withdrawn and returned players never actually left (entered the portal, then stayed or came back), so the site skips them for both outs and ins.",
   "destType": "D1 | D3 | USports | Club | Pro | Unknown | Withdrawn. Derived from DESTINATION TEAM + NEW CONF; a blank destination stays Unknown, never guessed. D1 = a school in TopShelf's ALL_SCHOOLS list (standard names).",
   "qa": "match: exact|fuzzy|manual|verified|verified-gap (how the personkey was reconciled with colrosters.json or checked by hand). conf: high|low (low = 2023/2024, not site-reconciled like the current seasons). pk_prev / name_prev: value before correction."
  },
@@ -536,8 +536,8 @@
     "NEW CONF": "ECAC",
     "DATE ADDED": "3/6/2023",
     "personkey": "donohue|jennifer",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
@@ -559,8 +559,8 @@
     "NEW CONF": "ECAC",
     "DATE ADDED": "3/8/2023",
     "personkey": "king|anne",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
@@ -582,8 +582,8 @@
     "NEW CONF": "ECAC",
     "DATE ADDED": "3/21/2023",
     "personkey": "robinson|sophia",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
@@ -906,8 +906,8 @@
     "NEW CONF": "CHA",
     "DATE ADDED": "3/8/2023",
     "personkey": "finach|emily",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
@@ -2291,8 +2291,8 @@
     "NEW CONF": "ECAC",
     "DATE ADDED": "5/4/2023",
     "personkey": "nutescu|michelle",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
@@ -2990,8 +2990,8 @@
     "NEW CONF": "Hockey East",
     "DATE ADDED": "2/7/2023",
     "personkey": "svetek|ainsley",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
@@ -3382,8 +3382,8 @@
     "NEW CONF": "Hockey East",
     "DATE ADDED": "3/11/2024",
     "personkey": "shaunessy|julia",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
@@ -5609,8 +5609,8 @@
     "NEW CONF": "NEWHA",
     "DATE ADDED": "3/11/2024",
     "personkey": "mcneil|paige",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
@@ -5849,8 +5849,8 @@
     "NEW CONF": "WCHA",
     "DATE ADDED": "4/22/2024",
     "personkey": "voigt|svenja",
-    "status": "left",
-    "destType": "D1",
+    "status": "returned",
+    "destType": "Returned",
     "qa": {
      "match": "exact",
      "conf": "low"
