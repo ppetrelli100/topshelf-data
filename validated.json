@@ -428,6 +428,30 @@
         }
       ],
       "at": "2026-09-26T00:28:06.846Z"
+    },
+    "Minnesota -Duluth": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 24,
+          "added": [
+            "Madi Burr"
+          ],
+          "removed": [
+            "Madison Burr"
+          ],
+          "fields": {
+            "prevSchool": 13,
+            "y": 3,
+            "home": 1,
+            "st": 6,
+            "ctry": 2,
+            "name": 1
+          },
+          "at": "2026-09-26T00:28:35.218Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
