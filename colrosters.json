@@ -51732,14 +51732,14 @@
         "name": "Nora DeVries",
         "pk": "devries|nora",
         "y": "Fr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-4",
         "home": "Lindstrom",
         "st": "MN",
         "ctry": "US",
         "no": "2",
         "sh": "R",
-        "prevSchool": "Chisago Lakes High School"
+        "prevSchool": "Chisago Lakes"
       },
       {
         "name": "Cailin Mumm",
@@ -51760,12 +51760,12 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-7",
-        "home": "Saint Paul",
+        "home": "St. Paul",
         "st": "MN",
         "ctry": "US",
         "no": "5",
         "sh": "R",
-        "prevSchool": "Hill-murray School"
+        "prevSchool": "Hill-Murray"
       },
       {
         "name": "Rylee Bartz",
@@ -51773,8 +51773,8 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-8",
-        "home": "Warroad",
-        "st": "MN",
+        "home": "Fargo",
+        "st": "ND",
         "ctry": "US",
         "no": "6",
         "sh": "R",
@@ -51796,7 +51796,7 @@
       {
         "name": "Sadie Lindsay",
         "pk": "lindsay|sadie",
-        "y": "Gr",
+        "y": "Sr",
         "pos": "F",
         "ht": "5-7",
         "home": "Minnetonka",
@@ -51804,7 +51804,7 @@
         "ctry": "US",
         "no": "8",
         "sh": "R",
-        "prevSchool": "Breck"
+        "prevSchool": "Breck School"
       },
       {
         "name": "Nora Sauer",
@@ -51820,13 +51820,13 @@
         "prevSchool": "Andover"
       },
       {
-        "name": "Maddie Brown",
-        "pk": "brown|madelyn",
+        "name": "Madison Brown",
+        "pk": "brown|madison",
         "y": "Jr",
         "pos": "F",
         "ht": "5-9",
-        "home": "Andover",
-        "st": "MN",
+        "home": "Bismarck",
+        "st": "ND",
         "ctry": "US",
         "no": "10",
         "sh": "R",
@@ -51843,7 +51843,7 @@
         "ctry": "US",
         "no": "11",
         "sh": "R",
-        "prevSchool": "Andover High School"
+        "prevSchool": "Andover"
       },
       {
         "name": "Keara Parker",
@@ -51856,7 +51856,7 @@
         "ctry": "Canada",
         "no": "13",
         "sh": "L",
-        "prevSchool": "George Elliot Secondary School"
+        "prevSchool": "Rink Hockey Academy Kelowna"
       },
       {
         "name": "JuliAnna Gazdik",
@@ -51894,7 +51894,8 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "16",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Rink Hockey Academy Kelmpowna"
       },
       {
         "name": "Ellah Hause",
@@ -51907,7 +51908,7 @@
         "ctry": "US",
         "no": "18",
         "sh": "L",
-        "prevSchool": "Hill Murray"
+        "prevSchool": "Hill-Murray"
       },
       {
         "name": "Ilsa Lindaman",
@@ -51946,7 +51947,7 @@
         "ctry": "US",
         "no": "22",
         "sh": "L",
-        "prevSchool": "Centennial High School"
+        "prevSchool": "Centennial"
       },
       {
         "name": "Whitney Horton",
@@ -51959,7 +51960,7 @@
         "ctry": "US",
         "no": "23",
         "sh": "L",
-        "prevSchool": "Edina High School"
+        "prevSchool": "Edina"
       },
       {
         "name": "Haley Maxwell",
@@ -51985,7 +51986,7 @@
         "ctry": "US",
         "no": "25",
         "sh": "L",
-        "prevSchool": "Andover High School"
+        "prevSchool": "Andover"
       },
       {
         "name": "Jenessa Gazdik",
@@ -52011,7 +52012,7 @@
         "ctry": "US",
         "no": "31",
         "sh": "L",
-        "prevSchool": "Edina High School"
+        "prevSchool": "Edina"
       },
       {
         "name": "Maggie Malecha",
@@ -52029,7 +52030,7 @@
       {
         "name": "Julia Minotti",
         "pk": "minotti|julia",
-        "y": "Sr",
+        "y": "Gr",
         "pos": "G",
         "ht": "5-8",
         "home": "Laval",
