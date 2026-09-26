@@ -53179,13 +53179,11 @@
         "pk": "zarcone|natalie",
         "y": "Jr",
         "pos": "D",
-        "ht": "5-5",
+        "ht": "5-6",
         "home": "Huntington",
         "st": "NY",
         "ctry": "US",
-        "no": "4",
-        "sh": "L",
-        "prevSchool": "Northwood School"
+        "no": "4"
       },
       {
         "name": "Sophia DeAnzeris",
@@ -53193,25 +53191,21 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-11",
-        "home": "Saratoga Springs",
+        "home": "Saratoga",
         "st": "NY",
         "ctry": "US",
-        "no": "5",
-        "sh": "R",
-        "prevSchool": "Northwood School"
+        "no": "5"
       },
       {
         "name": "Anna Podein",
         "pk": "podein|anna",
-        "y": "Sr",
+        "y": "R-Sr",
         "pos": "D",
         "ht": "5-8",
         "home": "Minneapolis",
         "st": "MN",
         "ctry": "US",
-        "no": "8",
-        "sh": "L",
-        "prevSchool": "Benilde-St. Margaret's"
+        "no": "8"
       },
       {
         "name": "Julia Mesplede",
@@ -53220,11 +53214,9 @@
         "pos": "F",
         "ht": "5-2",
         "home": "Bordeaux",
-        "st": "FRANCE",
+        "st": "France",
         "ctry": "Europe",
-        "no": "9",
-        "sh": "R",
-        "prevSchool": "Vermont Academy"
+        "no": "9"
       },
       {
         "name": "Stella Retrum",
@@ -53235,9 +53227,7 @@
         "home": "Maple Grove",
         "st": "MN",
         "ctry": "US",
-        "no": "10",
-        "sh": "L",
-        "prevSchool": "Maple Grove Senior"
+        "no": "10"
       },
       {
         "name": "Kaylee Lewis",
@@ -53245,12 +53235,10 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Mckinney",
+        "home": "McKinney",
         "st": "TX",
         "ctry": "US",
-        "no": "11",
-        "sh": "R",
-        "prevSchool": "Philadelphia Jr. Flyers"
+        "no": "11"
       },
       {
         "name": "Lauren O'Hara",
@@ -53261,9 +53249,7 @@
         "home": "Blaine",
         "st": "MN",
         "ctry": "US",
-        "no": "12",
-        "sh": "R",
-        "prevSchool": "Centennial High School"
+        "no": "12"
       },
       {
         "name": "Maisey Bojarski",
@@ -53274,22 +53260,18 @@
         "home": "Appleton",
         "st": "WI",
         "ctry": "US",
-        "no": "13",
-        "sh": "L",
-        "prevSchool": "NAHA"
+        "no": "13"
       },
       {
         "name": "Josie Hemp",
         "pk": "hemp|josephine",
-        "y": "So",
+        "y": "R-So",
         "pos": "D",
         "ht": "5-9",
         "home": "Chanhassen",
         "st": "MN",
         "ctry": "US",
-        "no": "15",
-        "sh": "R",
-        "prevSchool": "Minnetonka"
+        "no": "15"
       },
       {
         "name": "Mya Lawrence",
@@ -53300,9 +53282,7 @@
         "home": "Okotoks",
         "st": "AB",
         "ctry": "Canada",
-        "no": "16",
-        "sh": "L",
-        "prevSchool": "Shawinigan"
+        "no": "16"
       },
       {
         "name": "Brooke George",
@@ -53313,35 +53293,29 @@
         "home": "East Montpelier",
         "st": "VT",
         "ctry": "US",
-        "no": "17",
-        "sh": "R",
-        "prevSchool": "Selects Academy"
+        "no": "17"
       },
       {
         "name": "Darci Matson",
         "pk": "matson|darci",
-        "y": "Sr",
+        "y": "Gr",
         "pos": "F",
         "ht": "5-4",
         "home": "Wasilla",
         "st": "AK",
         "ctry": "US",
-        "no": "18",
-        "sh": "R",
-        "prevSchool": "Alaska All-Stars 19U"
+        "no": "18"
       },
       {
         "name": "Cecilia DesLauriers",
         "pk": "deslauriers|cecilia",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-1",
-        "home": "Saint Albans",
+        "ht": "5-0",
+        "home": "St. Albans",
         "st": "VT",
         "ctry": "US",
-        "no": "19",
-        "sh": "R",
-        "prevSchool": "Deerfield Academy"
+        "no": "19"
       },
       {
         "name": "Ezra Oien",
@@ -53352,9 +53326,7 @@
         "home": "Owatonna",
         "st": "MN",
         "ctry": "US",
-        "no": "23",
-        "sh": "R",
-        "prevSchool": "Owatonna HS"
+        "no": "23"
       },
       {
         "name": "Rose-Marie Brochu",
@@ -53365,22 +53337,18 @@
         "home": "Levis",
         "st": "QC",
         "ctry": "Canada",
-        "no": "24",
-        "sh": "L",
-        "prevSchool": "Limoilou"
+        "no": "24"
       },
       {
         "name": "Sofie Skott",
         "pk": "skott|sofie",
         "y": "Sr",
-        "pos": "D",
+        "pos": "F",
         "ht": "5-8",
         "home": "Herning",
-        "st": "DENMARK",
+        "st": "Denmark",
         "ctry": "Europe",
-        "no": "27",
-        "sh": "L",
-        "prevSchool": "Malmo"
+        "no": "27"
       },
       {
         "name": "Lily Prendergast",
@@ -53391,9 +53359,7 @@
         "home": "Hanover",
         "st": "MA",
         "ctry": "US",
-        "no": "30",
-        "sh": "L",
-        "prevSchool": "Cushing Academy"
+        "no": "30"
       },
       {
         "name": "Zoe Cliche",
@@ -53404,21 +53370,18 @@
         "home": "Ottawa",
         "st": "ON",
         "ctry": "Canada",
-        "no": "31",
-        "sh": "L"
+        "no": "31"
       },
       {
         "name": "Ellie Simmons",
         "pk": "simmons|elizabeth",
-        "y": "Sr",
+        "y": "R-Jr",
         "pos": "G",
         "ht": "5-8",
         "home": "Buffalo",
         "st": "NY",
         "ctry": "US",
-        "no": "35",
-        "sh": "L",
-        "prevSchool": "Nichols School"
+        "no": "35"
       },
       {
         "name": "Lila Pannacciulli",
@@ -53429,9 +53392,7 @@
         "home": "East Meadow",
         "st": "NY",
         "ctry": "US",
-        "no": "44",
-        "sh": "R",
-        "prevSchool": "Millbrook School"
+        "no": "44"
       },
       {
         "name": "Oona Havana",
@@ -53440,11 +53401,9 @@
         "pos": "F",
         "ht": "5-7",
         "home": "Turku",
-        "st": "FINLAND",
+        "st": "Finland",
         "ctry": "Europe",
-        "no": "51",
-        "sh": "R",
-        "prevSchool": "KArpAt"
+        "no": "51"
       },
       {
         "name": "Hilary Wilkin",
@@ -53455,9 +53414,7 @@
         "home": "Halifax",
         "st": "NS",
         "ctry": "Canada",
-        "no": "71",
-        "sh": "L",
-        "prevSchool": "Northwood School"
+        "no": "71"
       },
       {
         "name": "Makena Lloyd-Howe",
@@ -53466,23 +53423,20 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Tumbler Ridge",
-        "st": "ON",
+        "st": "BC",
         "ctry": "Canada",
-        "no": "88",
-        "sh": "R"
+        "no": "88"
       },
       {
         "name": "Ashley Kokavec",
         "pk": "kokavec|ashley",
-        "y": "So",
+        "y": "Jr",
         "pos": "D",
         "ht": "5-4",
         "home": "Parkland",
         "st": "FL",
         "ctry": "US",
-        "no": "91",
-        "sh": "R",
-        "prevSchool": "Maine"
+        "no": "91"
       },
       {
         "name": "Morgann Skoda",
@@ -53493,9 +53447,7 @@
         "home": "Montreal",
         "st": "QC",
         "ctry": "Canada",
-        "no": "93",
-        "sh": "L",
-        "prevSchool": "College Champlain-Lennoxville Cougars"
+        "no": "93"
       }
     ],
     "Wisconsin": [
