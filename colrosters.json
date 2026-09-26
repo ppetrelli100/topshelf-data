@@ -52291,12 +52291,9 @@
         "y": "So",
         "pos": "F",
         "ht": "5-6",
-        "home": "Belmar",
-        "st": "NJ",
-        "ctry": "US",
-        "no": "2",
-        "sh": "L",
-        "prevSchool": "Lawrenceville School"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Emma Gnade",
@@ -52304,12 +52301,9 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-3",
-        "home": "Fenton",
-        "st": "MO",
-        "ctry": "US",
-        "no": "3",
-        "sh": "L",
-        "prevSchool": "Lindbergh High School"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jamison Hirsh",
@@ -52317,12 +52311,9 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-4",
-        "home": "Bensalem",
-        "st": "PA",
-        "ctry": "US",
-        "no": "5",
-        "sh": "L",
-        "prevSchool": "School Lane Charter School"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Maya D'Arcy",
@@ -52330,12 +52321,9 @@
         "y": "Sr",
         "pos": "D",
         "ht": "5-5",
-        "home": "Cambridge",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "7",
-        "sh": "L",
-        "prevSchool": "Cambridge Rivulettes (PWHL)"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jocelyn Fiala",
@@ -52343,12 +52331,9 @@
         "y": "Jr",
         "pos": "D",
         "ht": "5-8",
-        "home": "Clavet",
-        "st": "SK",
-        "ctry": "Canada",
-        "no": "8",
-        "sh": "R",
-        "prevSchool": "Saskatoon Stars"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Celia Wiegand",
@@ -52356,12 +52341,9 @@
         "y": "So",
         "pos": "D",
         "ht": "5-8",
-        "home": "Jeffersonville",
-        "st": "VT",
-        "ctry": "US",
-        "no": "9",
-        "sh": "R",
-        "prevSchool": "Lovell Academy"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jessica Cheung",
@@ -52369,25 +52351,19 @@
         "y": "So",
         "pos": "D",
         "ht": "5-7",
-        "home": "Ottawa",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "10",
-        "sh": "L",
-        "prevSchool": "Ottawa Lady Sens U22"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Mik Todd",
         "pk": "todd|mik",
-        "y": "Sr",
+        "y": "R-Jr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Oshawa",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "13",
-        "sh": "L",
-        "prevSchool": "Kingston Junior Ice Wolves (PWHL)"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jordan Blouin",
@@ -52395,11 +52371,9 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Calgary",
-        "st": "AB",
-        "ctry": "Canada",
-        "no": "14",
-        "sh": "L"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Sami Gendron",
@@ -52407,12 +52381,9 @@
         "y": "Sr",
         "pos": "D",
         "ht": "5-5",
-        "home": "Rockland",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "15",
-        "sh": "R",
-        "prevSchool": "Nepean Jr. Wildcats (PWHL)"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Jackson Kinsler",
@@ -52420,12 +52391,9 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Madison",
-        "st": "WI",
-        "ctry": "US",
-        "no": "16",
-        "sh": "L",
-        "prevSchool": "Shattuck St. Mary's"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Haley Trudeau",
@@ -52433,12 +52401,9 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-4",
-        "home": "Sherwood Park",
-        "st": "AB",
-        "ctry": "Canada",
-        "no": "17",
-        "sh": "L",
-        "prevSchool": "St. Albert Slash"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Rylee McLeod",
@@ -52446,12 +52411,9 @@
         "y": "So",
         "pos": "F",
         "ht": "5-7",
-        "home": "Grande Prairie",
-        "st": "AB",
-        "ctry": "Canada",
-        "no": "19",
-        "sh": "L",
-        "prevSchool": "Red Deer Chiefs"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Laura Leitner",
@@ -52459,12 +52421,9 @@
         "y": "So",
         "pos": "D",
         "ht": "5-7",
-        "home": "Krumpendorf",
-        "st": "AUSTRIA",
-        "ctry": "Europe",
-        "no": "20",
-        "sh": "L",
-        "prevSchool": "SodertAlje SK"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Nea Tervonen",
@@ -52472,25 +52431,19 @@
         "y": "Jr",
         "pos": "F",
         "ht": "5-3",
-        "home": "Tempere",
-        "st": "FINLAND",
-        "ctry": "Europe",
-        "no": "21",
-        "sh": "L",
-        "prevSchool": "Team Kourtane"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Charlotte Hallett",
         "pk": "hallett|charlotte",
         "y": "Sr",
         "pos": "D",
-        "ht": "6-1",
-        "home": "Markham",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "22",
-        "sh": "L",
-        "prevSchool": "Pittsburg Penguins Elite (Tier 1 Elite)"
+        "ht": "6-0",
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Rachel Walsh",
@@ -52498,11 +52451,9 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-7",
-        "home": "Hammonds Plains",
-        "st": "NS",
-        "ctry": "Canada",
-        "no": "24",
-        "sh": "R"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Makenna Williment",
@@ -52510,11 +52461,9 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-10",
-        "home": "Winnipeg",
-        "st": "MB",
-        "ctry": "Canada",
-        "no": "25",
-        "sh": "L"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Peyton Armstrong",
@@ -52522,12 +52471,9 @@
         "y": "So",
         "pos": "F",
         "ht": "5-3",
-        "home": "Bancroft",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "26",
-        "sh": "L",
-        "prevSchool": "Kingston Junior Ice Wolves (PWHL)"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Heidi Knoll",
@@ -52535,12 +52481,9 @@
         "y": "Sr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Ottawa",
-        "st": "ON",
-        "ctry": "Canada",
-        "no": "27",
-        "sh": "R",
-        "prevSchool": "Nepean Junior Wildcats (PWHL)"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Mia Ng",
@@ -52548,12 +52491,9 @@
         "y": "So",
         "pos": "F",
         "ht": "5-5",
-        "home": "Braintree",
-        "st": "MA",
-        "ctry": "US",
-        "no": "28",
-        "sh": "L",
-        "prevSchool": "Thayer Academy"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Bella Gould",
@@ -52561,12 +52501,9 @@
         "y": "Jr",
         "pos": "G",
         "ht": "5-6",
-        "home": "Haymarket",
-        "st": "VA",
-        "ctry": "US",
-        "no": "29",
-        "sh": "L",
-        "prevSchool": "North American Hockey Academy"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Ava Drabyk",
@@ -52574,12 +52511,9 @@
         "y": "Fr",
         "pos": "G",
         "ht": "5-5",
-        "home": "Saskatoon",
-        "st": "SK",
-        "ctry": "Canada",
-        "no": "31",
-        "sh": "L",
-        "prevSchool": "Saskatchewan Schools"
+        "home": "",
+        "st": "",
+        "ctry": ""
       },
       {
         "name": "Maika Paquin",
@@ -52587,12 +52521,9 @@
         "y": "Sr",
         "pos": "G",
         "ht": "5-5",
-        "home": "Richmond",
-        "st": "BC",
-        "ctry": "Canada",
-        "no": "33",
-        "sh": "L",
-        "prevSchool": "Vermont Academy"
+        "home": "",
+        "st": "",
+        "ctry": ""
       }
     ],
     "UCONN": [
