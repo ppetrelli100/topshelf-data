@@ -225,6 +225,30 @@
         }
       ],
       "at": "2026-09-26T00:17:05.587Z"
+    },
+    "Maine": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [
+            "Lulu Rucinski"
+          ],
+          "removed": [
+            "Campbell Rucinski"
+          ],
+          "fields": {
+            "prevSchool": 22,
+            "name": 1,
+            "y": 2,
+            "ht": 2,
+            "home": 5,
+            "st": 1
+          },
+          "at": "2026-09-26T00:19:29.103Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
