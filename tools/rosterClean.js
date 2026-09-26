@@ -275,6 +275,8 @@
     Object.entries({
       'newfoundland and labrador': 'NL', 'nfld': 'NL', 'n l': 'NL', 'labrador': 'NL', 'pei': 'PE', 'prince edward island': 'PE',
       'yukon': 'YT', 'y t': 'YT', 'yukon territory': 'YT', 'nunavut': 'NU', 'nvt': 'NU', 'nwt': 'NT', 'n w t': 'NT', 'northwest territories': 'NT',
+      // A big city used as the region for a suburb ("Dorval, Montreal"): map it to its province.
+      'montreal': 'QC', 'toronto': 'ON', 'ottawa': 'ON', 'vancouver': 'BC', 'calgary': 'AB', 'edmonton': 'AB',
       'pq': 'QC', 'quebec': 'QC', 'que': 'QC', 'ont': 'ON', 'alta': 'AB', 'sask': 'SK', 'man': 'MB',
     }).forEach(([a, c]) => { L.ca[a] = c; });
     Object.entries({ 'dc': 'DC', 'd c': 'DC', 'washington dc': 'DC', 'district of columbia': 'DC' }).forEach(([a, c]) => { L.us[a] = c; });
