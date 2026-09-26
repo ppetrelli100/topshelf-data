@@ -53505,7 +53505,7 @@
         "ctry": "Canada",
         "no": "1",
         "sh": "L",
-        "prevSchool": "Nova Scotia"
+        "prevSchool": "West Kent Steamers"
       },
       {
         "name": "Finley McCarthy",
@@ -53517,7 +53517,8 @@
         "st": "MT",
         "ctry": "US",
         "no": "2",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Mackenzie Jones",
@@ -53529,8 +53530,7 @@
         "st": "MN",
         "ctry": "US",
         "no": "3",
-        "sh": "R",
-        "prevSchool": "Andover High School"
+        "sh": "R"
       },
       {
         "name": "Caroline Harvey",
@@ -53551,17 +53551,17 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-11",
-        "home": "South Barrington",
+        "home": "Barrington",
         "st": "IL",
         "ctry": "US",
         "no": "5",
         "sh": "L",
-        "prevSchool": "Barrington Community High Schl"
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Lacey Eden",
         "pk": "eden|lacey",
-        "y": "Gr",
+        "y": "5th",
         "pos": "F",
         "ht": "5-8",
         "home": "Annapolis",
@@ -53569,7 +53569,7 @@
         "ctry": "US",
         "no": "6",
         "sh": "R",
-        "prevSchool": "Shattuck St. Mary's"
+        "prevSchool": "Shattuck St. Mary’s"
       },
       {
         "name": "Kelly Gorbatenko",
@@ -53581,7 +53581,8 @@
         "st": "IL",
         "ctry": "US",
         "no": "7",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Hannah Halverson",
@@ -53594,7 +53595,7 @@
         "ctry": "US",
         "no": "8",
         "sh": "R",
-        "prevSchool": "Edina"
+        "prevSchool": "Edina High School"
       },
       {
         "name": "Ava Murphy",
@@ -53606,31 +53607,34 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "9",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Oakville Hornets"
       },
       {
         "name": "Laila Edwards",
         "pk": "edwards|laila",
         "y": "Sr",
-        "pos": "F",
-        "ht": "6-1",
+        "pos": "Defense/Forward",
+        "ht": "6-0",
         "home": "Cleveland Heights",
         "st": "OH",
         "ctry": "US",
         "no": "10",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Selects Academy"
       },
       {
         "name": "Cassie Hall",
         "pk": "hall|cassandra",
         "y": "Jr",
         "pos": "F",
-        "ht": "5-6",
+        "ht": "5-7",
         "home": "South Lyon",
         "st": "MI",
         "ctry": "US",
         "no": "11",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Little Caesars"
       },
       {
         "name": "McKayla Zilisch",
@@ -53643,7 +53647,7 @@
         "ctry": "US",
         "no": "12",
         "sh": "R",
-        "prevSchool": "Team Wisconsin"
+        "prevSchool": "Bemidji State"
       },
       {
         "name": "Maggie Scannell",
@@ -53655,7 +53659,8 @@
         "st": "NY",
         "ctry": "US",
         "no": "14",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Shattuck St. Mary's"
       },
       {
         "name": "Nicole Gorbatenko",
@@ -53663,12 +53668,12 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-11",
-        "home": "Southbarrington",
+        "home": "Barrington",
         "st": "IL",
         "ctry": "US",
         "no": "15",
         "sh": "L",
-        "prevSchool": "Barrington Community High Schl"
+        "prevSchool": "Chicago Mission"
       },
       {
         "name": "Claire Enright",
@@ -53693,13 +53698,12 @@
         "st": "MN",
         "ctry": "US",
         "no": "17",
-        "sh": "R",
-        "prevSchool": "Orono"
+        "sh": "R"
       },
       {
         "name": "Marianne Picard",
         "pk": "picard|marianne",
-        "y": "Gr",
+        "y": "5th",
         "pos": "F",
         "ht": "5-6",
         "home": "Repentigny",
@@ -53707,7 +53711,7 @@
         "ctry": "Canada",
         "no": "18",
         "sh": "R",
-        "prevSchool": "Stanstead"
+        "prevSchool": "Stanstead College"
       },
       {
         "name": "Bella Vasseur",
@@ -53719,7 +53723,8 @@
         "st": "WI",
         "ctry": "US",
         "no": "19",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Vivian Jungels",
@@ -53732,7 +53737,7 @@
         "ctry": "US",
         "no": "20",
         "sh": "L",
-        "prevSchool": "Edina"
+        "prevSchool": "Edina High School"
       },
       {
         "name": "Emma Venusio",
@@ -53744,7 +53749,8 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "21",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Etobicoke"
       },
       {
         "name": "Laney Potter",
@@ -53756,7 +53762,8 @@
         "st": "PA",
         "ctry": "US",
         "no": "22",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
         "name": "Charlotte Pieckenhagen",
@@ -53768,7 +53775,8 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "24",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Mississauga Jr. Hurricanes"
       },
       {
         "name": "Adela Sapovalivova",
@@ -53777,46 +53785,50 @@
         "pos": "F",
         "ht": "5-4",
         "home": "Beroun",
-        "st": "CZECHIA",
+        "st": "Czechia",
         "ctry": "Europe",
         "no": "26",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "MoDo"
       },
       {
         "name": "Kirsten Simms",
         "pk": "simms|kirsten",
         "y": "Sr",
         "pos": "F",
-        "ht": "5-5",
+        "ht": "5-6",
         "home": "Plymouth",
         "st": "MI",
         "ctry": "US",
         "no": "27",
-        "sh": "R"
+        "sh": "R",
+        "prevSchool": "Little Caesars"
       },
       {
         "name": "Ava McNaughton",
         "pk": "mcnaughton|ava",
         "y": "Jr",
         "pos": "G",
-        "ht": "6-1",
+        "ht": "6-0",
         "home": "Seven Fields",
         "st": "PA",
         "ctry": "US",
         "no": "30",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Bishop Kearney Selects"
       },
       {
         "name": "Chloe Baker",
         "pk": "baker|chloe",
-        "y": "Jr",
+        "y": "Sr",
         "pos": "G",
         "ht": "5-6",
         "home": "Hermosa Beach",
         "st": "CA",
         "ctry": "US",
         "no": "32",
-        "sh": "L"
+        "sh": "L",
+        "prevSchool": "Chicago Mission"
       }
     ],
     "Yale": [
