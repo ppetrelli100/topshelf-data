@@ -594,6 +594,28 @@
           "baseline": true
         }
       ]
+    },
+    "St. Lawrence": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 22,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 12,
+            "name": 1,
+            "pos": 2,
+            "home": 5,
+            "st": 6,
+            "ctry": 2,
+            "ht": 1,
+            "y": 1
+          },
+          "at": "2026-09-26T00:36:07.479Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
