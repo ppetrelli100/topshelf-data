@@ -315,7 +315,8 @@
     if (RL.us[rk]) return { home, st: RL.us[rk], ctry: 'US', prevSchool };
     if (RL.ca[rk]) return { home, st: RL.ca[rk], ctry: 'Canada', prevSchool };
     // 3-letter country codes some sites use (e.g. "Lovosice, CZE").
-    const ISO3 = { AUT: 'Austria', CZE: 'Czech Republic', DNK: 'Denmark', DEN: 'Denmark', FIN: 'Finland', FRA: 'France', GER: 'Germany', DEU: 'Germany',
+    // AUS: Merrimack's roster page uses "Aus." for Austria (confirmed for Emma Pfeffer, Vienna); Australia isn't a supported country here.
+    const ISO3 = { AUT: 'Austria', AUS: 'Austria', CZE: 'Czech Republic', DNK: 'Denmark', DEN: 'Denmark', FIN: 'Finland', FRA: 'France', GER: 'Germany', DEU: 'Germany',
       HUN: 'Hungary', ITA: 'Italy', LAT: 'Latvia', LVA: 'Latvia', NOR: 'Norway', POL: 'Poland', RUS: 'Russia', SVK: 'Slovakia', ESP: 'Spain',
       SWE: 'Sweden', SUI: 'Switzerland', CHE: 'Switzerland', CHN: 'China', JPN: 'Japan', KOR: 'South Korea' };
     const iso = ISO3[regionRaw.replace(/\.$/, '').toUpperCase()];
