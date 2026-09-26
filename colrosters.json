@@ -57226,8 +57226,8 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Saskatoon",
-        "st": "Canada",
-        "ctry": "__UNKNOWN__",
+        "st": "",
+        "ctry": "Canada",
         "no": "3",
         "prevSchool": "Saskatoon Stars (SFAAAHL) / Team Saskatchewan"
       },
@@ -57238,8 +57238,8 @@
         "pos": "D",
         "ht": "5-8",
         "home": "Alberta",
-        "st": "Canada",
-        "ctry": "__UNKNOWN__",
+        "st": "",
+        "ctry": "Canada",
         "no": "4",
         "prevSchool": "Southern Alberta Hockey Academy (CSSHL)"
       },
@@ -57369,8 +57369,8 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Carman",
-        "st": "Canada",
-        "ctry": "__UNKNOWN__",
+        "st": "",
+        "ctry": "Canada",
         "no": "20",
         "prevSchool": "Shawnigan Lake School (CSSHL) / Team Manitoba"
       },
