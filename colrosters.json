@@ -57432,7 +57432,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "1",
-        "prevSchool": "Choate Rosemary Hall"
+        "prevSchool": "Lindenwood / Ohio State (AHA/WCHA)"
       },
       {
         "name": "Halle Duchene",
@@ -57441,22 +57441,22 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Saskatoon",
-        "st": "SK",
-        "ctry": "Canada",
+        "st": "Canada",
+        "ctry": "__UNKNOWN__",
         "no": "3",
-        "prevSchool": "Holy Cross"
+        "prevSchool": "Saskatoon Stars (SFAAAHL) / Team Saskatchewan"
       },
       {
-        "name": "Sophia Erlam",
+        "name": "Sophie Erlam",
         "pk": "erlam|sophia",
         "y": "Fr",
         "pos": "D",
         "ht": "5-8",
         "home": "Alberta",
-        "st": "AB",
-        "ctry": "Canada",
+        "st": "Canada",
+        "ctry": "__UNKNOWN__",
         "no": "4",
-        "prevSchool": "Eagle Butte"
+        "prevSchool": "Southern Alberta Hockey Academy (CSSHL)"
       },
       {
         "name": "Kate Donegan",
@@ -57468,7 +57468,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "6",
-        "sh": "L",
         "prevSchool": "Whitby Wolves OWHA U22"
       },
       {
@@ -57481,7 +57480,6 @@
         "st": "Sweden",
         "ctry": "Europe",
         "no": "8",
-        "sh": "L",
         "prevSchool": "Brynas IF (SDHL)"
       },
       {
@@ -57494,7 +57492,6 @@
         "st": "Sweden",
         "ctry": "Europe",
         "no": "9",
-        "sh": "L",
         "prevSchool": "Sweden U18 National Team"
       },
       {
@@ -57506,9 +57503,7 @@
         "home": "Abingdon",
         "st": "MD",
         "ctry": "US",
-        "no": "11",
-        "sh": "R",
-        "prevSchool": "Philadelphia Jr. Flyers (JWHL)"
+        "no": "11"
       },
       {
         "name": "Madison Nelson",
@@ -57520,7 +57515,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "12",
-        "sh": "R",
         "prevSchool": "Mississauga Hurricanes OWHA U22"
       },
       {
@@ -57533,7 +57527,6 @@
         "st": "SK",
         "ctry": "Canada",
         "no": "13",
-        "sh": "L",
         "prevSchool": "Regina Rebels SFU U18"
       },
       {
@@ -57546,7 +57539,6 @@
         "st": "Sweden",
         "ctry": "Europe",
         "no": "15",
-        "sh": "R",
         "prevSchool": "Modo(SDHL) / Sweden U18 National Team"
       },
       {
@@ -57559,7 +57551,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "16",
-        "sh": "R",
         "prevSchool": "Stoney Creek Sabres (OWHL)"
       },
       {
@@ -57572,7 +57563,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "18",
-        "sh": "R",
         "prevSchool": "Durham West Lightning OWHA U22"
       },
       {
@@ -57585,7 +57575,7 @@
         "st": "Switzerland",
         "ctry": "Europe",
         "no": "19",
-        "prevSchool": "Kantonsschule Ausserschwyz"
+        "prevSchool": "HC Ambri-Piotta (SWHL-A) / Switzerland U-18 National Team"
       },
       {
         "name": "Zoe Cramer",
@@ -57594,10 +57584,10 @@
         "pos": "F",
         "ht": "5-5",
         "home": "Carman",
-        "st": "MB",
-        "ctry": "Canada",
+        "st": "Canada",
+        "ctry": "__UNKNOWN__",
         "no": "20",
-        "prevSchool": "Shawnigan Lake"
+        "prevSchool": "Shawnigan Lake School (CSSHL) / Team Manitoba"
       },
       {
         "name": "Regina Metzler",
@@ -57609,7 +57599,6 @@
         "st": "Hungary",
         "ctry": "Europe",
         "no": "21",
-        "sh": "L",
         "prevSchool": "Ontario Hockey Academy U22/ Hungarian National Team"
       },
       {
@@ -57621,9 +57610,7 @@
         "home": "Vantaa",
         "st": "Finland",
         "ctry": "Europe",
-        "no": "22",
-        "sh": "L",
-        "prevSchool": "Finland National Team"
+        "no": "22"
       },
       {
         "name": "Lexi Stanat",
@@ -57635,7 +57622,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "23",
-        "sh": "L",
         "prevSchool": "Burlington Barracudas OWHA U22"
       },
       {
@@ -57648,7 +57634,7 @@
         "st": "Russia",
         "ctry": "Europe",
         "no": "24",
-        "prevSchool": "Bishop Brady"
+        "prevSchool": "NH Mountain Cats Academy (U19AAA) / Russian U-18 National Team"
       },
       {
         "name": "Kismet Dogan",
@@ -57660,7 +57646,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "25",
-        "prevSchool": "North Delta Secondary"
+        "prevSchool": "Saint Anselm University (NEWHA)"
       },
       {
         "name": "Abby Poitras",
@@ -57672,7 +57658,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "26",
-        "sh": "L",
         "prevSchool": "Merrimack"
       },
       {
@@ -57685,7 +57670,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "27",
-        "sh": "R",
         "prevSchool": "Stoney Creek Sabres OWHA U22"
       },
       {
@@ -57698,7 +57682,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "29",
-        "prevSchool": "Ontario Hockey Academy"
+        "prevSchool": "Saint Anselm University (NEWHA)"
       },
       {
         "name": "Grace Kipfer",
@@ -57710,7 +57694,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "30",
-        "prevSchool": "Victus Academy"
+        "prevSchool": "Stoney Creek Jr Sabres (OWHA U22)"
       },
       {
         "name": "Magdalena Luggin",
@@ -57722,8 +57706,7 @@
         "st": "Austria",
         "ctry": "Europe",
         "no": "31",
-        "sh": "L",
-        "prevSchool": "SKN Sabres St.Polten/ Austrian National Team"
+        "prevSchool": "SKN Sabres St.Pölten/ Austrian National Team"
       },
       {
         "name": "Avery Norman",
@@ -57735,7 +57718,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "34",
-        "sh": "R",
         "prevSchool": "Nepean U22"
       }
     ],
