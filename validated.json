@@ -113,6 +113,24 @@
         }
       ],
       "at": "2026-09-26T00:09:07.977Z"
+    },
+    "Ohio State": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 22,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 17,
+            "st": 4,
+            "home": 3,
+            "ht": 2
+          },
+          "at": "2026-09-26T00:09:29.420Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
