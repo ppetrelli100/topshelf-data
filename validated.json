@@ -334,6 +334,17 @@
           "baseline": true
         }
       ]
+    },
+    "Cornell": {
+      "at": "2026-09-26T00:24:13.122Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 21,
+          "at": "2026-09-26T00:24:13.122Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
