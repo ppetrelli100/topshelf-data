@@ -437,6 +437,24 @@
           "baseline": true
         }
       ]
+    },
+    "Mercyhurst": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 25,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 12,
+            "st": 3,
+            "ctry": 3,
+            "name": 1
+          },
+          "at": "2026-09-26T00:10:14.351Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
