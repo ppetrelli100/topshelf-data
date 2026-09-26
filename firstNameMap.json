@@ -997,6 +997,10 @@
     {
       "from": "dunneweeks|josey",
       "to": "dunne|josey"
+    },
+    {
+      "from": "rucinski|lulu",
+      "to": "rucinski|campbell"
     }
   ],
   "pkExceptions": [

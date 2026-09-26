@@ -318,6 +318,14 @@
     if (/^(usa|u\.?s\.?a?\.?|united states)$/i.test(regionRaw)) return { home, st: '', ctry: 'US', prevSchool };
     if (RL.us[rk]) return { home, st: RL.us[rk], ctry: 'US', prevSchool };
     if (RL.ca[rk]) return { home, st: RL.ca[rk], ctry: 'Canada', prevSchool };
+    // Truncated spellings ("Illi.", "Wisc.", "Penn.", "Tex."): accept 3+ letters that begin exactly one
+    // full state/province name (unambiguous only -- "Mis." could be Missouri or Mississippi, so it stays flagged).
+    if (rk.length >= 3) {
+      const uniq = (map) => { const hits = new Set(Object.keys(map).filter(n => n.length > 3 && n.startsWith(rk)).map(n => map[n])); return hits.size === 1 ? [...hits][0] : null; };
+      const u = uniq(RL.us), c = uniq(RL.ca);
+      if (u && !c) return { home, st: u, ctry: 'US', prevSchool };
+      if (c && !u) return { home, st: c, ctry: 'Canada', prevSchool };
+    }
     // 3-letter country codes some sites use (e.g. "Lovosice, CZE").
     // AUS: Merrimack's roster page uses "Aus." for Austria (confirmed for Emma Pfeffer, Vienna); Australia isn't a supported country here.
     const ISO3 = { AUT: 'Austria', AUS: 'Austria', CZE: 'Czech Republic', DNK: 'Denmark', DEN: 'Denmark', FIN: 'Finland', FRA: 'France', GER: 'Germany', DEU: 'Germany',
