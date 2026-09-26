@@ -835,6 +835,26 @@
           "baseline": true
         }
       ]
+    },
+    "Wisconsin": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 26,
+          "added": [],
+          "removed": [],
+          "fields": {
+            "prevSchool": 24,
+            "home": 2,
+            "y": 3,
+            "pos": 1,
+            "ht": 4,
+            "st": 1
+          },
+          "at": "2026-09-26T00:52:05.098Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
