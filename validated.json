@@ -266,6 +266,17 @@
           "baseline": true
         }
       ]
+    },
+    "Bemidji State": {
+      "at": "2026-09-26T00:23:01.973Z",
+      "history": [
+        {
+          "result": "clean",
+          "n": 27,
+          "at": "2026-09-26T00:23:01.973Z",
+          "baseline": true
+        }
+      ]
     }
   },
   "2026-27": {
