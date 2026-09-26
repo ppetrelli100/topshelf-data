@@ -46442,13 +46442,13 @@
         "pk": "stilwell|avery",
         "y": "Sr",
         "pos": "G",
-        "ht": "6-1",
+        "ht": "6-0",
         "home": "Litchfield",
         "st": "MN",
         "ctry": "US",
         "no": "1",
         "sh": "R",
-        "prevSchool": "Litchfield"
+        "prevSchool": "Litchfield/Dassel-Cokato (USHS)"
       },
       {
         "name": "Mika Cichosz",
@@ -46461,7 +46461,7 @@
         "ctry": "US",
         "no": "2",
         "sh": "L",
-        "prevSchool": "Albert Lea Senior High School"
+        "prevSchool": "Albert Lea (USHS)"
       },
       {
         "name": "Anika Stromme",
@@ -46474,7 +46474,7 @@
         "ctry": "US",
         "no": "3",
         "sh": "R",
-        "prevSchool": "Park Christian School"
+        "prevSchool": "Moorhead (USHS)"
       },
       {
         "name": "Lauren Goldsworthy",
@@ -46487,7 +46487,7 @@
         "ctry": "US",
         "no": "4",
         "sh": "L",
-        "prevSchool": "Minnetonka"
+        "prevSchool": "Minnetonka (USHS)"
       },
       {
         "name": "Sophie Stramel",
@@ -46495,12 +46495,12 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-7",
-        "home": "Apple Valley",
+        "home": "Rosemount",
         "st": "MN",
         "ctry": "US",
         "no": "5",
         "sh": "R",
-        "prevSchool": "Rosemount High School"
+        "prevSchool": "Rosemount (USHS)"
       },
       {
         "name": "Lilie Ramirez",
@@ -46508,12 +46508,12 @@
         "y": "Sr",
         "pos": "D",
         "ht": "5-5",
-        "home": "South St. Paul",
+        "home": "So. St. Paul",
         "st": "MN",
         "ctry": "US",
         "no": "6",
         "sh": "L",
-        "prevSchool": "South St. Paul"
+        "prevSchool": "So. St. Paul (USHS)"
       },
       {
         "name": "Whitney Tuttle",
@@ -46526,7 +46526,7 @@
         "ctry": "US",
         "no": "7",
         "sh": "L",
-        "prevSchool": "Rosemount"
+        "prevSchool": "Rosemount (USHS)"
       },
       {
         "name": "Bella Shipley",
@@ -46539,7 +46539,7 @@
         "ctry": "US",
         "no": "8",
         "sh": "R",
-        "prevSchool": "Maple Grove"
+        "prevSchool": "Maple Grove (USHS)"
       },
       {
         "name": "Kamryn Van Batavia",
@@ -46552,7 +46552,7 @@
         "ctry": "US",
         "no": "9",
         "sh": "L",
-        "prevSchool": "Luverne"
+        "prevSchool": "Luverne (USHS)"
       },
       {
         "name": "Zoe Lopez",
@@ -46560,12 +46560,12 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-9",
-        "home": "Plymouth",
+        "home": "Orono",
         "st": "MN",
         "ctry": "US",
         "no": "10",
         "sh": "L",
-        "prevSchool": "Orono High School"
+        "prevSchool": "Orono (USHS)"
       },
       {
         "name": "Lucie Tenenbaum",
@@ -46578,7 +46578,7 @@
         "ctry": "US",
         "no": "11",
         "sh": "R",
-        "prevSchool": "Bishop Kearney High School"
+        "prevSchool": "HC Davos (SWHL A)"
       },
       {
         "name": "Audrey Garton",
@@ -46591,7 +46591,7 @@
         "ctry": "US",
         "no": "12",
         "sh": "R",
-        "prevSchool": "Holy Angels"
+        "prevSchool": "Holy Angels (USHS)"
       },
       {
         "name": "Kendall Hassler",
@@ -46604,7 +46604,7 @@
         "ctry": "US",
         "no": "13",
         "sh": "L",
-        "prevSchool": "Benilde-St Margaret's School"
+        "prevSchool": "Benilde-St. Margaret's (USHS)"
       },
       {
         "name": "Mercury Bischoff",
@@ -46612,12 +46612,12 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-5",
-        "home": "Cohasset",
+        "home": "Grand Rapids",
         "st": "MN",
         "ctry": "US",
         "no": "14",
         "sh": "R",
-        "prevSchool": "Grand Rapids High School"
+        "prevSchool": "Grand Rapids-Greenway (USHS)"
       },
       {
         "name": "Kianna Roeske",
@@ -46630,7 +46630,7 @@
         "ctry": "US",
         "no": "15",
         "sh": "R",
-        "prevSchool": "River Lakes"
+        "prevSchool": "River Lakes (USHS)"
       },
       {
         "name": "Ayla Puppe",
@@ -46643,20 +46643,20 @@
         "ctry": "US",
         "no": "16",
         "sh": "R",
-        "prevSchool": "Northfield High School"
+        "prevSchool": "Minnesota (WCHA)"
       },
       {
         "name": "Lauren Zawoyski",
         "pk": "zawoyski|lauren",
         "y": "Jr",
-        "pos": "F",
+        "pos": "D",
         "ht": "5-10",
         "home": "Edina",
         "st": "MN",
         "ctry": "US",
         "no": "17",
         "sh": "R",
-        "prevSchool": "Edina"
+        "prevSchool": "Edina (USHS)"
       },
       {
         "name": "Makayla Moran",
@@ -46664,12 +46664,12 @@
         "y": "Fr",
         "pos": "F",
         "ht": "5-6",
-        "home": "Lakeville",
+        "home": "Apple Valley",
         "st": "MN",
         "ctry": "US",
         "no": "18",
         "sh": "R",
-        "prevSchool": "Apple Valley High School"
+        "prevSchool": "Apple Valley (USHS)"
       },
       {
         "name": "Jessica Boland",
@@ -46682,7 +46682,20 @@
         "ctry": "US",
         "no": "21",
         "sh": "L",
-        "prevSchool": "Northfield"
+        "prevSchool": "Northfield (USHS)"
+      },
+      {
+        "name": "Tori Anderson",
+        "pk": "anderson|victoria",
+        "y": "Fr",
+        "pos": "D",
+        "ht": "5-4",
+        "home": "Edina",
+        "st": "MN",
+        "ctry": "US",
+        "no": "22",
+        "sh": "L",
+        "prevSchool": "North American Hockey Academy (JWHL)"
       },
       {
         "name": "Taylor Otremba",
@@ -46695,7 +46708,7 @@
         "ctry": "US",
         "no": "24",
         "sh": "L",
-        "prevSchool": "Lakeville South"
+        "prevSchool": "Lakeville South (USHS)"
       },
       {
         "name": "Ava Guillemette",
@@ -46708,7 +46721,7 @@
         "ctry": "US",
         "no": "28",
         "sh": "L",
-        "prevSchool": "Prior Lake"
+        "prevSchool": "Prior Lake (USHS)"
       },
       {
         "name": "Kaydence Roeske",
@@ -46721,7 +46734,7 @@
         "ctry": "US",
         "no": "31",
         "sh": "L",
-        "prevSchool": "Paynesville Area Schools"
+        "prevSchool": "River Lakes (USHS)"
       },
       {
         "name": "Hailey Hansen",
@@ -46734,7 +46747,7 @@
         "ctry": "US",
         "no": "33",
         "sh": "R",
-        "prevSchool": "Blaine"
+        "prevSchool": "Blaine (USHS)"
       }
     ],
     "New Hampshire": [
