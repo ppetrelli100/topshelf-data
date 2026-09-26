@@ -42284,7 +42284,20 @@
         "home": "Okotoks",
         "st": "AB",
         "ctry": "Canada",
-        "no": "1"
+        "no": "1",
+        "prevSchool": "Edge School Prep Hockey"
+      },
+      {
+        "name": "Alexis Petford",
+        "pk": "petford|alexis",
+        "y": "Sr",
+        "pos": "F",
+        "ht": "5-5",
+        "home": "Balgonie",
+        "st": "SK",
+        "ctry": "Canada",
+        "no": "4",
+        "prevSchool": "Stonehill (NEWHA)"
       },
       {
         "name": "Madeline Palumbo",
@@ -42296,7 +42309,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "7",
-        "prevSchool": "Holy Trinity"
+        "prevSchool": "Durham West Lightning (OWHL)"
       },
       {
         "name": "Elyssa Biederman",
@@ -42308,7 +42321,7 @@
         "st": "MI",
         "ctry": "US",
         "no": "8",
-        "prevSchool": "Wylie E. Groves"
+        "prevSchool": "Detroit Little Caesars"
       },
       {
         "name": "Ava Wood",
@@ -42319,7 +42332,8 @@
         "home": "Oromocto",
         "st": "NB",
         "ctry": "Canada",
-        "no": "9"
+        "no": "9",
+        "prevSchool": "Etobicoke Junior Dolphins (OWHL)"
       },
       {
         "name": "Casey Borgiel",
@@ -42331,7 +42345,7 @@
         "st": "MI",
         "ctry": "US",
         "no": "11",
-        "prevSchool": "Purt Huron Northern"
+        "prevSchool": "Holy Cross (Hockey East)"
       },
       {
         "name": "Madison Cronan",
@@ -42343,7 +42357,7 @@
         "st": "MA",
         "ctry": "US",
         "no": "13",
-        "prevSchool": "Groton School"
+        "prevSchool": "Assabet Valley (NEGHL)"
       },
       {
         "name": "Ava Svejkovsky",
@@ -42355,7 +42369,7 @@
         "st": "WA",
         "ctry": "US",
         "no": "18",
-        "prevSchool": "North Delta Secondary"
+        "prevSchool": "Delta Hockey Academy (CSSHL)"
       },
       {
         "name": "Avery Pickering",
@@ -42367,7 +42381,7 @@
         "st": "MB",
         "ctry": "Canada",
         "no": "21",
-        "prevSchool": "Balmoral Hall"
+        "prevSchool": "Balmoral Hall Blazers (JWHL)"
       },
       {
         "name": "Sara Stewart",
@@ -42379,7 +42393,7 @@
         "st": "NS",
         "ctry": "Canada",
         "no": "22",
-        "prevSchool": "Dr. John Hugh Gillis Regional"
+        "prevSchool": "Northern Subway Selects (MMFHL)"
       },
       {
         "name": "Alexia Aubin",
@@ -42391,8 +42405,7 @@
         "st": "QC",
         "ctry": "Canada",
         "no": "23",
-        "sh": "L",
-        "prevSchool": "Stanstead College"
+        "prevSchool": "Stanstead College (JWHL)"
       },
       {
         "name": "Sydney Sawyer",
@@ -42400,25 +42413,14 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-7",
-        "home": "Burketon",
+        "home": "Oshawa",
         "st": "ON",
         "ctry": "Canada",
-        "no": "24"
+        "no": "24",
+        "prevSchool": "Etobicoke Junior Dolphins (OWHL)"
       },
       {
-        "name": "Alexis Petford",
-        "pk": "petford|alexis",
-        "y": "Jr",
-        "pos": "F",
-        "ht": "5-5",
-        "home": "Balgonie",
-        "st": "SK",
-        "ctry": "Canada",
-        "no": "27",
-        "prevSchool": "Greenall"
-      },
-      {
-        "name": "Emma Gervais Beauchamp",
+        "name": "Emma Beauchamp",
         "pk": "beauchamp|emma",
         "y": "Fr",
         "pos": "F",
@@ -42426,7 +42428,8 @@
         "home": "Gatineau",
         "st": "QC",
         "ctry": "Canada",
-        "no": "29"
+        "no": "29",
+        "prevSchool": "Etobicoke Junior Dolphins (OWHL)"
       },
       {
         "name": "Lianna Seeley",
@@ -42438,7 +42441,7 @@
         "st": "NY",
         "ctry": "US",
         "no": "35",
-        "prevSchool": "Greenwich Academy"
+        "prevSchool": "North American Hockey Academy"
       },
       {
         "name": "Farah Walker",
@@ -42450,7 +42453,7 @@
         "st": "AB",
         "ctry": "Canada",
         "no": "41",
-        "prevSchool": "RHA Kelowna"
+        "prevSchool": "RHA Kelowna (CSSHL)"
       },
       {
         "name": "Emma Pais",
@@ -42462,7 +42465,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "44",
-        "prevSchool": "London Junior Devilettes"
+        "prevSchool": "London Junior Devilettes (OWHL)"
       },
       {
         "name": "Taylor Senecal",
@@ -42470,11 +42473,11 @@
         "y": "Fr",
         "pos": "D",
         "ht": "5-8",
-        "home": "Essex Jct",
+        "home": "Essex Junction",
         "st": "VT",
         "ctry": "US",
         "no": "62",
-        "prevSchool": "Essex High School"
+        "prevSchool": "Assabet Valley (NEGHL)"
       },
       {
         "name": "Dorothy Copetti",
@@ -42485,7 +42488,8 @@
         "home": "Toronto",
         "st": "ON",
         "ctry": "Canada",
-        "no": "64"
+        "no": "64",
+        "prevSchool": "Durham West Lightning Junior (OWHL)"
       },
       {
         "name": "Chloe Goofers",
@@ -42496,7 +42500,8 @@
         "home": "Leduc",
         "st": "AB",
         "ctry": "Canada",
-        "no": "66"
+        "no": "66",
+        "prevSchool": "Merrimack (Hockey East)"
       },
       {
         "name": "Jaimee Spring",
@@ -42508,7 +42513,7 @@
         "st": "BC",
         "ctry": "Canada",
         "no": "84",
-        "prevSchool": "George Elliot Secondary"
+        "prevSchool": "RHA Kelowna (CSSHL)"
       },
       {
         "name": "Georgia Sambrano",
@@ -42520,7 +42525,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "88",
-        "prevSchool": "Durham West Jr. Lightning"
+        "prevSchool": "Durham West Lightning (OWHL)"
       },
       {
         "name": "Sarah Roger",
@@ -42532,7 +42537,7 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "91",
-        "prevSchool": "East Northumberland Secondary"
+        "prevSchool": "Kingston Jr. Ice Wolves (OWHL)"
       }
     ],
     "Cornell": [
