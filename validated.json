@@ -1868,6 +1868,23 @@
         }
       ],
       "at": "2026-09-26T01:35:16.228Z"
+    },
+    "Northeastern": {
+      "history": [
+        {
+          "result": "changes",
+          "n": 24,
+          "added": [],
+          "removed": [
+            "Ella Blackmore"
+          ],
+          "fields": {
+            "prevSchool": 2
+          },
+          "at": "2026-09-26T01:36:54.257Z",
+          "baseline": true
+        }
+      ]
     }
   }
 }
