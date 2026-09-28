@@ -39,7 +39,19 @@
      ======================================================================= */
   let ALIAS_MAP = {};     // alias -> canon first name
   let OVERRIDE_MAP = {};  // "lastname|canonfirst" -> "lastname|overriddenfirst"
-  let PK_EXC = [];        // [{pk, school, to}] — school-aware exceptions
+  let PK_EXC = [];        // [{pk, match: {school?, state?, hometown?}, to}] — context-aware exceptions
+
+  // pkExceptions entries in firstNameMap.json may key on 'school' (the
+  // original, colrosters-only field) and/or 'state'/'hometown' (added Sept
+  // 2026 for sources like NDC/ProvRosters that often don't have a
+  // committed school yet but always have a home state/town) — any
+  // combination of fields is fine, all given fields must match. Keeping
+  // this as data-driven match criteria, rather than one-off code per
+  // collision, is deliberate: two real players sharing a last|first (the
+  // Dau/Johnson case, the O'Neil/O'Neill case) is a recurring pattern, not
+  // a one-time fixup, so the fix needs to scale across every source without
+  // new code each time it happens again.
+  const PK_EXC_FIELDS = ['school', 'state', 'hometown'];
 
   function setNameMaps(firstNameMapJson) {
     ALIAS_MAP = {};
@@ -48,19 +60,37 @@
     const fnm = firstNameMapJson || {};
     (fnm.aliases || []).forEach(a => { ALIAS_MAP[a.alias.toLowerCase()] = a.canon.toLowerCase(); });
     (fnm.overrides || []).forEach(o => { OVERRIDE_MAP[o.from.toLowerCase()] = o.to.toLowerCase(); });
-    PK_EXC = (fnm.pkExceptions || []).map(x => ({
-      pk: x.pk.toLowerCase(), school: x.school.toLowerCase(), to: x.to.toLowerCase(),
-    }));
+    PK_EXC = (fnm.pkExceptions || []).map(x => {
+      const match = {};
+      PK_EXC_FIELDS.forEach(f => { if (x[f]) match[f] = String(x[f]).toLowerCase(); });
+      return { pk: x.pk.toLowerCase(), match, to: x.to.toLowerCase() };
+    });
   }
 
-  // Called after a player's base personkey is built, when the school is
-  // known (colrosters context) — applies a {pk, school, to} exception, e.g.
-  // king|olivia at Maine -> king|oliviame. Not usable from the Sheet's
-  // MAKEPERSONKEY (no school column there); those disambiguations stay as
-  // plain PK_Override rows on the Sheet side instead.
-  function applyPkException(pk, school) {
-    if (!school) return pk;
-    const hit = PK_EXC.find(e => e.pk === pk && e.school === school.toLowerCase());
+  // Called after a player's base personkey is built, once whatever context
+  // fields are available for this row are known — applies a {pk, match, to}
+  // exception, e.g. king|olivia at Maine -> king|oliviame, or
+  // johnson|sophia from Palmer, AK -> dau|sophia. `context` is
+  // {school?, state?, hometown?}; a string is still accepted for backward
+  // compatibility and treated as {school}. An exception only fires when
+  // EVERY field it specifies matches the row's context — a school-only
+  // exception is silent on a row with no school yet, so add state/hometown
+  // to firstNameMap.json for any collision that needs to resolve before a
+  // commitment is known.
+  function applyPkException(pk, context) {
+    if (!context) return pk;
+    const ctx = {};
+    if (typeof context === 'string') {
+      ctx.school = context.toLowerCase();
+    } else {
+      PK_EXC_FIELDS.forEach(f => { if (context[f]) ctx[f] = String(context[f]).toLowerCase(); });
+    }
+    const hit = PK_EXC.find(e => {
+      if (e.pk !== pk) return false;
+      const fields = Object.keys(e.match);
+      if (!fields.length) return false;
+      return fields.every(f => ctx[f] === e.match[f]);
+    });
     return hit ? hit.to : pk;
   }
 
