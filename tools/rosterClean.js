@@ -154,6 +154,59 @@
                    : `no record for this last name in history, confirm the full first name.`);
   }
 
+  // A name entered "Last First" instead of "First Last" (no comma, so
+  // flipLastFirst() above doesn't catch it) builds a plausible-looking but
+  // wrong personkey. Deliberately NOT folded into makePersonKey() itself —
+  // that function stays a cheap, pure transform of the name string alone,
+  // with no corpus dependency, so it never risks the kind of recalc-engine
+  // coupling that made the old Sheets PERSONKEY_RANGE formulas hang. This
+  // check instead runs as a one-time-per-row lookup against a Set of
+  // already-known personkeys (build it once per script run from
+  // master.json/commits.json/colrosters.json, not per row), same "flag it,
+  // don't guess" shape as computeAmbigIssue. Only handles simple two-token
+  // names (the common case for a backwards paste); a multi-word last name
+  // can't be swapped unambiguously, so it's left unchecked rather than
+  // guessed at.
+  function swapFirstLast(full) {
+    const parts = String(full || '').trim().split(/\s+/);
+    if (parts.length !== 2) return null;
+    return parts[1] + ' ' + parts[0];
+  }
+
+  function computeSwapIssue(name, pk, knownPersonkeys) {
+    if (!knownPersonkeys || knownPersonkeys.has(pk)) return ''; // no corpus, or pk already recognized
+    const swapped = swapFirstLast(name);
+    if (!swapped) return '';
+    const swappedPk = makePersonKey(swapped);
+    if (swappedPk !== pk && knownPersonkeys.has(swappedPk)) {
+      return `Possible swapped name (built ${pk}) — "${swappedPk}" matches a known player; check whether "${name}" was pasted Last First.`;
+    }
+    return '';
+  }
+
+  // Roster-cleaning sanity bounds, independent of personkey generation —
+  // catches a typo or column-mismap in a source's YOB/GRAD columns before
+  // it corrupts data (a grad year of "202" or a birth year read from the
+  // wrong column). Flag only, never auto-correct: 2020 is a floor/ceiling
+  // that will need to move forward over time as real players catch up to
+  // it (revisit if a real 2020 birth year or a pre-2020 grad year ever
+  // legitimately shows up).
+  const MIN_PLAUSIBLE_GRAD_YEAR = 2020;
+  const MAX_PLAUSIBLE_BIRTH_YEAR = 2020;
+
+  function checkYearSanity(yob, gradYear) {
+    const issues = [];
+    const yobNum = parseInt(yob, 10);
+    const gradNum = parseInt(gradYear, 10);
+    if (!isNaN(yobNum) && String(yob).trim() !== '' && yobNum > MAX_PLAUSIBLE_BIRTH_YEAR) {
+      issues.push(`Birth year ${yobNum} is after ${MAX_PLAUSIBLE_BIRTH_YEAR} — likely a typo or column mismap, check the source row.`);
+    }
+    if (!isNaN(gradNum) && String(gradYear).trim() !== '' && gradNum < MIN_PLAUSIBLE_GRAD_YEAR) {
+      issues.push(`Grad year ${gradNum} is before ${MIN_PLAUSIBLE_GRAD_YEAR} — likely a typo or column mismap, check the source row.`);
+    }
+    return issues;
+  }
+
   /* =======================================================================
      3. Position / class-year / height normalization.
      ======================================================================= */
@@ -730,6 +783,8 @@
     stripPronounce, unaccent, stripNameTags, nameTags,
     makePersonKey, firstNameWasCanonicalized, splitFirstLast,
     AMBIGUOUS_NICKNAMES, computeAmbigIssue,
+    swapFirstLast, computeSwapIssue,
+    MIN_PLAUSIBLE_GRAD_YEAR, MAX_PLAUSIBLE_BIRTH_YEAR, checkYearSanity,
     normalizePos, normalizeYear, normHeight,
     cleanCell, parseHometown, normalizeStateAndHometown,
     normCommitted,

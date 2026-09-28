@@ -115,6 +115,33 @@ separate State column). Run each player through, in this order:
     literal "null", "N/A", "None", "-", "—", and extra whitespace into a
     blank.
 
+## Two more checks, available but not wired into every surface yet (Sept 2026)
+
+These were added for the raw-data-to-GitHub migration (NDC, ProvRosters, and
+the other sources that still carry YOB/GRAD fields, not just colrosters),
+but the functions live in `rosterClean.js` and are fair game anywhere a row
+has the relevant data.
+
+- **Swapped name.** `computeSwapIssue(name, pk, knownPersonkeys)` — catches
+  a name pasted "Last First" with no comma (so `flipLastFirst()` above
+  doesn't catch it). Deliberately kept OUT of `makePersonKey()` itself:
+  that function stays a cheap pure transform of the name string with no
+  external dependency, so it can never turn into the kind of corpus-lookup
+  cost that made the old Sheets `PERSONKEY_RANGE` array formulas hang. This
+  check instead takes a `Set` of already-known personkeys — build that once
+  per script run from master.json/commits.json/colrosters.json, not once
+  per row — and only flags when the row's own pk isn't recognized but the
+  first/last-swapped version is. Only handles simple two-token names; a
+  multi-word last name can't be swapped unambiguously and is left
+  unchecked rather than guessed at. Flag only, same as everything else
+  here — never auto-swap.
+- **Implausible birth/grad year.** `checkYearSanity(yob, gradYear)` —
+  flags a birth year after 2020 or a grad year before 2020 as likely a typo
+  or column mismap. Both bounds are floors/ceilings that will need to move
+  forward as real players catch up to them — revisit if a legitimate 2020+
+  birth year or pre-2020 grad year ever actually shows up. No corpus
+  lookup, so no reason not to run it on every row that has these fields.
+
 ## What "flag it" means in practice
 
 Several steps above say to flag rather than resolve automatically:
