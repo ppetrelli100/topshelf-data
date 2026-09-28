@@ -40,23 +40,39 @@ were retired in favor of live-fetched JSON.
 - `CAMP` is exactly one of `U15` / `U1617` / `U18` — there is no `WNT` camp
   value. `WNT` is a separate 0/1 flag that only ever applies to a `U18` row
   (a player named to the WNT roster out of that year's U18 camp).
-- **Cascading announcement schedule, every summer**: U15 → U18 (a first,
-  smaller wave) → U1617 → the rest of U18 → WNT (announced last, out of
-  that year's U18 group). This means an in-season export can have some
-  players' current-year row fully populated and others still
-  blank/in-progress — that's expected, not a data gap. `ByYear` on the
-  sheet-side turns this into the display progression label (`W`/`X` helper
-  columns: tier rank, then a label like "U18→WNT").
-- **A player can have two rows in the same YEAR, one per camp tier** — this
-  is a direct consequence of the cascading schedule above, not an error:
-  a player can be named to both that year's U1617 camp and, separately,
-  that year's U18 camp (confirmed against real 2025 data: 110 players have
-  exactly this, e.g. Addison McLay has a `U1617` row and a `U18` row both
-  dated 2025). **`personkey`+`YEAR` alone is NOT a unique row identity for
-  this file — the dedup key needs `CAMP` too** (`validate_camp_data.js
-  ... --dupekey=personkey,YEAR,CAMP`), the same principle as
-  provrosters.json needing `Province` in its key, just a different extra
-  dimension.
+- **How selection actually works, by tier (confirmed with Paulash, Sept
+  2026)** — this is *why* the row shapes below look the way they do, not
+  just a scheduling curiosity:
+  - **U15** pools 15-year-olds and is normally both the start and the end
+    of that year's camp path for that age group — a U15 row usually doesn't
+    lead anywhere else that same year. Very rarely, a 15-year-old is
+    selected straight to U18 camp instead of going through U15 at all
+    (confirmed historical examples: Jane Daley, Maggie Averill) — but this
+    hasn't happened for any birth year after 2009; no 2010 or 2011 birth-year
+    player has skipped straight from 15-year-old to U18. Don't assume this
+    path is dead going forward, but it's been dormant for two full cycles.
+  - **U1617** pools two birth years (16- and 17-year-olds) and is the
+    majority path into U18: a small number of players (typically returning
+    WNT members or the single best 16-year-olds) get selected straight to
+    U18 without a U1617 camp at all; everyone else attends U1617 camp
+    first, and the best of *that* group get subsequently selected to U18
+    out of it. From U18, some are further selected to WNT. This is exactly
+    why a player can have a U1617 row, a U18 row, and WNT=1 all in the same
+    calendar year (real example: Emilia Biotti) — each step is a further
+    cut of the previous group, all resolving within one year's cycle.
+  - **Practical read for anyone joining this data**: a player's full
+    picture for a given year is the *union* of however many camp-tier rows
+    they have that year, read in tier order (U15 or U1617 first, then U18,
+    then the WNT flag on the U18 row) — never just the single highest row,
+    since the lower-tier row is what shows they went through that step
+    rather than being fast-tracked past it.
+  - **`personkey`+`YEAR` alone is NOT a unique row identity for this file —
+    the dedup key needs `CAMP` too** (`validate_camp_data.js ...
+    --dupekey=personkey,YEAR,CAMP`), the same principle as provrosters.json
+    needing `Province` in its key, just a different extra dimension.
+    Confirmed against real 2025 data: 110 players have both a `U1617` row
+    and a `U18` row that year (e.g. Addison McLay) — `personkey`+`YEAR`
+    alone misflags every one of them as a duplicate.
 - DISTRICT has case-inconsistent raw values in the source; consuming pages
   normalize against a canonical 12-item list (`DISTRICT_ORDER`/
   `normDistrict()` in `camps.html`) rather than the raw value.
@@ -81,22 +97,28 @@ were retired in favor of live-fetched JSON.
   make it" fact, not "no team level exists" — this exact confusion was a
   real, previously-fixed bug (`camps.html`/`commits.html` used to treat a
   bare-truthy check as "has a team", which read a literal `"0"` as a team).
-- **Two separate authorities, two separate clocks — this is the core
-  structural fact of this dataset, not an artifact of messy data:**
+- **Two separate authorities, two separate clocks, no fixed ordering between
+  them — this is the core structural fact of this dataset, not an artifact
+  of messy data:**
   - `Prov Camp`/`Prov Team` are decided by each individual province's own
     hockey body (OWHA, Hockey Alberta, etc.), independently of every other
     province. Timing varies by province and by year — sometimes summer,
     sometimes later — and provinces don't coordinate release schedules with
     each other or with Hockey Canada.
-  - `U18 Natl Camp`/`WNT` are decided by Hockey Canada, late summer every
-    year, drawing on the previous November's Nationals plus a standing
-    network of regional scouts — not directly on that same year's
-    provincial-team selection. This is a genuinely separate, later-arriving
-    process, disconnected from the provincial one.
+  - `U18 Natl Camp`/`WNT` are decided by Hockey Canada, drawing on the
+    previous November's Nationals plus a standing network of regional
+    scouts — a genuinely separate process from provincial selection, not
+    downstream of it.
+  - **The two processes are not sequential — either can resolve first.**
+    Don't assume `U18 Natl Camp`/`WNT` always lag behind `Prov Camp`/`Prov
+    Team`: a player can make provincial camp early summer, then separately
+    make U18 Natl Camp, then get selected to WNT — all *before* that same
+    player's own province has even decided provincial team. A row with
+    `WNT`="1" and `Prov Team` still blank is a completely normal in-season
+    state, not a data gap to chase down.
   - Because of this, don't expect the four flags on a row to fill in
-    left-to-right in lockstep, and don't treat an early-season export's
-    blank `U18 Natl Camp`/`WNT` on an otherwise-complete row as unusual —
-    it's the normal state until Hockey Canada's own cycle catches up.
+    left-to-right in lockstep in either direction — any subset can be
+    decided while the rest are still blank, in any order.
 - **`U16 Prov` is Ontario-only, camp-only** (no team level exists at U16 in
   any province — tracked in Ontario specifically because it has enough
   depth to be worth capturing, unlike other provinces at that age). A
