@@ -227,8 +227,8 @@
     "Country": "CAN",
     "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Highest": "TmBC",
-    "Yr0": "Prov Camp→Prov Team",
-    "Yr1": "Prov Camp",
+    "Yr0": "BCcamp→TmBC",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": "",
     "GradGuessed": "Yes"
@@ -1181,7 +1181,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -1241,7 +1241,7 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp→U18 Natl Camp→WNT",
+    "Yr2": "ONcamp→U18-C→WNT-C",
     "Yr3": ""
   },
   {
@@ -1729,7 +1729,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Melody Aldebert",
@@ -1892,7 +1892,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Nicole Alexander",
@@ -2042,7 +2042,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -2065,8 +2065,8 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ABcamp",
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Elli Allard",
@@ -2083,7 +2083,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Payton Allard",
@@ -2435,7 +2435,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -3095,7 +3095,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Ali Anderson",
@@ -3386,7 +3386,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Lauren Anderson",
@@ -4109,7 +4109,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "McKenzie Apicella",
@@ -4260,7 +4260,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -4852,7 +4852,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Maxine Arsenault",
@@ -4904,7 +4904,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Thea Arsenault",
@@ -5080,8 +5080,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Emelya Asher",
@@ -5249,7 +5249,7 @@
     "Yr0": "",
     "Yr1": "U15",
     "Yr2": "U1617",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Leighton Asprooth",
@@ -5511,7 +5511,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "QCcamp→TmQC→U18-C→WNT-C"
   },
   {
     "Name": "Leah Aubin",
@@ -5756,8 +5756,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Hadley Austin",
@@ -5870,7 +5870,7 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -6078,7 +6078,7 @@
     "Country": "CAN",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": "",
     "GradGuessed": "Yes"
@@ -6164,7 +6164,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Olivia Babiak",
@@ -6296,7 +6296,7 @@
     "Notable": "Team Germany U18",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ONcamp→TmON-R",
     "Yr3": ""
   },
   {
@@ -6693,7 +6693,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Adalyn Bakalar",
@@ -6889,7 +6889,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Samantha Baker",
@@ -7441,7 +7441,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Jessica Bao",
@@ -8009,7 +8009,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Jessica Barnes",
@@ -8068,8 +8068,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-R→U18-C",
+    "Yr3": "ONcamp→U18-C"
   },
   {
     "Name": "Ainsley Barnett",
@@ -8193,7 +8193,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Giuliana Barresi",
@@ -8286,8 +8286,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB→U18-C"
   },
   {
     "Name": "Audrey Barretto",
@@ -8405,7 +8405,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Makenna Barry",
@@ -8587,7 +8587,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Serena Basile",
@@ -8688,7 +8688,7 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp→U18 Natl Camp→WNT",
+    "Yr2": "ONcamp→U18-C→WNT-C",
     "Yr3": ""
   },
   {
@@ -8758,7 +8758,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Gisele Batchelder",
@@ -9515,7 +9515,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "QCcamp→TmQC→U18-C"
   },
   {
     "Name": "Brielle Beauchemin",
@@ -10243,8 +10243,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→U18 Natl Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp→U18-C",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Kylie Beers",
@@ -10371,7 +10371,7 @@
     "Soph": "QCcamp",
     "Highest": "QCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "QCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -10420,8 +10420,8 @@
     "Jr": "QCcamp",
     "Highest": "TmQC",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp",
+    "Yr1": "QCcamp→TmQC",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -10457,8 +10457,8 @@
     "Fresh": "TmQC",
     "Soph": "QCcamp",
     "Highest": "TmQC",
-    "Yr0": "Prov Camp→Prov Team",
-    "Yr1": "Prov Camp",
+    "Yr0": "QCcamp→TmQC",
+    "Yr1": "QCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -10649,7 +10649,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Alayna Bell",
@@ -10690,7 +10690,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Camryn Bell",
@@ -11477,7 +11477,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Chelsey Benoit",
@@ -11513,7 +11513,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -11772,7 +11772,7 @@
     "Soph": "BCcamp",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -11932,7 +11932,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -11950,7 +11950,7 @@
     "Soph": "QCcamp",
     "Highest": "QCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "QCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -12049,7 +12049,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Annelies Bergmann",
@@ -12156,7 +12156,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Ann Bernard",
@@ -12357,7 +12357,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Bianca Bertaccini",
@@ -12393,8 +12393,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Fergie Bertholet",
@@ -12920,7 +12920,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -13080,7 +13080,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Elyssa Biederman",
@@ -13230,8 +13230,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Vayda Bijowski",
@@ -13620,8 +13620,8 @@
     "Jr": "BCcamp",
     "Highest": "TmBC",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp",
+    "Yr1": "BCcamp→TmBC",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -13756,8 +13756,8 @@
     "Highest": "TmQC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "QCcamp→TmQC",
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Renee Bishop",
@@ -13781,7 +13781,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Ellie Bissell",
@@ -14070,7 +14070,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Malyanka Blais",
@@ -14207,8 +14207,8 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Cassidy Blanchard",
@@ -14327,7 +14327,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "BCcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -14464,7 +14464,7 @@
     "Country": "CAN",
     "Team2026": "Rink Hockey Academy - Kelowna U18",
     "Highest": "BCcamp",
-    "Yr0": "Prov Camp",
+    "Yr0": "BCcamp",
     "Yr1": "",
     "Yr2": "",
     "Yr3": "",
@@ -14531,8 +14531,8 @@
     "Soph": "TmBC",
     "Highest": "TmBC",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr1": "BCcamp→TmBC",
+    "Yr2": "BCcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -14700,8 +14700,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Calissa Bloxam",
@@ -15342,7 +15342,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": ""
   },
   {
@@ -16152,7 +16152,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Kate Bouchard",
@@ -16307,7 +16307,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -16435,7 +16435,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Kaylyn Bourque",
@@ -16470,7 +16470,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": ""
   },
   {
@@ -16830,8 +16830,8 @@
     "Highest": "TmON-B",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Madison Bowtell",
@@ -17047,7 +17047,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -17453,7 +17453,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Leah Bradley",
@@ -17686,7 +17686,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -17777,7 +17777,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Ocean Brassard",
@@ -17901,7 +17901,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Joanna Braun",
@@ -18007,7 +18007,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -18134,7 +18134,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Julie Bredehoft",
@@ -18198,7 +18198,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Bayleigh Brekelmans",
@@ -18468,7 +18468,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "QCcamp→TmQC→U18-C→WNT-C"
   },
   {
     "Name": "Andie Breux",
@@ -18727,7 +18727,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -19072,8 +19072,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Paulina Broady",
@@ -20425,7 +20425,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -20705,8 +20705,8 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Lillian Brymer",
@@ -20984,7 +20984,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Megan Buesching",
@@ -21118,7 +21118,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Madelyn Bui",
@@ -21455,7 +21455,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Madilyn Burdette",
@@ -21825,7 +21825,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -22034,8 +22034,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-B→U18-C",
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Laila Burris",
@@ -22069,7 +22069,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Naomi Bursey",
@@ -22579,7 +22579,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Quinnlyn Buzinski",
@@ -23887,8 +23887,8 @@
     "Highest": "TmON-R",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ONcamp→TmON-R",
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Mairead Campbell",
@@ -23924,7 +23924,7 @@
     "Soph": "BCcamp",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -23971,7 +23971,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Penelope Campo",
@@ -24350,7 +24350,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Amelie Card",
@@ -24398,7 +24398,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -24536,7 +24536,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Aidyn Carkner",
@@ -24578,7 +24578,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -25579,7 +25579,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Scotia Carruthers",
@@ -25753,7 +25753,7 @@
     "Highest": "TmON-B",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ONcamp→TmON-B",
     "Yr3": ""
   },
   {
@@ -25943,7 +25943,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Khloe Carvalho",
@@ -27028,7 +27028,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -27581,7 +27581,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Ava Chapin",
@@ -27738,7 +27738,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Natalie Chappell",
@@ -27839,7 +27839,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Bella Charest",
@@ -27906,7 +27906,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Eloize Charette",
@@ -27943,7 +27943,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Hannah Charles",
@@ -28015,7 +28015,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "QCcamp→TmQC→U18-C→WNT-C"
   },
   {
     "Name": "Jenna Charron",
@@ -28149,7 +28149,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Angelina Che",
@@ -28464,8 +28464,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Robyn Chenier",
@@ -28599,7 +28599,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Georgia Chevalier",
@@ -28777,8 +28777,8 @@
     "Jr": "WNT-C",
     "Highest": "WNT-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→U18 Natl Camp→WNT",
+    "Yr1": "ABcamp→TmAB",
+    "Yr2": "ABcamp→U18-C→WNT-C",
     "Yr3": ""
   },
   {
@@ -29249,7 +29249,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Addison Chown",
@@ -29388,7 +29388,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Alexandra Christian",
@@ -29508,8 +29508,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB→U18-C"
   },
   {
     "Name": "Madeline Christoff",
@@ -29816,8 +29816,8 @@
     "Notable": "Team Canada U18 2024,2025 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C→WNT-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Tomasina Cinquino",
@@ -30193,7 +30193,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -30252,7 +30252,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Isla Clark",
@@ -30805,7 +30805,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Clements Amy",
@@ -30958,7 +30958,7 @@
     "Team2026": "Delta Hockey Academy - Black U18",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": "",
     "GradGuessed": "Yes"
@@ -31271,7 +31271,7 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -31488,7 +31488,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Charlotte Cohen",
@@ -31747,8 +31747,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC→U18-C"
   },
   {
     "Name": "Sasha Cole",
@@ -31939,7 +31939,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -32618,7 +32618,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Mika Conaty",
@@ -32697,7 +32697,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Erica Congdon",
@@ -32930,7 +32930,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Reagan Connor",
@@ -33528,8 +33528,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→U18-C"
   },
   {
     "Name": "Taylor Cooper",
@@ -33571,8 +33571,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Adelaide Co-Peeps",
@@ -33694,8 +33694,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Grace Coppock",
@@ -33992,7 +33992,7 @@
     "Highest": "TmON-B",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ONcamp→TmON-B",
     "Yr3": ""
   },
   {
@@ -34214,7 +34214,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Sydney Cosgrove",
@@ -34264,7 +34264,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Abbey Costa",
@@ -34447,7 +34447,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -34467,8 +34467,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "QCcamp→TmQC",
+    "Yr3": "QCcamp→TmQC→U18-C"
   },
   {
     "Name": "Bailey Cote",
@@ -34528,7 +34528,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -35026,7 +35026,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -35445,8 +35445,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "MBcamp→TmMB",
+    "Yr3": "MBcamp→TmMB→U18-C"
   },
   {
     "Name": "Evelyn Crane",
@@ -35749,8 +35749,8 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Molly Crockett",
@@ -35895,7 +35895,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Charlotte Crosato",
@@ -36053,7 +36053,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Camryn Crotteau",
@@ -36300,7 +36300,7 @@
     "Soph": "ATcamp",
     "Highest": "ATcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "ATcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -36626,7 +36626,7 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
     "Yr3": ""
   },
   {
@@ -37013,7 +37013,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Lucy Curran",
@@ -37620,7 +37620,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Elizabeth D'aigle",
@@ -37653,8 +37653,8 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp→TmAtl",
     "GradGuessed": "Yes"
   },
   {
@@ -37872,7 +37872,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "QCcamp→TmQC→U18-C→WNT-C"
   },
   {
     "Name": "Cali Daley",
@@ -38016,8 +38016,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Brooke Dalterio",
@@ -38191,7 +38191,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "Aubrey Damm",
@@ -39166,7 +39166,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -39340,7 +39340,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Grayson Davis",
@@ -39563,8 +39563,8 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Emilie Day",
@@ -39915,7 +39915,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Tatiana Deblois",
@@ -39937,8 +39937,8 @@
     "Jr": "WNT-C",
     "Highest": "WNT-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→U18 Natl Camp→WNT",
+    "Yr1": "QCcamp→TmQC",
+    "Yr2": "QCcamp→U18-C→WNT-C",
     "Yr3": ""
   },
   {
@@ -40063,7 +40063,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -40103,7 +40103,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Hannah Deck",
@@ -40153,7 +40153,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -40522,8 +40522,8 @@
     "Highest": "TmON-R",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "Julianna Degroot",
@@ -40688,8 +40688,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Olivia Dejardins",
@@ -40798,7 +40798,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Princess Delano",
@@ -41397,7 +41397,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Elyse Denbow",
@@ -41416,8 +41416,8 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "MBcamp→TmMB",
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Jasmine Deng",
@@ -42030,7 +42030,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -42058,7 +42058,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -42172,7 +42172,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Brienna Desousa",
@@ -42614,8 +42614,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Umber Dhillon",
@@ -42866,7 +42866,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -43380,7 +43380,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Avery Dini",
@@ -43528,8 +43528,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Bella Dionne",
@@ -44180,7 +44180,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Kayla Doerre",
@@ -44349,8 +44349,8 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ATcamp→TmAtl→U18-C",
+    "Yr3": "ATcamp→TmAtl→U18-C→WNT-C"
   },
   {
     "Name": "Megan Dolan",
@@ -44442,7 +44442,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Talia Domschot",
@@ -44951,8 +44951,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Adreanna Doucette",
@@ -45501,8 +45501,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK→U18-C→WNT-C"
   },
   {
     "Name": "Makayla Drabyk",
@@ -45519,8 +45519,8 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Emmaree Drach",
@@ -45818,7 +45818,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -46208,8 +46208,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK→U18-C"
   },
   {
     "Name": "Leah Duchene",
@@ -46850,7 +46850,7 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
+    "Yr2": "ONcamp→TmON-B→U18-C",
     "Yr3": ""
   },
   {
@@ -47197,7 +47197,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Agustina Dursi",
@@ -47513,7 +47513,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Adeline Dymek",
@@ -48365,7 +48365,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "ABcamp→TmAB→U18-C"
   },
   {
     "Name": "Giselle Eichenberg",
@@ -48580,7 +48580,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -48873,7 +48873,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Tessa Elliott",
@@ -48913,7 +48913,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Natalie Ellis",
@@ -49745,7 +49745,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Arie Erlich",
@@ -50206,8 +50206,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Emily Evans",
@@ -50580,7 +50580,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -51151,8 +51151,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-B→U18-C",
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Lily Farago",
@@ -51265,7 +51265,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -51400,7 +51400,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Bianca Faso",
@@ -51813,7 +51813,7 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
     "Yr3": ""
   },
   {
@@ -52026,7 +52026,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Makeena Ferguson",
@@ -53188,7 +53188,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Carly Finno",
@@ -53592,7 +53592,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "Lauren Fisher",
@@ -54320,7 +54320,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -54359,7 +54359,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -55299,7 +55299,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -55500,8 +55500,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Jules Foster",
@@ -55546,7 +55546,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Foster Riley",
@@ -55573,7 +55573,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -55910,7 +55910,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Taelyn Franklin",
@@ -55975,7 +55975,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -56569,8 +56569,8 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Angelina Frey",
@@ -56826,7 +56826,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -56876,7 +56876,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -57532,7 +57532,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -57550,7 +57550,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -57571,7 +57571,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Piper Gaertner",
@@ -57655,8 +57655,8 @@
     "Jr": "U18-C",
     "Highest": "U18-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr1": "QCcamp→TmQC",
+    "Yr2": "QCcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -57723,7 +57723,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -57901,7 +57901,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Sophia Galick",
@@ -57922,7 +57922,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Camy Galizio",
@@ -58106,8 +58106,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Lia Gallo",
@@ -58222,7 +58222,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Jayne Gamburg",
@@ -58360,7 +58360,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Sabrina Garcia",
@@ -58708,8 +58708,8 @@
     "Highest": "TmQC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "QCcamp→TmQC",
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Elle Gasseau",
@@ -58855,7 +58855,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Sophie Gauld",
@@ -58983,7 +58983,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Raina Gauthier",
@@ -59562,7 +59562,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -60341,7 +60341,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Peyton Gibson",
@@ -60488,7 +60488,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Nikita Giguere",
@@ -60633,7 +60633,7 @@
     "Highest": "TmQC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "QCcamp→TmQC",
     "Yr3": ""
   },
   {
@@ -61647,7 +61647,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Teagan Gloyns",
@@ -61939,7 +61939,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Brooklyn Godisak",
@@ -62762,7 +62762,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "ABcamp→TmAB→U18-C"
   },
   {
     "Name": "Kelly Gorbatenko",
@@ -63102,7 +63102,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Revan Gouadec",
@@ -63124,7 +63124,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -63732,7 +63732,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "BCcamp→TmBC→U18-C→WNT-C"
   },
   {
     "Name": "Jersey Graham",
@@ -63888,7 +63888,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Aislin Grammer",
@@ -64076,8 +64076,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Leesha Grant",
@@ -64901,7 +64901,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -64926,8 +64926,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr2": "SKcamp→TmSK→U18-C",
+    "Yr3": "SKcamp→U18-C"
   },
   {
     "Name": "Violet Green",
@@ -65267,7 +65267,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -65311,8 +65311,8 @@
     "Notable": "Team Canada U18 2024,2025 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "QCcamp→TmQC→U18-C",
+    "Yr3": "QCcamp→TmQC→U18-C→WNT-C"
   },
   {
     "Name": "Mya Grenier",
@@ -65415,8 +65415,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Ella Gretebeck",
@@ -65496,8 +65496,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Siya Grewal",
@@ -66518,7 +66518,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Addison Guertin",
@@ -66609,7 +66609,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -68236,7 +68236,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Doryane Halle",
@@ -68295,7 +68295,7 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp→U18 Natl Camp→WNT",
+    "Yr2": "ONcamp→U18-C→WNT-C",
     "Yr3": ""
   },
   {
@@ -68387,7 +68387,7 @@
     "Country": "CAN",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": "",
     "GradGuessed": "Yes"
@@ -68475,7 +68475,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -68548,7 +68548,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Elizabeth Hamel",
@@ -68641,7 +68641,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Olivia Hamilton",
@@ -68785,7 +68785,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -69385,7 +69385,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Gracie Hanson",
@@ -70026,7 +70026,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Mallory Harold",
@@ -70057,7 +70057,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Tessa Harper",
@@ -70792,7 +70792,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -70866,7 +70866,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "BCcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -71085,7 +71085,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Evangelina Hassan",
@@ -71222,7 +71222,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Hannah Hatt",
@@ -71397,7 +71397,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -71917,7 +71917,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "Claire Healy",
@@ -72477,7 +72477,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Genevieve Heidkamp",
@@ -72939,7 +72939,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Ellie Hemr",
@@ -73221,7 +73221,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Jennavieve Henley",
@@ -73322,7 +73322,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Quinn Henriksen",
@@ -73476,7 +73476,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Peyton Henwood",
@@ -73563,8 +73563,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Emma Heppler",
@@ -73853,7 +73853,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -74085,7 +74085,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Natalie Heutmaker",
@@ -74281,8 +74281,8 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Livvy Hicks",
@@ -74413,7 +74413,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Olivia Higley",
@@ -74450,7 +74450,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Georgia Hildebrand",
@@ -74571,7 +74571,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Jade Hill",
@@ -74856,8 +74856,8 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Makayla Hillock",
@@ -74919,7 +74919,7 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "SKcamp→TmSK",
     "Yr3": ""
   },
   {
@@ -75317,7 +75317,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Maren Hodgeman",
@@ -75507,7 +75507,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Madison Hoffman",
@@ -75632,7 +75632,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Brooke Hohmann",
@@ -75829,7 +75829,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Leighton Hollingsworth",
@@ -76445,7 +76445,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -76940,7 +76940,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Jayda Houben",
@@ -77006,8 +77006,8 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp",
+    "Yr2": "ABcamp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -77140,7 +77140,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ABcamp→TmAB→U18-C→WNT-C"
   },
   {
     "Name": "Clara Houwer",
@@ -78081,8 +78081,8 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→U18-C→WNT-C",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Paige Hugie",
@@ -78142,7 +78142,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Veronika Hujova",
@@ -78862,7 +78862,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Ella Huntley",
@@ -79010,7 +79010,7 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
     "Yr3": ""
   },
   {
@@ -80014,7 +80014,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -80067,8 +80067,8 @@
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C→WNT-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "McKenzie Isola",
@@ -80435,7 +80435,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "BCcamp→TmBC→U18-C→WNT-C"
   },
   {
     "Name": "Mylee Jackson",
@@ -80477,7 +80477,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Ashlyn Jacobs",
@@ -80527,7 +80527,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Khloe Jacobs",
@@ -81026,7 +81026,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Brooklyn Japp",
@@ -81477,7 +81477,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -82727,7 +82727,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -83015,7 +83015,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Avery Jones",
@@ -83040,8 +83040,8 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C→WNT-C",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Carissa Jones",
@@ -83424,7 +83424,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Talia Jones",
@@ -83836,7 +83836,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "BCcamp→TmBC→U18-C"
   },
   {
     "Name": "Kahlan Judd",
@@ -83966,8 +83966,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Natalie Juhassz",
@@ -84042,8 +84042,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Kimberly Jung",
@@ -84316,8 +84316,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC→U18-C"
   },
   {
     "Name": "Emma Kaidas",
@@ -84341,8 +84341,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Madison Kaiser",
@@ -84385,7 +84385,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Ratana Kajonsaksumet",
@@ -84758,7 +84758,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "BCcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -85152,7 +85152,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Kailey Karpan",
@@ -85175,8 +85175,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Remi Karsh",
@@ -85239,7 +85239,7 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -85631,7 +85631,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Caroline Kazanov",
@@ -85780,7 +85780,7 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
     "Yr3": ""
   },
   {
@@ -85960,8 +85960,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Paige Keen",
@@ -86076,8 +86076,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Aubrey Kehoe",
@@ -86153,8 +86153,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Sammy Keil",
@@ -86347,7 +86347,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Mikah Keller",
@@ -86635,8 +86635,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Sydney Kelm",
@@ -87782,7 +87782,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Anna Kilfoil",
@@ -88654,7 +88654,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Rylie Kiratzis",
@@ -89049,7 +89049,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -89085,7 +89085,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Lauren Kjonaas",
@@ -89210,7 +89210,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Marra Klassen",
@@ -89555,7 +89555,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Petra Klimes",
@@ -89574,8 +89574,8 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Leah Klingel",
@@ -89612,7 +89612,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "Emma Kloosterman",
@@ -90605,7 +90605,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -90815,8 +90815,8 @@
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "SKcamp→TmSK→U18-C→WNT-C",
+    "Yr3": "SKcamp→TmSK→U18-C→WNT-C"
   },
   {
     "Name": "Ella Koruz",
@@ -90878,8 +90878,8 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ABcamp",
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Guerin Kosec",
@@ -91368,7 +91368,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Mia Kozak",
@@ -91479,7 +91479,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Mackenzie Kraemer",
@@ -91594,7 +91594,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -91996,7 +91996,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -92295,8 +92295,8 @@
     "Highest": "TmON-B",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Molly Krywanio",
@@ -93060,8 +93060,8 @@
     "Highest": "TmQC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp→TmQC",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Amelia Labore",
@@ -93111,7 +93111,7 @@
     "Highest": "MBcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "MBcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -93144,8 +93144,8 @@
     "Highest": "TmQC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "QCcamp→TmQC",
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Alexa Labrecque",
@@ -93288,9 +93288,9 @@
     "Sr": "U18-C",
     "Highest": "U18-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr1": "QCcamp→TmQC",
+    "Yr2": "QCcamp→TmQC→U18-C",
+    "Yr3": "QCcamp→TmQC→U18-C"
   },
   {
     "Name": "Ève Lacharité",
@@ -93336,7 +93336,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -93539,7 +93539,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -93559,7 +93559,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Chloe Lafleche",
@@ -93634,8 +93634,8 @@
     "Highest": "TmQC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "QCcamp→TmQC",
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Cendrine Lafoley",
@@ -93693,7 +93693,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -93718,8 +93718,8 @@
     "Notable": "decommit from Dartmouth",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "QCcamp→TmQC",
+    "Yr3": "QCcamp→TmQC→U18-C"
   },
   {
     "Name": "Jordanne Laforme",
@@ -93802,7 +93802,7 @@
     "Jr": "QCcamp",
     "Highest": "QCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "QCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -94126,8 +94126,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB→U18-C"
   },
   {
     "Name": "Audrey Lamantia",
@@ -94533,8 +94533,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Navia Landry",
@@ -94760,8 +94760,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ABcamp→TmAB→U18-C",
+    "Yr3": "ABcamp→TmAB→U18-C"
   },
   {
     "Name": "Devyn Lang",
@@ -94783,8 +94783,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Evelyn Lang",
@@ -94944,7 +94944,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Alma Langkjaer",
@@ -95227,8 +95227,8 @@
     "Notable": "Graduating & enrolling Early",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "U18-C→WNT-C"
   },
   {
     "Name": "Lily Laporte",
@@ -95352,7 +95352,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Mya Larkin",
@@ -95365,7 +95365,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -95402,8 +95402,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Isabella Larocca",
@@ -96319,7 +96319,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Perrine Lavorel",
@@ -96656,7 +96656,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Ava Lazaroff",
@@ -96693,8 +96693,8 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Tess Lazaruk",
@@ -96779,8 +96779,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Taylor Lazzaro",
@@ -96864,8 +96864,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Brea Leahy",
@@ -97199,7 +97199,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Coralie Lebreux",
@@ -97346,7 +97346,7 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr2": "ONcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -97415,8 +97415,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Ada Lee",
@@ -97467,7 +97467,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -97659,8 +97659,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Grace Lee",
@@ -97951,7 +97951,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "ONcamp→TmON-B→U18-C"
   },
   {
     "Name": "Raiya Leenders",
@@ -98037,7 +98037,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Jordyn Lefaive",
@@ -98557,7 +98557,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": ""
   },
   {
@@ -98911,9 +98911,9 @@
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr1": "QCcamp→TmQC",
+    "Yr2": "QCcamp→TmQC→U18-C→WNT-C",
+    "Yr3": "QCcamp→TmQC→U18-C→WNT-C"
   },
   {
     "Name": "Danielle Lerma",
@@ -99447,9 +99447,9 @@
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr1": "QCcamp→TmQC",
+    "Yr2": "QCcamp→TmQC→U18-C→WNT-C",
+    "Yr3": "QCcamp→U18-C→WNT-C"
   },
   {
     "Name": "Makenzie Levesque",
@@ -101437,8 +101437,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Emma Lloyd",
@@ -101529,8 +101529,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Makenna Lloyd-Howe",
@@ -101925,7 +101925,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Anastasia Logue",
@@ -101995,8 +101995,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK→U18-C"
   },
   {
     "Name": "Maeve Lomasney",
@@ -102273,7 +102273,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -102296,8 +102296,8 @@
     "Notable": "Instagram says Cornell 2030",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC→U18-C"
   },
   {
     "Name": "Kennedy Lonson",
@@ -102553,7 +102553,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Abigale Loring",
@@ -102908,8 +102908,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Anna Loveday",
@@ -103146,7 +103146,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Halle Lubiniecki",
@@ -103803,7 +103803,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -104509,7 +104509,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -104781,8 +104781,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-B→U18-C"
   },
   {
     "Name": "Taryn MacDonald",
@@ -104863,7 +104863,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -104979,7 +104979,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Cameron Macgillivray",
@@ -105118,7 +105118,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -105154,7 +105154,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Lexi MacIntyre",
@@ -105174,7 +105174,7 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
     "Yr3": ""
   },
   {
@@ -105191,7 +105191,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -105297,7 +105297,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Sydney Mackay",
@@ -105426,9 +105426,9 @@
     "Highest": "WNT-C",
     "Notable": "Decommit Providence",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr1": "BCcamp→TmBC",
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→U18-C→WNT-C"
   },
   {
     "Name": "Alyssa MacKinnon",
@@ -105492,8 +105492,8 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp→TmAtl→U18-C→WNT-C"
   },
   {
     "Name": "Jessica Mackinnon",
@@ -105514,7 +105514,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ATcamp→TmAtl→U18-C→WNT-C"
   },
   {
     "Name": "Kelly Mackinnon",
@@ -105633,7 +105633,7 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
     "Yr3": ""
   },
   {
@@ -105689,7 +105689,7 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
     "Yr3": ""
   },
   {
@@ -105729,7 +105729,7 @@
     "Soph": "TmAtl",
     "Highest": "TmAtl",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
+    "Yr1": "ATcamp→TmAtl",
     "Yr2": "",
     "Yr3": ""
   },
@@ -105796,7 +105796,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Emma Macleod",
@@ -105888,7 +105888,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Whitney MacMillan",
@@ -105902,7 +105902,7 @@
     "Team": "St. Albert",
     "Highest": "ABcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "ABcamp",
     "Yr2": "",
     "Yr3": "",
     "GradGuessed": "Yes"
@@ -105933,7 +105933,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -105958,7 +105958,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -105978,7 +105978,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Paige MacPhee",
@@ -106000,7 +106000,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Emma Macpherson",
@@ -106338,8 +106338,8 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-B→U18-C→WNT-C"
   },
   {
     "Name": "Maeve Maeve Burns",
@@ -106433,7 +106433,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Mya Magowan",
@@ -106513,7 +106513,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Molly Maguire",
@@ -106695,7 +106695,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Margo Mahnke",
@@ -107067,8 +107067,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Ana Makrogiannis",
@@ -107380,8 +107380,8 @@
     "Highest": "TmBC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Lucy Mallgrave",
@@ -107939,7 +107939,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Juliette Mann",
@@ -107993,7 +107993,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Maclee Mannek",
@@ -108027,8 +108027,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "MBcamp→TmMB",
+    "Yr3": "MBcamp→TmMB→U18-C→WNT-C"
   },
   {
     "Name": "Payton Manness",
@@ -108057,8 +108057,8 @@
     "Notable": "Team Canada U18 2024,2025 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "MBcamp→TmMB→U18-C→WNT-C",
+    "Yr3": "MBcamp→TmMB→U18-C→WNT-C"
   },
   {
     "Name": "Anna Manning",
@@ -108187,7 +108187,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Lily Mao",
@@ -108861,7 +108861,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -108913,7 +108913,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Gianna Marshall",
@@ -108957,8 +108957,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Kiyah Marshall",
@@ -109681,8 +109681,8 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Leah Martineau",
@@ -109894,8 +109894,8 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Daniella Martorana",
@@ -109915,7 +109915,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Khaleesi Martz",
@@ -110530,8 +110530,8 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C→WNT-C",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Avery Matt",
@@ -110622,8 +110622,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Addison Matthews",
@@ -110742,7 +110742,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -110762,7 +110762,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Maddy Matthews",
@@ -111149,7 +111149,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -111426,8 +111426,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC→U18-C→WNT-C"
   },
   {
     "Name": "Eva Mayo",
@@ -111483,7 +111483,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Abbey Mazzela",
@@ -112533,7 +112533,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Isla Mccoubrey",
@@ -112643,8 +112643,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-R→U18-C",
+    "Yr3": "ONcamp→U18-C"
   },
   {
     "Name": "Anniston Mccrann",
@@ -112805,8 +112805,8 @@
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ONcamp→TmON-R",
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "Gianna McCusker",
@@ -112868,8 +112868,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "BCcamp→TmBC→U18-C",
+    "Yr3": "BCcamp→TmBC→U18-C"
   },
   {
     "Name": "Nora Mcdavitt",
@@ -112910,8 +112910,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Emelia Mcdermid",
@@ -112932,8 +112932,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Emy Mcdermid",
@@ -113166,9 +113166,9 @@
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr1": "MBcamp→TmMB",
+    "Yr2": "MBcamp→TmMB→U18-C→WNT-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Kylie McDonald",
@@ -113428,7 +113428,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -113599,7 +113599,7 @@
     "Soph": "BCcamp",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -114042,7 +114042,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -114445,7 +114445,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Willa Mcintosh",
@@ -114556,7 +114556,7 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -114690,8 +114690,8 @@
     "Notable": "Decommit - - Playing usports at TMU",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "BCcamp→TmBC→U18-C",
+    "Yr3": "BCcamp→TmBC→U18-C"
   },
   {
     "Name": "Bianca McKee",
@@ -114759,7 +114759,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Maeve Mckendree",
@@ -115353,7 +115353,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -115375,7 +115375,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Grace Mclean",
@@ -115565,7 +115565,7 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ABcamp→TmAB",
     "Yr3": ""
   },
   {
@@ -115840,8 +115840,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Sarah McNabb",
@@ -115860,8 +115860,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Evelyn Mcnally",
@@ -116121,7 +116121,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -116374,7 +116374,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -116560,8 +116560,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-R→U18-C",
+    "Yr3": "ONcamp→TmON-B→U18-C"
   },
   {
     "Name": "Kennedy Meier",
@@ -116771,7 +116771,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Gemma Melo",
@@ -117073,7 +117073,7 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ATcamp→TmAtl",
     "Yr3": ""
   },
   {
@@ -117766,8 +117766,8 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Riley Michaud",
@@ -118040,8 +118040,8 @@
     "Notable": "Team Canada U18 2026 - early enrollment",
     "Yr0": "",
     "Yr1": "U18",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C→WNT-C",
+    "Yr3": "U18-C→WNT-C"
   },
   {
     "Name": "Kaili Milano",
@@ -118373,8 +118373,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp→U18-C"
   },
   {
     "Name": "Emma Miller",
@@ -118612,7 +118612,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "BCcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -118659,8 +118659,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Alexa Millman",
@@ -119354,7 +119354,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Jane Mistry",
@@ -119392,7 +119392,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -120897,7 +120897,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -121268,7 +121268,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -121305,7 +121305,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Emmi Moors",
@@ -121374,7 +121374,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -121659,7 +121659,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Brooke Moreno",
@@ -122074,7 +122074,7 @@
     "Country": "CAN",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": "",
     "GradGuessed": "Yes"
@@ -122280,8 +122280,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-R→U18-C",
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Avery Morrison",
@@ -122416,7 +122416,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -122826,10 +122826,10 @@
     "Sr": "WNT-C",
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2026  / decommit Minnesota 5/8/26",
-    "Yr0": "Prov Camp→Prov Team",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "U18 Natl Camp→WNT"
+    "Yr0": "ATcamp→TmAtl",
+    "Yr1": "ATcamp→TmAtl",
+    "Yr2": "ATcamp→TmAtl→U18-C→WNT-C",
+    "Yr3": "U18-C→WNT-C"
   },
   {
     "Name": "Sabrina Mossuto",
@@ -122954,7 +122954,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Ainsley Moulton",
@@ -123152,8 +123152,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→U18-C"
   },
   {
     "Name": "Kate Mueller",
@@ -123183,7 +123183,7 @@
     "Team": "Calgary Fire Red",
     "Highest": "ABcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "ABcamp",
     "Yr2": "",
     "Yr3": "",
     "GradGuessed": "Yes"
@@ -123594,7 +123594,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Olivia Mullins",
@@ -123702,8 +123702,8 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Kate Mulvihill",
@@ -123956,7 +123956,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Sara Murdoch",
@@ -123973,7 +123973,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -124210,7 +124210,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Julie Murphy",
@@ -124312,8 +124312,8 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp",
+    "Yr2": "ABcamp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -125293,7 +125293,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Ella Nannene",
@@ -125697,7 +125697,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -125714,7 +125714,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -126560,7 +126560,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -126956,8 +126956,8 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Leah Newton",
@@ -127554,7 +127554,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "SKcamp→TmSK→U18-C"
   },
   {
     "Name": "Keira Nimer",
@@ -127591,8 +127591,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Hana Nishi",
@@ -127627,7 +127627,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Riko Nishiuchi",
@@ -127893,7 +127893,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Keirlyn Nohlgren",
@@ -128283,7 +128283,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -128806,7 +128806,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Aspen Nybakken",
@@ -128904,7 +128904,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Gabbi Oakes",
@@ -129406,8 +129406,8 @@
     "Highest": "TmON-B",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Ciara O'Connor",
@@ -129893,7 +129893,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": ""
   },
   {
@@ -130448,7 +130448,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Avery Olson",
@@ -130949,7 +130949,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Brenna O’Reilly",
@@ -131440,7 +131440,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Elena Osterberg",
@@ -131731,7 +131731,7 @@
     "Soph": "TmAtl",
     "Highest": "TmAtl",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
+    "Yr1": "ATcamp→TmAtl",
     "Yr2": "",
     "Yr3": ""
   },
@@ -131758,7 +131758,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Grace Ouellette",
@@ -131788,7 +131788,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Madeleine Ouellette",
@@ -131838,7 +131838,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Alexandra Ouye",
@@ -131889,8 +131889,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-R→U18-C",
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Ruby Owen",
@@ -132015,8 +132015,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Teagan Padgett",
@@ -132126,8 +132126,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Abby Pak",
@@ -132839,8 +132839,8 @@
     "Jr": "U18-C",
     "Highest": "U18-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr1": "QCcamp→TmQC",
+    "Yr2": "QCcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -133591,8 +133591,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Ella Pasqua",
@@ -134343,7 +134343,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Robyn Peck",
@@ -134614,7 +134614,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Julia Pellerin",
@@ -134696,7 +134696,7 @@
     "Soph": "QCcamp",
     "Highest": "QCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "QCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -134936,7 +134936,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ATcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -134956,7 +134956,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -135186,7 +135186,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Georgia Perkins",
@@ -135594,7 +135594,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Makayla Peters",
@@ -135889,7 +135889,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Mickenzie Petford",
@@ -136260,8 +136260,8 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Rieve Petty",
@@ -136423,7 +136423,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "Lucy Phelan",
@@ -136697,7 +136697,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -136740,7 +136740,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Renee Piccone",
@@ -136874,7 +136874,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "MBcamp→TmMB→U18-C→WNT-C"
   },
   {
     "Name": "Codi Pickering",
@@ -137091,8 +137091,8 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "MBcamp→TmMB",
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Ashley Piersol",
@@ -137146,8 +137146,8 @@
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C→WNT-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Riley Pike",
@@ -137284,7 +137284,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Presley Pinfold",
@@ -137417,7 +137417,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "QCcamp→TmQC→U18-C"
   },
   {
     "Name": "Neve Pion",
@@ -138138,7 +138138,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -138433,7 +138433,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Daphné Poirier",
@@ -138454,7 +138454,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -138558,7 +138558,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Tegan Pokryfke",
@@ -138962,7 +138962,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Beatriz Pomar",
@@ -138998,7 +138998,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Sara Ponik",
@@ -139035,7 +139035,7 @@
     "Soph": "BCcamp",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -139144,7 +139144,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -139774,8 +139774,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp→U18-C"
   },
   {
     "Name": "Kellyann Poulin",
@@ -139884,7 +139884,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -139927,7 +139927,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -139985,7 +139985,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Caitlin Powers",
@@ -140356,7 +140356,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Kiki Prefontaine-Robinson",
@@ -140516,7 +140516,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Teagan Preyma",
@@ -140669,7 +140669,7 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
+    "Yr2": "BCcamp→TmBC→U18-C→WNT-C",
     "Yr3": ""
   },
   {
@@ -141840,7 +141840,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Jenna Quinlan",
@@ -142175,7 +142175,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -142433,7 +142433,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Morgan Randall",
@@ -142827,7 +142827,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Ruby Rauk",
@@ -143146,7 +143146,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Camryn Reardon",
@@ -143162,7 +143162,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -143299,7 +143299,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -143704,7 +143704,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr3": "ONcamp→U18-C"
   },
   {
     "Name": "Lola Reid",
@@ -143760,7 +143760,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Alexis Reid-Bailey",
@@ -144716,7 +144716,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Lauren Riccobelli",
@@ -144762,8 +144762,8 @@
     "Jr": "U18-C",
     "Highest": "U18-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr1": "BCcamp→TmBC",
+    "Yr2": "BCcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -144787,8 +144787,8 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "MBcamp→TmMB",
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Casey Rice",
@@ -144975,7 +144975,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Ella Richardson",
@@ -145469,7 +145469,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Cecilia Riiff",
@@ -145593,7 +145593,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -145672,7 +145672,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -145694,7 +145694,7 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -145715,7 +145715,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Kaitlin Ringrose",
@@ -146528,7 +146528,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -147062,7 +147062,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Maelle Rodier",
@@ -147727,7 +147727,7 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr2": "SKcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -147883,7 +147883,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Amanda Rosen",
@@ -149341,8 +149341,8 @@
     "Highest": "WNT-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Tessa Rusconi",
@@ -150117,7 +150117,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Caylee Sachs",
@@ -150441,7 +150441,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -150565,8 +150565,8 @@
     "Jr": "U18-C",
     "Highest": "U18-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr1": "ABcamp→TmAB",
+    "Yr2": "ABcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -150920,8 +150920,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB→U18-C"
   },
   {
     "Name": "Sierra Sandilands",
@@ -151082,9 +151082,9 @@
     "Sr": "U18-C",
     "Highest": "U18-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr1": "ATcamp→TmAtl",
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp→TmAtl→U18-C"
   },
   {
     "Name": "Jamie Sanford",
@@ -151121,7 +151121,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -151184,7 +151184,7 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "ABcamp→TmAB",
     "Yr3": ""
   },
   {
@@ -151870,8 +151870,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Julia Sayej",
@@ -152073,8 +152073,8 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ABcamp",
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Noel Schaab",
@@ -152422,7 +152422,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Eve Schirru",
@@ -152737,7 +152737,7 @@
     "Soph": "BCcamp",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -152758,8 +152758,8 @@
     "Jr": "U18-C",
     "Highest": "U18-C",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr1": "BCcamp→TmBC",
+    "Yr2": "BCcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -153569,7 +153569,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "MBcamp"
   },
   {
     "Name": "Kylie Schwab",
@@ -154337,7 +154337,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -154384,8 +154384,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-B→U18-C",
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Vanessa Seebaran",
@@ -154745,7 +154745,7 @@
     "Highest": "SKcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "SKcamp",
     "Yr3": ""
   },
   {
@@ -154781,7 +154781,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "June Semling",
@@ -154945,7 +154945,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -155179,7 +155179,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Taylor Severson",
@@ -155218,7 +155218,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -155408,7 +155408,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -155872,7 +155872,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -155924,7 +155924,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -155995,7 +155995,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Nora Shea",
@@ -156051,7 +156051,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Charlie Shearer",
@@ -156493,7 +156493,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Cameryn Shiels",
@@ -156514,8 +156514,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC→U18-C"
   },
   {
     "Name": "Rylee Shiels",
@@ -157051,7 +157051,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Bailey Shwartz",
@@ -157111,7 +157111,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Alyssa Sibbick",
@@ -157601,7 +157601,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Zia Simard",
@@ -158025,7 +158025,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -158305,9 +158305,9 @@
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr1": "BCcamp→TmBC",
+    "Yr2": "BCcamp→TmBC",
+    "Yr3": "BCcamp→TmBC→U18-C→WNT-C"
   },
   {
     "Name": "Kinley Sisson",
@@ -158326,8 +158326,8 @@
     "Fresh": "TmBC",
     "Soph": "BCcamp",
     "Highest": "TmBC",
-    "Yr0": "Prov Camp→Prov Team",
-    "Yr1": "Prov Camp",
+    "Yr0": "BCcamp→TmBC",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": ""
   },
@@ -158637,8 +158637,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Gwynn Skoogman",
@@ -159110,7 +159110,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Alexis Slota",
@@ -159287,7 +159287,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Charlotte Smalldon",
@@ -159412,7 +159412,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "ONcamp→TmON-B→U18-C"
   },
   {
     "Name": "Stella Smiatacz",
@@ -159644,7 +159644,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": ""
   },
   {
@@ -160207,7 +160207,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Nadia Smith",
@@ -160289,8 +160289,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Peyton Smith",
@@ -160813,8 +160813,8 @@
     "Highest": "TmON-B",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Sloane Snyder",
@@ -160869,8 +160869,8 @@
     "Jr": "TmMB",
     "Highest": "TmMB",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr1": "MBcamp→TmMB",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -160987,7 +160987,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -161405,8 +161405,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Leah Song",
@@ -161555,8 +161555,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B→U18-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Mia-Rose Sossoyan",
@@ -161741,7 +161741,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Natalie Spaeth",
@@ -161980,7 +161980,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Sophia Speno",
@@ -162544,7 +162544,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "Alexis St. Amant",
@@ -162692,7 +162692,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Violet Stanley",
@@ -162830,7 +162830,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -163070,7 +163070,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -163355,8 +163355,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Sophie Stefik",
@@ -163440,7 +163440,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Maria Steinbach",
@@ -163629,7 +163629,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp",
+    "Yr3": "ABcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -164266,7 +164266,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ATcamp→TmAtl→U18-C→WNT-C"
   },
   {
     "Name": "Riane Stewart",
@@ -164322,7 +164322,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "MBcamp"
   },
   {
     "Name": "Khamia Stickle",
@@ -164868,7 +164868,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Julia Stoner",
@@ -165067,8 +165067,8 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→WNT",
-    "Yr3": "Prov Camp→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B→WNT-C",
+    "Yr3": "ONcamp→U18-C→WNT-C"
   },
   {
     "Name": "Penelope St. Pierre",
@@ -165091,8 +165091,8 @@
     "Highest": "TmQC",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp→TmQC",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Sophie St-Pierre",
@@ -165183,7 +165183,7 @@
   {
     "Name": "Alexa Strano",
     "PersonKey": "strano|alexa",
-    "BirthYr": 2010,
+    "BirthYr": 2009,
     "DOB": "11/30/2009",
     "Grad": 2028,
     "Position": "F",
@@ -165200,9 +165200,9 @@
     "Jr": "ONcamp",
     "Highest": "ONcamp",
     "Yr0": "",
-    "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
-    "Yr3": ""
+    "Yr1": "",
+    "Yr2": "ON_U16",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Emma Strano",
@@ -165417,7 +165417,7 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -165533,7 +165533,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Danielle Strom",
@@ -165740,8 +165740,8 @@
     "Highest": "TmON-B",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Margaret Stuart",
@@ -166362,7 +166362,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Annie Sun",
@@ -166575,8 +166575,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Jasmine Surani",
@@ -166825,8 +166825,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Aleiyah Sutton",
@@ -167099,7 +167099,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "SKcamp"
   },
   {
     "Name": "Bee Swanson",
@@ -167129,7 +167129,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": ""
   },
   {
@@ -167221,7 +167221,7 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -167307,7 +167307,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Dakota Swearingen",
@@ -167483,7 +167483,7 @@
     "Country": "CAN",
     "Highest": "BCcamp",
     "Yr0": "",
-    "Yr1": "Prov Camp",
+    "Yr1": "BCcamp",
     "Yr2": "",
     "Yr3": "",
     "GradGuessed": "Yes"
@@ -167915,7 +167915,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Fanny Taillon",
@@ -169146,7 +169146,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Ava Telfer",
@@ -169286,8 +169286,8 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp",
+    "Yr2": "MBcamp→TmMB",
+    "Yr3": "MBcamp",
     "GradGuessed": "Yes"
   },
   {
@@ -169381,8 +169381,8 @@
     "Notable": "Team Canada U18 2026",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB→U18-C→WNT-C"
   },
   {
     "Name": "Maura Terry",
@@ -169639,7 +169639,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Brielle Theberge",
@@ -169744,8 +169744,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Jaime Theron",
@@ -169768,7 +169768,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -169804,7 +169804,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Noemie Thibodeau",
@@ -169932,7 +169932,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Alexandria Tholl",
@@ -169967,7 +169967,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ABcamp"
   },
   {
     "Name": "Kate Thom",
@@ -170144,7 +170144,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Illya Thomas",
@@ -170497,7 +170497,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Gia Thompson",
@@ -170808,7 +170808,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-R"
   },
   {
     "Name": "True Thompson",
@@ -171337,8 +171337,8 @@
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C→WNT-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Chelsea Tiller",
@@ -171362,7 +171362,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Addison Tillich",
@@ -171853,8 +171853,8 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "MBcamp→TmMB",
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Eva Tomlin",
@@ -172249,7 +172249,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Sarah Tov",
@@ -172369,8 +172369,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Addie Trainer",
@@ -172612,7 +172612,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "QCcamp→TmQC→U18-C"
   },
   {
     "Name": "Mckinley Tremblay",
@@ -172669,9 +172669,9 @@
     "Highest": "WNT-C",
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr1": "QCcamp→TmQC",
+    "Yr2": "QCcamp→TmQC→U18-C→WNT-C",
+    "Yr3": "QCcamp→TmQC→U18-C→WNT-C"
   },
   {
     "Name": "Addison Trembley",
@@ -172820,7 +172820,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -173538,8 +173538,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "a‰my Turcotte",
@@ -173563,7 +173563,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Lea Turcotte",
@@ -173865,7 +173865,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "BCcamp→TmBC"
   },
   {
     "Name": "Camdyn Twiss",
@@ -174415,7 +174415,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Maren Ushko",
@@ -174499,8 +174499,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Maya Vaglica",
@@ -174909,8 +174909,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-R→U18-C",
+    "Yr3": "ONcamp→U18-C"
   },
   {
     "Name": "Valerie Vanco",
@@ -175302,7 +175302,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr3": "QCcamp→TmQC→U18-C"
   },
   {
     "Name": "Camden Vankirk",
@@ -175430,8 +175430,8 @@
     "Highest": "TmON-B",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Olivia VanSickle VanSickle",
@@ -175527,8 +175527,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-R→U18-C"
   },
   {
     "Name": "Molly VanVranken",
@@ -175882,7 +175882,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Riley Veldman",
@@ -175959,7 +175959,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Mia Venusio",
@@ -175982,8 +175982,8 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "ONcamp",
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Kassie Verberne",
@@ -176145,7 +176145,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -176404,7 +176404,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "QCcamp→TmQC"
   },
   {
     "Name": "Rachel Vicente",
@@ -176434,7 +176434,7 @@
     "Highest": "ATcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ATcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -176488,7 +176488,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -176526,8 +176526,8 @@
     "Notable": "Team Canada U18 2025,2026 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-R→U18-C→WNT-C",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Kathleen Viele",
@@ -176761,7 +176761,7 @@
     "Highest": "ONcamp",
     "Yr0": "",
     "Yr1": "ON_U16",
-    "Yr2": "Prov Camp",
+    "Yr2": "ONcamp",
     "Yr3": ""
   },
   {
@@ -176787,7 +176787,7 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "QCcamp",
     "Yr3": ""
   },
   {
@@ -178556,7 +178556,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Trinity Walsh",
@@ -178899,7 +178899,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Jessie Ward",
@@ -179728,7 +179728,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr3": "ABcamp→TmAB→U18-C→WNT-C"
   },
   {
     "Name": "Makena Watson",
@@ -180201,7 +180201,7 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→U18 Natl Camp",
+    "Yr2": "SKcamp→U18-C",
     "Yr3": ""
   },
   {
@@ -181161,7 +181161,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Lauren West",
@@ -181609,7 +181609,7 @@
     "Soph": "TmAtl",
     "Highest": "TmAtl",
     "Yr0": "",
-    "Yr1": "Prov Camp→Prov Team",
+    "Yr1": "ATcamp→TmAtl",
     "Yr2": "",
     "Yr3": ""
   },
@@ -181711,7 +181711,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ATcamp"
   },
   {
     "Name": "Halle White",
@@ -182241,7 +182241,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Ashlea Whyte",
@@ -182310,8 +182310,8 @@
     "Highest": "U18-C",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp"
+    "Yr2": "ATcamp→TmAtl→U18-C",
+    "Yr3": "ATcamp→TmAtl→U18-C"
   },
   {
     "Name": "Aislynn Wieczor",
@@ -182445,7 +182445,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -182820,7 +182820,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "BCcamp"
   },
   {
     "Name": "Malin Wilde",
@@ -183009,7 +183009,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Brooklyn Wilkins",
@@ -183087,7 +183087,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Amelia Wilkinson",
@@ -183110,8 +183110,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ONcamp→TmON-B",
+    "Yr3": "ONcamp→TmON-R→U18-C→WNT-C"
   },
   {
     "Name": "Avery Wilkinson",
@@ -183373,8 +183373,8 @@
     "Highest": "TmAtl",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Carter Williams",
@@ -183518,8 +183518,8 @@
     "Highest": "TmSK",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "SKcamp→TmSK",
+    "Yr3": "SKcamp→TmSK"
   },
   {
     "Name": "Laila Williams",
@@ -183562,7 +183562,7 @@
     "Highest": "BCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "BCcamp",
     "Yr3": "",
     "GradGuessed": "Yes"
   },
@@ -183752,7 +183752,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Jillian Willis",
@@ -185322,8 +185322,8 @@
     "Notable": "Team Canada U18 2025",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "ATcamp→TmAtl",
+    "Yr3": "ATcamp→TmAtl→U18-C→WNT-C"
   },
   {
     "Name": "Averell Wood",
@@ -185396,7 +185396,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ATcamp→TmAtl"
   },
   {
     "Name": "Jada Wood",
@@ -185705,7 +185705,7 @@
     "Highest": "TmMB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
+    "Yr2": "MBcamp→TmMB",
     "Yr3": ""
   },
   {
@@ -186630,7 +186630,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "MBcamp→TmMB"
   },
   {
     "Name": "Serra Yilder",
@@ -187271,8 +187271,8 @@
     "Notable": "Team Canada U18 2024,2025 (2X)",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team→U18 Natl Camp→WNT",
-    "Yr3": "Prov Camp→Prov Team→U18 Natl Camp→WNT"
+    "Yr2": "SKcamp→TmSK→U18-C→WNT-C",
+    "Yr3": "SKcamp→TmSK→U18-C→WNT-C"
   },
   {
     "Name": "Seraphina Zakaria",
@@ -188056,7 +188056,7 @@
     "Highest": "ABcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
+    "Yr2": "ABcamp",
     "Yr3": ""
   },
   {
@@ -188198,8 +188198,8 @@
     "Highest": "TmAB",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp→Prov Team",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr2": "ABcamp→TmAB",
+    "Yr3": "ABcamp→TmAB"
   },
   {
     "Name": "Haylee Zinken",
@@ -188249,7 +188249,7 @@
     "Yr0": "",
     "Yr1": "",
     "Yr2": "",
-    "Yr3": "Prov Camp→Prov Team"
+    "Yr3": "ONcamp→TmON-B"
   },
   {
     "Name": "Macy Ziskinder",
@@ -188409,8 +188409,8 @@
     "Highest": "QCcamp",
     "Yr0": "",
     "Yr1": "",
-    "Yr2": "Prov Camp",
-    "Yr3": "Prov Camp"
+    "Yr2": "QCcamp",
+    "Yr3": "QCcamp"
   },
   {
     "Name": "Emilia Zosimadis",
@@ -188523,7 +188523,7 @@
     "Yr0": "",
     "Yr1": "U15",
     "Yr2": "",
-    "Yr3": "Prov Camp"
+    "Yr3": "ONcamp"
   },
   {
     "Name": "Salena Zuno",
