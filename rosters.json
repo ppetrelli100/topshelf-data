@@ -23088,56 +23088,6 @@
       ]
     },
     {
-      "team": "North York Storm U18",
-      "country": "CAN",
-      "club": "North York Storm",
-      "lvl": "U18",
-      "levels": [
-        "U18"
-      ],
-      "raw": [
-        "North York U18AA"
-      ],
-      "tourneys": [
-        "Stoney"
-      ],
-      "players": [
-        {
-          "pk": "piotrowski|adelaide",
-          "n": "21",
-          "name": "Adelaide Piotrowski",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "reinhart|ava",
-          "n": "23",
-          "name": "Ava Reinhart",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "petro|abbey",
-          "n": "24",
-          "name": "Abbey Petro",
-          "ry": "",
-          "rg": "2028",
-          "rp": "G",
-          "t": [
-            "Stoney"
-          ]
-        }
-      ]
-    },
-    {
       "team": "North York Storm U22",
       "country": "CAN",
       "club": "North York Storm",
@@ -24720,6 +24670,17 @@
           ]
         },
         {
+          "pk": "lim|alyssa",
+          "n": "80",
+          "name": "Alyssa Lim",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Stoney"
+          ]
+        },
+        {
           "pk": "minich|hera",
           "n": "17",
           "name": "Hera Minich",
@@ -24792,17 +24753,6 @@
           "ry": "",
           "rg": "",
           "rp": "",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "lim|alyssa",
-          "n": "80",
-          "name": "Alyssa Lim",
-          "ry": "",
-          "rg": "2029",
-          "rp": "D",
           "t": [
             "Stoney"
           ]
@@ -76504,78 +76454,6 @@
           "ry": "2009",
           "rg": "2027",
           "rp": "G",
-          "t": [
-            "Stoney"
-          ]
-        }
-      ]
-    },
-    {
-      "team": "OHA Mavericks Prep U18",
-      "country": "CAN",
-      "club": "OHA Mavericks Prep",
-      "lvl": "U18",
-      "levels": [
-        "U18"
-      ],
-      "raw": [
-        "Oha Maverick Prep U18AA"
-      ],
-      "tourneys": [
-        "Stoney"
-      ],
-      "players": [
-        {
-          "pk": "nagle|caylee",
-          "n": "14",
-          "name": "Caylee Nagle",
-          "ry": "2009",
-          "rg": "2028",
-          "rp": "D",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "girodat|kansas",
-          "n": "6",
-          "name": "Kansas Girodat",
-          "ry": "2010",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "stellet|nerea",
-          "n": "10",
-          "name": "Nerea Stellet",
-          "ry": "2010",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "cellarova|nina",
-          "n": "15",
-          "name": "Nina Cellarova",
-          "ry": "2009",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "ipeeliedunphy|kylie",
-          "n": "16",
-          "name": "Kylie Ipeelie-Dunphy",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F",
           "t": [
             "Stoney"
           ]
