@@ -34,12 +34,13 @@ Recency, earliest to latest: Pittsburgh, MNRosters, Stoney, NIT, Misc. Later win
 - Level: US teams use 14U/16U/19U, Canadian teams U15/U18/U22; the label follows the Country column, not the
   tournament. Raw labels are kept in `levels`.
 - `team` = club + " " + level. Two exceptions, nothing else:
-  - **#2 teams** (raw name ends 14-2, 16-2 or 19-2) are tracked only for East Coast Wizards, Boston Jr Eagles
+  - **#2 teams** (raw name ends 14-2, 16-2 or 19-2) are tracked only for East Coast Wizards, Boston Jr Eagles, Lovell Academy (19-2 = Elite; Prep is the main 19U)
     and Shattuck-St. Mary's. They get `squad: 2` and the label "Club 16-2" (trailing U dropped). `club` is
     always the plain club name, so clubview/commits group them with the main club.
   - **Prep** stays in the label only for Shattuck's top team ("Shattuck-St. Mary's Prep 19U"). For every
     other school "Prep" is just part of the school and is not shown.
 - Country of a team = most common player country.
+- The level label (14U/16U/19U vs U15/U18/U22) follows the CLUB's home country from the Type table, not each player's Country (boarders and mixed rosters are normal). Clubs not in the Type table fall back to the row's Country.
 
 ## Players
 
@@ -57,6 +58,8 @@ Recency, earliest to latest: Pittsburgh, MNRosters, Stoney, NIT, Misc. Later win
 - Committed school: matched to d1.json by `rosterClean.normCommitted`, then by the guess table `COMMIT_ALIASES` at the top of
   the tool (Boston U -> Boston University, MN State -> Minnesota State, ...). Non-D1 schools (D3, U Sports) are only unified
   to one spelling. Jersey-number notes typed into the column ("T #36", "was 77") are dropped and listed in the report as `commitJunk`.
+- **One roster per club-season, squads included (play-ups removed).** A player listed at her own age level and also at a higher bracket of the same club in that season (a play-up entry in another tournament, e.g. Lovell's 2009 class on 16U and 19U, Stoney Creek's U18 team in the U22 bracket) is kept at the lowest level she is eligible for and removed from the higher one. Her blank fields and tournament list are merged into the kept entry. Eligibility uses the roster's birth year, else `PersonKey -> BirthYr` from `master.json` (`--master`): age = season start year minus birth year; 14U/U15 up to age 14, 16U up to 16, U18 up to 17, 19U/U22 any. A player with no birth year anywhere is left on both rosters and listed in the report as `dualUnresolved`. Removals are listed in the report as `playUpRemoved`. A player listed only at a higher level stays there.
+- **Roster size check.** No team can have more than 22 players. The report lists any that do as `oversize`; each one means two rosters were merged or one was pasted twice, and is fixed in the archive data.
 - Heights are stored F-I (5-5); `5"5` typos are accepted.
 - Name tags and nicknames removed from the name are kept in `tag` ("call-up", "nickname: Maddy").
 
@@ -66,7 +69,7 @@ Recency, earliest to latest: Pittsburgh, MNRosters, Stoney, NIT, Misc. Later win
         players: [ { pk, n, name, ry, rg, rp, dob?, school?, shot?, state?, ht?, home?, commit?, ctry?, t[], tag?, alt? } ] } ] }
 
 `team`, `country`, and `pk/n/name/ry/rg/rp` are unchanged from the sheet-era file, so teamview keeps working.
-`ry`=birth year, `rg`=grad year, `rp`=position. `ctry` appears only when a player's country differs from the team's.
+`ry`=birth year, `rg`=grad year, `rp`=position `ctry` appears only when a player's country differs from the team's.
 
 ## Data fixes made during the migration (Oct 2026)
 

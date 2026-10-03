@@ -12,6 +12,7 @@
        --report <file>    JSON report of flags/conflicts   (default: import_report.json)
        --repo <dir>       topshelf-data checkout           (default: the folder above tools/)
        --known <a,b,..>   extra JSON files whose personkeys feed the swapped-name check
+       --master <file>    master.json (PersonKey, BirthYr): birth-year fallback for play-up removal (default: master.json in the repo)
 
    Pure functions are exported (buildRosters, resolveTeam, ...) so the
    updates.html import tab can reuse exactly the same rules.
@@ -30,7 +31,7 @@ const CLASS_ORDER = ['Stoney', 'Pittsburgh', 'MNRosters', 'NIT', 'Misc'];
 const RECENCY = ['Pittsburgh', 'MNRosters', 'Stoney', 'NIT', 'Misc'];
 const WINDOW_SEASONS = 3;                    // rolling: latest Year and the two before
 // The only clubs where a #2 team is tracked (raw name ends "14-2"/"16-2"/"19-2").
-const SQUAD2_CLUBS = ["East Coast Wizards", "Boston Jr Eagles", "Shattuck-St. Mary's"];
+const SQUAD2_CLUBS = ["East Coast Wizards", "Boston Jr Eagles", "Shattuck-St. Mary's", "Lovell Academy"];
 // The only club whose top team keeps "Prep" in the displayed team name.
 const PREP_LABEL_CLUBS = ["Shattuck-St. Mary's"];
 
@@ -124,7 +125,7 @@ function posOf(RC, p) { const x = RC.normalizePos(p); return (x === 'F/D' || x =
 const seasonLabel = y => `${y}-${String((+y + 1) % 100).padStart(2, '0')}`;
 
 function buildRosters(rawRows, ctx) {
-  const { RC, typeAliases, d1, known } = ctx;
+  const { RC, typeAliases, d1, known, birthYears } = ctx;
   const match = typeMatcher(typeAliases);
   const report = { unknownTourneys: {}, swapFlags: [], yearFlags: [], heightFlags: [], commitUnmatched: {}, unmatchedOrgs: {}, badLevel: {}, squadWarnings: [], conflicts: { n: 0, rg: 0, rp: 0, country: 0 }, tagged: 0 };
   const years = [...new Set(rawRows.map(r => +r.Year).filter(Boolean))].sort((a, b) => a - b);
@@ -152,7 +153,7 @@ function buildRosters(rawRows, ctx) {
     let squad = 1;
     if (wantsSquad2) { if (SQUAD2_CLUBS.includes(club)) squad = 2; else report.squadWarnings.push(`${r.Year} ${rawTeam}: looks like a #2 team but ${club} is not in SQUAD2_CLUBS`); }
     const prep = /\bprep\b/i.test(rawTeam) && PREP_LABEL_CLUBS.includes(club);
-    const lvl = levelNorm(r.Level, r.Country);
+    const lvl = levelNorm(r.Level, hit && hit.country ? hit.country : r.Country);   // level labels follow the CLUB's home country (Type table), not each player's
     if (!['14U', '16U', '19U', 'U15', 'U18', 'U22'].includes(lvl)) report.badLevel[`${r.Level}|${r.Country}`] = (report.badLevel[`${r.Level}|${r.Country}`] || 0) + 1;
 
     const name = norm(r.Name).replace(/\s+/g, ' ');
@@ -229,6 +230,37 @@ function buildRosters(rawRows, ctx) {
       return team;
     });
   }
+  // 4. one roster per club-season: a player listed at her own age level AND at a higher bracket (a play-up entry in another
+  //    tournament) is kept at the lower level only. Players with no known birth year are left alone and listed in the report.
+  const RANK = { '14U': 1, U15: 1, '16U': 2, U18: 2, '19U': 3, U22: 3 }, MAXAGE = { '14U': 14, U15: 14, '16U': 16, U18: 17, '19U': 99, U22: 99 };
+  report.playUpRemoved = []; report.dualUnresolved = [];
+  for (const sk of Object.keys(out)) {
+    const start = +sk.slice(0, 4), groups = new Map();
+    out[sk].forEach(t => { const g = `${t.club}`; (groups.get(g) || groups.set(g, []).get(g)).push(t); });
+    for (const teams of groups.values()) {
+      if (teams.length < 2) continue;
+      const by = new Map();
+      teams.forEach(t => t.players.forEach(p => (by.get(p.pk) || by.set(p.pk, []).get(p.pk)).push({ t, p })));
+      for (const [pk, ents] of by) {
+        if (new Set(ents.map(e => RANK[e.t.lvl])).size < 2) continue;
+        const y = +ents[0].p.ry || +(ents.find(e => +e.p.ry) || { p: {} }).p.ry || (birthYears && birthYears.get(pk)) || 0;
+        if (!y) { report.dualUnresolved.push(`${sk} ${teams[0].club}: ${ents[0].p.name} (${ents.map(e => e.t.lvl).join(', ')})`); continue; }
+        const age = start - y;
+        const keep = ents.filter(e => age <= MAXAGE[e.t.lvl]).sort((a, b) => RANK[a.t.lvl] - RANK[b.t.lvl])[0];
+        if (!keep) continue;
+        for (const e of ents) {
+          if (e === keep || RANK[e.t.lvl] <= RANK[keep.t.lvl]) continue;
+          for (const k in e.p) if (['dob', 'school', 'shot', 'state', 'ht', 'home', 'commit', 'ry', 'rg', 'n', 'rp'].includes(k) && (keep.p[k] === undefined || keep.p[k] === '') && e.p[k] !== '') keep.p[k] = e.p[k];
+          keep.p.t = [...new Set([...(keep.p.t || []), ...(e.p.t || [])])].sort((a, b) => RECENCY.indexOf(a) - RECENCY.indexOf(b));
+          e.t.players = e.t.players.filter(q => q !== e.p);
+          report.playUpRemoved.push(`${sk} ${e.p.name}: removed from ${e.t.team}, kept at ${keep.t.team}`);
+        }
+      }
+    }
+    out[sk] = out[sk].filter(t => t.players.length);
+  }
+  report.oversize = [];   // a team cannot dress more than 22 players: anything bigger means two rosters were merged or a roster was pasted twice
+  for (const sk in out) out[sk].forEach(t => { if (t.players.length > 22) report.oversize.push(`${sk} ${t.team}: ${t.players.length}`); });
   return { rosters: out, report };
 }
 
@@ -247,7 +279,9 @@ function main() {
   let known = null;
   if (opt.known) { known = new Set(); const walk = o => { if (Array.isArray(o)) o.forEach(walk); else if (o && typeof o === 'object') for (const k in o) { if (/^(pk|personkey)$/i.test(k) && typeof o[k] === 'string') known.add(o[k]); else walk(o[k]); } }; opt.known.split(',').forEach(f => walk(JSON.parse(fs.readFileSync(path.resolve(opt.repo, f), 'utf8')))); }
   const rows = parseCSV(fs.readFileSync(files[0], 'utf8'));
-  const { rosters, report } = buildRosters(rows, { RC, typeAliases, d1, known });
+  let birthYears = null; const mf = path.resolve(opt.repo, opt.master || 'master.json');
+  if (fs.existsSync(mf)) { birthYears = new Map(); JSON.parse(fs.readFileSync(mf, 'utf8')).forEach(r => { if (r.PersonKey && +r.BirthYr) birthYears.set(r.PersonKey, +r.BirthYr); }); }
+  const { rosters, report } = buildRosters(rows, { RC, typeAliases, d1, known, birthYears });
   if (Object.keys(report.unknownTourneys).length) { console.error('STOP: unrecognized tournament names in the window:', report.unknownTourneys, '\nAdd them to CLASS_ORDER / RECENCY in this file.'); process.exit(2); }
   fs.writeFileSync(opt.out, JSON.stringify(rosters, null, 2));
   fs.writeFileSync(opt.report, JSON.stringify(report, null, 2));

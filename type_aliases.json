@@ -264,13 +264,13 @@
     "country": "US"
   },
   {
-    "pattern": "^st\\.?\\s*george['\u2019]?s\\s*(school)?$",
+    "pattern": "^st\\.?\\s*george['’]?s\\s*(school)?$",
     "type": "PREP",
     "friendly": "St Georges",
     "country": "US"
   },
   {
-    "pattern": "^st\\.?\\s*mark['\u2019]?s\\s*(school)?$",
+    "pattern": "^st\\.?\\s*mark['’]?s\\s*(school)?$",
     "type": "PREP",
     "friendly": "St Marks",
     "country": "US"
@@ -1314,7 +1314,7 @@
     "country": "US"
   },
   {
-    "pattern": "^(st\\.?|saint)\\s*louis\\s*blues(?:\\s*u\\d+)?$",
+    "pattern": "^(st\\.?|saint)\\s*louis\\s*(lady\\s*|aaa\\s*)?blues(?:\\s*u\\d+)?$",
     "type": "CLUB",
     "friendly": "St. Louis Blues",
     "country": "US"
@@ -1686,7 +1686,7 @@
     "country": "US"
   },
   {
-    "pattern": "^cornwall\\s*(lady\\s*)?royals$",
+    "pattern": "^cornwall(\\s*(lady\\s*)?royals)?$",
     "type": "CLUB",
     "friendly": "Cornwall Lady Royals",
     "country": "CAN"
@@ -1734,7 +1734,7 @@
     "country": "CAN"
   },
   {
-    "pattern": "^eastman\\s*selects$",
+    "pattern": "^eastman(\\s*selects)?$",
     "type": "CLUB",
     "friendly": "Eastman Selects",
     "country": "CAN"
@@ -1776,7 +1776,7 @@
     "country": "US"
   },
   {
-    "pattern": "^florida\\s*(girls\\s*)?alliance$",
+    "pattern": "^(florida|fl)\\s*(girls\\s*)?alliance$",
     "type": "CLUB",
     "friendly": "Florida Alliance",
     "country": "US"
@@ -2364,7 +2364,7 @@
     "country": "CAN"
   },
   {
-    "pattern": "^ottawa\\s*(lady\\s*)?(senators|sens)\\s*(womens?\\s*hockey\\s*club)?$",
+    "pattern": "^ottawa\\s*(lady\\s*)?(senators|sens)\\s*(women'?s?\\s*hockey\\s*club)?$",
     "type": "CLUB",
     "friendly": "Ottawa Senators",
     "country": "CAN"
@@ -2826,7 +2826,7 @@
     "country": "CAN"
   },
   {
-    "pattern": "^thunder\\s*bay\\s*queens$",
+    "pattern": "^thunder\\s*bay(\\s*queens)?$",
     "type": "CLUB",
     "friendly": "Thunder Bay Queens",
     "country": "CAN"
@@ -3788,7 +3788,7 @@
   {
     "pattern": "^saintmarys$",
     "type": "CLUB",
-    "friendly": "Saint Mary\u2019s",
+    "friendly": "Saint Mary’s",
     "country": "US"
   },
   {
@@ -4092,7 +4092,7 @@
     "country": "US"
   },
   {
-    "pattern": "^(?:rink|rha)\\s*(?:(?:hockey\\s*academy)|h\\s*a)?\\s*(?:kelowna)?\\s*(?:prep)?$",
+    "pattern": "^(?:rink|rha)\\s*(?:(?:hockey\\s*academy)|h\\s*a)?\\s*-?\\s*(?:kelowna)?\\s*(?:prep)?$",
     "type": "ACADEMY",
     "friendly": "RINK Kelowna",
     "country": "CAN"
@@ -4104,7 +4104,7 @@
     "country": "CAN"
   },
   {
-    "pattern": "^(shattuck[-\\s]*(st\\.?[-\\s]*mary['\u2019]?s?)?[-\\s]*(girls)?[-\\s]*(prep)?|ssm)$",
+    "pattern": "^(shattuck[-\\s]*(st\\.?[-\\s]*mary['’]?s?)?[-\\s]*(girls)?[-\\s]*(prep)?|ssm)$",
     "type": "ACADEMY",
     "friendly": "Shattuck-St. Mary's",
     "country": "US"
@@ -4116,7 +4116,7 @@
     "country": "US"
   },
   {
-    "pattern": "^culver\\s*(girls)?(academy|academies)?(girls)?(prep)?$",
+    "pattern": "^culver\\s*(girls\\s*)?(academy|academies)?\\s*(girls\\s*)?(prep)?$",
     "type": "ACADEMY",
     "friendly": "Culver Academies",
     "country": "US"
@@ -4128,7 +4128,7 @@
     "country": "CAN"
   },
   {
-    "pattern": "^gilmour\\s*(prep)?(academy)?(girls)?(prep)?(gladiators)?$",
+    "pattern": "^gilmour\\s*(lancers\\s*)?(prep\\s*)?(academy\\s*)?(girls\\s*)?(prep\\s*)?(gladiators\\s*)?$",
     "type": "ACADEMY",
     "friendly": "Gilmour Academy",
     "country": "US"
@@ -4152,6 +4152,36 @@
     "country": "CAN"
   },
   {
+    "pattern": "^oha\\s*(?:mavericks?\\s*)?prep$",
+    "type": "ACADEMY",
+    "friendly": "OHA Mavericks Prep",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^oha\\s*(?:mavericks?\\s*)?(?:jr\\.?|junior)\\s*varsity$",
+    "type": "ACADEMY",
+    "friendly": "OHA Mavericks Jr Varsity",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^oha\\s*(?:mavericks?\\s*)?varsity$|^oha\\s*mavericks?$",
+    "type": "ACADEMY",
+    "friendly": "OHA Mavericks Varsity",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^oha\\s*gold$",
+    "type": "ACADEMY",
+    "friendly": "OHA Gold",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(?:oha|okanagan\\s*hockey\\s*academy|okanaganhockeyacademy)\\s*penticton\\s*(?:girls)?\\s*(?:prep)?$",
+    "type": "ACADEMY",
+    "friendly": "OHA Penticton",
+    "country": "CAN"
+  },
+  {
     "pattern": "^(?:ontario\\s*hockey\\s*academy|oha)\\s*(?:mavericks)?\\s*(?:prep)?$",
     "type": "ACADEMY",
     "friendly": "Ontario Hockey Academy",
@@ -4170,7 +4200,7 @@
     "country": "US"
   },
   {
-    "pattern": "^(?:south[-\\s]*alberta[-\\s]*hockey[-\\s]*academy|saha)\\s*(?:girls)?\\s*(?:prep)?$",
+    "pattern": "^(?:south[-\\s]*alberta[-\\s]*hockey[-\\s]*academy|saha)\\s*(?:girls)?\\s*-?\\s*(?:prep)?$",
     "type": "ACADEMY",
     "friendly": "South Alberta Hockey Academy",
     "country": "CAN"
@@ -4188,7 +4218,7 @@
     "country": "US"
   },
   {
-    "pattern": "^edge\\s*(school)?(prep)?$",
+    "pattern": "^edge\\s*(school\\s*)?(mountaineers\\s*)?(prep)?$",
     "type": "ACADEMY",
     "friendly": "Edge School",
     "country": "CAN"
@@ -4218,7 +4248,7 @@
     "country": "CAN"
   },
   {
-    "pattern": "^oha\\s*edmonton\\s*(girls\\s*)?(prep)?$",
+    "pattern": "^(?:oha|okanagan\\s*hockey\\s*academy)\\s*edmonton\\s*(?:women'?s?)?\\s*-?\\s*(?:girls)?\\s*(?:prep)?$",
     "type": "ACADEMY",
     "friendly": "OHA Edmonton",
     "country": "CAN"
@@ -4239,6 +4269,36 @@
     "pattern": "^les\\s*olympiques\\s*(?:de\\s*l\\s*)?outaouais$",
     "type": "CLUB",
     "friendly": "Les Olympiques de l'Outaouais",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^delta\\s*(?:hockey\\s*academy|prep)\\s*-?\\s*green$",
+    "type": "ACADEMY",
+    "friendly": "Delta Hockey Academy - Green",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^delta\\s*(?:hockey\\s*academy|prep)\\s*-?\\s*black$",
+    "type": "ACADEMY",
+    "friendly": "Delta Hockey Academy - Black",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^cal(?:e|en)don$",
+    "type": "CLUB",
+    "friendly": "Caledon",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^tb\\s*nyh$",
+    "type": "CLUB",
+    "friendly": "Rochester Jr Americans",
+    "country": "US"
+  },
+  {
+    "pattern": "^cambridge$",
+    "type": "CLUB",
+    "friendly": "Cambridge Roadrunners",
     "country": "CAN"
   }
 ]
