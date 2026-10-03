@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "description": "Per-player manual overrides applied on top of the picked Master values. field = Master column name; value '' means force blank (e.g. College: not actually committed). Replaces the sheet's Overrides tab.",
+  "description": "Per-player manual overrides applied on top of the picked Master values. field = Master column name; value '' means force blank (e.g. College: not actually committed). Replaces the sheet's Overrides tab. DOB = full date, DOBPartial = month/year only (DOB left blank).",
   "overrides": [
     {"personkey": "daley|jane", "field": "Grad", "value": 2027, "notes": "accelerate/un-reclass; convo with parent"},
     {"personkey": "paone|sophia", "field": "Grad", "value": 2028, "notes": "reclass - Northeastern camp"},
@@ -9,6 +9,25 @@
     {"personkey": "pelletier|eve", "field": "Grad", "value": 2028, "notes": "likely reclass"},
     {"personkey": "martin|sarah", "field": "Grad", "value": 2028, "notes": "NOTE: THERE ARE 2 SARAH MARTIN'S - ONE LAWRENCEVILLE/HAMILTON, ONE CENTRAL YORK/BROWN"},
     {"personkey": "king|emily", "field": "College", "value": "", "notes": "Old-roster collision; real 2028 recruit uncommitted"},
-    {"personkey": "nelson|taylor", "field": "College", "value": "", "notes": "Old-roster collision; real 2028 recruit uncommitted"}
+    {"personkey": "nelson|taylor", "field": "College", "value": "", "notes": "Old-roster collision; real 2028 recruit uncommitted"},
+    {"personkey": "babey|sage", "field": "DOB", "value": "7/8/2006", "notes": "PM 10/3: use provrosters"},
+    {"personkey": "boico|alexandra", "field": "BirthYr", "value": 2009, "notes": "PM 10/3: it's 2009 (DOB 6/12/2009 is right; the 2010 BirthYr was wrong)"},
+    {"personkey": "bouchard|julianne", "field": "DOB", "value": "5/8/2007", "notes": "PM 10/3: use EP"},
+    {"personkey": "chedel|julia", "field": "DOB", "value": "9/7/2006", "notes": "PM 10/3: keep 9/7"},
+    {"personkey": "derrenbacher|mary", "field": "DOB", "value": "9/20/2008", "notes": "PM 10/3: use ep"},
+    {"personkey": "gasse|sophianne", "field": "DOB", "value": "11/5/2008", "notes": "PM 10/3: keep commits (no commits row exists; kept the ProvRosters date 11/5/2008)"},
+    {"personkey": "kehoe|aubrey", "field": "DOBPartial", "value": "8/2010", "notes": "PM 10/3: keep ndc (partial only)"},
+    {"personkey": "li|alika", "field": "DOBPartial", "value": "4/2009", "notes": "PM 10/3: keep ndc (partial only)"},
+    {"personkey": "ouellette|eva", "field": "DOB", "value": "6/24/2009", "notes": "PM 10/3: keep commits"},
+    {"personkey": "romanow|ava", "field": "DOBPartial", "value": "4/2007", "notes": "PM 10/3: keep commits (month only)"},
+    {"personkey": "skibinski|vivian", "field": "DOB", "value": "3/13/2006", "notes": "PM 10/3: keep NDC"},
+    {"personkey": "smith|hannah", "field": "DOBPartial", "value": "6/2011", "notes": "PM 10/3: keep NDC (month only)"},
+    {"personkey": "strano|alexa", "field": "DOB", "value": "9/5/2010", "notes": "PM 10/3: keep ccm"},
+    {"personkey": "twardochleb|emery", "field": "DOB", "value": "2/2/2007", "notes": "PM 10/3: keep provroster (newest row)"},
+    {"personkey": "vanvolsen|grace", "field": "DOB", "value": "5/10/2008", "notes": "PM 10/3: keep EP"},
+    {"personkey": "wilson|eleonore", "field": "DOB", "value": "7/21/2009", "notes": "PM 10/3: keep NDC"},
+    {"personkey": "belanger|eva", "field": "DOB", "value": "4/6/2011", "notes": "best guess: tourneys and EP agree; ProvRosters has day/month swapped"},
+    {"personkey": "logan|reese", "field": "DOB", "value": "3/5/2006", "notes": "best guess: EP; ProvRosters looks day/month swapped (as with bouchard)"},
+    {"personkey": "mackinnon|jessica", "field": "DOB", "value": "11/2/2006", "notes": "best guess: EP; ProvRosters looks day/month swapped (as with bouchard)"}
   ]
 }

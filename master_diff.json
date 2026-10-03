@@ -1,0 +1,5015 @@
+{
+ "players": {
+  "inBoth": 12476,
+  "onlyMaster": 114,
+  "onlyCandidate": 89
+ },
+ "fields": {
+  "Name": {
+   "same": 12272,
+   "differ": 204,
+   "masterOnly": 0,
+   "candOnly": 0,
+   "samples": {
+    "differ": [
+     {
+      "pk": "ames|frances",
+      "master": "Francie Ames",
+      "cand": "Frances Ames",
+      "src": "ndc"
+     },
+     {
+      "pk": "aronson|lillian",
+      "master": "Lily Aronson",
+      "cand": "Lillian Aronson",
+      "src": "ndc"
+     },
+     {
+      "pk": "barnes|cassandra",
+      "master": "Cassie Barnes",
+      "cand": "Cassandra Barnes",
+      "src": "prov"
+     },
+     {
+      "pk": "beauchamp|audree",
+      "master": "Audrée Beauchamp",
+      "cand": "Audree Beauchamp",
+      "src": "tourn"
+     },
+     {
+      "pk": "belair|penelope",
+      "master": "Pénélope Belair",
+      "cand": "Penelope Belair",
+      "src": "ccm"
+     },
+     {
+      "pk": "bjergstad|caroline",
+      "master": "Caroline Reese Bjergstad",
+      "cand": "Caroline Bjergstad",
+      "src": "tourn"
+     },
+     {
+      "pk": "blockmakokis|sophia",
+      "master": "Sophia Makokis",
+      "cand": "Sophia Block Makokis",
+      "src": "prov"
+     },
+     {
+      "pk": "boczenowski|addison",
+      "master": "Addy Boczenowski",
+      "cand": "Addison Boczenowski",
+      "src": "ccm"
+     },
+     {
+      "pk": "boudreau|maelie",
+      "master": "Maëlie Boudreau",
+      "cand": "Maelie Boudreau",
+      "src": "ccm"
+     },
+     {
+      "pk": "boveri|elizabeth",
+      "master": "Libby Boveri",
+      "cand": "Elizabeth Boveri",
+      "src": "tourn"
+     },
+     {
+      "pk": "brown|sophia",
+      "master": "Sophie Brown",
+      "cand": "Sophia Brown",
+      "src": "tourn"
+     },
+     {
+      "pk": "brunet|aurelianne",
+      "master": "Aurélianne Brunet",
+      "cand": "Aurelianne Brunet",
+      "src": "tourn"
+     }
+    ],
+    "masterOnly": [],
+    "candOnly": []
+   }
+  },
+  "BirthYr": {
+   "same": 9540,
+   "differ": 57,
+   "masterOnly": 16,
+   "candOnly": 365,
+   "samples": {
+    "differ": [
+     {
+      "pk": "arsenault|maxine",
+      "master": 2009,
+      "cand": 2010,
+      "src": "tourn"
+     },
+     {
+      "pk": "boisvert|florence",
+      "master": 2011,
+      "cand": 2012,
+      "src": "ccm"
+     },
+     {
+      "pk": "brown|olivia",
+      "master": 2009,
+      "cand": 2012,
+      "src": "tourn"
+     },
+     {
+      "pk": "brunet|aurelianne",
+      "master": 2009,
+      "cand": 2010,
+      "src": "tourn"
+     },
+     {
+      "pk": "cardone|cassandra",
+      "master": 2010,
+      "cand": 2009,
+      "src": "ccm"
+     },
+     {
+      "pk": "cooper|lauren",
+      "master": 2005,
+      "cand": 2009,
+      "src": "tourn"
+     },
+     {
+      "pk": "dawson|danika",
+      "master": 2009,
+      "cand": 2008,
+      "src": "tourn"
+     },
+     {
+      "pk": "fuchs|julia",
+      "master": 2008,
+      "cand": 2006,
+      "src": "ccm"
+     },
+     {
+      "pk": "gibson|taylor",
+      "master": 2007,
+      "cand": 2009,
+      "src": "tourn"
+     },
+     {
+      "pk": "giovonti|reese",
+      "master": 2011,
+      "cand": 2012,
+      "src": "tourn"
+     },
+     {
+      "pk": "goodwin|isabelle",
+      "master": 2009,
+      "cand": 2008,
+      "src": "tourn"
+     },
+     {
+      "pk": "graham|megan",
+      "master": 2005,
+      "cand": 2009,
+      "src": "tourn"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "bergeron|zoe",
+      "master": 2006,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brown|mackenzie",
+      "master": 2013,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "campbell|grace",
+      "master": 2005,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "daley|taylor",
+      "master": 2009,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dunn|ella",
+      "master": 2005,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "holmes|avery",
+      "master": 2006,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "johnson|emily",
+      "master": 2008,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "johnson|lydia",
+      "master": 2008,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "marrale|riley",
+      "master": 2009,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "miller|taylor",
+      "master": 2009,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "murray|halle",
+      "master": 2005,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "olson|emma",
+      "master": 2009,
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "abraham|lillian",
+      "master": "",
+      "cand": 2006,
+      "src": "ep"
+     },
+     {
+      "pk": "albiani|devyn",
+      "master": "",
+      "cand": 2009,
+      "src": "tourn"
+     },
+     {
+      "pk": "alford|maisy",
+      "master": "",
+      "cand": 2009,
+      "src": "tourn"
+     },
+     {
+      "pk": "anhalt|katherine",
+      "master": "",
+      "cand": 2006,
+      "src": "ep"
+     },
+     {
+      "pk": "annett|julia",
+      "master": "",
+      "cand": 2010,
+      "src": "tourn"
+     },
+     {
+      "pk": "arendell|avery",
+      "master": "",
+      "cand": 2007,
+      "src": "tourn"
+     },
+     {
+      "pk": "austin|katherine",
+      "master": "",
+      "cand": 2007,
+      "src": "ep"
+     },
+     {
+      "pk": "baggs|alannah",
+      "master": "",
+      "cand": 2009,
+      "src": "ep"
+     },
+     {
+      "pk": "baier|abigail",
+      "master": "",
+      "cand": 2011,
+      "src": "tourn"
+     },
+     {
+      "pk": "ball|katherine",
+      "master": "",
+      "cand": 2008,
+      "src": "ep"
+     },
+     {
+      "pk": "bamber|kaitlyn",
+      "master": "",
+      "cand": 2008,
+      "src": "tourn"
+     },
+     {
+      "pk": "banks|anne",
+      "master": "",
+      "cand": 2007,
+      "src": "ep"
+     }
+    ]
+   }
+  },
+  "DOB": {
+   "same": 4148,
+   "differ": 420,
+   "masterOnly": 42,
+   "candOnly": 155,
+   "samples": {
+    "differ": [
+     {
+      "pk": "abrahamson|ashlyn",
+      "master": "5/1/2006",
+      "cand": "5/11/2006",
+      "src": "ndc"
+     },
+     {
+      "pk": "acker|leah",
+      "master": "4/1/2011",
+      "cand": "4/14/2011",
+      "src": "ep"
+     },
+     {
+      "pk": "adams|payton",
+      "master": "7/1/2009",
+      "cand": "7/27/2009",
+      "src": "ep"
+     },
+     {
+      "pk": "alkadiri|meena",
+      "master": "9/1/2007",
+      "cand": "9/7/2007",
+      "src": "ndc"
+     },
+     {
+      "pk": "allen|madeline",
+      "master": "1/1/2009",
+      "cand": "1/8/2009",
+      "src": "ndc"
+     },
+     {
+      "pk": "allison|rylee",
+      "master": "3/1/2010",
+      "cand": "3/14/2010",
+      "src": "ndc"
+     },
+     {
+      "pk": "ambrass|maelee",
+      "master": "7/1/2006",
+      "cand": "7/21/2006",
+      "src": "ndc"
+     },
+     {
+      "pk": "ames|frances",
+      "master": "5/1/2010",
+      "cand": "5/25/2010",
+      "src": "ccm"
+     },
+     {
+      "pk": "anderson|ashley",
+      "master": "3/1/2011",
+      "cand": "3/4/2011",
+      "src": "ep"
+     },
+     {
+      "pk": "anderson|vivienne",
+      "master": "4/1/2009",
+      "cand": "4/2/2009",
+      "src": "ndc"
+     },
+     {
+      "pk": "angellotti|samantha",
+      "master": "6/1/2008",
+      "cand": "6/16/2008",
+      "src": "ep"
+     },
+     {
+      "pk": "antonenko|evelyn",
+      "master": "2/1/2011",
+      "cand": "2/13/2011",
+      "src": "tourn"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "bergeron|zoe",
+      "master": "5/2/2006",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "boisvert|florence",
+      "master": "2/19/2011",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brown|mackenzie",
+      "master": "9/25/2013",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "campbell|grace",
+      "master": "6/28/2005",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cooper|lauren",
+      "master": "6/14/2005",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "daley|taylor",
+      "master": "12/28/2009",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dawson|danika",
+      "master": "5/28/2009",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dunn|ella",
+      "master": "7/15/2005",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "gustkey|iris",
+      "master": "11/30/2011",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "herman|julianna",
+      "master": "5/12/2005",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "hollenberg|morgan",
+      "master": "6/17/2009",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "hubbard|maya",
+      "master": "1/1/2010",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "anhalt|katherine",
+      "master": "",
+      "cand": "11/7/2006",
+      "src": "ep"
+     },
+     {
+      "pk": "arndt|madelyn",
+      "master": "",
+      "cand": "5/20/2012",
+      "src": "ep"
+     },
+     {
+      "pk": "ball|katherine",
+      "master": "",
+      "cand": "2/8/2008",
+      "src": "ep"
+     },
+     {
+      "pk": "barton|theresa",
+      "master": "",
+      "cand": "2/14/2008",
+      "src": "ep"
+     },
+     {
+      "pk": "bassen|emma",
+      "master": "",
+      "cand": "7/12/2010",
+      "src": "ep"
+     },
+     {
+      "pk": "bear|victoria",
+      "master": "",
+      "cand": "4/24/2006",
+      "src": "ep"
+     },
+     {
+      "pk": "belamisca|katherine",
+      "master": "",
+      "cand": "4/21/2011",
+      "src": "ep"
+     },
+     {
+      "pk": "belanger|elisabeth",
+      "master": "",
+      "cand": "11/17/2010",
+      "src": "prov"
+     },
+     {
+      "pk": "belanger|lillian",
+      "master": "",
+      "cand": "5/12/2011",
+      "src": "ep"
+     },
+     {
+      "pk": "belchamber|jessica",
+      "master": "",
+      "cand": "9/24/2008",
+      "src": "ep"
+     },
+     {
+      "pk": "betten|olivia",
+      "master": "",
+      "cand": "8/6/2008",
+      "src": "ep"
+     },
+     {
+      "pk": "bitarovska|estella",
+      "master": "",
+      "cand": "8/6/2011",
+      "src": "ep"
+     }
+    ]
+   },
+   "refinedByCand": 31,
+   "masterDayCandPartial": 339,
+   "partialSame": 166
+  },
+  "Grad": {
+   "same": 10504,
+   "differ": 106,
+   "masterOnly": 6,
+   "candOnly": 633,
+   "samples": {
+    "differ": [
+     {
+      "pk": "acomb|emma",
+      "master": 2027,
+      "cand": 2028,
+      "src": "tourn"
+     },
+     {
+      "pk": "anderson|arleigh",
+      "master": "GAP",
+      "cand": 2026,
+      "src": "tourn"
+     },
+     {
+      "pk": "anderson|hailey",
+      "master": 2023,
+      "cand": 2026,
+      "src": "tourn"
+     },
+     {
+      "pk": "armstrong|hayley",
+      "master": 2027,
+      "cand": 2028,
+      "src": "tourn"
+     },
+     {
+      "pk": "ashlyncook|mary",
+      "master": 2028,
+      "cand": 2029,
+      "src": "ndc"
+     },
+     {
+      "pk": "aslan|amanda",
+      "master": 2023,
+      "cand": 2026,
+      "src": "tourn"
+     },
+     {
+      "pk": "aucoin|anna",
+      "master": 2029,
+      "cand": 2030,
+      "src": "tourn"
+     },
+     {
+      "pk": "baird|addisyn",
+      "master": 2027,
+      "cand": 2026,
+      "src": "tourn"
+     },
+     {
+      "pk": "bannister|brinn",
+      "master": 2028,
+      "cand": 2029,
+      "src": "tourn"
+     },
+     {
+      "pk": "beaumont|annsophie",
+      "master": 27,
+      "cand": 2028,
+      "src": "tourn"
+     },
+     {
+      "pk": "bernard|melody",
+      "master": 27,
+      "cand": 2028,
+      "src": "tourn"
+     },
+     {
+      "pk": "boylan|nora",
+      "master": 2031,
+      "cand": 2030,
+      "src": "tourn"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "bromberg|jacqueline",
+      "master": "tba",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "choi|yehzie",
+      "master": 2031,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "healy|regan",
+      "master": 2028,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "hill|lucy",
+      "master": "PG",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "jawich|virginie",
+      "master": "CEGEP",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "pereiramorrey|elin",
+      "master": "PG",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "abadchisholm|elena",
+      "master": "",
+      "cand": 2026,
+      "src": "tourn"
+     },
+     {
+      "pk": "abdo|caroline",
+      "master": "",
+      "cand": 2030,
+      "src": "tourn"
+     },
+     {
+      "pk": "abougoush|sophia",
+      "master": "",
+      "cand": 2029,
+      "src": "tourn"
+     },
+     {
+      "pk": "abraham|lillian",
+      "master": "",
+      "cand": 2024,
+      "src": "tourn"
+     },
+     {
+      "pk": "adams|caroline",
+      "master": "",
+      "cand": 2026,
+      "src": "tourn"
+     },
+     {
+      "pk": "adkisson|vivienne",
+      "master": "",
+      "cand": 2028,
+      "src": "tourn"
+     },
+     {
+      "pk": "agbay|audrey",
+      "master": "",
+      "cand": 2025,
+      "src": "tourn"
+     },
+     {
+      "pk": "agrafojo|madeline",
+      "master": "",
+      "cand": 2027,
+      "src": "tourn"
+     },
+     {
+      "pk": "aistrop|katherine",
+      "master": "",
+      "cand": 2024,
+      "src": "tourn"
+     },
+     {
+      "pk": "aitken|hattie",
+      "master": "",
+      "cand": 2030,
+      "src": "tourn"
+     },
+     {
+      "pk": "ajakie|heather",
+      "master": "",
+      "cand": 2023,
+      "src": "tourn"
+     },
+     {
+      "pk": "alberts|lina",
+      "master": "",
+      "cand": 2028,
+      "src": "tourn"
+     }
+    ]
+   }
+  },
+  "Position": {
+   "same": 12086,
+   "differ": 140,
+   "masterOnly": 27,
+   "candOnly": 70,
+   "samples": {
+    "differ": [
+     {
+      "pk": "anderson|emmry",
+      "master": 0,
+      "cand": "G",
+      "src": "nepsac"
+     },
+     {
+      "pk": "archuleta|emily",
+      "master": "F",
+      "cand": "D",
+      "src": "nepsac"
+     },
+     {
+      "pk": "balmuth|hanna",
+      "master": 0,
+      "cand": "D",
+      "src": "nepsac"
+     },
+     {
+      "pk": "bellissimo|lauren",
+      "master": 0,
+      "cand": "F/D",
+      "src": "nepsac"
+     },
+     {
+      "pk": "bonin|emilie",
+      "master": "D",
+      "cand": "G",
+      "src": "ccm"
+     },
+     {
+      "pk": "bott|keeleigh",
+      "master": "D",
+      "cand": "F",
+      "src": "d3"
+     },
+     {
+      "pk": "bouchard|julianne",
+      "master": "F",
+      "cand": "D",
+      "src": "prov"
+     },
+     {
+      "pk": "brennan|abigail",
+      "master": "D",
+      "cand": "F",
+      "src": "d3"
+     },
+     {
+      "pk": "brewer|brooke",
+      "master": "F",
+      "cand": "D",
+      "src": "prov"
+     },
+     {
+      "pk": "brown|samantha",
+      "master": "F",
+      "cand": "D",
+      "src": "tourn"
+     },
+     {
+      "pk": "burton|ivy",
+      "master": "D",
+      "cand": "F",
+      "src": "tourn"
+     },
+     {
+      "pk": "caiazza|elsa",
+      "master": "D",
+      "cand": "F/D",
+      "src": "nepsac"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "akers|jaylin",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "calabro|rose",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cochran|isabella",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "david|kourtney",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dickson|priscilla",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "duffany|estelle",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "fitch|zoe",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "hainsworth|zoe",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "han|rina",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "hester|emily",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "jacobs|lucy",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "kiniry|isobel",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "adler|kaija",
+      "master": "",
+      "cand": "F",
+      "src": "nepsac"
+     },
+     {
+      "pk": "anabe|malaya",
+      "master": "",
+      "cand": "D",
+      "src": "nepsac"
+     },
+     {
+      "pk": "aube|brigitte",
+      "master": "",
+      "cand": "F",
+      "src": "colrosters"
+     },
+     {
+      "pk": "bauman|avery",
+      "master": "",
+      "cand": "D",
+      "src": "tourn"
+     },
+     {
+      "pk": "baumannnorris|kayla",
+      "master": "",
+      "cand": "D",
+      "src": "nepsac"
+     },
+     {
+      "pk": "benoit|tilly",
+      "master": "",
+      "cand": "F",
+      "src": "tourn"
+     },
+     {
+      "pk": "bergeron|riley",
+      "master": "",
+      "cand": "F",
+      "src": "ma"
+     },
+     {
+      "pk": "berlucchi|lindsey",
+      "master": "",
+      "cand": "D",
+      "src": "nepsac"
+     },
+     {
+      "pk": "bowden|lexi",
+      "master": "",
+      "cand": "F",
+      "src": "tourn"
+     },
+     {
+      "pk": "buesching|megan",
+      "master": "",
+      "cand": "D",
+      "src": "ep"
+     },
+     {
+      "pk": "bush|lauren",
+      "master": "",
+      "cand": "F",
+      "src": "nepsac"
+     },
+     {
+      "pk": "butkus|catherine",
+      "master": "",
+      "cand": "D",
+      "src": "nepsac"
+     }
+    ]
+   }
+  },
+  "Height": {
+   "same": 4598,
+   "differ": 180,
+   "masterOnly": 45,
+   "candOnly": 297,
+   "samples": {
+    "differ": [
+     {
+      "pk": "aanenson|maiah",
+      "master": "5'4\"",
+      "cand": "5'6\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "abougoush|sophia",
+      "master": "5'11\"",
+      "cand": "5'10\"",
+      "src": "prov"
+     },
+     {
+      "pk": "anderson|victoria",
+      "master": "5'5\"",
+      "cand": "5'4\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "anderson|vivienne",
+      "master": "5'7\"",
+      "cand": "5'8\"",
+      "src": "ndc"
+     },
+     {
+      "pk": "aquilina|sarah",
+      "master": "5'5\"",
+      "cand": "5'6\"",
+      "src": "tourn"
+     },
+     {
+      "pk": "ashlyncook|mary",
+      "master": "5’1”",
+      "cand": "5'3\"",
+      "src": "ndc"
+     },
+     {
+      "pk": "benakova|lilien",
+      "master": "5'7\"",
+      "cand": "5'5\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "benedict|carmen",
+      "master": "5’2”",
+      "cand": "5'3\"",
+      "src": "ndc"
+     },
+     {
+      "pk": "biderman|soren",
+      "master": "5'7\"",
+      "cand": "5'6\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "bihannic|camille",
+      "master": "5'6\"",
+      "cand": "5'8\"",
+      "src": "prov"
+     },
+     {
+      "pk": "biros|emma",
+      "master": "5'9\"",
+      "cand": "5'8\"",
+      "src": "prov"
+     },
+     {
+      "pk": "blanchard|alyson",
+      "master": "5'4\"",
+      "cand": "5'3\"",
+      "src": "prov"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "arsenault|maxine",
+      "master": "5'4\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "bergeron|zoe",
+      "master": "5'6\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "boisvert|florence",
+      "master": "5'4\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brown|mackenzie",
+      "master": "5'4\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "chan|alexa",
+      "master": "5'2\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cooper|grace",
+      "master": "5'6\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cooper|lauren",
+      "master": "5'4\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dalecka|barbora",
+      "master": "5'4\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "daley|taylor",
+      "master": "5'6\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dawson|danika",
+      "master": "5'6\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "fuchs|julia",
+      "master": "5'7\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "gibson|taylor",
+      "master": "5'7\"",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "abraham|lillian",
+      "master": "",
+      "cand": "5'4\"",
+      "src": "ep"
+     },
+     {
+      "pk": "ajakie|heather",
+      "master": "",
+      "cand": "5'3\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "allen|mackenzie",
+      "master": "",
+      "cand": "5'8\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "amundson|devyn",
+      "master": "",
+      "cand": "5'7\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "anderson|paige",
+      "master": "",
+      "cand": "5'7\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "arndt|madelyn",
+      "master": "",
+      "cand": "5'7\"",
+      "src": "ep"
+     },
+     {
+      "pk": "arsenault|thea",
+      "master": "",
+      "cand": "5'6\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "aube|brigitte",
+      "master": "",
+      "cand": "5'2\"",
+      "src": "colrosters"
+     },
+     {
+      "pk": "austin|katherine",
+      "master": "",
+      "cand": "5'7\"",
+      "src": "ep"
+     },
+     {
+      "pk": "baggs|alannah",
+      "master": "",
+      "cand": "5'3\"",
+      "src": "ep"
+     },
+     {
+      "pk": "ball|katherine",
+      "master": "",
+      "cand": "5'6\"",
+      "src": "ep"
+     },
+     {
+      "pk": "banks|anne",
+      "master": "",
+      "cand": "5'6\"",
+      "src": "ep"
+     }
+    ]
+   }
+  },
+  "Weight": {
+   "same": 2566,
+   "differ": 123,
+   "masterOnly": 24,
+   "candOnly": 85,
+   "samples": {
+    "differ": [
+     {
+      "pk": "allen|madeline",
+      "master": 145,
+      "cand": 160,
+      "src": "ndc"
+     },
+     {
+      "pk": "allison|rylee",
+      "master": 120,
+      "cand": 135,
+      "src": "ndc"
+     },
+     {
+      "pk": "ashlyncook|mary",
+      "master": 110,
+      "cand": 130,
+      "src": "ndc"
+     },
+     {
+      "pk": "bailey|eleanor",
+      "master": 120,
+      "cand": 125,
+      "src": "ndc"
+     },
+     {
+      "pk": "beigel|teagan",
+      "master": 130,
+      "cand": 135,
+      "src": "ndc"
+     },
+     {
+      "pk": "benedict|carmen",
+      "master": 123,
+      "cand": 120,
+      "src": "ndc"
+     },
+     {
+      "pk": "blier|gabriella",
+      "master": 115,
+      "cand": 120,
+      "src": "ndc"
+     },
+     {
+      "pk": "bornhoeft|alexis",
+      "master": 125,
+      "cand": 135,
+      "src": "ndc"
+     },
+     {
+      "pk": "brennan|zoey",
+      "master": 120,
+      "cand": 128,
+      "src": "ndc"
+     },
+     {
+      "pk": "brodsky|lillian",
+      "master": 160,
+      "cand": 165,
+      "src": "ndc"
+     },
+     {
+      "pk": "brown|lyla",
+      "master": 130,
+      "cand": 135,
+      "src": "ndc"
+     },
+     {
+      "pk": "burns|simone",
+      "master": 130,
+      "cand": 135,
+      "src": "ndc"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "boisvert|florence",
+      "master": 119,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "campbell|grace",
+      "master": 134,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "castellanos|claudia",
+      "master": 141,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "chan|alexa",
+      "master": 126,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cooper|grace",
+      "master": 119,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dalecka|barbora",
+      "master": 117,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "daley|taylor",
+      "master": 130,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dawson|danika",
+      "master": 141,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "fuchs|julia",
+      "master": 154,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "johnson|emily",
+      "master": 119,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "martin|mihiri",
+      "master": 79,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "mcdonald|hayley",
+      "master": 152,
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "arndt|madelyn",
+      "master": "",
+      "cand": 150,
+      "src": "ep"
+     },
+     {
+      "pk": "ball|katherine",
+      "master": "",
+      "cand": 134,
+      "src": "ep"
+     },
+     {
+      "pk": "barnes|mikayla",
+      "master": "",
+      "cand": 120,
+      "src": "prov"
+     },
+     {
+      "pk": "bennett|sophia",
+      "master": "",
+      "cand": 170,
+      "src": "ep"
+     },
+     {
+      "pk": "bernard|jc",
+      "master": "",
+      "cand": 119,
+      "src": "ep"
+     },
+     {
+      "pk": "betten|olivia",
+      "master": "",
+      "cand": 137,
+      "src": "ep"
+     },
+     {
+      "pk": "blakestpierre|summer",
+      "master": "",
+      "cand": 137,
+      "src": "ep"
+     },
+     {
+      "pk": "boomhour|eleanor",
+      "master": "",
+      "cand": 134,
+      "src": "ep"
+     },
+     {
+      "pk": "bouchard|katherine",
+      "master": "",
+      "cand": 119,
+      "src": "ep"
+     },
+     {
+      "pk": "bridgen|allison",
+      "master": "",
+      "cand": 150,
+      "src": "ep"
+     },
+     {
+      "pk": "bromberg|jacqueline",
+      "master": "",
+      "cand": 143,
+      "src": "ep"
+     },
+     {
+      "pk": "brown|allison",
+      "master": "",
+      "cand": 130,
+      "src": "ep"
+     }
+    ]
+   }
+  },
+  "GPA": {
+   "same": 1052,
+   "differ": 101,
+   "masterOnly": 8,
+   "candOnly": 1,
+   "samples": {
+    "differ": [
+     {
+      "pk": "allen|madeline",
+      "master": 3.7,
+      "cand": 3.8,
+      "src": "ndc"
+     },
+     {
+      "pk": "ashlyncook|mary",
+      "master": 3.8,
+      "cand": 3.5,
+      "src": "ndc"
+     },
+     {
+      "pk": "babbitt|ashley",
+      "master": 3.9,
+      "cand": 3.8,
+      "src": "ndc"
+     },
+     {
+      "pk": "bailey|eleanor",
+      "master": 3.5,
+      "cand": 3.8,
+      "src": "ndc"
+     },
+     {
+      "pk": "benedict|carmen",
+      "master": 3.9,
+      "cand": 4,
+      "src": "ndc"
+     },
+     {
+      "pk": "blier|gabriella",
+      "master": 3.4,
+      "cand": 3.5,
+      "src": "ndc"
+     },
+     {
+      "pk": "brennan|zoey",
+      "master": 3.8,
+      "cand": 4,
+      "src": "ndc"
+     },
+     {
+      "pk": "brodsky|lillian",
+      "master": 3.7,
+      "cand": 3.8,
+      "src": "ndc"
+     },
+     {
+      "pk": "burns|simone",
+      "master": 3.9,
+      "cand": 3.8,
+      "src": "ndc"
+     },
+     {
+      "pk": "buzinski|quinnlyn",
+      "master": 3.9,
+      "cand": 3.8,
+      "src": "ndc"
+     },
+     {
+      "pk": "callinan|allison",
+      "master": 3.8,
+      "cand": 3.9,
+      "src": "ndc"
+     },
+     {
+      "pk": "carlson|brooke",
+      "master": 4.4,
+      "cand": 3.9,
+      "src": "ndc"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "averill|caroline",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "averill|elizabeth",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "averill|margaret",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "carlstrom|addison",
+      "master": 5.6,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dipietro|lyla",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "fontana|elise",
+      "master": 5.1,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "mcgrath|lucia",
+      "master": 5.2,
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "singh|anika",
+      "master": 0,
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "derrenbacher|mary",
+      "master": "",
+      "cand": 4,
+      "src": "ndc"
+     }
+    ]
+   }
+  },
+  "City": {
+   "same": 4112,
+   "differ": 18,
+   "masterOnly": 0,
+   "candOnly": 198,
+   "samples": {
+    "differ": [
+     {
+      "pk": "boico|alexandra",
+      "master": "Bad Tölz",
+      "cand": "Bad Tolz",
+      "src": "commits"
+     },
+     {
+      "pk": "caiazza|elsa",
+      "master": "California",
+      "cand": "Encinitas",
+      "src": "nepsac"
+     },
+     {
+      "pk": "draheim|ilamay",
+      "master": "Waseca",
+      "cand": "Eagle Lake",
+      "src": "ndc"
+     },
+     {
+      "pk": "fields|sage",
+      "master": "Aspen CO",
+      "cand": "Aspen",
+      "src": "nepsac"
+     },
+     {
+      "pk": "fylling|lydia",
+      "master": "Bismarck",
+      "cand": "Warroad",
+      "src": "ndc"
+     },
+     {
+      "pk": "giguere|charlotte",
+      "master": "Longueuil - QC",
+      "cand": "Longueuil",
+      "src": "commits"
+     },
+     {
+      "pk": "grotness|ada",
+      "master": "Andover NH",
+      "cand": "Andover",
+      "src": "nepsac"
+     },
+     {
+      "pk": "kealty|lydia",
+      "master": "Norfolk",
+      "cand": "Lynn",
+      "src": "ndc"
+     },
+     {
+      "pk": "koski|brooke",
+      "master": "Duluth",
+      "cand": "Esko",
+      "src": "ndc"
+     },
+     {
+      "pk": "morris|montana",
+      "master": "McKinney",
+      "cand": "Whitewright",
+      "src": "ndc"
+     },
+     {
+      "pk": "netten|caroline",
+      "master": "Hallowell",
+      "cand": "Hollowell",
+      "src": "nepsac"
+     },
+     {
+      "pk": "piconi|fiona",
+      "master": "VT",
+      "cand": "Hebron",
+      "src": "nepsac"
+     }
+    ],
+    "masterOnly": [],
+    "candOnly": [
+     {
+      "pk": "abrams|ellis",
+      "master": "",
+      "cand": "McLean",
+      "src": "tourn"
+     },
+     {
+      "pk": "agrafojo|madeline",
+      "master": "",
+      "cand": "Suffield",
+      "src": "nepsac"
+     },
+     {
+      "pk": "ajakie|heather",
+      "master": "",
+      "cand": "College Grove",
+      "src": "colrosters"
+     },
+     {
+      "pk": "akiya|ailee",
+      "master": "",
+      "cand": "Wauwatosa",
+      "src": "tourn"
+     },
+     {
+      "pk": "allen|mackenzie",
+      "master": "",
+      "cand": "Toronto",
+      "src": "colrosters"
+     },
+     {
+      "pk": "amato|mia",
+      "master": "",
+      "cand": "Billerica",
+      "src": "commits"
+     },
+     {
+      "pk": "amundson|darby",
+      "master": "",
+      "cand": "Cypress County",
+      "src": "tourn"
+     },
+     {
+      "pk": "amundson|devyn",
+      "master": "",
+      "cand": "Medicine Hat",
+      "src": "colrosters"
+     },
+     {
+      "pk": "anderson|ali",
+      "master": "",
+      "cand": "Northbrook",
+      "src": "tourn"
+     },
+     {
+      "pk": "armstrong|peyton",
+      "master": "",
+      "cand": "Bancroft",
+      "src": "colrosters"
+     },
+     {
+      "pk": "atkinson|avery",
+      "master": "",
+      "cand": "Stouffville",
+      "src": "tourn"
+     },
+     {
+      "pk": "ayers|jorja",
+      "master": "",
+      "cand": "Saskatoon",
+      "src": "tourn"
+     }
+    ]
+   }
+  },
+  "State": {
+   "same": 3997,
+   "differ": 1223,
+   "masterOnly": 0,
+   "candOnly": 120,
+   "samples": {
+    "differ": [
+     {
+      "pk": "aarts|addison",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "ccm"
+     },
+     {
+      "pk": "abougoush|sophia",
+      "master": "BCO",
+      "cand": "BC",
+      "src": "prov"
+     },
+     {
+      "pk": "accardi|martina",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "commits"
+     },
+     {
+      "pk": "adler|hannah",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "prov"
+     },
+     {
+      "pk": "adm|charlize",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "prov"
+     },
+     {
+      "pk": "adomaitis|addison",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "ccm"
+     },
+     {
+      "pk": "ahlberg|hannah",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "ccm"
+     },
+     {
+      "pk": "aiken|alexa",
+      "master": "PEI",
+      "cand": "PE",
+      "src": "prov"
+     },
+     {
+      "pk": "aird|maeve",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "ccm"
+     },
+     {
+      "pk": "alcock|margaret",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "prov"
+     },
+     {
+      "pk": "aleong|katelyn",
+      "master": "BCO",
+      "cand": "BC",
+      "src": "commits"
+     },
+     {
+      "pk": "alexander|mackenzie",
+      "master": "ONT",
+      "cand": "ON",
+      "src": "prov"
+     }
+    ],
+    "masterOnly": [],
+    "candOnly": [
+     {
+      "pk": "abel|brooklyn",
+      "master": "",
+      "cand": "MA",
+      "src": "ma"
+     },
+     {
+      "pk": "agrafojo|madeline",
+      "master": "",
+      "cand": "CT",
+      "src": "nepsac"
+     },
+     {
+      "pk": "ajakie|heather",
+      "master": "",
+      "cand": "TN",
+      "src": "colrosters"
+     },
+     {
+      "pk": "allain|harlan",
+      "master": "",
+      "cand": "MA",
+      "src": "ma"
+     },
+     {
+      "pk": "allen|mackenzie",
+      "master": "",
+      "cand": "ON",
+      "src": "colrosters"
+     },
+     {
+      "pk": "amundson|devyn",
+      "master": "",
+      "cand": "AB",
+      "src": "colrosters"
+     },
+     {
+      "pk": "armstrong|peyton",
+      "master": "",
+      "cand": "ON",
+      "src": "colrosters"
+     },
+     {
+      "pk": "barcomb|estella",
+      "master": "",
+      "cand": "MA",
+      "src": "ma"
+     },
+     {
+      "pk": "barnes|blake",
+      "master": "",
+      "cand": "MA",
+      "src": "ma"
+     },
+     {
+      "pk": "bergeron|riley",
+      "master": "",
+      "cand": "MA",
+      "src": "ma"
+     },
+     {
+      "pk": "beyor|madison",
+      "master": "",
+      "cand": "NH",
+      "src": "nepsac"
+     },
+     {
+      "pk": "bowtell|madison",
+      "master": "",
+      "cand": "BC",
+      "src": "colrosters"
+     }
+    ]
+   }
+  },
+  "Country": {
+   "same": 12197,
+   "differ": 96,
+   "masterOnly": 31,
+   "candOnly": 16,
+   "samples": {
+    "differ": [
+     {
+      "pk": "allen|lucy",
+      "master": "CAN",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "aspaas|anneka",
+      "master": "CAN",
+      "cand": "US",
+      "src": "state"
+     },
+     {
+      "pk": "baker|samantha",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     },
+     {
+      "pk": "balmuth|hanna",
+      "master": "Asia",
+      "cand": "Intl",
+      "src": "state"
+     },
+     {
+      "pk": "bass|keira",
+      "master": "CAN",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "beavis|reese",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     },
+     {
+      "pk": "beckman|layla",
+      "master": "CAN",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "brown|samantha",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     },
+     {
+      "pk": "buckler|phoenix",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     },
+     {
+      "pk": "callander|keeley",
+      "master": "CAN",
+      "cand": "US",
+      "src": "colrosters"
+     },
+     {
+      "pk": "campbell|grace",
+      "master": "CAN",
+      "cand": "US",
+      "src": "colrosters"
+     },
+     {
+      "pk": "carr|abigail",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "abysalh|emma",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "anderson|alison",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "bertholet|fergie",
+      "master": "CAN",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "boisvert|florence",
+      "master": "CAN",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "chen|jessica",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "choi|yehzie",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cohen|gabriella",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "danielson|francesca",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "danik|katherine",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "doyle|renee",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "feldman|mina",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "ford|isla",
+      "master": "CAN",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "advani|norah",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "barnes|blake",
+      "master": "",
+      "cand": "US",
+      "src": "ma"
+     },
+     {
+      "pk": "caramante|madison",
+      "master": "",
+      "cand": "US",
+      "src": "nepsac"
+     },
+     {
+      "pk": "edgar|baylin",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "effihiezl|reka",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "erickson|rocky",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "greelish|jessey",
+      "master": "",
+      "cand": "US",
+      "src": "nepsac"
+     },
+     {
+      "pk": "hall|katherine",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "lehtinen|estella",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "lindgren|addi",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "mah|morgan",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "mcinerney|abigail",
+      "master": "",
+      "cand": "US",
+      "src": "nepsac"
+     }
+    ]
+   }
+  },
+  "School": {
+   "same": 2876,
+   "differ": 44,
+   "masterOnly": 15,
+   "candOnly": 25,
+   "samples": {
+    "differ": [
+     {
+      "pk": "asbach|brooklyn",
+      "master": "St Marks",
+      "cand": "BK Selects",
+      "src": "ndc"
+     },
+     {
+      "pk": "bailey|eleanor",
+      "master": "Os Winter League",
+      "cand": "Rogers HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "benedict|carmen",
+      "master": "Shakopee HS",
+      "cand": "Minnetonka HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "brady|morgan",
+      "master": "Tilton",
+      "cand": "Lovell Academy",
+      "src": "commits"
+     },
+     {
+      "pk": "buccicone|annabelle",
+      "master": "Centennial",
+      "cand": "Centennial/SLP HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "buco|alexa",
+      "master": "Mount St Charles",
+      "cand": "Loomis",
+      "src": "ndc"
+     },
+     {
+      "pk": "callinan|allison",
+      "master": "Wayzata Youth Hockey",
+      "cand": "Holy Family HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "caramante|madison",
+      "master": "Mount St Charles",
+      "cand": "Frederick Gunn",
+      "src": "nepsac"
+     },
+     {
+      "pk": "carlson|poppy",
+      "master": "Minnetonka High School",
+      "cand": "Minnetonka HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "cohen|charlotte",
+      "master": "St Pauls",
+      "cand": "Groton",
+      "src": "ndc"
+     },
+     {
+      "pk": "collins|katherine",
+      "master": "Brewster",
+      "cand": "Lovell Academy",
+      "src": "ndc"
+     },
+     {
+      "pk": "combe|reese",
+      "master": "Kimball Union",
+      "cand": "Northwood School",
+      "src": "commits"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "becerra|julie",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "crowder|anabella",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "eaton|kayla",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "flaherty|avery",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "grewal|siya",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "healy|clare",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "jones|tennessee",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "kaczor|mikayla",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "kooistra|emma",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "mccann|violet",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "mccready|mia",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "sherman|finley",
+      "master": "BK Selects",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "agrafojo|madeline",
+      "master": "",
+      "cand": "Kents Hill",
+      "src": "nepsac"
+     },
+     {
+      "pk": "ashlyncook|mary",
+      "master": "",
+      "cand": "Lovell Academy",
+      "src": "ndc"
+     },
+     {
+      "pk": "beyor|madison",
+      "master": "",
+      "cand": "Lawrence Academy",
+      "src": "nepsac"
+     },
+     {
+      "pk": "blair|sedona",
+      "master": "",
+      "cand": "Holy Family HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "buzinski|quinnlyn",
+      "master": "",
+      "cand": "Culver Academies",
+      "src": "ndc"
+     },
+     {
+      "pk": "cullen|teagan",
+      "master": "",
+      "cand": "Alexandria",
+      "src": "tourn"
+     },
+     {
+      "pk": "demain|theresa",
+      "master": "",
+      "cand": "St Pauls",
+      "src": "ndc"
+     },
+     {
+      "pk": "ferch|sydney",
+      "master": "",
+      "cand": "Culver Academies",
+      "src": "ndc"
+     },
+     {
+      "pk": "frazeur|addison",
+      "master": "",
+      "cand": "Culver Academies",
+      "src": "ndc"
+     },
+     {
+      "pk": "golden|giuliana",
+      "master": "",
+      "cand": "Shattuck-St. Mary's",
+      "src": "ndc"
+     },
+     {
+      "pk": "hanson|gracie",
+      "master": "",
+      "cand": "Lakeville North HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "huggett|gwen",
+      "master": "",
+      "cand": "Litchfield/DasselCokato",
+      "src": "tourn"
+     }
+    ]
+   }
+  },
+  "Team2024": {
+   "same": 3162,
+   "differ": 632,
+   "masterOnly": 16,
+   "candOnly": 35,
+   "samples": {
+    "differ": [
+     {
+      "pk": "abadchisholm|elena",
+      "master": "Okanagan Hockeyacademy Edmonton U22",
+      "cand": "OHA Edmonton U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "adler|hannah",
+      "master": "Sudbury Lady Wolves U18",
+      "cand": "Sudbury Lady Wolves U15",
+      "src": "rosters"
+     },
+     {
+      "pk": "adomaitis|addison",
+      "master": "North York Storm U18",
+      "cand": "North York Storm U15",
+      "src": "rosters"
+     },
+     {
+      "pk": "agnello|macy",
+      "master": "Waterloo Ravens U18",
+      "cand": "Waterloo Ravens U15",
+      "src": "rosters"
+     },
+     {
+      "pk": "albert|chloe",
+      "master": "Cambridge U18",
+      "cand": "Cambridge Roadrunners U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "alexander|quinn",
+      "master": "Toronto-Leaside U15",
+      "cand": "Etobicoke Dolphins U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "allen|alyssa",
+      "master": "FL Alliance 19U",
+      "cand": "Florida Alliance 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "amores|giavanna",
+      "master": "NJ Colonials 16U",
+      "cand": "NJ Colonials 14U",
+      "src": "rosters"
+     },
+     {
+      "pk": "amsberry|addyson",
+      "master": "FL Alliance 14U",
+      "cand": "Florida Alliance 14U",
+      "src": "rosters"
+     },
+     {
+      "pk": "anderson|opal",
+      "master": "MN Northern Elite 19U",
+      "cand": "MN Northern Elite 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "anderson|vanessa",
+      "master": "Peterborough U18",
+      "cand": "Peterborough U15",
+      "src": "rosters"
+     },
+     {
+      "pk": "andreoli|dakota",
+      "master": "Calendon U18",
+      "cand": "Caledon U18",
+      "src": "rosters"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "day|keara",
+      "master": "BK Selects 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "evans|gabriella",
+      "master": "Belle Tire 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "fanale|mikayla",
+      "master": "BK Selects 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "healy|clare",
+      "master": "BK Selects 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "healy|regan",
+      "master": "Rochester Jr Americans 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "karsh|remi",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "klein|sadie",
+      "master": "BK Selects 19U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "marrale|riley",
+      "master": "Nichols 19U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "olesen|olivia",
+      "master": "BK Selects 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "pescetti|aly",
+      "master": "Burlington Barracudas U22",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "petro|abbey",
+      "master": "North York Storm U18",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "rosenbaumova|ester",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "banks|anne",
+      "master": "",
+      "cand": "Lovell Academy 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "baratta|faith",
+      "master": "",
+      "cand": "Lovell Academy 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "benedict|alexis",
+      "master": "",
+      "cand": "HoneyBaked 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "blue|tivoli",
+      "master": "",
+      "cand": "Philadelphia Jr Flyers 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "boehm|isabella",
+      "master": "",
+      "cand": "Lovell Academy 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "colpitts|madelaine",
+      "master": "",
+      "cand": "Moncton Rockets U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "cormier|melodie",
+      "master": "",
+      "cand": "Moncton Rockets U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "corraro|callie",
+      "master": "",
+      "cand": "Lovell Academy 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "daniel|annabelle",
+      "master": "",
+      "cand": "Moncton Rockets U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "elijah|sydney",
+      "master": "",
+      "cand": "Lovell Academy 14U",
+      "src": "rosters"
+     },
+     {
+      "pk": "elizarkov|anna",
+      "master": "",
+      "cand": "Lovell Academy 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "gleicher|alana",
+      "master": "",
+      "cand": "Lovell Academy 19U",
+      "src": "rosters"
+     }
+    ]
+   }
+  },
+  "Team2025": {
+   "same": 4603,
+   "differ": 748,
+   "masterOnly": 30,
+   "candOnly": 8,
+   "samples": {
+    "differ": [
+     {
+      "pk": "abadchisholm|elena",
+      "master": "OHA Edmonton 19U",
+      "cand": "OHA Edmonton U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "adams|callie",
+      "master": "Winnipeg Ice 19U",
+      "cand": "Winnipeg Ice U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "advani|mila",
+      "master": "Shattuck-St. Mary's 19U",
+      "cand": "Shattuck-St. Mary's Prep 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "albert|chloe",
+      "master": "Cambridge U18",
+      "cand": "Cambridge Roadrunners U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "allan|bret",
+      "master": "Saskatoon Stars 19U",
+      "cand": "Saskatoon Stars U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "almeida|adriana",
+      "master": "Winnipeg Avros 19U",
+      "cand": "Winnipeg Avros U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "amato|mia",
+      "master": "East Coast Wizards-2 16U",
+      "cand": "East Coast Wizards 16-2",
+      "src": "rosters"
+     },
+     {
+      "pk": "amelkovich|kylie",
+      "master": "Shattuck-St. Mary's 19U",
+      "cand": "Shattuck-St. Mary's Prep 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "amundson|darby",
+      "master": "Delta Hockey Academy Green U22",
+      "cand": "Delta Hockey Academy - Green U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "anderson|ayla",
+      "master": "Saskatoon Stars 19U",
+      "cand": "Saskatoon Stars U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "anderson|cecilia",
+      "master": "Boston Jr Eagles-2 16U",
+      "cand": "Boston Jr Eagles 16-2",
+      "src": "rosters"
+     },
+     {
+      "pk": "araujo|emily",
+      "master": "Lovell Academy 16U",
+      "cand": "Lovell Academy 19U",
+      "src": "rosters"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "amagata|sayako",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "anderson|alison",
+      "master": "Windy City Storm 14U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "benson|jazmyn",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brennan|zoey",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "burton|ivy",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "byrne|daly",
+      "master": "Windy City Storm 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "carr|riley",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cellarova|nina",
+      "master": "Oha Maverick Prep U18",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "choi|yehzie",
+      "master": "Windy City Storm 14U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "clemons|ranya",
+      "master": "Belle Tire 19U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "collins|reese",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cook|ashlyn",
+      "master": "Lovell Academy 16U",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "flanagan|reese",
+      "master": "",
+      "cand": "Kitchener U15",
+      "src": "rosters"
+     },
+     {
+      "pk": "healy|reagan",
+      "master": "",
+      "cand": "Rochester Jr Americans 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "kirsch|madyson",
+      "master": "",
+      "cand": "Pittsburgh Penguins Elite 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "maralle|riley",
+      "master": "",
+      "cand": "Nichols 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "mccrann|aniston",
+      "master": "",
+      "cand": "East Ottawa Stars U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "morrison|julianna",
+      "master": "",
+      "cand": "Lovell Academy 19-2",
+      "src": "rosters"
+     },
+     {
+      "pk": "muir|savanna",
+      "master": "",
+      "cand": "BK Selects 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "zhang|sissi",
+      "master": "",
+      "cand": "Markham-Stouffville U18",
+      "src": "rosters"
+     }
+    ]
+   }
+  },
+  "Team2026": {
+   "same": 4267,
+   "differ": 298,
+   "masterOnly": 4,
+   "candOnly": 8,
+   "samples": {
+    "differ": [
+     {
+      "pk": "abougoush|sophia",
+      "master": "Rink Hockey Academy - Kelowna U18",
+      "cand": "RINK Kelowna U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "albert|chloe",
+      "master": "Cambridge U18",
+      "cand": "Cambridge Roadrunners U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "allan|emersyn",
+      "master": "Rink Hockey Academy - Kelowna U18",
+      "cand": "RINK Kelowna U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "allen|lucy",
+      "master": "Les Olympiques De Loutaouais U18",
+      "cand": "Anaheim 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "amundson|darby",
+      "master": "South Alberta Hockey Academy - Prep U18",
+      "cand": "South Alberta Hockey Academy U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "annett|julia",
+      "master": "Cambridge U22",
+      "cand": "Cambridge Roadrunners U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "ayers|jorja",
+      "master": "Rink Hockey Academy - Kelowna U18",
+      "cand": "RINK Kelowna U22",
+      "src": "rosters"
+     },
+     {
+      "pk": "ayles|jade",
+      "master": "Cambridge U18",
+      "cand": "Cambridge Roadrunners U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "bass|keira",
+      "master": "Les Olympiques De Loutaouais U18",
+      "cand": "Anaheim 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "bast|hannah",
+      "master": "Cambridge U18",
+      "cand": "Cambridge Roadrunners U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "beauchamp|audree",
+      "master": "Cornwall U18",
+      "cand": "Cornwall Lady Royals U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "beaulieucurry|sophia",
+      "master": "Cambridge U18",
+      "cand": "Cambridge Roadrunners U18",
+      "src": "rosters"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "choi|yehzie",
+      "master": "Windy City Storm 14U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "healy|regan",
+      "master": "Rochester Jr Americans 19U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "kearney|anabella",
+      "master": "Culver Academies 16U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "marrale|riley",
+      "master": "Nichols 19U",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "choi|yehzei",
+      "master": "",
+      "cand": "Windy City Storm 14U",
+      "src": "rosters"
+     },
+     {
+      "pk": "comeau|lilydon",
+      "master": "",
+      "cand": "Thunder Bay Queens U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "heflin|lillian",
+      "master": "",
+      "cand": "Team Illinois 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "kasper|isabella",
+      "master": "",
+      "cand": "Philadelphia Jr Flyers 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "kearney|isabella",
+      "master": "",
+      "cand": "Culver Academies 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "loewenberg|gwenyth",
+      "master": "",
+      "cand": "Madison Capitols 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "riska|madeline",
+      "master": "",
+      "cand": "HoneyBaked 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "speidel|hailey",
+      "master": "",
+      "cand": "Madison Capitols 19U",
+      "src": "rosters"
+     }
+    ]
+   }
+  },
+  "Team": {
+   "same": 1767,
+   "differ": 120,
+   "masterOnly": 0,
+   "candOnly": 562,
+   "samples": {
+    "differ": [
+     {
+      "pk": "aird|maeve",
+      "master": "Whitby",
+      "cand": "Whitby Wolves",
+      "src": "prov"
+     },
+     {
+      "pk": "ashlyncook|mary",
+      "master": "Dallas Stars",
+      "cand": "Lovell Academy",
+      "src": "ndc"
+     },
+     {
+      "pk": "averill|danica",
+      "master": "Waterloo",
+      "cand": "Waterloo Ravens",
+      "src": "prov"
+     },
+     {
+      "pk": "babey|sage",
+      "master": "RHA Kelowna",
+      "cand": "RINK Kelowna",
+      "src": "prov"
+     },
+     {
+      "pk": "ball|kathryn",
+      "master": "Centennial",
+      "cand": "Centennial/Spring Lake Park HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "beeksma|courtney",
+      "master": "Cambridge",
+      "cand": "Cambridge Roadrunners",
+      "src": "prov"
+     },
+     {
+      "pk": "beigel|teagan",
+      "master": "Boston Jr Eagles",
+      "cand": "Dexter",
+      "src": "ndc"
+     },
+     {
+      "pk": "belanger|eva",
+      "master": "Shattuck St-Mary's",
+      "cand": "Shattuck-St. Mary's",
+      "src": "prov"
+     },
+     {
+      "pk": "bell|caitlyn",
+      "master": "Rha Kelowna",
+      "cand": "RINK Kelowna",
+      "src": "prov"
+     },
+     {
+      "pk": "bergeron|jolianne",
+      "master": "Stars 55 Mauricie-CDQ",
+      "cand": "Stars",
+      "src": "prov"
+     },
+     {
+      "pk": "bouchard|julianne",
+      "master": "John Abbott College",
+      "cand": "John Abbott College (QC)",
+      "src": "prov"
+     },
+     {
+      "pk": "brassard|makenna",
+      "master": "Okanagan Hockey Academy Penticton",
+      "cand": "OHA Penticton",
+      "src": "prov"
+     }
+    ],
+    "masterOnly": [],
+    "candOnly": [
+     {
+      "pk": "abougoush|sophia",
+      "master": "",
+      "cand": "RINK Kelowna",
+      "src": "prov"
+     },
+     {
+      "pk": "abrahamson|ashlyn",
+      "master": "",
+      "cand": "Devils Lake High School",
+      "src": "ndc"
+     },
+     {
+      "pk": "allison|rylee",
+      "master": "",
+      "cand": "BK Selects",
+      "src": "ndc"
+     },
+     {
+      "pk": "amagata|sayako",
+      "master": "",
+      "cand": "Tri-Valley Bulls",
+      "src": "ndc"
+     },
+     {
+      "pk": "amato|mia",
+      "master": "",
+      "cand": "East Coast Wizards",
+      "src": "commits"
+     },
+     {
+      "pk": "anderson|ashley",
+      "master": "",
+      "cand": "Williston Northampton & East Coast Wizards",
+      "src": "ndc"
+     },
+     {
+      "pk": "anderson|vivienne",
+      "master": "",
+      "cand": "Orono HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "andre|addison",
+      "master": "",
+      "cand": "East Ridge HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "andrews|pyper",
+      "master": "",
+      "cand": "Andover",
+      "src": "ndc"
+     },
+     {
+      "pk": "angellotti|samantha",
+      "master": "",
+      "cand": "Andover HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "anthony|olivia",
+      "master": "",
+      "cand": "Warroad HS",
+      "src": "ndc"
+     },
+     {
+      "pk": "antonenko|evelyn",
+      "master": "",
+      "cand": "Orono HS",
+      "src": "ndc"
+     }
+    ]
+   }
+  },
+  "College": {
+   "same": 2075,
+   "differ": 6,
+   "masterOnly": 0,
+   "candOnly": 13,
+   "samples": {
+    "differ": [
+     {
+      "pk": "kelsch|adrianna",
+      "master": "Endicott",
+      "cand": "UMassBoston",
+      "src": "d3"
+     },
+     {
+      "pk": "mcfadden|aisling",
+      "master": "Endicott",
+      "cand": "UMassBoston",
+      "src": "d3"
+     },
+     {
+      "pk": "schultz|kendall",
+      "master": "SUNY Plattsburgh",
+      "cand": "Plattsburgh",
+      "src": "d3"
+     },
+     {
+      "pk": "sullivan|jacqueline",
+      "master": "Saint Mary’s",
+      "cand": "Saint Mary's",
+      "src": "d3"
+     },
+     {
+      "pk": "walsh|bailey",
+      "master": "SUNY Potsdam",
+      "cand": "Potsdam",
+      "src": "d3"
+     },
+     {
+      "pk": "woods|gabriella",
+      "master": "Endicott",
+      "cand": "UMassBoston",
+      "src": "d3"
+     }
+    ],
+    "masterOnly": [],
+    "candOnly": [
+     {
+      "pk": "amato|mia",
+      "master": "",
+      "cand": "Saint Anselm",
+      "src": "commits"
+     },
+     {
+      "pk": "deblois|tatiana",
+      "master": "",
+      "cand": "Clarkson",
+      "src": "commits"
+     },
+     {
+      "pk": "douglas|autumn",
+      "master": "",
+      "cand": "Delaware",
+      "src": "commits"
+     },
+     {
+      "pk": "fleming|kaia",
+      "master": "",
+      "cand": "St. Cloud State",
+      "src": "commits"
+     },
+     {
+      "pk": "flores|tijana",
+      "master": "",
+      "cand": "Robert Morris",
+      "src": "colrosters"
+     },
+     {
+      "pk": "klein|jilian",
+      "master": "",
+      "cand": "Boston College",
+      "src": "colrosters"
+     },
+     {
+      "pk": "lee|charlotte",
+      "master": "",
+      "cand": "Brown",
+      "src": "commits"
+     },
+     {
+      "pk": "malachino|katherine",
+      "master": "",
+      "cand": "Long Island",
+      "src": "commits"
+     },
+     {
+      "pk": "nardelli|sofia",
+      "master": "",
+      "cand": "Merrimack",
+      "src": "commits"
+     },
+     {
+      "pk": "oneill|peyton",
+      "master": "",
+      "cand": "Union",
+      "src": "colrosters"
+     },
+     {
+      "pk": "recicasullivan|marianna",
+      "master": "",
+      "cand": "Saint Anselm",
+      "src": "colrosters"
+     },
+     {
+      "pk": "ulrich|alexis",
+      "master": "",
+      "cand": "Minnesota",
+      "src": "commits"
+     }
+    ]
+   }
+  },
+  "CCM68": {
+   "same": 800,
+   "differ": 0,
+   "masterOnly": 0,
+   "candOnly": 3,
+   "samples": {
+    "differ": [],
+    "masterOnly": [],
+    "candOnly": [
+     {
+      "pk": "lane|elizabeth",
+      "master": "",
+      "cand": "Yes",
+      "src": "ccm"
+     },
+     {
+      "pk": "petroski|elisabeth",
+      "master": "",
+      "cand": "Yes",
+      "src": "ccm"
+     },
+     {
+      "pk": "popova|maya",
+      "master": "",
+      "cand": "Yes",
+      "src": "ccm"
+     }
+    ]
+   }
+  },
+  "Regionals": {
+   "same": 363,
+   "differ": 0,
+   "masterOnly": 0,
+   "candOnly": 0,
+   "samples": {
+    "differ": [],
+    "masterOnly": [],
+    "candOnly": []
+   }
+  },
+  "Fresh": {
+   "same": 556,
+   "differ": 2,
+   "masterOnly": 19,
+   "candOnly": 23,
+   "samples": {
+    "differ": [
+     {
+      "pk": "doherty|caroline",
+      "master": "U15",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "liu|sophia",
+      "master": "U1617",
+      "cand": "U15",
+      "src": "campRank"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "brennan|zoey",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cooper|lauren",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dunn|ella",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "graham|megan",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "hall|taylor",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "herman|julianna",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "holtzleicer|jahnica",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "leblanc|arianne",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "lee|rachel",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "li|alika",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "macdonald|emma",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "murphy|ava",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "abougoush|sophia",
+      "master": "",
+      "cand": "TmBC",
+      "src": "campRank"
+     },
+     {
+      "pk": "acomb|emma",
+      "master": "",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "ashlyncook|mary",
+      "master": "",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "aslan|amanda",
+      "master": "",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "aucoin|anna",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "bannister|brinn",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "beauchemin|brielle",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "bliss|avery",
+      "master": "",
+      "cand": "BCcamp",
+      "src": "campRank"
+     },
+     {
+      "pk": "corraro|callie",
+      "master": "",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "douglas|autumn",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "erster|ryan",
+      "master": "",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "jimenez|sophia",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "Soph": {
+   "same": 1399,
+   "differ": 6,
+   "masterOnly": 27,
+   "candOnly": 32,
+   "samples": {
+    "differ": [
+     {
+      "pk": "ashlyncook|mary",
+      "master": "U15",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "brennan|zoey",
+      "master": "U1617",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "hall|taylor",
+      "master": "U1617",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "holtzleicer|jahnica",
+      "master": "U1617",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "johnson|sarah",
+      "master": "U15",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "xu|lauren",
+      "master": "U15",
+      "cand": "U1617",
+      "src": "campRank"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "brown|olivia",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cooper|lauren",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "doherty|caroline",
+      "master": "U1617",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dunn|ella",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "graham|megan",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "herman|julianna",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "jones|ruby",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "leblanc|arianne",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "lee|rachel",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "liu|sophia",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "lloren|anna",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "macdonald|addison",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "abougoush|sophia",
+      "master": "",
+      "cand": "BCcamp",
+      "src": "campRank"
+     },
+     {
+      "pk": "anderson|hailey",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "aslan|amanda",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "baker|charlotte",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "bakker|nya",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "baxter|hannah",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "beauchemin|brielle",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "bernard|melody",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "crogan|cassidy",
+      "master": "",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "diesing|mei",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "hepburn|ava",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "jimenez|sophia",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "Jr": {
+   "same": 1310,
+   "differ": 4,
+   "masterOnly": 34,
+   "candOnly": 46,
+   "samples": {
+    "differ": [
+     {
+      "pk": "anderson|hailey",
+      "master": "U1617",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "liu|sophia",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "nevo|lia",
+      "master": "U1617",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "williams|brooke",
+      "master": "TmAtl",
+      "cand": "x",
+      "src": "campRank"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "ashlyncook|mary",
+      "master": "U1617",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "bergeron|zoe",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brown|olivia",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cardone|cassandra",
+      "master": "ONcamp",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "carlson|theresa",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cooper|lauren",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "dunn|ella",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "gibson|taylor",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "graham|megan",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "herman|julianna",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "horstman|eleanor",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "johnson|sarah",
+      "master": "U1617",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "aslan|amanda",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "bakker|nya",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "baxter|hannah",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "beaumont|annsophie",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "bernard|melody",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "blockmakokis|sophia",
+      "master": "",
+      "cand": "U18-C",
+      "src": "campRank"
+     },
+     {
+      "pk": "brennan|zoey",
+      "master": "",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "chevestick|ashley",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "crogan|cassidy",
+      "master": "",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "curtis|lillian",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "daigle|karelle",
+      "master": "",
+      "cand": "TmAtl",
+      "src": "campRank"
+     },
+     {
+      "pk": "diesing|mei",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "Sr": {
+   "same": 2838,
+   "differ": 7,
+   "masterOnly": 59,
+   "candOnly": 249,
+   "samples": {
+    "differ": [
+     {
+      "pk": "aslan|amanda",
+      "master": "U1617",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "hall|taylor",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "hamel|eden",
+      "master": "TmBC",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "mcdonald|hayley",
+      "master": "WNT-C",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "meinert|katherine",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "trahan|amelia",
+      "master": "QCcamp",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "williams|brooke",
+      "master": "TmAtl",
+      "cand": "x",
+      "src": "campRank"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "arsenault|maxine",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "bergeron|zoe",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "boylan|nora",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brennan|zoey",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brown|mackenzie",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brown|olivia",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "campbell|grace",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "choi|yehzie",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "collins|amaya",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "cooper|lauren",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "daley|taylor",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "death|irelyn",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "acomb|emma",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "adams|caroline",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "alberts|lina",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "anderson|hailey",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "arendell|avery",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "armstrong|hayley",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "ashlyncook|mary",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "aucoin|anna",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "bakker|nya",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "bamber|kaitlyn",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "bannister|brinn",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "baxter|hannah",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "Highest": {
+   "same": 2665,
+   "differ": 4,
+   "masterOnly": 13,
+   "candOnly": 0,
+   "samples": {
+    "differ": [
+     {
+      "pk": "blockmakokis|sophia",
+      "master": "TmBC",
+      "cand": "U18-C",
+      "src": "campRank"
+     },
+     {
+      "pk": "campbell|madison",
+      "master": "TmON-R",
+      "cand": "TmON-B",
+      "src": "campRank"
+     },
+     {
+      "pk": "fischler|avigail",
+      "master": "WNT-O",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "rice|callie",
+      "master": "TmMB",
+      "cand": "TmBC",
+      "src": "campRank"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "arhammarpakarinen|hilda",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "mikaelyan|maria",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "nesterova|alexandra",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "ng|renee",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "odebrant|saga",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "polozkova|maria",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "ridderstolpe|ebba",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "rose|anna",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "sandberg|stina",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "sviridova|anna",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "tarkiainen|hannele",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "vavrova|adela",
+      "master": "WNT-O",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": []
+   }
+  },
+  "Yr0": {
+   "same": 42,
+   "differ": 0,
+   "masterOnly": 0,
+   "candOnly": 1,
+   "samples": {
+    "differ": [],
+    "masterOnly": [],
+    "candOnly": [
+     {
+      "pk": "sachs|stephanie",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "Yr1": {
+   "same": 1549,
+   "differ": 0,
+   "masterOnly": 1,
+   "candOnly": 21,
+   "samples": {
+    "differ": [],
+    "masterOnly": [
+     {
+      "pk": "mcdonald|hayley",
+      "master": "MBcamp→TmMB",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "akimoto|nana",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "annett|julia",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "baechler|alessia",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "bahiczkitoth|boglarka",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "brewer|brooke",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "camirand|mikele",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "conrad|kendall",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "herzig|naemi",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "hiezl|reka",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "joaquin|trystan",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     },
+     {
+      "pk": "keranen|tilli",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "knorr|brooklyn",
+      "master": "",
+      "cand": "ON_U16",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "Yr2": {
+   "same": 1017,
+   "differ": 2,
+   "masterOnly": 1,
+   "candOnly": 38,
+   "samples": {
+    "differ": [
+     {
+      "pk": "mcdonald|hayley",
+      "master": "MBcamp→TmMB→U18-C→WNT-C",
+      "cand": "MBcamp→TmMB",
+      "src": "campRank"
+     },
+     {
+      "pk": "strano|alexa",
+      "master": "ON_U16",
+      "cand": "ONcamp",
+      "src": "campRank"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "cardone|cassandra",
+      "master": "ONcamp",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "akimoto|nana",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "bahiczkitoth|boglarka",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "barbirati|jade",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "billa|anna",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "blichova|tatiana",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "boico|alexandra",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "debnarova|livia",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "gildainova|tereza",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "herzig|naemi",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "hiezl|reka",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "hujova|veronika",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "inkamp|sonja",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "Yr3": {
+   "same": 1020,
+   "differ": 1,
+   "masterOnly": 3,
+   "candOnly": 66,
+   "samples": {
+    "differ": [
+     {
+      "pk": "mcdonald|hayley",
+      "master": "ONcamp→TmON-R→U18-C→WNT-C",
+      "cand": "MBcamp→TmMB→U18-C→WNT-C",
+      "src": "campRank"
+     }
+    ],
+    "masterOnly": [
+     {
+      "pk": "macmillan|sophia",
+      "master": "ATcamp",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "shaw|addison",
+      "master": "ABcamp",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "strano|alexa",
+      "master": "ONcamp",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "akimoto|nana",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "arntzen|tiril",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "baechler|alessia",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "bahiczkitoth|boglarka",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "bedont|maddalena",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "benakova|lilien",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "billa|anna",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "bjergstad|caroline",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "blichova|tatiana",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "boico|alexandra",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "brezinova|dana",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     },
+     {
+      "pk": "brulandaustefjord|oda",
+      "master": "",
+      "cand": "WNT-O",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "GradGuessed": {
+   "same": 56,
+   "differ": 0,
+   "masterOnly": 20,
+   "candOnly": 2,
+   "samples": {
+    "differ": [],
+    "masterOnly": [
+     {
+      "pk": "abougoush|sophia",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "baker|charlotte",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "beauchemin|brielle",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "blane|kinleigh",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "bliss|avery",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "daigle|karelle",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "fleming|kaia",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "gabriel|samera",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "hepburn|ava",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "houle|harlee",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "kang|myah",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "labossiere|isabelle",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     }
+    ],
+    "candOnly": [
+     {
+      "pk": "fitzpatrick|anabella",
+      "master": "",
+      "cand": "Yes",
+      "src": "campRank"
+     },
+     {
+      "pk": "shearer|charlotte",
+      "master": "",
+      "cand": "Yes",
+      "src": "campRank"
+     }
+    ]
+   }
+  },
+  "Notable": {
+   "same": 228,
+   "differ": 0,
+   "masterOnly": 0,
+   "candOnly": 1,
+   "samples": {
+    "differ": [],
+    "masterOnly": [],
+    "candOnly": [
+     {
+      "pk": "viskovicz|anabella",
+      "master": "",
+      "cand": "Decommit from Franklin Pierce",
+      "src": "d3"
+     }
+    ]
+   }
+  }
+ },
+ "calibration": {
+  "Name": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1607,
+    "pct": 96.6
+   },
+   "prov": {
+    "both": 931,
+    "equal": 900,
+    "pct": 96.7
+   },
+   "commits": {
+    "both": 1082,
+    "equal": 1040,
+    "pct": 96.1
+   },
+   "d3": {
+    "both": 391,
+    "equal": 374,
+    "pct": 95.7
+   },
+   "nepsac": {
+    "both": 1888,
+    "equal": 1813,
+    "pct": 96
+   },
+   "ccm": {
+    "both": 803,
+    "equal": 777,
+    "pct": 96.8
+   },
+   "ma": {
+    "both": 774,
+    "equal": 748,
+    "pct": 96.6
+   },
+   "tourn": {
+    "both": 10085,
+    "equal": 9880,
+    "pct": 98
+   },
+   "colrosters": {
+    "both": 1018,
+    "equal": 927,
+    "pct": 91.1
+   }
+  },
+  "Position": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1656,
+    "pct": 99.6
+   },
+   "prov": {
+    "both": 931,
+    "equal": 920,
+    "pct": 98.8
+   },
+   "commits": {
+    "both": 1081,
+    "equal": 1081,
+    "pct": 100
+   },
+   "d3": {
+    "both": 52,
+    "equal": 46,
+    "pct": 88.5
+   },
+   "nepsac": {
+    "both": 1597,
+    "equal": 1485,
+    "pct": 93
+   },
+   "ccm": {
+    "both": 716,
+    "equal": 696,
+    "pct": 97.2
+   },
+   "ma": {
+    "both": 772,
+    "equal": 736,
+    "pct": 95.3
+   },
+   "tourn": {
+    "both": 9962,
+    "equal": 9886,
+    "pct": 99.2
+   },
+   "colrosters": {
+    "both": 1009,
+    "equal": 976,
+    "pct": 96.7
+   },
+   "ep": {
+    "both": 6442,
+    "equal": 6121,
+    "pct": 95
+   }
+  },
+  "DOB": {
+   "ndc": {
+    "both": 1209,
+    "equal": 1009,
+    "pct": 83.5
+   },
+   "prov": {
+    "both": 439,
+    "equal": 424,
+    "pct": 96.6
+   },
+   "commits": {
+    "both": 926,
+    "equal": 924,
+    "pct": 99.8
+   },
+   "d3": {
+    "both": 2,
+    "equal": 2,
+    "pct": 100
+   },
+   "ccm": {
+    "both": 453,
+    "equal": 431,
+    "pct": 95.1
+   },
+   "tourn": {
+    "both": 480,
+    "equal": 409,
+    "pct": 85.2
+   },
+   "ep": {
+    "both": 3896,
+    "equal": 3489,
+    "pct": 89.6
+   }
+  },
+  "BirthYr": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1663,
+    "pct": 100
+   },
+   "prov": {
+    "both": 578,
+    "equal": 577,
+    "pct": 99.8
+   },
+   "commits": {
+    "both": 819,
+    "equal": 817,
+    "pct": 99.8
+   },
+   "d3": {
+    "both": 0,
+    "equal": 0,
+    "pct": null
+   },
+   "ccm": {
+    "both": 797,
+    "equal": 788,
+    "pct": 98.9
+   },
+   "ma": {
+    "both": 755,
+    "equal": 746,
+    "pct": 98.8
+   },
+   "tourn": {
+    "both": 5300,
+    "equal": 5238,
+    "pct": 98.8
+   },
+   "ep": {
+    "both": 6285,
+    "equal": 6271,
+    "pct": 99.8
+   }
+  },
+  "Grad": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1580,
+    "pct": 95
+   },
+   "prov": {
+    "both": 592,
+    "equal": 532,
+    "pct": 89.9
+   },
+   "commits": {
+    "both": 1076,
+    "equal": 973,
+    "pct": 90.4
+   },
+   "d3": {
+    "both": 311,
+    "equal": 265,
+    "pct": 85.2
+   },
+   "nepsac": {
+    "both": 1886,
+    "equal": 1796,
+    "pct": 95.2
+   },
+   "ccm": {
+    "both": 116,
+    "equal": 111,
+    "pct": 95.7
+   },
+   "ma": {
+    "both": 279,
+    "equal": 253,
+    "pct": 90.7
+   },
+   "tourn": {
+    "both": 8305,
+    "equal": 8202,
+    "pct": 98.8
+   }
+  },
+  "Height": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1596,
+    "pct": 96
+   },
+   "prov": {
+    "both": 398,
+    "equal": 382,
+    "pct": 96
+   },
+   "tourn": {
+    "both": 521,
+    "equal": 401,
+    "pct": 77
+   },
+   "colrosters": {
+    "both": 838,
+    "equal": 522,
+    "pct": 62.3
+   },
+   "ep": {
+    "both": 3774,
+    "equal": 3262,
+    "pct": 86.4
+   }
+  },
+  "Weight": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1541,
+    "pct": 92.7
+   },
+   "prov": {
+    "both": 55,
+    "equal": 54,
+    "pct": 98.2
+   },
+   "ep": {
+    "both": 1242,
+    "equal": 1018,
+    "pct": 82
+   }
+  },
+  "GPA": {
+   "ndc": {
+    "both": 1153,
+    "equal": 1052,
+    "pct": 91.2
+   }
+  },
+  "City": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1655,
+    "pct": 99.5
+   },
+   "prov": {
+    "both": 747,
+    "equal": 672,
+    "pct": 90
+   },
+   "commits": {
+    "both": 1075,
+    "equal": 988,
+    "pct": 91.9
+   },
+   "nepsac": {
+    "both": 1665,
+    "equal": 1610,
+    "pct": 96.7
+   },
+   "ccm": {
+    "both": 68,
+    "equal": 68,
+    "pct": 100
+   },
+   "tourn": {
+    "both": 146,
+    "equal": 130,
+    "pct": 89
+   },
+   "colrosters": {
+    "both": 933,
+    "equal": 683,
+    "pct": 73.2
+   }
+  },
+  "State": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1661,
+    "pct": 99.9
+   },
+   "prov": {
+    "both": 931,
+    "equal": 922,
+    "pct": 99
+   },
+   "commits": {
+    "both": 1082,
+    "equal": 1060,
+    "pct": 98
+   },
+   "d3": {
+    "both": 1,
+    "equal": 1,
+    "pct": 100
+   },
+   "nepsac": {
+    "both": 1660,
+    "equal": 1636,
+    "pct": 98.6
+   },
+   "ccm": {
+    "both": 602,
+    "equal": 596,
+    "pct": 99
+   },
+   "ma": {
+    "both": 739,
+    "equal": 727,
+    "pct": 98.4
+   },
+   "tourn": {
+    "both": 844,
+    "equal": 748,
+    "pct": 88.6
+   },
+   "colrosters": {
+    "both": 923,
+    "equal": 517,
+    "pct": 56
+   }
+  },
+  "Country": {
+   "ndc": {
+    "both": 1663,
+    "equal": 1663,
+    "pct": 100
+   },
+   "prov": {
+    "both": 931,
+    "equal": 931,
+    "pct": 100
+   },
+   "commits": {
+    "both": 1082,
+    "equal": 1080,
+    "pct": 99.8
+   },
+   "nepsac": {
+    "both": 1673,
+    "equal": 1672,
+    "pct": 99.9
+   },
+   "ccm": {
+    "both": 602,
+    "equal": 602,
+    "pct": 100
+   },
+   "ma": {
+    "both": 772,
+    "equal": 770,
+    "pct": 99.7
+   },
+   "tourn": {
+    "both": 10074,
+    "equal": 9850,
+    "pct": 97.8
+   },
+   "colrosters": {
+    "both": 1000,
+    "equal": 909,
+    "pct": 90.9
+   }
+  },
+  "School": {
+   "ndc": {
+    "both": 587,
+    "equal": 545,
+    "pct": 92.8
+   },
+   "commits": {
+    "both": 564,
+    "equal": 550,
+    "pct": 97.5
+   },
+   "nepsac": {
+    "both": 1884,
+    "equal": 1879,
+    "pct": 99.7
+   },
+   "tourn": {
+    "both": 490,
+    "equal": 352,
+    "pct": 71.8
+   }
+  },
+  "College": {
+   "commits": {
+    "both": 1066,
+    "equal": 1066,
+    "pct": 100
+   },
+   "d3": {
+    "both": 391,
+    "equal": 381,
+    "pct": 97.4
+   },
+   "colrosters": {
+    "both": 1012,
+    "equal": 931,
+    "pct": 92
+   },
+   "legacy": {
+    "both": 2085,
+    "equal": 2084,
+    "pct": 100
+   }
+  },
+  "Notable": {
+   "commits": {
+    "both": 228,
+    "equal": 228,
+    "pct": 100
+   },
+   "d3": {
+    "both": 0,
+    "equal": 0,
+    "pct": null
+   }
+  }
+ }
+}

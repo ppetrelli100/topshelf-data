@@ -12,6 +12,8 @@
        --report <file>    JSON report of flags/conflicts   (default: import_report.json)
        --repo <dir>       topshelf-data checkout           (default: the folder above tools/)
        --known <a,b,..>   extra JSON files whose personkeys feed the swapped-name check
+       --window <N|all>   seasons to keep: latest N (default 3) or 'all'
+       --players-out <f>  also write a flat, player-level file (one row per player per season, newest first); use with --window all
        --master <file>    master.json (PersonKey, BirthYr): birth-year fallback for play-up removal (default: master.json in the repo)
 
    Pure functions are exported (buildRosters, resolveTeam, ...) so the
@@ -126,11 +128,12 @@ const seasonLabel = y => `${y}-${String((+y + 1) % 100).padStart(2, '0')}`;
 
 function buildRosters(rawRows, ctx) {
   const { RC, typeAliases, d1, known, birthYears } = ctx;
+  const windowSeasons = ctx.windowSeasons == null ? WINDOW_SEASONS : ctx.windowSeasons;
   const match = typeMatcher(typeAliases);
   const report = { unknownTourneys: {}, swapFlags: [], yearFlags: [], heightFlags: [], commitUnmatched: {}, unmatchedOrgs: {}, badLevel: {}, squadWarnings: [], conflicts: { n: 0, rg: 0, rp: 0, country: 0 }, tagged: 0 };
   const years = [...new Set(rawRows.map(r => +r.Year).filter(Boolean))].sort((a, b) => a - b);
   const maxYear = years[years.length - 1];
-  const inWindow = y => +y > maxYear - WINDOW_SEASONS;
+  const inWindow = y => +y > maxYear - windowSeasons;
 
   // Case-insensitive canonical spelling for names the Type table does not know:
   // most frequent spelling wins (ties: first seen), so output never depends on row order luck.
@@ -264,6 +267,15 @@ function buildRosters(rawRows, ctx) {
   return { rosters: out, report };
 }
 
+// Flat, player-level view of buildRosters() output: one row per player per season (newest season first). Feeds build_master.js;
+// no site page reads it. Same merged values as rosters.json, just not nested under teams.
+function flattenPlayers(rosters) {
+  const out = [];
+  for (const sk of Object.keys(rosters).sort().reverse()) for (const t of rosters[sk]) for (const p of t.players)
+    out.push(Object.assign({ pk: p.pk, season: sk, team: t.team, club: t.club, lvl: t.lvl, country: p.ctry || t.country }, p, { pk: p.pk }));
+  return out;
+}
+
 /* --------------------------------- CLI ----------------------------------- */
 
 function main() {
@@ -281,13 +293,15 @@ function main() {
   const rows = parseCSV(fs.readFileSync(files[0], 'utf8'));
   let birthYears = null; const mf = path.resolve(opt.repo, opt.master || 'master.json');
   if (fs.existsSync(mf)) { birthYears = new Map(); JSON.parse(fs.readFileSync(mf, 'utf8')).forEach(r => { if (r.PersonKey && +r.BirthYr) birthYears.set(r.PersonKey, +r.BirthYr); }); }
-  const { rosters, report } = buildRosters(rows, { RC, typeAliases, d1, known, birthYears });
+  const windowSeasons = opt.window === undefined ? null : (String(opt.window).toLowerCase() === 'all' ? Infinity : +opt.window);
+  const { rosters, report } = buildRosters(rows, { RC, typeAliases, d1, known, birthYears, windowSeasons });
   if (Object.keys(report.unknownTourneys).length) { console.error('STOP: unrecognized tournament names in the window:', report.unknownTourneys, '\nAdd them to CLASS_ORDER / RECENCY in this file.'); process.exit(2); }
-  fs.writeFileSync(opt.out, JSON.stringify(rosters, null, 2));
+  if (opt.out !== 'none') fs.writeFileSync(opt.out, JSON.stringify(rosters, null, 2));
+  if (opt['players-out']) { const flat = flattenPlayers(rosters); fs.writeFileSync(opt['players-out'], JSON.stringify(flat)); console.log('players-out:', flat.length, 'rows,', new Set(flat.map(r => r.pk)).size, 'players'); }
   fs.writeFileSync(opt.report, JSON.stringify(report, null, 2));
   for (const s in rosters) console.log(s, rosters[s].length, 'teams', rosters[s].reduce((a, t) => a + t.players.length, 0), 'players');
   console.log('flags:', { swap: report.swapFlags.length, year: report.yearFlags.length, height: report.heightFlags.length, commitUnmatched: Object.keys(report.commitUnmatched).length, squadWarnings: report.squadWarnings.length, conflicts: report.conflicts });
 }
 
-module.exports = { buildRosters, parseCSV, stripTags, levelNorm, typeMatcher, CLASS_ORDER, RECENCY, SQUAD2_CLUBS, PREP_LABEL_CLUBS };
+module.exports = { buildRosters, flattenPlayers, parseCSV, stripTags, levelNorm, typeMatcher, CLASS_ORDER, RECENCY, SQUAD2_CLUBS, PREP_LABEL_CLUBS };
 if (require.main === module) main();

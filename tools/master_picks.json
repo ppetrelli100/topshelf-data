@@ -1,0 +1,123 @@
+{
+  "posTrust": {"ndc":5,"prov":2,"ccm":2,"commits":1.5,"d3":1.5,"ma":1,"nepsac":1,"tourn":1,"colrosters":1,"ep":0.7},
+  "dropKeys": ["fromand|goal"],
+  "_readme": "Per-field source priority for build_master.js. First source with a valid (non-blank, sane) value wins; within a source the newest row wins. Starting point = what the spreadsheet Master tab did (see master-tab-formulas), with MN folded into tourneys. Edit the order here, then rerun build_master.js and read master_diff.json.",
+  "universe": [
+    "commits",
+    "ndc",
+    "prov",
+    "nepsac",
+    "tourn",
+    "ccm",
+    "ma"
+  ],
+  "fields": {
+    "Name": [
+      "commits",
+      "ndc",
+      "ccm",
+      "prov",
+      "nepsac",
+      "tourn",
+      "ma",
+      "colrosters",
+      "d3"
+    ],
+    "Position": [
+      "ndc",
+      "prov",
+      "commits",
+      "ma",
+      "ccm",
+      "tourn",
+      "colrosters",
+      "nepsac",
+      "d3",
+      "ep"
+    ],
+    "DOB": [
+      "ndc",
+      "ccm",
+      "commits",
+      "prov",
+      "tourn",
+      "d3",
+      "ep"
+    ],
+    "BirthYr": [
+      "override",
+      "ndc",
+      "ccm",
+      "commits",
+      "prov",
+      "ma",
+      "tourn",
+      "d3",
+      "ep"
+    ],
+    "Grad": [
+      "override",
+      "tourn",
+      "ndc",
+      "prov",
+      "nepsac",
+      "ma",
+      "ccm",
+      "commits",
+      "d3"
+    ],
+    "Height": ["ndc", "prov", "tourn", "colrosters", "ep"],
+    "Weight": [
+      "ndc",
+      "prov",
+      "ep"
+    ],
+    "GPA": [
+      "ndc"
+    ],
+    "City": [
+      "ndc",
+      "ccm",
+      "commits",
+      "prov",
+      "nepsac",
+      "tourn",
+      "colrosters"
+    ],
+    "State": [
+      "ndc",
+      "ccm",
+      "commits",
+      "nepsac",
+      "prov",
+      "tourn",
+      "ma",
+      "colrosters",
+      "d3"
+    ],
+    "Country": ["ndc", "ccm", "commits", "nepsac", "prov", "ma", "colrosters", "tourn"],
+    "School": ["commits", "ndc", "nepsac", "tourn"],
+    "College": ["override", "commits", "d3", "legacy", "colrosters"],
+    "Notable": [
+      "commits",
+      "d3"
+    ]
+  },
+  "dobDay1Suspect": {
+    "ndc": [
+      2025,
+      2026
+    ]
+  },
+  "_dobNote": "DOB is picked by precision (day > month > year), not just source order. Dates on the 1st of the month from the source-years listed in dobDay1Suspect are treated as month-only unless another source supplies the full day.",
+  "dobTrust": {
+    "ndc": 5,
+    "prov": 2,
+    "ccm": 2,
+    "commits": 1.5,
+    "d3": 1.5,
+    "tourn": 1,
+    "ep": 1
+  },
+  "_trustNote": "dobTrust = how much each source's DOB is believed (NDC players enter their own data; ProvRosters/CCM good but have errors; commits/tourneys/EP hit or miss). Used by build_master.js to weigh agreeing/conflicting DOBs."
+}
