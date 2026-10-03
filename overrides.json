@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "description": "Per-player manual overrides applied on top of the picked Master values. field = Master column name; value '' means force blank (e.g. College: not actually committed). Replaces the sheet's Overrides tab.",
+  "overrides": [
+    {"personkey": "daley|jane", "field": "Grad", "value": 2027, "notes": "accelerate/un-reclass; convo with parent"},
+    {"personkey": "paone|sophia", "field": "Grad", "value": 2028, "notes": "reclass - Northeastern camp"},
+    {"personkey": "fitzsimmons|lucy", "field": "Grad", "value": 2028, "notes": "likely reclass"},
+    {"personkey": "leprohon|anais", "field": "Grad", "value": 2027, "notes": ""},
+    {"personkey": "pelletier|eve", "field": "Grad", "value": 2028, "notes": "likely reclass"},
+    {"personkey": "martin|sarah", "field": "Grad", "value": 2028, "notes": "NOTE: THERE ARE 2 SARAH MARTIN'S - ONE LAWRENCEVILLE/HAMILTON, ONE CENTRAL YORK/BROWN"},
+    {"personkey": "king|emily", "field": "College", "value": "", "notes": "Old-roster collision; real 2028 recruit uncommitted"},
+    {"personkey": "nelson|taylor", "field": "College", "value": "", "notes": "Old-roster collision; real 2028 recruit uncommitted"}
+  ]
+}
