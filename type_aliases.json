@@ -4228,5 +4228,17 @@
     "type": "ACADEMY",
     "friendly": "Winchendon School",
     "country": "US"
+  },
+  {
+    "pattern": "^oha\\s*(?:mavericks\\s*)?tardiff$",
+    "type": "ACADEMY",
+    "friendly": "OHA Tardiff",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^les\\s*olympiques\\s*(?:de\\s*l\\s*)?outaouais$",
+    "type": "CLUB",
+    "friendly": "Les Olympiques de l'Outaouais",
+    "country": "CAN"
   }
 ]
