@@ -20,8 +20,7 @@
    updates.html import tab can reuse exactly the same rules.
    ========================================================================= */
 'use strict';
-const fs = require('fs');
-const path = require('path');
+// Node-only modules (fs, path) are required inside main() so this file can also be loaded in a browser (updates.html Teams tab).
 
 /* ----------------------------- configuration ----------------------------- */
 
@@ -126,27 +125,12 @@ function levelNorm(level, country) {
 function posOf(RC, p) { const x = RC.normalizePos(p); return (x === 'F/D' || x === 'F / D') ? 'F' : (x === 'D/F' || x === 'D / F') ? 'D' : x; }
 const seasonLabel = y => `${y}-${String((+y + 1) % 100).padStart(2, '0')}`;
 
-function buildRosters(rawRows, ctx) {
-  const { RC, typeAliases, d1, known, birthYears } = ctx;
-  const windowSeasons = ctx.windowSeasons == null ? WINDOW_SEASONS : ctx.windowSeasons;
-  const match = typeMatcher(typeAliases);
-  const report = { unknownTourneys: {}, swapFlags: [], yearFlags: [], heightFlags: [], commitUnmatched: {}, unmatchedOrgs: {}, badLevel: {}, squadWarnings: [], conflicts: { n: 0, rg: 0, rp: 0, country: 0 }, tagged: 0 };
-  const years = [...new Set(rawRows.map(r => +r.Year).filter(Boolean))].sort((a, b) => a - b);
-  const maxYear = years[years.length - 1];
-  const inWindow = y => +y > maxYear - windowSeasons;
-
-  // Case-insensitive canonical spelling for names the Type table does not know:
-  // most frequent spelling wins (ties: first seen), so output never depends on row order luck.
-  const spell = new Map();
-  rawRows.forEach(r => { const s = stripTags(r.Team); if (!s) return; const k = s.toLowerCase(); const m = spell.get(k) || new Map(); m.set(s, (m.get(s) || 0) + 1); spell.set(k, m); });
-  const canon = s => { const m = spell.get(s.toLowerCase()); if (!m) return s; return [...m.entries()].sort((a, b) => b[1] - a[1])[0][0]; };
-
-  // 1. clean + resolve every in-window row
-  const rows = [];
-  rawRows.forEach((r, idx) => {
-    if (!inWindow(r.Year)) return;
+/* One raw tournament/roster row (old Tourneys-tab layout) -> one cleaned row, or null if the tournament name is not recognised.
+   S = { RC, d1, known, match, canon, report }. Shared by buildRosters() and the Teams tab on updates.html, so a pasted roster is cleaned by exactly the same code. */
+function cleanRow(r, idx, S) {
+  const { RC, d1, known, match, canon, report } = S;
     const tk = tourneyKey(r.Tourney);
-    if (!tk) { report.unknownTourneys[r.Tourney] = (report.unknownTourneys[r.Tourney] || 0) + 1; return; }
+    if (!tk) { report.unknownTourneys[r.Tourney] = (report.unknownTourneys[r.Tourney] || 0) + 1; return null; }
     const stripped = stripTags(r.Team);
     const hit = match(stripped);
     const club = hit ? hit.friendly : canon(stripped);
@@ -170,11 +154,34 @@ function buildRosters(rawRows, ctx) {
     const cm = normCommit(RC, r.Committed, d1); if (cm.junk) (report.commitJunk = report.commitJunk || []).push(`${r.Year} ${rawTeam} ${name}: "${norm(r.Committed)}" dropped`); if (cm.value && !cm.matched) report.commitUnmatched[cm.value] = (report.commitUnmatched[cm.value] || 0) + 1;
     if (norm(r.NameTag)) report.tagged++;
     if (norm(r.Grad) && !/^20\d{2}$/.test(norm(r.Grad))) { const k = norm(r.Grad) + ' -> ' + (normGrad(r.Grad) || '(blank)'); report.gradNormalized = report.gradNormalized || {}; report.gradNormalized[k] = (report.gradNormalized[k] || 0) + 1; }
-    rows.push({
+    return {
       idx, year: +r.Year, tk, classIdx: CLASS_ORDER.indexOf(tk), recency: RECENCY.indexOf(tk), rawTeam, club, squad, prep, lvl, rawLevel: norm(r.Level), country: norm(r.Country),
       pk, name, n: norm(r['#']), pos: posOf(RC, r.Pos), yob: norm(r.YOB), grad: normGrad(r.Grad), dob: norm(r.DOB), school: norm(r.School), shot: normShot(r.Shot),
       state: hm.state, home: hm.home, ht: ht.value, commit: cm.value, tag: norm(r.NameTag),
-    });
+    };
+}
+
+function buildRosters(rawRows, ctx) {
+  const { RC, typeAliases, d1, known, birthYears } = ctx;
+  const windowSeasons = ctx.windowSeasons == null ? WINDOW_SEASONS : ctx.windowSeasons;
+  const match = typeMatcher(typeAliases);
+  const report = { unknownTourneys: {}, swapFlags: [], yearFlags: [], heightFlags: [], commitUnmatched: {}, unmatchedOrgs: {}, badLevel: {}, squadWarnings: [], conflicts: { n: 0, rg: 0, rp: 0, country: 0 }, tagged: 0 };
+  const years = [...new Set(rawRows.map(r => +r.Year).filter(Boolean))].sort((a, b) => a - b);
+  const maxYear = years[years.length - 1];
+  const inWindow = y => +y > maxYear - windowSeasons;
+
+  // Case-insensitive canonical spelling for names the Type table does not know:
+  // most frequent spelling wins (ties: first seen), so output never depends on row order luck.
+  const spell = new Map();
+  rawRows.forEach(r => { const s = stripTags(r.Team); if (!s) return; const k = s.toLowerCase(); const m = spell.get(k) || new Map(); m.set(s, (m.get(s) || 0) + 1); spell.set(k, m); });
+  const canon = s => { const m = spell.get(s.toLowerCase()); if (!m) return s; return [...m.entries()].sort((a, b) => b[1] - a[1])[0][0]; };
+
+  // 1. clean + resolve every in-window row
+  const rows = [];
+  const S = { RC, d1, known, match, canon, report };
+  rawRows.forEach((r, idx) => {
+    if (!inWindow(r.Year)) return;
+    const cr = cleanRow(r, idx, S); if (cr) rows.push(cr);
   });
 
   // 2. sort exactly like the sheet: Year, tournament class, raw team, tournament, position (blank last)
@@ -279,6 +286,7 @@ function flattenPlayers(rosters) {
 /* --------------------------------- CLI ----------------------------------- */
 
 function main() {
+  const fs = require('fs'), path = require('path');
   const args = process.argv.slice(2);
   const opt = { out: 'rosters.json', report: 'import_report.json', repo: path.resolve(__dirname, '..'), known: '' };
   const files = [];
@@ -303,5 +311,6 @@ function main() {
   console.log('flags:', { swap: report.swapFlags.length, year: report.yearFlags.length, height: report.heightFlags.length, commitUnmatched: Object.keys(report.commitUnmatched).length, squadWarnings: report.squadWarnings.length, conflicts: report.conflicts });
 }
 
-module.exports = { buildRosters, flattenPlayers, parseCSV, stripTags, levelNorm, typeMatcher, CLASS_ORDER, RECENCY, SQUAD2_CLUBS, PREP_LABEL_CLUBS };
-if (require.main === module) main();
+const API = { buildRosters, cleanRow, flattenPlayers, parseCSV, stripTags, levelNorm, typeMatcher, normGrad, normShot, normCommit, posOf, seasonLabel, CLASS_ORDER, RECENCY, SQUAD2_CLUBS, PREP_LABEL_CLUBS };
+if (typeof module !== 'undefined' && module.exports) { module.exports = API; if (typeof require !== 'undefined' && require.main === module) main(); }
+else if (typeof window !== 'undefined') window.ImportTourneys = API;

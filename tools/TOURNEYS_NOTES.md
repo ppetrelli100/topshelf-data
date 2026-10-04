@@ -90,3 +90,29 @@ New Type entries: OHA Tardiff, Les Olympiques de l'Outaouais. New pkException: C
 - Commit names that don't match the D1 list (U Sports schools, "Boston U", ...) are kept as typed and listed in the report.
 - About 125 club names have no Type entry and pass through as written.
 - The swapped-name check only runs when `--known` is given.
+
+## Adding rosters: the Teams tab (updates.html), Oct 2026
+
+How new rosters (a club site, a tournament sheet, several teams at once) get into rosters.json. The code is `tools/rosterIntake.js`
+(parsing, matching, comparing, merging) on top of `tools/import_tourneys.js` `cleanRow` (the SAME cleaning the importer used) and
+`tools/rosterClean.js`; the page fetches all three live from GitHub, like rosterClean.js. Tests: `node tools/test_rosterIntake.js`.
+
+- **Input**: one team (defaults for Team/Level/Country under the paste box), a sheet with Team/Level/Country columns, or blocks that each start with a
+  team-name line. Tab, comma, pipe or 2+-space separated; a header row is matched by synonym (Name/Player, #/Jersey, Pos, YOB/Birth Year, Grad/Class, Ht,
+  Hometown, Committed, ...); without a header the columns are guessed from the values. CSV/TSV/text files can be loaded; screenshots go through Claude in chat.
+- **Cleaning** (every row, no exceptions): accents stripped to ASCII, ALL-CAPS/lowercase names recased, "Last, First" flipped, nicknames in quotes/parens moved
+  to the tag, AP/Injured tags stripped, personkey via makePersonKey + the school-aware exceptions, F/D/G position, F-I height, grad-year normalisation
+  (dual year takes the later, "-PG" dropped, non-years blank), committed school matched to d1.json / COMMIT_ALIASES, level label by the CLUB's country, "-2" squads only
+  for the four tracked clubs, Prep label only for Shattuck's top team.
+- **Flags** (shown per player/team, nothing auto-fixed): swapped first/last (against every personkey known from master, rosters and colrosters), birth year after
+  2020 / grad before 2020, grad not 16-20 years after birth year, too old for the level in that season (birth year from the paste, a full DOB, or master), bad heights,
+  committed school not on the D1 list, one-word names, digits in names, duplicate jersey numbers, more than 22 players, a team that overlaps <50% with the team matched on file,
+  a possible near-duplicate player (personkey within 2 edits of someone on that roster; NOT added by default).
+- **Matching**: same club + level + squad in the chosen season. The Match box can point the paste at a different team on file or force a new team.
+- **Merging** (never silent): a blank field on file is filled; a different value is shown as a conflict and used only if ticked (the old n/grad/pos goes to `alt`);
+  new players are added (untick to skip); players on file but not in the paste are kept unless "Remove" is ticked; tournaments (`t`) are united. An identical team is not selected.
+- **Seasons**: defaults to the newest live season (2026-27). Seasons held by `rosters_archive.json` (2023-24, 2024-25) cannot be chosen or written.
+- **Saving**: Push to GitHub re-reads the newest rosters.json, re-applies the choices to it, commits with a sha check, reads back and verifies; or Download the whole file.
+  The file is written exactly as `JSON.stringify(x, null, 2)` (no trailing newline unless the file had one) so `apply_corrections.js` can round-trip it.
+  After a push, run the rebuild in the Master Viewer so master.json picks the rosters up (`--rebuild` now rebuilds master even with no queued corrections).
+- **Not built yet**: the yearly rollover (move the oldest live season into rosters_archive.json and start the new one).

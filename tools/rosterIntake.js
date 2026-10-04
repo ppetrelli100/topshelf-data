@@ -1,0 +1,391 @@
+/* =========================================================================
+   rosterIntake.js — HockeyFile / TopShelf: takes a pasted roster (one team, a
+   multi-team spreadsheet, or heading-separated blocks), cleans it with the SAME
+   code that built rosters.json (tools/import_tourneys.js cleanRow + rosterClean.js),
+   compares it with what rosters.json already holds, and merges the result in.
+
+   Used by the Teams tab on updates.html (loaded like rosterClean.js) and by
+   tools/test_rosterIntake.js. Pure functions, no I/O.
+
+   Flow:   parseInput(text)  ->  toRawRows(parsed, defaults)  ->  clean(rawRows, ctx)
+           -> compare(existingTeam, candidate)  ->  applyPlan(rosters, season, plan)
+
+   Rules live in TOURNEYS_NOTES.md / ROSTER_CLEANUP.md; this file adds only what a
+   paste needs on top (column detection, matching an existing team, field-level
+   comparison, and the merge).  Frozen seasons are never written.
+   ========================================================================= */
+(function (root, factory) {
+  if (typeof module !== 'undefined' && module.exports) module.exports = factory(require('./rosterClean.js'), require('./import_tourneys.js'));
+  else root.RosterIntake = factory(root.RosterClean, root.ImportTourneys);
+})(typeof self !== 'undefined' ? self : this, function (RC, IT) {
+  'use strict';
+
+  const FIELDS = ['n', 'ry', 'rg', 'rp', 'dob', 'school', 'shot', 'state', 'ht', 'home', 'commit'];
+  const FIELD_LABEL = { n: '#', ry: 'Birth year', rg: 'Grad', rp: 'Pos', dob: 'DOB', school: 'School', shot: 'Shot', state: 'State', ht: 'Height', home: 'Hometown', commit: 'Committed', ctry: 'Country' };
+  const MAX_ROSTER = 22;
+  const MAXAGE = { '14U': 14, U15: 14, '16U': 16, U18: 17, '19U': 99, U22: 99 };
+  const norm = s => String(s == null ? '' : s).replace(/ /g, ' ').trim();
+  const posRank = p => (p === '' || p == null ? 9 : p);
+
+  /* ------------------------------ parsing ------------------------------ */
+
+  const HEAD = {
+    no: ['#', 'no', 'no.', 'num', 'number', 'jersey', 'jersey #', 'jersey no', 'jersey number', 'sweater', 'nbr'],
+    name: ['name', 'player', 'player name', 'full name', 'athlete', 'skater'],
+    first: ['first', 'first name', 'firstname', 'fname', 'given name', 'given'],
+    last: ['last', 'last name', 'lastname', 'lname', 'surname', 'family name'],
+    pos: ['pos', 'pos.', 'position', 'p'],
+    yob: ['yob', 'birth year', 'birthyear', 'by', 'year of birth', 'birthyr', 'born'],
+    dob: ['dob', 'birthdate', 'birth date', 'date of birth', 'birthday', 'bday'],
+    grad: ['grad', 'grad year', 'gradyear', 'graduation', 'graduation year', 'class', 'class of', 'gy', 'hs grad', 'grad yr'],
+    team: ['team', 'club', 'org', 'organization', 'team name', 'roster'],
+    level: ['level', 'age', 'age group', 'division', 'tier', 'age level'],
+    country: ['country', 'ctry', 'nation'],
+    tourney: ['tourney', 'tournament', 'event'],
+    season: ['season'],
+    year: ['year'],
+    committed: ['committed', 'commit', 'college', 'commitment', 'committed to', 'college commitment'],
+    school: ['school', 'high school', 'prep school', 'school/club', 'hs'],
+    shot: ['shot', 'shoots', 'catches', 'hand', 'handedness', 's/c', 'shoots/catches'],
+    state: ['state', 'prov', 'province', 'state/prov', 'state/province', 'st', 'st/prov', 'region'],
+    height: ['height', 'ht', 'ht.', 'hgt'],
+    weight: ['weight', 'wt', 'wt.'],
+    hometown: ['hometown', 'home', 'home town', 'city', 'birthplace', 'from', 'residence', 'hometown/state', 'city/state'],
+  };
+  const HEAD_LOOKUP = {}; Object.keys(HEAD).forEach(f => HEAD[f].forEach(h => { HEAD_LOOKUP[h] = f; }));
+  const headKey = c => norm(c).toLowerCase().replace(/[^a-z0-9#./ ]+/g, ' ').replace(/\s+/g, ' ').trim();
+  const headField = c => HEAD_LOOKUP[headKey(c)] || null;
+
+  function splitCsvLine(line) {
+    const out = []; let cur = '', q = false;
+    for (let i = 0; i < line.length; i++) {
+      const c = line[i];
+      if (q) { if (c === '"') { if (line[i + 1] === '"') { cur += '"'; i++; } else if (i + 1 >= line.length || line[i + 1] === ',') q = false; else cur += c; } else cur += c; }
+      else if (c === '"' && cur === '') q = true;   // a quote opens a quoted field only at the start of a field; inside 5'6" it is just a character
+      else if (c === ',') { out.push(cur); cur = ''; } else cur += c;
+    }
+    out.push(cur); return out;
+  }
+  function detectDelim(lines) {
+    const sample = lines.filter(l => norm(l)).slice(0, 12);
+    const count = ch => sample.reduce((a, l) => a + (l.split(ch).length - 1), 0);
+    const tabs = count('\t'), pipes = count('|'), commas = count(',');
+    if (tabs >= sample.length / 2 && tabs > 0) return '\t';
+    if (pipes >= sample.length && pipes > 0) return '|';
+    // commas only count as delimiters when most lines carry several of them (a lone "Hometown, ST" is not a CSV)
+    if (sample.length && sample.filter(l => l.split(',').length >= 4).length >= sample.length / 2) return ',';
+    return /\S {2,}\S/.test(sample.join('\n')) ? 'spaces' : null;
+  }
+  const splitLine = (line, delim) => delim === '\t' ? line.split('\t') : delim === '|' ? line.split('|') : delim === ',' ? splitCsvLine(line) : delim === 'spaces' ? line.trim().split(/\s{2,}/) : [line];
+
+  const isPosWord = v => /^(f|d|g|c|lw|rw|w|ld|rd|a|fw|forward|forwards|defense|defence|defenseman|defenceman|goalie|goaltender|goal|attack|attaque|centre|center|wing|winger)$/i.test(norm(v));
+  const isYear = v => /^(19|20)\d\d$/.test(norm(v));
+  const isDate = v => /^\d{1,2}[\/.-]\d{1,2}[\/.-](\d{2}|\d{4})$/.test(norm(v)) || /^\d{4}-\d{2}-\d{2}$/.test(norm(v)) || /^[A-Za-z]{3,9}\.? \d{1,2},? \d{4}$/.test(norm(v));
+  const isHeight = v => /^\d\s*['’′-]\s*\d{1,2}\s*["”″]?$/.test(norm(v)) || /^\d\s*(ft|feet)\b/i.test(norm(v));
+
+  // Guess what each column holds from its values (used when a paste has no header row).
+  function inferMap(rows) {
+    const ncol = Math.max(...rows.map(r => r.length)), map = {}, used = new Set();
+    const col = i => rows.map(r => norm(r[i])).filter(Boolean);
+    const frac = (vals, fn) => vals.length ? vals.filter(fn).length / vals.length : 0;
+    const take = (field, i) => { if (!(field in map)) { map[field] = i; used.add(i); } };
+    for (let i = 0; i < ncol; i++) {
+      const v = col(i); if (!v.length) continue;
+      if (frac(v, x => /^#?\d{1,2}$/.test(x)) > 0.8 && new Set(v).size > v.length * 0.7) take('no', i);
+      else if (frac(v, isPosWord) > 0.8) take('pos', i);
+      else if (frac(v, x => isYear(x) && +x >= 2005 && +x <= 2017) > 0.8) take('yob', i);
+      else if (frac(v, x => isYear(x) && +x >= 2024 && +x <= 2038) > 0.8) take('grad', i);
+      else if (frac(v, isDate) > 0.8) take('dob', i);
+      else if (frac(v, isHeight) > 0.7) take('height', i);
+      else if (frac(v, x => /^[LR]$/i.test(x)) > 0.8) take('shot', i);
+      else if (frac(v, x => /^[A-Z]{2}$/.test(x)) > 0.8) take('state', i);
+    }
+    let best = -1, bestScore = 0;
+    for (let i = 0; i < ncol; i++) {
+      if (used.has(i)) continue; const v = col(i); if (!v.length) continue;
+      const sc = frac(v, x => /^[A-Za-zÀ-ÿ'’.\- ]{3,}$/.test(x) && /\s/.test(x)) + 0.01 * v.join('').length / v.length;
+      if (sc > bestScore) { bestScore = sc; best = i; }
+    }
+    if (best >= 0) take('name', best);
+    for (let i = 0; i < ncol; i++) if (!used.has(i)) { const v = col(i); if (v.length && frac(v, x => /,/.test(x) || /^[A-Za-zÀ-ÿ'’.\- ]{3,}$/.test(x)) > 0.6) { take('hometown', i); break; } }
+    return map;
+  }
+
+  const looksLikeHeader = cells => { const fs = cells.map(headField).filter(Boolean); return fs.length >= 2 && new Set(fs).size >= 2 && fs.some(f => ['name', 'first', 'last'].includes(f)) || (fs.length >= 3 && new Set(fs).size >= 3); };
+
+  /* parseInput(text) -> { blocks: [ { heading, map, rows:[cells...], hasHeader } ], warnings } */
+  function parseInput(text) {
+    const lines = String(text || '').replace(/\r/g, '').split('\n');
+    const delim = detectDelim(lines), warnings = [];
+    const blocks = []; let cur = null;
+    const open = heading => { cur = { heading: heading || '', header: null, rows: [] }; blocks.push(cur); return cur; };
+    const nonEmpty = lines.map((l, i) => ({ l, i })).filter(x => norm(x.l));
+    for (let k = 0; k < nonEmpty.length; k++) {
+      const line = nonEmpty[k].l, cells = splitLine(line, delim).map(norm);
+      const multi = cells.filter(Boolean).length >= 2;
+      if (!multi) {
+        // a lone line: a team heading when the next line is a table row / header, otherwise a one-column data row
+        const next = nonEmpty[k + 1] ? splitLine(nonEmpty[k + 1].l, delim).map(norm) : null;
+        const nextMulti = next && next.filter(Boolean).length >= 2;
+        if (nextMulti || !cur) { if (nextMulti || !/^\d/.test(cells[0] || '')) { open(cells[0]); continue; } }
+        if (cur) { cur.rows.push(cells); continue; }
+      }
+      if (looksLikeHeader(cells)) { if (!cur || cur.rows.length) open(cur ? cur.heading : ''); cur.header = cells; continue; }
+      if (!cur) open('');
+      cur.rows.push(cells);
+    }
+    blocks.forEach(b => {
+      b.rows = b.rows.filter(r => r.some(Boolean));
+      b.map = {};
+      if (b.header) b.header.forEach((h, i) => { const f = headField(h); if (f && !(f in b.map)) b.map[f] = i; });
+      else if (b.rows.length) { b.map = inferMap(b.rows); b.inferred = true; }
+      if (b.map.year != null && !b.map.grad && !b.map.season) {
+        const vs = b.rows.map(r => norm(r[b.map.year])).filter(Boolean);
+        if (new Set(vs).size > 1 && vs.every(x => isYear(x) && +x >= 2024)) { b.map.grad = b.map.year; delete b.map.year; }
+      }
+      if (b.map.year != null && b.map.season == null) { b.map.season = b.map.year; delete b.map.year; }
+    });
+    const real = blocks.filter(b => b.rows.length);
+    if (!real.length) warnings.push('Nothing to parse: no player rows found.');
+    real.forEach(b => { if (b.map.name == null && b.map.first == null) warnings.push(`${b.heading || 'The paste'}: could not find a Name column.`); });
+    return { blocks: real, warnings, delim };
+  }
+
+  /* ------------------------- name / level helpers ------------------------- */
+
+  const smallWords = /^(de|la|le|van|von|der|di|du|da|st|mc|mac)$/i;
+  function titleCase(n) {
+    return n.toLowerCase().replace(/(^|[\s\-'’(])([a-zà-ÿ])/g, (m, a, b) => a + b.toUpperCase()).replace(/\bMc([a-z])/g, (m, c) => 'Mc' + c.toUpperCase());
+  }
+  // One pasted name -> { name, tag, notes[] }: Last-comma-First flipped, pronounce junk / AP / Injured tags and nicknames in quotes or parentheses removed
+  // (kept as the tag, like "nickname: Lily"), accents stripped to ASCII, ALL-CAPS / all-lowercase recased, spacing collapsed.
+  function cleanName(raw) {
+    const notes = []; let t = norm(raw); const tags = [];
+    t = RC.stripPronounce(t);
+    const tg = RC.nameTags(t); if (tg.length) { tags.push(...tg); t = RC.stripNameTags(t); }
+    t = t.replace(/\s*[“"‘(]\s*([^”"’)]{1,25}?)\s*[”"’)]\s*/g, (m, nick) => { tags.push('nickname: ' + nick.trim()); notes.push('nickname removed'); return ' '; }).replace(/\s+/g, ' ').trim();
+    const cm = t.match(/^([^,]+),\s*([^,]+)$/); if (cm && !/^(jr|sr|ii|iii|iv)\.?$/i.test(cm[2].trim())) { t = cm[2].trim() + ' ' + cm[1].trim(); notes.push('Last, First flipped'); }
+    const un = RC.unaccent(t); if (un !== t) { t = un; notes.push('accents stripped'); }
+    if (t.length > 3 && (t === t.toUpperCase() || t === t.toLowerCase()) && /[A-Za-z]/.test(t)) { t = titleCase(t); notes.push('case fixed'); }
+    t = t.replace(/\s+/g, ' ').trim();
+    return { name: t, tag: tags.join('; '), notes };
+  }
+  // Level token from a team heading/name: "Boston Jr Eagles 16U", "Selects U18AA", "East Coast Wizards 16-2" -> '16U' / 'U18' / '16U'
+  function levelFromText(t) {
+    const s = norm(t); let m = s.match(/\b(U\s?(1[0-9]|2[0-2])(?:AAA|AA|A|B)?)\b/i); if (m) return m[1].replace(/\s/g, '').toUpperCase();
+    m = s.match(/\b((1[0-9]|2[0-2])\s?U(?:AAA|AA|A|B)?)\b/i); if (m) return m[1].replace(/\s/g, '').toUpperCase();
+    m = s.match(/\b(1[0-9]|2[0-2])\s*-\s*[12]\b/); if (m) return m[1] + 'U';
+    return '';
+  }
+  const countryFromState = st => (RC.CANADA_PROVINCE && (RC.CANADA_PROVINCE[st] || Object.values(RC.CANADA_PROVINCE).includes(st))) ? 'CAN' : '';
+
+  /* toRawRows(parsed, defaults) -> rows in the importer's raw layout.
+     defaults: { year (2026), tourney ('Misc'), team, level, country }  — a Team/Level/Country column or a block heading overrides these per row. */
+  function toRawRows(parsed, d) {
+    d = d || {}; const out = [], rowWarnings = [];
+    parsed.blocks.forEach(b => {
+      const m = b.map, cell = (r, f) => (m[f] != null ? norm(r[m[f]]) : '');
+      b.rows.forEach((r, ri) => {
+        let name = cell(r, 'name'); if (!name && (m.first != null || m.last != null)) name = (cell(r, 'first') + ' ' + cell(r, 'last')).trim();
+        else if (name && m.first != null && m.last != null && !/\s/.test(name)) name = (cell(r, 'first') + ' ' + cell(r, 'last')).trim();
+        if (!name || /^(name|player|totals?|goalies|forwards|defense|defence|skaters)$/i.test(name)) return;
+        if (/^\d+$/.test(name)) { rowWarnings.push(`${b.heading || 'paste'} row ${ri + 1}: "${name}" is not a name (skipped)`); return; }
+        const cn = cleanName(name);
+        const team = cell(r, 'team') || b.heading || d.team || '';
+        let level = cell(r, 'level') || levelFromText(team) || d.level || '';
+        const hometown = cell(r, 'hometown'), state = cell(r, 'state');
+        let country = cell(r, 'country').toUpperCase().replace(/^CANADA$/, 'CAN').replace(/^(USA|UNITED STATES)$/, 'US') || d.country || '';
+        const yearCell = cell(r, 'season') || ''; const yr = (yearCell.match(/(20\d\d)/) || [])[1] || d.year || '';
+        const gradRaw = cell(r, 'grad'), yobRaw = cell(r, 'yob');
+        let dob = cell(r, 'dob'), yob = yobRaw;
+        if (!yob && dob) { const ym = dob.match(/(19|20)\d\d/); if (ym && !/^(19|20)\d\d$/.test(dob)) { /* yob is derived later by the caller from a full DOB */ } }
+        out.push({
+          Year: String(yr), Tourney: cell(r, 'tourney') || d.tourney || 'Misc', Level: level, '#': cell(r, 'no').replace(/^#/, ''), Name: cn.name, Pos: cell(r, 'pos'),
+          YOB: yob, Grad: gradRaw, Committed: cell(r, 'committed'), Team: team, Country: country, DOB: dob, School: cell(r, 'school'), Shot: cell(r, 'shot'),
+          State: state, Height: cell(r, 'height'), Hometown: hometown, NameTag: cn.tag, _notes: cn.notes, _src: (b.heading || '') + '#' + (ri + 1),
+        });
+      });
+    });
+    return { rows: out, rowWarnings };
+  }
+
+  /* ------------------------------ cleaning ------------------------------ */
+
+  const emptyReport = () => ({ unknownTourneys: {}, swapFlags: [], yearFlags: [], heightFlags: [], commitUnmatched: {}, unmatchedOrgs: {}, badLevel: {}, squadWarnings: [], conflicts: { n: 0, rg: 0, rp: 0, country: 0 }, tagged: 0 });
+  const normKey = s => norm(s).toLowerCase().replace(/^the\s+/, '').replace(/[^a-z0-9]/g, '');
+  const labelOf = (club, lvl, squad, prep) => squad === 2 ? `${club} ${lvl.replace(/U$/, '')}-2` : `${club}${prep ? ' Prep' : ''} ${lvl}`;
+
+  /* clean(rawRows, ctx) -> { teams: [candidate], flags, summary }
+     ctx: { typeAliases, d1, known (Set of personkeys), birthYears (Map pk -> year), season ('2026-27'), clubSpellings (Map lower -> spelling) } */
+  function clean(rawRows, ctx) {
+    const match = IT.typeMatcher(ctx.typeAliases || []);
+    const start = +(String(ctx.season || '').slice(0, 4)) || 0;
+    const canon = s => (ctx.clubSpellings && ctx.clubSpellings.get(s.toLowerCase())) || s;
+    const byKey = new Map(), flags = [], summary = { rows: rawRows.length, accents: 0, recased: 0, nicknames: 0, flipped: 0, dropped: 0 };
+    rawRows.forEach((r, idx) => {
+      const rep = emptyReport(), S = { RC, d1: ctx.d1, known: ctx.known || null, match, canon, report: rep };
+      // country: explicit > Type table > Canadian province in the row > US
+      const hit = match(IT.stripTags(r.Team));
+      let country = r.Country || (hit && hit.country) || countryFromState(norm(r.State)) || 'US';
+      const cr = IT.cleanRow(Object.assign({}, r, { Country: country }), idx, S);
+      if (!cr) { summary.dropped++; flags.push({ src: r._src, name: r.Name, level: 'error', msg: `Unknown tournament "${r.Tourney}" (use Stoney, Pittsburgh, MNRosters, NIT or Misc)` }); return; }
+      (r._notes || []).forEach(n => { if (n === 'accents stripped') summary.accents++; else if (n === 'case fixed') summary.recased++; else if (n === 'nickname removed') summary.nicknames++; else if (n === 'Last, First flipped') summary.flipped++; });
+      const rowFlags = [];
+      rep.swapFlags.forEach(m => rowFlags.push({ level: 'warn', msg: 'Possible swapped first/last name: ' + m.replace(/^.*?:\s*/, '') }));
+      rep.yearFlags.forEach(m => rowFlags.push({ level: 'warn', msg: m.replace(/^.*?:\s*/, '') }));
+      rep.heightFlags.forEach(m => rowFlags.push({ level: 'warn', msg: m.replace(/^.*?:\s*/, '') }));
+      Object.keys(rep.commitUnmatched).forEach(k => rowFlags.push({ level: 'info', msg: `Committed school "${k}" is not on the D1 list (kept as typed)` }));
+      (rep.commitJunk || []).forEach(m => rowFlags.push({ level: 'info', msg: m.replace(/^.*?:\s*/, '') }));
+      if (norm(r.Grad) && !cr.grad) rowFlags.push({ level: 'warn', msg: `Grad "${norm(r.Grad)}" has no usable year (left blank)` });
+      if (!cr.name || !/\S+\s+\S+/.test(cr.name)) rowFlags.push({ level: 'warn', msg: 'Name has only one word' });
+      if (/\d/.test(cr.name)) rowFlags.push({ level: 'warn', msg: 'Name contains a digit' });
+      // birth year: explicit, else from a full DOB
+      let ry = cr.yob; if (!ry && cr.dob) { const dm = cr.dob.match(/(19|20)\d\d/); if (dm) ry = dm[0]; }
+      cr.yob = ry;
+      const by = +ry || (ctx.birthYears && ctx.birthYears.get(cr.pk)) || 0;
+      if (by && start && MAXAGE[cr.lvl] != null && (start - by) > MAXAGE[cr.lvl]) rowFlags.push({ level: 'warn', msg: `Born ${by}: too old for ${cr.lvl} in ${ctx.season}` });
+      if (by && cr.grad && !(+cr.grad - by >= 16 && +cr.grad - by <= 20)) rowFlags.push({ level: 'warn', msg: `Grad ${cr.grad} does not fit birth year ${by}` });
+      const tkey = `${cr.club}|${cr.lvl}|${cr.squad}`;
+      let c = byKey.get(tkey);
+      if (!c) { c = { key: tkey, club: cr.club, lvl: cr.lvl, squad: cr.squad, prep: false, raws: new Set(), levels: new Set(), tourneys: new Set(), players: new Map(), dupes: [], unmatchedOrg: !hit && !!IT.stripTags(r.Team), hit }; byKey.set(tkey, c); }
+      if (cr.prep) c.prep = true; c.raws.add(cr.rawTeam); if (cr.rawLevel) c.levels.add(cr.rawLevel); c.tourneys.add(cr.tk);
+      const prev = c.players.get(cr.pk);
+      if (prev) { c.dupes.push(cr.name); FIELDS.forEach(f => { const k = { n: 'n', ry: 'yob', rg: 'grad', rp: 'pos', dob: 'dob', school: 'school', shot: 'shot', state: 'state', ht: 'ht', home: 'home', commit: 'commit' }[f]; if (!prev.row[k] && cr[k]) prev.row[k] = cr[k]; }); prev.flags.push(...rowFlags); }
+      else c.players.set(cr.pk, { row: cr, flags: rowFlags, src: r._src });
+    });
+    const teams = [];
+    for (const c of byKey.values()) {
+      const players = [], votes = {};
+      c.players.forEach(({ row: q, flags, src }) => {
+        const p = { pk: q.pk, n: q.n, name: q.name, ry: q.yob, rg: q.grad, rp: q.pos };
+        const opt = { dob: q.dob, school: q.school, shot: q.shot, state: q.state, ht: q.ht, home: q.home, commit: q.commit };
+        Object.keys(opt).forEach(k => { if (opt[k] !== '' && opt[k] != null) p[k] = opt[k]; });
+        p._country = q.country; p.t = [q.tk]; if (q.tag) p.tag = q.tag;
+        votes[q.country] = (votes[q.country] || 0) + 1;
+        players.push({ p, flags, src });
+      });
+      const country = Object.entries(votes).sort((a, b) => b[1] - a[1] || (a[0] === 'US') - (b[0] === 'US'))[0][0];
+      players.forEach(({ p }) => { if (p._country && p._country !== country) p.ctry = p._country; delete p._country; });
+      players.sort((a, b) => posRank(a.p.rp) < posRank(b.p.rp) ? -1 : posRank(a.p.rp) > posRank(b.p.rp) ? 1 : 0);
+      const dupNums = {}; players.forEach(({ p }) => { if (p.n) (dupNums[p.n] = dupNums[p.n] || []).push(p.name); });
+      const teamFlags = [];
+      Object.keys(dupNums).forEach(n => { if (dupNums[n].length > 1) teamFlags.push({ level: 'warn', msg: `Jersey #${n} appears for ${dupNums[n].join(' and ')}` }); });
+      if (players.length > MAX_ROSTER) teamFlags.push({ level: 'warn', msg: `${players.length} players is more than the ${MAX_ROSTER}-player maximum: two rosters pasted together, or one twice?` });
+      if (c.dupes.length) teamFlags.push({ level: 'info', msg: `Listed twice in the paste and merged: ${c.dupes.join(', ')}` });
+      if (c.unmatchedOrg) teamFlags.push({ level: 'info', msg: `"${c.club}" has no Type-table entry; the club name is used as typed` });
+      if (!['14U', '16U', '19U', 'U15', 'U18', 'U22'].includes(c.lvl)) teamFlags.push({ level: 'warn', msg: `Level "${c.lvl}" is not one of 14U/16U/19U (US) or U15/U18/U22 (Canada)` });
+      const cand = { key: c.key, club: c.club, lvl: c.lvl, squad: c.squad, prep: c.prep, team: labelOf(c.club, c.lvl, c.squad, c.prep), country, levels: [...c.levels], raw: [...c.raws], tourneys: [...c.tourneys].sort((a, b) => IT.RECENCY.indexOf(a) - IT.RECENCY.indexOf(b)), players: players.map(x => x.p), flagsByPk: {}, teamFlags };
+      players.forEach(x => { if (x.flags.length) cand.flagsByPk[x.p.pk] = x.flags; });
+      teams.push(cand);
+    }
+    teams.sort((a, b) => a.team.localeCompare(b.team));
+    return { teams, summary, flags };
+  }
+
+  /* ------------------------------ comparing ------------------------------ */
+
+  const sameVal = (f, a, b) => norm(a).toLowerCase() === norm(b).toLowerCase();
+  function lev(a, b) { if (a === b) return 0; const m = a.length, n = b.length; if (!m || !n) return Math.max(m, n); let prev = Array.from({ length: n + 1 }, (_, i) => i); for (let i = 1; i <= m; i++) { const cur = [i]; for (let j = 1; j <= n; j++) cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); prev = cur; } return prev[n]; }
+
+  // Find the teams already on file for a candidate. exact = same club + level + squad; similar = same club at another level, or a near-identical club spelling.
+  function findExisting(seasonTeams, cand) {
+    const list = seasonTeams || [];
+    const exact = list.findIndex(t => normKey(t.club) === normKey(cand.club) && t.lvl === cand.lvl && (t.squad || 1) === cand.squad);
+    const similar = [];
+    list.forEach((t, i) => { if (i === exact) return; const a = normKey(t.club), b = normKey(cand.club); if (a === b) similar.push({ i, why: `same club at ${t.lvl}${t.squad === 2 ? ' (#2 team)' : ''}`, team: t.team }); else if (a && b && (a.includes(b) || b.includes(a) || lev(a, b) <= 2)) similar.push({ i, why: 'similar club name', team: t.team }); });
+    return { exact, similar };
+  }
+
+  /* compare(existingTeam | null, cand) ->
+     { status: 'new'|'identical'|'adds'|'conflicts', added:[player], fills:[{pk,name,field,value}], conflicts:[{pk,name,field,have,paste}], same:n, notInPaste:[player], near:[{paste,onFile}], overlap } */
+  function compare(ex, cand) {
+    const res = { added: [], fills: [], conflicts: [], same: 0, notInPaste: [], near: [], overlap: null };
+    if (!ex) { res.added = cand.players.slice(); res.status = 'new'; return res; }
+    const have = new Map(ex.players.map(p => [p.pk, p])), seen = new Set();
+    const exKeys = ex.players.map(p => p.pk);
+    cand.players.forEach(q => {
+      const p = have.get(q.pk);
+      if (!p) {
+        const near = exKeys.find(k => k !== q.pk && !cand.players.some(z => z.pk === k) && lev(k, q.pk) <= 2 && k.split('|')[0][0] === q.pk.split('|')[0][0]);
+        if (near) res.near.push({ paste: q, onFile: have.get(near) });
+        res.added.push(q); return;
+      }
+      seen.add(q.pk); let diff = false;
+      FIELDS.forEach(f => {
+        const a = norm(p[f]), b = norm(q[f]); if (!b) return;
+        if (!a) { res.fills.push({ pk: q.pk, name: p.name, field: f, value: b }); diff = true; }
+        else if (!sameVal(f, a, b)) { res.conflicts.push({ pk: q.pk, name: p.name, field: f, have: a, paste: b }); diff = true; }
+      });
+      if (norm(p.name) !== norm(q.name)) { res.conflicts.push({ pk: q.pk, name: p.name, field: 'name', have: p.name, paste: q.name }); diff = true; }
+      const pc = p.ctry || ex.country, qc = q.ctry || cand.country;
+      if (!diff) res.same++;
+    });
+    res.notInPaste = ex.players.filter(p => !seen.has(p.pk));
+    res.overlap = cand.players.length ? seen.size / Math.min(cand.players.length, ex.players.length || 1) : 0;
+    res.status = res.conflicts.length ? 'conflicts' : (res.added.length || res.fills.length) ? 'adds' : 'identical';
+    return res;
+  }
+
+  /* ------------------------------- applying ------------------------------- */
+
+  const sortT = t => [...new Set(t)].sort((a, b) => IT.RECENCY.indexOf(a) - IT.RECENCY.indexOf(b));
+  const clone = x => JSON.parse(JSON.stringify(x));
+
+  /* applyPlan(rosters, season, plan, opts) -> new rosters object (input untouched) + log.
+     plan: [ { cand, existingIndex (or -1/null for a new team), accept: { 'pk|field': true }, skipAdd: { pk: true }, remove: [pk] } ]
+     Blank fields on file are always filled; a conflicting value is replaced only when accept['pk|field'] is true (the old value goes to alt for n/rg/rp).
+     Players on file but not in the paste are kept unless listed in remove. opts.frozen = seasons that may not be written. */
+  function applyPlan(rosters, season, plan, opts) {
+    opts = opts || {};
+    if ((opts.frozen || []).includes(season)) throw new Error(`Season ${season} is frozen (archive); it cannot be changed from here.`);
+    const out = clone(rosters); if (!out[season]) out[season] = [];
+    const log = [];
+    plan.forEach(item => {
+      const cand = item.cand, accept = item.accept || {}, skip = item.skipAdd || {}, removeSet = new Set(item.remove || []);
+      if (item.existingIndex == null || item.existingIndex < 0) {
+        const t = { team: cand.team, country: cand.country, club: cand.club, lvl: cand.lvl };
+        if (cand.squad === 2) t.squad = 2;
+        t.levels = cand.levels.slice(); t.raw = cand.raw.slice(); t.tourneys = cand.tourneys.slice();
+        t.players = cand.players.filter(p => !skip[p.pk]).map(p => clone(p));
+        out[season].push(t); log.push(`new team ${t.team}: ${t.players.length} players`); return;
+      }
+      const ex = out[season][item.existingIndex]; const have = new Map(ex.players.map(p => [p.pk, p]));
+      let added = 0, filled = 0, replaced = 0, removed = 0;
+      cand.players.forEach(q => {
+        const p = have.get(q.pk);
+        if (!p) { if (skip[q.pk]) return; ex.players.push(clone(q)); added++; return; }
+        FIELDS.forEach(f => {
+          const b = norm(q[f]); if (!b) return; const a = norm(p[f]);
+          if (!a) { p[f] = q[f]; filled++; }
+          else if (!sameVal(f, a, b) && accept[q.pk + '|' + f]) {
+            if (['n', 'rg', 'rp'].includes(f)) { p.alt = p.alt || {}; p.alt[f] = [...new Set([...(p.alt[f] || []), a])]; }
+            p[f] = q[f]; replaced++;
+          }
+        });
+        if (accept[q.pk + '|name'] && norm(q.name) !== norm(p.name)) { p.name = q.name; replaced++; }
+        if (q.ctry && !p.ctry && q.ctry !== ex.country) p.ctry = q.ctry;
+        if (q.tag && !p.tag) p.tag = q.tag;
+        p.t = sortT([...(p.t || []), ...(q.t || [])]);
+      });
+      if (removeSet.size) { const before = ex.players.length; ex.players = ex.players.filter(p => !removeSet.has(p.pk)); removed = before - ex.players.length; }
+      ex.raw = [...new Set([...(ex.raw || []), ...cand.raw])]; ex.levels = [...new Set([...(ex.levels || []), ...cand.levels])];
+      ex.tourneys = sortT([...(ex.tourneys || []), ...cand.tourneys]);
+      ex.players = ex.players.map((p, i) => ({ p, i })).sort((x, y) => (posRank(x.p.rp) < posRank(y.p.rp) ? -1 : posRank(x.p.rp) > posRank(y.p.rp) ? 1 : 0) || x.i - y.i).map(x => x.p);
+      log.push(`${ex.team}: +${added} players, ${filled} fields filled, ${replaced} replaced, ${removed} removed`);
+    });
+    return { rosters: out, log };
+  }
+
+  // Final sanity checks on a rosters object before it is written: duplicate personkeys on a team, oversize teams, empty teams.
+  function validate(rosters, seasons) {
+    const problems = [];
+    (seasons || Object.keys(rosters)).forEach(s => (rosters[s] || []).forEach(t => {
+      const seen = new Set(); t.players.forEach(p => { if (seen.has(p.pk)) problems.push(`${s} ${t.team}: duplicate ${p.pk}`); seen.add(p.pk); if (!/^[a-z]+\|[a-z]+$/.test(p.pk)) problems.push(`${s} ${t.team}: odd personkey "${p.pk}" for ${p.name}`); });
+      if (t.players.length > MAX_ROSTER) problems.push(`${s} ${t.team}: ${t.players.length} players`);
+      if (!t.players.length) problems.push(`${s} ${t.team}: empty team`);
+    }));
+    return problems;
+  }
+
+  return { parseInput, toRawRows, clean, findExisting, compare, applyPlan, validate, cleanName, levelFromText, labelOf, normKey, FIELDS, FIELD_LABEL, MAX_ROSTER, inferMap };
+});

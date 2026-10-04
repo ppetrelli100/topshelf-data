@@ -13,7 +13,8 @@
    Usage:
      node tools/apply_corrections.js              apply, write the source files, print a report
      node tools/apply_corrections.js --dry-run    report only, write nothing
-     node tools/apply_corrections.js --rebuild    apply, then run build_master.js
+     node tools/apply_corrections.js --rebuild    apply, then run build_master.js (always, even with no queued corrections:
+                                                  rosters.json may have been changed by the Teams tab)
      --repo <dir>                                 topshelf-data checkout (default: the folder above tools/)
 
    Sources it can edit: tourn (rosters.json + rosters_archive.json, every season of the player), ndc, commits, prov, ccm, nepsac, ma, colrosters.
@@ -85,14 +86,16 @@ function applyRosters(corrs) {
   for (const file of ROSTER_FILES) {
     const f = path.join(repo, file); if (!fs.existsSync(f)) continue;
     const text = fs.readFileSync(f, 'utf8'), data = JSON.parse(text);
-    if (JSON.stringify(data, null, 2) !== text) throw new Error(file + ' does not round-trip exactly; refusing to rewrite it');
+    const trail = /\n$/.test(text); // keep whatever the file had (the importer wrote none; some push paths add one)
+    if (JSON.stringify(data, null, 2) + (trail ? '\n' : '') !== text) throw new Error(file + ' does not round-trip exactly; refusing to rewrite it');
     let changed = false;
     for (const season of Object.keys(data)) for (const t of data[season]) {
       for (let pi = 0; pi < t.players.length; pi++) {
         const p = t.players[pi];
         for (const c of corrs) {
           const key = ROSTER_COLS[c.field]; if (!key || p.pk !== c.personkey) continue;
-          if (norm(p[key]) !== norm(c.from)) continue;
+          const cur = c.field === 'Country' ? (p.ctry || t.country) : p[key]; // Country: the player's own, else the team's (what the viewer shows)
+          if (norm(cur) !== norm(c.from)) continue;
           if (c.field === 'Country') { if (norm(c.to) === norm(t.country)) delete p.ctry; else p.ctry = c.to; }
           else p[key] = c.to;
           if (c.field === 'Name') {
@@ -111,7 +114,7 @@ function applyRosters(corrs) {
         }
       }
     }
-    if (changed) { if (!DRY) fs.writeFileSync(f, JSON.stringify(data, null, 2)); written.push(file); }
+    if (changed) { if (!DRY) fs.writeFileSync(f, JSON.stringify(data, null, 2) + (trail ? '\n' : '')); written.push(file); }
   }
   return { hits, written, notes };
 }
@@ -144,9 +147,9 @@ for (const [c, n, file] of results) {
   console.log((n > 0 ? (DRY ? 'WOULD APPLY ' : 'APPLIED     ') + `(${n} row${n === 1 ? '' : 's'}) ` : n === 0 ? 'NO MATCH     (already applied, or the source has changed) ' : n === -1 ? 'NOT EDITABLE (field has no raw column in this source) ' : 'NOT EDITABLE (source cannot be corrected here) ') + what + '  [' + file + ']');
 }
 if (!all.length) console.log('source_corrections.json has no corrections.');
-if (REBUILD && changedAny && !DRY) {
+if (REBUILD && !DRY) {   // always: rosters.json can change with no queued correction (Teams tab pushes), and master reads it
   // rosters.json is the editable source now, so there is no re-import step: a corrected roster is simply what build_master reads next.
   const run = (cmd) => { console.log('\n$ ' + cmd); cp.execSync(cmd, { cwd: repo, stdio: 'inherit' }); };
   run('node tools/build_master.js');
   console.log('\nDone. master_candidate.json is rebuilt; diff it against master.json, then promote as usual.');
-} else if (REBUILD && !changedAny) console.log('\nNothing changed, so nothing to rebuild.');
+}
