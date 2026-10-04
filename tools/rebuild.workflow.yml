@@ -1,0 +1,66 @@
+# Rebuild master from the Master Viewer ("Apply queued corrections and rebuild").
+# review  = apply corrections + rebuild on this runner, publish only a summary (branch rebuild-review). main is NOT touched.
+# promote = apply corrections + rebuild, copy the candidate over master.json, commit the results to main.
+# Started from updates.html through the GitHub API (workflow_dispatch), or by hand from the Actions tab.
+name: Rebuild master
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "review (summary only, main untouched) or promote (publish to main)"
+        required: true
+        default: review
+        type: choice
+        options: [review, promote]
+concurrency:
+  group: rebuild-master
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check the build inputs are in the repo
+        run: |
+          for f in ep.json master_last_hockeyfile.json master.json overrides.json source_corrections.json tools/build_master.js tools/master_picks.json tools/apply_corrections.js tools/rebuild_summary.js archive/tourneys_2023-2026.csv; do
+            test -f "$f" || { echo "::error::$f is missing from the repo - commit it with GitHub Desktop first"; exit 1; }
+          done
+      - name: Apply corrections, re-import tournaments, rebuild master
+        run: node tools/apply_corrections.js --rebuild 2>&1 | tee rebuild_log.txt
+      - name: Summarize what changed
+        run: node tools/rebuild_summary.js
+      - name: Review - publish the summary only
+        if: inputs.mode == 'review'
+        run: |
+          cp rebuild_summary.json /tmp/rebuild_summary.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan rebuild-review
+          git rm -rf --quiet . || true
+          cp /tmp/rebuild_summary.json rebuild_summary.json
+          git add rebuild_summary.json
+          git commit -q -m "Rebuild review summary"
+          git push --force origin rebuild-review
+      - name: Promote - copy candidate over master.json and commit to main
+        if: inputs.mode == 'promote'
+        run: |
+          cp master_candidate.json master.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git reset -q -- master_candidate.json master_diff.json rebuild_log.txt import_report_all.json || true
+          if git diff --cached --quiet; then echo "Nothing to commit."; exit 0; fi
+          git commit -q -m "Rebuild master (Master Viewer): $(node -e "const s=require('./rebuild_summary.json');console.log(s.applied.length+' correction(s) applied, '+s.players.after+' players, '+s.changedCells+' cells changed')")"
+          git pull --rebase origin main
+          git push origin main
