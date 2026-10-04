@@ -182,3 +182,8 @@ Differences are expected where the tourneys/rosters cleanup changed data, where 
 
 master.json (promoted), master_sources.json, master_last_hockeyfile.json, tools/build_master.js, tools/master_picks.json, tools/MASTER_NOTES.md, tools/campRank.js (newest copy), tools/import_tourneys.js (--window / --players-out),
 overrides.json, tourneys_all.json, commits_d3.json, intl_wnt_o.json, regionals.json. Scratch, do not commit: master_candidate.json, master_diff.json.
+
+## Grad rule (Oct 2026) and Master Viewer
+- Grad priority is override, ndc, tourn, prov, nepsac, ma, ccm, commits, d3, with one exception in `pickGrad()` (build_master.js): a tournament/roster grad year beats NDC only when its season starts AFTER the newest NDC camp year, it differs from NDC, and Grad - BirthYr is 17..19 (a probable reclass). The overruled NDC value goes in alts and the sidecar note reads "newer than NDC (season X vs NDC Y)". Result on promotion: 33 Grad values changed vs the previous master (plus the camp columns that follow from Grad); 58 players keep a newer-than-NDC tourney grad.
+- Generic overrides: overrides.json can override any ORDER field (value '' forces blank) except the specially handled Grad/BirthYr/Position/College/DOB/DOBPartial/PersonKey, which are handled where they are picked.
+- Master Viewer: new tab in hockeyfile/updates.html (own script block at the end of the page). Shows master next to every source; green text = master value, solid thin green box = source the picker used, dotted green box = sources that agreed. Overrides column is editable and saves to overrides.json (optionally patching master.json and master_sources.json). Deep link: updates.html?mv=<personkey>.

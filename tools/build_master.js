@@ -88,6 +88,17 @@ function offer(src, pk, field) {
   for (const r of (src === 'ep' ? epRows(pk) : S.t.get(pk) || [])) { const v = N[g[1]](r[g[0]]); if (v !== '') return { v }; }
   return null;
 }
+// Grad: NDC (player-entered) wins by default. A tournament/roster grad year overrides it only when it is from a season starting AFTER the newest NDC
+// camp year, differs, and fits the birth year (Grad - BirthYr in 17..19) -- i.e. a probable reclass. The overruled NDC value goes into alts, flagged in note.
+function pickGrad(pk) {
+  const w = pickField(pk, 'Grad'); if (!w || w.src !== 'ndc') return w;
+  const nr = (SRC.ndc.t.get(pk) || []).find(r => N.grad(r.GRAD) !== ''); const tr = (SRC.tourn.t.get(pk) || []).find(r => N.grad(r.rg) !== '');
+  if (!nr || !tr) return w;
+  const tg = N.grad(tr.rg), tsea = parseInt(String(tr.season).slice(0, 4), 10), by = +CUR_BY;
+  if (String(tg) === String(w.v) || !(tsea > +nr.YEAR) || !by || !(tg - by >= 17 && tg - by <= 19)) return w;
+  const alts = [['ndc', w.v]].concat((w.alts || []).filter(a => String(a[1]) !== String(tg)));
+  return { v: tg, src: 'tourn', alts, note: 'newer than NDC (season ' + tr.season + ' vs NDC ' + nr.YEAR + ')' };
+}
 function pickField(pk, field, skip) {
   let win = null; const alts = [];
   for (const src of picks.fields[field]) { if (src === skip) continue;
@@ -258,7 +269,7 @@ const ccmKeys = SRC.ccm.t, out = [], side = {};
 [...keys].sort().forEach(pk => {
   const row = { PersonKey: pk }, sd = {};
   CUR_BY = ''; { const by = pickField(pk, 'BirthYr', 'ep'); CUR_BY = by ? by.v : ''; }
-  for (const f of Object.keys(picks.fields)) { if (f === 'DOB') continue; const p = f === 'Name' ? pickName(pk) : f === 'Position' ? pickPos(pk) : pickField(pk, f); if (p && p.v !== '') { row[f] = p.v; sd[f] = { src: p.src }; if (p.alts) sd[f].alts = p.alts; if (p.agree) sd[f].agree = p.agree; if (p.conflict) sd[f].conflict = true; } else if (p && p.src === 'override') sd[f] = { src: 'override', blank: true }; }
+  for (const f of Object.keys(picks.fields)) { if (f === 'DOB') continue; const p = f === 'Name' ? pickName(pk) : f === 'Position' ? pickPos(pk) : f === 'Grad' ? pickGrad(pk) : pickField(pk, f); if (p && p.v !== '') { row[f] = p.v; sd[f] = { src: p.src }; if (p.alts) sd[f].alts = p.alts; if (p.agree) sd[f].agree = p.agree; if (p.note) sd[f].note = p.note; if (p.conflict) sd[f].conflict = true; } else if (p && p.src === 'override') sd[f] = { src: 'override', blank: true }; }
   stdLoc(row, sd);
   { const d = pickDob(pk);
     if (d && d.best) { const k = d.forced ? (d.forced === 'DOB' && d.best.prec === 'day' ? 'DOB' : 'DOBPartial') : (d.best.prec === 'day' ? 'DOB' : 'DOBPartial'); row[k] = d.str; sd[k] = { src: d.src || d.best.src, prec: d.best.prec }; if (d.best.sus) sd[k].suspect = true; if (d.supporters && d.supporters.length > 1) sd[k].agree = d.supporters; if (d.note) sd[k].note = d.note; if (d.alts && d.alts.length) sd[k].alts = d.alts; if (d.conflict) sd[k].conflict = true; if (d.ambiguous) sd[k].ambiguous = true;
@@ -271,6 +282,12 @@ const ccmKeys = SRC.ccm.t, out = [], side = {};
   [2024, 2025, 2026].forEach(y => { const t = pickTeam(pk, y); if (t) { row['Team' + y] = t.v; sd['Team' + y] = { src: 'rosters' }; if (t.alts.length) sd['Team' + y].alts = t.alts.map(a => ['rosters', a]); } });
   if (ccmKeys.has(pk)) { row.CCM68 = 'Yes'; sd.CCM68 = { src: 'ccm' }; }
   if (REGIONALS.has(pk)) { row.Regionals = 'Yes'; sd.Regionals = { src: 'regionals' }; }
+  // Generic per-player overrides (overrides.json) for any other field (Name, Height, Weight, GPA, City, State, Country, School, Team*, Notable, camp columns...).
+  // Grad, BirthYr, Position, College, DOB and DOBPartial are handled where they are picked. value '' forces the field blank.
+  const OV_SPECIAL = new Set(['Grad', 'BirthYr', 'Position', 'College', 'DOB', 'DOBPartial', 'PersonKey']);
+  (overrides.get(pk) || []).forEach(ov => { if (OV_SPECIAL.has(ov.field) || !ORDER.includes(ov.field)) return;
+    if (ov.value === '' || ov.value == null) { delete row[ov.field]; sd[ov.field] = { src: 'override', blank: true }; }
+    else { const prev = row[ov.field]; row[ov.field] = ov.value; sd[ov.field] = { src: 'override' }; if (prev !== undefined && String(prev) !== String(ov.value)) sd[ov.field].alts = [['picked', prev]]; if (ov.notes) sd[ov.field].note = ov.notes; } });
   const o = {}; ORDER.forEach(k => { if (row[k] !== undefined) o[k] = row[k]; }); out.push(o); side[pk] = sd;
 });
 fs.writeFileSync(R(opt.out), JSON.stringify(out)); fs.writeFileSync(R(opt.sources), JSON.stringify(side));

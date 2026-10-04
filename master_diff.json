@@ -553,8 +553,8 @@
    "partialSame": 166
   },
   "Grad": {
-   "same": 10504,
-   "differ": 106,
+   "same": 10489,
+   "differ": 121,
    "masterOnly": 6,
    "candOnly": 633,
    "samples": {
@@ -572,12 +572,6 @@
       "src": "tourn"
      },
      {
-      "pk": "anderson|hailey",
-      "master": 2023,
-      "cand": 2026,
-      "src": "tourn"
-     },
-     {
       "pk": "armstrong|hayley",
       "master": 2027,
       "cand": 2028,
@@ -588,12 +582,6 @@
       "master": 2028,
       "cand": 2029,
       "src": "ndc"
-     },
-     {
-      "pk": "aslan|amanda",
-      "master": 2023,
-      "cand": 2026,
-      "src": "tourn"
      },
      {
       "pk": "aucoin|anna",
@@ -620,6 +608,12 @@
       "src": "tourn"
      },
      {
+      "pk": "beigel|teagan",
+      "master": 2028,
+      "cand": 2029,
+      "src": "ndc"
+     },
+     {
       "pk": "bernard|melody",
       "master": 27,
       "cand": 2028,
@@ -630,6 +624,12 @@
       "master": 2031,
       "cand": 2030,
       "src": "tourn"
+     },
+     {
+      "pk": "brennan|zoey",
+      "master": 2029,
+      "cand": 2028,
+      "src": "ndc"
      }
     ],
     "masterOnly": [
@@ -3264,21 +3264,21 @@
    }
   },
   "Fresh": {
-   "same": 556,
+   "same": 552,
    "differ": 2,
-   "masterOnly": 19,
-   "candOnly": 23,
+   "masterOnly": 23,
+   "candOnly": 32,
    "samples": {
     "differ": [
      {
-      "pk": "doherty|caroline",
-      "master": "U15",
-      "cand": "U1617",
+      "pk": "liu|sophia",
+      "master": "U1617",
+      "cand": "U15",
       "src": "campRank"
      },
      {
-      "pk": "liu|sophia",
-      "master": "U1617",
+      "pk": "martin|madelyn",
+      "master": "x",
       "cand": "U15",
       "src": "campRank"
      }
@@ -3309,12 +3309,6 @@
       "src": ""
      },
      {
-      "pk": "hall|taylor",
-      "master": "U15",
-      "cand": "",
-      "src": ""
-     },
-     {
       "pk": "herman|julianna",
       "master": "x",
       "cand": "",
@@ -3333,14 +3327,14 @@
       "src": ""
      },
      {
-      "pk": "lee|rachel",
-      "master": "x",
+      "pk": "lee|charlotte",
+      "master": "U15",
       "cand": "",
       "src": ""
      },
      {
-      "pk": "li|alika",
-      "master": "U15",
+      "pk": "lee|rachel",
+      "master": "x",
       "cand": "",
       "src": ""
      },
@@ -3352,6 +3346,12 @@
      },
      {
       "pk": "murphy|ava",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "peterson|sophia",
       "master": "x",
       "cand": "",
       "src": ""
@@ -3377,12 +3377,6 @@
       "src": "campRank"
      },
      {
-      "pk": "aslan|amanda",
-      "master": "",
-      "cand": "U1617",
-      "src": "campRank"
-     },
-     {
       "pk": "aucoin|anna",
       "master": "",
       "cand": "ON_U16",
@@ -3401,9 +3395,21 @@
       "src": "campRank"
      },
      {
+      "pk": "beigel|teagan",
+      "master": "",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
       "pk": "bliss|avery",
       "master": "",
       "cand": "BCcamp",
+      "src": "campRank"
+     },
+     {
+      "pk": "cataruzolo|mia",
+      "master": "",
+      "cand": "U15",
       "src": "campRank"
      },
      {
@@ -3413,35 +3419,35 @@
       "src": "campRank"
      },
      {
-      "pk": "douglas|autumn",
-      "master": "",
-      "cand": "ON_U16",
-      "src": "campRank"
-     },
-     {
-      "pk": "erster|ryan",
+      "pk": "davidson|cora",
       "master": "",
       "cand": "U15",
       "src": "campRank"
      },
      {
-      "pk": "jimenez|sophia",
+      "pk": "douglas|autumn",
       "master": "",
-      "cand": "x",
+      "cand": "ON_U16",
       "src": "campRank"
      }
     ]
    }
   },
   "Soph": {
-   "same": 1399,
-   "differ": 6,
-   "masterOnly": 27,
-   "candOnly": 32,
+   "same": 1392,
+   "differ": 10,
+   "masterOnly": 30,
+   "candOnly": 33,
    "samples": {
     "differ": [
      {
       "pk": "ashlyncook|mary",
+      "master": "U15",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "beigel|teagan",
       "master": "U15",
       "cand": "U1617",
       "src": "campRank"
@@ -3453,9 +3459,9 @@
       "src": "campRank"
      },
      {
-      "pk": "hall|taylor",
-      "master": "U1617",
-      "cand": "U15",
+      "pk": "glass|sienna",
+      "master": "U15",
+      "cand": "U1617",
       "src": "campRank"
      },
      {
@@ -3468,6 +3474,24 @@
       "pk": "johnson|sarah",
       "master": "U15",
       "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "kim|kuylie",
+      "master": "U15",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "riccobelli|lauren",
+      "master": "U1617",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "sullivan|katherine",
+      "master": "U1617",
+      "cand": "U15",
       "src": "campRank"
      },
      {
@@ -3485,20 +3509,32 @@
       "src": ""
      },
      {
+      "pk": "cataruzolo|mia",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "cooper|lauren",
       "master": "x",
       "cand": "",
       "src": ""
      },
      {
-      "pk": "doherty|caroline",
-      "master": "U1617",
+      "pk": "dunn|ella",
+      "master": "x",
       "cand": "",
       "src": ""
      },
      {
-      "pk": "dunn|ella",
-      "master": "x",
+      "pk": "finnicum|hanley",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "franus|ava",
+      "master": "U15",
       "cand": "",
       "src": ""
      },
@@ -3521,31 +3557,19 @@
       "src": ""
      },
      {
-      "pk": "leblanc|arianne",
-      "master": "x",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "lee|rachel",
-      "master": "x",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "liu|sophia",
-      "master": "x",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "lloren|anna",
+      "pk": "kelly|quinn",
       "master": "U15",
       "cand": "",
       "src": ""
      },
      {
-      "pk": "macdonald|addison",
+      "pk": "landsverk|moira",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "leblanc|arianne",
       "master": "x",
       "cand": "",
       "src": ""
@@ -3556,18 +3580,6 @@
       "pk": "abougoush|sophia",
       "master": "",
       "cand": "BCcamp",
-      "src": "campRank"
-     },
-     {
-      "pk": "anderson|hailey",
-      "master": "",
-      "cand": "x",
-      "src": "campRank"
-     },
-     {
-      "pk": "aslan|amanda",
-      "master": "",
-      "cand": "x",
       "src": "campRank"
      },
      {
@@ -3623,25 +3635,49 @@
       "master": "",
       "cand": "x",
       "src": "campRank"
+     },
+     {
+      "pk": "kirsch|madyson",
+      "master": "",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "lee|charlotte",
+      "master": "",
+      "cand": "U15",
+      "src": "campRank"
      }
     ]
    }
   },
   "Jr": {
-   "same": 1310,
-   "differ": 4,
-   "masterOnly": 34,
-   "candOnly": 46,
+   "same": 1293,
+   "differ": 10,
+   "masterOnly": 45,
+   "candOnly": 41,
    "samples": {
     "differ": [
      {
-      "pk": "anderson|hailey",
-      "master": "U1617",
-      "cand": "x",
+      "pk": "kelly|quinn",
+      "master": "U18",
+      "cand": "U15",
+      "src": "campRank"
+     },
+     {
+      "pk": "landsverk|moira",
+      "master": "U18",
+      "cand": "U15",
       "src": "campRank"
      },
      {
       "pk": "liu|sophia",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "moffitt|ainsley",
       "master": "x",
       "cand": "U1617",
       "src": "campRank"
@@ -3653,15 +3689,45 @@
       "src": "campRank"
      },
      {
+      "pk": "rentmeester|grace",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "rousseau|sophia",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "sullivan|katherine",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
       "pk": "williams|brooke",
       "master": "TmAtl",
       "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "williams|catherine",
+      "master": "x",
+      "cand": "U1617",
       "src": "campRank"
      }
     ],
     "masterOnly": [
      {
       "pk": "ashlyncook|mary",
+      "master": "U1617",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "beigel|teagan",
       "master": "U1617",
       "cand": "",
       "src": ""
@@ -3697,7 +3763,19 @@
       "src": ""
      },
      {
+      "pk": "davidson|cora",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "dunn|ella",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "flod|teagan",
       "master": "x",
       "cand": "",
       "src": ""
@@ -3713,33 +3791,9 @@
       "master": "x",
       "cand": "",
       "src": ""
-     },
-     {
-      "pk": "herman|julianna",
-      "master": "x",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "horstman|eleanor",
-      "master": "x",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "johnson|sarah",
-      "master": "U1617",
-      "cand": "",
-      "src": ""
      }
     ],
     "candOnly": [
-     {
-      "pk": "aslan|amanda",
-      "master": "",
-      "cand": "x",
-      "src": "campRank"
-     },
      {
       "pk": "bakker|nya",
       "master": "",
@@ -3805,33 +3859,45 @@
       "master": "",
       "cand": "x",
       "src": "campRank"
+     },
+     {
+      "pk": "ellingson|tatum",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
      }
     ]
    }
   },
   "Sr": {
-   "same": 2838,
-   "differ": 7,
-   "masterOnly": 59,
-   "candOnly": 249,
+   "same": 2833,
+   "differ": 10,
+   "masterOnly": 61,
+   "candOnly": 252,
    "samples": {
     "differ": [
      {
-      "pk": "aslan|amanda",
+      "pk": "glass|sienna",
       "master": "U1617",
       "cand": "x",
-      "src": "campRank"
-     },
-     {
-      "pk": "hall|taylor",
-      "master": "x",
-      "cand": "U1617",
       "src": "campRank"
      },
      {
       "pk": "hamel|eden",
       "master": "TmBC",
       "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "landsverk|moira",
+      "master": "U1617",
+      "cand": "U18",
+      "src": "campRank"
+     },
+     {
+      "pk": "lee|charlotte",
+      "master": "x",
+      "cand": "U1617",
       "src": "campRank"
      },
      {
@@ -3842,6 +3908,18 @@
      },
      {
       "pk": "meinert|katherine",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "riccobelli|lauren",
+      "master": "x",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "sullivan|katherine",
       "master": "x",
       "cand": "U1617",
       "src": "campRank"
@@ -3953,12 +4031,6 @@
       "src": "campRank"
      },
      {
-      "pk": "anderson|hailey",
-      "master": "",
-      "cand": "x",
-      "src": "campRank"
-     },
-     {
       "pk": "arendell|avery",
       "master": "",
       "cand": "x",
@@ -4002,6 +4074,12 @@
      },
      {
       "pk": "baxter|hannah",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "beaumont|annsophie",
       "master": "",
       "cand": "x",
       "src": "campRank"
