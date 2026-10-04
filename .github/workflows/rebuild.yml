@@ -33,10 +33,10 @@ jobs:
           node-version: 22
       - name: Check the build inputs are in the repo
         run: |
-          for f in ep.json master_last_hockeyfile.json master.json overrides.json source_corrections.json tools/build_master.js tools/master_picks.json tools/apply_corrections.js tools/rebuild_summary.js archive/tourneys_2023-2026.csv; do
+          for f in ep.json master_last_hockeyfile.json master.json overrides.json source_corrections.json tools/build_master.js tools/master_picks.json tools/apply_corrections.js tools/rebuild_summary.js rosters.json rosters_archive.json; do
             test -f "$f" || { echo "::error::$f is missing from the repo - commit it with GitHub Desktop first"; exit 1; }
           done
-      - name: Apply corrections, re-import tournaments, rebuild master
+      - name: Apply corrections, rebuild master
         run: node tools/apply_corrections.js --rebuild 2>&1 | tee rebuild_log.txt
       - name: Summarize what changed
         run: node tools/rebuild_summary.js

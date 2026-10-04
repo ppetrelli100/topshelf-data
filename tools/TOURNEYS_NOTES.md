@@ -1,5 +1,11 @@
 # Tournament rosters -> rosters.json (the former Tourneys -> Rosters sheet chain)
 
+> **Oct 2026 - source of truth moved.** `rosters.json` is now the editable source (live seasons 2025-26 and 2026-27; the site reads a rolling 3-season window).
+> Frozen seasons (2023-24, 2024-25) live in `rosters_archive.json` (read-only; a season is added there once its data will no longer change, at the yearly rollover).
+> The Teams tab on updates.html adds new rosters straight into rosters.json (default 2026-27) using the rules below. The CSV (`archive/tourneys_2023-2026.csv`)
+> and the "Run it" command below are how the file was first built and are kept only as history; do NOT re-run them over rosters.json, they would overwrite later additions.
+> The rules below still describe how every roster gets cleaned and merged.
+
 Written Oct 2026 during the migration of the last spreadsheet-side raw source. Everything the
 `Tourneys` tab and the `Rosters` formula used to do now lives in `tools/import_tourneys.js`.
 The rules below are the single source of truth; change the tool, then this file.

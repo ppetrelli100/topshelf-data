@@ -13,11 +13,10 @@
    Usage:
      node tools/apply_corrections.js              apply, write the source files, print a report
      node tools/apply_corrections.js --dry-run    report only, write nothing
-     node tools/apply_corrections.js --rebuild    apply, then run import_tourneys.js (when the tournament CSV
-                                                  changed) and build_master.js
+     node tools/apply_corrections.js --rebuild    apply, then run build_master.js
      --repo <dir>                                 topshelf-data checkout (default: the folder above tools/)
 
-   Sources it can edit: tourn (archive/tourneys_2023-2026.csv), ndc, commits, prov, ccm, nepsac, ma, colrosters.
+   Sources it can edit: tourn (rosters.json + rosters_archive.json, every season of the player), ndc, commits, prov, ccm, nepsac, ma, colrosters.
    Not editable (re-imported from outside, or derived): ep, d3 (use commits_d3 flow), legacy, derived, override.
    JSON files are edited in place at the text level, so their formatting (indent, line endings) is untouched.
    See tools/MASTER_NOTES.md ("Source corrections").
@@ -41,7 +40,10 @@ const JSON_SRC = {
   ma:     { file: 'ma.json', pk: 'personkey', cols: { Name: ['Name'], Position: ['Position'], BirthYr: ['BirthYr'], Grad: ['Grad'], State: ['State'], Country: ['Country'] } },
   colrosters: { file: 'colrosters.json', pk: 'pk', cols: { Name: ['name'], Position: ['pos'], Height: ['ht'], City: ['home'], State: ['st'], Country: ['ctry'] } },
 };
-const TOURN = { file: 'archive/tourneys_2023-2026.csv', cols: { Name: 'Name', Position: 'Pos', DOB: 'DOB', BirthYr: 'YOB', Grad: 'Grad', Height: 'Height', City: 'Hometown', State: 'State', Country: 'Country', School: 'School' } };
+// tourn = club/tournament rosters. They live in rosters.json (live seasons) and rosters_archive.json (frozen seasons); a season held by both is
+// corrected in both so the site file and the archive never disagree. master field -> player key in those files.
+const ROSTER_FILES = ['rosters.json', 'rosters_archive.json'];
+const ROSTER_COLS = { Name: 'name', Position: 'rp', DOB: 'dob', BirthYr: 'ry', Grad: 'rg', Height: 'ht', City: 'home', State: 'state', Country: 'ctry', School: 'school' };
 
 /* ---------- JSON: text-level edit of leaf objects (formatting preserved) ---------- */
 function leafSpans(text) {
@@ -75,37 +77,43 @@ function applyJson(text, src, corrs) {
   return { text: out, hits };
 }
 
-/* ---------- CSV (tournament archive): exact round trip ---------- */
-function parseCsv(text) {
-  const rows = []; let row = [], cur = '', q = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-    if (q) { if (c === '"') { if (text[i + 1] === '"') { cur += '"'; i++; } else q = false; } else cur += c; }
-    else if (c === '"') q = true; else if (c === ',') { row.push(cur); cur = ''; } else if (c === '\n') { row.push(cur); rows.push(row); row = []; cur = ''; } else cur += c;
-  }
-  if (cur !== '' || row.length) { row.push(cur); rows.push(row); }
-  return rows;
-}
-const qv = v => /[",\n\r]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
-const writeCsv = rows => rows.map(r => r.map(qv).join(',')).join('\n') + '\n';
-
-function applyTourn(text, corrs) {
+/* ---------- rosters.json / rosters_archive.json: structured edit, exact round trip ---------- */
+function applyRosters(corrs) {
   const RC = require(path.join(repo, 'tools', 'rosterClean.js'));
   try { RC.setNameMaps(JSON.parse(fs.readFileSync(path.join(repo, 'firstNameMap.json'), 'utf8'))); } catch (e) { /* name maps are optional here */ }
-  const rows = parseCsv(text), head = rows[0], hits = new Map();
-  if (writeCsv(rows) !== text) throw new Error('tournament CSV does not round-trip exactly; refusing to rewrite it');
-  const col = n => head.indexOf(n), iName = col('Name'), iPk = col('personkey');
-  for (let r = 1; r < rows.length; r++) {
-    const row = rows[r]; if (row.length < 2) continue;
-    const pk0 = RC.makePersonKey(norm(row[iName]));
-    for (const c of corrs) {
-      const ci = col(TOURN.cols[c.field]); if (ci < 0) continue;
-      if (!(pk0 === c.personkey || (iPk >= 0 && row[iPk] === c.personkey))) continue;
-      if (norm(row[ci]) !== norm(c.from)) continue;
-      row[ci] = c.to; hits.set(c, (hits.get(c) || 0) + 1);
+  const hits = new Map(), written = [], notes = [];
+  for (const file of ROSTER_FILES) {
+    const f = path.join(repo, file); if (!fs.existsSync(f)) continue;
+    const text = fs.readFileSync(f, 'utf8'), data = JSON.parse(text);
+    if (JSON.stringify(data, null, 2) !== text) throw new Error(file + ' does not round-trip exactly; refusing to rewrite it');
+    let changed = false;
+    for (const season of Object.keys(data)) for (const t of data[season]) {
+      for (let pi = 0; pi < t.players.length; pi++) {
+        const p = t.players[pi];
+        for (const c of corrs) {
+          const key = ROSTER_COLS[c.field]; if (!key || p.pk !== c.personkey) continue;
+          if (norm(p[key]) !== norm(c.from)) continue;
+          if (c.field === 'Country') { if (norm(c.to) === norm(t.country)) delete p.ctry; else p.ctry = c.to; }
+          else p[key] = c.to;
+          if (c.field === 'Name') {
+            // a name is the source of the personkey: rebuild it exactly as the importer does (makePersonKey, then the school-aware exception)
+            const school = (t.club || '') + (/\bPrep\b/.test(t.team || '') ? ' Prep' : '');
+            const npk = RC.applyPkException(RC.makePersonKey(norm(c.to)), { school, state: p.state, hometown: p.home });
+            if (npk && npk !== p.pk) {
+              const twin = t.players.find(q => q !== p && q.pk === npk);
+              if (twin) { // the corrected name is already on this roster: merge into that row, filling blanks and uniting tournaments
+                Object.keys(p).forEach(k => { if (k === 'pk' || k === 'name') return; if (k === 't') twin.t = [...new Set([...(twin.t || []), ...(p.t || [])])]; else if (twin[k] === undefined || twin[k] === '') twin[k] = p[k]; });
+                t.players.splice(pi, 1); pi--; notes.push(file + ' ' + season + ' ' + t.team + ': ' + c.personkey + ' merged into the existing ' + npk);
+              } else { p.pk = npk; notes.push(file + ' ' + season + ' ' + t.team + ': personkey ' + c.personkey + ' -> ' + npk); }
+            }
+          }
+          hits.set(c, (hits.get(c) || 0) + 1); changed = true; break;
+        }
+      }
     }
+    if (changed) { if (!DRY) fs.writeFileSync(f, JSON.stringify(data, null, 2)); written.push(file); }
   }
-  return { text: writeCsv(rows), hits };
+  return { hits, written, notes };
 }
 
 /* ------------------------------------ main ------------------------------------ */
@@ -117,10 +125,10 @@ const results = []; let changedTourn = false, changedAny = false;
 for (const src of Object.keys(bySrc)) {
   const corrs = bySrc[src];
   if (src === 'tourn') {
-    const f = path.join(repo, TOURN.file), res = applyTourn(fs.readFileSync(f, 'utf8'), corrs);
-    if (res.hits.size && !DRY) { fs.writeFileSync(f, res.text); changedTourn = true; changedAny = true; }
-    if (res.hits.size && DRY) { changedTourn = true; changedAny = true; }
-    corrs.forEach(c => results.push([c, res.hits.get(c) || 0, TOURN.file]));
+    const res = applyRosters(corrs);
+    if (res.hits.size) { changedTourn = true; changedAny = true; }
+    res.notes.forEach(n => console.log('NOTE ' + n));
+    corrs.forEach(c => results.push([c, res.hits.get(c) || 0, ROSTER_FILES.join(' + ')]));
   } else if (JSON_SRC[src]) {
     const S = JSON_SRC[src], f = path.join(repo, S.file), bad = corrs.filter(c => !(S.cols[c.field] || []).length);
     bad.forEach(c => results.push([c, -1, S.file]));
@@ -137,11 +145,8 @@ for (const [c, n, file] of results) {
 }
 if (!all.length) console.log('source_corrections.json has no corrections.');
 if (REBUILD && changedAny && !DRY) {
+  // rosters.json is the editable source now, so there is no re-import step: a corrected roster is simply what build_master reads next.
   const run = (cmd) => { console.log('\n$ ' + cmd); cp.execSync(cmd, { cwd: repo, stdio: 'inherit' }); };
-  if (changedTourn) {
-    run('node tools/import_tourneys.js archive/tourneys_2023-2026.csv --out rosters.json --report import_report.json --known commits.json,colrosters.json,ndc.json');
-    run('node tools/import_tourneys.js archive/tourneys_2023-2026.csv --window all --out none --report ' + path.join(require('os').tmpdir(), 'ts_report_all.json') + ' --players-out tourneys_all.json --known commits.json,colrosters.json,ndc.json');
-  }
   run('node tools/build_master.js');
   console.log('\nDone. master_candidate.json is rebuilt; diff it against master.json, then promote as usual.');
 } else if (REBUILD && !changedAny) console.log('\nNothing changed, so nothing to rebuild.');

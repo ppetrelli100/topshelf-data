@@ -22,8 +22,8 @@ The console prints a same / differ / master-only / candidate-only table per fiel
 ## Inputs
 
 commits.json, commits_d3.json, ndc.json, provrosters.json, nepsac.json, ccm68.json, ma.json, colrosters.json (season > school > players),
-tourneys_all.json (all years, flat, player level; made by `import_tourneys.js --window all --players-out`), rosters.json (3-season window,
-not read by the build but identical data), ep.json (EliteProspects, gap-filler only), type_aliases.json, firstNameMap.json,
+rosters.json (editable, live seasons, the rolling 3-season window the site reads) and rosters_archive.json (frozen seasons, read-only), flattened to player level by
+`import_tourneys.js flattenPlayers` (a season held by the archive is taken from the archive, so none is counted twice), ep.json (EliteProspects, gap-filler only), type_aliases.json, firstNameMap.json,
 overrides.json, intl_wnt_o.json (optional extra WNT-O keys), regionals.json, master_last_hockeyfile.json (the old spreadsheet-era master: used ONLY for the College fallback and for the diff).
 
 ## Player universe and join key
@@ -118,7 +118,7 @@ inconsistent across sources (StMarys / Saint Mary's / SUNY Plattsburgh / Plattsb
 
 **Notable.** commits, then d3.
 
-**Team2024 / Team2025 / Team2026.** From the rosters data (tourneys_all.json; same data as rosters.json), season starting that year. A player can be on 2+
+**Team2024 / Team2025 / Team2026.** From the rosters data (rosters.json + rosters_archive.json), season starting that year. A player can be on 2+
 teams in a season (428 player-seasons: guest appearances, showcase vs home team). The team with the LATEST tournament wins, using import_tourneys.js
 RECENCY (Pittsburgh < MNRosters < Stoney < NIT < Misc, "later wins any conflict"), then more tournaments, then older age group, then label order.
 The old sheet effectively took the alphabetically last team, which is arbitrary. Other teams that season are in the sidecar `alts`.
@@ -180,8 +180,8 @@ Differences are expected where the tourneys/rosters cleanup changed data, where 
 
 ## Files changed or added for this work (commit these)
 
-master.json (promoted), master_sources.json, master_last_hockeyfile.json, tools/build_master.js, tools/master_picks.json, tools/MASTER_NOTES.md, tools/campRank.js (newest copy), tools/import_tourneys.js (--window / --players-out),
-overrides.json, tourneys_all.json, commits_d3.json, intl_wnt_o.json, regionals.json. Scratch, do not commit: master_candidate.json, master_diff.json.
+master.json (promoted), master_sources.json, master_last_hockeyfile.json, tools/build_master.js, tools/master_picks.json, tools/MASTER_NOTES.md, tools/campRank.js (newest copy), tools/import_tourneys.js (flattenPlayers is used by the build),
+rosters_archive.json, overrides.json, commits_d3.json, intl_wnt_o.json, regionals.json. Scratch, do not commit: master_candidate.json, master_diff.json.
 
 ## Grad rule (Oct 2026) and Master Viewer
 - Grad priority is override, ndc, tourn, prov, nepsac, ma, ccm, commits, d3, with one exception in `pickGrad()` (build_master.js): a tournament/roster grad year beats NDC only when its season starts AFTER the newest NDC camp year, it differs from NDC, and Grad - BirthYr is 17..19 (a probable reclass). The overruled NDC value goes in alts and the sidecar note reads "newer than NDC (season X vs NDC Y)". Result on promotion: 33 Grad values changed vs the previous master (plus the camp columns that follow from Grad); 58 players keep a newer-than-NDC tourney grad.
@@ -192,12 +192,12 @@ overrides.json, tourneys_all.json, commits_d3.json, intl_wnt_o.json, regionals.j
 - Principle: a wrong value is corrected AT ITS SOURCE, not papered over with overrides/merges. Overrides remain for judgment calls on what master should show; they are not for typos. A typo in a name creates a second personkey, so the fix must be in the source data (see TOURNEYS_NOTES: "fix a wrong name in the data, never override a key").
 - Master Viewer: double-click a source value (or the pencil that appears on hover) -> "Correct in source" popover (value, corrected value, which rows of that player it will change, note) -> "Queue correction" appends to `source_corrections.json` (sha-checked commit). Single click still copies the value into Overrides. Sources that are re-imported from outside (EP) or derived cannot be corrected here.
 - `source_corrections.json` entries: source, personkey, field, from, to, note, added. Meaning: in that source, every row of that player whose field currently equals `from` becomes `to`.
-- `node tools/apply_corrections.js [--dry-run] [--rebuild]` applies them: text-level edits for ndc/commits/prov/ccm/nepsac/ma/colrosters json (formatting untouched) and an exact round-trip rewrite of `archive/tourneys_2023-2026.csv`; `--rebuild` then reruns import_tourneys.js (rosters.json and tourneys_all.json) when the CSV changed, and build_master.js. Idempotent. Tested on a copy of the repo with the Orizzoti typo (orizzoti|gia -> orizotti|gia): stray key disappears, Team2025 fills in.
-- Heads-up found during that test: regenerating tourneys_all.json from the CSV with the current importer moved ~14 rows beyond the typo (16 play-up rows dropped, two 2024-25 Grad values filled, one tournament list), i.e. the stored tourneys_all.json was a little stale vs the CSV + importer. Review the first rebuild's diff.
+- `node tools/apply_corrections.js [--dry-run] [--rebuild]` applies them: text-level edits for ndc/commits/prov/ccm/nepsac/ma/colrosters json (formatting untouched) and a structured, exact round-trip edit of `rosters.json` and `rosters_archive.json` for the `tourn` source (every season of the player, both files, so a season held by both stays consistent; a Name correction also rebuilds the personkey with makePersonKey + applyPkException and merges into a twin row if the corrected name is already on that roster); `--rebuild` then reruns build_master.js. There is NO re-import step any more: rosters.json is the editable source. Idempotent.
+- Oct 2026 change: the tournament CSV pipeline is retired. `archive/tourneys_2023-2026.csv`, `tools/import_tourneys.js` (CLI) and `tourneys_all.json` are history and nothing in the rebuild reads them; the importer's functions are still used by the build and the Teams tab. Verified before the switch: master built from rosters_archive.json + rosters.json was byte-identical to master built the old way.
 
 ## Rebuild from the Master Viewer (GitHub Actions)
 - Workflow: `tools/rebuild.workflow.yml` is the workflow source; it must be copied to `.github/workflows/rebuild.yml` in the repo (remote tools cannot write the .github folder) and committed once. Inputs: mode = review | promote.
 - review: runs `apply_corrections.js --rebuild` + `rebuild_summary.js` on a GitHub runner and force-pushes only `rebuild_summary.json` to the branch `rebuild-review`. main is untouched.
-- promote: same run, then copies master_candidate.json over master.json and commits the results (sources, rosters.json, tourneys_all.json, master.json, master_sources.json) to main. Scratch files (master_candidate/master_diff/rebuild_log) are not committed.
+- promote: same run, then copies master_candidate.json over master.json and commits the results (sources, rosters.json, rosters_archive.json, master.json, master_sources.json) to main. Scratch files (master_candidate/master_diff/rebuild_log) are not committed.
 - The viewer's "Queued source corrections" card lists the queue, starts the runs through the GitHub API (workflow_dispatch), polls the run, and shows the review summary. Needs a fine-grained token with Contents AND Actions read/write.
-- The runner needs every build input committed to the repo (ep.json, master_last_hockeyfile.json, archive/tourneys_2023-2026.csv, ...); the workflow's first step stops with a clear message if one is missing.
+- The runner needs every build input committed to the repo (ep.json, master_last_hockeyfile.json, rosters.json, rosters_archive.json, ...); the workflow's first step stops with a clear message if one is missing.

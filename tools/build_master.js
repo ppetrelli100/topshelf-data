@@ -54,7 +54,9 @@ const PREC = { day: 3, month: 2, year: 1 };
 const idx = (rows, key, order) => { const m = new Map(); rows.forEach(r => { const k = typeof key === 'function' ? key(r) : r[key]; if (!k) return; (m.get(k) || m.set(k, []).get(k)).push(r); }); if (order) m.forEach(a => a.sort(order)); return m; };
 const desc = f => (a, b) => (+b[f] || 0) - (+a[f] || 0);
 const flatCol = () => { const c = J('colrosters.json'), out = []; Object.keys(c).sort().reverse().forEach(sea => Object.keys(c[sea]).forEach(sc => c[sea][sc].forEach(p => out.push(Object.assign({ _season: sea, _school: sc }, p))))); return out; };
-const tourn = J('tourneys_all.json');                       // already newest season first
+// Tournament/club rosters, flat, newest season first. Sources: rosters_archive.json (frozen seasons, read-only) + rosters.json (live seasons).
+// A season held by the archive is taken from the archive, so a season that sits in both files is never counted twice.
+const tourn = require(R('tools/import_tourneys.js')).flattenPlayers(Object.assign({}, J('rosters.json'), fs.existsSync(R('rosters_archive.json')) ? J('rosters_archive.json') : {}));
 const SRC = {
   ndc:    { t: idx(J('ndc.json'), 'personkey', desc('YEAR')), name: 'NAME', yearOf: r => r.YEAR, get: { Name: ['NAME', 'txt'], Position: ['Pos', 'pos'], DOB: ['DOB', 'dob'], BirthYr: ['BIRTHYR', 'byr'], Grad: ['GRAD', 'grad'], Height: ['HT', 'ht'], Weight: ['WT', 'wt'], GPA: ['GPA', 'gpa'], City: ['HOMETOWN', 'txt'], State: ['STATE', 'txt'], Country: ['Country', 'ctry'], School: ['School-calc', 'txt'] } },
   prov:   { t: idx(J('provrosters.json'), 'personkey', desc('Year')), get: { Name: ['Name', 'txt'], Position: ['Position', 'pos'], DOB: ['DOB', 'dob'], BirthYr: ['BirthYr', 'byr'], Grad: ['Grad-EST', 'grad'], Height: ['Height', 'ht'], Weight: ['Weight', 'wt'], City: ['Home City', 'txt'], State: ['Home Province', 'txt'], Country: ['Home Country', 'ctry'] } },
