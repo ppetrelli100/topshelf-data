@@ -4254,9 +4254,9 @@
     "country": "CAN"
   },
   {
-    "pattern": "^winchendon\\s*(?:school|prep)?$",
+    "pattern": "^(?:the\\s*)?winchendon(?:\\s*school)?(?:\\s*prep)?$",
     "type": "ACADEMY",
-    "friendly": "Winchendon School",
+    "friendly": "Winchendon",
     "country": "US"
   },
   {
