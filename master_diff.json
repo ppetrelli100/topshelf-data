@@ -372,7 +372,7 @@
       "pk": "ames|frances",
       "master": "5/1/2010",
       "cand": "5/25/2010",
-      "src": "ccm"
+      "src": "ndc"
      },
      {
       "pk": "anderson|ashley",
@@ -977,8 +977,8 @@
    }
   },
   "Height": {
-   "same": 4598,
-   "differ": 180,
+   "same": 4594,
+   "differ": 184,
    "masterOnly": 45,
    "candOnly": 297,
    "samples": {
@@ -1577,8 +1577,8 @@
    }
   },
   "City": {
-   "same": 4112,
-   "differ": 18,
+   "same": 4110,
+   "differ": 20,
    "masterOnly": 0,
    "candOnly": 198,
    "samples": {
@@ -1588,6 +1588,12 @@
       "master": "Bad Tölz",
       "cand": "Bad Tolz",
       "src": "commits"
+     },
+     {
+      "pk": "box|haley",
+      "master": "Eden Prairie",
+      "cand": "Cheyenne",
+      "src": "ndc"
      },
      {
       "pk": "caiazza|elsa",
@@ -1632,6 +1638,12 @@
       "src": "ndc"
      },
      {
+      "pk": "kimbrel|madelyn",
+      "master": "Long Lake",
+      "cand": "Mound",
+      "src": "ndc"
+     },
+     {
       "pk": "koski|brooke",
       "master": "Duluth",
       "cand": "Esko",
@@ -1642,18 +1654,6 @@
       "master": "McKinney",
       "cand": "Whitewright",
       "src": "ndc"
-     },
-     {
-      "pk": "netten|caroline",
-      "master": "Hallowell",
-      "cand": "Hollowell",
-      "src": "nepsac"
-     },
-     {
-      "pk": "piconi|fiona",
-      "master": "VT",
-      "cand": "Hebron",
-      "src": "nepsac"
      }
     ],
     "masterOnly": [],
@@ -1734,8 +1734,8 @@
    }
   },
   "State": {
-   "same": 3997,
-   "differ": 1223,
+   "same": 3996,
+   "differ": 1224,
    "masterOnly": 0,
    "candOnly": 120,
    "samples": {
@@ -4737,9 +4737,9 @@
   },
   "DOB": {
    "ndc": {
-    "both": 1209,
-    "equal": 1009,
-    "pct": 83.5
+    "both": 1213,
+    "equal": 1012,
+    "pct": 83.4
    },
    "prov": {
     "both": 439,
@@ -4859,8 +4859,8 @@
   "Height": {
    "ndc": {
     "both": 1663,
-    "equal": 1596,
-    "pct": 96
+    "equal": 1592,
+    "pct": 95.7
    },
    "prov": {
     "both": 398,
@@ -4910,8 +4910,8 @@
   "City": {
    "ndc": {
     "both": 1663,
-    "equal": 1655,
-    "pct": 99.5
+    "equal": 1653,
+    "pct": 99.4
    },
    "prov": {
     "both": 747,
@@ -4947,8 +4947,8 @@
   "State": {
    "ndc": {
     "both": 1663,
-    "equal": 1661,
-    "pct": 99.9
+    "equal": 1660,
+    "pct": 99.8
    },
    "prov": {
     "both": 931,
