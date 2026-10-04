@@ -4803,28 +4803,6 @@
           ]
         },
         {
-          "pk": "vanhoof|mia",
-          "n": "11",
-          "name": "Mia Van Hoof",
-          "ry": "",
-          "rg": "2028",
-          "rp": "D",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "sousa|olivia",
-          "n": "13",
-          "name": "Olivia Sousa",
-          "ry": "",
-          "rg": "2028",
-          "rp": "D",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
           "pk": "hayes|orla",
           "n": "23",
           "name": "Orla Hayes",
@@ -4885,17 +4863,6 @@
           "name": "Grace Pamenter",
           "ry": "",
           "rg": "2027",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "lanigan|lauren",
-          "n": "27",
-          "name": "Lauren Lanigan",
-          "ry": "",
-          "rg": "2028",
           "rp": "F",
           "t": [
             "Stoney"
@@ -7743,17 +7710,6 @@
           "pk": "ballwitriak|evelyne",
           "n": "24",
           "name": "Evelyne Ball-Witriak",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "murphy|brooklyn",
-          "n": "27",
-          "name": "Brooklyn Murphy",
           "ry": "",
           "rg": "2028",
           "rp": "F",
@@ -15630,7 +15586,7 @@
           "n": "54",
           "name": "Sofia Lorelli",
           "ry": "",
-          "rg": "",
+          "rg": "2028",
           "rp": "D",
           "t": [
             "Stoney"
@@ -15751,7 +15707,7 @@
           "n": "87",
           "name": "Isabella Saunders",
           "ry": "",
-          "rg": "",
+          "rg": "2028",
           "rp": "F",
           "t": [
             "Stoney"
@@ -15882,17 +15838,6 @@
           "pk": "dyson|jordyn",
           "n": "7",
           "name": "Jordyn Dyson",
-          "ry": "",
-          "rg": "2028",
-          "rp": "D",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "lorelli|sofia",
-          "n": "24",
-          "name": "Sofia Lorelli",
           "ry": "",
           "rg": "2028",
           "rp": "D",
@@ -16095,17 +16040,6 @@
           "name": "Alexis Benedict",
           "ry": "",
           "rg": "2027",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "saunders|isabella",
-          "n": "87",
-          "name": "Isabella Saunders",
-          "ry": "",
-          "rg": "2028",
           "rp": "F",
           "t": [
             "Stoney"
@@ -26637,17 +26571,6 @@
           ]
         },
         {
-          "pk": "streek|claire",
-          "n": "5",
-          "name": "Claire Streek",
-          "ry": "",
-          "rg": "2027",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
           "pk": "molepostearns|dineo",
           "n": "9",
           "name": "Dineo Molepo Stearns",
@@ -27810,17 +27733,6 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "hess|alivia",
-          "n": "10",
-          "name": "Alivia Hess",
-          "ry": "",
-          "rg": "2028",
-          "rp": "D",
-          "t": [
             "Stoney"
           ]
         },
@@ -30296,17 +30208,6 @@
           ]
         },
         {
-          "pk": "dinicola|serifina",
-          "n": "17",
-          "name": "Serifina Dinicola",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
           "pk": "vanginhoven|alexandra",
           "n": "66",
           "name": "Alexandra Vanginhoven",
@@ -31338,17 +31239,6 @@
           "name": "Hailey Punchard",
           "ry": "",
           "rg": "2027",
-          "rp": "D",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "wang|kaylee",
-          "n": "6",
-          "name": "Kaylee Wang",
-          "ry": "",
-          "rg": "2028",
           "rp": "D",
           "t": [
             "Stoney"
@@ -32765,17 +32655,6 @@
           ]
         },
         {
-          "pk": "mulcahy|abigail",
-          "n": "96",
-          "name": "Abby Mulcahy",
-          "ry": "",
-          "rg": "2027",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
           "pk": "bach|tara",
           "n": "31",
           "name": "Tara Bach",
@@ -33240,7 +33119,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Stoney"
           ]
         },
         {
@@ -36946,17 +36826,6 @@
           ]
         },
         {
-          "pk": "macdonald|addison",
-          "n": "8",
-          "name": "Addison Macdonald",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
           "pk": "turner|hannah",
           "n": "9",
           "name": "Hannah Turner",
@@ -37603,17 +37472,6 @@
           "pk": "mcneill|mary",
           "n": "71",
           "name": "Mary Mcneill",
-          "ry": "",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "walker|charlotte",
-          "n": "86",
-          "name": "Charlotte Walker",
           "ry": "",
           "rg": "2028",
           "rp": "F",
@@ -108480,9 +108338,9 @@
           ]
         },
         {
-          "pk": "orizzoti|gia",
+          "pk": "orizotti|gia",
           "n": "18",
-          "name": "Gia Orizzoti",
+          "name": "Gia Orizotti",
           "ry": "",
           "rg": "",
           "rp": "F",
@@ -115831,9 +115689,9 @@
           ]
         },
         {
-          "pk": "orizzoti|gia",
+          "pk": "orizotti|gia",
           "n": "18",
-          "name": "Gia Orizzoti",
+          "name": "Gia Orizotti",
           "ry": "",
           "rg": "",
           "rp": "F",

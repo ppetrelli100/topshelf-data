@@ -1,0 +1,99 @@
+{
+  "generated": "2026-10-04T03:32:36.222Z",
+  "applied": [
+    "APPLIED     (2 rows) tourn/Name orizzoti|gia: \"Gia Orizzoti\" -> \"Gia Orizotti\"  [archive/tourneys_2023-2026.csv]"
+  ],
+  "players": {
+    "before": 12565,
+    "after": 12564
+  },
+  "removed": [
+    "orizzoti|gia"
+  ],
+  "added": [],
+  "changedPlayers": 11,
+  "changedCells": 11,
+  "fieldDiffs": {
+    "Team2024": 10,
+    "Team2025": 1
+  },
+  "examples": [
+    {
+      "pk": "lanigan|lauren",
+      "name": "Lauren Lanigan",
+      "field": "Team2024",
+      "from": "Brampton Jr Canadettes U18",
+      "to": "Brampton Jr Canadettes U15"
+    },
+    {
+      "pk": "lorelli|sofia",
+      "name": "Sofia Lorelli",
+      "field": "Team2024",
+      "from": "HoneyBaked 16U",
+      "to": "HoneyBaked 14U"
+    },
+    {
+      "pk": "macdonald|addison",
+      "name": "Addison MacDonald",
+      "field": "Team2024",
+      "from": "Waterloo Ravens U18",
+      "to": "Waterloo Ravens U15"
+    },
+    {
+      "pk": "mulcahy|abigail",
+      "name": "Abby Mulcahy",
+      "field": "Team2024",
+      "from": "Stoney Creek Sabres U22",
+      "to": "Stoney Creek Sabres U18"
+    },
+    {
+      "pk": "murphy|brooklyn",
+      "name": "Brooklyn Murphy",
+      "field": "Team2024",
+      "from": "Central York U18",
+      "to": "Central York U15"
+    },
+    {
+      "pk": "orizotti|gia",
+      "name": "Gia Orizotti",
+      "field": "Team2025",
+      "from": "",
+      "to": "The Winchendon School Prep 19U"
+    },
+    {
+      "pk": "saunders|isabella",
+      "name": "Isabella Saunders",
+      "field": "Team2024",
+      "from": "HoneyBaked 16U",
+      "to": "HoneyBaked 14U"
+    },
+    {
+      "pk": "sousa|olivia",
+      "name": "Olivia Sousa",
+      "field": "Team2024",
+      "from": "Brampton Jr Canadettes U18",
+      "to": "Brampton Jr Canadettes U15"
+    },
+    {
+      "pk": "vanhoof|mia",
+      "name": "Mia Van Hoof",
+      "field": "Team2024",
+      "from": "Brampton Jr Canadettes U18",
+      "to": "Brampton Jr Canadettes U15"
+    },
+    {
+      "pk": "walker|charlotte",
+      "name": "Charlotte Walker",
+      "field": "Team2024",
+      "from": "Whitby Wolves U18",
+      "to": "Whitby Wolves U15"
+    },
+    {
+      "pk": "wang|kaylee",
+      "name": "Kaylee Wang",
+      "field": "Team2024",
+      "from": "Scarborough U18",
+      "to": "Scarborough U15"
+    }
+  ]
+}
