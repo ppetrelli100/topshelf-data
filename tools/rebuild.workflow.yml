@@ -62,5 +62,6 @@ jobs:
           git reset -q -- master_candidate.json master_diff.json rebuild_log.txt import_report_all.json || true
           if git diff --cached --quiet; then echo "Nothing to commit."; exit 0; fi
           git commit -q -m "Rebuild master (Master Viewer): $(node -e "const s=require('./rebuild_summary.json');console.log(s.applied.length+' correction(s) applied, '+s.players.after+' players, '+s.changedCells+' cells changed')")"
+          git reset -q --hard HEAD
           git pull --rebase origin main
           git push origin main
