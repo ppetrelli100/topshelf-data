@@ -23,7 +23,8 @@
   const FIELDS = ['n', 'ry', 'rg', 'rp', 'dob', 'school', 'shot', 'state', 'ht', 'home', 'commit'];
   const FIELD_LABEL = { n: '#', ry: 'Birth year', rg: 'Grad', rp: 'Pos', dob: 'DOB', school: 'School', shot: 'Shot', state: 'State', ht: 'Height', home: 'Hometown', commit: 'Committed', ctry: 'Country' };
   const MAX_ROSTER = 22;
-  const MAXAGE = { '14U': 14, U15: 14, '16U': 16, U18: 17, '19U': 99, U22: 99 };
+  // Canadian U18 and U22 overlap in age (U22 is the stronger team but takes 15-year-olds; U18 holds most 15s plus 16-17s who did not make U22), so neither gets an age warning.
+  const MAXAGE = { '14U': 14, U15: 14, '16U': 16, U18: 99, '19U': 99, U22: 99 };
   const norm = s => String(s == null ? '' : s).replace(/ /g, ' ').trim();
   const posRank = p => (p === '' || p == null ? 9 : p);
 
