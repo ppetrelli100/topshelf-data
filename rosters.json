@@ -178718,6 +178718,293 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Shawnigan Lake School U18",
+      "country": "CAN",
+      "club": "Shawnigan Lake School",
+      "lvl": "U18",
+      "levels": [
+        "18U"
+      ],
+      "raw": [
+        "Shawnigan Lake School"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "mckellar|grace",
+          "n": "4",
+          "name": "Grace McKellar",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "6/20/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bulmer|maya",
+          "n": "15",
+          "name": "Maya Bulmer",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "2/2/2010",
+          "state": "YK",
+          "ht": "5-4",
+          "home": "Whitehorse",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "serdachny|jordan",
+          "n": "19",
+          "name": "Jordan Serdachny",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "10/19/2009",
+          "state": "AB",
+          "ht": "5-9",
+          "home": "Edmonton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "paproski|kailyn",
+          "n": "21",
+          "name": "Kailyn Paproski",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "7/9/2010",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "loudoun|avery",
+          "n": "22",
+          "name": "Avery Loudoun",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "1/28/2011",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "verley|taylor",
+          "n": "2",
+          "name": "Taylor Verley",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "9/17/2010",
+          "state": "ON",
+          "ht": "5-6",
+          "home": "Burlington",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "swift|lyla",
+          "n": "5",
+          "name": "Lyla Swift",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "5/30/2011",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "Campbell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcgee|theresa",
+          "n": "7",
+          "name": "Tess McGee",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "1/27/2009",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "halwas|kaylyn",
+          "n": "8",
+          "name": "Kaylyn Halwas",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/5/2010",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Abbotsford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dennis|ziah",
+          "n": "9",
+          "name": "Ziah Dennis",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "5/22/2010",
+          "state": "AB",
+          "ht": "5-3",
+          "home": "Calgary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "eheler|danika",
+          "n": "10",
+          "name": "Danika Eheler",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/2/2010",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Rossland",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ward|emma",
+          "n": "11",
+          "name": "Emma Ward",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/25/2011",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "witwer|amelia",
+          "n": "14",
+          "name": "Amelia Witwer",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/17/2011",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Calgary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wiarda|noa",
+          "n": "16",
+          "name": "Noa Wiarda",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/10/2011",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Calgary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "simpson|taylor",
+          "n": "17",
+          "name": "Taylor Simpson",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "8/22/2010",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Fort Nelson",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "crookham|noe",
+          "n": "18",
+          "name": "Noe Crookham",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "3/15/2009",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "West Vancouver",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kemp|jordyn",
+          "n": "30",
+          "name": "Jordyn Kemp",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "dob": "8/12/2010",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pope|hannah",
+          "n": "31",
+          "name": "Hannah Pope",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "dob": "9/29/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Lac Des Arcs",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
