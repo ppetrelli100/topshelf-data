@@ -177297,7 +177297,8 @@
         "19U"
       ],
       "raw": [
-        "NAHA 19U"
+        "NAHA 19U",
+        "NAHA White"
       ],
       "tourneys": [
         "Misc"
@@ -177314,7 +177315,8 @@
           "commit": "RPI",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "monusky|payton",
@@ -177326,7 +177328,8 @@
           "state": "NJ",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NJ"
         },
         {
           "pk": "fitzpatrick|margaret",
@@ -177338,7 +177341,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "henderson|morgan",
@@ -177350,7 +177354,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "cummins|brooke",
@@ -177362,7 +177367,8 @@
           "state": "CT",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "CT"
         },
         {
           "pk": "labonte|emilie",
@@ -177374,7 +177380,8 @@
           "state": "QC",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Quebec"
         },
         {
           "pk": "flod|teagan",
@@ -177386,7 +177393,8 @@
           "state": "PA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "PA"
         },
         {
           "pk": "herringer|reese",
@@ -177398,7 +177406,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "polonyi|petra",
@@ -177409,7 +177418,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Hungary"
         },
         {
           "pk": "buhrmaster|anya",
@@ -177421,7 +177431,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "gilbertson|anne",
@@ -177433,7 +177444,8 @@
           "state": "WI",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "WI"
         },
         {
           "pk": "worth|mary",
@@ -177445,7 +177457,8 @@
           "state": "CA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "CA"
         },
         {
           "pk": "innes|kealy",
@@ -177470,7 +177483,8 @@
           "commit": "Sacred Heart",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "AK"
         },
         {
           "pk": "kartusch|reese",
@@ -177494,7 +177508,8 @@
           "state": "CO",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "CO"
         },
         {
           "pk": "iversen|evelyn",
@@ -177506,7 +177521,9 @@
           "state": "AK",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "AK",
+          "tag": "nickname: Birdie"
         },
         {
           "pk": "chriss|natali",
@@ -177518,7 +177535,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Massachusetts"
         },
         {
           "pk": "desantis|anna",
@@ -177530,7 +177548,8 @@
           "state": "NH",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NH"
         },
         {
           "pk": "gray|kira",
@@ -177542,7 +177561,8 @@
           "state": "CO",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "CO"
         },
         {
           "pk": "pircio|maja",
@@ -177554,7 +177574,8 @@
           "state": "OH",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "OH"
         },
         {
           "pk": "bethune|nicole",
@@ -177566,7 +177587,8 @@
           "state": "RI",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "RI"
         },
         {
           "pk": "brown|evelyn",
@@ -177577,7 +177599,8 @@
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Scotland"
         },
         {
           "pk": "milner|evangeline",
@@ -177590,7 +177613,8 @@
           "commit": "Saint Benedict",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NV"
         },
         {
           "pk": "cohen|rebecca",
@@ -177602,7 +177626,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         }
       ]
     },
