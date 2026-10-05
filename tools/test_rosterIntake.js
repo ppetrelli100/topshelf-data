@@ -142,4 +142,12 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
   const on = { team: 'DOB Club 19U', country: 'US', club: 'DOB Club', lvl: '19U', players: ps.map(p => Object.assign({}, p, { dob: p.name === 'Ann Able' ? '12/2/2008' : '1/31/2008' })) };
   const cmp = RI.compare(on, cl.teams[0]); ok(!cmp.conflicts.length, 'T12 no DOB conflicts', cmp.conflicts); }
 
+// 13. near-duplicates also catch a nickname / short form of a first name (same surname, first names that start alike)
+{ const mk = (n, name) => ({ pk: RC.makePersonKey(name), n, name, ry: 2009, rg: 2027, rp: 'D', t: ['Misc'] });
+  const on = { team: 'Nick Club 19U', country: 'US', club: 'Nick Club', lvl: '19U', players: [mk('2', 'Addison Vaszily'), mk('9', 'Sophia Monaco'), mk('8', 'Gianna Monaco')] };
+  const c = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos'], ['Nick Club', '19U', '2', 'Adds Vaszily', 'D'], ['Nick Club', '19U', '9', 'Sophia Monaco', 'F'], ['Nick Club', '19U', '8', 'Gianna Monaco', 'F']]), {}).cl.teams[0];
+  const cmp = RI.compare(on, c); ok(cmp.near.length === 1 && cmp.near[0].paste.name === 'Adds Vaszily' && cmp.near[0].onFile.name === 'Addison Vaszily', 'T13 Adds ~ Addison', cmp.near.map(n => n.paste.name + '~' + n.onFile.name));
+  const c2 = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos'], ['Nick Club', '19U', '2', 'Addison Vaszily', 'D'], ['Nick Club', '19U', '9', 'Sophia Monaco', 'F'], ['Nick Club', '19U', '8', 'Gianna Monaco', 'F']]), {}).cl.teams[0];
+  ok(RI.compare(on, c2).near.length === 0, 'T13 sisters with different first names are not flagged'); }
+
 console.log(`\n${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

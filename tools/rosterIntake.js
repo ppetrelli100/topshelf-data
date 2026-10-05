@@ -362,7 +362,11 @@
     cand.players.forEach(q => {
       const p = have.get(q.pk);
       if (!p) {
-        const near = exKeys.find(k => k !== q.pk && !cand.players.some(z => z.pk === k) && lev(k, q.pk) <= 2 && k.split('|')[0][0] === q.pk.split('|')[0][0]);
+        // a pasted player who is not on file but looks like one who is (and who is not in the paste): a typo (<= 2 letters off), or the same surname with
+        // first names that start alike (Adds / Addison, Cynnimin / Cynnim: nicknames and short forms)
+        const commonPrefix = (a, b) => { let i = 0; while (i < a.length && i < b.length && a[i] === b[i]) i++; return i; };
+        const near = exKeys.find(k => k !== q.pk && !cand.players.some(z => z.pk === k) && ((lev(k, q.pk) <= 2 && k.split('|')[0][0] === q.pk.split('|')[0][0]) ||
+          (k.split('|')[0] === q.pk.split('|')[0] && commonPrefix(k.split('|')[1] || '', q.pk.split('|')[1] || '') >= 3)));
         if (near) res.near.push({ paste: q, onFile: have.get(near) });
         res.added.push(q); return;
       }
