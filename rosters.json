@@ -151709,11 +151709,13 @@
       "club": "RINK Kelowna",
       "lvl": "U22",
       "levels": [
-        "U22"
+        "U22",
+        "18U"
       ],
       "raw": [
         "RHA Kelowna",
-        "Rink Hockey Academy - Kelowna"
+        "Rink Hockey Academy - Kelowna",
+        "Rink Hockey Academy"
       ],
       "tourneys": [
         "Stoney",
@@ -151734,7 +151736,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "mackie|raeya",
@@ -151750,7 +151753,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "shrieves|alexandra",
@@ -151766,7 +151770,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "abougoush|sophia",
@@ -151782,7 +151787,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2011"
         },
         {
           "pk": "sisson|kinley",
@@ -151798,7 +151804,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2011"
         },
         {
           "pk": "ayers|jorja",
@@ -151814,7 +151821,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2011"
         },
         {
           "pk": "mcdermid|ava",
@@ -151830,7 +151838,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "hickling|sierra",
@@ -151852,7 +151861,8 @@
               "US",
               "CAN"
             ]
-          }
+          },
+          "dob": "2009"
         },
         {
           "pk": "rice|brynn",
@@ -151868,7 +151878,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "dammann|sienna",
@@ -151884,7 +151895,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2011"
         },
         {
           "pk": "xu|lauren",
@@ -151905,7 +151917,8 @@
               "US",
               "CAN"
             ]
-          }
+          },
+          "dob": "2008"
         },
         {
           "pk": "broadfoot|mikayla",
@@ -151921,7 +151934,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "redden|leni",
@@ -151937,7 +151951,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "hrubeniuk|ava",
@@ -151953,7 +151968,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "macfarlane|rebecca",
@@ -151969,7 +151985,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "mckenna|kasey",
@@ -151985,7 +152002,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "bliss|avery",
@@ -152001,7 +152019,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2012"
         },
         {
           "pk": "green|sadie",
@@ -152017,7 +152036,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "lucas|taylin",
@@ -152032,7 +152052,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2012"
         },
         {
           "pk": "dietz|lylah",
@@ -152048,7 +152069,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "ring|jennifer",
@@ -152064,7 +152086,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "klapak|emilee",
@@ -152080,7 +152103,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         }
       ]
     },
