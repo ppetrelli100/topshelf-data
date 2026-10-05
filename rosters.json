@@ -151987,13 +151987,16 @@
       "club": "RINK Winnepeg",
       "lvl": "U22",
       "levels": [
-        "U22"
+        "U22",
+        "18U"
       ],
       "raw": [
-        "RHA Winnipeg"
+        "RHA Winnipeg",
+        "RINK Hockey Academy Winnipeg"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -152004,8 +152007,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/11/2010",
+          "state": "MB",
+          "ht": "5-6",
+          "home": "Winnipeg"
         },
         {
           "pk": "macintyre|mullen",
@@ -152015,8 +152023,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/8/2009",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Winnipeg"
         },
         {
           "pk": "kachur|chloe",
@@ -152026,8 +152039,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/24/2009",
+          "state": "MB",
+          "ht": "5-7",
+          "home": "Brandon"
         },
         {
           "pk": "holbrook|piper",
@@ -152037,8 +152055,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/5/2009",
+          "state": "MB",
+          "ht": "5-3",
+          "home": "Winnipeg"
         },
         {
           "pk": "thompson|marissa",
@@ -152048,8 +152071,13 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "11/18/2012",
+          "state": "MB",
+          "ht": "5-4",
+          "home": "Winnipeg"
         },
         {
           "pk": "sobering|attica",
@@ -152059,8 +152087,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/2/2009",
+          "state": "MB",
+          "ht": "5-6",
+          "home": "Winnipeg"
         },
         {
           "pk": "thomas|camryn",
@@ -152070,8 +152103,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/8/2010",
+          "state": "MB",
+          "ht": "5-9",
+          "home": "Winnipeg"
         },
         {
           "pk": "jones|kalina",
@@ -152081,8 +152119,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "7/1/2009",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Kelowna"
         },
         {
           "pk": "jones|everleigh",
@@ -152092,8 +152135,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/30/2011",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "Kelowna"
         },
         {
           "pk": "fillion|bailey",
@@ -152103,8 +152151,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/18/2011",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Winnipeg"
         },
         {
           "pk": "vokey|kennedy",
@@ -152114,8 +152167,13 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "12/16/2012",
+          "state": "MB",
+          "ht": "5-6",
+          "home": "Winnipeg"
         },
         {
           "pk": "chornley|payton",
@@ -152125,8 +152183,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "6/2/2009",
+          "state": "MB",
+          "ht": "5-8",
+          "home": "Winnipeg"
         },
         {
           "pk": "street|rowyn",
@@ -152136,8 +152199,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/21/2009",
+          "state": "MB",
+          "ht": "5-2",
+          "home": "Winnipeg"
         },
         {
           "pk": "anderton|chloe",
@@ -152147,8 +152215,12 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "8/10/2009",
+          "ht": "5-7",
+          "home": "Ruschlikon"
         },
         {
           "pk": "kell|julianna",
@@ -152158,8 +152230,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/29/2011",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Sherwood Park"
         },
         {
           "pk": "koolwijk|yente",
@@ -152169,8 +152246,12 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/17/2010",
+          "ht": "5-7",
+          "home": "Delft"
         },
         {
           "pk": "saurette|sophia",
@@ -152180,8 +152261,13 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "7/12/2012",
+          "state": "MB",
+          "ht": "5-3",
+          "home": "Winnipeg"
         },
         {
           "pk": "gage|morgan",
@@ -152191,8 +152277,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "7/26/2010",
+          "state": "AB",
+          "ht": "5-3",
+          "home": "Medicine Hat"
         },
         {
           "pk": "mchenry|mars",
@@ -152202,8 +152293,13 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/8/2008",
+          "state": "CA",
+          "ht": "5-9",
+          "home": "Los Angeles"
         },
         {
           "pk": "bennett|sienna",
@@ -152213,7 +152309,27 @@
           "rg": "2029",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/2/2011",
+          "state": "MB",
+          "ht": "5-3",
+          "home": "Winnipeg"
+        },
+        {
+          "pk": "silwosky|kaysi",
+          "n": "82",
+          "name": "Kaysi Silwosky",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "dob": "1/15/2010",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Ste. Rose",
+          "t": [
+            "Misc"
           ]
         }
       ]
