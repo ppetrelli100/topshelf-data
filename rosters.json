@@ -126228,13 +126228,16 @@
       "club": "CIHA",
       "lvl": "U22",
       "levels": [
-        "U22"
+        "U22",
+        "18U"
       ],
       "raw": [
-        "CIHA"
+        "CIHA",
+        "Calgary International Hockey Academy"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -126245,8 +126248,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/11/2010",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Calgary"
         },
         {
           "pk": "milke|elizabeth",
@@ -126256,8 +126264,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/27/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Edmonton"
         },
         {
           "pk": "latimer|ella",
@@ -126267,8 +126280,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "3/28/2010",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Olds"
         },
         {
           "pk": "ernewein|blake",
@@ -126278,8 +126296,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "11/9/2011",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary"
         },
         {
           "pk": "vanmetre|brynn",
@@ -126289,8 +126312,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/3/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Lake Newell Resort"
         },
         {
           "pk": "christianson|weston",
@@ -126300,8 +126328,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/22/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Drumheller"
         },
         {
           "pk": "trann|olivia",
@@ -126311,8 +126344,14 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "6/6/2009",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Prince Albert",
+          "commit": "Trinity Western University"
         },
         {
           "pk": "mikan|danica",
@@ -126322,8 +126361,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/11/2011",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Rocky View County"
         },
         {
           "pk": "ferguson|trista",
@@ -126333,8 +126377,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "8/5/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "crockett|molly",
@@ -126344,8 +126393,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "8/22/2011",
+          "state": "AB",
+          "ht": "5-3",
+          "home": "Calgary"
         },
         {
           "pk": "quinn|adria",
@@ -126355,8 +126409,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "11/30/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary"
         },
         {
           "pk": "cleveland|calla",
@@ -126366,8 +126425,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/27/2011",
+          "state": "AB",
+          "ht": "5-2",
+          "home": "Camrose"
         },
         {
           "pk": "kildaw|kayla",
@@ -126377,8 +126441,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "6/28/2010",
+          "state": "AB",
+          "ht": "5-10",
+          "home": "Calgary"
         },
         {
           "pk": "thom|abigail",
@@ -126388,8 +126457,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "11/14/2009",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Calgary"
         },
         {
           "pk": "odell|josephine",
@@ -126399,8 +126473,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/10/2011",
+          "state": "AK",
+          "ht": "5-3",
+          "home": "Anchorage"
         },
         {
           "pk": "mah|talysa",
@@ -126410,8 +126489,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "7/15/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "kirwan|brooklyn",
@@ -126421,8 +126505,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "10/3/2010",
+          "state": "AB",
+          "ht": "5-2",
+          "home": "Airdrie"
         },
         {
           "pk": "mckay|reese",
@@ -126432,8 +126521,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/1/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Airdrie"
         },
         {
           "pk": "lhirondelle|brooke",
@@ -126443,8 +126537,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/23/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "bacon|sophia",
@@ -126454,8 +126553,13 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/7/2009",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Red Deer"
         },
         {
           "pk": "raczynski|brooklyn",
@@ -126465,8 +126569,13 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "10/5/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Edmonton"
         }
       ]
     },
