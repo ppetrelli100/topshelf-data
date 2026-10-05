@@ -179108,6 +179108,219 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Bay State Breakers 16U",
+      "country": "US",
+      "club": "CPC Boston Americans",
+      "lvl": "16U",
+      "levels": [],
+      "raw": [
+        ""
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "cassidy|reagan",
+          "n": "5",
+          "name": "Reagan Cassidy",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "burton|ivy",
+          "n": "12",
+          "name": "Ivy Burton",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cannon|catherine",
+          "n": "15",
+          "name": "Catherine Cannon",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wang|catherine",
+          "n": "39",
+          "name": "Catherine Wang",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "quong|lanah",
+          "n": "4",
+          "name": "Lanah Quong",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "paz|alana",
+          "n": "6",
+          "name": "Alana Paz",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kennally|maeve",
+          "n": "8",
+          "name": "Maeve Kennally",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "guo|verity",
+          "n": "9",
+          "name": "Verity Guo",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "geiger|brooke",
+          "n": "10",
+          "name": "Brooke Geiger",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "taylor|lucy",
+          "n": "13",
+          "name": "Lucy Taylor",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "burt|ryleigh",
+          "n": "23",
+          "name": "Ryleigh Burt",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schut|leah",
+          "n": "27",
+          "name": "Leah Schut",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "perkins|madelyn",
+          "n": "71",
+          "name": "Madelyn Perkins",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fortuna|kylie",
+          "n": "81",
+          "name": "Kylie Fortuna",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "palmer|brinley",
+          "n": "93",
+          "name": "Brinley Palmer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "allen|melanie",
+          "n": "1",
+          "name": "Melanie Allen",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "connor|reagan",
+          "n": "35",
+          "name": "Reagan Connor",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hulbig|georgia",
+          "n": "36",
+          "name": "Georgia Hulbig",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
