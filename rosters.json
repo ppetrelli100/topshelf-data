@@ -126228,13 +126228,16 @@
       "club": "CIHA",
       "lvl": "U22",
       "levels": [
-        "U22"
+        "U22",
+        "18U"
       ],
       "raw": [
-        "CIHA"
+        "CIHA",
+        "Calgary International Hockey Academy"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -126245,8 +126248,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/11/2010",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Calgary"
         },
         {
           "pk": "milke|elizabeth",
@@ -126256,8 +126264,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/27/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Edmonton"
         },
         {
           "pk": "latimer|ella",
@@ -126267,8 +126280,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "3/28/2010",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Olds"
         },
         {
           "pk": "ernewein|blake",
@@ -126278,8 +126296,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "11/9/2011",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary"
         },
         {
           "pk": "vanmetre|brynn",
@@ -126289,8 +126312,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/3/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Lake Newell Resort"
         },
         {
           "pk": "christianson|weston",
@@ -126300,8 +126328,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/22/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Drumheller"
         },
         {
           "pk": "trann|olivia",
@@ -126311,8 +126344,14 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "6/6/2009",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Prince Albert",
+          "commit": "Trinity Western University"
         },
         {
           "pk": "mikan|danica",
@@ -126322,8 +126361,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/11/2011",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Rocky View County"
         },
         {
           "pk": "ferguson|trista",
@@ -126333,8 +126377,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "8/5/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "crockett|molly",
@@ -126344,8 +126393,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "8/22/2011",
+          "state": "AB",
+          "ht": "5-3",
+          "home": "Calgary"
         },
         {
           "pk": "quinn|adria",
@@ -126355,8 +126409,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "11/30/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary"
         },
         {
           "pk": "cleveland|calla",
@@ -126366,8 +126425,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/27/2011",
+          "state": "AB",
+          "ht": "5-2",
+          "home": "Camrose"
         },
         {
           "pk": "kildaw|kayla",
@@ -126377,8 +126441,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "6/28/2010",
+          "state": "AB",
+          "ht": "5-10",
+          "home": "Calgary"
         },
         {
           "pk": "thom|abigail",
@@ -126388,8 +126457,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "11/14/2009",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Calgary"
         },
         {
           "pk": "odell|josephine",
@@ -126399,8 +126473,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/10/2011",
+          "state": "AK",
+          "ht": "5-3",
+          "home": "Anchorage"
         },
         {
           "pk": "mah|talysa",
@@ -126410,8 +126489,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "7/15/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "kirwan|brooklyn",
@@ -126421,8 +126505,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "10/3/2010",
+          "state": "AB",
+          "ht": "5-2",
+          "home": "Airdrie"
         },
         {
           "pk": "mckay|reese",
@@ -126432,8 +126521,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/1/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Airdrie"
         },
         {
           "pk": "lhirondelle|brooke",
@@ -126443,8 +126537,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/23/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "bacon|sophia",
@@ -126454,8 +126553,13 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/7/2009",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Red Deer"
         },
         {
           "pk": "raczynski|brooklyn",
@@ -126465,8 +126569,13 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "10/5/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Edmonton"
         }
       ]
     },
@@ -151709,11 +151818,13 @@
       "club": "RINK Kelowna",
       "lvl": "U22",
       "levels": [
-        "U22"
+        "U22",
+        "18U"
       ],
       "raw": [
         "RHA Kelowna",
-        "Rink Hockey Academy - Kelowna"
+        "Rink Hockey Academy - Kelowna",
+        "Rink Hockey Academy"
       ],
       "tourneys": [
         "Stoney",
@@ -151734,7 +151845,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "mackie|raeya",
@@ -151750,7 +151862,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "shrieves|alexandra",
@@ -151766,7 +151879,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "abougoush|sophia",
@@ -151782,7 +151896,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2011"
         },
         {
           "pk": "sisson|kinley",
@@ -151798,7 +151913,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2011"
         },
         {
           "pk": "ayers|jorja",
@@ -151814,7 +151930,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2011"
         },
         {
           "pk": "mcdermid|ava",
@@ -151830,7 +151947,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "hickling|sierra",
@@ -151852,7 +151970,8 @@
               "US",
               "CAN"
             ]
-          }
+          },
+          "dob": "2009"
         },
         {
           "pk": "rice|brynn",
@@ -151868,7 +151987,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "dammann|sienna",
@@ -151884,7 +152004,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2011"
         },
         {
           "pk": "xu|lauren",
@@ -151905,7 +152026,8 @@
               "US",
               "CAN"
             ]
-          }
+          },
+          "dob": "2008"
         },
         {
           "pk": "broadfoot|mikayla",
@@ -151921,7 +152043,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "redden|leni",
@@ -151937,7 +152060,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "hrubeniuk|ava",
@@ -151953,7 +152077,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "macfarlane|rebecca",
@@ -151969,7 +152094,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "mckenna|kasey",
@@ -151985,7 +152111,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "bliss|avery",
@@ -152001,7 +152128,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2012"
         },
         {
           "pk": "green|sadie",
@@ -152017,7 +152145,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "lucas|taylin",
@@ -152032,7 +152161,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2012"
         },
         {
           "pk": "dietz|lylah",
@@ -152048,7 +152178,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         },
         {
           "pk": "ring|jennifer",
@@ -152064,7 +152195,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2009"
         },
         {
           "pk": "klapak|emilee",
@@ -152080,7 +152212,8 @@
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "dob": "2010"
         }
       ]
     },
@@ -177006,7 +177139,8 @@
         "16U"
       ],
       "raw": [
-        "NAHA 16U"
+        "NAHA 16U",
+        "NAHA Red"
       ],
       "tourneys": [
         "Misc"
@@ -177022,7 +177156,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "keenan|courtney",
@@ -177034,7 +177169,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "margolis|emme",
@@ -177046,7 +177182,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "smart|kristaya",
@@ -177058,7 +177195,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "anslow|molly",
@@ -177070,7 +177208,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "chapkosky|karissa",
@@ -177082,7 +177221,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "drevitch|molly",
@@ -177094,7 +177234,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "henderson|kylie",
@@ -177106,7 +177247,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "lobisser|charlotte",
@@ -177118,7 +177260,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "mehling|katherine",
@@ -177130,7 +177273,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "schneider|lillian",
@@ -177142,7 +177286,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "livingstone|kylie",
@@ -177154,7 +177299,8 @@
           "state": "NH",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NH"
         },
         {
           "pk": "mcauliffe|tenley",
@@ -177166,7 +177312,8 @@
           "state": "NC",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NC"
         },
         {
           "pk": "silveira|charlotte",
@@ -177178,7 +177325,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "nojaim|alison",
@@ -177190,7 +177338,8 @@
           "state": "WA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Washington"
         },
         {
           "pk": "jenecke|keeley",
@@ -177202,7 +177351,8 @@
           "state": "MN",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MN"
         },
         {
           "pk": "cetina|eva",
@@ -177214,7 +177364,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "kvasnickova|veronica",
@@ -177225,7 +177376,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Switzerland"
         },
         {
           "pk": "peterson|eleanor",
@@ -177237,7 +177389,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "frasso|olivia",
@@ -177249,7 +177402,9 @@
           "state": "NV",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NV",
+          "tag": "nickname: Ollie"
         },
         {
           "pk": "ramos|chloe",
@@ -177261,7 +177416,8 @@
           "state": "WA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Washington"
         }
       ]
     },
@@ -177274,7 +177430,8 @@
         "19U"
       ],
       "raw": [
-        "NAHA 19U"
+        "NAHA 19U",
+        "NAHA White"
       ],
       "tourneys": [
         "Misc"
@@ -177291,7 +177448,8 @@
           "commit": "RPI",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "monusky|payton",
@@ -177303,7 +177461,8 @@
           "state": "NJ",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NJ"
         },
         {
           "pk": "fitzpatrick|margaret",
@@ -177315,7 +177474,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "henderson|morgan",
@@ -177327,7 +177487,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "cummins|brooke",
@@ -177339,7 +177500,8 @@
           "state": "CT",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "CT"
         },
         {
           "pk": "labonte|emilie",
@@ -177351,7 +177513,8 @@
           "state": "QC",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Quebec"
         },
         {
           "pk": "flod|teagan",
@@ -177363,7 +177526,8 @@
           "state": "PA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "PA"
         },
         {
           "pk": "herringer|reese",
@@ -177375,7 +177539,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "polonyi|petra",
@@ -177386,7 +177551,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Hungary"
         },
         {
           "pk": "buhrmaster|anya",
@@ -177398,7 +177564,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "gilbertson|anne",
@@ -177410,7 +177577,8 @@
           "state": "WI",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "WI"
         },
         {
           "pk": "worth|mary",
@@ -177422,7 +177590,8 @@
           "state": "CA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "CA"
         },
         {
           "pk": "innes|kealy",
@@ -177447,7 +177616,8 @@
           "commit": "Sacred Heart",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "AK"
         },
         {
           "pk": "kartusch|reese",
@@ -177471,7 +177641,8 @@
           "state": "CO",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "CO"
         },
         {
           "pk": "iversen|evelyn",
@@ -177483,7 +177654,9 @@
           "state": "AK",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "AK",
+          "tag": "nickname: Birdie"
         },
         {
           "pk": "chriss|natali",
@@ -177495,7 +177668,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Massachusetts"
         },
         {
           "pk": "desantis|anna",
@@ -177507,7 +177681,8 @@
           "state": "NH",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NH"
         },
         {
           "pk": "gray|kira",
@@ -177519,7 +177694,8 @@
           "state": "CO",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "CO"
         },
         {
           "pk": "pircio|maja",
@@ -177531,7 +177707,8 @@
           "state": "OH",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "OH"
         },
         {
           "pk": "bethune|nicole",
@@ -177543,7 +177720,8 @@
           "state": "RI",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "RI"
         },
         {
           "pk": "brown|evelyn",
@@ -177554,7 +177732,8 @@
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Scotland"
         },
         {
           "pk": "milner|evangeline",
@@ -177567,7 +177746,8 @@
           "commit": "Saint Benedict",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NV"
         },
         {
           "pk": "cohen|rebecca",
@@ -177579,7 +177759,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         }
       ]
     },
