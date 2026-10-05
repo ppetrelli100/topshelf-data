@@ -100,4 +100,36 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
   ok(nb.map.name === 0 && nb.map.no === undefined && nb.map.level === 2 && nb.rows.length === 2, 'T10 edits applied', nb.map);
   ok(JSON.stringify(parsed) === before, 'T10 input not mutated'); ok(RI.applyEdits(parsed, null) === parsed, 'T10 no edits returns the same object'); }
 
+// 11. decisions: near-duplicate (keep / replace / custom / add), name conflict, fills opt-out, team relabel, new-team name
+{ const mk = (n, name, extra) => Object.assign({ pk: RC.makePersonKey(name), n, name, ry: 2010, rg: 2028, rp: 'F', t: ['Misc'] }, extra || {});
+  const onFile = { team: 'Decide Club 16U', country: 'US', club: 'Decide Club', lvl: '16U', levels: ['16U'], raw: ['Decide Club'], tourneys: ['Misc'], players: [mk('4', 'Trinity Ochremchuk'), mk('17', 'Ann VanderMeer'), mk('9', 'Kate Blank')] };
+  const R = { [SEASON]: [onFile] };
+  const t = tsv([['No', 'Name', 'Pos', 'YOB', 'Grad', 'Height'], ['4', 'Trinity Ochremcuk', 'F', '2010', '2028', '5-6'], ['17', 'Ann Vandermeer', 'F', '2010', '2028', ''], ['9', 'Kate Blank', 'F', '2010', '2028', '5-5']]);
+  const c = run(t, { team: 'Decide Club', level: '16U' }).cl.teams[0], cmp = RI.compare(onFile, c);
+  const nr = cmp.near[0]; ok(nr && nr.onFile.name === 'Trinity Ochremchuk' && nr.paste.name === 'Trinity Ochremcuk', 'T11 near-duplicate found', cmp.near.map(x => x.paste.name));
+  const nameConf = cmp.conflicts.find(x => x.field === 'name'); ok(nameConf && nameConf.have === 'Ann VanderMeer' && nameConf.paste === 'Ann Vandermeer', 'T11 name conflict', cmp.conflicts);
+  const plan = o => [Object.assign({ cand: c, existingIndex: 0 }, o)], team = r => r.rosters[SEASON][0], find = (r, nm) => team(r).players.find(p => p.name === nm);
+  const near = (mode, name) => ({ [nr.paste.pk]: { mode, onFilePk: nr.onFile.pk, name } });
+  let r = RI.applyPlan(R, SEASON, plan({ near: near('keep') }));
+  ok(team(r).players.length === 3 && find(r, 'Trinity Ochremchuk') && find(r, 'Trinity Ochremchuk').ht === '5-6' && !r.renames.length, 'T11 keep original: not added, still gets the new height', team(r).players.map(p => p.name));
+  r = RI.applyPlan(R, SEASON, plan({ near: near('replace') }));
+  ok(team(r).players.length === 3 && r.renames.length === 1 && r.renames[0].fromPk === nr.onFile.pk && r.renames[0].toName === 'Trinity Ochremcuk', 'T11 replace with new: queued as a rename, no duplicate', r.renames);
+  r = RI.applyPlan(R, SEASON, plan({ near: near('custom', 'Trinity Ochremchek') }));
+  ok(r.renames.length === 1 && r.renames[0].toName === 'Trinity Ochremchek', 'T11 typed name queued', r.renames);
+  r = RI.applyPlan(R, SEASON, plan({ near: near('add') }));
+  ok(team(r).players.length === 4 && !r.renames.length, 'T11 add as new', team(r).players.length);
+  r = RI.applyPlan(R, SEASON, plan({ near: near('keep'), accept: { [nameConf.pk + '|name']: true } }));
+  ok(find(r, 'Ann Vandermeer') && !find(r, 'Ann VanderMeer') && !r.renames.length, 'T11 same-key respelling applied in place', team(r).players.map(p => p.name));
+  r = RI.applyPlan(R, SEASON, plan({ near: near('keep'), accept: { [nameConf.pk + '|name']: true }, names: { [nameConf.pk]: 'Ann Vandermere' } }));
+  ok(find(r, 'Ann VanderMeer') && r.renames.length === 1 && r.renames[0].toName === 'Ann Vandermere', 'T11 typed name that changes the key is queued', r.renames);
+  r = RI.applyPlan(R, SEASON, plan({ near: near('keep'), noFill: { [RC.makePersonKey('Kate Blank')]: true } }));
+  ok(!find(r, 'Kate Blank').ht, 'T11 fills can be switched off per player', find(r, 'Kate Blank'));
+  r = RI.applyPlan(R, SEASON, plan({ near: near('keep') }));
+  ok(find(r, 'Kate Blank').ht === '5-5', 'T11 fills default on');
+  r = RI.applyPlan(R, SEASON, plan({ near: near('keep'), relabel: { team: 'Decide Club 19U', lvl: '19U' } }));
+  ok(team(r).team === 'Decide Club 19U' && team(r).lvl === '19U', 'T11 team relabel', team(r));
+  r = RI.applyPlan(R, SEASON, [{ cand: c, existingIndex: -1, relabel: { team: 'My Own Name' } }]);
+  ok(r.rosters[SEASON][1].team === 'My Own Name', 'T11 new team name override');
+  ok(JSON.stringify(R[SEASON][0].players.map(p => p.name)) === JSON.stringify(['Trinity Ochremchuk', 'Ann VanderMeer', 'Kate Blank']) && !onFile.players[2].ht, 'T11 input untouched'); }
+
 console.log(`\n${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

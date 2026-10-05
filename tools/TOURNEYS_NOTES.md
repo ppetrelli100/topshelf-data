@@ -121,3 +121,12 @@ How new rosters (a club site, a tournament sheet, several teams at once) get int
 - Pasting text or loading/dropping a CSV shows the data as a table first. Each column has a dropdown with how it was read (Name, Birth date, Grad year, ...; "ignore" for notes and the like); change it when a guess is wrong. One column per field. The row's X leaves a junk row out. "Edit raw text" shows the original text again.
 - The pure logic lives in `tools/rosterIntake.js` (`COLUMN_CHOICES`, `columnFields`, `columnCount`, `applyEdits`); tested in `tools/test_rosterIntake.js`.
 - Teams are matched to what is on file by name/level first, then by players: when 70% of the pasted players are on one team this season, that is the team and the on-file label is kept. Canadian U18 and U22 get no age warnings (their ages overlap).
+
+## Teams tab: one table, Notes + Decision
+Each team is one table. **Notes** explains what the paste does to that row; **Decision** is what you choose (defaults in brackets).
+- *fills ...*: "keep new information" checkbox [checked].
+- *similar to X* (pasted name within 2 letters of a player already on the team): keep original [default] / replace with new / add as a new player / type a name. A spelling that changes the personkey is queued in `source_corrections.json` (source `tourn`, field `Name`) when you Push, and applied across every season at the next rebuild. A capitalization-only change (same key) is applied in place.
+- *name or other conflict* (yellow): keep original [default] / replace with new (names also: type a name).
+- *team name*: keep what is on file [default] / use the pasted one / type a name. A new team has an editable name.
+- players on file but not in the paste: grey rows, "keep on roster" [checked]; unchecking removes them.
+`RosterIntake.applyPlan` plan items take `near`, `names`, `noFill`, `relabel` and return `renames`; see the comment above the function and test 11 in `test_rosterIntake.js`.

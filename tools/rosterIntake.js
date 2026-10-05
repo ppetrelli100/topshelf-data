@@ -370,38 +370,75 @@
   const sortT = t => [...new Set(t)].sort((a, b) => IT.RECENCY.indexOf(a) - IT.RECENCY.indexOf(b));
   const clone = x => JSON.parse(JSON.stringify(x));
 
-  /* applyPlan(rosters, season, plan, opts) -> new rosters object (input untouched) + log.
-     plan: [ { cand, existingIndex (or -1/null for a new team), accept: { 'pk|field': true }, skipAdd: { pk: true }, remove: [pk] } ]
-     Blank fields on file are always filled; a conflicting value is replaced only when accept['pk|field'] is true (the old value goes to alt for n/rg/rp).
-     Players on file but not in the paste are kept unless listed in remove. opts.frozen = seasons that may not be written. */
+  /* applyPlan(rosters, season, plan, opts) -> { rosters (new object, input untouched), log, renames }.
+     plan: [ { cand, existingIndex (or -1/null for a new team),
+               accept: { 'pk|field': true }      replace the on-file value with the pasted one (the old one goes to alt for n/rg/rp)
+               names:  { pk: 'Typed Name' }      with accept[pk|name]: use this spelling instead of the pasted one
+               noFill: { pk: true }              do not fill this player's blanks from the paste
+               near:   { pastePk: { mode: 'keep'|'replace'|'custom'|'add', onFilePk, name } }   a pasted player that looks like one on file
+               skipAdd: { pk: true }, remove: [pk],
+               relabel: { team, club, lvl }      new label for the team (new team: its name; on-file team: rename it) } ]
+     Blank fields on file are always filled (unless noFill). Players on file but not in the paste are kept unless listed in remove.
+     A spelling that changes a player's personkey cannot be changed in rosters.json alone (the key is in every season and every source), so it is
+     returned in renames: [{ fromPk, fromName, toName, toPk }] for the caller to queue in source_corrections.json. A same-key respelling is applied in place.
+     opts.frozen = seasons that may not be written. */
   function applyPlan(rosters, season, plan, opts) {
     opts = opts || {};
     if ((opts.frozen || []).includes(season)) throw new Error(`Season ${season} is frozen (archive); it cannot be changed from here.`);
     const out = clone(rosters); if (!out[season]) out[season] = [];
-    const log = [];
+    const log = [], renames = [];
+    const setName = (p, nm, ctx) => {
+      nm = cleanName(nm).name || norm(nm); if (!nm || nm === p.name) return 0;
+      const key = RC.makePersonKey(nm);
+      if (key === p.pk) { p.name = nm; return 1; }
+      renames.push({ fromPk: p.pk, fromName: p.name, toName: nm, toPk: key, team: ctx });
+      return 0;
+    };
+    const fillFrom = (p, q, noFill) => {
+      let n = 0;
+      if (!noFill) FIELDS.forEach(f => { const b = norm(q[f]); if (b && !norm(p[f])) { p[f] = q[f]; n++; } });
+      if (q.ctry && !p.ctry) p.ctry = q.ctry;
+      if (q.tag && !p.tag) p.tag = q.tag;
+      p.t = sortT([...(p.t || []), ...(q.t || [])]);
+      return n;
+    };
     plan.forEach(item => {
       const cand = item.cand, accept = item.accept || {}, skip = item.skipAdd || {}, removeSet = new Set(item.remove || []);
+      const noFill = item.noFill || {}, nearMap = item.near || {}, typed = item.names || {}, rl = item.relabel || null;
       if (item.existingIndex == null || item.existingIndex < 0) {
         const t = { team: cand.team, country: cand.country, club: cand.club, lvl: cand.lvl };
+        if (rl) { if (rl.team) t.team = rl.team; if (rl.club) t.club = rl.club; if (rl.lvl) t.lvl = rl.lvl; }
         if (cand.squad === 2) t.squad = 2;
         t.levels = cand.levels.slice(); t.raw = cand.raw.slice(); t.tourneys = cand.tourneys.slice();
         t.players = cand.players.filter(p => !skip[p.pk]).map(p => clone(p));
         out[season].push(t); log.push(`new team ${t.team}: ${t.players.length} players`); return;
       }
       const ex = out[season][item.existingIndex]; const have = new Map(ex.players.map(p => [p.pk, p]));
-      let added = 0, filled = 0, replaced = 0, removed = 0;
+      let added = 0, filled = 0, replaced = 0, removed = 0, relabeled = '';
+      if (rl && ((rl.team && rl.team !== ex.team) || (rl.lvl && rl.lvl !== ex.lvl) || (rl.club && rl.club !== ex.club))) {
+        relabeled = `${ex.team} -> ${rl.team || ex.team}`;
+        if (rl.team) ex.team = rl.team; if (rl.club) ex.club = rl.club; if (rl.lvl) ex.lvl = rl.lvl;
+      }
       cand.players.forEach(q => {
-        const p = have.get(q.pk);
+        let p = have.get(q.pk);
+        const nr = nearMap[q.pk];
+        if (!p && nr && nr.mode && nr.mode !== 'add' && have.get(nr.onFilePk)) {
+          const op = have.get(nr.onFilePk);
+          filled += fillFrom(op, q, noFill[q.pk]);
+          if (nr.mode === 'replace') replaced += setName(op, q.name, ex.team);
+          else if (nr.mode === 'custom') replaced += setName(op, nr.name || q.name, ex.team);
+          return;
+        }
         if (!p) { if (skip[q.pk]) return; ex.players.push(clone(q)); added++; return; }
+        if (!noFill[q.pk]) FIELDS.forEach(f => { const b = norm(q[f]); if (b && !norm(p[f])) { p[f] = q[f]; filled++; } });
         FIELDS.forEach(f => {
           const b = norm(q[f]); if (!b) return; const a = norm(p[f]);
-          if (!a) { p[f] = q[f]; filled++; }
-          else if (!sameVal(f, a, b) && accept[q.pk + '|' + f]) {
+          if (a && !sameVal(f, a, b) && accept[q.pk + '|' + f]) {
             if (['n', 'rg', 'rp'].includes(f)) { p.alt = p.alt || {}; p.alt[f] = [...new Set([...(p.alt[f] || []), a])]; }
             p[f] = q[f]; replaced++;
           }
         });
-        if (accept[q.pk + '|name'] && norm(q.name) !== norm(p.name)) { p.name = q.name; replaced++; }
+        if (accept[q.pk + '|name'] && norm(q.name) !== norm(p.name)) replaced += setName(p, typed[q.pk] || q.name, ex.team);
         if (q.ctry && !p.ctry && q.ctry !== ex.country) p.ctry = q.ctry;
         if (q.tag && !p.tag) p.tag = q.tag;
         p.t = sortT([...(p.t || []), ...(q.t || [])]);
@@ -410,9 +447,9 @@
       ex.raw = [...new Set([...(ex.raw || []), ...cand.raw])]; ex.levels = [...new Set([...(ex.levels || []), ...cand.levels])];
       ex.tourneys = sortT([...(ex.tourneys || []), ...cand.tourneys]);
       ex.players = ex.players.map((p, i) => ({ p, i })).sort((x, y) => (posRank(x.p.rp) < posRank(y.p.rp) ? -1 : posRank(x.p.rp) > posRank(y.p.rp) ? 1 : 0) || x.i - y.i).map(x => x.p);
-      log.push(`${ex.team}: +${added} players, ${filled} fields filled, ${replaced} replaced, ${removed} removed`);
+      log.push(`${ex.team}: +${added} players, ${filled} fields filled, ${replaced} replaced, ${removed} removed${relabeled ? ', renamed (' + relabeled + ')' : ''}`);
     });
-    return { rosters: out, log };
+    return { rosters: out, log, renames };
   }
 
   // Final sanity checks on a rosters object before it is written: duplicate personkeys on a team, oversize teams, empty teams.
