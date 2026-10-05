@@ -132,4 +132,14 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
   ok(r.rosters[SEASON][1].team === 'My Own Name', 'T11 new team name override');
   ok(JSON.stringify(R[SEASON][0].players.map(p => p.name)) === JSON.stringify(['Trinity Ochremchuk', 'Ann VanderMeer', 'Kate Blank']) && !onFile.players[2].ht, 'T11 input untouched'); }
 
+// 12. birth dates: any common format is brought to M/D/YYYY, so an ISO date does not conflict with the same date on file; an impossible year is dropped
+{ const n = x => RI.normDob(x);
+  ok(n('2008-12-02').v === '12/2/2008' && n('12/02/2008').v === '12/2/2008' && n('12/2/2008').v === '12/2/2008' && n('2008-12-02 00:00:00').v === '12/2/2008' && n('Dec 2, 2008').v === '12/2/2008', 'T12 formats normalised', [n('2008-12-02'), n('12/02/2008'), n('Dec 2, 2008')]);
+  ok(n('01/31/0200').bad && n('01/31/0200').v === '' && n('2008').v === '2008', 'T12 bad year dropped, bare year kept');
+  const { cl, raw } = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos', 'DOB'], ['DOB Club', '19U', '1', 'Ann Able', 'F', '2008-12-02'], ['DOB Club', '19U', '2', 'Bea Baker', 'F', '01/31/0200']]), {});
+  const ps = cl.teams[0].players; ok(ps.find(p => p.name === 'Ann Able').dob === '12/2/2008' && !ps.find(p => p.name === 'Bea Baker').dob, 'T12 intake normalises / blanks', ps.map(p => p.dob));
+  ok(raw.rowWarnings.some(w => /Bea Baker.*0200/.test(w)), 'T12 warning for the unusable date', raw.rowWarnings);
+  const on = { team: 'DOB Club 19U', country: 'US', club: 'DOB Club', lvl: '19U', players: ps.map(p => Object.assign({}, p, { dob: p.name === 'Ann Able' ? '12/2/2008' : '1/31/2008' })) };
+  const cmp = RI.compare(on, cl.teams[0]); ok(!cmp.conflicts.length, 'T12 no DOB conflicts', cmp.conflicts); }
+
 console.log(`\n${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

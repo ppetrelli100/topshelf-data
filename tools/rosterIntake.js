@@ -204,6 +204,22 @@
     m = s.match(/\b(1[0-9]|2[0-2])\s*-\s*[12]\b/); if (m) return m[1] + 'U';
     return '';
   }
+  /* Birth dates: rosters.json keeps M/D/YYYY ("12/2/2008"). Sheets arrive as 2008-12-02, 12/02/2008, "Dec 2, 2008" or with a time, so they are
+     all brought to M/D/YYYY before comparing (otherwise every date looks like a conflict). A date whose year is not plausible for a player
+     (e.g. 01/31/0200) is unusable: normDob returns bad:true and the caller leaves it blank. A bare year is left as typed. */
+  const MONTHS = { jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6, jul: 7, aug: 8, sep: 9, oct: 10, nov: 11, dec: 12 };
+  function normDob(raw) {
+    const t = norm(raw); if (!t || /^(19|20)\d\d$/.test(t)) return { v: t, bad: false };
+    let y, m, d, x;
+    if ((x = t.match(/^(\d{4})[-\/.](\d{1,2})[-\/.](\d{1,2})(?:[ T].*)?$/))) { y = +x[1]; m = +x[2]; d = +x[3]; }
+    else if ((x = t.match(/^(\d{1,2})[-\/.](\d{1,2})[-\/.](\d{4})(?:[ T].*)?$/))) { y = +x[3]; m = +x[1]; d = +x[2]; if (m > 12 && d <= 12) { const z = m; m = d; d = z; } }
+    else if ((x = t.match(/^([A-Za-z]{3})[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})$/)) && MONTHS[x[1].toLowerCase()]) { y = +x[3]; m = MONTHS[x[1].toLowerCase()]; d = +x[2]; }
+    else if ((x = t.match(/^(\d{1,2})\s+([A-Za-z]{3})[a-z]*\.?,?\s+(\d{4})$/)) && MONTHS[x[2].toLowerCase()]) { y = +x[3]; m = MONTHS[x[2].toLowerCase()]; d = +x[1]; }
+    else if ((x = t.match(/^(\d{1,2})[-\/.](\d{1,2})[-\/.](\d{2,3})$/))) return { v: '', bad: true };
+    else return { v: t, bad: false };   // some other shape: keep as typed
+    if (!(y >= 1990 && y <= 2016) || m < 1 || m > 12 || d < 1 || d > 31) return { v: '', bad: true };
+    return { v: m + '/' + d + '/' + y, bad: false };
+  }
   const countryFromState = st => (RC.CANADA_PROVINCE && (RC.CANADA_PROVINCE[st] || Object.values(RC.CANADA_PROVINCE).includes(st))) ? 'CAN' : '';
 
   /* toRawRows(parsed, defaults) -> rows in the importer's raw layout.
@@ -229,6 +245,7 @@
         const yearCell = cell(r, 'season') || ''; const yr = (yearCell.match(/(20\d\d)/) || [])[1] || d.year || '';
         const gradRaw = cell(r, 'grad'), yobRaw = cell(r, 'yob');
         let dob = cell(r, 'dob'), yob = yobRaw;
+        if (dob) { const nd = normDob(dob); if (nd.bad) { rowWarnings.push(`${cn.name}: birth date "${dob}" is not a usable date, so it was left blank (the date on file, if any, is kept)`); dob = ''; } else dob = nd.v; }
         if (!yob && dob) { const ym = dob.match(/(19|20)\d\d/); if (ym && !/^(19|20)\d\d$/.test(dob)) { /* yob is derived later by the caller from a full DOB */ } }
         out.push({
           Year: String(yr), Tourney: cell(r, 'tourney') || d.tourney || 'Misc', Level: level, '#': cell(r, 'no').replace(/^#/, ''), Name: cn.name, Pos: cell(r, 'pos'),
@@ -315,7 +332,7 @@
 
   /* ------------------------------ comparing ------------------------------ */
 
-  const sameVal = (f, a, b) => norm(a).toLowerCase() === norm(b).toLowerCase();
+  const sameVal = (f, a, b) => f === 'dob' ? normDob(a).v === normDob(b).v : norm(a).toLowerCase() === norm(b).toLowerCase();
   function lev(a, b) { if (a === b) return 0; const m = a.length, n = b.length; if (!m || !n) return Math.max(m, n); let prev = Array.from({ length: n + 1 }, (_, i) => i); for (let i = 1; i <= m; i++) { const cur = [i]; for (let j = 1; j <= n; j++) cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); prev = cur; } return prev[n]; }
 
   // Find the teams already on file for a candidate. exact = same club + level + squad; similar = same club at another level, or a near-identical club spelling.
@@ -463,5 +480,5 @@
     return problems;
   }
 
-  return { parseInput, applyEdits, columnFields, columnCount, COLUMN_CHOICES, toRawRows, clean, findExisting, compare, applyPlan, validate, cleanName, levelFromText, labelOf, normKey, FIELDS, FIELD_LABEL, MAX_ROSTER, inferMap };
+  return { parseInput, applyEdits, columnFields, columnCount, COLUMN_CHOICES, toRawRows, clean, findExisting, compare, applyPlan, validate, cleanName, levelFromText, normDob, labelOf, normKey, FIELDS, FIELD_LABEL, MAX_ROSTER, inferMap };
 });
