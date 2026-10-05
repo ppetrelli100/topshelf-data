@@ -145104,13 +145104,15 @@
       "club": "Northern Alberta Xtreme",
       "lvl": "U22",
       "levels": [
-        "U22"
+        "U22",
+        "18U"
       ],
       "raw": [
         "Northern Alberta Xtreme"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -145121,8 +145123,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "6/10/2010",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Fort McMurray"
         },
         {
           "pk": "peacock|kinsley",
@@ -145132,8 +145139,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/8/2009",
+          "state": "AB",
+          "ht": "5-8",
+          "home": "Edmonton"
         },
         {
           "pk": "smith|kasey",
@@ -145143,8 +145155,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/8/2010",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Carnwood"
         },
         {
           "pk": "watts|brooke",
@@ -145154,8 +145171,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "6/6/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Medicine Hat"
         },
         {
           "pk": "edwards|sophia",
@@ -145165,8 +145187,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/17/2011",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Devon"
         },
         {
           "pk": "levesque|makenzie",
@@ -145176,8 +145203,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/31/2009",
+          "state": "AB",
+          "ht": "5-3",
+          "home": "Edmonton"
         },
         {
           "pk": "ochremchuk|trinity",
@@ -145187,19 +145219,29 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/2/2011",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Barrhead"
         },
         {
           "pk": "terzariol|christina",
           "n": "5",
           "name": "Christina Terzariol",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/10/2009",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "New Westminster"
         },
         {
           "pk": "cunningham|addison",
@@ -145209,8 +145251,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/15/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Edmonton"
         },
         {
           "pk": "fehlauer|ava",
@@ -145220,8 +145267,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/26/2011",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Edmonton"
         },
         {
           "pk": "belamisca|katherine",
@@ -145231,8 +145283,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/21/2011",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Edmonton"
         },
         {
           "pk": "hanson|bentley",
@@ -145242,8 +145299,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/18/2010",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Grande Prairie"
         },
         {
           "pk": "lin|olivia",
@@ -145253,8 +145315,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/17/2011",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Edmonton"
         },
         {
           "pk": "lock|natty",
@@ -145264,8 +145331,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "3/30/2009",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Fort St. John"
         },
         {
           "pk": "difonzo|sabrina",
@@ -145275,8 +145347,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/23/2009",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Vancouver"
         },
         {
           "pk": "vandermeer|reese",
@@ -145286,8 +145363,13 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/16/2013",
+          "state": "AB",
+          "ht": "5-10",
+          "home": "Beaumont"
         },
         {
           "pk": "vollmin|hailey",
@@ -145297,8 +145379,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "11/5/2009",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Red Deer"
         },
         {
           "pk": "braaksma|gabriella",
@@ -145308,8 +145395,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/29/2010",
+          "state": "AB",
+          "ht": "5-8",
+          "home": "Edmonton"
         },
         {
           "pk": "tong|audrey",
@@ -145319,8 +145411,13 @@
           "rg": "2029",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "10/17/2011",
+          "state": "AB",
+          "ht": "5-3",
+          "home": "Edmonton"
         },
         {
           "pk": "whitney|ayla",
@@ -145330,8 +145427,14 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "12/22/2008",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Sturgeon County",
+          "commit": "NAIT Ooks"
         }
       ]
     },
