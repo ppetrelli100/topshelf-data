@@ -83,4 +83,13 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
   const q = run('Jersey,Player Name,Height\n7,"Doe, Jane","5\'6"""\n', { team: 'CSV Q', level: '16U' }).cl.teams[0]; ok(q && q.players[0].ht === '5-6', 'T7 properly quoted height', q && q.players[0]);
   ok(jane && jane.commit === 'Boston University', 'T7 committed normalised', jane); }
 
+// 8. a club-supplied sheet names the team differently ("Women's", another level label) but it is the same roster: matched by players, on-file label kept
+{ const t = tsv([['Team', 'Age group', 'No.', 'Name', 'Pos', 'YOB', 'Grad'], ...real.players.map(p => [real.club + " Women's U18 Prep", '18U', p.n, p.name, p.rp, p.ry, p.rg])]);
+  const c = run(t, {}).cl.teams[0], f = RI.findExisting(rosters[SEASON], c);
+  ok(!/women/i.test(c.team), "T8 Women's dropped from the club name", c.team);
+  ok(f.exact >= 0 && rosters[SEASON][f.exact].team === real.team, 'T8 matched to the on-file team by its players', { c: c.team, f }); }
+
+// 9. curly apostrophes become straight ones in names
+{ const c = run(tsv([['No', 'Name', 'Pos'], ['4', 'Kiley O’Connor', 'D']]), { team: 'Apostrophe Test', level: '16U' }).cl.teams[0]; ok(c.players[0].name === "Kiley O'Connor", 'T9 curly apostrophe straightened', c.players[0].name); }
+
 console.log(`\n${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

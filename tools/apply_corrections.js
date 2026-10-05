@@ -147,6 +147,23 @@ for (const [c, n, file] of results) {
   console.log((n > 0 ? (DRY ? 'WOULD APPLY ' : 'APPLIED     ') + `(${n} row${n === 1 ? '' : 's'}) ` : n === 0 ? 'NO MATCH     (already applied, or the source has changed) ' : n === -1 ? 'NOT EDITABLE (field has no raw column in this source) ' : 'NOT EDITABLE (source cannot be corrected here) ') + what + '  [' + file + ']');
 }
 if (!all.length) console.log('source_corrections.json has no corrections.');
+
+// Applied corrections leave the queue (they move to "applied" with the date), so "queued" only ever means "still waiting".
+// A correction with no matching rows stays queued: it is either already applied by hand or no longer matches, and someone should look.
+if (!DRY) {
+  const key = c => [c.source, c.personkey, c.field, c.from].join('\u0001');
+  const done = new Set(results.filter(r => r[1] > 0).map(r => key(r[0])));
+  if (done.size) {
+    const j = JSON.parse(fs.readFileSync(cf, 'utf8')), today = new Date().toISOString().slice(0, 10);
+    const moved = (j.corrections || []).filter(c => done.has(key(c)));
+    j.corrections = (j.corrections || []).filter(c => !done.has(key(c)));
+    j.applied = (j.applied || []).concat(moved.map(c => Object.assign({}, c, { applied: today })));
+    const line = c => '    ' + JSON.stringify(c).replace(/":/g, '": ').replace(/,"/g, ', "');
+    fs.writeFileSync(cf, '{\n  "version": ' + JSON.stringify(j.version || 1) + ',\n  "description": ' + JSON.stringify(j.description) + ',\n  "corrections": [\n' + j.corrections.map(line).join(',\n') + '\n  ]' +
+      (j.applied.length ? ',\n  "applied": [\n' + j.applied.map(line).join(',\n') + '\n  ]' : '') + '\n}\n');
+    console.log('Moved ' + moved.length + ' applied correction(s) out of the queue.');
+  }
+}
 if (REBUILD && !DRY) {   // always: rosters.json can change with no queued correction (Teams tab pushes), and master reads it
   // rosters.json is the editable source now, so there is no re-import step: a corrected roster is simply what build_master reads next.
   const run = (cmd) => { console.log('\n$ ' + cmd); cp.execSync(cmd, { cwd: repo, stdio: 'inherit' }); };

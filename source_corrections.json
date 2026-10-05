@@ -1,7 +1,9 @@
 {
   "version": 1,
-  "description": "Corrections queued from the Master Viewer. tools/apply_corrections.js applies them to the source files (every row of that player in that source) and then rebuilds. Idempotent: once applied, \"from\" no longer exists and re-running does nothing.",
+  "description": "Corrections queued from the Master Viewer. tools/apply_corrections.js applies them to the source files (every row of that player in that source), then moves each applied one from \"corrections\" (the queue) to \"applied\" (history). Rebuild from the Pipeline tab.",
   "corrections": [
-    {"source": "tourn", "personkey": "orizzoti|gia", "field": "Name", "from": "Gia Orizzoti", "to": "Gia Orizotti", "added": "2026-10-04"}
+  ],
+  "applied": [
+    {"source": "tourn", "personkey": "orizzoti|gia", "field": "Name", "from": "Gia Orizzoti", "to": "Gia Orizotti", "added": "2026-10-04", "applied": "2026-10-04"}
   ]
 }

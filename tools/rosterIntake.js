@@ -164,6 +164,7 @@
     t = RC.stripPronounce(t);
     const tg = RC.nameTags(t); if (tg.length) { tags.push(...tg); t = RC.stripNameTags(t); }
     t = t.replace(/\s*[“"‘(]\s*([^”"’)]{1,25}?)\s*[”"’)]\s*/g, (m, nick) => { tags.push('nickname: ' + nick.trim()); notes.push('nickname removed'); return ' '; }).replace(/\s+/g, ' ').trim();
+    t = t.replace(/[\u2018\u2019\u02BC]/g, "'");   // O’Connor -> O'Connor (a nickname in quotes was already taken out above)
     const cm = t.match(/^([^,]+),\s*([^,]+)$/); if (cm && !/^(jr|sr|ii|iii|iv)\.?$/i.test(cm[2].trim())) { t = cm[2].trim() + ' ' + cm[1].trim(); notes.push('Last, First flipped'); }
     const un = RC.unaccent(t); if (un !== t) { t = un; notes.push('accents stripped'); }
     if (t.length > 3 && (t === t.toUpperCase() || t === t.toLowerCase()) && /[A-Za-z]/.test(t)) { t = titleCase(t); notes.push('case fixed'); }
@@ -191,8 +192,12 @@
         if (!name || /^(name|player|totals?|goalies|forwards|defense|defence|skaters)$/i.test(name)) return;
         if (/^\d+$/.test(name)) { rowWarnings.push(`${b.heading || 'paste'} row ${ri + 1}: "${name}" is not a name (skipped)`); return; }
         const cn = cleanName(name);
-        const team = cell(r, 'team') || b.heading || d.team || '';
+        let team = cell(r, 'team') || b.heading || d.team || '';
         let level = cell(r, 'level') || levelFromText(team) || d.level || '';
+        // Club-name spellings seen in club-supplied sheets: "Delta Hockey Academy Black Women's U18 Prep", "Stanstead U18". Drop "Women's" and a trailing age
+        // group (it is the Level column's job) so the Type table can recognise the club; "Prep" alone is kept (Shattuck's naming depends on it).
+        if (cell(r, 'level')) team = team.replace(/\bwomen['\u2019]?s\b/ig, '').replace(/\s*[-\u2013]?\s*\b(?:U\d\d|\d\dU)(?:\s*prep)?\s*$/i, '').replace(/\s{2,}/g, ' ').trim();
+        else team = team.replace(/\bwomen['\u2019]?s\b/ig, '').replace(/\s{2,}/g, ' ').trim();
         const hometown = cell(r, 'hometown'), state = cell(r, 'state');
         let country = cell(r, 'country').toUpperCase().replace(/^CANADA$/, 'CAN').replace(/^(USA|UNITED STATES)$/, 'US') || d.country || '';
         const yearCell = cell(r, 'season') || ''; const yr = (yearCell.match(/(20\d\d)/) || [])[1] || d.year || '';
@@ -290,10 +295,18 @@
   // Find the teams already on file for a candidate. exact = same club + level + squad; similar = same club at another level, or a near-identical club spelling.
   function findExisting(seasonTeams, cand) {
     const list = seasonTeams || [];
-    const exact = list.findIndex(t => normKey(t.club) === normKey(cand.club) && t.lvl === cand.lvl && (t.squad || 1) === cand.squad);
+    let exact = list.findIndex(t => normKey(t.club) === normKey(cand.club) && t.lvl === cand.lvl && (t.squad || 1) === cand.squad), via = exact >= 0 ? 'name' : '';
+    // Same roster under another name or level label (club-supplied sheets say "Women's U18 Prep", we hold U22): when most of the paste's players are
+    // already on ONE team this season, that is the team. The label on file is kept; the paste only adds or fills.
+    // (also when the name matches a team whose roster is not the paste's at all and another team's is: the level label was the odd one out)
+    if (cand.players.length >= 8) {
+      const pks = new Set(cand.players.map(p => p.pk)), cnt = t => t.players.filter(p => pks.has(p.pk)).length; let best = -1, bestN = 0;
+      list.forEach((t, i) => { const n = cnt(t); if (n > bestN) { bestN = n; best = i; } });
+      if (best >= 0 && best !== exact && bestN >= Math.ceil(0.7 * pks.size) && (exact < 0 || cnt(list[exact]) < 0.3 * pks.size)) { exact = best; via = 'roster'; }
+    }
     const similar = [];
     list.forEach((t, i) => { if (i === exact) return; const a = normKey(t.club), b = normKey(cand.club); if (a === b) similar.push({ i, why: `same club at ${t.lvl}${t.squad === 2 ? ' (#2 team)' : ''}`, team: t.team }); else if (a && b && (a.includes(b) || b.includes(a) || lev(a, b) <= 2)) similar.push({ i, why: 'similar club name', team: t.team }); });
-    return { exact, similar };
+    return { exact, similar, via };
   }
 
   /* compare(existingTeam | null, cand) ->

@@ -201,3 +201,9 @@ rosters_archive.json, overrides.json, commits_d3.json, intl_wnt_o.json, regional
 - promote: same run, then copies master_candidate.json over master.json and commits the results (sources, rosters.json, rosters_archive.json, master.json, master_sources.json) to main. Scratch files (master_candidate/master_diff/rebuild_log) are not committed.
 - The viewer's "Queued source corrections" card lists the queue, starts the runs through the GitHub API (workflow_dispatch), polls the run, and shows the review summary. Needs a fine-grained token with Contents AND Actions read/write.
 - The runner needs every build input committed to the repo (ep.json, master_last_hockeyfile.json, rosters.json, rosters_archive.json, ...); the workflow's first step stops with a clear message if one is missing.
+
+## Pipeline tab (updates.html, Oct 2026)
+- The Pipeline tab draws the flow (sources -> master; tourneys -> rosters -> master). Each box shows the file's last commit time from GitHub. Green = committed before master.json was last built (already in master). Red = committed after (master does not have it yet). Any red source, a red extra input (commits_d3, regionals, type_aliases, firstNameMap, intl_wnt_o, master_picks) or a queued correction turns master red.
+- "Up to date" means "included in master", judged from commit times. It does not know whether an upstream spreadsheet or website has newer data than the JSON file.
+- The tourneys box is intake only (the Teams tab writes rosters.json). The rebuild card (apply queued corrections, review, promote) moved from the Master Viewer to this tab. A review summary older than the current master.json is hidden.
+- `source_corrections.json` now has two lists: `corrections` (the queue, only entries still waiting) and `applied` (history). `apply_corrections.js` moves each correction it applied from the queue to `applied`; one with no matching rows stays queued so someone looks at it.
