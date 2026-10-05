@@ -177006,7 +177006,8 @@
         "16U"
       ],
       "raw": [
-        "NAHA 16U"
+        "NAHA 16U",
+        "NAHA Red"
       ],
       "tourneys": [
         "Misc"
@@ -177022,7 +177023,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "keenan|courtney",
@@ -177034,7 +177036,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "margolis|emme",
@@ -177046,7 +177049,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "smart|kristaya",
@@ -177058,7 +177062,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "anslow|molly",
@@ -177070,7 +177075,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "chapkosky|karissa",
@@ -177082,7 +177088,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "drevitch|molly",
@@ -177094,7 +177101,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "henderson|kylie",
@@ -177106,7 +177114,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "lobisser|charlotte",
@@ -177118,7 +177127,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "mehling|katherine",
@@ -177130,7 +177140,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "schneider|lillian",
@@ -177142,7 +177153,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "livingstone|kylie",
@@ -177154,7 +177166,8 @@
           "state": "NH",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NH"
         },
         {
           "pk": "mcauliffe|tenley",
@@ -177166,7 +177179,8 @@
           "state": "NC",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NC"
         },
         {
           "pk": "silveira|charlotte",
@@ -177178,7 +177192,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "nojaim|alison",
@@ -177190,7 +177205,8 @@
           "state": "WA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Washington"
         },
         {
           "pk": "jenecke|keeley",
@@ -177202,7 +177218,8 @@
           "state": "MN",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MN"
         },
         {
           "pk": "cetina|eva",
@@ -177214,7 +177231,8 @@
           "state": "NY",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NY"
         },
         {
           "pk": "kvasnickova|veronica",
@@ -177225,7 +177243,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Switzerland"
         },
         {
           "pk": "peterson|eleanor",
@@ -177237,7 +177256,8 @@
           "state": "MA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "MA"
         },
         {
           "pk": "frasso|olivia",
@@ -177249,7 +177269,9 @@
           "state": "NV",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "NV",
+          "tag": "nickname: Ollie"
         },
         {
           "pk": "ramos|chloe",
@@ -177261,7 +177283,8 @@
           "state": "WA",
           "t": [
             "Misc"
-          ]
+          ],
+          "home": "Washington"
         }
       ]
     },
