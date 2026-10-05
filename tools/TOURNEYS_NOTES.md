@@ -116,3 +116,8 @@ How new rosters (a club site, a tournament sheet, several teams at once) get int
   The file is written exactly as `JSON.stringify(x, null, 2)` (no trailing newline unless the file had one) so `apply_corrections.js` can round-trip it.
   After a push, run the rebuild in the Master Viewer so master.json picks the rosters up (`--rebuild` now rebuilds master even with no queued corrections).
 - **Not built yet**: the yearly rollover (move the oldest live season into rosters_archive.json and start the new one).
+
+### Teams tab: preview table, column fixes (Oct 2026)
+- Pasting text or loading/dropping a CSV shows the data as a table first. Each column has a dropdown with how it was read (Name, Birth date, Grad year, ...; "ignore" for notes and the like); change it when a guess is wrong. One column per field. The row's X leaves a junk row out. "Edit raw text" shows the original text again.
+- The pure logic lives in `tools/rosterIntake.js` (`COLUMN_CHOICES`, `columnFields`, `columnCount`, `applyEdits`); tested in `tools/test_rosterIntake.js`.
+- Teams are matched to what is on file by name/level first, then by players: when 70% of the pasted players are on one team this season, that is the team and the on-file label is kept. Canadian U18 and U22 get no age warnings (their ages overlap).

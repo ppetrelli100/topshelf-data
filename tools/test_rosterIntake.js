@@ -92,4 +92,12 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
 // 9. curly apostrophes become straight ones in names
 { const c = run(tsv([['No', 'Name', 'Pos'], ['4', 'Kiley O’Connor', 'D']]), { team: 'Apostrophe Test', level: '16U' }).cl.teams[0]; ok(c.players[0].name === "Kiley O'Connor", 'T9 curly apostrophe straightened', c.players[0].name); }
 
+// 10. preview edits: re-map a column, drop a row; the input is not mutated
+{ const t = tsv([['Player', 'No', 'Position'], ['Jane Doe', '7', 'F'], ['Mia Lee', '9', 'D'], ['Junk Row', '', '']]);
+  const parsed = RI.parseInput(t), before = JSON.stringify(parsed), b = parsed.blocks[0];
+  ok(RI.columnFields(b)[0] === 'name' && RI.columnFields(b)[1] === 'no' && RI.columnCount(b) === 3, 'T10 columns read from the header', RI.columnFields(b));
+  const e = RI.applyEdits(parsed, { 0: { cols: { 1: '', 2: 'level' }, drop: [2] } }), nb = e.blocks[0];
+  ok(nb.map.name === 0 && nb.map.no === undefined && nb.map.level === 2 && nb.rows.length === 2, 'T10 edits applied', nb.map);
+  ok(JSON.stringify(parsed) === before, 'T10 input not mutated'); ok(RI.applyEdits(parsed, null) === parsed, 'T10 no edits returns the same object'); }
+
 console.log(`\n${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

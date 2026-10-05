@@ -152,6 +152,31 @@
     return { blocks: real, warnings, delim };
   }
 
+  /* Column preview support (the Teams tab shows the parsed paste as a table before checking it).
+     COLUMN_CHOICES: what a column can be read as. columnFields(block) -> { colIndex: field } as parsed; columnCount(block).
+     applyEdits(parsed, edits) -> parsed with the user's changes: edits[blockIndex] = { cols: { colIndex: field | '' ('' = ignore) }, drop: [rowIndex...] }.
+     Pure, never mutates its input. */
+  const COLUMN_CHOICES = [['', '(ignore)'], ['name', 'Name'], ['first', 'First name'], ['last', 'Last name'], ['no', '#'], ['pos', 'Position'], ['yob', 'Birth year'], ['dob', 'Birth date'],
+    ['grad', 'Grad year'], ['height', 'Height'], ['shot', 'Shoots'], ['hometown', 'Hometown'], ['state', 'State / Prov'], ['country', 'Country'], ['school', 'School'],
+    ['committed', 'Committed'], ['team', 'Team'], ['level', 'Level / age group'], ['season', 'Season'], ['tourney', 'Tourney']];
+  const columnFields = b => { const out = {}; Object.keys(b.map || {}).forEach(f => { if (!(b.map[f] in out)) out[b.map[f]] = f; }); return out; };
+  const columnCount = b => Math.max((b.header || []).length, ...b.rows.map(r => r.length), 0);
+  function applyEdits(parsed, edits) {
+    if (!edits) return parsed;
+    const blocks = parsed.blocks.map((b, bi) => {
+      const e = edits[bi]; if (!e) return b;
+      const nb = Object.assign({}, b);
+      if (e.drop && e.drop.length) { const d = new Set(e.drop); nb.rows = b.rows.filter((r, ri) => !d.has(ri)); }
+      if (e.cols && Object.keys(e.cols).length) {
+        const cf = columnFields(b); Object.keys(e.cols).forEach(c => { cf[c] = e.cols[c]; });
+        nb.map = {}; Object.keys(cf).map(Number).sort((x, y) => x - y).forEach(c => { const f = cf[c]; if (f && !(f in nb.map)) nb.map[f] = c; });
+        nb.edited = true;
+      }
+      return nb;
+    });
+    return Object.assign({}, parsed, { blocks });
+  }
+
   /* ------------------------- name / level helpers ------------------------- */
 
   const smallWords = /^(de|la|le|van|von|der|di|du|da|st|mc|mac)$/i;
@@ -401,5 +426,5 @@
     return problems;
   }
 
-  return { parseInput, toRawRows, clean, findExisting, compare, applyPlan, validate, cleanName, levelFromText, labelOf, normKey, FIELDS, FIELD_LABEL, MAX_ROSTER, inferMap };
+  return { parseInput, applyEdits, columnFields, columnCount, COLUMN_CHOICES, toRawRows, clean, findExisting, compare, applyPlan, validate, cleanName, levelFromText, labelOf, normKey, FIELDS, FIELD_LABEL, MAX_ROSTER, inferMap };
 });
