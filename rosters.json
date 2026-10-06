@@ -185572,6 +185572,188 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Atlantic Coast Academy 19U",
+      "country": "US",
+      "club": "Atlantic Coast Academy",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Atlantic Coast Academy 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "johnson|danika",
+          "n": "3",
+          "name": "Danika Johnson",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|lacey",
+          "n": "7",
+          "name": "Lacey Brown",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chen|madeline",
+          "n": "8",
+          "name": "Madeline Chen",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beaton|brady",
+          "n": "10",
+          "name": "Brady Beaton",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reiss|katherine",
+          "n": "12",
+          "name": "Katherine Reiss",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zulon|jessica",
+          "n": "18",
+          "name": "Jessica Zulon",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "helenetoetuddveg|miriam",
+          "n": "25",
+          "name": "Miriam Helene Toet-Uddveg",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "deshaies|brynn",
+          "n": "77",
+          "name": "Brynn Deshaies",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carpenter|emersyn",
+          "n": "83",
+          "name": "Emersyn Carpenter",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "styblova|sarlota",
+          "n": "88",
+          "name": "Sarlota Styblova",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ito|tsumugi",
+          "n": "91",
+          "name": "Tsumugi Ito",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rhodes|cordelia",
+          "n": "96",
+          "name": "Cordelia Rhodes",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vieira|alyssa",
+          "n": "1",
+          "name": "Alyssa Vieira",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hurley|lillian",
+          "n": "11",
+          "name": "Lily Hurley",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "roth|addison",
+          "n": "33",
+          "name": "Addison Roth",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
