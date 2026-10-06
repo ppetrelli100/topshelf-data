@@ -170476,230 +170476,252 @@
         "16U"
       ],
       "raw": [
-        "St. Louis Blues 16U"
+        "St. Louis Blues 16U",
+        "St LOUIS Lady Blues 16U"
       ],
       "tourneys": [
-        "Pittsburgh"
+        "Pittsburgh",
+        "Misc"
       ],
       "players": [
         {
           "pk": "barzak|allison",
           "n": "19",
           "name": "Ally Barzak",
-          "ry": "",
+          "ry": "2010",
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "christiansen|lilli",
           "n": "90",
           "name": "Lilli Christiansen",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "cooper|camryn",
           "n": "42",
           "name": "Camryn Cooper",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "platte|emma",
           "n": "23",
           "name": "Emma Platte",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "speno|sophia",
           "n": "51",
           "name": "Sophia Speno",
-          "ry": "",
+          "ry": "2011",
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "wu|sophia",
           "n": "58",
           "name": "Sophia Wu",
-          "ry": "",
+          "ry": "2010",
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "blyth|brianna",
           "n": "17",
           "name": "Brianna Blyth",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "breed|theresa",
           "n": "11",
           "name": "Tessa Breed",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "forister|blythe",
           "n": "15",
           "name": "Blythe Forister",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "griffin|mac",
           "n": "29",
           "name": "Mac Griffin",
-          "ry": "",
+          "ry": "2011",
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "kleszczewski|ella",
           "n": "36",
           "name": "Ella Kleszczewski",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "knittel|mikayla",
           "n": "88",
           "name": "Mikayla Knittel",
-          "ry": "",
+          "ry": "2011",
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "langhammer|ava",
           "n": "22",
           "name": "Ava Langhammer",
-          "ry": "",
+          "ry": "2010",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "onder|hannah",
           "n": "57",
           "name": "Hannah Onder",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "roussey|paige",
           "n": "30",
           "name": "Paige Roussey",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "scott|lainey",
           "n": "10",
           "name": "Lainey Scott",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "talley|sydney",
           "n": "87",
           "name": "Sydney Talley",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "vitale|summer",
           "n": "46",
           "name": "Summer Vitale",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "mcpherson|kennedy",
           "n": "37",
           "name": "Kennedy McPherson",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "G",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "tomaras|sophia",
           "n": "31",
           "name": "Sophia Tomaras",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "G",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         }
       ]
