@@ -194355,6 +194355,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "AS Quebec U18",
+      "country": "CAN",
+      "club": "As Quebec",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "As Quebec U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "beaulieu|melyna",
+          "n": "1",
+          "name": "Melyna Beaulieu",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moffattfortin|mia",
+          "n": "31",
+          "name": "Mia Moffatt-Fortin",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thibault|alexanne",
+          "n": "4",
+          "name": "Alexanne Thibault",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jacques|amelia",
+          "n": "12",
+          "name": "Amelia Jacques",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fournier|anais",
+          "n": "11",
+          "name": "Anais Fournier",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brisson|annsoleil",
+          "n": "6",
+          "name": "Ann-Soleil Brisson",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cote|annsophie",
+          "n": "5",
+          "name": "Ann-Sophie Cote",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duchesneau|ariane",
+          "n": "13",
+          "name": "Ariane Duchesneau",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boucher|elonie",
+          "n": "8",
+          "name": "Elonie Boucher",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "voyer|evelyne",
+          "n": "19",
+          "name": "Evelyne Voyer",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lelievre|florence",
+          "n": "17",
+          "name": "Florence Lelievre",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "howe|laurianne",
+          "n": "10",
+          "name": "Laurianne Howe",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "begin|lena",
+          "n": "3",
+          "name": "Lena Begin",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tannous|leonie",
+          "n": "18",
+          "name": "Leonie Tannous",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "michaud|lya",
+          "n": "15",
+          "name": "Lya Michaud",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lepage|rachel",
+          "n": "16",
+          "name": "Rachel Lepage",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "giguere|saraheve",
+          "n": "43",
+          "name": "Sarah-Eve Giguere",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
