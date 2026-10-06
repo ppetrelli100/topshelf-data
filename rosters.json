@@ -131235,16 +131235,18 @@
       ]
     },
     {
-      "team": "Delta Hockey Academy - Green U22",
+      "team": "Delta Hockey Academy - Green U18",
       "country": "CAN",
       "club": "Delta Hockey Academy - Green",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "U22"
+        "U22",
+        "U18"
       ],
       "raw": [
         "Delta Prep Green",
-        "Delta Hockey Academy - Green"
+        "Delta Hockey Academy - Green",
+        "Delta Hockey Academy Green U18 Prep"
       ],
       "tourneys": [
         "Stoney",
@@ -131253,7 +131255,7 @@
       "players": [
         {
           "pk": "hettle|sara",
-          "n": "8",
+          "n": "4",
           "name": "Sara Hettle",
           "ry": "2009",
           "rg": "2027",
