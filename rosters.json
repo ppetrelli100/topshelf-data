@@ -180030,6 +180030,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Red Deer Sutter Fund Chiefs U22",
+      "country": "US",
+      "club": "Red Deer Sutter Fund Chiefs",
+      "lvl": "U22",
+      "levels": [
+        "U22"
+      ],
+      "raw": [
+        "Red Deer Sutter Fund Chiefs U22"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "sorenson|taylor",
+          "n": "2",
+          "name": "Taylor Sorenson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcevoy|alena",
+          "n": "4",
+          "name": "Alena McEvoy",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "galenza|addison",
+          "n": "14",
+          "name": "Addison Galenza",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shaw|addison",
+          "n": "17",
+          "name": "Addison Shaw",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "deboer|emily",
+          "n": "18",
+          "name": "Emily Deboer",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hammer|kendall",
+          "n": "20",
+          "name": "Kendall Hammer",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lacina|reece",
+          "n": "3",
+          "name": "Reece Lacina",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wasylchew|taylor",
+          "n": "5",
+          "name": "Taylor Wasylchew",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "morrison|macy",
+          "n": "6",
+          "name": "Macy Morrison",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "switzer|talia",
+          "n": "7",
+          "name": "Talia Switzer",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stephenson|peyton",
+          "n": "8",
+          "name": "Peyton Stephenson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stephenson|jensyn",
+          "n": "9",
+          "name": "Jensyn Stephenson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "allakariallak|mykyla",
+          "n": "10",
+          "name": "Mykyla Allakariallak",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "milani|sawyer",
+          "n": "11",
+          "name": "Sawyer Milani",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cruse|rylee",
+          "n": "12",
+          "name": "Rylee Cruse",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schierman|ryley",
+          "n": "15",
+          "name": "Ryley Schierman",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcleod|kasey",
+          "n": "16",
+          "name": "Kasey McLeod",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "heggart|theresa",
+          "n": "19",
+          "name": "Tessa Heggart",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|quinn",
+          "n": "1",
+          "name": "Quinn Smith",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moos|heidi",
+          "n": "31",
+          "name": "Heidi Moos",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
