@@ -180493,6 +180493,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Valley Jr. Warriors 19U",
+      "country": "US",
+      "club": "Valley Jr. Warriors",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Valley Jr. Warriors 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "averill|margaret",
+          "n": "11",
+          "name": "Margaret Averill",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carlson|megan",
+          "n": "4",
+          "name": "Megan Carlson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dockray|lauren",
+          "n": "10",
+          "name": "Lauren Dockray",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duplessis|kimberly",
+          "n": "2",
+          "name": "Kimee Duplessis",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "glass|sienna",
+          "n": "20",
+          "name": "Sienna Glass",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|gabriella",
+          "n": "24",
+          "name": "Gabby Smith",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bartlett|brooke",
+          "n": "6",
+          "name": "Brooke Bartlett",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bell|macey",
+          "n": "77",
+          "name": "Macey Bell",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carlson|brooke",
+          "n": "14",
+          "name": "Brooke Carlson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "crowley|cadence",
+          "n": "93",
+          "name": "Cadence Crowley",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "demain|liza",
+          "n": "12",
+          "name": "Liza Demain",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "godfrey|natasha",
+          "n": "7",
+          "name": "Natasha Godfrey",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hardin|lana",
+          "n": "23",
+          "name": "Lana Hardin",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "murray|mary",
+          "n": "5",
+          "name": "Mary Murray",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "previte|isabel",
+          "n": "16",
+          "name": "Isabel Previte",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reiher|dominique",
+          "n": "27",
+          "name": "Dominique Reiher",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sears|erin",
+          "n": "26",
+          "name": "Erin Sears",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jonas|annika",
+          "n": "1",
+          "name": "Annika Jonas",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "puleo|ella",
+          "n": "35",
+          "name": "Ella Puleo",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
