@@ -4,7 +4,7 @@
   "corrections": [
     {"source": "tourn", "personkey": "vaszily|addison", "field": "Name", "from": "Addison Vaszily", "to": "Adds Vaszily", "note": "Teams tab: Shattuck-St. Mary's 19-2", "added": "2026-10-05"},
     {"source": "tourn", "personkey": "weaver|cynnim", "field": "Name", "from": "Cynnim Weaver", "to": "Cynnimin Weaver", "note": "Teams tab: Shattuck-St. Mary's 19-2", "added": "2026-10-06"},
-    {"source": "tourn", "personkey": "silwosky|kaysi", "field": "Name", "from": "Kaysi Silwosky", "to": "Kaysi Silworsky", "note": "Teams tab: Rink Hockey Academy Winnipeg U18", "added": "2026-10-06"},
+    {"source": "tourn", "personkey": "silwosky|kaysi", "field": "Name", "from": "Kaysi Silwosky", "to": "Kaysi Silworsky", "note": "Teams tab: Rink Winnipeg U18", "added": "2026-10-06"},
     {"source": "tourn", "personkey": "kittleson|jersey", "field": "Name", "from": "Jersey Kittleson", "to": "Jersey Kittelson", "note": "Teams tab: Saskatoon Stars U18", "added": "2026-10-06"},
     {"source": "tourn", "personkey": "bary|avery", "field": "Name", "from": "Avery Bary", "to": "Avery Barry", "note": "Teams tab: Saskatoon Stars U18", "added": "2026-10-06"},
     {"source": "tourn", "personkey": "pisarcyzk|katherine", "field": "Name", "from": "Kate Pisarcyzk", "to": "Kate Pisarczyk", "note": "Teams tab: Edge School U18", "added": "2026-10-06"}
