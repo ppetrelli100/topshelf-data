@@ -132858,7 +132858,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "11/30/2009"
+          "dob": "11/30/2009",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary"
         },
         {
           "pk": "higgins|mika",
@@ -132871,7 +132874,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/11/2009"
+          "dob": "2/11/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "mcmillan|amelia",
@@ -132884,7 +132890,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "3/5/2010"
+          "dob": "3/5/2010",
+          "state": "AB",
+          "ht": "5-8",
+          "home": "Calgary"
         },
         {
           "pk": "stephenson|hudson",
@@ -132897,7 +132906,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "5/21/2010"
+          "dob": "5/21/2010",
+          "state": "AB",
+          "ht": "5-9",
+          "home": "Rocky View County"
         },
         {
           "pk": "ringrose|kaitlin",
@@ -132910,7 +132922,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "11/28/2011"
+          "dob": "11/28/2011",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "ford|isla",
@@ -132922,7 +132937,10 @@
           "dob": "2/20/2012",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Calgary"
         },
         {
           "pk": "rapp|alice",
@@ -132935,7 +132953,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "9/3/2010"
+          "dob": "9/3/2010",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Cochran"
         },
         {
           "pk": "lee|abigail",
@@ -132948,7 +132969,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "9/9/2009"
+          "dob": "9/9/2009",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary"
         },
         {
           "pk": "vetter|chloe",
@@ -132961,7 +132985,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "8/7/2010"
+          "dob": "8/7/2010",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Lyalta"
         },
         {
           "pk": "kostiuk|jade",
@@ -132974,7 +133001,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "9/10/2011"
+          "dob": "9/10/2011",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Cranbrook"
         },
         {
           "pk": "gillings|sawyer",
@@ -132987,7 +133017,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "3/7/2011"
+          "dob": "3/7/2011",
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary"
         },
         {
           "pk": "michaluk|avery",
@@ -133000,7 +133033,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/2/2009"
+          "dob": "2/2/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "sandilands|sierra",
@@ -133019,7 +133055,10 @@
               "20"
             ]
           },
-          "dob": "5/4/2011"
+          "dob": "5/4/2011",
+          "state": "AB",
+          "ht": "5-8",
+          "home": "Carstairs"
         },
         {
           "pk": "pappas|kyla",
@@ -133032,7 +133071,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "9/9/2009"
+          "dob": "9/9/2009",
+          "state": "AB",
+          "ht": "5-9",
+          "home": "Airdrie"
         },
         {
           "pk": "pisarcyzk|katherine",
@@ -133045,7 +133087,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "7/7/2011"
+          "dob": "7/7/2011",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Airdrie"
         },
         {
           "pk": "mitenko|jana",
@@ -133058,7 +133103,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "9/1/2009"
+          "dob": "9/1/2009",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Calgary"
         },
         {
           "pk": "bodnar|jocelyn",
@@ -133071,7 +133119,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "4/2/2009"
+          "dob": "4/2/2009",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "saunders|sienna",
@@ -133083,7 +133134,10 @@
           "dob": "9/1/2011",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "moore|breina",
@@ -133096,7 +133150,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "4/1/2009"
+          "dob": "4/1/2009",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Calgary"
         },
         {
           "pk": "lane|peyton",
@@ -133109,7 +133166,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/13/2011"
+          "dob": "2/13/2011",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Calgary"
         }
       ]
     },
