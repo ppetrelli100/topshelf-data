@@ -181614,17 +181614,6 @@
           ]
         },
         {
-          "pk": "payne|maria",
-          "n": "6",
-          "name": "Maria Payne",
-          "ry": "",
-          "rg": "2027",
-          "rp": "D",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
           "pk": "shifrin|natalia",
           "n": "44",
           "name": "Natalia Shifrin",
@@ -181645,6 +181634,38 @@
           "t": [
             "Misc"
           ]
+        },
+        {
+          "pk": "fuerst|joymarie",
+          "n": "27",
+          "name": "Joymarie Fuerst",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "F"
+            ]
+          }
+        },
+        {
+          "pk": "payne|maria",
+          "n": "6",
+          "name": "Maria Payne",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "borrmann|megan",
@@ -181672,17 +181693,6 @@
           "pk": "dymek|adeline",
           "n": "16",
           "name": "Adeline Dymek",
-          "ry": "",
-          "rg": "2027",
-          "rp": "F",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "fuerst|joymarie",
-          "n": "27",
-          "name": "Joymarie Fuerst",
           "ry": "",
           "rg": "2027",
           "rp": "F",
@@ -187185,6 +187195,210 @@
           "pk": "derleth|madelynn",
           "n": "30",
           "name": "Madelynn Derleth",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "BioSteel Academy 19U",
+      "country": "US",
+      "club": "BioSteel Academy",
+      "lvl": "19U",
+      "levels": [
+        "U22"
+      ],
+      "raw": [
+        "BioSteel Academy U22"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "chen|jasmine",
+          "n": "10",
+          "name": "Jasmine Chen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "broughton|keandra",
+          "n": "12",
+          "name": "Keandra Broughton",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "glazniece|anna",
+          "n": "19",
+          "name": "Anna Glazniece",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "eagen|alexis",
+          "n": "21",
+          "name": "Alexis Eagen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "helgerman|sadie",
+          "n": "26",
+          "name": "Sadie Helgerman",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "noah|elisabelle",
+          "n": "76",
+          "name": "Elisa-Belle Noah",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "senkoe|kaitlyn",
+          "n": "9",
+          "name": "Kaitlyn Senkoe",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macneil|jessica",
+          "n": "17",
+          "name": "Jessica MacNeil",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hogan|kendal",
+          "n": "22",
+          "name": "Kendal Hogan",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bridgen|allison",
+          "n": "27",
+          "name": "Allie Bridgen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "miles|lara",
+          "n": "29",
+          "name": "Lara Miles",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "weston|jaclyn",
+          "n": "62",
+          "name": "Jaclyn Weston",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zelubovska|kjara",
+          "n": "77",
+          "name": "Kjara Zelubovska",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "falmer|brookelynn",
+          "n": "86",
+          "name": "Brookelynn Falmer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mott|alanna",
+          "n": "94",
+          "name": "Alanna Mott",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "romses|rylie",
+          "n": "35",
+          "name": "Rylie Romses",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dinning|michelle",
+          "n": "61",
+          "name": "Michelle Dinning",
           "ry": "",
           "rg": "",
           "rp": "G",
