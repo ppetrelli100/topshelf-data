@@ -188846,6 +188846,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Washington Pride 16U",
+      "country": "US",
+      "club": "Washington Pride",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Washington Pride 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "moran|mckinley",
+          "n": "3",
+          "name": "McKinley Moran",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schittone|sophia",
+          "n": "6",
+          "name": "Sophia Schittone",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reilly|abigael",
+          "n": "7",
+          "name": "Abigael Reilly",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mccabe|kinley",
+          "n": "8",
+          "name": "Kinley McCabe",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sun|greta",
+          "n": "11",
+          "name": "Greta Sun",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nicholas|chloe",
+          "n": "13",
+          "name": "Chloe Nicholas",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mckendree|maeve",
+          "n": "15",
+          "name": "Maeve McKendree",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kennerly|alix",
+          "n": "2",
+          "name": "Alix Kennerly",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pfeufer|violet",
+          "n": "4",
+          "name": "Violet Pfeufer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fisher|lauren",
+          "n": "5",
+          "name": "Lauren Fisher",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "paszkiet|kairi",
+          "n": "9",
+          "name": "Kairi Paszkiet",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gousis|allison",
+          "n": "10",
+          "name": "Allison Gousis",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "burke|corinne",
+          "n": "14",
+          "name": "Corinne Burke",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "daggett|mia",
+          "n": "17",
+          "name": "Mia Daggett",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "szugye|abigail",
+          "n": "19",
+          "name": "Abigail Szugye",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "williamson|julisa",
+          "n": "21",
+          "name": "Julisa Williamson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "miller|emma",
+          "n": "22",
+          "name": "Emma Miller",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vandervoort|anne",
+          "n": "26",
+          "name": "Anne Vander Voort",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "myers|eleanor",
+          "n": "1",
+          "name": "Eleanor Myers",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "valentine|blake",
+          "n": "30",
+          "name": "Blake Valentine",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
