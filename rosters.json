@@ -155737,24 +155737,28 @@
       ],
       "raw": [
         "St Louis Lady Blues 19U",
-        "St. Louis Blues 19U"
+        "St. Louis Blues 19U",
+        "St LOUIS Lady Blues 19U"
       ],
       "tourneys": [
         "Pittsburgh",
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
           "pk": "bamber|kaitlyn",
           "n": "21",
           "name": "Kaitlyn Bamber",
-          "ry": "",
+          "ry": "2008",
           "rg": "2027",
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "tag": "nickname: Kaitlyn"
         },
         {
           "pk": "fahs|rylee",
@@ -155765,7 +155769,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155777,7 +155782,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155789,7 +155795,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155801,7 +155808,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155813,7 +155821,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155825,7 +155834,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155837,7 +155847,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155849,8 +155860,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Lawrence-WI"
         },
         {
           "pk": "geiser|kylie",
@@ -155861,7 +155874,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155873,7 +155887,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155885,7 +155900,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155897,7 +155913,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155909,7 +155926,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155921,7 +155939,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155933,7 +155952,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155945,8 +155965,10 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Lawrence-WI"
         },
         {
           "pk": "hollenberg|morgan",
@@ -155957,7 +155979,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
