@@ -152839,7 +152839,7 @@
       ]
     },
     {
-      "team": "Rink Hockey Academy Winnipeg U18",
+      "team": "Rink Winnipeg U18",
       "country": "CAN",
       "club": "RINK Winnepeg",
       "lvl": "U18",
@@ -152851,7 +152851,8 @@
       "raw": [
         "RHA Winnipeg",
         "RINK Hockey Academy Winnipeg",
-        "Rink Hockey Academy Winnipeg U18"
+        "Rink Hockey Academy Winnipeg U18",
+        "RINK Hockey Academy Winnipeg U18 Prep"
       ],
       "tourneys": [
         "Stoney",
@@ -153142,7 +153143,7 @@
           "dob": "7/26/2010",
           "state": "AB",
           "ht": "5-3",
-          "home": "Medicine Hat"
+          "home": "Pigeon Lake"
         },
         {
           "pk": "mchenry|mars",
