@@ -186647,6 +186647,425 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Carolina Jr Canes 19U",
+      "country": "US",
+      "club": "Carolina Jr Canes",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Carolina Junior Canes 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "rich|charlee",
+          "n": "2",
+          "name": "Charlee Rich",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "deluca|lauren",
+          "n": "5",
+          "name": "Lauren DeLuca",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bracey|taylor",
+          "n": "24",
+          "name": "Taylor Bracey",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hamilton|addison",
+          "n": "42",
+          "name": "Addison Hamilton",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cirmo|makayla",
+          "n": "51",
+          "name": "Makayla Cirmo",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "scott|samantha",
+          "n": "91",
+          "name": "Samantha Scott",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "roos|vivian",
+          "n": "6",
+          "name": "Vivian Roos",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ray|presley",
+          "n": "7",
+          "name": "Presley Ray",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "guttman|abigail",
+          "n": "9",
+          "name": "Abigail Guttman",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "greer|abigail",
+          "n": "11",
+          "name": "Abigail Greer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hoversten|emmett",
+          "n": "13",
+          "name": "Emmett Hoversten",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "forant|victoria",
+          "n": "19",
+          "name": "Victoria Forant",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "corcoran|carolyn",
+          "n": "21",
+          "name": "Carolyn Corcoran",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "morrow|lillian",
+          "n": "26",
+          "name": "Lily Morrow",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "james|caylee",
+          "n": "34",
+          "name": "Caylee James",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "link|samantha",
+          "n": "43",
+          "name": "Samantha Link",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jillcody|barbara",
+          "n": "72",
+          "name": "Barbara Jill Cody",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mireau|mckenna",
+          "n": "14",
+          "name": "McKenna Mireau",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kelley|italia",
+          "n": "29",
+          "name": "Italia Kelley",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Fox Motors 19U",
+      "country": "US",
+      "club": "Fox Motors",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Fox Motors 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "waalkes|zariya",
+          "n": "8",
+          "name": "Zariya Waalkes",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "krukowski|morgan",
+          "n": "9",
+          "name": "Morgan Krukowski",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "michaud|riley",
+          "n": "47",
+          "name": "Riley Michaud",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kubaliak|marlie",
+          "n": "55",
+          "name": "Marlie Kubaliak",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "morton|sophia",
+          "n": "77",
+          "name": "Sophia Morton",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|jane",
+          "n": "2",
+          "name": "Jane Smith",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cook|mylee",
+          "n": "7",
+          "name": "Mylee Cook",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "welch|raquel",
+          "n": "13",
+          "name": "Raquel Welch",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laytart|nora",
+          "n": "15",
+          "name": "Nora Laytart",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "groleau|addison",
+          "n": "17",
+          "name": "Addison Groleau",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carter|jillian",
+          "n": "24",
+          "name": "Jillian Carter",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "albers|avery",
+          "n": "25",
+          "name": "Avery Albers",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dixon|breckyn",
+          "n": "37",
+          "name": "Breckyn Dixon",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kapenga|clara",
+          "n": "41",
+          "name": "Clara Kapenga",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dattilo|adriana",
+          "n": "23",
+          "name": "Adriana Dattilo",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "derleth|madelynn",
+          "n": "30",
+          "name": "Madelynn Derleth",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
