@@ -191348,6 +191348,263 @@
           ]
         }
       ]
+    },
+    {
+      "team": "St. Albert Raiders Slash U18",
+      "country": "CAN",
+      "club": "St. Albert Raiders Slash",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "St. Albert Raiders Slash U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "eberhardt|everly",
+          "n": "4",
+          "name": "Everly Eberhardt",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "6/20/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shura|hailey",
+          "n": "8",
+          "name": "Hailey Shura",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "2/10/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wiens|taylor",
+          "n": "11",
+          "name": "Taylor Wiens",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "3/25/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kehler|charleigh",
+          "n": "15",
+          "name": "Charleigh Kehler",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "2/6/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jamieson|kaylee",
+          "n": "18",
+          "name": "Kaylee Jamieson",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "5/7/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bruinooge|faith",
+          "n": "21",
+          "name": "Faith Bruinooge",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "5/8/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macmillan|whitney",
+          "n": "5",
+          "name": "Whitney MacMillan",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/6/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bruun|kennady",
+          "n": "6",
+          "name": "Kennady Bruun",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/21/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "esposito|sienna",
+          "n": "7",
+          "name": "Sienna Esposito",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/7/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "froese|luca",
+          "n": "9",
+          "name": "Luca Froese",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "8/20/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wiens|carly",
+          "n": "10",
+          "name": "Carly Wiens",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "3/25/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "haug|alexandra",
+          "n": "12",
+          "name": "Alexandra Haug",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/7/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marsh|erin",
+          "n": "13",
+          "name": "Erin Marsh",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "6/6/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ashton|jersey",
+          "n": "16",
+          "name": "Jersey Ashton",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "9/30/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "giesbrecht|allison",
+          "n": "17",
+          "name": "Ally Giesbrecht",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "1/19/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "quinn|jayden",
+          "n": "19",
+          "name": "Jayden Quinn",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "12/25/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lazaroff|ava",
+          "n": "20",
+          "name": "Ava Lazaroff",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/30/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stark|madison",
+          "n": "22",
+          "name": "Madison Stark",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "8/26/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "legassick|olivia",
+          "n": "1",
+          "name": "Olivia LeGassick",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "dob": "12/20/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "quaschnick|sophia",
+          "n": "29",
+          "name": "Sophie Quaschnick",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "dob": "10/22/2009",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
