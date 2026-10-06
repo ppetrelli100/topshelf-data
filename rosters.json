@@ -196710,6 +196710,254 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Western Flames U18",
+      "country": "CAN",
+      "club": "Western Flames",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Western Flames U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "bourcier|claire",
+          "n": "2",
+          "name": "Claire Bourcier",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-3",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duguay|audrey",
+          "n": "10",
+          "name": "Audrey Duguay",
+          "ry": "2012",
+          "rg": "",
+          "rp": "D",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gauvin|sophia",
+          "n": "15",
+          "name": "Sophia Gauvin",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-7",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kimball|mallie",
+          "n": "14",
+          "name": "Mallie Kimball",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-4",
+          "home": "Woodstock",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mahon|sadie",
+          "n": "19",
+          "name": "Sadie Mahon",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "waterhouse|shealynn",
+          "n": "6",
+          "name": "Shealynn Waterhouse",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-9",
+          "home": "Richibucto Road",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beks|heidi",
+          "n": "7",
+          "name": "Heidi Beks",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "home": "Rothesay",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cook|katherine",
+          "n": "4",
+          "name": "Kate Cook",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "NB",
+          "ht": "5-7",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dickie|katherine",
+          "n": "12",
+          "name": "Katherine Dickie",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "home": "Quispamsis",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fox|taylor",
+          "n": "11",
+          "name": "Taylor Fox",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "garsch|mally",
+          "n": "3",
+          "name": "Mally Garsch",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hayward|abigail",
+          "n": "16",
+          "name": "Abigail Hayward",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "johnstone|mallory",
+          "n": "9",
+          "name": "Mallory Johnstone",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-2",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lajoie|khloe",
+          "n": "5",
+          "name": "Khloe Lajoie",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lawrence|annalise",
+          "n": "21",
+          "name": "Annalise Lawrence",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Burtt's Corner",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nelson|lillian",
+          "n": "17",
+          "name": "Lily Nelson",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Fredericton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "arbeau|rylynn",
+          "n": "29",
+          "name": "Rylynn Arbeau",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "ht": "5-5",
+          "home": "Florenceville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yeomans|austin",
+          "n": "31",
+          "name": "Austin Yeomans",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "ht": "5-7",
+          "home": "Minto",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
