@@ -146645,7 +146645,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "12/14/2011"
+          "dob": "12/14/2011",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Edmonton"
         },
         {
           "pk": "jugnauth|neve",
@@ -146708,21 +146711,6 @@
           "home": "Sherwood Park",
           "t": [
             "Stoney",
-            "Misc"
-          ]
-        },
-        {
-          "pk": "klaus|ellya",
-          "n": "14",
-          "name": "Ellya Klaus",
-          "ry": "2011",
-          "rg": "",
-          "rp": "F",
-          "dob": "12/14/2011",
-          "state": "AB",
-          "ht": "5-7",
-          "home": "Edmonton",
-          "t": [
             "Misc"
           ]
         },
