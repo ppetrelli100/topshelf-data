@@ -189083,6 +189083,188 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Sno-King Jr. Thunderbirds 16U",
+      "country": "US",
+      "club": "Sno-King Jr. Thunderbirds",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Sno-King Jr. Thunderbirds 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "matta|abigail",
+          "n": "16",
+          "name": "Abigail Matta",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cutright|emma",
+          "n": "19",
+          "name": "Emma Cutright",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "loh|tabitha",
+          "n": "21",
+          "name": "Tabitha Loh",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grotelueschen|adeline",
+          "n": "29",
+          "name": "Adeline Grotelueschen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "babienko|annika",
+          "n": "5",
+          "name": "Annika Babienko",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kozin|sabrina",
+          "n": "6",
+          "name": "Sabrina Kozin",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kutschera|elly",
+          "n": "14",
+          "name": "Elly Kutschera",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ericson|rachel",
+          "n": "15",
+          "name": "Rachel Ericson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zarganes|amelia",
+          "n": "26",
+          "name": "Amelia Zarganes",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vranish|anna",
+          "n": "27",
+          "name": "Anna Vranish",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|scarlet",
+          "n": "50",
+          "name": "Scarlet Smith",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "trimberger|kellen",
+          "n": "53",
+          "name": "Kellen Trimberger",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "patch|zoe",
+          "n": "91",
+          "name": "Zoe Patch",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "loeb|ainsley",
+          "n": "32",
+          "name": "Ainsley Loeb",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "suss|daphne",
+          "n": "60",
+          "name": "Daphne Suss",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
