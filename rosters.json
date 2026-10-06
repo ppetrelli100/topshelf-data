@@ -140105,11 +140105,13 @@
         "19U"
       ],
       "raw": [
-        "Madison Capitols 19U"
+        "Madison Capitols 19U",
+        "MADISON CAPITOLS 19U"
       ],
       "tourneys": [
         "Pittsburgh",
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -140121,7 +140123,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140133,7 +140136,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140145,7 +140149,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140157,7 +140162,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140169,7 +140175,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140181,7 +140188,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140193,7 +140201,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140205,7 +140214,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140217,7 +140227,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140229,7 +140240,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140241,7 +140253,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140253,7 +140266,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140265,7 +140279,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140277,8 +140292,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "River Falls"
         },
         {
           "pk": "speidel|hailey",
@@ -140289,7 +140306,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140301,7 +140319,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140313,7 +140332,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
