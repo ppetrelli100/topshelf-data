@@ -190274,6 +190274,263 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Edmonton Jr. Oilers White 18U",
+      "country": "US",
+      "club": "Edmonton Jr. Oilers White",
+      "lvl": "18U",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Edmonton Jr. Oilers White U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "small|pacey",
+          "n": "2",
+          "name": "Pacey Small",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "9/8/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sharpe|kenzie",
+          "n": "4",
+          "name": "Kenzie Sharpe",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "5/13/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "soper|eden",
+          "n": "8",
+          "name": "Eden Soper",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/18/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bensmiller|harlee",
+          "n": "16",
+          "name": "Harlee Bensmiller",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "10/17/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "harms|clara",
+          "n": "19",
+          "name": "Clara Harms",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/3/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wakaruk|samantha",
+          "n": "55",
+          "name": "Samantha Wakaruk",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/8/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chiew|ella",
+          "n": "3",
+          "name": "Ella Chiew",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "6/18/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vandyk|jayla",
+          "n": "5",
+          "name": "Jayla Van Dyk",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "10/7/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "powell|sienna",
+          "n": "7",
+          "name": "Sienna Powell",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/27/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "neahr|raevyn",
+          "n": "9",
+          "name": "Raevyn Neahr",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/13/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pigeon|jennifer",
+          "n": "10",
+          "name": "Jenna Pigeon",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/30/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lee|lorelai",
+          "n": "11",
+          "name": "Lorelai Lee",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/14/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gray|teyah",
+          "n": "17",
+          "name": "Teyah Gray",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/17/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "waggott|ivy",
+          "n": "18",
+          "name": "Ivy Waggott",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/20/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reinhart|talia",
+          "n": "21",
+          "name": "Talia Reinhart",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/21/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sanders|peyton",
+          "n": "68",
+          "name": "Peyton Sanders",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "12/6/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "koscielnuk|tavia",
+          "n": "81",
+          "name": "Tavia Koscielnuk",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/25/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robertson|braileigh",
+          "n": "88",
+          "name": "Braileigh Robertson",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/1/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hughes|gracie",
+          "n": "1",
+          "name": "Gracie Hughes",
+          "ry": "2011",
+          "rg": "",
+          "rp": "G",
+          "dob": "2/2/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "darby|lauren",
+          "n": "30",
+          "name": "Lauren Darby",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "dob": "6/17/2010",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
