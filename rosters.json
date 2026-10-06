@@ -120911,17 +120911,19 @@
       ]
     },
     {
-      "team": "Balmoral Hall U22",
+      "team": "Balmoral Hall U18",
       "country": "CAN",
       "club": "Balmoral Hall",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "U22"
+        "U22",
+        "U18"
       ],
       "raw": [
         "Balmoral Hall",
         "Balmoral Hall School",
-        "Balmoral Hall U22"
+        "Balmoral Hall U22",
+        "Balmoral Hall School U18 Prep"
       ],
       "tourneys": [
         "Stoney",
