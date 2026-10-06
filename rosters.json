@@ -144887,7 +144887,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "8/5/2010"
+          "dob": "8/5/2010",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Pitt Meadows"
         },
         {
           "pk": "han|gemma",
@@ -144900,7 +144903,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "6/9/2009"
+          "dob": "6/9/2009",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Vancouver"
         },
         {
           "pk": "johnstone|calla",
@@ -144913,7 +144919,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/18/2011"
+          "dob": "2/18/2011",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "North Vancouver"
         },
         {
           "pk": "cross|cali",
@@ -144926,7 +144935,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "1/28/2010"
+          "dob": "1/28/2010",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Cranbrook"
         },
         {
           "pk": "wilson|miller",
@@ -144939,7 +144951,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "4/11/2010"
+          "dob": "4/11/2010",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Lantzville"
         },
         {
           "pk": "aubie|ellis",
@@ -144952,7 +144967,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "1/6/2009"
+          "dob": "1/6/2009",
+          "state": "BC",
+          "ht": "6-1",
+          "home": "Penticton"
         },
         {
           "pk": "shanahan|calle",
@@ -144965,7 +144983,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "10/21/2008"
+          "dob": "10/21/2008",
+          "state": "WA",
+          "ht": "5-5",
+          "home": "Seattle"
         },
         {
           "pk": "lumley|lov",
@@ -144978,7 +144999,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "5/28/2009"
+          "dob": "5/28/2009",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Gibsons"
         },
         {
           "pk": "seitz|madison",
@@ -144991,7 +145015,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "8/7/2009"
+          "dob": "8/7/2009",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Pemberton"
         },
         {
           "pk": "hawes|maicey",
@@ -145004,7 +145031,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/11/2010"
+          "dob": "2/11/2010",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Penticton"
         },
         {
           "pk": "briggs|nadia",
@@ -145017,7 +145047,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "8/9/2011"
+          "dob": "8/9/2011",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Calgary"
         },
         {
           "pk": "bilick|makenna",
@@ -145030,7 +145063,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "12/21/2011"
+          "dob": "12/21/2011",
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Calgary"
         },
         {
           "pk": "makkreel|brynn",
@@ -145043,7 +145079,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "1/24/2009"
+          "dob": "1/24/2009",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Cochrane"
         },
         {
           "pk": "ewanyshyn|sarah",
@@ -145056,7 +145095,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "4/29/2009"
+          "dob": "4/29/2009",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Salmon Arm"
         },
         {
           "pk": "swanson|khya",
@@ -145069,7 +145111,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "4/9/2010"
+          "dob": "4/9/2010",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Williams Lake"
         },
         {
           "pk": "lafontaine|lucy",
@@ -145082,7 +145127,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "9/7/2010"
+          "dob": "9/7/2010",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Prince George"
         },
         {
           "pk": "dosanjh|olivia",
@@ -145095,7 +145143,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "10/13/2010"
+          "dob": "10/13/2010",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "North Delta"
         },
         {
           "pk": "carella|gia",
@@ -145108,7 +145159,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "4/9/2009"
+          "dob": "4/9/2009",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Coquitlam"
         },
         {
           "pk": "ward|emma",
@@ -145121,7 +145175,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/14/2009"
+          "dob": "2/14/2009",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Vernon"
         },
         {
           "pk": "cottreau|brielle",
@@ -145134,7 +145191,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "4/20/2010"
+          "dob": "4/20/2010",
+          "state": "AB",
+          "ht": "5-10",
+          "home": "Airdrie"
         }
       ]
     },
