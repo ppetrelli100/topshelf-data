@@ -195458,6 +195458,284 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Cape Breton Lynx U18",
+      "country": "CAN",
+      "club": "Cape Breton Lynx",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Cape Breton Lynx U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "gabriel|ryelyn",
+          "n": "18",
+          "name": "Ryelyn Gabriel",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "home": "Sydney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "raemacinnis|danni",
+          "n": "4",
+          "name": "Danni Rae Macinnis",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "home": "Port Hood",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "margaretmaclean|mary",
+          "n": "12",
+          "name": "Mary Margaret Maclean",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "home": "Iona",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "morell|olivia",
+          "n": "2",
+          "name": "Olivia Morell",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "home": "Louisdale",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "scott|mabella",
+          "n": "6",
+          "name": "Mabella Scott",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "home": "Sydney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vickers|jade",
+          "n": "10",
+          "name": "Jade Vickers",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "home": "North Sydney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "andrews|jayla",
+          "n": "8",
+          "name": "Jayla Andrews",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "home": "New Waterford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "angione|elise",
+          "n": "9",
+          "name": "Elise Angione",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "New Waterford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "austen|layla",
+          "n": "17",
+          "name": "Layla Austen",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "home": "Antigonish",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beaton|jessica",
+          "n": "20",
+          "name": "Jessie Beaton",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|julia",
+          "n": "7",
+          "name": "Julia Brown",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "home": "Albert Bridge",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "finney|katherine",
+          "n": "11",
+          "name": "Kate Finney",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Sydney Mines",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fogarty|eleanor",
+          "n": "15",
+          "name": "Ellie Fogarty",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Sydney River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lawand|hilary",
+          "n": "22",
+          "name": "Hilary Lawand",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "home": "Sydney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macdonald|margaret",
+          "n": "21",
+          "name": "Maggie Macdonald",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "maceachern|maddison",
+          "n": "14",
+          "name": "Maddison MacEachern",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "home": "Port Hood",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macneil|avery",
+          "n": "5",
+          "name": "Avery Macneil",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "home": "Sydney River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mills|ella",
+          "n": "13",
+          "name": "Ella Mills",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Sydney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "paruch|isabelle",
+          "n": "16",
+          "name": "Isabelle Paruch",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "home": "Sydney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ivaldy|louna",
+          "n": "1",
+          "name": "Louna Ivaldy",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mitten|zoe",
+          "n": "37",
+          "name": "Zoe Mitten",
+          "ry": "2011",
+          "rg": "",
+          "rp": "G",
+          "home": "Sydney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "power|eleanor",
+          "n": "31",
+          "name": "Ellie Power",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "home": "Sydney",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
