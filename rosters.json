@@ -180221,15 +180221,17 @@
       ]
     },
     {
-      "team": "Red Deer Sutter Fund Chiefs U22",
+      "team": "Red Deer Sutter Fund Chiefs U18",
       "country": "US",
       "club": "Red Deer Sutter Fund Chiefs",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "U22"
+        "U22",
+        "U18"
       ],
       "raw": [
-        "Red Deer Sutter Fund Chiefs U22"
+        "Red Deer Sutter Fund Chiefs U22",
+        "Red Deer Sutter Fund Chiefs U18 AAA"
       ],
       "tourneys": [
         "Misc"
@@ -180239,64 +180241,82 @@
           "pk": "sorenson|taylor",
           "n": "2",
           "name": "Taylor Sorenson",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "1/2/2009"
         },
         {
           "pk": "mcevoy|alena",
           "n": "4",
           "name": "Alena McEvoy",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "4/2/2010"
         },
         {
           "pk": "galenza|addison",
           "n": "14",
           "name": "Addison Galenza",
-          "ry": "",
+          "ry": "2011",
           "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "1/21/2011"
         },
         {
           "pk": "shaw|addison",
           "n": "17",
           "name": "Addison Shaw",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "11/15/2009"
         },
         {
           "pk": "deboer|emily",
           "n": "18",
           "name": "Emily Deboer",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "4/30/2011"
         },
         {
           "pk": "hammer|kendall",
           "n": "20",
           "name": "Kendall Hammer",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "D",
+          "t": [
+            "Misc"
+          ],
+          "dob": "3/12/2010"
+        },
+        {
+          "pk": "lacina|rielle",
+          "n": "3",
+          "name": "Rielle Lacina",
+          "ry": "2012",
+          "rg": "",
+          "rp": "D",
+          "dob": "1/17/2012",
           "t": [
             "Misc"
           ]
@@ -180305,130 +180325,154 @@
           "pk": "lacina|reece",
           "n": "3",
           "name": "Reece Lacina",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "1/30/2010"
         },
         {
           "pk": "wasylchew|taylor",
           "n": "5",
           "name": "Taylor Wasylchew",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "8/10/2010"
         },
         {
           "pk": "morrison|macy",
           "n": "6",
           "name": "Macy Morrison",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "7/26/2009"
         },
         {
           "pk": "switzer|talia",
           "n": "7",
           "name": "Talia Switzer",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "5/7/2009"
         },
         {
           "pk": "stephenson|peyton",
           "n": "8",
           "name": "Peyton Stephenson",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "11/5/2009"
         },
         {
           "pk": "stephenson|jensyn",
           "n": "9",
           "name": "Jensyn Stephenson",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "9/24/2009"
         },
         {
           "pk": "allakariallak|mykyla",
           "n": "10",
           "name": "Mykyla Allakariallak",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "2/28/2010"
         },
         {
           "pk": "milani|sawyer",
           "n": "11",
           "name": "Sawyer Milani",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "8/23/2011"
         },
         {
           "pk": "cruse|rylee",
           "n": "12",
           "name": "Rylee Cruse",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "4/25/2010"
         },
         {
           "pk": "schierman|ryley",
           "n": "15",
           "name": "Ryley Schierman",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "4/30/2009"
         },
         {
           "pk": "mcleod|kasey",
           "n": "16",
           "name": "Kasey McLeod",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "5/30/2010"
         },
         {
           "pk": "heggart|theresa",
           "n": "19",
           "name": "Tessa Heggart",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "dob": "1/8/2009"
+        },
+        {
+          "pk": "kuzek|brooklyn",
+          "n": "16",
+          "name": "Brooklyn Kuzek",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "dob": "2/27/2012",
           "t": [
             "Misc"
           ]
@@ -180437,23 +180481,25 @@
           "pk": "smith|quinn",
           "n": "1",
           "name": "Quinn Smith",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "8/7/2010"
         },
         {
           "pk": "moos|heidi",
           "n": "31",
           "name": "Heidi Moos",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "dob": "4/8/2009"
         }
       ]
     },
