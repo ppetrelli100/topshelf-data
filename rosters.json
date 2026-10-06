@@ -179778,10 +179778,12 @@
       "club": "Shawnigan Lake School",
       "lvl": "U18",
       "levels": [
-        "18U"
+        "18U",
+        "U18"
       ],
       "raw": [
-        "Shawnigan Lake School"
+        "Shawnigan Lake School",
+        "Shawnigan Lake School U18 Prep"
       ],
       "tourneys": [
         "Misc"
@@ -180022,7 +180024,7 @@
           "dob": "3/15/2009",
           "state": "BC",
           "ht": "5-2",
-          "home": "West Vancouver",
+          "home": "West Vancouer",
           "t": [
             "Misc"
           ]
