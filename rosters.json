@@ -186432,6 +186432,221 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Middlesex Islanders 19U",
+      "country": "US",
+      "club": "Middlesex Islanders",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Middlesex Islanders 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "berard|katherine",
+          "n": "3",
+          "name": "Katherine Berard",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cohen|olivia",
+          "n": "4",
+          "name": "Olivia Cohen",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "peraza|lucia",
+          "n": "6",
+          "name": "Lucia Peraza",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "davidson|anna",
+          "n": "7",
+          "name": "Anna Davidson",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tessier|merritt",
+          "n": "8",
+          "name": "Merritt Tessier",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "weglarz|carsyn",
+          "n": "10",
+          "name": "Carsyn Weglarz",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "buffery|margaret",
+          "n": "12",
+          "name": "Maggie Buffery",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "courchesne|kelcey",
+          "n": "13",
+          "name": "Kelcey Courchesne",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "choi|isabella",
+          "n": "14",
+          "name": "Isabella Choi",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tarr|katherine",
+          "n": "16",
+          "name": "Kate Tarr",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moore|kenzie",
+          "n": "17",
+          "name": "Kenzie Moore",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "maher|elizabeth",
+          "n": "18",
+          "name": "Elizabeth Maher",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "payne|marissa",
+          "n": "29",
+          "name": "Marissa Payne",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kavanaugh|mary",
+          "n": "34",
+          "name": "Mary Kavanaugh",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcgrath|erin",
+          "n": "74",
+          "name": "Erin McGrath",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grant|azalea",
+          "n": "92",
+          "name": "Azalea Grant",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "spaeth|natalie",
+          "n": "30",
+          "name": "Natalie Spaeth",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tobin|niamh",
+          "n": "35",
+          "name": "Niamh Tobin",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
