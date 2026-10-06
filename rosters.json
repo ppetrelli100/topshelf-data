@@ -152746,17 +152746,19 @@
       ]
     },
     {
-      "team": "RINK Winnepeg U22",
+      "team": "Rink Hockey Academy Winnipeg U18",
       "country": "CAN",
       "club": "RINK Winnepeg",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
         "U22",
-        "18U"
+        "18U",
+        "U18"
       ],
       "raw": [
         "RHA Winnipeg",
-        "RINK Hockey Academy Winnipeg"
+        "RINK Hockey Academy Winnipeg",
+        "Rink Hockey Academy Winnipeg U18"
       ],
       "tourneys": [
         "Stoney",
