@@ -134075,10 +134075,12 @@
         "U18"
       ],
       "raw": [
-        "Etoiles Laurentides U18"
+        "Etoiles Laurentides U18",
+        "Etoiles Laurentides-Lanaudiere U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -134089,7 +134091,8 @@
           "rg": "",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134100,7 +134103,8 @@
           "rg": "",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134111,7 +134115,8 @@
           "rg": "",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134133,7 +134138,8 @@
           "rg": "",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134144,7 +134150,8 @@
           "rg": "",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134155,7 +134162,8 @@
           "rg": "",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134166,7 +134174,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134177,7 +134186,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134188,7 +134198,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134199,7 +134210,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134210,7 +134222,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134232,7 +134245,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134243,7 +134257,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134265,7 +134280,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134276,7 +134292,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134287,7 +134304,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134298,7 +134316,8 @@
           "rg": "",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134309,7 +134328,19 @@
           "rg": "",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fournier|anais",
+          "n": "",
+          "name": "Anais Fournier",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
           ]
         }
       ]
