@@ -136610,7 +136610,8 @@
       "raw": [
         "Honeybaked 16U",
         "Detroit HoneyBaked 16U",
-        "HONEYBAKED 16U"
+        "HONEYBAKED 16U",
+        "HoneyBaked 16U"
       ],
       "tourneys": [
         "Pittsburgh",
@@ -136688,7 +136689,7 @@
           "n": "59",
           "name": "Kennedy Heise",
           "ry": "2010",
-          "rg": "2029",
+          "rg": "2028",
           "rp": "D",
           "t": [
             "Pittsburgh",
@@ -136794,7 +136795,8 @@
             "Pittsburgh",
             "Stoney",
             "Misc"
-          ]
+          ],
+          "tag": "nickname: Addi"
         },
         {
           "pk": "cyrek|ava",
@@ -136820,7 +136822,8 @@
             "Pittsburgh",
             "Stoney",
             "Misc"
-          ]
+          ],
+          "tag": "nickname: Bella"
         },
         {
           "pk": "bilicki|joanne",
