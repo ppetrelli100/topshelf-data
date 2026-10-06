@@ -146856,7 +146856,8 @@
       ],
       "raw": [
         "OHA PREP U18AA",
-        "OHA Maverick PREP U18AA"
+        "OHA Maverick PREP U18AA",
+        "Ontario Hockey Academy Prep U18"
       ],
       "tourneys": [
         "Stoney",
@@ -146900,18 +146901,6 @@
           ]
         },
         {
-          "pk": "spisak|sophia",
-          "n": "13",
-          "name": "Sophie Spisak",
-          "ry": "2011",
-          "rg": "2030",
-          "rp": "D",
-          "t": [
-            "Stoney",
-            "Misc"
-          ]
-        },
-        {
           "pk": "panikova|terezia",
           "n": "20",
           "name": "Terezia Panikova",
@@ -146934,6 +146923,51 @@
             "Stoney",
             "Misc"
           ]
+        },
+        {
+          "pk": "bitarovska|estella",
+          "n": "68",
+          "name": "Stella Bitarovska",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "F"
+            ]
+          }
+        },
+        {
+          "pk": "esford|addison",
+          "n": "11",
+          "name": "Addy Esford",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "spisak|sophia",
+          "n": "13",
+          "name": "Sophie Spisak",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "saintjean|manon",
@@ -147020,18 +147054,6 @@
           ]
         },
         {
-          "pk": "bitarovska|estella",
-          "n": "68",
-          "name": "Stella Bitarovska",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "F",
-          "t": [
-            "Stoney",
-            "Misc"
-          ]
-        },
-        {
           "pk": "mcguire|willa",
           "n": "71",
           "name": "Willa McGuire",
@@ -147096,12 +147118,17 @@
           "n": "36",
           "name": "Sofia Tumanova",
           "ry": "2010",
-          "rg": "2028",
+          "rg": "2029",
           "rp": "G",
           "t": [
             "Stoney",
             "Misc"
-          ]
+          ],
+          "alt": {
+            "rg": [
+              "2028"
+            ]
+          }
         }
       ]
     },
