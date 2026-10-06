@@ -184927,6 +184927,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Massachusetts Spitfires (Major 19U",
+      "country": "US",
+      "club": "Massachusetts Spitfires (Major",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Massachusetts Spitfires (Major1) 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "hutton|anna",
+          "n": "4",
+          "name": "Anna Hutton",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "haig|charlotte",
+          "n": "6",
+          "name": "Charlotte Haig",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ryan|clara",
+          "n": "8",
+          "name": "Clara Ryan",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lee|alexandra",
+          "n": "9",
+          "name": "Alexandra Lee",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "matusovich|caroline",
+          "n": "15",
+          "name": "Caroline Matusovich",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "morello|anna",
+          "n": "16",
+          "name": "Anna Morello",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "campanelli|calleigh",
+          "n": "23",
+          "name": "Calleigh Campanelli",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "asbach|brooklyn",
+          "n": "7",
+          "name": "Brooklyn Asbach",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "flippo|anne",
+          "n": "11",
+          "name": "Anne Flippo",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "curtis|lillian",
+          "n": "12",
+          "name": "Lily Curtis",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ruzzo|samantha",
+          "n": "18",
+          "name": "Samantha Ruzzo",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "matusovich|charlotte",
+          "n": "19",
+          "name": "Charlotte Matusovich",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "engel|talia",
+          "n": "20",
+          "name": "Talia Engel",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "procaccini|sophia",
+          "n": "21",
+          "name": "Sophie Procaccini",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "terrenzi|taegan",
+          "n": "24",
+          "name": "Taegan Terrenzi",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "murray|georgia",
+          "n": "25",
+          "name": "Georgia Murray",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marston|brooke",
+          "n": "28",
+          "name": "Brooke Marston",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hayes|madison",
+          "n": "1",
+          "name": "Madison Hayes",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cordahi|marguerite",
+          "n": "31",
+          "name": "Marguerite Cordahi",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
