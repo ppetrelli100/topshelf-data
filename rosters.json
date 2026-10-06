@@ -191091,6 +191091,263 @@
           ]
         }
       ]
+    },
+    {
+      "team": "SPKAC Mazurick Architecture Reign U18",
+      "country": "CAN",
+      "club": "SPKAC Mazurick Architecture Reign",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "SPKAC Mazurick Architecture Reign U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "adams|avery",
+          "n": "5",
+          "name": "Avery Adams",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/14/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grycak|natalie",
+          "n": "7",
+          "name": "Natalie Grycak",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "3/11/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bothwell|kally",
+          "n": "11",
+          "name": "Kally Bothwell",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/24/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "papachristopoulos|zoe",
+          "n": "17",
+          "name": "Zoe Papachristopoulos",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "7/23/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cramer|makayla",
+          "n": "18",
+          "name": "Makayla Cramer",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "12/9/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lu|luna",
+          "n": "20",
+          "name": "Luna Lu",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "5/11/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beniuk|bria",
+          "n": "4",
+          "name": "Bria Beniuk",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/29/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wardman|pepin",
+          "n": "6",
+          "name": "Pepin Wardman",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "2/2/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "millar|abigail",
+          "n": "8",
+          "name": "Abby Millar",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/26/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "allard|brooke",
+          "n": "9",
+          "name": "Brooke Allard",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "6/28/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ewanowich|nadiya",
+          "n": "10",
+          "name": "Nadiya Ewanowich",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/20/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcbride|kiana",
+          "n": "12",
+          "name": "Kiana McBride",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "8/28/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "slywka|victoria",
+          "n": "14",
+          "name": "Tori Slywka",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/28/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcquade|riley",
+          "n": "15",
+          "name": "Riley McQuade",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "12/22/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "willoughby|reese",
+          "n": "16",
+          "name": "Reese Willoughby",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "9/10/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tavaroli|teagyn",
+          "n": "19",
+          "name": "Teagyn Tavaroli",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "2/22/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "white|meghan",
+          "n": "21",
+          "name": "Meghan White",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "1/23/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "danjou|lili",
+          "n": "22",
+          "name": "Lili D'Anjou",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "6/2/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "decker|aubrey",
+          "n": "1",
+          "name": "Aubrey Decker",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "dob": "5/20/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "magera|chloe",
+          "n": "31",
+          "name": "Chloe Magera",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "dob": "9/2/2009",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
