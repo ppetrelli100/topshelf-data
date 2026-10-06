@@ -181182,6 +181182,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Alaska All Stars 19U",
+      "country": "US",
+      "club": "Alaska All Stars",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Alaska All Stars 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "langham|lillian",
+          "n": "3",
+          "name": "Lily Langham",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "skogstad|sienna",
+          "n": "8",
+          "name": "Sienna Skogstad",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dorman|svea",
+          "n": "9",
+          "name": "Svea Dorman",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "harrison|brooklynn",
+          "n": "22",
+          "name": "Brooklynn Harrison",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "niederer|alder",
+          "n": "23",
+          "name": "Alder Niederer",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hodes|riley",
+          "n": "91",
+          "name": "Riley Hodes",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sikorski|cadence",
+          "n": "7",
+          "name": "Cadence Sikorski",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "spangler|sarah",
+          "n": "14",
+          "name": "Sarah Spangler",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "walden|ashlyn",
+          "n": "16",
+          "name": "Ashlyn Walden",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "creviston|clara",
+          "n": "19",
+          "name": "Clara Creviston",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "swenor|eleanor",
+          "n": "21",
+          "name": "Ellie Swenor",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mariesanders|ayla",
+          "n": "37",
+          "name": "Ayla Marie Sanders",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "miller|malila",
+          "n": "98",
+          "name": "Malila Miller",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "casey|mae",
+          "n": "18",
+          "name": "Mae Casey",
+          "ry": "",
+          "rg": "2031",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bruno|sophia",
+          "n": "11",
+          "name": "Sophie Bruno",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jorgensen|theresa",
+          "n": "12",
+          "name": "Tess Jorgensen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "blevins|abigail",
+          "n": "81",
+          "name": "Abby Blevins",
+          "ry": "",
+          "rg": "2026",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
