@@ -191932,10 +191932,10 @@
       ]
     },
     {
-      "team": "Pilot Mound Hockey Academy 18U",
+      "team": "Pilot Mound Hockey Academy U18",
       "country": "US",
       "club": "Pilot Mound Hockey Academy",
-      "lvl": "18U",
+      "lvl": "U18",
       "levels": [
         "U18"
       ],
@@ -191956,7 +191956,10 @@
           "dob": "7/4/2009",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "ON",
+          "ht": "5-9",
+          "home": "Sioux Lookout"
         },
         {
           "pk": "townsend|natalie",
@@ -191968,7 +191971,10 @@
           "dob": "1/22/2011",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Parkland County"
         },
         {
           "pk": "crowe|avery",
@@ -191980,7 +191986,10 @@
           "dob": "7/14/2011",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Gilbert Plains"
         },
         {
           "pk": "eggen|rylee",
@@ -191992,7 +192001,10 @@
           "dob": "5/5/2009",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Cassils"
         },
         {
           "pk": "leenders|raiya",
@@ -192004,7 +192016,10 @@
           "dob": "11/3/2009",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-5",
+          "home": "Calgary"
         },
         {
           "pk": "ferguson|anabella",
@@ -192016,7 +192031,10 @@
           "dob": "2/28/2009",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MB",
+          "ht": "5-10",
+          "home": "Brandon"
         },
         {
           "pk": "drummond|sophia",
@@ -192028,7 +192046,10 @@
           "dob": "9/15/2009",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "YK",
+          "ht": "5-3",
+          "home": "Haines Junction"
         },
         {
           "pk": "nychyporuk|lauren",
@@ -192040,7 +192061,10 @@
           "dob": "9/27/2010",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MB",
+          "ht": "5-4",
+          "home": "Thompson"
         },
         {
           "pk": "vines|keira",
@@ -192052,7 +192076,10 @@
           "dob": "1/23/2009",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MB",
+          "ht": "5-2",
+          "home": "Brandon"
         },
         {
           "pk": "constant|wytten",
@@ -192064,7 +192091,10 @@
           "dob": "10/22/2010",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Coaldale"
         },
         {
           "pk": "rosetucker|scarlett",
@@ -192076,7 +192106,10 @@
           "dob": "8/11/2010",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MB",
+          "ht": "5-3",
+          "home": "Winnipeg"
         },
         {
           "pk": "willsey|brynnae",
@@ -192088,7 +192121,10 @@
           "dob": "2/4/2012",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MB",
+          "ht": "5-3",
+          "home": "Portage La Prairie"
         },
         {
           "pk": "neurinski|logan",
@@ -192100,7 +192136,10 @@
           "dob": "7/7/2010",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "ON",
+          "ht": "5-8",
+          "home": "Fort Frances"
         },
         {
           "pk": "parviainen|hilla",
@@ -192112,7 +192151,9 @@
           "dob": "6/15/2011",
           "t": [
             "Misc"
-          ]
+          ],
+          "ht": "5-7",
+          "home": "Rovaniemi"
         },
         {
           "pk": "olson|ruby",
@@ -192124,7 +192165,10 @@
           "dob": "4/23/2011",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-6",
+          "home": "Jasper"
         },
         {
           "pk": "perrin|rory",
@@ -192136,7 +192180,10 @@
           "dob": "2/11/2009",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MB",
+          "ht": "5-7",
+          "home": "Morden"
         },
         {
           "pk": "bray|gracie",
@@ -192148,7 +192195,10 @@
           "dob": "5/16/2011",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-1",
+          "home": "Whitecourt"
         },
         {
           "pk": "doetzel|mackayla",
@@ -192160,7 +192210,10 @@
           "dob": "10/28/2010",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "ON",
+          "ht": "5-4",
+          "home": "Tecumseh"
         },
         {
           "pk": "kehler|kianna",
@@ -192172,7 +192225,10 @@
           "dob": "1/24/2009",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "AB",
+          "ht": "5-2",
+          "home": "Lethbridge"
         },
         {
           "pk": "gabrielleasilo|rose",
@@ -192184,7 +192240,10 @@
           "dob": "5/12/2011",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Winnipeg"
         }
       ]
     },
