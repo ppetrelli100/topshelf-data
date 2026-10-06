@@ -194590,6 +194590,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Sherbrooke U18",
+      "country": "CAN",
+      "club": "Harfangs Sherbrooke",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Harfangs Sherbrooke U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "martin|annefrederique",
+          "n": "1",
+          "name": "Anne-Frederique Martin",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laflamme|eve",
+          "n": "30",
+          "name": "Eve Laflamme",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tetreaultleroux|alicia",
+          "n": "9",
+          "name": "Alicia Tetreault-Leroux",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "salvail|amaelle",
+          "n": "2",
+          "name": "Amaelle Salvail",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "desroches|anais",
+          "n": "4",
+          "name": "Anais Desroches",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bergeron|elisabeth",
+          "n": "10",
+          "name": "Elisabeth Bergeron",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gagnon|elodie",
+          "n": "14",
+          "name": "Elodie Gagnon",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "trudeau|eloise",
+          "n": "5",
+          "name": "Eloise Trudeau",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "poulin|evarose",
+          "n": "20",
+          "name": "Eva-Rose Poulin",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lacoste|frederique",
+          "n": "3",
+          "name": "Frederique Lacoste",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cote|kelia",
+          "n": "8",
+          "name": "Kelia Cote",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bizier|lea",
+          "n": "13",
+          "name": "Lea Bizier",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "turgeon|lea",
+          "n": "16",
+          "name": "Lea Turgeon",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martin|lindsay",
+          "n": "19",
+          "name": "Lindsay Martin",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jolin|meliane",
+          "n": "11",
+          "name": "Meliane Jolin",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ponton|meliane",
+          "n": "17",
+          "name": "Meliane Ponton",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brochu|melody",
+          "n": "7",
+          "name": "Melody Brochu",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cliche|nelly",
+          "n": "12",
+          "name": "Nelly Cliche",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "desilets|olivia",
+          "n": "15",
+          "name": "Olivia Desilets",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
