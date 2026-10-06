@@ -180967,6 +180967,221 @@
           ]
         }
       ]
+    },
+    {
+      "team": "CPC Boston Americans 19U",
+      "country": "US",
+      "club": "CPC Boston Americans",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Boston Americans 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "decourcey|ava",
+          "n": "3",
+          "name": "Ava Decourcey",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macdonald|mia",
+          "n": "4",
+          "name": "Mia MacDonald",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "friedholm|tatum",
+          "n": "7",
+          "name": "Tatum Friedholm",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "engel|reese",
+          "n": "12",
+          "name": "Reese Engel",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "metcalf|blake",
+          "n": "14",
+          "name": "Blake Metcalf",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "deroeve|abigail",
+          "n": "16",
+          "name": "Abbey Deroeve",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "call|madeline",
+          "n": "2",
+          "name": "Maddy Call",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martin|jane",
+          "n": "5",
+          "name": "Janie Martin",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cerqua|gabriella",
+          "n": "6",
+          "name": "Gabby Cerqua",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "walsh|estella",
+          "n": "9",
+          "name": "Stella Walsh",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|zoe",
+          "n": "11",
+          "name": "Zoe Smith",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ames|frances",
+          "n": "13",
+          "name": "Francie Ames",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bromley|lillian",
+          "n": "18",
+          "name": "Lily Bromley",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mccool|catherine",
+          "n": "20",
+          "name": "Catherine McCool",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "burns|simone",
+          "n": "21",
+          "name": "Simone Burns",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "meyer|paisley",
+          "n": "34",
+          "name": "Paisley Meyer",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lee|marie",
+          "n": "1",
+          "name": "Marie Lee",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lacey|evelyn",
+          "n": "31",
+          "name": "Evelyn Lacey",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
