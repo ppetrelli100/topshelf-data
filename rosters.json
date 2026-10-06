@@ -190531,6 +190531,263 @@
           ]
         }
       ]
+    },
+    {
+      "team": "PWM Lloydminster Steelers 18U",
+      "country": "US",
+      "club": "PWM Lloydminster Steelers",
+      "lvl": "18U",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "PWM Lloydminster Steelers U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "foster|alivia",
+          "n": "6",
+          "name": "Alivia Foster",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "11/18/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "strelezki|macy",
+          "n": "9",
+          "name": "Macy Strelezki",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/16/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bjornson|emma",
+          "n": "15",
+          "name": "Emma Bjornson",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "5/7/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rothweiler|caylin",
+          "n": "16",
+          "name": "Caylin Rothweiler",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "6/10/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "popke|macy",
+          "n": "22",
+          "name": "Macy Popke",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "3/23/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marcoux|laynia",
+          "n": "26",
+          "name": "Laynia Marcoux",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "6/6/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "aultman|scarlett",
+          "n": "3",
+          "name": "Scarlett Aultman",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "5/22/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "loney|esme",
+          "n": "4",
+          "name": "Esme Loney",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "9/5/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moore|addison",
+          "n": "10",
+          "name": "Addison Moore",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/13/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "feland|hayden",
+          "n": "11",
+          "name": "Hayden Feland",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/24/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "larson|sadie",
+          "n": "12",
+          "name": "Sadie Larson",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "3/17/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "parsons|jordyn",
+          "n": "14",
+          "name": "Jordyn Parsons",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "9/6/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mann|london",
+          "n": "17",
+          "name": "London Mann",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/12/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hedges|brielle",
+          "n": "18",
+          "name": "Brielle Hedges",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "9/15/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "woytiuk|karsyn",
+          "n": "19",
+          "name": "Karsyn Woytiuk",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "2/24/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "toutant|mairen",
+          "n": "21",
+          "name": "Mairen Toutant",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/9/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "payne|alyssa",
+          "n": "23",
+          "name": "Alyssa Payne",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "10/30/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "selte|tenley",
+          "n": "24",
+          "name": "Tenley Selte",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "10/14/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zidar|kenzie",
+          "n": "30",
+          "name": "Kenzie Zidar",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "dob": "3/31/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schaab|sloane",
+          "n": "31",
+          "name": "Sloane Schaab",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "dob": "8/1/2009",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
