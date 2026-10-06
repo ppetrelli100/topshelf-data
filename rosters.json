@@ -182044,6 +182044,238 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Stanstead College Varsity U22",
+      "country": "CAN",
+      "club": "Stanstead College Varsity",
+      "lvl": "U22",
+      "levels": [
+        "U22"
+      ],
+      "raw": [
+        "Stanstead College Varsity U22"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "belanger|elisabeth",
+          "n": "4",
+          "name": "Elisabeth Belanger",
+          "ry": "",
+          "rg": "2029",
+          "rp": "",
+          "state": "QC",
+          "home": "Beloeil",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "legere|lexi",
+          "n": "5",
+          "name": "Lexi Legere",
+          "ry": "",
+          "rg": "2028",
+          "rp": "",
+          "state": "NB",
+          "home": "Dieppe",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ouellette|chanelle",
+          "n": "8",
+          "name": "Chanelle Ouellette",
+          "ry": "",
+          "rg": "2028",
+          "rp": "",
+          "state": "NB",
+          "home": "Grand Falls",
+          "commit": "UCONN",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zonnon|keshia",
+          "n": "9",
+          "name": "Keshia Zonnon",
+          "ry": "",
+          "rg": "2027",
+          "rp": "",
+          "state": "QC",
+          "home": "Montreal",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grace|charlotte",
+          "n": "10",
+          "name": "Charlotte Grace",
+          "ry": "",
+          "rg": "2027",
+          "rp": "",
+          "state": "ON",
+          "home": "Kingston",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chenier|natalia",
+          "n": "11",
+          "name": "Natalia Chenier",
+          "ry": "",
+          "rg": "2027",
+          "rp": "",
+          "state": "QC",
+          "home": "Baie D’Urfe",
+          "commit": "Holy Cross",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pelletier|eve",
+          "n": "13",
+          "name": "Eve Pelletier",
+          "ry": "",
+          "rg": "2028",
+          "rp": "",
+          "state": "QC",
+          "home": "Gatineau",
+          "commit": "UNH",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grenon|annabelle",
+          "n": "17",
+          "name": "Annabelle Grenon",
+          "ry": "",
+          "rg": "2027",
+          "rp": "",
+          "state": "QC",
+          "home": "Gatineau",
+          "commit": "Post",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "morrissey|ivy",
+          "n": "20",
+          "name": "Ivy Morrissey",
+          "ry": "",
+          "rg": "2028",
+          "rp": "",
+          "state": "ON",
+          "home": "Whitby",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "daniel|anabelle",
+          "n": "21",
+          "name": "Anabelle Daniel",
+          "ry": "",
+          "rg": "2029",
+          "rp": "",
+          "state": "NB",
+          "home": "Dieppe",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sharpe|julia",
+          "n": "6",
+          "name": "Julia Sharpe",
+          "ry": "",
+          "rg": "2027",
+          "rp": "",
+          "state": "NL",
+          "home": "Torbay",
+          "commit": "U of T",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "poirier|audrey",
+          "n": "12",
+          "name": "Audrey Poirier",
+          "ry": "",
+          "rg": "2027",
+          "rp": "",
+          "state": "NB",
+          "home": "Saint-Philippe",
+          "commit": "Brown",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gagne|eloise",
+          "n": "15",
+          "name": "Eloise Gagne",
+          "ry": "",
+          "rg": "2028",
+          "rp": "",
+          "state": "QC",
+          "home": "Gatineau",
+          "commit": "Clarkson",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "papineau|elizabeth",
+          "n": "16",
+          "name": "Elizabeth Papineau",
+          "ry": "",
+          "rg": "2029",
+          "rp": "",
+          "state": "QC",
+          "home": "Gatineau",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wilson|jade",
+          "n": "30",
+          "name": "Jade Wilson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "",
+          "state": "QC",
+          "home": "Trois-Rivieres",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boudreault|laurianne",
+          "n": "1",
+          "name": "Laurianne Boudreault",
+          "ry": "",
+          "rg": "2028",
+          "rp": "",
+          "state": "QC",
+          "home": "Magog",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
