@@ -185991,6 +185991,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Sno-King Jr. Thunderbirds 19U",
+      "country": "US",
+      "club": "Sno-King Jr. Thunderbirds",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Sno-King Jr. Thunderbirds 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "wood|zoey",
+          "n": "11",
+          "name": "Zoey Wood",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "huang|bellina",
+          "n": "12",
+          "name": "Bellina Huang",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "higley|olivia",
+          "n": "14",
+          "name": "Olivia Higley",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grudzien|madison",
+          "n": "43",
+          "name": "Madison Grudzien",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mclean|charlotte",
+          "n": "66",
+          "name": "Charlotte McLean",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "clausen|hannah",
+          "n": "91",
+          "name": "Hannah Clausen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "church|chloe",
+          "n": "5",
+          "name": "Chloe Church",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ohara|mickayla",
+          "n": "16",
+          "name": "Mickayla Ohara",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "williams|makenzie",
+          "n": "17",
+          "name": "Makenzie Williams",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cepuran|eliana",
+          "n": "19",
+          "name": "Eliana Cepuran",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "potenza|natalie",
+          "n": "26",
+          "name": "Natalie Potenza",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beck|danica",
+          "n": "27",
+          "name": "Danica Beck",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "syn|kylie",
+          "n": "29",
+          "name": "Kylie Syn",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lichong|anais",
+          "n": "41",
+          "name": "Anais Lichong",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "liu|cadence",
+          "n": "48",
+          "name": "Cadence Liu",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ward|elizabeth",
+          "n": "72",
+          "name": "Elizabeth Ward",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rogers|sienna",
+          "n": "88",
+          "name": "Sienna Rogers",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gorringe|naomi",
+          "n": "31",
+          "name": "Naomi Gorringe",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "barjastehmohebbi|anousheh",
+          "n": "70",
+          "name": "Anousheh Barjasteh Mohebbi",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
