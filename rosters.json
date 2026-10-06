@@ -196001,6 +196001,285 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Greenfoot Capitals U18",
+      "country": "CAN",
+      "club": "Greenfoot Capitals",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Greenfoot Capitals U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "harland|eleanor",
+          "n": "11",
+          "name": "Ellie Harland",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-3",
+          "home": "Kentville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "leslie|josephine",
+          "n": "21",
+          "name": "Josie Leslie",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-5",
+          "home": "Fall River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "payne|marleigh",
+          "n": "58",
+          "name": "Marleigh Payne",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-7",
+          "home": "Tantallon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "walter|sadie",
+          "n": "10",
+          "name": "Sadie Walter",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-4",
+          "home": "Dartmouth",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wilkie|katherine",
+          "n": "18",
+          "name": "Katherine Wilkie",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-3",
+          "home": "Upper Tantallon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "audain|charlotte",
+          "n": "16",
+          "name": "Charlotte Audain",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-4",
+          "home": "Halifax",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beaton|carly",
+          "n": "8",
+          "name": "Carly Beaton",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Hammonds Plains",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "palmerbelen|j",
+          "n": "55",
+          "name": "J. Palmer Belen",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-4",
+          "home": "Spryfield",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|aiva",
+          "n": "4",
+          "name": "Aiva Brown",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Spryfield",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "driscoll|ella",
+          "n": "19",
+          "name": "Ella Driscoll",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-1",
+          "home": "Spryfield",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jodrey|khloe",
+          "n": "15",
+          "name": "Khloe Jodrey",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-8",
+          "home": "Kentville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kearney|aishlinn",
+          "n": "88",
+          "name": "Aishlinn Kearney",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Upper Tantallon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kelly|abigail",
+          "n": "77",
+          "name": "Abigail Kelly",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-7",
+          "home": "Hammonds Plains",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mchenry|eleanor",
+          "n": "14",
+          "name": "Eleanor McHenry",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-10",
+          "home": "Halifax",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "parsons|jessica",
+          "n": "2",
+          "name": "Jessica Parsons",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-1",
+          "home": "Waverly",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "payne|brianna",
+          "n": "6",
+          "name": "Brianna Payne",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-5",
+          "home": "Tantallon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "power|sydney",
+          "n": "22",
+          "name": "Sydney Power",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-5",
+          "home": "Hammonds Plains",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "prince|zara",
+          "n": "44",
+          "name": "Zara Prince",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-4",
+          "home": "Hammonds Plains",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lewis|autumn",
+          "n": "33",
+          "name": "Autumn Lewis",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Halifax",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zettler|sophia",
+          "n": "30",
+          "name": "Sophie Zettler",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "state": "NS",
+          "ht": "5-2",
+          "home": "Windsor",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
