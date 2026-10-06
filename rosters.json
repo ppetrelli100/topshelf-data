@@ -188471,6 +188471,381 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Buffalo Jr. Sabres 16U",
+      "country": "US",
+      "club": "Buffalo Jr. Sabres",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Buffalo Jr. Sabres 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "forcucci|brooklyn",
+          "n": "11",
+          "name": "Brooklyn Forcucci",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "watson|celia",
+          "n": "12",
+          "name": "Celia Watson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "parete|kara",
+          "n": "21",
+          "name": "Kara Parete",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pax|reagan",
+          "n": "24",
+          "name": "Reagan Pax",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bizub|cecilia",
+          "n": "90",
+          "name": "Cecilia Bizub",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "froman|lux",
+          "n": "9",
+          "name": "Lux Froman",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "alberalla|alyse",
+          "n": "10",
+          "name": "Alyse Alberalla",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "desantis|mya",
+          "n": "16",
+          "name": "Mya Desantis",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "forcucci|peyton",
+          "n": "18",
+          "name": "Peyton Forcucci",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcguire|victoria",
+          "n": "22",
+          "name": "Victoria McGuire",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dipaolo|kirra",
+          "n": "34",
+          "name": "Kirra Dipaolo",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reiford|kennedy",
+          "n": "66",
+          "name": "Kennedy Reiford",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lookman|olivia",
+          "n": "39",
+          "name": "Olivia Lookman",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schimenti|iris",
+          "n": "92",
+          "name": "Iris Schimenti",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "North Suburban Wings (Red) 16U",
+      "country": "US",
+      "club": "North Suburban Wings (Red)",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "North Suburban Wings (Red) 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "aloi|katelin",
+          "n": "11",
+          "name": "Katelin Aloi",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "everard|kathryn",
+          "n": "14",
+          "name": "Kathryn Everard",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pagos|tatum",
+          "n": "15",
+          "name": "Tatum Pagos",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "aceto|cassandra",
+          "n": "22",
+          "name": "Cassandra Aceto",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dumouchel|allison",
+          "n": "87",
+          "name": "Ally Dumouchel",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "berube|leanne",
+          "n": "92",
+          "name": "Leanne Berube",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "osullivan|shay",
+          "n": "2",
+          "name": "Shay OSullivan",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "githinji|abigail",
+          "n": "3",
+          "name": "Abby Githinji",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|ceili",
+          "n": "5",
+          "name": "Ceili Brown",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ordway|kathryn",
+          "n": "10",
+          "name": "Kathryn Ordway",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "girotti|molly",
+          "n": "16",
+          "name": "Molly Girotti",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gray|winter",
+          "n": "24",
+          "name": "Winter Gray",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "johnson|elizabeth",
+          "n": "27",
+          "name": "Elizabeth Johnson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bush|madison",
+          "n": "28",
+          "name": "Madison Bush",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "andrewes|olivia",
+          "n": "78",
+          "name": "Olivia Andrewes",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mceachern|elise",
+          "n": "1",
+          "name": "Elise McEachern",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lemay|chloe",
+          "n": "72",
+          "name": "Chloe Lemay",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
