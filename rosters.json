@@ -192320,7 +192320,7 @@
       ]
     },
     {
-      "team": "Battlefords WPD Ambulance Sharks U18",
+      "team": "Battlefords Sharks U18",
       "country": "CAN",
       "club": "Battlefords WPD Ambulance Sharks",
       "lvl": "U18",
@@ -192328,7 +192328,8 @@
         "U18"
       ],
       "raw": [
-        "Battlefords WPD Ambulance Sharks U18 AAA"
+        "Battlefords WPD Ambulance Sharks U18 AAA",
+        "Battlefords Sharks U18 AAA"
       ],
       "tourneys": [
         "Misc"
@@ -192421,7 +192422,8 @@
           "home": "Regina",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "SK"
         },
         {
           "pk": "poole|julia",
