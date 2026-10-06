@@ -192907,6 +192907,323 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Prince Albert Northern Bears U18",
+      "country": "CAN",
+      "club": "Prince Albert Northern Bears",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Prince Albert Northern Bears U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "siklenka|reyn",
+          "n": "6",
+          "name": "Reyn Siklenka",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Meadow Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ludwig|bria",
+          "n": "9",
+          "name": "Bria Ludwig",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Meadow Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "booy|shelby",
+          "n": "12",
+          "name": "Shelby Booy",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Glaslyn",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "clarkson|macy",
+          "n": "19",
+          "name": "Macy Clarkson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Delisle",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "simonson|jana",
+          "n": "20",
+          "name": "Jana Simonson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Prince Albert",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "clement|rowan",
+          "n": "27",
+          "name": "Rowan Clement",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Humboldt",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "slabaida|ryker",
+          "n": "4",
+          "name": "Ryker Slabaida",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "North Battleford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hoffman|londyn",
+          "n": "5",
+          "name": "Londyn Hoffman",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Naicam",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bernier|amelia",
+          "n": "7",
+          "name": "Amelia Bernier",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Battleford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mitchell|layah",
+          "n": "8",
+          "name": "Layah Mitchell",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Prince Albert",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hildebrandt|lea",
+          "n": "10",
+          "name": "Lea Hildebrandt",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Langenburg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "andersen|jersie",
+          "n": "11",
+          "name": "Jersie Andersen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Meadow Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "merz|riley",
+          "n": "14",
+          "name": "Riley Merz",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Warman",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "christison|emma",
+          "n": "15",
+          "name": "Emma Christison",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Dodsland",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wallin|adyson",
+          "n": "16",
+          "name": "Adyson Wallin",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Shellbrook",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "krienke|zoey",
+          "n": "21",
+          "name": "Zoey Krienke",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Warman",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "miazga|jayce",
+          "n": "22",
+          "name": "Jayce Miazga",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Lloydminster",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "taitsjogren|meeya",
+          "n": "23",
+          "name": "Meeya Tait-Sjogren",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "St Louis",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kelly|theresa",
+          "n": "1",
+          "name": "Tess Kelly",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Brock",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "coulter|kailyn",
+          "n": "35",
+          "name": "Kailyn Coulter",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Warman",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
