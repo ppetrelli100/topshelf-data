@@ -197496,6 +197496,226 @@
           "ctry": "US"
         }
       ]
+    },
+    {
+      "team": "Winnipeg Ice U18",
+      "country": "CAN",
+      "club": "Winnipeg Ice",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Winnipeg Ice U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "fast|aria",
+          "n": "2",
+          "name": "Aria Fast",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "R",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "simes|leah",
+          "n": "4",
+          "name": "Leah Simes",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ohta|sophia",
+          "n": "5",
+          "name": "Sophie Ohta",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "R",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "walker|teagan",
+          "n": "14",
+          "name": "Teagan Walker",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wilson|andi",
+          "n": "17",
+          "name": "Andi Wilson",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "comte|sophia",
+          "n": "19",
+          "name": "Sophie Comte",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lamonica|scarlett",
+          "n": "6",
+          "name": "Scarlett Lamonica",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "adams|callie",
+          "n": "7",
+          "name": "Callie Adams",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "barnaby|lyla",
+          "n": "8",
+          "name": "Lyla Barnaby",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robbins|gabriella",
+          "n": "9",
+          "name": "Gabby Robbins",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lischka|maya",
+          "n": "10",
+          "name": "Maya Lischka",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "temple|maren",
+          "n": "11",
+          "name": "Maren Temple",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cairns|katherine",
+          "n": "12",
+          "name": "Kate Cairns",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thornhill|brooklyn",
+          "n": "16",
+          "name": "Brooklyn Thornhill",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bouchard|jordanne",
+          "n": "18",
+          "name": "Jordanne Bouchard",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "shot": "R",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "matthews|isla",
+          "n": "1",
+          "name": "Isla Matthews",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "shot": "L",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "plett|gina",
+          "n": "30",
+          "name": "Gina Plett",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
