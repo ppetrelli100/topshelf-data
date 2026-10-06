@@ -191177,15 +191177,16 @@
       ]
     },
     {
-      "team": "PWM Lloydminster Steelers 18U",
+      "team": "Lloydminster Steelers U18",
       "country": "US",
-      "club": "PWM Lloydminster Steelers",
-      "lvl": "18U",
+      "club": "Lloydminster Steelers",
+      "lvl": "U18",
       "levels": [
         "U18"
       ],
       "raw": [
-        "PWM Lloydminster Steelers U18"
+        "PWM Lloydminster Steelers U18",
+        "Lloydminster Steelers U18"
       ],
       "tourneys": [
         "Misc"
