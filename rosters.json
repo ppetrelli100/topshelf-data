@@ -197716,6 +197716,469 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Boston Hockey Group 16U",
+      "country": "US",
+      "club": "Boston Hockey Group",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Boston Hockey Group 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "han|rina",
+          "n": "3",
+          "name": "Rina Han",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wieneke|trinity",
+          "n": "6",
+          "name": "Trinity Wieneke",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "eriksen|paige",
+          "n": "8",
+          "name": "Paige Eriksen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "polley|brianna",
+          "n": "16",
+          "name": "Brianna Polley",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "edelman|elle",
+          "n": "18",
+          "name": "Elle Edelman",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bridges|mackinzey",
+          "n": "22",
+          "name": "Mackinzey Bridges",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bartlett|grace",
+          "n": "2",
+          "name": "Grace Bartlett",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "safari|violet",
+          "n": "4",
+          "name": "Violet Safari",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mclean|lauren",
+          "n": "5",
+          "name": "Lauren McLean",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mclain|chloe",
+          "n": "7",
+          "name": "Chloe McLain",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marshall|gianna",
+          "n": "9",
+          "name": "Gianna Marshall",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nelson|taylor",
+          "n": "10",
+          "name": "Taylor Nelson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martin|kara",
+          "n": "14",
+          "name": "Kara Martin",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mruk|payton",
+          "n": "15",
+          "name": "Payton Mruk",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bonhome|amaya",
+          "n": "17",
+          "name": "Amaya Bonhome",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lovett|lillian",
+          "n": "19",
+          "name": "Lily Lovett",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lachowicz|lauren",
+          "n": "20",
+          "name": "Lauren Lachowicz",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tavuchis|thalia",
+          "n": "21",
+          "name": "Thalia Tavuchis",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "silva|isabella",
+          "n": "1",
+          "name": "Izzy Silva",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hughart|morgan",
+          "n": "35",
+          "name": "Morgan Hughart",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "North Shore Vipers (Red) 16U",
+      "country": "US",
+      "club": "North Shore Vipers (Red)",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "North Shore Vipers (Red) 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "dolph|lanie",
+          "n": "4",
+          "name": "Lanie Dolph",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chambers|alannah",
+          "n": "11",
+          "name": "Alannah Chambers",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sullivan|lauren",
+          "n": "22",
+          "name": "Lauren Sullivan",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ryan|lauren",
+          "n": "36",
+          "name": "Lauren Ryan",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "keefe|emmerson",
+          "n": "44",
+          "name": "Emmerson Keefe",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "conley|vera",
+          "n": "72",
+          "name": "Vera Conley",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "driscoll|camdyn",
+          "n": "81",
+          "name": "Camdyn Driscoll",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "demsey|adriana",
+          "n": "3",
+          "name": "Adriana Demsey",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "burnham|anne",
+          "n": "7",
+          "name": "Anne Burnham",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "doyle|grace",
+          "n": "9",
+          "name": "Grace Doyle",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tinkham|kailey",
+          "n": "10",
+          "name": "Kailey Tinkham",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "puccio|gianna",
+          "n": "14",
+          "name": "Gianna Puccio",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robillard|reese",
+          "n": "16",
+          "name": "Reese Robillard",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cleary|sofia",
+          "n": "18",
+          "name": "Sofia Cleary",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "katz|lilah",
+          "n": "24",
+          "name": "Lilah Katz",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "krawczyk|emma",
+          "n": "28",
+          "name": "Emma Krawczyk",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "barbosa|sophia",
+          "n": "33",
+          "name": "Sophia Barbosa",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "allard|emma",
+          "n": "15",
+          "name": "Emma Allard",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sico|avery",
+          "n": "35",
+          "name": "Avery Sico",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
