@@ -193619,6 +193619,323 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Weyburn Gold Wings U18",
+      "country": "CAN",
+      "club": "Weyburn Gold Wings",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Weyburn Gold Wings U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "hurford|essa",
+          "n": "3",
+          "name": "Essa Hurford",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Moose Jaw",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "allard|kaley",
+          "n": "6",
+          "name": "Kaley Allard",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Yorkton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "frey|addison",
+          "n": "9",
+          "name": "Addison Frey",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Saskatoon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dammann|kinley",
+          "n": "12",
+          "name": "Kinley Dammann",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Weyburn",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "keen|kahli",
+          "n": "17",
+          "name": "Kahli Keen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "White City",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bourassa|haven",
+          "n": "22",
+          "name": "Haven Bourassa",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Estevan",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schnurr|taelah",
+          "n": "2",
+          "name": "Taelah Schnurr",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Yorkton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "danchilla|harper",
+          "n": "4",
+          "name": "Harper Danchilla",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Yorkton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "peck|olivia",
+          "n": "7",
+          "name": "Liv Peck",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "madsen|chelsea",
+          "n": "8",
+          "name": "Chelsea Madsen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Estevan",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bigoraj|zoe",
+          "n": "10",
+          "name": "Zoe Bigoraj",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Saskatoon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nimegeers|anniston",
+          "n": "11",
+          "name": "Anniston Nimegeers",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-2",
+          "home": "Moose Jaw",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "janz|harbour",
+          "n": "13",
+          "name": "Harbour Janz",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "birnie|peyton",
+          "n": "16",
+          "name": "Peyton Birnie",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Weyburn",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcnichol|skyla",
+          "n": "19",
+          "name": "Skyla McNichol",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Nokomis",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "petford|mickenzie",
+          "n": "27",
+          "name": "Mickenzie Petford",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Balgonie",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "johns|sage",
+          "n": "77",
+          "name": "Sage Johns",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Lumsden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nimegeers|presley",
+          "n": "91",
+          "name": "Presley Nimegeers",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Moose Jaw",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "patterson|maci",
+          "n": "33",
+          "name": "Maci Patterson",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Weyburn",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boyd|tila",
+          "n": "95",
+          "name": "Tila Boyd",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Prince Albert",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
