@@ -179546,6 +179546,199 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Florida Alliance 16U",
+      "country": "US",
+      "club": "Florida Alliance",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "FLORIDA ALLIANCE 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "haber|elliot",
+          "n": "17",
+          "name": "Elliot Haber",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marschall|kiley",
+          "n": "23",
+          "name": "Kiley Marschall",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ceballos|tamara",
+          "n": "25",
+          "name": "Tamara Ceballos",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brade|halle",
+          "n": "26",
+          "name": "Halle Brade",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "frewer|grace",
+          "n": "57",
+          "name": "Grace Frewer",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|ava",
+          "n": "63",
+          "name": "Ava Smith",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mahoney|cayla",
+          "n": "10",
+          "name": "Cayla Mahoney",
+          "ry": "2010",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "haley|teagan",
+          "n": "18",
+          "name": "Teagan Haley",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nutt|mackenzie",
+          "n": "21",
+          "name": "Mackenzie Nutt",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stimson|addison",
+          "n": "28",
+          "name": "Addison Stimson",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "arriaga|madison",
+          "n": "59",
+          "name": "Madison Arriaga",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "svoboda|lilly",
+          "n": "86",
+          "name": "Lilly Svoboda",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|samantha",
+          "n": "88",
+          "name": "Sam Brown",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "deslauries|sofia",
+          "n": "98",
+          "name": "Sofia Deslauries",
+          "ry": "2011",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "logue|anna",
+          "n": "7",
+          "name": "Anna Logue",
+          "ry": "2010",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|brelyn",
+          "n": "30",
+          "name": "Brelyn Smith",
+          "ry": "2010",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
