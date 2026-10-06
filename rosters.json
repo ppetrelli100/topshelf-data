@@ -182276,6 +182276,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Team North Dakota 19U",
+      "country": "US",
+      "club": "Team North Dakota",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Team North Dakota 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "homan|brynlee",
+          "n": "2",
+          "name": "Brynlee Homan",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hager|emmersynn",
+          "n": "3",
+          "name": "Emmersynn Hager",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rohrich|paige",
+          "n": "5",
+          "name": "Paige Rohrich",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kilgore|elizabeth",
+          "n": "6",
+          "name": "Elizabeth Kilgore",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kuznia|kendra",
+          "n": "18",
+          "name": "Kendra Kuznia",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gimberline|estella",
+          "n": "21",
+          "name": "Stella Gimberline",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hassler|emma",
+          "n": "4",
+          "name": "Emma Hassler",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "groven|chloe",
+          "n": "8",
+          "name": "Chloe Groven",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ross|abigail",
+          "n": "10",
+          "name": "Abby Ross",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yahna|ella",
+          "n": "12",
+          "name": "Ella Yahna",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ness|emma",
+          "n": "14",
+          "name": "Emma Ness",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "belzer|estella",
+          "n": "15",
+          "name": "Stella Belzer",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "terstriep|lauren",
+          "n": "16",
+          "name": "Lauren Terstriep",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nelson|marin",
+          "n": "19",
+          "name": "Marin Nelson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rerick|sophia",
+          "n": "20",
+          "name": "Sophia Rerick",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "otto|rylee",
+          "n": "1",
+          "name": "Rylee Otto",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wilson|reagan",
+          "n": "31",
+          "name": "Reagan Wilson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
