@@ -197243,6 +197243,258 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Stanstead College U18",
+      "country": "CAN",
+      "club": "Stanstead College",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Stanstead U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "burkett|paisley",
+          "n": "3",
+          "name": "Paisley Burkett",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "May 2011",
+          "t": [
+            "Misc"
+          ],
+          "ctry": "US"
+        },
+        {
+          "pk": "may|avery",
+          "n": "5",
+          "name": "Avery May",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lloyd|zoe",
+          "n": "10",
+          "name": "Zoe Lloyd",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "6/10/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grenier|charlotte",
+          "n": "11",
+          "name": "Charlie Grenier",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "1/6/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "roy|chloe",
+          "n": "15",
+          "name": "Chloe Roy",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/19/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "miller|margot",
+          "n": "19",
+          "name": "Margot Miller",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "8/29/2011",
+          "t": [
+            "Misc"
+          ],
+          "ctry": "US"
+        },
+        {
+          "pk": "bureau|beatrice",
+          "n": "4",
+          "name": "Beatrice Bureau",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "1/28/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gilbert|hailey",
+          "n": "6",
+          "name": "Hailey Gilbert",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "8/26/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "logan|alexandra",
+          "n": "7",
+          "name": "Alexandra Logan",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "6/14/2009",
+          "t": [
+            "Misc"
+          ],
+          "ctry": "US"
+        },
+        {
+          "pk": "simard|margot",
+          "n": "8",
+          "name": "Margot Simard",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "9/18/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "desgagne|laurence",
+          "n": "9",
+          "name": "Laurence Desgagne",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brandtner|ana",
+          "n": "12",
+          "name": "Ana Brandtner",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "12/24/2011",
+          "t": [
+            "Misc"
+          ],
+          "ctry": "AUSTRIA/GERMANY"
+        },
+        {
+          "pk": "dynia|isabella",
+          "n": "13",
+          "name": "Isabella Dynia",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "2/2/2011",
+          "t": [
+            "Misc"
+          ],
+          "ctry": "US"
+        },
+        {
+          "pk": "gagnon|flavie",
+          "n": "16",
+          "name": "Flavie Gagnon",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "2/1/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bergeron|jolianne",
+          "n": "17",
+          "name": "Jolianne Bergeron",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "10/2/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bouchard|lyanna",
+          "n": "18",
+          "name": "Lyanna Bouchard",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "11/28/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gagnon|sophia",
+          "n": "20",
+          "name": "Sophie Gagnon",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/28/2010",
+          "t": [
+            "Misc"
+          ],
+          "ctry": "US"
+        },
+        {
+          "pk": "russell|ava",
+          "n": "1",
+          "name": "Ava Russell",
+          "ry": "2011",
+          "rg": "",
+          "rp": "G",
+          "dob": "2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "plummer|jordyn",
+          "n": "33",
+          "name": "Jordyn Plummer",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "dob": "5/12/2010",
+          "t": [
+            "Misc"
+          ],
+          "ctry": "US"
+        }
+      ]
     }
   ]
 }
