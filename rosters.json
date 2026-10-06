@@ -145546,16 +145546,18 @@
       ]
     },
     {
-      "team": "Northern Alberta Xtreme U22",
+      "team": "Northern Alberta Xtreme U18",
       "country": "CAN",
       "club": "Northern Alberta Xtreme",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
         "U22",
-        "18U"
+        "18U",
+        "U18"
       ],
       "raw": [
-        "Northern Alberta Xtreme"
+        "Northern Alberta Xtreme",
+        "Northern Alberta Xtreme U18 Prep"
       ],
       "tourneys": [
         "Stoney",
