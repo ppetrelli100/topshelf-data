@@ -182480,6 +182480,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Milwaukee Junior Admirals 19U",
+      "country": "US",
+      "club": "Milwaukee Junior Admirals",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Milwaukee Jr. Admirals 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "fickel|elliana",
+          "n": "5",
+          "name": "Elliana Fickel",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mclaughlin|molly",
+          "n": "17",
+          "name": "Molly McLaughlin",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "suchomel|amelia",
+          "n": "18",
+          "name": "Amelia Suchomel",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "westergaard|addison",
+          "n": "22",
+          "name": "Addy Westergaard",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "krob|katherine",
+          "n": "38",
+          "name": "Katherine Krob",
+          "ry": "",
+          "rg": "2026",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "croasdaile|jillian",
+          "n": "70",
+          "name": "Jillian Croasdaile",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gould|harper",
+          "n": "7",
+          "name": "Harper Gould",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gilman|claire",
+          "n": "8",
+          "name": "Claire Gilman",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "villacorta|avery",
+          "n": "9",
+          "name": "Avery Villacorta",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "giordano|morgan",
+          "n": "12",
+          "name": "Morgan Giordano",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rottman|callie",
+          "n": "14",
+          "name": "Callie Rottman",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "massart|addison",
+          "n": "24",
+          "name": "Addy Massart",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carey|amelia",
+          "n": "25",
+          "name": "Amelia Carey",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rabe|aerin",
+          "n": "27",
+          "name": "Aerin Rabe",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ulleweit|brooklyn",
+          "n": "47",
+          "name": "Brooklyn Ulleweit",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "haapanen|katherine",
+          "n": "30",
+          "name": "Kate Haapanen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "weekley|kaylee",
+          "n": "36",
+          "name": "Kaylee Weekley",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
