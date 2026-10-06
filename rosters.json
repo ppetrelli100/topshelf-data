@@ -190037,6 +190037,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Los Angeles Lions 16U",
+      "country": "US",
+      "club": "Los Angeles Lions",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Los Angeles Lions 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "nycholat|anela",
+          "n": "8",
+          "name": "Anela Nycholat",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lingle|logan",
+          "n": "21",
+          "name": "Logan Lingle",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "demiranda|alexis",
+          "n": "50",
+          "name": "Alexis De Miranda",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lefebvre|reve",
+          "n": "59",
+          "name": "Reve Lefebvre",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robertson|mckenna",
+          "n": "71",
+          "name": "McKenna Robertson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "karlov|ruby",
+          "n": "76",
+          "name": "Ruby Karlov",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lee|taylee",
+          "n": "7",
+          "name": "Taylee Lee",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "serrano|gabriella",
+          "n": "9",
+          "name": "Gabby Serrano",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "escopete|verity",
+          "n": "10",
+          "name": "Verity Escopete",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "adkisson|vivienne",
+          "n": "11",
+          "name": "Vivienne Adkisson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chacon|daphne",
+          "n": "14",
+          "name": "Daphne Chacon",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mossberg|aly",
+          "n": "15",
+          "name": "Aly Mossberg",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "albrecht|quinn",
+          "n": "17",
+          "name": "Quinn Albrecht",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "aguilera|sofia",
+          "n": "23",
+          "name": "Sofia Aguilera",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hanson|mckinley",
+          "n": "24",
+          "name": "McKinley Hanson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "trostel|zoe",
+          "n": "43",
+          "name": "Zoe Trostel",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "johnson|adele",
+          "n": "64",
+          "name": "Adele Johnson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sun|erya",
+          "n": "90",
+          "name": "Erya Sun",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "miller|chelsea",
+          "n": "31",
+          "name": "Chelsea Miller",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "woo|emma",
+          "n": "38",
+          "name": "Emma Woo",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
