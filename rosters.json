@@ -146113,7 +146113,8 @@
         "Northern Selects U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -146124,8 +146125,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-6",
+          "home": "Guysborough Intervale"
         },
         {
           "pk": "taveras|brea",
@@ -146135,8 +146139,11 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-4",
+          "home": "Guysborough"
         },
         {
           "pk": "grinton|ella",
@@ -146146,8 +146153,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-5",
+          "home": "Brookfield"
         },
         {
           "pk": "macintyre|lexi",
@@ -146157,8 +146167,12 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Westville"
         },
         {
           "pk": "doiron|carrie",
@@ -146168,8 +146182,11 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-5",
+          "home": "Boylston"
         },
         {
           "pk": "burris|laila",
@@ -146179,8 +146196,11 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-11",
+          "home": "Truro"
         },
         {
           "pk": "tanner|bria",
@@ -146190,8 +146210,11 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-6",
+          "home": "Debert"
         },
         {
           "pk": "turner|mia",
@@ -146201,8 +146224,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-3",
+          "home": "Bayfield"
         },
         {
           "pk": "macleod|evelyn",
@@ -146212,8 +146238,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-7",
+          "home": "Stellarton"
         },
         {
           "pk": "richards|shawnn",
@@ -146223,8 +146252,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-3",
+          "home": "Antigonish"
         },
         {
           "pk": "martin|myla",
@@ -146234,8 +146266,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-3",
+          "home": "Millbrook"
         },
         {
           "pk": "macdonald|brooke",
@@ -146245,8 +146280,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-5",
+          "home": "Pictou"
         },
         {
           "pk": "machattie|ashtyn",
@@ -146256,8 +146294,11 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-1",
+          "home": "Coalburn"
         },
         {
           "pk": "mcarthur|ana",
@@ -146267,8 +146308,12 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-8",
+          "home": "Stellarton"
         },
         {
           "pk": "chisholm|ali",
@@ -146278,8 +146323,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-6",
+          "home": "Antigonish"
         },
         {
           "pk": "vint|rogan",
@@ -146289,8 +146337,11 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-7",
+          "home": "Westville"
         },
         {
           "pk": "francismacdonald|fyfe",
@@ -146300,7 +146351,21 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-11",
+          "home": "Antigonish"
+        },
+        {
+          "pk": "scott|evelyn",
+          "n": "20",
+          "name": "Evelyn Scott",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -146311,8 +146376,11 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-4",
+          "home": "Truro"
         },
         {
           "pk": "mason|lydia",
@@ -146322,8 +146390,11 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-5",
+          "home": "MacLellan's Brook"
         }
       ]
     },
