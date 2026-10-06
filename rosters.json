@@ -180719,6 +180719,254 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Team Wisconsin 19U",
+      "country": "US",
+      "club": "Team Wisconsin",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Team Wisconsin 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "lahr|raelynn",
+          "n": "16",
+          "name": "Raelynn Lahr",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "land|zandra",
+          "n": "9",
+          "name": "Zandra Land",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mathison|piper",
+          "n": "27",
+          "name": "Piper Mathison",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "merritt|olivia",
+          "n": "12",
+          "name": "Olivia Merritt",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schuh|baylie",
+          "n": "22",
+          "name": "Baylie Schuh",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "spees|campbell",
+          "n": "17",
+          "name": "Campbell Spees",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "steele|camryn",
+          "n": "15",
+          "name": "Camryn Steele",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zunker|elizabeth",
+          "n": "4",
+          "name": "Elizabeth Zunker",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "buchan|aisling",
+          "n": "7",
+          "name": "Aisling Buchan",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cooke|lyla",
+          "n": "21",
+          "name": "Lyla Cooke",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grundahl|elizabeth",
+          "n": "97",
+          "name": "Elizabeth Grundahl",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jewitt|malin",
+          "n": "24",
+          "name": "Malin Jewitt",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "julson|chloe",
+          "n": "6",
+          "name": "Chloe Julson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lyons|lillian",
+          "n": "19",
+          "name": "Lillian Lyons",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "olson|caroline",
+          "n": "13",
+          "name": "Caroline Olson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thomsen|gabrielle",
+          "n": "8",
+          "name": "Gabrielle Thomsen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "webster|olivia",
+          "n": "14",
+          "name": "Olivia Webster",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wright|molly",
+          "n": "28",
+          "name": "Molly Wright",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yirkovsky|jayden",
+          "n": "11",
+          "name": "Jayden Yirkovsky",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bowers|elizabeth",
+          "n": "30",
+          "name": "Elizabeth Bowers",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martinelli|sofia",
+          "n": "31",
+          "name": "Sofia Martinelli",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
