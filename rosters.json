@@ -182706,6 +182706,221 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Arizona Kachinas 16U",
+      "country": "US",
+      "club": "Arizona Kachinas",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Arizona Kachinas 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "nepplova|mirka",
+          "n": "11",
+          "name": "Mirka Nepplova",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vecellio|parker",
+          "n": "19",
+          "name": "Parker Vecellio",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pisaruk|ali",
+          "n": "24",
+          "name": "Ali Pisaruk",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "knierim|adalinn",
+          "n": "27",
+          "name": "Adalinn Knierim",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "paus|dylan",
+          "n": "33",
+          "name": "Dylan Paus",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martinez|mila",
+          "n": "88",
+          "name": "Mila Martinez",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "meury|arden",
+          "n": "2",
+          "name": "Arden Meury",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "judge|jordyn",
+          "n": "6",
+          "name": "Jordyn Judge",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wold|emree",
+          "n": "12",
+          "name": "Emree Wold",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "aspito|francesca",
+          "n": "14",
+          "name": "Francesca Aspito",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "watts|morgan",
+          "n": "15",
+          "name": "Morgan Watts",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "campbell|ciara",
+          "n": "23",
+          "name": "Ciara Campbell",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "travis|lena",
+          "n": "29",
+          "name": "Lena Travis",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zahn|brea",
+          "n": "32",
+          "name": "Brea Zahn",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lee|elena",
+          "n": "42",
+          "name": "Elena Lee",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "plona|whitney",
+          "n": "77",
+          "name": "Whitney Plona",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vangels|rebecca",
+          "n": "13",
+          "name": "Rebecca Van Gels",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nichols|katrianne",
+          "n": "26",
+          "name": "Katrianne Nichols",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
