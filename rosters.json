@@ -141779,7 +141779,8 @@
         "Moncton Rockets U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -141790,8 +141791,12 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-6",
+          "home": "Bathurst"
         },
         {
           "pk": "boutilier|ella",
@@ -141801,8 +141806,11 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "home": "Moncton"
         },
         {
           "pk": "cormier|chanel",
@@ -141812,8 +141820,12 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-6",
+          "home": "Memramcook"
         },
         {
           "pk": "bourgeois|leanne",
@@ -141823,19 +141835,27 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "ht": "5-7",
+          "home": "Moncton"
         },
         {
           "pk": "arsenault|maxine",
           "n": "12",
           "name": "Maxine Arsenault",
-          "ry": "2010",
+          "ry": "2009",
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Rogersville"
         },
         {
           "pk": "wilkins|madelyne",
@@ -141845,7 +141865,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -141856,30 +141877,38 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Moncton"
         },
         {
           "pk": "feeney|alexie",
           "n": "9",
           "name": "Alexie Feeney",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
           "pk": "legerdavis|emma",
           "n": "11",
           "name": "Emma Leger-Davis",
-          "ry": "",
+          "ry": "2009",
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "home": "Dieppe"
         },
         {
           "pk": "savoie|zoe",
@@ -141889,8 +141918,12 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Dieppe"
         },
         {
           "pk": "lefrancois|calie",
@@ -141900,7 +141933,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -141911,8 +141945,12 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Dieppe"
         },
         {
           "pk": "colpitts|madeleine",
@@ -141922,8 +141960,12 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "ht": "5-7",
+          "home": "Riverview"
         },
         {
           "pk": "leblanc|zoe",
@@ -141933,7 +141975,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -141944,8 +141987,12 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Memramcook"
         },
         {
           "pk": "mallet|annabelle",
@@ -141955,7 +142002,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -141966,8 +142014,11 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "home": "Dieppe"
         },
         {
           "pk": "frenette|claire",
@@ -141977,7 +142028,34 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Moncton"
+        },
+        {
+          "pk": "dupuis|veronique",
+          "n": "1",
+          "name": "Veronique Dupuis",
+          "ry": "2012",
+          "rg": "",
+          "rp": "G",
+          "home": "Grande-Digue",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marsh|gemma",
+          "n": "30",
+          "name": "Gemma Marsh",
+          "ry": "2012",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
           ]
         }
       ]
