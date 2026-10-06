@@ -183354,6 +183354,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Team Wisconsin 16U",
+      "country": "US",
+      "club": "Team Wisconsin",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Team Wisconsin 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "aitken|hattie",
+          "n": "4",
+          "name": "Hattie Aitken",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "goetz|adrianna",
+          "n": "12",
+          "name": "Adrianna Goetz",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "heytens|maci",
+          "n": "22",
+          "name": "Maci Heytens",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "losey|piper",
+          "n": "28",
+          "name": "Piper Losey",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "parker|addalyn",
+          "n": "24",
+          "name": "Addalyn Parker",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sheppard|mya",
+          "n": "15",
+          "name": "Mya Sheppard",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "donovan|natalie",
+          "n": "5",
+          "name": "Natalie Donovan",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "howarth|mckinley",
+          "n": "18",
+          "name": "Mckinley Howarth",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lahner|kjessia",
+          "n": "14",
+          "name": "Kjessia Lahner",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lindstrom|avery",
+          "n": "2",
+          "name": "Avery Lindstrom",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "loomans|esme",
+          "n": "16",
+          "name": "Esme Loomans",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "memken|elliana",
+          "n": "9",
+          "name": "Elliana Memken",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "merritt|rosie",
+          "n": "8",
+          "name": "Rosie Merritt",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mueller|mackena",
+          "n": "17",
+          "name": "Mackena Mueller",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rhodes|brenna",
+          "n": "27",
+          "name": "Brenna Rhodes",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shepherdson|ayla",
+          "n": "20",
+          "name": "Ayla Shepherdson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "steele|jennifer",
+          "n": "6",
+          "name": "Jenna Steele",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "xu|allison",
+          "n": "19",
+          "name": "Allison Xu",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nowak|lucy",
+          "n": "1",
+          "name": "Lucy Nowak",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "olson|estella",
+          "n": "30",
+          "name": "Stella Olson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
