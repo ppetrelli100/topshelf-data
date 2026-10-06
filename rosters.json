@@ -185357,6 +185357,221 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Bay State Breakers (Green) 19U",
+      "country": "US",
+      "club": "Bay State Breakers (Green)",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Bay State Breakers (Green) 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "sowersby|peyton",
+          "n": "1",
+          "name": "Peyton Sowersby",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wiesel|adeline",
+          "n": "2",
+          "name": "Adeline Wiesel",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcdonough|emily",
+          "n": "4",
+          "name": "Emily McDonough",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pike|riley",
+          "n": "5",
+          "name": "Riley Pike",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vanvliet|aislin",
+          "n": "12",
+          "name": "Aislin VanVliet",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "crabtree|chloe",
+          "n": "16",
+          "name": "Chloe Crabtree",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mccarthy|eliot",
+          "n": "20",
+          "name": "Eliot McCarthy",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "verderber|julia",
+          "n": "24",
+          "name": "Julia Verderber",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "halloran|molly",
+          "n": "6",
+          "name": "Molly Halloran",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kluzak|marina",
+          "n": "10",
+          "name": "Marina Kluzak",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ash|margaret",
+          "n": "11",
+          "name": "Margaret Ash",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "glanzer|maealie",
+          "n": "15",
+          "name": "Maealie Glanzer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "liebhoff|anne",
+          "n": "18",
+          "name": "Annie Liebhoff",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cary|clara",
+          "n": "21",
+          "name": "Clara Cary",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "norton|kayleigh",
+          "n": "26",
+          "name": "Kayleigh Norton",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "quatrale|sadie",
+          "n": "44",
+          "name": "Sadie Quatrale",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wallace|coleen",
+          "n": "27",
+          "name": "Coleen Wallace",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ma|barbara",
+          "n": "36",
+          "name": "Barbara Ma",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
