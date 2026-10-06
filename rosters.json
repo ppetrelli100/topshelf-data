@@ -194151,6 +194151,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Amazones Laval-Montreal U18",
+      "country": "CAN",
+      "club": "Amazones Laval-Montreal",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Amazones Laval-Montreal U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "chaine|kimmy",
+          "n": "",
+          "name": "Kim-My Chaine",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "azeredo|mia",
+          "n": "79",
+          "name": "Mia Azeredo",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rosebonhomme|amelya",
+          "n": "67",
+          "name": "Amelya Rose Bonhomme",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lafrancesewalt|angelique",
+          "n": "78",
+          "name": "Angelique Lafrance Sewalt",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chalut|beatrice",
+          "n": "68",
+          "name": "Beatrice Chalut",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "orsini|chiara",
+          "n": "70",
+          "name": "Chiara Orsini",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hogue|corali",
+          "n": "76",
+          "name": "Corali Hogue",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "simard|emma",
+          "n": "73",
+          "name": "Emma Simard",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "guay|gabrielle",
+          "n": "64",
+          "name": "Gabrielle Guay",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dominguescuenco|julia",
+          "n": "63",
+          "name": "Julia Domingues-Cuenco",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thibault|justine",
+          "n": "62",
+          "name": "Justine Thibault",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dipalma|marie",
+          "n": "61",
+          "name": "Marie Di Palma",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "legault|mia",
+          "n": "74",
+          "name": "Mia Legault",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mainville|noa",
+          "n": "75",
+          "name": "Noa Mainville",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "drolet|olivia",
+          "n": "77",
+          "name": "Olivia Drolet",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "andradecastro|rebeca",
+          "n": "66",
+          "name": "Rebeca Andrade Castro",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nguyenmondoux|tamha",
+          "n": "65",
+          "name": "Tam-Ha Nguyen Mondoux",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
