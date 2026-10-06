@@ -193224,6 +193224,323 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Regina Junior Rebels U18",
+      "country": "CAN",
+      "club": "Regina Junior Rebels",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Regina Rebels U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "kane|reese",
+          "n": "2",
+          "name": "Reese Kane",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "6-1",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "trenouthkemp|jessalyn",
+          "n": "6",
+          "name": "Jessalyn Trenouth-Kemp",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Saskatoon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "klus|kaylee",
+          "n": "8",
+          "name": "Kaylee Klus",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marshall|jayden",
+          "n": "9",
+          "name": "Jayden Marshall",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ulmer|brooklyn",
+          "n": "10",
+          "name": "Brooklyn Ulmer",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-10",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "newton|ella",
+          "n": "14",
+          "name": "Ella Newton",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Moosomin",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lammers|avery",
+          "n": "3",
+          "name": "Avery Lammers",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Yorkton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gallagher|keaghlan",
+          "n": "4",
+          "name": "Keaghlan Gallagher",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stusrud|allison",
+          "n": "7",
+          "name": "Ally Stusrud",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Gull Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gelinas|jordan",
+          "n": "11",
+          "name": "Jordan Gelinas",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marshall|andie",
+          "n": "12",
+          "name": "Andie Marshall",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Martensville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schneider|leighton",
+          "n": "13",
+          "name": "Leighton Schneider",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "korolek|abigail",
+          "n": "16",
+          "name": "Abby Korolek",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Stockholm",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "olfert|ainsley",
+          "n": "17",
+          "name": "Ainsley Olfert",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hawkins|clara",
+          "n": "18",
+          "name": "Clara Hawkins",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wetsch|emily",
+          "n": "19",
+          "name": "Emily Wetsch",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-1",
+          "home": "White City",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rieger|katelyn",
+          "n": "21",
+          "name": "Katelyn Rieger",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lockert|ashlyn",
+          "n": "22",
+          "name": "Ashlyn Lockert",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robertson|morgan",
+          "n": "1",
+          "name": "Morgan Robertson",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hanoski|zoe",
+          "n": "31",
+          "name": "Zoe Hanoski",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Lumsden",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
