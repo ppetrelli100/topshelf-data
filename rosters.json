@@ -180267,6 +180267,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Saskatoon Stars U22",
+      "country": "CAN",
+      "club": "Saskatoon Stars",
+      "lvl": "U22",
+      "levels": [
+        "U22"
+      ],
+      "raw": [
+        "Saskatoon Stars U22"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "sittler|madelyn",
+          "n": "",
+          "name": "Madelyn Sittler",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "doig|reese",
+          "n": "",
+          "name": "Reese Doig",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kittleson|jersey",
+          "n": "",
+          "name": "Jersey Kittleson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "allan|bret",
+          "n": "",
+          "name": "Bret Allan",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sutter|kaelen",
+          "n": "",
+          "name": "Kaelen Sutter",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zablocki|steele",
+          "n": "",
+          "name": "Steele Zablocki",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "drabyk|makayla",
+          "n": "",
+          "name": "Makayla Drabyk",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "haase|eva",
+          "n": "",
+          "name": "Eva Haase",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "broadfoot|neely",
+          "n": "",
+          "name": "Neely Broadfoot",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cripps|brianne",
+          "n": "",
+          "name": "Brianne Cripps",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sumners|makenna",
+          "n": "",
+          "name": "Makenna Sumners",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "oleksyn|presley",
+          "n": "",
+          "name": "Presley Oleksyn",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "goodwin|adriana",
+          "n": "",
+          "name": "Adriana Goodwin",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "anderson|ayla",
+          "n": "",
+          "name": "Ayla Anderson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bary|avery",
+          "n": "",
+          "name": "Avery Bary",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "delaire|hudson",
+          "n": "",
+          "name": "Hudson Delaire",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wagner|ella",
+          "n": "",
+          "name": "Ella Wagner",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcdonald|teal",
+          "n": "",
+          "name": "Teal McDonald",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sutter|tarynn",
+          "n": "",
+          "name": "Tarynn Sutter",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
