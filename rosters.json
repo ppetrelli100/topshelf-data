@@ -187804,6 +187804,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Massachusetts Spitfires (Major 16U",
+      "country": "US",
+      "club": "Massachusetts Spitfires (Major",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Massachusetts Spitfires (Major1) 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "enders|camille",
+          "n": "2",
+          "name": "Camille Enders",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "an|sihyeon",
+          "n": "5",
+          "name": "Sihyeon An",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bahia|sasha",
+          "n": "6",
+          "name": "Sasha Bahia",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "procaccini|ella",
+          "n": "9",
+          "name": "Ella Procaccini",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "caulfield|caroline",
+          "n": "10",
+          "name": "Caroline Caulfield",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "callahan|ainsley",
+          "n": "15",
+          "name": "Ainsley Callahan",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "young|sydney",
+          "n": "18",
+          "name": "Sydney Young",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "obrien|kalli",
+          "n": "3",
+          "name": "Kalli Obrien",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "papageorgiou|ariathne",
+          "n": "4",
+          "name": "Ariathne Papageorgiou",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "benson|hadley",
+          "n": "11",
+          "name": "Hadley Benson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "amato|ella",
+          "n": "12",
+          "name": "Ella Amato",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|sadie",
+          "n": "14",
+          "name": "Sadie Brown",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "goncalves|isabella",
+          "n": "16",
+          "name": "Isabella Goncalves",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pollenz|margaret",
+          "n": "17",
+          "name": "Margaret Pollenz",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "darcy|colby",
+          "n": "19",
+          "name": "Colby Darcy",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carlson|leah",
+          "n": "25",
+          "name": "Leah Carlson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "leblanc|stephanie",
+          "n": "27",
+          "name": "Stephanie LeBlanc",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tenbrinke|suki",
+          "n": "1",
+          "name": "Suki Ten Brinke",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reimold|avery",
+          "n": "33",
+          "name": "Avery Reimold",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
