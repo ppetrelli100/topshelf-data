@@ -195009,6 +195009,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Stars (QUE) U18",
+      "country": "CAN",
+      "club": "Stars",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Stars 55 U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "roy|lea",
+          "n": "0",
+          "name": "Lea Roy",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stgelais|maelle",
+          "n": "33",
+          "name": "Maelle St-Gelais",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "prevost|aurelie",
+          "n": "46",
+          "name": "Aurelie Prevost",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laliberte|beatrice",
+          "n": "",
+          "name": "Beatrice Laliberte",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vouligny|beatrice",
+          "n": "55",
+          "name": "Beatrice Vouligny",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martel|florence",
+          "n": "44",
+          "name": "Florence Martel",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jutras|laurence",
+          "n": "39",
+          "name": "Laurence Jutras",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bellemare|maelie",
+          "n": "47",
+          "name": "Maelie Bellemare",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gory|maelle",
+          "n": "52",
+          "name": "Maelle Gory",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gelinas|maely",
+          "n": "45",
+          "name": "Maely Gelinas",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "desbiens|mariephilippe",
+          "n": "43",
+          "name": "Marie-Philippe Desbiens",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fortier|marylou",
+          "n": "",
+          "name": "Marylou Fortier",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "perron|megan",
+          "n": "42",
+          "name": "Megan Perron",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "roy|melodie",
+          "n": "40",
+          "name": "Melodie Roy",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "juteau|myriam",
+          "n": "48",
+          "name": "Myriam Juteau",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vincent|noemy",
+          "n": "50",
+          "name": "Noemy Vincent",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "charestlacerte|pamelia",
+          "n": "88",
+          "name": "Pamelia Charest Lacerte",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sevigny|talicia",
+          "n": "54",
+          "name": "Talicia Sevigny",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "perron|zoe",
+          "n": "38",
+          "name": "Zoe Perron",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
