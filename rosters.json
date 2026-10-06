@@ -179689,9 +179689,12 @@
       "country": "US",
       "club": "CPC Boston Americans",
       "lvl": "16U",
-      "levels": [],
+      "levels": [
+        "16U"
+      ],
       "raw": [
-        ""
+        "",
+        "Bay State Breakers (Green) 16U"
       ],
       "tourneys": [
         "Misc"
@@ -179863,6 +179866,17 @@
           ]
         },
         {
+          "pk": "hulbig|georgia",
+          "n": "36",
+          "name": "Georgia Hulbig",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
           "pk": "allen|melanie",
           "n": "1",
           "name": "Melanie Allen",
@@ -179880,17 +179894,6 @@
           "ry": "",
           "rg": "",
           "rp": "G",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "hulbig|georgia",
-          "n": "36",
-          "name": "Georgia Hulbig",
-          "ry": "",
-          "rg": "",
-          "rp": "",
           "t": [
             "Misc"
           ]
