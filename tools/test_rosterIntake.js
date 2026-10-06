@@ -157,4 +157,11 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
   const cf = RI.compare(on, c).conflicts.filter(x => x.field === 'name'), by = n => cf.find(x => x.have === n);
   ok(by('Vienna Noble') && by('Vienna Noble').via === 'personkey' && by('Reese VanderMeer') && by('Reese VanderMeer').via === '', 'T14 alias vs capitalisation', cf); }
 
+// 15. two team labels that collapse to the same club + level (and together are too many players) are read as two teams, not one oversize team
+{ const names = (pre, n) => Array.from({ length: n }, (_, i) => [String(i + 1), pre + ' Player' + 'abcdefghijklmnopqrstuvwxyz'[i]]);
+  const rows = [['Team', 'Level', 'No', 'Name', 'Pos'], ...names('Ann', 12).map(r => ["Shattuck St. Mary's", '19U', r[0], r[1].replace('Ann ', 'Ann'), 'F']), ...names('Bea', 12).map(r => ["Shattuck St Mary's 19 - Prep", '19U', r[0], r[1].replace('Bea ', 'Bea'), 'F'])];
+  const cl = run(tsv(rows), {}).cl, c1 = run(tsv(rows.slice(0, 13)), {}).cl;
+  ok(cl.teams.length === 2 && cl.teams.every(t => t.players.length === 12 && t.teamFlags.some(f => /own team/.test(f.msg)) && !t.teamFlags.some(f => /more than the/.test(f.msg))), 'T15 split into two 12-player teams', cl.teams.map(t => t.team + ':' + t.players.length));
+  ok(c1.teams.length === 1, 'T15 a single label is not split', c1.teams.length); }
+
 console.log(`\n${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

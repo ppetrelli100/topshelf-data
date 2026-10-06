@@ -265,7 +265,7 @@
 
   /* clean(rawRows, ctx) -> { teams: [candidate], flags, summary }
      ctx: { typeAliases, d1, known (Set of personkeys), birthYears (Map pk -> year), season ('2026-27'), clubSpellings (Map lower -> spelling) } */
-  function clean(rawRows, ctx) {
+  function clean(rawRows, ctx, splitKeys) {
     const match = IT.typeMatcher(ctx.typeAliases || []);
     const start = +(String(ctx.season || '').slice(0, 4)) || 0;
     const canon = s => (ctx.clubSpellings && ctx.clubSpellings.get(s.toLowerCase())) || s;
@@ -293,14 +293,20 @@
       const by = +ry || (ctx.birthYears && ctx.birthYears.get(cr.pk)) || 0;
       if (by && start && MAXAGE[cr.lvl] != null && (start - by) > MAXAGE[cr.lvl]) rowFlags.push({ level: 'warn', msg: `Born ${by}: too old for ${cr.lvl} in ${ctx.season}` });
       if (by && cr.grad && !(+cr.grad - by >= 16 && +cr.grad - by <= 20)) rowFlags.push({ level: 'warn', msg: `Grad ${cr.grad} does not fit birth year ${by}` });
-      const tkey = `${cr.club}|${cr.lvl}|${cr.squad}`;
+      const baseKey = `${cr.club}|${cr.lvl}|${cr.squad}`, tkey = (splitKeys && splitKeys.has(baseKey)) ? `${baseKey}|${normKey(cr.rawTeam)}` : baseKey;
       let c = byKey.get(tkey);
-      if (!c) { c = { key: tkey, club: cr.club, lvl: cr.lvl, squad: cr.squad, prep: false, raws: new Set(), levels: new Set(), tourneys: new Set(), players: new Map(), dupes: [], unmatchedOrg: !hit && !!IT.stripTags(r.Team), hit }; byKey.set(tkey, c); }
+      if (!c) { c = { key: tkey, split: tkey !== baseKey, club: cr.club, lvl: cr.lvl, squad: cr.squad, prep: false, raws: new Set(), levels: new Set(), tourneys: new Set(), players: new Map(), dupes: [], unmatchedOrg: !hit && !!IT.stripTags(r.Team), hit }; byKey.set(tkey, c); }
       if (cr.prep) c.prep = true; c.raws.add(cr.rawTeam); if (cr.rawLevel) c.levels.add(cr.rawLevel); c.tourneys.add(cr.tk);
       const prev = c.players.get(cr.pk);
       if (prev) { c.dupes.push(cr.name); FIELDS.forEach(f => { const k = { n: 'n', ry: 'yob', rg: 'grad', rp: 'pos', dob: 'dob', school: 'school', shot: 'shot', state: 'state', ht: 'ht', home: 'home', commit: 'commit' }[f]; if (!prev.row[k] && cr[k]) prev.row[k] = cr[k]; }); prev.flags.push(...rowFlags); }
       else c.players.set(cr.pk, { row: cr, flags: rowFlags, src: r._src });
     });
+    // Two club rosters whose labels collapse to the same club + level (e.g. "Shattuck St. Mary's 19 - Prep" and "Shattuck St. Mary's" 19U, which is really the #2 team):
+    // when that makes one oversize "team" built from more than one pasted team label, read each label as its own team and let the roster-overlap matching find the right one on file.
+    if (!splitKeys) {
+      const big = new Set(); byKey.forEach((c, k) => { if (c.raws.size > 1 && c.players.size > MAX_ROSTER) big.add(k); });
+      if (big.size) return clean(rawRows, ctx, big);
+    }
     const teams = [];
     for (const c of byKey.values()) {
       const players = [], votes = {};
@@ -319,6 +325,7 @@
       const teamFlags = [];
       Object.keys(dupNums).forEach(n => { if (dupNums[n].length > 1) teamFlags.push({ level: 'warn', msg: `Jersey #${n} appears for ${dupNums[n].join(' and ')}` }); });
       if (players.length > MAX_ROSTER) teamFlags.push({ level: 'warn', msg: `${players.length} players is more than the ${MAX_ROSTER}-player maximum: two rosters pasted together, or one twice?` });
+      if (c.split) teamFlags.push({ level: 'info', msg: `Read as its own team because the paste labels it "${[...c.raws].join(', ')}" (the same club and level as another team in the paste)` });
       if (c.dupes.length) teamFlags.push({ level: 'info', msg: `Listed twice in the paste and merged: ${c.dupes.join(', ')}` });
       if (c.unmatchedOrg) teamFlags.push({ level: 'info', msg: `"${c.club}" has no Type-table entry; the club name is used as typed` });
       if (!['14U', '16U', '19U', 'U15', 'U18', 'U22'].includes(c.lvl)) teamFlags.push({ level: 'warn', msg: `Level "${c.lvl}" is not one of 14U/16U/19U (US) or U15/U18/U22 (Canada)` });
