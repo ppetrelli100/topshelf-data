@@ -188030,6 +188030,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Middlesex Islanders 16U",
+      "country": "US",
+      "club": "Middlesex Islanders",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Middlesex Islanders 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "pietrzak|rose",
+          "n": "3",
+          "name": "Rose Pietrzak",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bissonnette|savannah",
+          "n": "8",
+          "name": "Savannah Bissonnette",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "koehn|kaliway",
+          "n": "9",
+          "name": "Kaliway Koehn",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "michaels|kendra",
+          "n": "84",
+          "name": "Kendra Michaels",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "anderson|samantha",
+          "n": "88",
+          "name": "Samantha Anderson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "courchesne|sophia",
+          "n": "2",
+          "name": "Sophia Courchesne",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boudreau|margaret",
+          "n": "5",
+          "name": "Maggie Boudreau",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcmanus|madelyn",
+          "n": "6",
+          "name": "Madelyn McManus",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "spencer|estella",
+          "n": "7",
+          "name": "Stella Spencer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "price|julia",
+          "n": "10",
+          "name": "Julia Price",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "radford|jaylee",
+          "n": "11",
+          "name": "Jaylee Radford",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "durant|alexia",
+          "n": "12",
+          "name": "Alexia Durant",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "howard|brooke",
+          "n": "13",
+          "name": "Brooke Howard",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "trainor|mackenzie",
+          "n": "19",
+          "name": "Mackenzie Trainor",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ford|carah",
+          "n": "20",
+          "name": "Carah Ford",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cicolini|samantha",
+          "n": "21",
+          "name": "Samantha Cicolini",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "prisco|gianna",
+          "n": "22",
+          "name": "Gianna Prisco",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dixon|jillian",
+          "n": "28",
+          "name": "Jillian Dixon",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "griffis|claire",
+          "n": "40",
+          "name": "Claire Griffis",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
