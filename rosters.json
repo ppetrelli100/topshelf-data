@@ -184020,6 +184020,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Dallas Stars 19U",
+      "country": "US",
+      "club": "Dallas Stars",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Dallas Stars Elite 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "markusson|kezia",
+          "n": "14",
+          "name": "Kezia Markusson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "olson|emma",
+          "n": "20",
+          "name": "Emma Olson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zerby|angelina",
+          "n": "24",
+          "name": "Angelina Zerby",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "frerichs|ryden",
+          "n": "25",
+          "name": "Ryden Frerichs",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cain|avery",
+          "n": "5",
+          "name": "Avery Cain",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grim|taylor",
+          "n": "13",
+          "name": "Taylor Grim",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "burg|carrington",
+          "n": "15",
+          "name": "Carrington Burg",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "linstrot|mia",
+          "n": "21",
+          "name": "Mia Linstrot",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sgro|julianna",
+          "n": "27",
+          "name": "Julianna Sgro",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shavelson|ashlynn",
+          "n": "29",
+          "name": "Ashlynn Shavelson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bruce|sutton",
+          "n": "43",
+          "name": "Sutton Bruce",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hahn|mila",
+          "n": "88",
+          "name": "Mila Hahn",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "anderson|maecyn",
+          "n": "93",
+          "name": "Maecyn Anderson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "devlin|morgan",
+          "n": "96",
+          "name": "Morgan Devlin",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thomason|anna",
+          "n": "97",
+          "name": "Anna Thomason",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcgee|aoife",
+          "n": "1",
+          "name": "Aoife McGee",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "christensen|peyton",
+          "n": "40",
+          "name": "Peyton Christensen",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
