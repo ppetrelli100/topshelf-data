@@ -187407,6 +187407,403 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Milwaukee Junior Admirals 16U",
+      "country": "US",
+      "club": "Milwaukee Junior Admirals",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Milwaukee Jr. Admirals 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "ahlgrim|reese",
+          "n": "3",
+          "name": "Reese Ahlgrim",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "abdo|caroline",
+          "n": "4",
+          "name": "Caroline Abdo",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "novy|violet",
+          "n": "6",
+          "name": "Violet Novy",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kloskey|lillian",
+          "n": "13",
+          "name": "Lily Kloskey",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grant|grace",
+          "n": "16",
+          "name": "Grace Grant",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcmillen|alayna",
+          "n": "7",
+          "name": "Alayna McMillen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wroblewski|norah",
+          "n": "8",
+          "name": "Norah Wroblewski",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "peach|alexis",
+          "n": "9",
+          "name": "Alexis Peach",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "swanson|zoe",
+          "n": "11",
+          "name": "Zoe Swanson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reindl|everleigh",
+          "n": "12",
+          "name": "Everleigh Reindl",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "seeger|charlotte",
+          "n": "17",
+          "name": "Charlotte Seeger",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fleming|audrey",
+          "n": "21",
+          "name": "Audrey Fleming",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "effertz|kenzie",
+          "n": "25",
+          "name": "Kenzie Effertz",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duncan|aria",
+          "n": "28",
+          "name": "Aria Duncan",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carlstrom|grace",
+          "n": "43",
+          "name": "Grace Carlstrom",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ulleweit|madelyn",
+          "n": "37",
+          "name": "Madelyn Ulleweit",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "krogstad|bennett",
+          "n": "38",
+          "name": "Bennett Krogstad",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Team Long Island 16U",
+      "country": "US",
+      "club": "Team Long Island",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Team Long Island 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "whelan|claire",
+          "n": "7",
+          "name": "Claire Whelan",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "polk|delilah",
+          "n": "9",
+          "name": "Delilah Polk",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "benoit|roxanne",
+          "n": "11",
+          "name": "Roxanne Benoit",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boccard|estella",
+          "n": "13",
+          "name": "Stella Boccard",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sigler|max",
+          "n": "15",
+          "name": "Max Sigler",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mott|madelin",
+          "n": "16",
+          "name": "Madelin Mott",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "oneill|rory",
+          "n": "3",
+          "name": "Rory ONeill",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ziegler|lilianna",
+          "n": "10",
+          "name": "Lilianna Ziegler",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kern|lillian",
+          "n": "18",
+          "name": "Lily Kern",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "esposito|angelina",
+          "n": "19",
+          "name": "Angelina Esposito",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wyttenbach|cameryn",
+          "n": "22",
+          "name": "Cameryn Wyttenbach",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shields|vivienne",
+          "n": "55",
+          "name": "Vivienne Shields",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cummings|kristen",
+          "n": "77",
+          "name": "Kristen Cummings",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dechiaro|madison",
+          "n": "96",
+          "name": "Madison DeChiaro",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "parker|charlotte",
+          "n": "30",
+          "name": "Charlotte Parker",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pagano|austyn",
+          "n": "33",
+          "name": "Austyn Pagano",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
