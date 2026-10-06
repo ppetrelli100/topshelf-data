@@ -3,7 +3,8 @@
   "description": "Corrections queued from the Master Viewer. tools/apply_corrections.js applies them to the source files (every row of that player in that source), then moves each applied one from \"corrections\" (the queue) to \"applied\" (history). Rebuild from the Pipeline tab.",
   "corrections": [
     {"source": "tourn", "personkey": "vaszily|addison", "field": "Name", "from": "Addison Vaszily", "to": "Adds Vaszily", "note": "Teams tab: Shattuck-St. Mary's 19-2", "added": "2026-10-05"},
-    {"source": "tourn", "personkey": "weaver|cynnim", "field": "Name", "from": "Cynnim Weaver", "to": "Cynnimin Weaver", "note": "Teams tab: Shattuck-St. Mary's 19-2", "added": "2026-10-06"}
+    {"source": "tourn", "personkey": "weaver|cynnim", "field": "Name", "from": "Cynnim Weaver", "to": "Cynnimin Weaver", "note": "Teams tab: Shattuck-St. Mary's 19-2", "added": "2026-10-06"},
+    {"source": "tourn", "personkey": "silwosky|kaysi", "field": "Name", "from": "Kaysi Silwosky", "to": "Kaysi Silworsky", "note": "Teams tab: Rink Hockey Academy Winnipeg U18", "added": "2026-10-06"}
   ],
   "applied": [
     {"source": "tourn", "personkey": "orizzoti|gia", "field": "Name", "from": "Gia Orizzoti", "to": "Gia Orizotti", "added": "2026-10-04", "applied": "2026-10-04"}
