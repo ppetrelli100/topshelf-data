@@ -185754,6 +185754,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Princeton Tiger Lilies 19U",
+      "country": "US",
+      "club": "Princeton Tiger Lilies",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Princeton Tiger Lilies 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "mittnacht|april",
+          "n": "2",
+          "name": "April Mittnacht",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bahe|gianna",
+          "n": "4",
+          "name": "Gianna Bahe",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dunn|ella",
+          "n": "5",
+          "name": "Ella Dunn",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mainwaring|corinne",
+          "n": "6",
+          "name": "Corinne Mainwaring",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "garmise|sofia",
+          "n": "7",
+          "name": "Sofia Garmise",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "coppolino|isabella",
+          "n": "10",
+          "name": "Isabella Coppolino",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nolan|isabel",
+          "n": "11",
+          "name": "Isabel Nolan",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wiedenmayer|beatrix",
+          "n": "13",
+          "name": "Beatrix Wiedenmayer",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "egan|meredith",
+          "n": "14",
+          "name": "Meredith Egan",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sokol|sabrina",
+          "n": "17",
+          "name": "Sabrina Sokol",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mittnacht|allison",
+          "n": "19",
+          "name": "Allison Mittnacht",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bennett|kiana",
+          "n": "24",
+          "name": "Kiana Bennett",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "baird|addisyn",
+          "n": "26",
+          "name": "Addisyn Baird",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wagner|nadia",
+          "n": "28",
+          "name": "Nadia Wagner",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "davidson|taylor",
+          "n": "36",
+          "name": "Taylor Davidson",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "leonards|matyas",
+          "n": "52",
+          "name": "Matyas Leonards",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "blanchard|lilah",
+          "n": "86",
+          "name": "Lilah Blanchard",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hasen|serena",
+          "n": "91",
+          "name": "Serena Hasen",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yokota|mika",
+          "n": "30",
+          "name": "Mika Yokota",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "niheu|siena",
+          "n": "31",
+          "name": "Siena Niheu",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
