@@ -147362,22 +147362,30 @@
         "U22"
       ],
       "raw": [
-        "OHA Tardiff U22AA"
+        "OHA Tardiff U22AA",
+        "Ontario Hockey Academy (Tardiff) U22"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
           "pk": "zakova|ema",
-          "n": "12",
+          "n": "98",
           "name": "Ema Zakova",
           "ry": "",
-          "rg": "",
+          "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "n": [
+              "12"
+            ]
+          }
         },
         {
           "pk": "nagle|caylee",
@@ -147387,7 +147395,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -147395,21 +147404,11 @@
           "n": "22",
           "name": "Addison Gray",
           "ry": "2008",
-          "rg": "",
-          "rp": "D",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "khoroshilova|sasha",
-          "n": "39",
-          "name": "Sasha Khoroshilova",
-          "ry": "2011",
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -147417,11 +147416,65 @@
           "n": "85",
           "name": "Michaela Letasi",
           "ry": "2009",
-          "rg": "2027",
+          "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rg": [
+              "2027"
+            ]
+          }
+        },
+        {
+          "pk": "fausch|alicia",
+          "n": "13",
+          "name": "Alicia Fausch",
+          "ry": "2009",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "F"
+            ]
+          }
+        },
+        {
+          "pk": "gyula|rebeka",
+          "n": "7",
+          "name": "Rebeka Gyula",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
           ]
+        },
+        {
+          "pk": "khoroshilova|sasha",
+          "n": "39",
+          "name": "Sasha Khoroshilova",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rg": [
+              "2027"
+            ],
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "lavallee|cali",
@@ -147431,18 +147484,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "fausch|alicia",
-          "n": "13",
-          "name": "Alicia Fausch",
-          "ry": "2009",
-          "rg": "2028",
-          "rp": "F",
-          "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -147461,11 +147504,17 @@
           "n": "17",
           "name": "Abygail Marsolais",
           "ry": "2010",
-          "rg": "2027",
+          "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rg": [
+              "2027"
+            ]
+          }
         },
         {
           "pk": "poindl|charleen",
@@ -147475,7 +147524,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -147497,7 +147547,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -147516,10 +147567,11 @@
           "n": "70",
           "name": "Gaby Lacna",
           "ry": "2007",
-          "rg": "",
+          "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -147527,10 +147579,11 @@
           "n": "72",
           "name": "Irina Mordanova",
           "ry": "2005",
-          "rg": "",
+          "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -147538,32 +147591,72 @@
           "n": "79",
           "name": "Sophie DeDobbelaer",
           "ry": "2009",
-          "rg": "2028",
+          "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rg": [
+              "2028"
+            ]
+          }
         },
         {
           "pk": "han|yuan",
           "n": "89",
           "name": "Yuan Han",
           "ry": "2008",
-          "rg": "2028",
+          "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rg": [
+              "2028"
+            ]
+          }
         },
         {
           "pk": "christensen|teresa",
           "n": "96",
           "name": "Teresa Christensen",
           "ry": "2009",
-          "rg": "2029",
+          "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rg": [
+              "2029"
+            ]
+          }
+        },
+        {
+          "pk": "roegepetersen|filippa",
+          "n": "29",
+          "name": "Filippa Roege Petersen",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dawson|danika",
+          "n": "84",
+          "name": "Danika Dawson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -147571,10 +147664,11 @@
           "n": "33",
           "name": "Anna Horakova",
           "ry": "2008",
-          "rg": "",
+          "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -147582,11 +147676,17 @@
           "n": "35",
           "name": "Noemie Cote",
           "ry": "2008",
-          "rg": "2026",
+          "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rg": [
+              "2026"
+            ]
+          }
         }
       ]
     },
