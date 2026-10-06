@@ -1140,7 +1140,7 @@
     "country": "US"
   },
   {
-    "pattern": "^(detroit\\s*)?(honeybaked)\\s*(girls)?$",
+    "pattern": "^(detroit\\s*)?(honeybaked|hb\\s*detroit)\\s*(girls)?$",
     "type": "CLUB",
     "friendly": "HoneyBaked",
     "country": "US"
@@ -4299,6 +4299,72 @@
     "pattern": "^cambridge$",
     "type": "CLUB",
     "friendly": "Cambridge Roadrunners",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^bluewater$",
+    "type": "CLUB",
+    "friendly": "Bluewater",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^hamilton$",
+    "type": "CLUB",
+    "friendly": "Hamilton",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^kitchener$",
+    "type": "CLUB",
+    "friendly": "Kitchener",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^niagara$",
+    "type": "CLUB",
+    "friendly": "Niagara Rapids",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^north\\s*bay$",
+    "type": "CLUB",
+    "friendly": "North Bay",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^saugeen\\s*-?\\s*maitland$",
+    "type": "CLUB",
+    "friendly": "Saugeen-Maitland",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^sault\\s*ste\\.?\\s*marie$",
+    "type": "CLUB",
+    "friendly": "Sault Ste Marie",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^st\\.?\\s*catharines$",
+    "type": "CLUB",
+    "friendly": "St Catharines",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^windsor$",
+    "type": "CLUB",
+    "friendly": "Windsor",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^windsor\\s*southwest$",
+    "type": "CLUB",
+    "friendly": "Windsor Southwest",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^fort\\s*erie\\s*(?:international\\s*hockey\\s*academy|ia)$",
+    "type": "CLUB",
+    "friendly": "Fort Erie IA",
     "country": "CAN"
   }
 ]

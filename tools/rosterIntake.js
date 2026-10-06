@@ -201,6 +201,7 @@
   function levelFromText(t) {
     const s = norm(t); let m = s.match(/\b(U\s?(1[0-9]|2[0-2])(?:AAA|AA|A|B)?)\b/i); if (m) return m[1].replace(/\s/g, '').toUpperCase();
     m = s.match(/\b((1[0-9]|2[0-2])\s?U(?:AAA|AA|A|B)?)\b/i); if (m) return m[1].replace(/\s/g, '').toUpperCase();
+    m = s.match(/\b((?:1[0-9]|2[0-2])(?:AAA|AA|A))\b/i); if (m) return 'U' + m[1].toUpperCase();   // "18AA" with no U
     m = s.match(/\b(1[0-9]|2[0-2])\s*-\s*[12]\b/); if (m) return m[1] + 'U';
     return '';
   }
