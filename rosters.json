@@ -183816,6 +183816,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "San Jose Jr. Sharks 16U",
+      "country": "US",
+      "club": "San Jose Jr. Sharks",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "San Jose Jr. Sharks 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "eidt|margaret",
+          "n": "2",
+          "name": "Margaret Eidt",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dejelo|trinity",
+          "n": "3",
+          "name": "Trinity Dejelo",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sawulski|ella",
+          "n": "10",
+          "name": "Ella Sawulski",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martinez|athena",
+          "n": "32",
+          "name": "Athena Martinez",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beckmann|yimei",
+          "n": "50",
+          "name": "Yimei Beckmann",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "petkewich|amelie",
+          "n": "62",
+          "name": "Amelie Petkewich",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "casas|abigail",
+          "n": "6",
+          "name": "Abigail Casas",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|giulia",
+          "n": "11",
+          "name": "Giulia Smith",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "enquist|maja",
+          "n": "22",
+          "name": "Maja Enquist",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lucas|corinne",
+          "n": "26",
+          "name": "Corinne Lucas",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tanabe|josephine",
+          "n": "40",
+          "name": "Josie Tanabe",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "loof|amarie",
+          "n": "52",
+          "name": "Amarie Loof",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martinez|sierra",
+          "n": "64",
+          "name": "Sierra Martinez",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zhao|rebecca",
+          "n": "85",
+          "name": "Rebecca Zhao",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yatman|eleni",
+          "n": "86",
+          "name": "Eleni Yatman",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bernstein|noa",
+          "n": "29",
+          "name": "Noa Bernstein",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yang|madelin",
+          "n": "30",
+          "name": "Madelin Yang",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
