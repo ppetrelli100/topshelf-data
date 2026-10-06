@@ -183106,6 +183106,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Valley Jr. Warriors 16U",
+      "country": "US",
+      "club": "Valley Jr. Warriors",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Valley Jr. Warriors 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "esposito|olivia",
+          "n": "7",
+          "name": "Olivia Esposito",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lacey|ava",
+          "n": "5",
+          "name": "Ava Lacey",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lucier|avery",
+          "n": "6",
+          "name": "Avery Lucier",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "oconnor|mikaylah",
+          "n": "10",
+          "name": "Mikaylah O'Connor",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "poirier|emilie",
+          "n": "23",
+          "name": "Emilie Poirier",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "trytek|lydia",
+          "n": "2",
+          "name": "Lydia Trytek",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "averill|elizabeth",
+          "n": "16",
+          "name": "Liz Averill",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bergeron|riley",
+          "n": "15",
+          "name": "Riley Bergeron",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brille|sabrina",
+          "n": "25",
+          "name": "Sabrina Brille",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "clancy|kylie",
+          "n": "33",
+          "name": "Kylie Clancy",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "coskren|aleesa",
+          "n": "27",
+          "name": "Aleesa Coskren",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "giampa|olivia",
+          "n": "21",
+          "name": "Olivia Giampa",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hutchins|avery",
+          "n": "22",
+          "name": "Avery Hutchins",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "insogna|peyton",
+          "n": "34",
+          "name": "Peyton Insogna",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laganas|eleanor",
+          "n": "12",
+          "name": "Ellie Laganas",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mckenna|riley",
+          "n": "20",
+          "name": "Riley McKenna",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "warrington|caroline",
+          "n": "11",
+          "name": "Caroline Warrington",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "weaver|reese",
+          "n": "19",
+          "name": "Reese Weaver",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "drew|erin",
+          "n": "31",
+          "name": "Erin Drew",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jonas|heidi",
+          "n": "1",
+          "name": "Heidi Jonas",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
