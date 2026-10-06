@@ -181806,6 +181806,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Calgary Fire U22",
+      "country": "CAN",
+      "club": "Calgary Fire",
+      "lvl": "U22",
+      "levels": [
+        "U22"
+      ],
+      "raw": [
+        "Calgary Fire U22"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "dallyn|olivia",
+          "n": "2",
+          "name": "Olivia Dallyn",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yeo|kayla",
+          "n": "4",
+          "name": "Kayla Yeo",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "olson|kendra",
+          "n": "6",
+          "name": "Kendra Olson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brewer|claire",
+          "n": "12",
+          "name": "Claire Brewer",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "neilly|brynn",
+          "n": "17",
+          "name": "Brynn Neilly",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcnichol|claira",
+          "n": "24",
+          "name": "Claira McNichol",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "blouin|alix",
+          "n": "7",
+          "name": "Alix Blouin",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lurie|eva",
+          "n": "8",
+          "name": "Eva Lurie",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "li|tansey",
+          "n": "9",
+          "name": "Tansey Li",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mueller|olivia",
+          "n": "11",
+          "name": "Olivia Mueller",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lazzari|jasmine",
+          "n": "14",
+          "name": "Jasmine Lazzari",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kryway|ainsley",
+          "n": "16",
+          "name": "Ainsley Kryway",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "murphy|liliana",
+          "n": "18",
+          "name": "Liliana Murphy",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brassard|makenna",
+          "n": "19",
+          "name": "Makenna Brassard",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcclements|allison",
+          "n": "20",
+          "name": "Allie McClements",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "meyer|paige",
+          "n": "21",
+          "name": "Paige Meyer",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "watson|kinsley",
+          "n": "22",
+          "name": "Kinsley Watson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fleming|kaia",
+          "n": "23",
+          "name": "Kaia Fleming",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sloane|morgan",
+          "n": "1",
+          "name": "Morgan Sloane",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hilliard|kamryn",
+          "n": "33",
+          "name": "Kamryn Hilliard",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
