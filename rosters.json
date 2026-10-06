@@ -147312,7 +147312,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "8/31/2009"
+          "dob": "8/31/2009",
+          "state": "MB",
+          "ht": "5-7",
+          "home": "Dauphin"
         },
         {
           "pk": "starr|prestley",
@@ -147325,7 +147328,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "11/4/2010"
+          "dob": "11/4/2010",
+          "state": "SK",
+          "ht": "6-0",
+          "home": "Saskatoon"
         },
         {
           "pk": "polvere|amy",
@@ -147338,7 +147344,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "4/1/2009"
+          "dob": "4/1/2009",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Penticton"
         },
         {
           "pk": "zalaski|meagan",
@@ -147351,7 +147360,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "7/2/2010"
+          "dob": "7/2/2010",
+          "state": "AB",
+          "ht": "5-9",
+          "home": "Edmonton"
         },
         {
           "pk": "dupuis|piper",
@@ -147364,7 +147376,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "1/29/2012"
+          "dob": "1/29/2012",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Penticton"
         },
         {
           "pk": "mowbray|gracie",
@@ -147377,7 +147392,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/26/2010"
+          "dob": "2/26/2010",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Terrace"
         },
         {
           "pk": "kempers|emily",
@@ -147390,7 +147408,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "7/12/2011"
+          "dob": "7/12/2011",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Tumbler Ridge"
         },
         {
           "pk": "abrametz|claire",
@@ -147403,7 +147424,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "3/12/2009"
+          "dob": "3/12/2009",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Clavet"
         },
         {
           "pk": "lyseng|rylee",
@@ -147416,7 +147440,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "3/13/2009"
+          "dob": "3/13/2009",
+          "state": "AB",
+          "ht": "5-8",
+          "home": "Calgary"
         },
         {
           "pk": "warnick|shea",
@@ -147429,7 +147456,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "8/18/2009"
+          "dob": "8/18/2009",
+          "state": "MB",
+          "ht": "5-4",
+          "home": "Winnipeg"
         },
         {
           "pk": "wild|hayden",
@@ -147442,7 +147472,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/10/2009"
+          "dob": "2/10/2009",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Penticton"
         },
         {
           "pk": "mellus|raiya",
@@ -147455,7 +147488,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "9/1/2010"
+          "dob": "9/1/2010",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "Kelowna"
         },
         {
           "pk": "getzinger|deyus",
@@ -147468,7 +147504,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/23/2010"
+          "dob": "2/23/2010",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Swift Current"
         },
         {
           "pk": "harvey|kaitlyn",
@@ -147481,7 +147520,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "2/28/2009"
+          "dob": "2/28/2009",
+          "state": "MB",
+          "ht": "5-7",
+          "home": "Winnipeg"
         },
         {
           "pk": "baker|taye",
@@ -147494,7 +147536,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "3/15/2009"
+          "dob": "3/15/2009",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Swift Current"
         },
         {
           "pk": "riley|taylor",
@@ -147507,7 +147552,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "10/31/2010"
+          "dob": "10/31/2010",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "Kamloops"
         },
         {
           "pk": "crowe|edan",
@@ -147520,7 +147568,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "3/31/2009"
+          "dob": "3/31/2009",
+          "state": "AB",
+          "ht": "5-8",
+          "home": "Okotoks"
         },
         {
           "pk": "hopkins|silver",
@@ -147533,7 +147584,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "1/28/2010"
+          "dob": "1/28/2010",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Saskatoon"
         },
         {
           "pk": "janzen|teagan",
@@ -147546,7 +147600,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "6/21/2009"
+          "dob": "6/21/2009",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "West Kelowna"
         },
         {
           "pk": "schell|margaret",
@@ -147559,7 +147616,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "12/8/2008"
+          "dob": "12/8/2008",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Yorkton"
         }
       ]
     },
