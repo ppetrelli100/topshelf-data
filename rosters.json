@@ -194816,6 +194816,199 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Olympiques Outaouais U18",
+      "country": "CAN",
+      "club": "Olympiques Outaouais",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Olympiques Outaouais U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "vallee|leonie",
+          "n": "60",
+          "name": "Leonie Vallee",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "auger|sofiane",
+          "n": "41",
+          "name": "Sofiane Auger",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cote|alyssa",
+          "n": "49",
+          "name": "Alyssa Cote",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rosemoreau|cecylia",
+          "n": "45",
+          "name": "Cecylia Rose Moreau",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "belzile|evemarie",
+          "n": "",
+          "name": "Eve-Marie Belzile",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boisvert|florence",
+          "n": "43",
+          "name": "Florence Boisvert",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shillington|isabella",
+          "n": "51",
+          "name": "Isabella Shillington",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gauthier|lilyane",
+          "n": "53",
+          "name": "Lilyane Gauthier",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rankinkistabish|madeline",
+          "n": "58",
+          "name": "Maddy Rankin-Kistabish",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boucher|marylou",
+          "n": "48",
+          "name": "Marylou Boucher",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "leblanc|milyka",
+          "n": "42",
+          "name": "Milyka Leblanc",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nadeau|mya",
+          "n": "55",
+          "name": "Mya Nadeau",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gariepy|sarah",
+          "n": "50",
+          "name": "Sarah Gariepy",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boutin|sarahmaude",
+          "n": "46",
+          "name": "Sarah-Maude Boutin",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rivet|sofia",
+          "n": "47",
+          "name": "Sofia Rivet",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mosher|estella",
+          "n": "52",
+          "name": "Stella Mosher",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
