@@ -126291,10 +126291,10 @@
       ]
     },
     {
-      "team": "Calgary International Hockey Acaemy 18U",
+      "team": "Calgary International Hockey Academy U18",
       "country": "CAN",
-      "club": "CIHA",
-      "lvl": "18U",
+      "club": "Calgary International Hockey Academy",
+      "lvl": "U18",
       "levels": [
         "U22",
         "18U",
@@ -126303,7 +126303,8 @@
       "raw": [
         "CIHA",
         "Calgary International Hockey Academy",
-        "Calgary International Hockey Academy U18 Prep"
+        "Calgary International Hockey Academy U18 Prep",
+        "Calgary International Hockey Academy U18"
       ],
       "tourneys": [
         "Stoney",
@@ -126340,7 +126341,7 @@
           "dob": "1/27/2010",
           "state": "AB",
           "ht": "5-6",
-          "home": "Edmonton"
+          "home": "Canmore"
         },
         {
           "pk": "latimer|ella",
@@ -126353,7 +126354,7 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "3/28/2010",
+          "dob": "3/28/2011",
           "state": "AB",
           "ht": "5-4",
           "home": "Olds"
@@ -126482,7 +126483,7 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "11/30/2010",
+          "dob": "11/30/2011",
           "state": "AB",
           "ht": "5-5",
           "home": "Calgary"
@@ -126536,22 +126537,6 @@
           "home": "Calgary"
         },
         {
-          "pk": "odell|josephine",
-          "n": "19",
-          "name": "Josie Odell",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "F",
-          "t": [
-            "Stoney",
-            "Misc"
-          ],
-          "dob": "9/10/2011",
-          "state": "AK",
-          "ht": "5-3",
-          "home": "Anchorage"
-        },
-        {
           "pk": "mah|talysa",
           "n": "20",
           "name": "Talysa Mah",
@@ -126581,7 +126566,7 @@
           "dob": "10/3/2010",
           "state": "AB",
           "ht": "5-2",
-          "home": "Airdrie"
+          "home": "Bearspaw"
         },
         {
           "pk": "mckay|reese",
@@ -126594,10 +126579,10 @@
             "Stoney",
             "Misc"
           ],
-          "dob": "1/1/2010",
+          "dob": "1/26/2010",
           "state": "AB",
           "ht": "5-5",
-          "home": "Airdrie"
+          "home": "Cochrane"
         },
         {
           "pk": "lhirondelle|brooke",
