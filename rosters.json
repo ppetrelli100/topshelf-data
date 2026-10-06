@@ -189265,6 +189265,370 @@
           ]
         }
       ]
+    },
+    {
+      "team": "New Jersey Bandits 16U",
+      "country": "US",
+      "club": "New Jersey Bandits",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "New Jersey Bandits 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "taylor|grace",
+          "n": "2",
+          "name": "Grace Taylor",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "adler|zoe",
+          "n": "4",
+          "name": "Zoe Adler",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kirk|madeline",
+          "n": "8",
+          "name": "Madeline Kirk",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcguire|eva",
+          "n": "9",
+          "name": "Eva McGuire",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "witmer|stephanie",
+          "n": "10",
+          "name": "Stephanie Witmer",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "clark|sydney",
+          "n": "13",
+          "name": "Sydney Clark",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lam|emma",
+          "n": "14",
+          "name": "Emma Lam",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "norton|teagen",
+          "n": "16",
+          "name": "Teagen Norton",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marino|harriett",
+          "n": "17",
+          "name": "Harriett Marino",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ziegler|chloe",
+          "n": "18",
+          "name": "Chloe Ziegler",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sachs|payton",
+          "n": "19",
+          "name": "Payton Sachs",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lam|chloe",
+          "n": "20",
+          "name": "Chloe Lam",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ferranti|violet",
+          "n": "23",
+          "name": "Violet Ferranti",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lewis|reaghan",
+          "n": "25",
+          "name": "Reaghan Lewis",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "harrison|shayne",
+          "n": "30",
+          "name": "Shayne Harrison",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jacobus|aubrianna",
+          "n": "31",
+          "name": "Aubrianna Jacobus",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Princeton Tiger Lilies 16U",
+      "country": "US",
+      "club": "Princeton Tiger Lilies",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Princeton Tiger Lilies 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "fitzpatrick|raina",
+          "n": "9",
+          "name": "Raina Fitzpatrick",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hall|tatum",
+          "n": "17",
+          "name": "Tatum Hall",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "miller|mackenzie",
+          "n": "19",
+          "name": "Mackenzie Miller",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "majors|lillian",
+          "n": "20",
+          "name": "Lily Majors",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hannaford|fiona",
+          "n": "21",
+          "name": "Fiona Hannaford",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moslin|alexis",
+          "n": "22",
+          "name": "Alexis Moslin",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "baile|avery",
+          "n": "25",
+          "name": "Avery Baile",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcneill|madison",
+          "n": "27",
+          "name": "Madison McNeill",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martinez|mackenzie",
+          "n": "44",
+          "name": "Mackenzie Martinez",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bulger|kinlea",
+          "n": "55",
+          "name": "Kinlea Bulger",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wang|margaret",
+          "n": "75",
+          "name": "Maggie Wang",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "goudy|isabella",
+          "n": "76",
+          "name": "Isabella Goudy",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brandt|madison",
+          "n": "88",
+          "name": "Madison Brandt",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sturm|maya",
+          "n": "28",
+          "name": "Maya Sturm",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
