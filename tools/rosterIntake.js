@@ -214,7 +214,7 @@
     if ((x = t.match(/^(\d{4})[-\/.](\d{1,2})[-\/.](\d{1,2})(?:[ T].*)?$/))) { y = +x[1]; m = +x[2]; d = +x[3]; }
     else if ((x = t.match(/^(\d{1,2})[-\/.](\d{1,2})[-\/.](\d{4})(?:[ T].*)?$/))) { y = +x[3]; m = +x[1]; d = +x[2]; if (m > 12 && d <= 12) { const z = m; m = d; d = z; } }
     else if ((x = t.match(/^([A-Za-z]{3})[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})$/)) && MONTHS[x[1].toLowerCase()]) { y = +x[3]; m = MONTHS[x[1].toLowerCase()]; d = +x[2]; }
-    else if ((x = t.match(/^(\d{1,2})\s+([A-Za-z]{3})[a-z]*\.?,?\s+(\d{4})$/)) && MONTHS[x[2].toLowerCase()]) { y = +x[3]; m = MONTHS[x[2].toLowerCase()]; d = +x[1]; }
+    else if ((x = t.match(/^(\d{1,2})[\s\/.-]+([A-Za-z]{3})[a-z]*\.?[\s\/.,-]+(\d{4})$/)) && MONTHS[x[2].toLowerCase()]) { y = +x[3]; m = MONTHS[x[2].toLowerCase()]; d = +x[1]; }   // 17 Nov 2010, 17/Nov/2010, 24-Sept-2010
     else if ((x = t.match(/^(\d{1,2})[-\/.](\d{1,2})[-\/.](\d{2,3})$/))) return { v: '', bad: true };
     else return { v: t, bad: false };   // some other shape: keep as typed
     if (!(y >= 1990 && y <= 2016) || m < 1 || m > 12 || d < 1 || d > 31) return { v: '', bad: true };
@@ -274,7 +274,9 @@
       const rep = emptyReport(), S = { RC, d1: ctx.d1, known: ctx.known || null, match, canon, report: rep };
       // country: explicit > Type table > Canadian province in the row > US
       const hit = match(IT.stripTags(r.Team));
-      let country = r.Country || (hit && hit.country) || countryFromState(norm(r.State)) || 'US';
+      // a player's country follows his/her HOMETOWN (a Canadian academy boards players from everywhere); the Type table's country is only the fallback, and it alone decides the level labels (U18/U22 vs 16U/19U)
+      const hmSt = RC.normalizeStateAndHometown(r.State, r.Hometown).state, hmP = RC.parseHometown(r.Hometown || ''), usSt = new Set(Object.values(RC.US_STATE_ABBR || {}));
+      let country = r.Country || (RC.CANADA_PROVINCE && Object.values(RC.CANADA_PROVINCE).includes(hmSt) ? 'CAN' : usSt.has(hmSt) ? 'US' : (['Europe', 'Asia'].includes(hmP.ctry) ? hmP.st : '')) || (hit && hit.country) || countryFromState(norm(r.State)) || 'US';
       const cr = IT.cleanRow(Object.assign({}, r, { Country: country }), idx, S);
       if (!cr) { summary.dropped++; flags.push({ src: r._src, name: r.Name, level: 'error', msg: `Unknown tournament "${r.Tourney}" (use Stoney, Pittsburgh, MNRosters, NIT or Misc)` }); return; }
       (r._notes || []).forEach(n => { if (n === 'accents stripped') summary.accents++; else if (n === 'case fixed') summary.recased++; else if (n === 'nickname removed') summary.nicknames++; else if (n === 'Last, First flipped') summary.flipped++; });
@@ -293,7 +295,7 @@
       const by = +ry || (ctx.birthYears && ctx.birthYears.get(cr.pk)) || 0;
       if (by && start && MAXAGE[cr.lvl] != null && (start - by) > MAXAGE[cr.lvl]) rowFlags.push({ level: 'warn', msg: `Born ${by}: too old for ${cr.lvl} in ${ctx.season}` });
       if (by && cr.grad && !(+cr.grad - by >= 16 && +cr.grad - by <= 20)) rowFlags.push({ level: 'warn', msg: `Grad ${cr.grad} does not fit birth year ${by}` });
-      const baseKey = `${cr.club}|${cr.lvl}|${cr.squad}`, tkey = (splitKeys && splitKeys.has(baseKey)) ? `${baseKey}|${normKey(cr.rawTeam)}` : baseKey;
+      const baseKey = `${cr.club}|${cr.lvl}|${cr.squad}`, tkey = (splitKeys && splitKeys.has(baseKey)) ? `${baseKey}|${normKey(cr.rawTeam)}|${normKey(cr.rawLevel || '')}` : baseKey;
       let c = byKey.get(tkey);
       if (!c) { c = { key: tkey, split: tkey !== baseKey, club: cr.club, lvl: cr.lvl, squad: cr.squad, prep: false, raws: new Set(), levels: new Set(), tourneys: new Set(), players: new Map(), dupes: [], unmatchedOrg: !hit && !!IT.stripTags(r.Team), hit }; byKey.set(tkey, c); }
       if (cr.prep) c.prep = true; c.raws.add(cr.rawTeam); if (cr.rawLevel) c.levels.add(cr.rawLevel); c.tourneys.add(cr.tk);
@@ -304,7 +306,7 @@
     // Two club rosters whose labels collapse to the same club + level (e.g. "Shattuck St. Mary's 19 - Prep" and "Shattuck St. Mary's" 19U, which is really the #2 team):
     // when that makes one oversize "team" built from more than one pasted team label, read each label as its own team and let the roster-overlap matching find the right one on file.
     if (!splitKeys) {
-      const big = new Set(); byKey.forEach((c, k) => { if (c.raws.size > 1 && c.players.size > MAX_ROSTER) big.add(k); });
+      const big = new Set(); byKey.forEach((c, k) => { if ((c.raws.size > 1 || c.levels.size > 1) && c.players.size > MAX_ROSTER) big.add(k); });
       if (big.size) return clean(rawRows, ctx, big);
     }
     const teams = [];

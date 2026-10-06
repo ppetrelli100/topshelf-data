@@ -135,6 +135,7 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
 // 12. birth dates: any common format is brought to M/D/YYYY, so an ISO date does not conflict with the same date on file; an impossible year is dropped
 { const n = x => RI.normDob(x);
   ok(n('2008-12-02').v === '12/2/2008' && n('12/02/2008').v === '12/2/2008' && n('12/2/2008').v === '12/2/2008' && n('2008-12-02 00:00:00').v === '12/2/2008' && n('Dec 2, 2008').v === '12/2/2008', 'T12 formats normalised', [n('2008-12-02'), n('12/02/2008'), n('Dec 2, 2008')]);
+  ok(n('17/Nov/2010').v === '11/17/2010' && n('24/Sept/2010').v === '9/24/2010' && n('7 Mar 2010').v === '3/7/2010' && n('06-Jan-2009').v === '1/6/2009', 'T12 day/Mon/year formats', [n('17/Nov/2010'), n('24/Sept/2010')]);
   ok(n('01/31/0200').bad && n('01/31/0200').v === '' && n('2008').v === '2008', 'T12 bad year dropped, bare year kept');
   const { cl, raw } = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos', 'DOB'], ['DOB Club', '19U', '1', 'Ann Able', 'F', '2008-12-02'], ['DOB Club', '19U', '2', 'Bea Baker', 'F', '01/31/0200']]), {});
   const ps = cl.teams[0].players; ok(ps.find(p => p.name === 'Ann Able').dob === '12/2/2008' && !ps.find(p => p.name === 'Bea Baker').dob, 'T12 intake normalises / blanks', ps.map(p => p.dob));
@@ -144,10 +145,10 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
 
 // 13. near-duplicates also catch a nickname / short form of a first name (same surname, first names that start alike)
 { const mk = (n, name) => ({ pk: RC.makePersonKey(name), n, name, ry: 2009, rg: 2027, rp: 'D', t: ['Misc'] });
-  const on = { team: 'Nick Club 19U', country: 'US', club: 'Nick Club', lvl: '19U', players: [mk('2', 'Addison Vaszily'), mk('9', 'Sophia Monaco'), mk('8', 'Gianna Monaco')] };
-  const c = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos'], ['Nick Club', '19U', '2', 'Adds Vaszily', 'D'], ['Nick Club', '19U', '9', 'Sophia Monaco', 'F'], ['Nick Club', '19U', '8', 'Gianna Monaco', 'F']]), {}).cl.teams[0];
-  const cmp = RI.compare(on, c); ok(cmp.near.length === 1 && cmp.near[0].paste.name === 'Adds Vaszily' && cmp.near[0].onFile.name === 'Addison Vaszily', 'T13 Adds ~ Addison', cmp.near.map(n => n.paste.name + '~' + n.onFile.name));
-  const c2 = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos'], ['Nick Club', '19U', '2', 'Addison Vaszily', 'D'], ['Nick Club', '19U', '9', 'Sophia Monaco', 'F'], ['Nick Club', '19U', '8', 'Gianna Monaco', 'F']]), {}).cl.teams[0];
+  const on = { team: 'Nick Club 19U', country: 'US', club: 'Nick Club', lvl: '19U', players: [mk('2', 'Cynnim Weaver'), mk('9', 'Sophia Monaco'), mk('8', 'Gianna Monaco')] };
+  const c = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos'], ['Nick Club', '19U', '2', 'Cynnimin Weaver', 'D'], ['Nick Club', '19U', '9', 'Sophia Monaco', 'F'], ['Nick Club', '19U', '8', 'Gianna Monaco', 'F']]), {}).cl.teams[0];
+  const cmp = RI.compare(on, c); ok(cmp.near.length === 1 && cmp.near[0].paste.name === 'Cynnimin Weaver' && cmp.near[0].onFile.name === 'Cynnim Weaver', 'T13 Cynnimin ~ Cynnim', cmp.near.map(n => n.paste.name + '~' + n.onFile.name));
+  const c2 = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos'], ['Nick Club', '19U', '2', 'Cynnim Weaver', 'D'], ['Nick Club', '19U', '9', 'Sophia Monaco', 'F'], ['Nick Club', '19U', '8', 'Gianna Monaco', 'F']]), {}).cl.teams[0];
   ok(RI.compare(on, c2).near.length === 0, 'T13 sisters with different first names are not flagged'); }
 
 // 14. a name that differs only by a first-name alias (same personkey) is marked via 'personkey'; a capitalisation difference is not
@@ -163,5 +164,16 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
   const cl = run(tsv(rows), {}).cl, c1 = run(tsv(rows.slice(0, 13)), {}).cl;
   ok(cl.teams.length === 2 && cl.teams.every(t => t.players.length === 12 && t.teamFlags.some(f => /own team/.test(f.msg)) && !t.teamFlags.some(f => /more than the/.test(f.msg))), 'T15 split into two 12-player teams', cl.teams.map(t => t.team + ':' + t.players.length));
   ok(c1.teams.length === 1, 'T15 a single label is not split', c1.teams.length); }
+
+// 16. a player's country follows the hometown (a Canadian academy boards players from everywhere); the club's country decides the level labels
+{ const c = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos', 'Hometown'], ['Stanstead College', 'U18', '1', 'Ann Able', 'F', 'Gatineau, Quebec'], ['Stanstead College', 'U18', '2', 'Bea Baker', 'F', 'Newport, Vermont'], ['Stanstead College', 'U18', '3', 'Cy Carter', 'D', 'Linz, Austria'], ['Stanstead College', 'U18', '4', 'Di Dunn', 'D', 'Montreal, Quebec']]), { country: '' }).cl.teams[0];
+  const by = n => c.players.find(p => p.name === n);
+  ok(c.country === 'CAN' && c.lvl === 'U18' && c.team === 'Stanstead College U18', 'T16 Stanstead is a Canadian club: U18', [c.country, c.lvl, c.team]);
+  ok(!by('Ann Able').ctry && by('Bea Baker').ctry === 'US' && by('Cy Carter').ctry === 'Austria', 'T16 country tags follow the hometown', c.players.map(p => p.name + ':' + (p.ctry || '-'))); }
+
+// 17. the same split when the labels differ only in the Level column ("Stanstead" 18U and "Stanstead" 16U are both U18 at a Canadian club)
+{ const nm = (pre, n) => Array.from({ length: n }, (_, i) => pre + 'Player' + 'abcdefghijklmnopqrstuvwxyz'[i]);
+  const rows = [['Team', 'Level', 'No', 'Name', 'Pos'], ...nm('Ann', 12).map((n, i) => ['Stanstead U18', '18U', String(i + 1), n, 'F']), ...nm('Bea', 12).map((n, i) => ['Stanstead 16U', '16U', String(i + 1), n, 'F'])];
+  const cl = run(tsv(rows), { country: '' }).cl; ok(cl.teams.length === 2 && cl.teams.every(t => t.players.length === 12), 'T17 split by level column too', cl.teams.map(t => t.team + ':' + t.players.length)); }
 
 console.log(`\n${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

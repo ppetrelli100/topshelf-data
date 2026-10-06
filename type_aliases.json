@@ -4215,7 +4215,7 @@
     "pattern": "^stanstead\\s*(?:college\\s*)?(?:girls\\s*)?(?:prep\\s*)?$",
     "type": "ACADEMY",
     "friendly": "Stanstead College",
-    "country": "US"
+    "country": "CAN"
   },
   {
     "pattern": "^edge\\s*(school\\s*)?(mountaineers\\s*)?(prep)?$",
