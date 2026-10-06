@@ -196280,6 +196280,287 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Lindsay Surge U18",
+      "country": "CAN",
+      "club": "Lindsay Surge",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Lindsay Surge U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "eddy|isla",
+          "n": "21",
+          "name": "Isla Eddy",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "home": "Hammonds Plains",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hartnell|nora",
+          "n": "19",
+          "name": "Nora Hartnell",
+          "ry": "2012",
+          "rg": "",
+          "rp": "D",
+          "home": "Fall River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kim|isabelle",
+          "n": "7",
+          "name": "Isabelle Kim",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-3",
+          "home": "Fall River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mitchell|veronica",
+          "n": "6",
+          "name": "Veronica Mitchell",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-7",
+          "home": "Cole Harbour",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rossong|mackenzie",
+          "n": "25",
+          "name": "Mackenzie Rossong",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-6",
+          "home": "Lower Sackville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sparkes|maria",
+          "n": "12",
+          "name": "Maria Sparkes",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "home": "Dartmouth",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "buffett|gabrielle",
+          "n": "29",
+          "name": "Gabrielle Buffett",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-8",
+          "home": "Bedford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cormier|jaimee",
+          "n": "10",
+          "name": "Jaimee Cormier",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Dartmouth",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gould|alina",
+          "n": "18",
+          "name": "Alina Gould",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Beaverbank",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hartnell|rachel",
+          "n": "17",
+          "name": "Rachel Hartnell",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-9",
+          "home": "Fall River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "joseph|danica",
+          "n": "9",
+          "name": "Danica Joseph",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-2",
+          "home": "Bedford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "leckie|chloe",
+          "n": "14",
+          "name": "Chloe Leckie",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Porter's Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "maccormick|josephine",
+          "n": "27",
+          "name": "Josie Maccormick",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Dartmouth",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "maccormick|mya",
+          "n": "8",
+          "name": "Mya MacCormick",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-5",
+          "home": "Dartmouth",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mahoney|isla",
+          "n": "15",
+          "name": "Isla Mahoney",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "matthews|katelyn",
+          "n": "22",
+          "name": "Katelyn Matthews",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "home": "Cole Harbour",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "poirier|lacey",
+          "n": "20",
+          "name": "Lacey Poirier",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Porters Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robertson|nevaeh",
+          "n": "24",
+          "name": "Nevaeh Robertson",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-4",
+          "home": "Hammonds Plains",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sangster|alexandra",
+          "n": "11",
+          "name": "Alexandra Sangster",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-7",
+          "home": "Hammonds Plains",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "leblanc|rebecca",
+          "n": "31",
+          "name": "Rebecca Leblanc",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "ht": "5-4",
+          "home": "Beaverbank",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "murraychapman|jorja",
+          "n": "30",
+          "name": "Jorja Murray-Chapman",
+          "ry": "2011",
+          "rg": "",
+          "rp": "G",
+          "home": "Oakfield",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
