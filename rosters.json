@@ -192016,6 +192016,308 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Swift Current Wildcats U18",
+      "country": "CAN",
+      "club": "Swift Current Wildcats",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Swift Current Wildcats U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "kampen|reese",
+          "n": "4",
+          "name": "Reese Kampen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Rosetown",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|kennady",
+          "n": "5",
+          "name": "Kennady Smith",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Hazenmore",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mccleary|emily",
+          "n": "6",
+          "name": "Emily McCleary",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Swift Current",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "arntsen|piper",
+          "n": "12",
+          "name": "Piper Arntsen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Swift Current",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hillmer|charlize",
+          "n": "20",
+          "name": "Charlize Hillmer",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Assiniboia",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "baptist|rowyn",
+          "n": "24",
+          "name": "Rowyn Baptist",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Saskatoon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kempel|carly",
+          "n": "25",
+          "name": "Carly Kempel",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Moose Jaw",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "darby|kapri",
+          "n": "7",
+          "name": "Kapri Darby",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Swift Current",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rondeau|laynee",
+          "n": "10",
+          "name": "Laynee Rondeau",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Swift Current",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moorejagow|jalaa",
+          "n": "13",
+          "name": "Jalaa Moore Jagow",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Rosetown",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hilbig|hayden",
+          "n": "15",
+          "name": "Hayden Hilbig",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Saskatoon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "calkins|iralyn",
+          "n": "16",
+          "name": "Iralyn Calkins",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Kindersley",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "christiaens|stevie",
+          "n": "17",
+          "name": "Stevie Christiaens",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Eston",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kampen|harper",
+          "n": "18",
+          "name": "Harper Kampen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Rosetown",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "weinbender|eleanor",
+          "n": "19",
+          "name": "Ellie Weinbender",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Swift Current",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kovacs|chloe",
+          "n": "21",
+          "name": "Chloe Kovacs",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dutchak|sadie",
+          "n": "23",
+          "name": "Sadie Dutchak",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "irwin|kaleigha",
+          "n": "1",
+          "name": "Kaleigha Irwin",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Swift Current",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hagen|maddison",
+          "n": "30",
+          "name": "Maddison Hagen",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Swift Current",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
