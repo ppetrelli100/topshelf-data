@@ -28,6 +28,7 @@
     {"personkey": "wilson|eleonore", "field": "DOB", "value": "7/21/2009", "notes": "PM 10/3: keep NDC"},
     {"personkey": "belanger|eva", "field": "DOB", "value": "4/6/2011", "notes": "best guess: tourneys and EP agree; ProvRosters has day/month swapped"},
     {"personkey": "logan|reese", "field": "DOB", "value": "3/5/2006", "notes": "best guess: EP; ProvRosters looks day/month swapped (as with bouchard)"},
-    {"personkey": "mackinnon|jessica", "field": "DOB", "value": "11/2/2006", "notes": "best guess: EP; ProvRosters looks day/month swapped (as with bouchard)"}
+    {"personkey": "mackinnon|jessica", "field": "DOB", "value": "11/2/2006", "notes": "best guess: EP; ProvRosters looks day/month swapped (as with bouchard)"},
+    {"personkey": "hunter|hayley", "field": "College", "value": "", "notes": "Old-roster collision; real 2013 (Chicago Mission 14U) uncommitted, Cortland was a different Hayley Hunter"}
   ]
 }
