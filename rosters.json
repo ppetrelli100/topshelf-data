@@ -184690,6 +184690,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Boston Jr Eagles (Maroon) 19U",
+      "country": "US",
+      "club": "Boston Jr Eagles (Maroon)",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Boston Jr Eagles (Maroon) 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "smart|layla",
+          "n": "7",
+          "name": "Layla Smart",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "richardson|shea",
+          "n": "14",
+          "name": "Shea Richardson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "paone|sophia",
+          "n": "18",
+          "name": "Sophia Paone",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcgaraghan|lucy",
+          "n": "19",
+          "name": "Lucy McGaraghan",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sciarretta|nicole",
+          "n": "25",
+          "name": "Nicole Sciarretta",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "koen|kayleigh",
+          "n": "55",
+          "name": "Kayleigh Koen",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smart|genevieve",
+          "n": "3",
+          "name": "Genevieve Smart",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tice|ariya",
+          "n": "4",
+          "name": "Ariya Tice",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sauls|allison",
+          "n": "5",
+          "name": "Allison Sauls",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "murphy|adia",
+          "n": "9",
+          "name": "Adia Murphy",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mclean|nora",
+          "n": "11",
+          "name": "Nora McLean",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moore|devon",
+          "n": "12",
+          "name": "Devon Moore",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "flaherty|erin",
+          "n": "13",
+          "name": "Erin Flaherty",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rodriguez|alexis",
+          "n": "15",
+          "name": "Alexis Rodriguez",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nardelli|sofia",
+          "n": "16",
+          "name": "Sofia Nardelli",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gordon|elena",
+          "n": "20",
+          "name": "Elena Gordon",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "allen|madeline",
+          "n": "23",
+          "name": "Madeline Allen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hafer|leah",
+          "n": "44",
+          "name": "Leah Hafer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macphee|paige",
+          "n": "29",
+          "name": "Paige MacPhee",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "aitken|annabelle",
+          "n": "30",
+          "name": "Annabelle Aitken",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
