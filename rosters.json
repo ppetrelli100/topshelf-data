@@ -195265,6 +195265,199 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Remparts Richelieu U18",
+      "country": "CAN",
+      "club": "Remparts Richelieu",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Remparts Richelieu U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "pasconeboyer|maeva",
+          "n": "",
+          "name": "Maeva Pascone Boyer",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "elianejourdain|rose",
+          "n": "80",
+          "name": "Rose Eliane Jourdain",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gagne|annabelle",
+          "n": "13",
+          "name": "Annabelle Gagne",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "coyle|aurelie",
+          "n": "14",
+          "name": "Aurelie Coyle",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "morrison|daphne",
+          "n": "27",
+          "name": "Daphne Morrison",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "desmarais|eloise",
+          "n": "10",
+          "name": "Eloise Desmarais",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "corbeil|maeva",
+          "n": "25",
+          "name": "Maeva Corbeil",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rinfret|maika",
+          "n": "87",
+          "name": "Maika Rinfret",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "perreault|mariefrederique",
+          "n": "92",
+          "name": "Marie-Frederique Perreault",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "couillard|meredith",
+          "n": "91",
+          "name": "Meredith Couillard",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "favreau|mia",
+          "n": "7",
+          "name": "Mia Favreau",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dalpe|molly",
+          "n": "19",
+          "name": "Molly Dalpe",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "verdule|olivia",
+          "n": "8",
+          "name": "Olivia Verdule",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lalumiere|ophelie",
+          "n": "66",
+          "name": "Ophelie Lalumiere",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chancy|samya",
+          "n": "18",
+          "name": "Samya Chancy",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lambert|victoria",
+          "n": "0",
+          "name": "Victoria Lambert",
+          "ry": "",
+          "rg": "",
+          "rp": "",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
