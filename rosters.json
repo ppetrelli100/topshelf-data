@@ -180658,15 +180658,17 @@
       ]
     },
     {
-      "team": "Saskatoon Stars U22",
+      "team": "Saskatoon Stars U18",
       "country": "CAN",
       "club": "Saskatoon Stars",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "U22"
+        "U22",
+        "U18"
       ],
       "raw": [
-        "Saskatoon Stars U22"
+        "Saskatoon Stars U22",
+        "Saskatoon Stars U18 AAA"
       ],
       "tourneys": [
         "Misc"
@@ -180674,212 +180676,288 @@
       "players": [
         {
           "pk": "sittler|madelyn",
-          "n": "",
+          "n": "4",
           "name": "Madelyn Sittler",
           "ry": "",
           "rg": "2027",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Dodsland"
         },
         {
           "pk": "doig|reese",
-          "n": "",
+          "n": "6",
           "name": "Reese Doig",
           "ry": "",
           "rg": "2029",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Delisle"
         },
         {
           "pk": "kittleson|jersey",
-          "n": "",
+          "n": "10",
           "name": "Jersey Kittleson",
           "ry": "",
           "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Melville"
         },
         {
           "pk": "allan|bret",
-          "n": "",
+          "n": "16",
           "name": "Bret Allan",
           "ry": "",
           "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Davidson"
         },
         {
           "pk": "sutter|kaelen",
-          "n": "",
+          "n": "18",
           "name": "Kaelen Sutter",
           "ry": "",
           "rg": "2029",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Kelvington"
         },
         {
           "pk": "zablocki|steele",
-          "n": "",
+          "n": "22",
           "name": "Steele Zablocki",
           "ry": "",
           "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Prince Albert"
         },
         {
           "pk": "drabyk|makayla",
-          "n": "",
+          "n": "7",
           "name": "Makayla Drabyk",
           "ry": "",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Saskatoon"
         },
         {
           "pk": "haase|eva",
-          "n": "",
+          "n": "8",
           "name": "Eva Haase",
           "ry": "",
           "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "North Battleford"
         },
         {
           "pk": "broadfoot|neely",
-          "n": "",
+          "n": "9",
           "name": "Neely Broadfoot",
           "ry": "",
           "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Saskatoon"
         },
         {
           "pk": "cripps|brianne",
-          "n": "",
+          "n": "11",
           "name": "Brianne Cripps",
           "ry": "",
           "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Warman"
         },
         {
           "pk": "sumners|makenna",
-          "n": "",
+          "n": "15",
           "name": "Makenna Sumners",
           "ry": "",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-11",
+          "home": "Regina"
         },
         {
           "pk": "oleksyn|presley",
-          "n": "",
+          "n": "17",
           "name": "Presley Oleksyn",
           "ry": "",
           "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Saskatoon"
         },
         {
           "pk": "goodwin|adriana",
-          "n": "",
+          "n": "19",
           "name": "Adriana Goodwin",
           "ry": "",
           "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Saskatoon"
         },
         {
           "pk": "anderson|ayla",
-          "n": "",
+          "n": "20",
           "name": "Ayla Anderson",
           "ry": "",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Warman"
         },
         {
           "pk": "bary|avery",
-          "n": "",
+          "n": "23",
           "name": "Avery Bary",
           "ry": "",
           "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Saskatoon"
         },
         {
           "pk": "delaire|hudson",
-          "n": "",
+          "n": "27",
           "name": "Hudson Delaire",
           "ry": "",
           "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Saskatoon"
         },
         {
           "pk": "wagner|ella",
-          "n": "",
+          "n": "37",
           "name": "Ella Wagner",
           "ry": "",
           "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Martensville"
         },
         {
           "pk": "mcdonald|teal",
-          "n": "",
+          "n": "1",
           "name": "Teal McDonald",
           "ry": "",
           "rg": "2029",
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Edam"
         },
         {
           "pk": "sutter|tarynn",
-          "n": "",
+          "n": "30",
           "name": "Tarynn Sutter",
           "ry": "",
           "rg": "2027",
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Kelvington"
         }
       ]
     },
