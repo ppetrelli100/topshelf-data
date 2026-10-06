@@ -181386,6 +181386,199 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Arizona Kachinas 19U",
+      "country": "US",
+      "club": "Arizona Kachinas",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Arizona Kachinas 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "ladich|kendall",
+          "n": "22",
+          "name": "Kendall Ladich",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macdonald|maureen",
+          "n": "14",
+          "name": "Maureen MacDonald",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "payne|maria",
+          "n": "6",
+          "name": "Maria Payne",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shifrin|natalia",
+          "n": "44",
+          "name": "Natalia Shifrin",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|peyton",
+          "n": "12",
+          "name": "Peyton Smith",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "borrmann|megan",
+          "n": "11",
+          "name": "Megan Borrmann",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dickinson|phoenix",
+          "n": "61",
+          "name": "Phoenix Dickinson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dymek|adeline",
+          "n": "16",
+          "name": "Adeline Dymek",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fuerst|joymarie",
+          "n": "27",
+          "name": "Joymarie Fuerst",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kieber|sienna",
+          "n": "24",
+          "name": "Sienna Kieber",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "purkiss|billie",
+          "n": "21",
+          "name": "Billie Purkiss",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sabbath|leah",
+          "n": "26",
+          "name": "Leah Sabbath",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "streit|calleigh",
+          "n": "42",
+          "name": "Calleigh Streit",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "viles|aili",
+          "n": "89",
+          "name": "Aili Viles",
+          "ry": "",
+          "rg": "2026",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wethington|riley",
+          "n": "83",
+          "name": "Riley Wethington",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "streeter|constance",
+          "n": "32",
+          "name": "Constance Streeter",
+          "ry": "",
+          "rg": "2026",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
