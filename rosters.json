@@ -195736,6 +195736,271 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Eastern Stars U18",
+      "country": "CAN",
+      "club": "Eastern Stars",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Eastern Stars U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "bradley|autumn",
+          "n": "16",
+          "name": "Autumn Bradley",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "state": "PE",
+          "ht": "5-6",
+          "home": "Stratford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dingwell|claire",
+          "n": "12",
+          "name": "Claire Dingwell",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-4",
+          "home": "Morrell",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dunn|leigha",
+          "n": "19",
+          "name": "Leigha Dunn",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-4",
+          "home": "Fort Augustus",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "guindon|josephine",
+          "n": "5",
+          "name": "Josie Guindon",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "state": "PE",
+          "ht": "5-4",
+          "home": "Stratford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "raematheson|anabella",
+          "n": "22",
+          "name": "Bella Rae Matheson",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "state": "PE",
+          "ht": "5-5",
+          "home": "Kilmuir",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "myers|estella",
+          "n": "7",
+          "name": "Stella Myers",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "state": "PE",
+          "ht": "5-3",
+          "home": "Mermaid",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "acorn|rian",
+          "n": "8",
+          "name": "Rian Acorn",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-2",
+          "home": "St. Peter's Bay",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "campbell|allison",
+          "n": "17",
+          "name": "Allie Campbell",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-4",
+          "home": "Vernon Bridge",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hansen|tate",
+          "n": "11",
+          "name": "Tate Hansen",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "state": "PE",
+          "ht": "5-6",
+          "home": "Stratford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macewen|mara",
+          "n": "14",
+          "name": "Mara MacEwen",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "state": "PE",
+          "ht": "5-3",
+          "home": "Morell",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macguigan|madison",
+          "n": "10",
+          "name": "Madison MacGuigan",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "state": "PE",
+          "ht": "5-5",
+          "home": "Montague",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mackenzie|brooklyn",
+          "n": "9",
+          "name": "Brooklyn MacKenzie",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "state": "PE",
+          "ht": "5-5",
+          "home": "Cardigan",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mackinnon|cameron",
+          "n": "98",
+          "name": "Cameron MacKinnon",
+          "ry": "2004",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "PE",
+          "ht": "5-5",
+          "home": "Souris",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcguigan|carlee",
+          "n": "15",
+          "name": "Carlee McGuigan",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "state": "PE",
+          "ht": "5-4",
+          "home": "Montague",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "profitt|kaelyn",
+          "n": "18",
+          "name": "Kaelyn Profitt",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "state": "PE",
+          "ht": "5-4",
+          "home": "Alexandra",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|eleanor",
+          "n": "67",
+          "name": "Ellie Smith",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "state": "PE",
+          "home": "Stratford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carpenter|jorja",
+          "n": "1",
+          "name": "Jorja Carpenter",
+          "ry": "2011",
+          "rg": "",
+          "rp": "G",
+          "state": "PE",
+          "ht": "5-8",
+          "home": "Brudenell",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "young|taegan",
+          "n": "30",
+          "name": "Taegan Young",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "state": "PE",
+          "ht": "5-7",
+          "home": "Kensington",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
