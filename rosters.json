@@ -185153,6 +185153,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Winchendon School 19U",
+      "country": "US",
+      "club": "Winchendon",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Winchendon School 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "li|alika",
+          "n": "1",
+          "name": "Alika Li",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "waara|abigail",
+          "n": "2",
+          "name": "Abigail Waara",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "briggs|rylin",
+          "n": "12",
+          "name": "Rylin Briggs",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "miller|avah",
+          "n": "43",
+          "name": "Avah Miller",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "warne|melisa",
+          "n": "97",
+          "name": "Melisa Warne",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "li|isabelle",
+          "n": "0",
+          "name": "Isabelle Li",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "round|madelyn",
+          "n": "4",
+          "name": "Maddie Round",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mckinley|destiny",
+          "n": "5",
+          "name": "Destiny McKinley",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "larsen|kyla",
+          "n": "6",
+          "name": "Kyla Larsen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ferguson|elle",
+          "n": "8",
+          "name": "Elle Ferguson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "butto|gianna",
+          "n": "9",
+          "name": "Gianna Butto",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "meade|ella",
+          "n": "16",
+          "name": "Ella Meade",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tarnikova|alisa",
+          "n": "18",
+          "name": "Alisa Tarnikova",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mitchell|sasha",
+          "n": "21",
+          "name": "Sasha Mitchell",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "palsic|neely",
+          "n": "89",
+          "name": "Neely Palsic",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ciecko|sophia",
+          "n": "33",
+          "name": "Sophia Ciecko",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beanlands|sinead",
+          "n": "92",
+          "name": "Sinead Beanlands",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
