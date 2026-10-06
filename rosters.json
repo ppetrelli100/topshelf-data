@@ -182921,6 +182921,188 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Atlantic Coast Academy 16U",
+      "country": "US",
+      "club": "Atlantic Coast Academy",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Atlantic Coast Academy 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "beach|caelan",
+          "n": "14",
+          "name": "Caelan Beach",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "devous|mia",
+          "n": "18",
+          "name": "Mia Devous",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "harris|aubrey",
+          "n": "21",
+          "name": "Aubrey Harris",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "worsfold|alexandria",
+          "n": "27",
+          "name": "Alexandria Worsfold",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "landsteiner|abigail",
+          "n": "3",
+          "name": "Abby Landsteiner",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "malish|jayden",
+          "n": "5",
+          "name": "Jayden Malish",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nanakul|brooklyn",
+          "n": "8",
+          "name": "Brooklyn Nanakul",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "desrosiers|amelie",
+          "n": "9",
+          "name": "Amelie Des Rosiers",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "campbell|chloe",
+          "n": "10",
+          "name": "Chloe Campbell",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "letcher|evie",
+          "n": "11",
+          "name": "Evie Letcher",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "calzada|olivia",
+          "n": "13",
+          "name": "Olivia Calzada",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "roberts|kaelyn",
+          "n": "15",
+          "name": "Kaelyn Roberts",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marcouiller|megane",
+          "n": "7",
+          "name": "Megane Marcouiller",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "putreniece|ramona",
+          "n": "31",
+          "name": "Ramona Putreniece",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "foley|lorelai",
+          "n": "95",
+          "name": "Lorelai Foley",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
