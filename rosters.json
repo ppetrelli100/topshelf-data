@@ -188256,6 +188256,221 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Boston Advantage 16U",
+      "country": "US",
+      "club": "Boston Advantage",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Boston Advantage 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "scharath|abigail",
+          "n": "3",
+          "name": "Abigail Scharath",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wilkinson|lexi",
+          "n": "11",
+          "name": "Lexi Wilkinson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dever|siobhan",
+          "n": "12",
+          "name": "Siobhan Dever",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mulready|sierra",
+          "n": "16",
+          "name": "Sierra Mulready",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bellew|briana",
+          "n": "17",
+          "name": "Briana Bellew",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcelvaney|shannon",
+          "n": "18",
+          "name": "Shannon McElvaney",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martin|bryn",
+          "n": "4",
+          "name": "Bryn Martin",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "young|nora",
+          "n": "5",
+          "name": "Nora Young",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ghiringhelli|lila",
+          "n": "7",
+          "name": "Lila Ghiringhelli",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mackinnon|emma",
+          "n": "8",
+          "name": "Emma MacKinnon",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "houle|helena",
+          "n": "9",
+          "name": "Helena Houle",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gibbons|caroline",
+          "n": "10",
+          "name": "Caroline Gibbons",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "halsing|ava",
+          "n": "13",
+          "name": "Ava Halsing",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "halsing|ella",
+          "n": "14",
+          "name": "Ella Halsing",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "concannon|evelyn",
+          "n": "15",
+          "name": "Evelyn Concannon",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sasin|rori",
+          "n": "19",
+          "name": "Rori Sasin",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schmid|penelople",
+          "n": "1",
+          "name": "Penelople Schmid",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "polimeno|grace",
+          "n": "30",
+          "name": "Grace Polimeno",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
