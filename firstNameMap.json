@@ -311,6 +311,10 @@
     {
       "alias": "hanyu",
       "canon": "rachel"
+    },
+    {
+      "alias": "adds",
+      "canon": "addison"
     }
   ],
   "overrides": [
