@@ -190788,6 +190788,263 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Rocky Mountain Raiders U18",
+      "country": "CAN",
+      "club": "Rocky Mountain Raiders",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Rocky Mountain Raiders U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "podrasky|lyric",
+          "n": "3",
+          "name": "Lyric Podrasky",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "8/20/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "manygreyhorses|checotah",
+          "n": "4",
+          "name": "Checotah Many Grey Horses",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/20/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kutzner|kamryn",
+          "n": "7",
+          "name": "Kamryn Kutzner",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "4/5/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "elhage|sophia",
+          "n": "15",
+          "name": "Sophia El Hage",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "7/29/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "poliakiwski|ayla",
+          "n": "19",
+          "name": "Ayla Poliakiwski",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "dob": "6/3/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dengler|gracie",
+          "n": "26",
+          "name": "Gracie Dengler",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "dob": "9/8/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shade|deanaya",
+          "n": "8",
+          "name": "Deanaya Shade",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/7/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bereski|teia",
+          "n": "10",
+          "name": "Teia Bereski",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "7/7/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "simard|ella",
+          "n": "11",
+          "name": "Ella Simard",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "1/17/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "armstrong|keelie",
+          "n": "12",
+          "name": "Keelie Armstrong",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/9/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "adams|jarynne",
+          "n": "13",
+          "name": "Jarynne Adams",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "10/29/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hector|elissa",
+          "n": "14",
+          "name": "Elissa Hector",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "1/23/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dehaas|alexis",
+          "n": "16",
+          "name": "Alexis de Haas",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "dob": "2/7/2009",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "glenn|brooklyn",
+          "n": "17",
+          "name": "Brooklyn Glenn",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "1/13/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schedlosky|britt",
+          "n": "18",
+          "name": "Britt Schedlosky",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "8/7/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "webb|westyn",
+          "n": "20",
+          "name": "Westyn Webb",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "8/26/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "burton|emily",
+          "n": "21",
+          "name": "Emily Burton",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "dob": "3/26/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nicolle|isabelle",
+          "n": "27",
+          "name": "Isabelle Nicolle",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "dob": "4/1/2011",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "giesbrecht|kahli",
+          "n": "33",
+          "name": "Kahli Giesbrecht",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "dob": "5/25/2010",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shaddock|teagan",
+          "n": "35",
+          "name": "Teagan Shaddock",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "dob": "2/11/2009",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
