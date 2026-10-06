@@ -192591,6 +192591,322 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Notre Dame Hounds U18",
+      "country": "CAN",
+      "club": "Notre Dame Hounds",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Notre Dame Hounds U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "sheppard|carly",
+          "n": "2",
+          "name": "Carly Sheppard",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "NC",
+          "ht": "5-4",
+          "home": "Jamestown",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dorish|ainsley",
+          "n": "4",
+          "name": "Ainsley Dorish",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-2",
+          "home": "Saskatoon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "turner|azure",
+          "n": "8",
+          "name": "Azure Turner",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yorikane|ayaka",
+          "n": "14",
+          "name": "Ayaka Yorikane",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-2",
+          "home": "Tokyo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "biberdorf|hailey",
+          "n": "15",
+          "name": "Hailey Biberdorf",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Creighton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "palandri|alexia",
+          "n": "18",
+          "name": "Alexia Palandri",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grahamwuttunee|eleanor",
+          "n": "44",
+          "name": "Ellie Graham-Wuttunee",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Martensville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bates|alexis",
+          "n": "5",
+          "name": "Alexis Bates",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-2",
+          "home": "Shields",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "watson|molly",
+          "n": "6",
+          "name": "Molly Watson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Avonlea",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "loney|brooklyn",
+          "n": "7",
+          "name": "Brooklyn Loney",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Moose Jaw",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "colborne|evan",
+          "n": "10",
+          "name": "Evan Colborne",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Clearwater",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rumancik|jade",
+          "n": "11",
+          "name": "Jade Rumancik",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-10",
+          "home": "Fort Qu'Appelle",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gerlat|kylie",
+          "n": "12",
+          "name": "Kylie Gerlat",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Calgary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "christie|cameron",
+          "n": "16",
+          "name": "Cameron Christie",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "AB",
+          "ht": "5-4",
+          "home": "Red Deer",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "connor|macklin",
+          "n": "19",
+          "name": "Macklin Connor",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Beechy",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "anderson|avery",
+          "n": "21",
+          "name": "Avery Anderson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-5",
+          "home": "Prince Albert",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "olson|mazie",
+          "n": "24",
+          "name": "Mazie Olson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wingerter|teigan",
+          "n": "91",
+          "name": "Teigan Wingerter",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Mildred",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hodges|anne",
+          "n": "1",
+          "name": "Annie Hodges",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Wilcox",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "whitten|jolie",
+          "n": "30",
+          "name": "Jolie Whitten",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "AB",
+          "ht": "5-7",
+          "home": "Mannville",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
