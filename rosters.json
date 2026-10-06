@@ -144814,18 +144814,21 @@
       ]
     },
     {
-      "team": "North Shore Warriors U22",
+      "team": "North Shore Warriors U18",
       "country": "CAN",
       "club": "North Shore Warriors",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "U22"
+        "U22",
+        "U18"
       ],
       "raw": [
-        "North Shore Warriors"
+        "North Shore Warriors",
+        "North Shore Warriors U18 Prep"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -144836,8 +144839,10 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "8/5/2010"
         },
         {
           "pk": "han|gemma",
@@ -144847,8 +144852,10 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "6/9/2009"
         },
         {
           "pk": "johnstone|calla",
@@ -144858,8 +144865,10 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/18/2011"
         },
         {
           "pk": "cross|cali",
@@ -144869,8 +144878,10 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/28/2010"
         },
         {
           "pk": "wilson|miller",
@@ -144880,8 +144891,10 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/11/2010"
         },
         {
           "pk": "aubie|ellis",
@@ -144891,8 +144904,10 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/6/2009"
         },
         {
           "pk": "shanahan|calle",
@@ -144902,8 +144917,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "10/21/2008"
         },
         {
           "pk": "lumley|lov",
@@ -144913,8 +144930,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "5/28/2009"
         },
         {
           "pk": "seitz|madison",
@@ -144924,8 +144943,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "8/7/2009"
         },
         {
           "pk": "hawes|maicey",
@@ -144935,8 +144956,10 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/11/2010"
         },
         {
           "pk": "briggs|nadia",
@@ -144946,8 +144969,10 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "8/9/2011"
         },
         {
           "pk": "bilick|makenna",
@@ -144957,8 +144982,10 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "12/21/2011"
         },
         {
           "pk": "makkreel|brynn",
@@ -144968,8 +144995,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "1/24/2009"
         },
         {
           "pk": "ewanyshyn|sarah",
@@ -144979,8 +145008,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/29/2009"
         },
         {
           "pk": "swanson|khya",
@@ -144990,8 +145021,10 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/9/2010"
         },
         {
           "pk": "lafontaine|lucy",
@@ -145001,8 +145034,10 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "9/7/2010"
         },
         {
           "pk": "dosanjh|olivia",
@@ -145012,8 +145047,10 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "10/13/2010"
         },
         {
           "pk": "carella|gia",
@@ -145023,8 +145060,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/9/2009"
         },
         {
           "pk": "ward|emma",
@@ -145034,8 +145073,10 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "2/14/2009"
         },
         {
           "pk": "cottreau|brielle",
@@ -145045,8 +145086,10 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "dob": "4/20/2010"
         }
       ]
     },
