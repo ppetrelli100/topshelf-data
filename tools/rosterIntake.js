@@ -376,7 +376,11 @@
         if (!a) { res.fills.push({ pk: q.pk, name: p.name, field: f, value: b }); diff = true; }
         else if (!sameVal(f, a, b)) { res.conflicts.push({ pk: q.pk, name: p.name, field: f, have: a, paste: b }); diff = true; }
       });
-      if (norm(p.name) !== norm(q.name)) { res.conflicts.push({ pk: q.pk, name: p.name, field: 'name', have: p.name, paste: q.name }); diff = true; }
+      if (norm(p.name) !== norm(q.name)) {
+        // via 'personkey': the first names differ (Vienna / Vivi) but both resolve to the same personkey through the alias map: the same player, only the display name is open
+        const first = n => norm(n).toLowerCase().split(/\s+/)[0];
+        res.conflicts.push({ pk: q.pk, name: p.name, field: 'name', have: p.name, paste: q.name, via: first(p.name) !== first(q.name) ? 'personkey' : '' }); diff = true;
+      }
       const pc = p.ctry || ex.country, qc = q.ctry || cand.country;
       if (!diff) res.same++;
     });

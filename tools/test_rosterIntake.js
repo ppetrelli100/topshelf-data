@@ -150,4 +150,11 @@ const tsv = rows => rows.map(r => r.join('\t')).join('\n');
   const c2 = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos'], ['Nick Club', '19U', '2', 'Addison Vaszily', 'D'], ['Nick Club', '19U', '9', 'Sophia Monaco', 'F'], ['Nick Club', '19U', '8', 'Gianna Monaco', 'F']]), {}).cl.teams[0];
   ok(RI.compare(on, c2).near.length === 0, 'T13 sisters with different first names are not flagged'); }
 
+// 14. a name that differs only by a first-name alias (same personkey) is marked via 'personkey'; a capitalisation difference is not
+{ const mk = (n, name) => ({ pk: RC.makePersonKey(name), n, name, ry: 2010, rg: 2028, rp: 'G', t: ['Misc'] });
+  const on = { team: 'Alias Club 19U', country: 'US', club: 'Alias Club', lvl: '19U', players: [mk('1', 'Vienna Noble'), mk('17', 'Reese VanderMeer')] };
+  const c = run(tsv([['Team', 'Level', 'No', 'Name', 'Pos'], ['Alias Club', '19U', '1', 'Vivi Noble', 'G'], ['Alias Club', '19U', '17', 'Reese Vandermeer', 'F']]), {}).cl.teams[0];
+  const cf = RI.compare(on, c).conflicts.filter(x => x.field === 'name'), by = n => cf.find(x => x.have === n);
+  ok(by('Vienna Noble') && by('Vienna Noble').via === 'personkey' && by('Reese VanderMeer') && by('Reese VanderMeer').via === '', 'T14 alias vs capitalisation', cf); }
+
 console.log(`\n${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);
