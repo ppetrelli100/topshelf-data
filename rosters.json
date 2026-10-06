@@ -181580,6 +181580,232 @@
           ]
         }
       ]
+    },
+    {
+      "team": "San Jose Jr. Sharks 19U",
+      "country": "US",
+      "club": "San Jose Jr. Sharks",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "San Jose Jr. Sharks 19U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "gass|sofia",
+          "n": "50",
+          "name": "Sofia Gass",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "geraci|skiles",
+          "n": "57",
+          "name": "Skiles Geraci",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gulstone|mika",
+          "n": "14",
+          "name": "Mika Gulstone",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wang|emily",
+          "n": "12",
+          "name": "Emily Wang",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "foland|alicia",
+          "n": "48",
+          "name": "Alicia Foland",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jimenez|franchesca",
+          "n": "18",
+          "name": "Franchesca Jimenez",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "joshi|sanaya",
+          "n": "11",
+          "name": "Sanaya Joshi",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kenny|dahlia",
+          "n": "66",
+          "name": "Dahlia Kenny",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lee|gillian",
+          "n": "7",
+          "name": "Gillian Lee",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lyons|ridley",
+          "n": "29",
+          "name": "Ridley Lyons",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "porter|vivian",
+          "n": "15",
+          "name": "Vivian Porter",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rizzi|jillian",
+          "n": "16",
+          "name": "Jillian Rizzi",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "talmadge|eleanor",
+          "n": "32",
+          "name": "Eleanor Talmadge",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yam|adriana",
+          "n": "13",
+          "name": "Adriana Yam",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "young|ashley",
+          "n": "4",
+          "name": "Ashley Young",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yu|olivia",
+          "n": "38",
+          "name": "Olivia Yu",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nogaretto|lysa",
+          "n": "31",
+          "name": "Lysa Nogaretto",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stevens|maxx",
+          "n": "61",
+          "name": "Maxx Stevens",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "watson|bailey",
+          "n": "17",
+          "name": "Bailey Watson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
