@@ -192318,6 +192318,277 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Battlefords WPD Ambulance Sharks U18",
+      "country": "CAN",
+      "club": "Battlefords WPD Ambulance Sharks",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Battlefords WPD Ambulance Sharks U18 AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "kramer|elan",
+          "n": "9",
+          "name": "Elan Kramer",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Battleford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mucha|savannah",
+          "n": "11",
+          "name": "Savannah Mucha",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Melville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wuttunee|berkley",
+          "n": "17",
+          "name": "Berkley Wuttunee",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Kerrobert",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kehrig|kylar",
+          "n": "27",
+          "name": "Kylar Kehrig",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-10",
+          "home": "Tisdale",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moon|hunter",
+          "n": "28",
+          "name": "Hunter Moon",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Riceton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "deobald|ainslee",
+          "n": "72",
+          "name": "Ainslee Deobald",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "poole|julia",
+          "n": "3",
+          "name": "Julia Poole",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Saskatoon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "efthimiou|sia",
+          "n": "7",
+          "name": "Sia Efthimiou",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Regina",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "turner|blake",
+          "n": "10",
+          "name": "Blake Turner",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-7",
+          "home": "Martensville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hanson|sloan",
+          "n": "12",
+          "name": "Sloan Hanson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Warman",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "johnston|charleigh",
+          "n": "14",
+          "name": "Charleigh Johnston",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5'4.5",
+          "home": "Rosetown",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "weseen|hannah",
+          "n": "15",
+          "name": "Hannah Weseen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-8",
+          "home": "Warman",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "galloway|aliyah",
+          "n": "16",
+          "name": "Aliyah Galloway",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "La Ronge",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cordes|madison",
+          "n": "19",
+          "name": "Madison Cordes",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-3",
+          "home": "Rosetown",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "weber|brooke",
+          "n": "21",
+          "name": "Brooke Weber",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-9",
+          "home": "Battleford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sembalerus|aura",
+          "n": "29",
+          "name": "Aura Sembalerus",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-6",
+          "home": "Saskatoon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "summers|baya",
+          "n": "35",
+          "name": "Baya Summers",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "SK",
+          "ht": "5-4",
+          "home": "Estevan",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
