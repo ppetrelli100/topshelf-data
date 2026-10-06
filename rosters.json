@@ -184453,6 +184453,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Team Colorado 16U",
+      "country": "US",
+      "club": "Team Colorado",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Team Colorado 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "hickey|rimini",
+          "n": "4",
+          "name": "Rimini Hickey",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "palik|alexis",
+          "n": "6",
+          "name": "Alexis Palik",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "landa|charly",
+          "n": "7",
+          "name": "Charly Landa",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "walsh|erin",
+          "n": "8",
+          "name": "Erin Walsh",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bockmann|eva",
+          "n": "21",
+          "name": "Eva Bockmann",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kennedylewis|brooklyn",
+          "n": "24",
+          "name": "Brooklyn Lewis",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "twiss|camdyn",
+          "n": "2",
+          "name": "Camdyn Twiss",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kocman|mia",
+          "n": "11",
+          "name": "Mia Kocman",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "storfa|josephine",
+          "n": "12",
+          "name": "Josephine Storfa",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "monckton|anna",
+          "n": "15",
+          "name": "Anna Monckton",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kelly|emma",
+          "n": "18",
+          "name": "Emma Kelly",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "aslanian|riley",
+          "n": "19",
+          "name": "Riley Aslanian",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robinson|kinsey",
+          "n": "22",
+          "name": "Kinsey Robinson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "spalding|avery",
+          "n": "25",
+          "name": "Avery Spalding",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "host|brynn",
+          "n": "28",
+          "name": "Brynn Host",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "muldrow|aidyn",
+          "n": "65",
+          "name": "Aidyn Muldrow",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sandoval|parker",
+          "n": "87",
+          "name": "Parker Sandoval",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bennett|hayley",
+          "n": "88",
+          "name": "Hayley Bennett",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shorland|shea",
+          "n": "20",
+          "name": "Shea Shorland",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hunt|valerie",
+          "n": "30",
+          "name": "Valerie Hunt",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
