@@ -189629,6 +189629,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Carolina Jr. Canes 16U",
+      "country": "US",
+      "club": "Carolina Jr. Canes",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Carolina Jr. Canes 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "chapin|emma",
+          "n": "8",
+          "name": "Emma Chapin",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gross|katharine",
+          "n": "21",
+          "name": "Katharine Gross",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hayden|brianna",
+          "n": "18",
+          "name": "Brianna Hayden",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robbins|lillian",
+          "n": "17",
+          "name": "Lillian Robbins",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "romeiser|madeline",
+          "n": "4",
+          "name": "Madeline Romeiser",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tabor|addison",
+          "n": "24",
+          "name": "Addison Tabor",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "burgess|sophia",
+          "n": "12",
+          "name": "Sophia Burgess",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "danilina|elena",
+          "n": "5",
+          "name": "Elena Danilina",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "davis|savannah",
+          "n": "97",
+          "name": "Savannah Davis",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "feliciano|chloe",
+          "n": "14",
+          "name": "Chloe Feliciano",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fossum|isabel",
+          "n": "91",
+          "name": "Isabel Fossum",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "green|dagny",
+          "n": "51",
+          "name": "Dagny Green",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hamner|aleeya",
+          "n": "16",
+          "name": "Aleeya Hamner",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "picard|eleanor",
+          "n": "11",
+          "name": "Ellie Picard",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rudanovich|daniella",
+          "n": "88",
+          "name": "Daniella Rudanovich",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mulhern|ella",
+          "n": "27",
+          "name": "Ella Mulhern",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reney|lillian",
+          "n": "40",
+          "name": "Lillian Reney",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
