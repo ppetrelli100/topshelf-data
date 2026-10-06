@@ -126291,17 +126291,19 @@
       ]
     },
     {
-      "team": "CIHA U22",
+      "team": "Calgary International Hockey Acaemy 18U",
       "country": "CAN",
       "club": "CIHA",
-      "lvl": "U22",
+      "lvl": "18U",
       "levels": [
         "U22",
-        "18U"
+        "18U",
+        "U18"
       ],
       "raw": [
         "CIHA",
-        "Calgary International Hockey Academy"
+        "Calgary International Hockey Academy",
+        "Calgary International Hockey Academy U18 Prep"
       ],
       "tourneys": [
         "Stoney",
