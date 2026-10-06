@@ -196958,6 +196958,291 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Western Wolves U18",
+      "country": "CAN",
+      "club": "Western Wolves",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Western Wolves U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "coughlin|katherine",
+          "n": "22",
+          "name": "Kate Coughlin",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-8",
+          "home": "Mount Pleasant",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duffy|brynn",
+          "n": "3",
+          "name": "Brynn Duffy",
+          "ry": "2012",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-8",
+          "home": "Kinkora",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gill|peyton",
+          "n": "7",
+          "name": "Peyton Gill",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-6",
+          "home": "Kensington",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gorveatt|jesslyn",
+          "n": "10",
+          "name": "Jesslyn Gorveatt",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-10",
+          "home": "Nine Mile Creek",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macpherson|maria",
+          "n": "15",
+          "name": "Maria Macpherson",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Oyster Bed Bridge",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "waugh|katherine",
+          "n": "6",
+          "name": "Kate Waugh",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "ht": "5-5",
+          "home": "Summerside",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "blacquiere|cara",
+          "n": "17",
+          "name": "Cara Blacquiere",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-8",
+          "home": "Summerside",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brioux|evelyn",
+          "n": "16",
+          "name": "Evelyn Brioux",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duncan|kinley",
+          "n": "21",
+          "name": "Kinley Duncan",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-2",
+          "home": "Cornwall",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gaudet|eleanor",
+          "n": "8",
+          "name": "Ellie Gaudet",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-6",
+          "home": "Tignish",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "griffin|caseley",
+          "n": "2",
+          "name": "Caseley Griffin",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-9",
+          "home": "Summerside",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "larkin|shaelyn",
+          "n": "18",
+          "name": "Shaelyn Larkin",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Albany",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macneill|tia",
+          "n": "24",
+          "name": "Tia Macneill",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcadam|aislyn",
+          "n": "14",
+          "name": "Aislyn Mcadam",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-3",
+          "home": "Long Creek",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mills|kayla",
+          "n": "4",
+          "name": "Kayla Mills",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-6",
+          "home": "Cornwall",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "murray|halle",
+          "n": "12",
+          "name": "Halle Murray",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-8",
+          "home": "Clyde River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stevenson|mya",
+          "n": "19",
+          "name": "Mya Stevenson",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-7",
+          "home": "Brookfield",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stewart|jessica",
+          "n": "11",
+          "name": "Jessie Stewart",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "ht": "5-10",
+          "home": "Maplewood",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "aiken|alexa",
+          "n": "35",
+          "name": "Alexa Aiken",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "ht": "5-6",
+          "home": "Cornwall",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "maclellan|kamryn",
+          "n": "31",
+          "name": "Kamryn Maclellan",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "noonan|emma",
+          "n": "1",
+          "name": "Emma Noonan",
+          "ry": "2011",
+          "rg": "",
+          "rp": "G",
+          "ht": "5-10",
+          "home": "Searletown",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
