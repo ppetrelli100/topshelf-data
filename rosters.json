@@ -153042,11 +153042,13 @@
         "19U"
       ],
       "raw": [
-        "Rochester Jr Americans 19U"
+        "Rochester Jr Americans 19U",
+        "Rochester Jr. Americans 19U"
       ],
       "tourneys": [
         "Pittsburgh",
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -153058,7 +153060,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153070,7 +153073,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153082,7 +153086,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153094,7 +153099,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153106,7 +153112,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153118,7 +153125,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153130,7 +153138,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153142,7 +153151,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153150,11 +153160,12 @@
           "n": "7",
           "name": "Cassidy Crogan",
           "ry": "2008",
-          "rg": "",
+          "rg": "2026",
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153166,7 +153177,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153178,7 +153190,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153190,7 +153203,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153202,7 +153216,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153214,7 +153229,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153226,7 +153242,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153238,7 +153255,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153250,7 +153268,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153262,7 +153281,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153285,7 +153305,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -153297,7 +153318,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
