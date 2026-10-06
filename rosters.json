@@ -183591,6 +183591,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Team North Dakota 16U",
+      "country": "US",
+      "club": "Team North Dakota",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Team North Dakota 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "gunderson|maci",
+          "n": "4",
+          "name": "Maci Gunderson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kiland|makenna",
+          "n": "6",
+          "name": "Makenna Kiland",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "egeland|anna",
+          "n": "8",
+          "name": "Anna Egeland",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moos|berklie",
+          "n": "9",
+          "name": "Berklie Moos",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "oconnell|hazel",
+          "n": "12",
+          "name": "Hazel O'Connell",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "meagher|reese",
+          "n": "15",
+          "name": "Reese Meagher",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "neubert|persephone",
+          "n": "3",
+          "name": "Persephone Neubert",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mattson|elliana",
+          "n": "7",
+          "name": "Elliana Mattson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rask|alivia",
+          "n": "10",
+          "name": "Alivia Rask",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martell|koya",
+          "n": "11",
+          "name": "Koya Martell",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marto|alaina",
+          "n": "13",
+          "name": "Alaina Marto",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "augdahl|kaylee",
+          "n": "14",
+          "name": "Kaylee Augdahl",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hofer|hudson",
+          "n": "16",
+          "name": "Hudson Hofer",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rieger|morgan",
+          "n": "18",
+          "name": "Morgan Rieger",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gunderson|teagan",
+          "n": "19",
+          "name": "Teagan Gunderson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mahar|jovie",
+          "n": "1",
+          "name": "Jovie Mahar",
+          "ry": "",
+          "rg": "2030",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "goldmann|taylor",
+          "n": "30",
+          "name": "Taylor Goldmann",
+          "ry": "",
+          "rg": "2030",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
