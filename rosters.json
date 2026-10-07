@@ -177801,7 +177801,8 @@
         "16U"
       ],
       "raw": [
-        "Lovell Academy 16U"
+        "Lovell Academy 16U",
+        "LOVELL ACADEMY 16U"
       ],
       "tourneys": [
         "Misc"
@@ -177889,6 +177890,28 @@
           ]
         },
         {
+          "pk": "landry|annabelle",
+          "n": "9",
+          "name": "Annabelle Landry",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "D",
+          "dob": "2/16/2011",
+          "shot": "L",
+          "state": "NB",
+          "ht": "5-8",
+          "home": "Dieppe",
+          "ctry": "CAN",
+          "t": [
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "F"
+            ]
+          }
+        },
+        {
           "pk": "letts|lauren",
           "n": "2",
           "name": "Lauren Letts",
@@ -177933,23 +177956,6 @@
           "ht": "5-4",
           "home": "Glen Rock",
           "commit": "Merrimack",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "landry|annabelle",
-          "n": "9",
-          "name": "Annabelle Landry",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "F",
-          "dob": "2/16/2011",
-          "shot": "L",
-          "state": "NB",
-          "ht": "5-8",
-          "home": "Dieppe",
-          "ctry": "CAN",
           "t": [
             "Misc"
           ]
