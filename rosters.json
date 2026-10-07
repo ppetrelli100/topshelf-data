@@ -187886,7 +187886,8 @@
         "19U"
       ],
       "raw": [
-        "Fox Motors 19U"
+        "Fox Motors 19U",
+        "FOX MOTORS 19U"
       ],
       "tourneys": [
         "Misc"
@@ -187896,8 +187897,8 @@
           "pk": "waalkes|zariya",
           "n": "8",
           "name": "Zariya Waalkes",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
@@ -187907,8 +187908,8 @@
           "pk": "krukowski|morgan",
           "n": "9",
           "name": "Morgan Krukowski",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2027",
           "rp": "D",
           "t": [
             "Misc"
@@ -187929,8 +187930,8 @@
           "pk": "kubaliak|marlie",
           "n": "55",
           "name": "Marlie Kubaliak",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2027",
           "rp": "D",
           "t": [
             "Misc"
@@ -187940,8 +187941,19 @@
           "pk": "morton|sophia",
           "n": "77",
           "name": "Sophia Morton",
-          "ry": "",
-          "rg": "",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wibbelsman|emorie",
+          "n": "37",
+          "name": "Emorie Wibbelsman",
+          "ry": "2010",
+          "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
@@ -187951,8 +187963,8 @@
           "pk": "smith|jane",
           "n": "2",
           "name": "Jane Smith",
-          "ry": "",
-          "rg": "",
+          "ry": "2010",
+          "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
@@ -187962,8 +187974,8 @@
           "pk": "cook|mylee",
           "n": "7",
           "name": "Mylee Cook",
-          "ry": "",
-          "rg": "",
+          "ry": "2008",
+          "rg": "2026",
           "rp": "F",
           "t": [
             "Misc"
@@ -187973,8 +187985,8 @@
           "pk": "welch|raquel",
           "n": "13",
           "name": "Raquel Welch",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
@@ -187984,8 +187996,8 @@
           "pk": "laytart|nora",
           "n": "15",
           "name": "Nora Laytart",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
@@ -187995,8 +188007,8 @@
           "pk": "groleau|addison",
           "n": "17",
           "name": "Addison Groleau",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
@@ -188006,8 +188018,8 @@
           "pk": "carter|jillian",
           "n": "24",
           "name": "Jillian Carter",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
@@ -188017,8 +188029,8 @@
           "pk": "albers|avery",
           "n": "25",
           "name": "Avery Albers",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2027",
           "rp": "F",
           "t": [
             "Misc"
@@ -188039,8 +188051,19 @@
           "pk": "kapenga|clara",
           "n": "41",
           "name": "Clara Kapenga",
-          "ry": "",
-          "rg": "",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jacobson|ella",
+          "n": "10",
+          "name": "Ella Jacobson",
+          "ry": "2010",
+          "rg": "2028",
           "rp": "F",
           "t": [
             "Misc"
@@ -188050,8 +188073,8 @@
           "pk": "dattilo|adriana",
           "n": "23",
           "name": "Adriana Dattilo",
-          "ry": "",
-          "rg": "",
+          "ry": "2010",
+          "rg": "2028",
           "rp": "G",
           "t": [
             "Misc"
@@ -188061,8 +188084,8 @@
           "pk": "derleth|madelynn",
           "n": "30",
           "name": "Madelynn Derleth",
-          "ry": "",
-          "rg": "",
+          "ry": "2009",
+          "rg": "2027",
           "rp": "G",
           "t": [
             "Misc"
