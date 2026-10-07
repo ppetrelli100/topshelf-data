@@ -159502,10 +159502,12 @@
       "lvl": "16U",
       "levels": [
         "U18",
-        "U16"
+        "U16",
+        "16U"
       ],
       "raw": [
-        "Team Illinois 16U"
+        "Team Illinois 16U",
+        "TEAM ILLINOIS 16U"
       ],
       "tourneys": [
         "Stoney",
@@ -159514,7 +159516,7 @@
       "players": [
         {
           "pk": "gorski|alexis",
-          "n": "14",
+          "n": "21",
           "name": "Alexis Gorski",
           "ry": "2011",
           "rg": "2029",
@@ -159532,7 +159534,7 @@
         },
         {
           "pk": "chalberg|claire",
-          "n": "3",
+          "n": "10",
           "name": "Claire Chalberg",
           "ry": "2010",
           "rg": "2029",
@@ -159550,7 +159552,7 @@
         },
         {
           "pk": "soler|grace",
-          "n": "8",
+          "n": "19",
           "name": "Grace Soler",
           "ry": "2011",
           "rg": "2030",
@@ -159568,10 +159570,10 @@
         },
         {
           "pk": "bromberg|jacqueline",
-          "n": "12",
+          "n": "37",
           "name": "Jackie Bromberg",
           "ry": "2010",
-          "rg": "",
+          "rg": "2028",
           "rp": "D",
           "t": [
             "Stoney",
@@ -159586,7 +159588,7 @@
         },
         {
           "pk": "hayek|nicol",
-          "n": "11",
+          "n": "44",
           "name": "Nicol Hayek",
           "ry": "2010",
           "rg": "2028",
@@ -159605,7 +159607,7 @@
         {
           "pk": "taylor|viviana",
           "n": "27",
-          "name": "Vivi Taylor",
+          "name": "Viviana Taylor",
           "ry": "2010",
           "rg": "2029",
           "rp": "D",
@@ -159616,7 +159618,7 @@
         },
         {
           "pk": "lazor|alden",
-          "n": "21",
+          "n": "2",
           "name": "Alden Lazor",
           "ry": "2010",
           "rg": "2028",
@@ -159634,7 +159636,7 @@
         },
         {
           "pk": "kehoe|aubrey",
-          "n": "24",
+          "n": "14",
           "name": "Aubrey Kehoe",
           "ry": "2010",
           "rg": "2028",
@@ -159652,7 +159654,7 @@
         },
         {
           "pk": "videtic|carlee",
-          "n": "10",
+          "n": "24",
           "name": "Carlee Videtic",
           "ry": "2010",
           "rg": "2029",
@@ -159670,7 +159672,7 @@
         },
         {
           "pk": "michels|delilah",
-          "n": "56",
+          "n": "3",
           "name": "Delilah Michels",
           "ry": "2010",
           "rg": "2028",
@@ -159688,7 +159690,7 @@
         },
         {
           "pk": "boveri|elizabeth",
-          "n": "22",
+          "n": "56",
           "name": "Elizabeth Boveri",
           "ry": "2010",
           "rg": "2029",
@@ -159706,7 +159708,7 @@
         },
         {
           "pk": "bogacz|gabriella",
-          "n": "18",
+          "n": "22",
           "name": "Gabriella Bogacz",
           "ry": "2011",
           "rg": "2030",
@@ -159724,7 +159726,7 @@
         },
         {
           "pk": "vertucci|gia",
-          "n": "19",
+          "n": "18",
           "name": "Gia Vertucci",
           "ry": "2011",
           "rg": "2029",
@@ -159742,7 +159744,7 @@
         },
         {
           "pk": "cohen|hadley",
-          "n": "31",
+          "n": "8",
           "name": "Hadley Cohen",
           "ry": "2011",
           "rg": "2029",
@@ -159760,7 +159762,7 @@
         },
         {
           "pk": "dunford|kayleigh",
-          "n": "6",
+          "n": "12",
           "name": "Kayleigh Dunford",
           "ry": "2010",
           "rg": "2028",
@@ -159777,19 +159779,8 @@
           }
         },
         {
-          "pk": "jensen|madelyn",
-          "n": "28",
-          "name": "Maddie Jensen",
-          "ry": "2011",
-          "rg": "",
-          "rp": "F",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
           "pk": "dennis|madison",
-          "n": "30",
+          "n": "28",
           "name": "Madison Dennis",
           "ry": "2010",
           "rg": "2028",
@@ -159807,7 +159798,7 @@
         },
         {
           "pk": "price|talitha",
-          "n": "27",
+          "n": "11",
           "name": "Talitha Price",
           "ry": "2011",
           "rg": "2030",
@@ -159831,12 +159822,13 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
           "pk": "harpur|hayden",
-          "n": "37",
+          "n": "31",
           "name": "Hayden Harpur",
           "ry": "2010",
           "rg": "2028",
@@ -159854,7 +159846,7 @@
         },
         {
           "pk": "romero|michaelina",
-          "n": "44",
+          "n": "30",
           "name": "Michaelina Romero",
           "ry": "2010",
           "rg": "2028",
