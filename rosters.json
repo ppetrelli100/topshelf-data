@@ -138635,13 +138635,16 @@
       "club": "Kitchener",
       "lvl": "U18",
       "levels": [
-        "U18"
+        "U18",
+        "U18AA"
       ],
       "raw": [
-        "Kitchener U18AA"
+        "Kitchener U18AA",
+        "KITCHENER U18AA"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -138652,7 +138655,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138663,7 +138667,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138674,7 +138679,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138685,7 +138691,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138696,7 +138703,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138707,18 +138715,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "naughton|lyla",
-          "n": "77",
-          "name": "Lyla Naughton",
-          "ry": "2010",
-          "rg": "2028",
-          "rp": "D",
-          "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138729,8 +138727,26 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
+        },
+        {
+          "pk": "naughton|lyla",
+          "n": "77",
+          "name": "Lyla Naughton",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "weber|kyla",
@@ -138740,7 +138756,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138751,7 +138768,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138762,7 +138780,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138773,7 +138792,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138784,7 +138804,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138795,7 +138816,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138806,7 +138828,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138817,7 +138840,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138828,7 +138852,8 @@
           "rg": "2029",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138839,7 +138864,8 @@
           "rg": "2029",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
