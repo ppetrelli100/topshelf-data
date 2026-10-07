@@ -178149,7 +178149,8 @@
         "19U"
       ],
       "raw": [
-        "Lovell Academy 19U"
+        "Lovell Academy 19U",
+        "LOVELL Academy 19U"
       ],
       "tourneys": [
         "Misc"
@@ -178203,14 +178204,15 @@
           "ctry": "CAN",
           "t": [
             "Misc"
-          ]
+          ],
+          "commit": "Clarkson"
         },
         {
           "pk": "mckay|kari",
           "n": "19",
           "name": "Kari McKay",
           "ry": "2009",
-          "rg": "2027",
+          "rg": "2028",
           "rp": "D",
           "dob": "4/2/2009",
           "shot": "L",
@@ -178220,24 +178222,12 @@
           "commit": "Union",
           "t": [
             "Misc"
-          ]
-        },
-        {
-          "pk": "minucci|madelyn",
-          "n": "22",
-          "name": "Maddie Minucci",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "D",
-          "dob": "7/29/2009",
-          "shot": "R",
-          "state": "MA",
-          "ht": "5-6",
-          "home": "South Boston",
-          "commit": "Lindenwood",
-          "t": [
-            "Misc"
-          ]
+          ],
+          "alt": {
+            "rg": [
+              "2027"
+            ]
+          }
         },
         {
           "pk": "baratta|faith",
@@ -178272,6 +178262,29 @@
           "t": [
             "Misc"
           ]
+        },
+        {
+          "pk": "minucci|madelyn",
+          "n": "22",
+          "name": "Maddie Minucci",
+          "ry": "2009",
+          "rg": "2027",
+          "rp": "F",
+          "dob": "7/29/2009",
+          "shot": "R",
+          "state": "MA",
+          "ht": "5-6",
+          "home": "South Boston",
+          "commit": "Lindenwood",
+          "t": [
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          },
+          "tag": "nickname: absent"
         },
         {
           "pk": "clark|caroline",
@@ -178338,7 +178351,8 @@
           "home": "Middletown",
           "t": [
             "Misc"
-          ]
+          ],
+          "commit": "UNH"
         },
         {
           "pk": "monter|aubryn",
@@ -178379,7 +178393,7 @@
           "n": "15",
           "name": "Emily Macaulay",
           "ry": "2009",
-          "rg": "2027",
+          "rg": "2028",
           "rp": "F",
           "dob": "6/8/2009",
           "shot": "L",
@@ -178389,7 +178403,12 @@
           "commit": "Clarkson",
           "t": [
             "Misc"
-          ]
+          ],
+          "alt": {
+            "rg": [
+              "2027"
+            ]
+          }
         },
         {
           "pk": "gildainova|tereza",
@@ -178481,7 +178500,7 @@
           "n": "1",
           "name": "Callie Corraro",
           "ry": "2008",
-          "rg": "",
+          "rg": "2027",
           "rp": "G",
           "dob": "5/10/2008",
           "shot": "L",
