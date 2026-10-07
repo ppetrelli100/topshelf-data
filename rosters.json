@@ -123483,18 +123483,6 @@
       ],
       "players": [
         {
-          "pk": "fournier|chloe",
-          "n": "4",
-          "name": "Chloe Fournier",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "D",
-          "t": [
-            "Stoney",
-            "Misc"
-          ]
-        },
-        {
           "pk": "bagdonas|lucy",
           "n": "6",
           "name": "Lucy Bagdonas",
@@ -123553,6 +123541,23 @@
             "Stoney",
             "Misc"
           ]
+        },
+        {
+          "pk": "fournier|chloe",
+          "n": "4",
+          "name": "Chloe Fournier",
+          "ry": "2009",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "horstman|carly",
