@@ -147618,23 +147618,6 @@
           ]
         },
         {
-          "pk": "bitarovska|estella",
-          "n": "68",
-          "name": "Stella Bitarovska",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "D",
-          "t": [
-            "Stoney",
-            "Misc"
-          ],
-          "alt": {
-            "rp": [
-              "F"
-            ]
-          }
-        },
-        {
           "pk": "esford|addison",
           "n": "11",
           "name": "Addy Esford",
@@ -147651,6 +147634,24 @@
           "name": "Sophie Spisak",
           "ry": "2011",
           "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D",
+              "F"
+            ]
+          }
+        },
+        {
+          "pk": "bitarovska|estella",
+          "n": "68",
+          "name": "Stella Bitarovska",
+          "ry": "2011",
+          "rg": "2029",
           "rp": "F",
           "t": [
             "Stoney",
@@ -147658,6 +147659,7 @@
           ],
           "alt": {
             "rp": [
+              "F",
               "D"
             ]
           }
@@ -147811,7 +147813,7 @@
           "n": "36",
           "name": "Sofia Tumanova",
           "ry": "2010",
-          "rg": "2029",
+          "rg": "2028",
           "rp": "G",
           "t": [
             "Stoney",
@@ -147819,7 +147821,8 @@
           ],
           "alt": {
             "rg": [
-              "2028"
+              "2028",
+              "2029"
             ]
           }
         }
