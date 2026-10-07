@@ -155498,13 +155498,16 @@
       "club": "Sault Ste Marie",
       "lvl": "U18",
       "levels": [
-        "U18"
+        "U18",
+        "U18AA"
       ],
       "raw": [
-        "Sault Ste Marie U18AA"
+        "Sault Ste Marie U18AA",
+        "SAULT STE MARIE U18AA"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -155515,7 +155518,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155526,7 +155530,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155537,7 +155542,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155548,7 +155554,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155559,7 +155566,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155570,7 +155578,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155581,7 +155590,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155592,7 +155602,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155603,7 +155614,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155614,7 +155626,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155625,7 +155638,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155636,7 +155650,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155647,7 +155662,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155658,7 +155674,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155669,7 +155686,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155680,7 +155698,8 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -155691,7 +155710,8 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
