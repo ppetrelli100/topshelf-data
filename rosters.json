@@ -126114,7 +126114,8 @@
             "Pittsburgh",
             "Stoney",
             "Misc"
-          ]
+          ],
+          "commit": "Union"
         },
         {
           "pk": "cummings|lylah",
@@ -126142,6 +126143,24 @@
             "Stoney",
             "Misc"
           ]
+        },
+        {
+          "pk": "watson|colbie",
+          "n": "20",
+          "name": "Colbie Watson",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Pittsburgh",
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "F"
+            ]
+          }
         },
         {
           "pk": "thorpe|emily",
@@ -126201,19 +126220,6 @@
           "name": "Maya O'Leary",
           "ry": "2008",
           "rg": "2027",
-          "rp": "F",
-          "t": [
-            "Pittsburgh",
-            "Stoney",
-            "Misc"
-          ]
-        },
-        {
-          "pk": "watson|colbie",
-          "n": "20",
-          "name": "Colbie Watson",
-          "ry": "2010",
-          "rg": "2028",
           "rp": "F",
           "t": [
             "Pittsburgh",
