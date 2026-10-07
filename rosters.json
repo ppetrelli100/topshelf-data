@@ -144641,18 +144641,6 @@
           ]
         },
         {
-          "pk": "boucher|kloe",
-          "n": "16",
-          "name": "Kloe Boucher",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "D",
-          "t": [
-            "Stoney",
-            "Misc"
-          ]
-        },
-        {
           "pk": "wood|emma",
           "n": "17",
           "name": "Emma Wood",
@@ -144709,6 +144697,23 @@
           "t": [
             "Misc"
           ]
+        },
+        {
+          "pk": "boucher|kloe",
+          "n": "16",
+          "name": "Kloe Boucher",
+          "ry": "2009",
+          "rg": "2027",
+          "rp": "F",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "bolton|kaylee",
