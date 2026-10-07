@@ -164969,11 +164969,13 @@
         "19U"
       ],
       "raw": [
-        "Windy City Storm 19U"
+        "Windy City Storm 19U",
+        "WINDY CITY Storm 19U"
       ],
       "tourneys": [
         "Pittsburgh",
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -164985,7 +164987,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -164997,7 +165000,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165009,7 +165013,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165021,8 +165026,28 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
+        },
+        {
+          "pk": "lucchese|alessandra",
+          "n": "23",
+          "name": "Alessandra Lucchese",
+          "ry": "2009",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Pittsburgh",
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "F",
+              "D"
+            ]
+          }
         },
         {
           "pk": "aristodemo|lillian",
@@ -165033,7 +165058,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165045,7 +165071,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165057,7 +165084,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165069,7 +165097,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165081,7 +165110,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165093,7 +165123,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165105,7 +165136,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165117,26 +165149,9 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
-        },
-        {
-          "pk": "lucchese|alessandra",
-          "n": "23",
-          "name": "Alessandra Lucchese",
-          "ry": "2009",
-          "rg": "2027",
-          "rp": "F",
-          "t": [
-            "Pittsburgh",
-            "Stoney"
-          ],
-          "alt": {
-            "rp": [
-              "F",
-              "D"
-            ]
-          }
         },
         {
           "pk": "nicholson|ashley",
@@ -165147,7 +165162,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165159,7 +165175,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165171,7 +165188,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165183,7 +165201,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165195,7 +165214,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -165207,7 +165227,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
