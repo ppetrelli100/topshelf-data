@@ -159871,10 +159871,12 @@
       "lvl": "19U",
       "levels": [
         "U22",
-        "U19"
+        "U19",
+        "19U"
       ],
       "raw": [
-        "Team Illinois 19U"
+        "Team Illinois 19U",
+        "TEAM ILLINOIS 19U"
       ],
       "tourneys": [
         "Stoney",
@@ -159883,7 +159885,7 @@
       "players": [
         {
           "pk": "rosen|amanda",
-          "n": "15",
+          "n": "23",
           "name": "Amanda Rosen",
           "ry": "2009",
           "rg": "2027",
@@ -159902,7 +159904,7 @@
         },
         {
           "pk": "cha|cassidy",
-          "n": "30",
+          "n": "26",
           "name": "Cassidy Cha",
           "ry": "2010",
           "rg": "2028",
@@ -159917,11 +159919,12 @@
               "30",
               "26"
             ]
-          }
+          },
+          "tag": "Injured"
         },
         {
           "pk": "haratani|eleanor",
-          "n": "87",
+          "n": "16",
           "name": "Ellie Haratani",
           "ry": "2009",
           "rg": "2028",
@@ -159939,7 +159942,7 @@
         },
         {
           "pk": "vertucci|olivia",
-          "n": "13",
+          "n": "18",
           "name": "Olivia Vertucci",
           "ry": "2008",
           "rg": "2027",
@@ -159957,7 +159960,7 @@
         },
         {
           "pk": "southcott|sierra",
-          "n": "50",
+          "n": "13",
           "name": "Sierra Southcott",
           "ry": "2009",
           "rg": "2027",
@@ -159987,7 +159990,7 @@
         },
         {
           "pk": "lane|brettlyn",
-          "n": "26",
+          "n": "15",
           "name": "Brettlyn Lane",
           "ry": "2009",
           "rg": "2028",
@@ -160001,11 +160004,12 @@
               "26",
               "15"
             ]
-          }
+          },
+          "commit": "St. Cloud State"
         },
         {
           "pk": "ariens|chloe",
-          "n": "12",
+          "n": "5",
           "name": "Chloe Ariens",
           "ry": "2009",
           "rg": "2027",
@@ -160024,7 +160028,7 @@
         },
         {
           "pk": "close|elle",
-          "n": "16",
+          "n": "12",
           "name": "Elle Close",
           "ry": "2009",
           "rg": "2027",
@@ -160042,7 +160046,7 @@
         },
         {
           "pk": "lathan|heidi",
-          "n": "9",
+          "n": "87",
           "name": "Heidi Lathan",
           "ry": "2007",
           "rg": "2026",
@@ -160060,7 +160064,7 @@
         },
         {
           "pk": "lane|helen",
-          "n": "21",
+          "n": "9",
           "name": "Helen Lane",
           "ry": "2009",
           "rg": "2027",
@@ -160079,7 +160083,7 @@
         },
         {
           "pk": "humes|isabelle",
-          "n": "4",
+          "n": "21",
           "name": "Isabelle Humes",
           "ry": "2008",
           "rg": "2027",
@@ -160097,7 +160101,7 @@
         },
         {
           "pk": "matke|julia",
-          "n": "70",
+          "n": "4",
           "name": "Julia Matke",
           "ry": "2008",
           "rg": "2027",
@@ -160115,7 +160119,7 @@
         },
         {
           "pk": "mulvihill|katherine",
-          "n": "7",
+          "n": "70",
           "name": "Kate Mulvihill",
           "ry": "2009",
           "rg": "2027",
@@ -160133,7 +160137,7 @@
         },
         {
           "pk": "barr|keira",
-          "n": "86",
+          "n": "7",
           "name": "Keira Barr",
           "ry": "2008",
           "rg": "2026",
@@ -160169,7 +160173,7 @@
         },
         {
           "pk": "sherman|lillian",
-          "n": "77",
+          "n": "28",
           "name": "Lily Sherman",
           "ry": "2008",
           "rg": "2027",
@@ -160187,7 +160191,7 @@
         },
         {
           "pk": "bozue|madison",
-          "n": "25",
+          "n": "77",
           "name": "Madison Bozue",
           "ry": "2010",
           "rg": "2028",
@@ -160205,7 +160209,7 @@
         },
         {
           "pk": "johnston|neve",
-          "n": "18",
+          "n": "25",
           "name": "Neve Johnston",
           "ry": "2009",
           "rg": "2027",
@@ -160223,7 +160227,7 @@
         },
         {
           "pk": "wielenberg|cecilia",
-          "n": "5",
+          "n": "30",
           "name": "Cecilia Wielenberg",
           "ry": "2009",
           "rg": "2027",
@@ -160242,7 +160246,7 @@
         },
         {
           "pk": "most|sophia",
-          "n": "27",
+          "n": "50",
           "name": "Sophia Most",
           "ry": "2009",
           "rg": "2028",
