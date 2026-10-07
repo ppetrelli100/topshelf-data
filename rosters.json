@@ -128775,11 +128775,13 @@
         "19U"
       ],
       "raw": [
-        "Chicago Mission 19U"
+        "Chicago Mission 19U",
+        "CHICAGO MISSION 19U"
       ],
       "tourneys": [
         "Pittsburgh",
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -128791,7 +128793,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128803,7 +128806,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128815,7 +128819,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128827,8 +128832,10 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Dartmouth"
         },
         {
           "pk": "sell|willow",
@@ -128839,7 +128846,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128851,7 +128859,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128863,26 +128872,30 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Harvard"
         },
         {
           "pk": "chen|anne",
           "n": "29",
           "name": "Annie Chen",
           "ry": "2009",
-          "rg": "2028",
+          "rg": "2027",
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ],
           "alt": {
             "rg": [
               "2028",
               "2027"
             ]
-          }
+          },
+          "commit": "Amherst C"
         },
         {
           "pk": "finke|emmersyn",
@@ -128893,7 +128906,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128905,7 +128919,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128917,7 +128932,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128929,8 +128945,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Williams C"
         },
         {
           "pk": "prodoehl|charlotte",
@@ -128941,8 +128959,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Holy Cross"
         },
         {
           "pk": "reeder|sarah",
@@ -128953,8 +128973,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Brown"
         },
         {
           "pk": "regan|makenna",
@@ -128965,8 +128987,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Stonehill"
         },
         {
           "pk": "vahl|emery",
@@ -128977,7 +129001,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128989,7 +129014,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129001,7 +129027,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129013,7 +129040,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129025,7 +129053,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
