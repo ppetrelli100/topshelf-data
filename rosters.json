@@ -139614,11 +139614,13 @@
       ],
       "raw": [
         "Little Caesars 19U",
-        "Detroit Little Caesars 19U"
+        "Detroit Little Caesars 19U",
+        "LITTLE CAESARS 19U"
       ],
       "tourneys": [
         "Pittsburgh",
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -139630,7 +139632,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139642,8 +139645,10 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Colgate"
         },
         {
           "pk": "oconnor|aoife",
@@ -139654,7 +139659,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139666,7 +139672,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139678,8 +139685,10 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Long Island"
         },
         {
           "pk": "adair|ella",
@@ -139690,7 +139699,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139702,7 +139712,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139714,8 +139725,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Union"
         },
         {
           "pk": "dukovac|charlotte",
@@ -139726,8 +139739,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Providence"
         },
         {
           "pk": "oreilly|camilla",
@@ -139738,7 +139753,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139750,8 +139766,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Northeastern"
         },
         {
           "pk": "waldrop|emma",
@@ -139762,7 +139780,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139774,7 +139793,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139786,8 +139806,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Ohio State"
         },
         {
           "pk": "gilbert|ciara",
@@ -139798,7 +139820,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139810,7 +139833,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139822,7 +139846,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -139834,8 +139859,10 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Union"
         },
         {
           "pk": "macleish|lilly",
@@ -139846,8 +139873,10 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Boston College"
         },
         {
           "pk": "kennedy|claire",
@@ -139858,7 +139887,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
