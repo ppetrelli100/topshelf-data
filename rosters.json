@@ -134511,13 +134511,16 @@
       "club": "Florida Alliance",
       "lvl": "19U",
       "levels": [
-        "U22"
+        "U22",
+        "19U"
       ],
       "raw": [
-        "Florida Alliance 19U"
+        "Florida Alliance 19U",
+        "FLORIDA ALLIANCE 19U"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -134528,7 +134531,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134539,7 +134543,8 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134550,7 +134555,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134561,7 +134567,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134572,7 +134579,8 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134583,7 +134591,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134594,7 +134603,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134605,7 +134615,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134616,7 +134627,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134627,7 +134639,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134638,7 +134651,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134649,7 +134663,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134660,7 +134675,8 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134671,7 +134687,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134682,7 +134699,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134693,7 +134711,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134704,7 +134723,8 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -134715,7 +134735,8 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
