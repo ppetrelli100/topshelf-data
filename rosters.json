@@ -140307,13 +140307,16 @@
       "club": "London Devilettes",
       "lvl": "U22",
       "levels": [
-        "U22"
+        "U22",
+        "U22AA"
       ],
       "raw": [
-        "London U22AA"
+        "London U22AA",
+        "LONDON U22AA"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -140324,7 +140327,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140335,7 +140339,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140346,7 +140351,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140357,7 +140363,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140368,8 +140375,10 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Carleton"
         },
         {
           "pk": "stokes|layla",
@@ -140379,7 +140388,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140390,7 +140400,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140401,7 +140412,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140412,7 +140424,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140423,7 +140436,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140434,8 +140448,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Western"
         },
         {
           "pk": "boere|emma",
@@ -140445,7 +140461,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140456,7 +140473,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140467,7 +140485,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140478,8 +140497,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Windsor"
         },
         {
           "pk": "holm|emma",
@@ -140489,7 +140510,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140500,7 +140522,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140511,7 +140534,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140522,7 +140546,8 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -140533,7 +140558,8 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
