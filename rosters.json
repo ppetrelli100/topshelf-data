@@ -167907,54 +167907,48 @@
         "16U"
       ],
       "raw": [
-        "Fox Motors 16U"
+        "Fox Motors 16U",
+        "FOX MOTORS 16U"
       ],
       "tourneys": [
-        "Pittsburgh"
+        "Pittsburgh",
+        "Misc"
       ],
       "players": [
-        {
-          "pk": "beaudoin|addison",
-          "n": "26",
-          "name": "Addie Beaudoin",
-          "ry": "",
-          "rg": "2029",
-          "rp": "D",
-          "t": [
-            "Pittsburgh"
-          ]
-        },
         {
           "pk": "fisher|julia",
           "n": "44",
           "name": "Julia Fisher",
-          "ry": "",
+          "ry": "2010",
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "keller|ava",
           "n": "5",
           "name": "Ava Keller",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "michaud|riley",
           "n": "47",
           "name": "Riley Michaud",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -167972,132 +167966,179 @@
           "pk": "slobodnik|juliet",
           "n": "11",
           "name": "Juliet Slobodnik",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "zocco|noelle",
           "n": "33",
           "name": "Noelle Zocco",
-          "ry": "",
+          "ry": "2011",
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
+        },
+        {
+          "pk": "saunders|kaelynn",
+          "n": "16",
+          "name": "Kaelynn Saunders",
+          "ry": "2010",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ],
+          "tag": "nickname: KK"
+        },
+        {
+          "pk": "beaudoin|addison",
+          "n": "26",
+          "name": "Addie Beaudoin",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Pittsburgh",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          },
+          "tag": "nickname: AJ"
         },
         {
           "pk": "cadarette|sofia",
           "n": "10",
           "name": "Sofia Cadarette",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "colpean|marie",
           "n": "88",
           "name": "Marie Colpean",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "dixon|breckyn",
           "n": "37",
           "name": "Breckyn Dixon",
-          "ry": "",
+          "ry": "2010",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "labonte|carsyn",
           "n": "24",
           "name": "Carsyn LaBonte",
-          "ry": "",
-          "rg": "2029",
-          "rp": "F",
-          "t": [
-            "Pittsburgh"
-          ]
-        },
-        {
-          "pk": "philo|eleanor",
-          "n": "42",
-          "name": "Ellie Philo",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Pittsburgh"
-          ]
+            "Pittsburgh",
+            "Misc"
+          ],
+          "alt": {
+            "rg": [
+              "2029"
+            ]
+          }
         },
         {
           "pk": "steinmetz|monica",
           "n": "86",
           "name": "Monica Steinmetz",
-          "ry": "",
+          "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "tidd|mia",
           "n": "7",
           "name": "Mia Tidd",
-          "ry": "",
+          "ry": "2010",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "zelazowski|anabel",
           "n": "27",
           "name": "Anabel Zelazowski",
-          "ry": "",
+          "ry": "2010",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
+        },
+        {
+          "pk": "philo|elizabeth",
+          "n": "42",
+          "name": "Elizabeth Philo",
+          "ry": "2010",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "tag": "nickname: Ellie"
         },
         {
           "pk": "nichols|harper",
           "n": "12",
           "name": "Harper Nichols",
-          "ry": "",
+          "ry": "2011",
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
           "pk": "stolz|rilyn",
           "n": "32",
           "name": "Rilyn Stolz",
-          "ry": "",
+          "ry": "2010",
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         }
       ]
