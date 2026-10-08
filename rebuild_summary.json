@@ -1,0 +1,883 @@
+{
+  "generated": "2026-10-08T00:35:47.147Z",
+  "applied": [
+    "APPLIED     (1 row) tourn/Name jenecke|keeley: \"Keeley Jenecke\" -> \"Keeley Janecke\"  [rosters.json + rosters_archive.json]"
+  ],
+  "players": {
+    "before": 13284,
+    "after": 13282
+  },
+  "removed": [
+    "buccione|annabelle",
+    "cetina|eva",
+    "gretebeckhenderson|ella",
+    "jenecke|keeley",
+    "philo|eleanor",
+    "vansicklevansickle|olivia"
+  ],
+  "added": [
+    "bath|olivia",
+    "jacobson|ella",
+    "smithcetina|eva",
+    "wibbelsman|emorie"
+  ],
+  "changedPlayers": 62,
+  "changedCells": 120,
+  "fieldDiffs": {
+    "City": 2,
+    "College": 2,
+    "BirthYr": 21,
+    "Grad": 34,
+    "Position": 9,
+    "Team2026": 12,
+    "Sr": 27,
+    "Team": 1,
+    "Team2024": 1,
+    "Jr": 3,
+    "Fresh": 4,
+    "State": 1,
+    "Soph": 3
+  },
+  "examples": [
+    {
+      "pk": "aird|maeve",
+      "name": "Maeve Aird",
+      "field": "City",
+      "from": "ONT",
+      "to": "Cobourg"
+    },
+    {
+      "pk": "aird|maeve",
+      "name": "Maeve Aird",
+      "field": "College",
+      "from": "",
+      "to": "Ohio State"
+    },
+    {
+      "pk": "albers|avery",
+      "name": "Avery Albers",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "albers|avery",
+      "name": "Avery Albers",
+      "field": "Grad",
+      "from": "",
+      "to": 2027
+    },
+    {
+      "pk": "anslow|molly",
+      "name": "Molly Anslow",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "beaudoin|addison",
+      "name": "Addison Beaudoin",
+      "field": "Position",
+      "from": "D",
+      "to": "F"
+    },
+    {
+      "pk": "beaudoin|addison",
+      "name": "Addison Beaudoin",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2011
+    },
+    {
+      "pk": "bitarovska|estella",
+      "name": "Stella Bitarovska",
+      "field": "Position",
+      "from": "D",
+      "to": "F"
+    },
+    {
+      "pk": "bockmann|eva",
+      "name": "Eva Bockmann",
+      "field": "Team2026",
+      "from": "Team Colorado 16U",
+      "to": "Team Colorado 19U"
+    },
+    {
+      "pk": "bouchard|lyanna",
+      "name": "Lyanna Bouchard",
+      "field": "Grad",
+      "from": "",
+      "to": 2030
+    },
+    {
+      "pk": "bouchard|lyanna",
+      "name": "Lyanna Bouchard",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "boucher|kloe",
+      "name": "Kloe Boucher",
+      "field": "Position",
+      "from": "D",
+      "to": "F"
+    },
+    {
+      "pk": "brandtner|ana",
+      "name": "Ana Brandtner",
+      "field": "Grad",
+      "from": "",
+      "to": 2030
+    },
+    {
+      "pk": "brandtner|ana",
+      "name": "Ana Brandtner",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "bromberg|jacqueline",
+      "name": "Jackie Bromberg",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "buccicone|annabelle",
+      "name": "Annabelle Buccicone",
+      "field": "Team",
+      "from": "MN Jr Whitecaps",
+      "to": "MN Elite Black"
+    },
+    {
+      "pk": "buccicone|annabelle",
+      "name": "Annabelle Buccicone",
+      "field": "Team2024",
+      "from": "",
+      "to": "MN Elite Blue 16U"
+    },
+    {
+      "pk": "buccicone|annabelle",
+      "name": "Annabelle Buccicone",
+      "field": "College",
+      "from": "",
+      "to": "Quinnipiac"
+    },
+    {
+      "pk": "bureau|beatrice",
+      "name": "Beatrice Bureau",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "bureau|beatrice",
+      "name": "Beatrice Bureau",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "carter|jillian",
+      "name": "Jillian Carter",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "carter|jillian",
+      "name": "Jillian Carter",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "carter|jillian",
+      "name": "Jillian Carter",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "chen|anne",
+      "name": "Annie Chen",
+      "field": "Grad",
+      "from": 2028,
+      "to": 2027
+    },
+    {
+      "pk": "chen|anne",
+      "name": "Annie Chen",
+      "field": "Sr",
+      "from": "x",
+      "to": ""
+    },
+    {
+      "pk": "dattilo|adriana",
+      "name": "Adriana Dattilo",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "dattilo|adriana",
+      "name": "Adriana Dattilo",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "derleth|madelynn",
+      "name": "Madelynn Derleth",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "derleth|madelynn",
+      "name": "Madelynn Derleth",
+      "field": "Grad",
+      "from": "",
+      "to": 2027
+    },
+    {
+      "pk": "dixon|breckyn",
+      "name": "Breckyn Dixon",
+      "field": "Team2026",
+      "from": "Fox Motors 19U",
+      "to": "Fox Motors 16U"
+    },
+    {
+      "pk": "dixon|breckyn",
+      "name": "Breckyn Dixon",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "dixon|breckyn",
+      "name": "Breckyn Dixon",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "fisher|julia",
+      "name": "Julia Fisher",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "fisher|julia",
+      "name": "Julia Fisher",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "fournier|chloe",
+      "name": "Chloe Fournier",
+      "field": "Position",
+      "from": "D",
+      "to": "F"
+    },
+    {
+      "pk": "gagnon|sophia",
+      "name": "Sophie Gagnon",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "gagnon|sophia",
+      "name": "Sophie Gagnon",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "gilbert|hailey",
+      "name": "Hailey Gilbert",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "gilbert|hailey",
+      "name": "Hailey Gilbert",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "grenier|charlotte",
+      "name": "Charlie Grenier",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "groleau|addison",
+      "name": "Addison Groleau",
+      "field": "Grad",
+      "from": 2029,
+      "to": 2028
+    },
+    {
+      "pk": "groleau|addison",
+      "name": "Addison Groleau",
+      "field": "Jr",
+      "from": "x",
+      "to": ""
+    },
+    {
+      "pk": "groleau|addison",
+      "name": "Addison Groleau",
+      "field": "Fresh",
+      "from": "",
+      "to": "U15"
+    },
+    {
+      "pk": "heise|kennedy",
+      "name": "Kennedy Heise",
+      "field": "Grad",
+      "from": 2028,
+      "to": 2029
+    },
+    {
+      "pk": "heise|kennedy",
+      "name": "Kennedy Heise",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "henderson|ella",
+      "name": "Ella Henderson",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2011
+    },
+    {
+      "pk": "henderson|ella",
+      "name": "Ella Henderson",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "janecke|keeley",
+      "name": "Keeley Janecke",
+      "field": "City",
+      "from": "",
+      "to": "MN"
+    },
+    {
+      "pk": "janecke|keeley",
+      "name": "Keeley Janecke",
+      "field": "State",
+      "from": "",
+      "to": "MN"
+    },
+    {
+      "pk": "janecke|keeley",
+      "name": "Keeley Janecke",
+      "field": "Team2026",
+      "from": "",
+      "to": "NAHA 16U"
+    },
+    {
+      "pk": "jensen|madelyn",
+      "name": "Maddie Jensen",
+      "field": "BirthYr",
+      "from": 2011,
+      "to": ""
+    },
+    {
+      "pk": "jensen|madelyn",
+      "name": "Maddie Jensen",
+      "field": "Team2026",
+      "from": "Team Illinois 16U",
+      "to": ""
+    },
+    {
+      "pk": "jensen|madelyn",
+      "name": "Maddie Jensen",
+      "field": "Sr",
+      "from": "x",
+      "to": ""
+    },
+    {
+      "pk": "kelly|emma",
+      "name": "Emma Kelly",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "kelly|emma",
+      "name": "Emma Kelly",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "krukowski|morgan",
+      "name": "Morgan Krukowski",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "krukowski|morgan",
+      "name": "Morgan Krukowski",
+      "field": "Grad",
+      "from": "",
+      "to": 2027
+    },
+    {
+      "pk": "labonte|carsyn",
+      "name": "Carsyn LaBonte",
+      "field": "Grad",
+      "from": 2029,
+      "to": 2028
+    },
+    {
+      "pk": "labonte|carsyn",
+      "name": "Carsyn LaBonte",
+      "field": "Fresh",
+      "from": "U15",
+      "to": ""
+    },
+    {
+      "pk": "labonte|carsyn",
+      "name": "Carsyn LaBonte",
+      "field": "Sr",
+      "from": "x",
+      "to": ""
+    },
+    {
+      "pk": "labonte|carsyn",
+      "name": "Carsyn LaBonte",
+      "field": "Soph",
+      "from": "",
+      "to": "U15"
+    },
+    {
+      "pk": "landa|charly",
+      "name": "Charly Landa",
+      "field": "Team2026",
+      "from": "Team Colorado 16U",
+      "to": "Team Colorado 19U"
+    },
+    {
+      "pk": "laytart|nora",
+      "name": "Nora Laytart",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "laytart|nora",
+      "name": "Nora Laytart",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "laytart|nora",
+      "name": "Nora Laytart",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "logan|alexandra",
+      "name": "Alexandra Logan",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "logan|alexandra",
+      "name": "Alexandra Logan",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "lucchese|alessandra",
+      "name": "Alessandra Lucchese",
+      "field": "Position",
+      "from": "F",
+      "to": "D"
+    },
+    {
+      "pk": "mckay|kari",
+      "name": "Kari McKay",
+      "field": "Grad",
+      "from": 2027,
+      "to": 2028
+    },
+    {
+      "pk": "mckay|kari",
+      "name": "Kari McKay",
+      "field": "Soph",
+      "from": "U15",
+      "to": "U1617"
+    },
+    {
+      "pk": "mckay|kari",
+      "name": "Kari McKay",
+      "field": "Jr",
+      "from": "U1617",
+      "to": ""
+    },
+    {
+      "pk": "mckay|kari",
+      "name": "Kari McKay",
+      "field": "Fresh",
+      "from": "",
+      "to": "U15"
+    },
+    {
+      "pk": "mckay|kari",
+      "name": "Kari McKay",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "mehling|katherine",
+      "name": "Katherine Mehling",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "michaud|riley",
+      "name": "Riley Michaud",
+      "field": "Team2026",
+      "from": "Fox Motors 19U",
+      "to": "Fox Motors 16U"
+    },
+    {
+      "pk": "michaud|riley",
+      "name": "Riley Michaud",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "naughton|lyla",
+      "name": "Lyla Naughton",
+      "field": "Position",
+      "from": "D",
+      "to": "F"
+    },
+    {
+      "pk": "palik|alexis",
+      "name": "Alexis Palik",
+      "field": "Grad",
+      "from": "",
+      "to": 2030
+    },
+    {
+      "pk": "palik|alexis",
+      "name": "Alexis Palik",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "paull|callie",
+      "name": "Callie Paull",
+      "field": "Team2026",
+      "from": "Kingston Ice Wolves U22",
+      "to": "Bluewater U18"
+    },
+    {
+      "pk": "peterson|eleanor",
+      "name": "Ellie Peterson",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "peterson|eleanor",
+      "name": "Ellie Peterson",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "philo|elizabeth",
+      "name": "Elizabeth Philo",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "philo|elizabeth",
+      "name": "Elizabeth Philo",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "philo|elizabeth",
+      "name": "Elizabeth Philo",
+      "field": "Position",
+      "from": "",
+      "to": "F"
+    },
+    {
+      "pk": "philo|elizabeth",
+      "name": "Elizabeth Philo",
+      "field": "Team2026",
+      "from": "",
+      "to": "Fox Motors 16U"
+    },
+    {
+      "pk": "plummer|jordyn",
+      "name": "Jordyn Plummer",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "plummer|jordyn",
+      "name": "Jordyn Plummer",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "robinson|kinsey",
+      "name": "Kinsey Robinson",
+      "field": "Team2026",
+      "from": "Team Colorado 16U",
+      "to": "Team Colorado 19U"
+    },
+    {
+      "pk": "roy|chloe",
+      "name": "Chloe Roy",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "russell|ava",
+      "name": "Ava Russell",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "saunders|kaelynn",
+      "name": "Kaelynn Saunders",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "saunders|kaelynn",
+      "name": "Kaelynn Saunders",
+      "field": "Team2026",
+      "from": "",
+      "to": "Fox Motors 16U"
+    },
+    {
+      "pk": "saunders|kaelynn",
+      "name": "Kaelynn Saunders",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "shell|lauren",
+      "name": "Lauren Shell",
+      "field": "Team2026",
+      "from": "HoneyBaked 19U",
+      "to": "Florida Alliance 19U"
+    },
+    {
+      "pk": "shorland|shea",
+      "name": "Shea Shorland",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "simard|margot",
+      "name": "Margot Simard",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "simard|margot",
+      "name": "Margot Simard",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "smith|jane",
+      "name": "Jane Smith",
+      "field": "BirthYr",
+      "from": 2011,
+      "to": 2010
+    },
+    {
+      "pk": "spalding|avery",
+      "name": "Avery Spalding",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "spisak|sophia",
+      "name": "Sophie Spisak",
+      "field": "Position",
+      "from": "F",
+      "to": "D"
+    },
+    {
+      "pk": "stankevich|zoey",
+      "name": "Zoey Stankevich",
+      "field": "Team2026",
+      "from": "HoneyBaked 16U",
+      "to": ""
+    },
+    {
+      "pk": "sylvester|mia",
+      "name": "Mia Sylvester",
+      "field": "BirthYr",
+      "from": 2011,
+      "to": 2010
+    },
+    {
+      "pk": "tumanova|sofia",
+      "name": "Sofia Tumanova",
+      "field": "Grad",
+      "from": 2029,
+      "to": 2028
+    },
+    {
+      "pk": "tumanova|sofia",
+      "name": "Sofia Tumanova",
+      "field": "Sr",
+      "from": "x",
+      "to": ""
+    },
+    {
+      "pk": "waalkes|zariya",
+      "name": "Zariya Waalkes",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "waalkes|zariya",
+      "name": "Zariya Waalkes",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "waalkes|zariya",
+      "name": "Zariya Waalkes",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "walsh|erin",
+      "name": "Erin Walsh",
+      "field": "Grad",
+      "from": 2025,
+      "to": 2030
+    },
+    {
+      "pk": "walsh|erin",
+      "name": "Erin Walsh",
+      "field": "Fresh",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "walsh|erin",
+      "name": "Erin Walsh",
+      "field": "Soph",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "walsh|erin",
+      "name": "Erin Walsh",
+      "field": "Jr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "walsh|erin",
+      "name": "Erin Walsh",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "wardell|carly",
+      "name": "Carly Wardell",
+      "field": "Grad",
+      "from": 2027,
+      "to": 2028
+    },
+    {
+      "pk": "watson|colbie",
+      "name": "Colbie Watson",
+      "field": "Position",
+      "from": "F",
+      "to": "D"
+    },
+    {
+      "pk": "welch|raquel",
+      "name": "Raquel Welch",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "welch|raquel",
+      "name": "Raquel Welch",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "welch|raquel",
+      "name": "Raquel Welch",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "zelazowski|anabel",
+      "name": "Anabel Zelazowski",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2010
+    },
+    {
+      "pk": "zelazowski|anabel",
+      "name": "Anabel Zelazowski",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    }
+  ]
+}
