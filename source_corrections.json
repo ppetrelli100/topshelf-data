@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Corrections queued from the Master Viewer. tools/apply_corrections.js applies them to the source files (every row of that player in that source), then moves each applied one from \"corrections\" (the queue) to \"applied\" (history). Rebuild from the Pipeline tab.",
   "corrections": [
-    {"source": "tourn", "personkey": "jenecke|keeley", "field": "Name", "from": "Keeley Jenecke", "to": "Keeley Janecke", "note": "Teams tab: NAHA 16U", "added": "2026-10-07"}
+
   ],
   "applied": [
     {"source": "tourn", "personkey": "orizzoti|gia", "field": "Name", "from": "Gia Orizzoti", "to": "Gia Orizotti", "added": "2026-10-04", "applied": "2026-10-04"},
@@ -12,6 +12,7 @@
     {"source": "tourn", "personkey": "kittleson|jersey", "field": "Name", "from": "Jersey Kittleson", "to": "Jersey Kittelson", "note": "Teams tab: Saskatoon Stars U18", "added": "2026-10-06", "applied": "2026-10-06"},
     {"source": "tourn", "personkey": "bary|avery", "field": "Name", "from": "Avery Bary", "to": "Avery Barry", "note": "Teams tab: Saskatoon Stars U18", "added": "2026-10-06", "applied": "2026-10-06"},
     {"source": "tourn", "personkey": "pisarcyzk|katherine", "field": "Name", "from": "Kate Pisarcyzk", "to": "Kate Pisarczyk", "note": "Teams tab: Edge School U18", "added": "2026-10-06", "applied": "2026-10-06"},
-    {"source": "tourn", "personkey": "farguhar|anne", "field": "Name", "from": "Annie Farguhar", "to": "Annie Farquhar", "note": "Teams tab: Chicago Mission 14U", "added": "2026-10-06", "applied": "2026-10-06"}
+    {"source": "tourn", "personkey": "farguhar|anne", "field": "Name", "from": "Annie Farguhar", "to": "Annie Farquhar", "note": "Teams tab: Chicago Mission 14U", "added": "2026-10-06", "applied": "2026-10-06"},
+    {"source": "tourn", "personkey": "jenecke|keeley", "field": "Name", "from": "Keeley Jenecke", "to": "Keeley Janecke", "note": "Teams tab: NAHA 16U", "added": "2026-10-07", "applied": "2026-10-08"}
   ]
 }
