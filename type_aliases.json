@@ -1080,7 +1080,7 @@
     "country": "US"
   },
   {
-    "pattern": "^(?:boston\\s*)?(?:jr\\.?|junior)?\\s*eagles\\s*(?:girls)?$",
+    "pattern": "^(?:boston\\s*)?(?:jr\\.?|junior)?\\s*eagles\\s*(?:girls)?\\s*(?:\\(maroon\\))?$",
     "type": "CLUB",
     "friendly": "Boston Jr Eagles",
     "country": "US"
