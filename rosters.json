@@ -145635,13 +145635,16 @@
       "club": "North York Storm",
       "lvl": "U15",
       "levels": [
-        "U15"
+        "U15",
+        "U15AA"
       ],
       "raw": [
-        "North York U15AA"
+        "North York U15AA",
+        "NORTH YORK STORM U15AA"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -145652,18 +145655,20 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
           "pk": "wilkinson|brynn",
           "n": "12",
           "name": "Brynn Wilkinson",
-          "ry": "",
+          "ry": "2013",
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145674,7 +145679,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145685,7 +145691,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145696,7 +145703,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145707,7 +145715,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145718,7 +145727,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145729,7 +145739,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145740,7 +145751,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145751,7 +145763,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145762,7 +145775,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145773,7 +145787,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145784,7 +145799,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145795,7 +145811,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145806,7 +145823,19 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "larose|elle",
+          "n": "77",
+          "name": "Elle LaRose",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -145817,7 +145846,8 @@
           "rg": "2031",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -145828,7 +145858,8 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
