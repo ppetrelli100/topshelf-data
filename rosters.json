@@ -129574,10 +129574,12 @@
         "U18"
       ],
       "raw": [
-        "College Bourget U18 PREP"
+        "College Bourget U18 PREP",
+        "COLLEGE BOURGET U18 PREP"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -129588,7 +129590,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129599,18 +129602,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "beaumont|zoe",
-          "n": "10",
-          "name": "Zoe Beaumont",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "D",
-          "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129621,7 +129614,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129632,7 +129626,8 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129643,8 +129638,26 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
+        },
+        {
+          "pk": "beaumont|zoe",
+          "n": "10",
+          "name": "Zoe Beaumont",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "beaumier|justine",
@@ -129654,7 +129667,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129665,7 +129679,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129676,7 +129691,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129687,7 +129703,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129698,7 +129715,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129709,7 +129727,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129720,7 +129739,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129731,7 +129751,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129742,7 +129763,19 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stpierre|stephanie",
+          "n": "22",
+          "name": "Stephanie St-Pierre",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -129753,7 +129786,8 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -129764,7 +129798,8 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
