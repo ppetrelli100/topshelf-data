@@ -138152,13 +138152,16 @@
       "club": "Kingston Ice Wolves",
       "lvl": "U18",
       "levels": [
-        "U18"
+        "U18",
+        "U18AA"
       ],
       "raw": [
-        "Kingston U18AA"
+        "Kingston U18AA",
+        "KINGSTON U18AA"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -138169,7 +138172,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138180,7 +138184,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138191,7 +138196,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138202,7 +138208,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138213,7 +138220,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138224,7 +138232,8 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138235,7 +138244,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138246,7 +138256,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138257,7 +138268,8 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138268,7 +138280,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138279,7 +138292,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138290,7 +138304,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138301,7 +138316,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138312,7 +138328,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138323,7 +138340,8 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138334,7 +138352,8 @@
           "rg": "2029",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -138345,7 +138364,8 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
