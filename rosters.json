@@ -177627,10 +177627,12 @@
       "club": "Lovell Academy",
       "lvl": "14U",
       "levels": [
-        "14U"
+        "14U",
+        "14UAAA"
       ],
       "raw": [
-        "Lovell Academy 14U"
+        "Lovell Academy 14U",
+        "LOVELL ACADEMY LIONS 14UAAA"
       ],
       "tourneys": [
         "Misc"
@@ -177717,6 +177719,27 @@
           ]
         },
         {
+          "pk": "kuscher|mia",
+          "n": "11",
+          "name": "Mia Kuscher",
+          "ry": "2012",
+          "rg": "2030",
+          "rp": "D",
+          "dob": "5/9/2012",
+          "shot": "L",
+          "state": "MA",
+          "ht": "5-4",
+          "home": "Marlborough",
+          "t": [
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "F"
+            ]
+          }
+        },
+        {
           "pk": "taylor|molly",
           "n": "2",
           "name": "Molly Taylor",
@@ -177760,22 +177783,6 @@
           "state": "CT",
           "ht": "5-0",
           "home": "Trumbull",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "kuscher|mia",
-          "n": "11",
-          "name": "Mia Kuscher",
-          "ry": "2012",
-          "rg": "2030",
-          "rp": "F",
-          "dob": "5/9/2012",
-          "shot": "L",
-          "state": "MA",
-          "ht": "5-4",
-          "home": "Marlborough",
           "t": [
             "Misc"
           ]
