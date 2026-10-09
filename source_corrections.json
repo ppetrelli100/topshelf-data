@@ -5,7 +5,8 @@
     {"source": "tourn", "personkey": "snigh|poppy", "field": "Name", "from": "Poppy Snigh", "to": "Poppy Singh", "note": "Teams tab: Kitchener U15", "added": "2026-10-09"},
     {"source": "tourn", "personkey": "montomery|kenzie", "field": "Name", "from": "Kenzie Montomery", "to": "Kenzie Montgomery", "note": "Teams tab: LA Lions 14U", "added": "2026-10-09"},
     {"source": "tourn", "personkey": "forster|zoe", "field": "Name", "from": "Zoe Forster", "to": "Zoe Foster", "note": "Teams tab: Scarborough U15", "added": "2026-10-09"},
-    {"source": "tourn", "personkey": "mendia|namali", "field": "Name", "from": "Namali Mendia", "to": "Namali Mendis", "note": "Teams tab: St Catharines U15", "added": "2026-10-09"}
+    {"source": "tourn", "personkey": "mendia|namali", "field": "Name", "from": "Namali Mendia", "to": "Namali Mendis", "note": "Teams tab: St Catharines U15", "added": "2026-10-09"},
+    {"source": "tourn", "personkey": "johnstone|katharine", "field": "Name", "from": "Katharine Johnstone", "to": "Katherine Johnstone", "note": "Teams tab: Stoney Creek Sabres U15", "added": "2026-10-09"}
   ],
   "applied": [
     {"source": "tourn", "personkey": "orizzoti|gia", "field": "Name", "from": "Gia Orizzoti", "to": "Gia Orizotti", "added": "2026-10-04", "applied": "2026-10-04"},
