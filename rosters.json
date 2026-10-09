@@ -198885,6 +198885,208 @@
           ]
         }
       ]
+    },
+    {
+      "team": "KOSICE MAD EAST",
+      "country": "US",
+      "club": "KOSICE MAD EAST",
+      "lvl": "",
+      "levels": [],
+      "raw": [
+        "KOSICE MAD EAST"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "keil|karolna",
+          "n": "10",
+          "name": "Karolna Keil",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kyselicova|viktoria",
+          "n": "11",
+          "name": "Viktoria Kyselicova",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zidkova|lucie",
+          "n": "14",
+          "name": "Lucie Zidkova",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hanova|ema",
+          "n": "16",
+          "name": "Ema Hanova",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rosenbergova|bianka",
+          "n": "21",
+          "name": "Bianka Rosenbergova",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lukova|simona",
+          "n": "52",
+          "name": "Simona Lukova",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brimusova|petra",
+          "n": "5",
+          "name": "Petra Brimusova",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "supova|karin",
+          "n": "6",
+          "name": "Karin Supova",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "adamcik|sofia",
+          "n": "8",
+          "name": "Sofia Adamcik",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mesiarkinova|emma",
+          "n": "12",
+          "name": "Emma Mesiarkinova",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rochovska|bibiana",
+          "n": "19",
+          "name": "Bibiana Rochovska",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "beranova|sara",
+          "n": "58",
+          "name": "Sara Beranova",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "terezajungwirtova|valeria",
+          "n": "88",
+          "name": "Valeria Tereza Jungwirtova",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bercikova|barbora",
+          "n": "92",
+          "name": "Barbora Bercikova",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "raphaelekairebova|angelina",
+          "n": "96",
+          "name": "Angelina Raphael Ekairebova",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "juraskova|klara",
+          "n": "29",
+          "name": "Klara Juraskova",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "svacova|simona",
+          "n": "31",
+          "name": "Simona Svacova",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
