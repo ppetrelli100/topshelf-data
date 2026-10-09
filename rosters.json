@@ -128232,14 +128232,17 @@
       "lvl": "14U",
       "levels": [
         "U15",
-        "14U"
+        "14U",
+        "14UAAA"
       ],
       "raw": [
-        "Chicago Mission 14U"
+        "Chicago Mission 14U",
+        "CHICAGO MISSION 14UAAA"
       ],
       "tourneys": [
         "Pittsburgh",
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -128251,7 +128254,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128263,19 +128267,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "henriksen|quinn",
-          "n": "23",
-          "name": "Quinn Henriksen",
-          "ry": "2012",
-          "rg": "2031",
-          "rp": "D",
-          "t": [
-            "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128287,7 +128280,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128299,7 +128293,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128311,7 +128306,8 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128323,8 +128319,27 @@
           "rp": "D",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
+        },
+        {
+          "pk": "henriksen|quinn",
+          "n": "23",
+          "name": "Quinn Henriksen",
+          "ry": "2012",
+          "rg": "2031",
+          "rp": "F",
+          "t": [
+            "Pittsburgh",
+            "Stoney",
+            "Misc"
+          ],
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "bauml|emma",
@@ -128335,7 +128350,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128347,7 +128363,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128359,7 +128376,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128371,7 +128389,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128383,7 +128402,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128395,7 +128415,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128407,7 +128428,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128419,7 +128441,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128431,7 +128454,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128443,7 +128467,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128455,7 +128480,8 @@
           "rp": "F",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128467,7 +128493,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -128479,7 +128506,8 @@
           "rp": "G",
           "t": [
             "Pittsburgh",
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
@@ -132179,13 +132207,16 @@
       "club": "East Ottawa Stars",
       "lvl": "U15",
       "levels": [
-        "U15"
+        "U15",
+        "U15AA"
       ],
       "raw": [
-        "East Ottawa Stars U15AA"
+        "East Ottawa Stars U15AA",
+        "EAST OTTAWA STARS 15AA"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -132196,7 +132227,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132207,7 +132239,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132218,7 +132251,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132229,7 +132263,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132240,7 +132275,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132251,7 +132287,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132262,7 +132299,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132273,7 +132311,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132284,7 +132323,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132295,7 +132335,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132306,7 +132347,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132317,7 +132359,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132328,7 +132371,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132339,7 +132383,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132350,7 +132395,19 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "martel|lorie",
+          "n": "28",
+          "name": "Lorie Martel",
+          "ry": "2013",
+          "rg": "2031",
+          "rp": "F",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -132361,7 +132418,8 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -132372,7 +132430,8 @@
           "rg": "2031",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
@@ -133609,13 +133668,16 @@
       "club": "Etobicoke Dolphins",
       "lvl": "U15",
       "levels": [
-        "U15"
+        "U15",
+        "U15AA"
       ],
       "raw": [
-        "Etobicoke U15AA"
+        "Etobicoke U15AA",
+        "ETOBICOKE DOLPHINS U15AA"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -133626,7 +133688,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133637,7 +133700,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133648,7 +133712,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133659,7 +133724,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133670,7 +133736,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133681,7 +133748,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133692,7 +133760,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133703,7 +133772,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133714,7 +133784,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133725,18 +133796,20 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
           "pk": "kyte|emelia",
           "n": "14",
           "name": "Emelia Kyte",
-          "ry": "",
+          "ry": "2013",
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133747,7 +133820,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133758,7 +133832,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133769,7 +133844,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133780,7 +133856,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133791,7 +133868,8 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -133802,7 +133880,8 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
