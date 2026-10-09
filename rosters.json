@@ -199259,6 +199259,221 @@
           ]
         }
       ]
+    },
+    {
+      "team": "OUTAOUIAS OLYMPIQUES 15U",
+      "country": "US",
+      "club": "OUTAOUIAS OLYMPIQUES",
+      "lvl": "15U",
+      "levels": [
+        "U15AAA"
+      ],
+      "raw": [
+        "OUTAOUIAS OLYMPIQUES U15AAA"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "toupin|juliette",
+          "n": "22",
+          "name": "Juliette Toupin",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gorgerat|madisyn",
+          "n": "24",
+          "name": "Madisyn Gorgerat",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "juillet|leonie",
+          "n": "25",
+          "name": "Leonie Juillet",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mahoney|eleanor",
+          "n": "27",
+          "name": "Ellie Mahoney",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sauve|alice",
+          "n": "32",
+          "name": "Alice Sauve",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pelletier|sofia",
+          "n": "37",
+          "name": "Sofia Pelletier",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "belzile|evemarie",
+          "n": "21",
+          "name": "Eve-Marie Belzile",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "barrette|lilyrose",
+          "n": "23",
+          "name": "Lily-Rose Barrette",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "allard|kyana",
+          "n": "26",
+          "name": "Kyana Allard",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "houle|lovanie",
+          "n": "28",
+          "name": "Lovanie Houle",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thompson|ivy",
+          "n": "29",
+          "name": "Ivy Thompson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|saskia",
+          "n": "30",
+          "name": "Saskia Smith",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mckelvey|ava",
+          "n": "34",
+          "name": "Ava McKelvey",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "melaney|arielle",
+          "n": "36",
+          "name": "Arielle Melaney",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gagne|blanche",
+          "n": "38",
+          "name": "Blanche Gagne",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cote|leakim",
+          "n": "39",
+          "name": "Leakim Cote",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cote|maella",
+          "n": "31",
+          "name": "Maella Cote",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sauve|constance",
+          "n": "41",
+          "name": "Constance Sauve",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
