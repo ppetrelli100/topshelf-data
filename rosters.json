@@ -168409,13 +168409,16 @@
       "club": "LA Lions",
       "lvl": "14U",
       "levels": [
-        "14U"
+        "14U",
+        "14UAAA"
       ],
       "raw": [
-        "LA Lions 14U"
+        "LA Lions 14U",
+        "LA LIONS 14UAAA"
       ],
       "tourneys": [
-        "Pittsburgh"
+        "Pittsburgh",
+        "Misc"
       ],
       "players": [
         {
@@ -168426,7 +168429,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168437,7 +168441,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168448,7 +168453,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168459,7 +168465,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168470,7 +168477,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168481,7 +168489,8 @@
           "rg": "2032",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168492,7 +168501,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168503,7 +168513,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168514,7 +168525,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168525,7 +168537,8 @@
           "rg": "2032",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168536,7 +168549,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168547,7 +168561,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168558,7 +168573,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168569,7 +168585,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168580,7 +168597,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168591,7 +168609,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168602,7 +168621,19 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "krieger|emery",
+          "n": "14",
+          "name": "Emery Krieger",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -168613,7 +168644,8 @@
           "rg": "2031",
           "rp": "G",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         },
         {
@@ -168624,7 +168656,8 @@
           "rg": "2031",
           "rp": "G",
           "t": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Misc"
           ]
         }
       ]
