@@ -156495,13 +156495,16 @@
       "club": "St Catharines",
       "lvl": "U15",
       "levels": [
-        "U15"
+        "U15",
+        "U15AA"
       ],
       "raw": [
-        "St Catharines U15AA"
+        "St Catharines U15AA",
+        "ST CATHARINES BROCK BADGERS U15AA"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -156512,7 +156515,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156523,7 +156527,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156534,7 +156539,8 @@
           "rg": "2031",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156545,7 +156551,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156556,7 +156563,8 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156567,7 +156575,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156578,7 +156587,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156589,7 +156599,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156600,7 +156611,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156611,7 +156623,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156622,7 +156635,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156633,7 +156647,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156644,7 +156659,8 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156655,7 +156671,8 @@
           "rg": "2031",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156666,7 +156683,19 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sebben|chelsea",
+          "n": "7",
+          "name": "Chelsea Sebben",
+          "ry": "2014",
+          "rg": "2032",
+          "rp": "F",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -156677,7 +156706,8 @@
           "rg": "2031",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -156688,7 +156718,8 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         }
       ]
