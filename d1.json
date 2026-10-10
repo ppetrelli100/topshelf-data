@@ -2745,18 +2745,23 @@
     "staff": [
       {
         "name": "Tony Maci",
-        "title": "Head Women's Hockey Coach",
+        "title": "Head Coach",
         "email": "macia@union.edu"
       },
       {
         "name": "Shawn Skelly",
-        "title": "Assistant Women's Ice Hockey Coach",
+        "title": "Assistant Coach",
         "email": "skellys@union.edu"
       },
       {
         "name": "Courtney Hall",
-        "title": "Assistant Women's Ice Hockey Coach / Hockey Operations",
+        "title": "Assistant Coach",
         "email": "hallc3@union.edu"
+      },
+      {
+        "name": "Allie Kelley",
+        "title": "Assistant Coach",
+        "email": "kelleya2@union.edu"
       },
       {
         "name": "Kelli Hays",
