@@ -483,7 +483,7 @@
     "staff": [
       {
         "name": "Doug Derraugh",
-        "title": "Everett Family Head Coach of Women's Ice Hockey",
+        "title": "Head Coach",
         "email": "dld43@cornell.edu"
       },
       {
@@ -495,6 +495,11 @@
         "name": "Tim Crowley",
         "title": "Assistant Coach",
         "email": "tc598@cornell.edu"
+      },
+      {
+        "name": "Dane Schreiner",
+        "title": "Strength & Conditioning Coach",
+        "email": "das438@cornell.edu"
       },
       {
         "name": "Louise Derraugh",
@@ -510,11 +515,6 @@
         "name": "Monet Ota",
         "title": "Equipment Manager",
         "email": "mo528@cornell.edu"
-      },
-      {
-        "name": "Dane Schreiner",
-        "title": "Strength & Conditioning Coach",
-        "email": "das438@cornell.edu"
       }
     ]
   },
