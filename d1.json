@@ -1255,7 +1255,12 @@
       {
         "name": "Justin Grant",
         "title": "Assistant Coach",
-        "email": "jgrant@d.umn.edu"
+        "email": "grantjl@d.umn.edu"
+      },
+      {
+        "name": "Jeremy Hamerquist",
+        "title": "Assistant Strength Coach (M&W Hockey)",
+        "email": "hamer126@d.umn.edu"
       },
       {
         "name": "Noah Rosenberg",
@@ -1271,11 +1276,6 @@
         "name": "Dr. Susan Hoppe",
         "title": "Assistant Athletic Director for Sports Medicine and Performance",
         "email": "sbritton@d.umn.edu"
-      },
-      {
-        "name": "Jeremy Hamerquist",
-        "title": "Assistant Strength Coach (M&W Hockey)",
-        "email": "hamer126@d.umn.edu"
       }
     ]
   },
