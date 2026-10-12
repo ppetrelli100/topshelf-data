@@ -2134,6 +2134,16 @@
         "email": "gaysor@rpi.edu"
       },
       {
+        "name": "Olivia Cook",
+        "title": "Assistant Coach",
+        "email": "cooko@rpi.edu"
+      },
+      {
+        "name": "Jordan Baum",
+        "title": "Head Strength & Conditioning Coach",
+        "email": "baumj2@rpi.edu"
+      },
+      {
         "name": "Kate Sawyer",
         "title": "Director of Operations",
         "email": ""
@@ -2147,11 +2157,6 @@
         "name": "Matt Santa Maria",
         "title": "Assistant Equipment Manager",
         "email": "santam@rpi.edu"
-      },
-      {
-        "name": "Jordan Baum",
-        "title": "Head Strength & Conditioning Coach",
-        "email": "baumj2@rpi.edu"
       }
     ]
   },
@@ -2260,6 +2265,11 @@
         "email": "jsalisbury@anselm.edu"
       },
       {
+        "name": "Lea Gaspar",
+        "title": "Assistant Coach",
+        "email": "lgaspar@anselm.edu"
+      },
+      {
         "name": "Joe Deleault",
         "title": "Volunteer Assistant Coach",
         "email": "jdeleault@anselm.edu"
@@ -2270,9 +2280,9 @@
         "email": ""
       },
       {
-        "name": "Cameron Walsh",
-        "title": "Volunteer Assistant Coach",
-        "email": ""
+        "name": "Syerah Mulhern-Allred",
+        "title": "Strength & Conditioning Coach",
+        "email": "smulhernallred@anselm.edu"
       }
     ]
   },
