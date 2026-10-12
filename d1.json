@@ -2134,6 +2134,16 @@
         "email": "gaysor@rpi.edu"
       },
       {
+        "name": "Olivia Cook",
+        "title": "Assistant Coach",
+        "email": "cooko@rpi.edu"
+      },
+      {
+        "name": "Jordan Baum",
+        "title": "Head Strength & Conditioning Coach",
+        "email": "baumj2@rpi.edu"
+      },
+      {
         "name": "Kate Sawyer",
         "title": "Director of Operations",
         "email": ""
@@ -2147,11 +2157,6 @@
         "name": "Matt Santa Maria",
         "title": "Assistant Equipment Manager",
         "email": "santam@rpi.edu"
-      },
-      {
-        "name": "Jordan Baum",
-        "title": "Head Strength & Conditioning Coach",
-        "email": "baumj2@rpi.edu"
       }
     ]
   },
