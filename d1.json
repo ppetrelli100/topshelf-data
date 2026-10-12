@@ -2989,7 +2989,7 @@
     "staff": [
       {
         "name": "Mark Bolding",
-        "title": "Susan Cavanagh Head Coach of Women's Hockey",
+        "title": "Head Coach",
         "email": "mark.bolding@yale.edu"
       },
       {
@@ -3008,6 +3008,11 @@
         "email": "laura.brennan.lb2384@yale.edu"
       },
       {
+        "name": "Alex Mowatt-Larssen",
+        "title": "Assistant Strength & Conditioning Coach",
+        "email": "alex.mowatt-larssen@yale.edu"
+      },
+      {
         "name": "Michael Stancarone",
         "title": "Intercollegiate Equipment Operations & Recreation Assistant",
         "email": "michael.stancarone@yale.edu"
@@ -3016,11 +3021,6 @@
         "name": "Miranda Morel",
         "title": "Assistant Athletic Trainer (Women's Ice Hockey, Lightweight Crew)",
         "email": "miranda.morel@yale.edu"
-      },
-      {
-        "name": "Alex Mowatt-Larssen",
-        "title": "Assistant Strength & Conditioning Coach",
-        "email": "alex.mowatt-larssen@yale.edu"
       }
     ]
   }
