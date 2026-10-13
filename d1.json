@@ -163,7 +163,7 @@
     "staff": [
       {
         "name": "Katie Crowley",
-        "title": "Jane Rattigan Head Women's Hockey Coach",
+        "title": "Head Coach",
         "email": "kingkt@bc.edu"
       },
       {
@@ -242,7 +242,7 @@
       {
         "name": "Ian Milosz",
         "title": "Assistant Coach",
-        "email": "imilosz@bu.edu"
+        "email": "kscales@bu.edu"
       },
       {
         "name": "Kaitlyn Scales",
@@ -308,7 +308,7 @@
         "email": "elizabeth_hanrahan@brown.edu"
       },
       {
-        "name": "Zach Perkins",
+        "name": "Zachary Perkins",
         "title": "Assistant Coach",
         "email": "zach_perkins@brown.edu"
       },
@@ -425,7 +425,7 @@
     "staff": [
       {
         "name": "Stefan Decosse",
-        "title": "Head Women's Hockey Coach",
+        "title": "Head Coach",
         "email": "sdecosse@colgate.edu"
       },
       {
@@ -440,7 +440,7 @@
       },
       {
         "name": "Trevor Coykendall",
-        "title": "Assistant Coach/Dir of Ops",
+        "title": "Assistant Coach",
         "email": "tcoykendall@colgate.edu"
       }
     ]
@@ -556,8 +556,8 @@
     "staff": [
       {
         "name": "Maura Crowell",
-        "title": "Head Coach of Women's Ice Hockey",
-        "email": "Maura.C.Crowell@dartmouth.edu"
+        "title": "Head Coach",
+        "email": "maura.c.crowell@dartmouth.edu"
       },
       {
         "name": "Lauren Williams",
@@ -572,7 +572,7 @@
       {
         "name": "Katie Kotlowski",
         "title": "Assistant Coach",
-        "email": "Katie.J.Kotlowski@dartmouth.edu"
+        "email": "katie.kotlowski@dartmouth.edu"
       },
       {
         "name": "Ben Lovejoy",
@@ -735,7 +735,7 @@
     "staff": [
       {
         "name": "Laura Bellamy",
-        "title": "The Landry Family Head Coach for Harvard Women's Ice Hockey",
+        "title": "Head Coach",
         "email": "laurabellamy@g.harvard.edu"
       },
       {
@@ -998,7 +998,7 @@
       {
         "name": "Ally Johnson",
         "title": "Assistant Coach",
-        "email": ""
+        "email": "alexandra.johnson@maine.edu"
       },
       {
         "name": "Anika Keys-Ludwig",
@@ -1255,7 +1255,12 @@
       {
         "name": "Justin Grant",
         "title": "Assistant Coach",
-        "email": "jgrant@d.umn.edu"
+        "email": "grantjl@d.umn.edu"
+      },
+      {
+        "name": "Jeremy Hamerquist",
+        "title": "Assistant Strength Coach (M&W Hockey)",
+        "email": "hamer126@d.umn.edu"
       },
       {
         "name": "Noah Rosenberg",
@@ -1271,11 +1276,6 @@
         "name": "Dr. Susan Hoppe",
         "title": "Assistant Athletic Director for Sports Medicine and Performance",
         "email": "sbritton@d.umn.edu"
-      },
-      {
-        "name": "Jeremy Hamerquist",
-        "title": "Assistant Strength Coach (M&W Hockey)",
-        "email": "hamer126@d.umn.edu"
       }
     ]
   },
@@ -1409,14 +1409,14 @@
         "email": "Samantha.faber@unh.edu"
       },
       {
+        "name": "Ian Edwards",
+        "title": "Goaltending Coach",
+        "email": "Ian.d.edwards91@gmail.com"
+      },
+      {
         "name": "Vinnie Ferrainola",
         "title": "Director, Hockey Operations",
         "email": "Vincent.Ferrainola@unh.edu"
-      },
-      {
-        "name": "Ian Edwards",
-        "title": "Goalie Coach",
-        "email": "Ian.d.edwards91@gmail.com"
       },
       {
         "name": "Michelle Mallett",
@@ -1468,7 +1468,7 @@
     "staff": [
       {
         "name": "Dave Flint",
-        "title": "Women's Hockey Coach",
+        "title": "Head Coach",
         "email": "d.flint@northeastern.edu"
       },
       {
@@ -1551,7 +1551,7 @@
       },
       {
         "name": "Logan Davis",
-        "title": "Assistant Coach/Director of Operations",
+        "title": "Assistant Coach",
         "email": "davis.4562@osu.edu"
       },
       {
@@ -1689,6 +1689,11 @@
         "name": "Jack Rosenhammer",
         "title": "Assistant Coach",
         "email": "jack.rosenhammer@post.edu"
+      },
+      {
+        "name": "Jewells Austin",
+        "title": "Goaltending Coach",
+        "email": ""
       },
       {
         "name": "Larry Erickson",
@@ -1886,7 +1891,7 @@
     "staff": [
       {
         "name": "Cassandra Turner",
-        "title": "Women's Ice Hockey Head Coach",
+        "title": "Head Coach",
         "email": "cassandra.turner@qu.edu"
       },
       {
@@ -2129,6 +2134,16 @@
         "email": "gaysor@rpi.edu"
       },
       {
+        "name": "Olivia Cook",
+        "title": "Assistant Coach",
+        "email": "cooko@rpi.edu"
+      },
+      {
+        "name": "Jordan Baum",
+        "title": "Head Strength & Conditioning Coach",
+        "email": "baumj2@rpi.edu"
+      },
+      {
         "name": "Kate Sawyer",
         "title": "Director of Operations",
         "email": ""
@@ -2142,11 +2157,6 @@
         "name": "Matt Santa Maria",
         "title": "Assistant Equipment Manager",
         "email": "santam@rpi.edu"
-      },
-      {
-        "name": "Jordan Baum",
-        "title": "Head Strength & Conditioning Coach",
-        "email": "baumj2@rpi.edu"
       }
     ]
   },
@@ -2255,19 +2265,24 @@
         "email": "jsalisbury@anselm.edu"
       },
       {
+        "name": "Lea Gaspar",
+        "title": "Assistant Coach",
+        "email": "lgaspar@anselm.edu"
+      },
+      {
         "name": "Joe Deleault",
         "title": "Volunteer Assistant Coach",
         "email": "jdeleault@anselm.edu"
       },
       {
         "name": "Cameron Walsh",
-        "title": "Volunteer Assistant Coach",
+        "title": "Goaltending Coach",
         "email": ""
       },
       {
-        "name": "Cameron Walsh",
-        "title": "Volunteer Assistant Coach",
-        "email": ""
+        "name": "Syerah Mulhern-Allred",
+        "title": "Strength & Conditioning Coach",
+        "email": "smulhernallred@anselm.edu"
       }
     ]
   },
@@ -2318,7 +2333,7 @@
         "email": "omclean2@smcvt.edu"
       },
       {
-        "name": "Kyra Yu",
+        "name": "Sally Hoerr",
         "title": "Volunteer Assistant Coach",
         "email": ""
       },
@@ -2326,6 +2341,11 @@
         "name": "Leon Lifschutz",
         "title": "Goaltending Coach",
         "email": ""
+      },
+      {
+        "name": "Matt Dickie",
+        "title": "Strength & Conditioning Coach",
+        "email": "mdickie@smcvt.edu"
       }
     ]
   },
@@ -2367,7 +2387,7 @@
     "staff": [
       {
         "name": "Mira Jalosuo",
-        "title": "Women's Hockey Head Coach",
+        "title": "Head Coach",
         "email": "mira.jalosuo@stcloudstate.edu"
       },
       {
@@ -2452,6 +2472,11 @@
         "name": "Brittney Gout",
         "title": "Instructor / Assistant Women's Hockey Coach",
         "email": "bgout@stlawu.edu"
+      },
+      {
+        "name": "Jared Hatz",
+        "title": "Head Strength & Conditioning Coach",
+        "email": "jhatz@stlawu.edu"
       }
     ]
   },
@@ -2964,7 +2989,7 @@
     "staff": [
       {
         "name": "Mark Bolding",
-        "title": "Susan Cavanagh Head Coach of Women's Hockey",
+        "title": "Head Coach",
         "email": "mark.bolding@yale.edu"
       },
       {
@@ -2983,6 +3008,11 @@
         "email": "laura.brennan.lb2384@yale.edu"
       },
       {
+        "name": "Alex Mowatt-Larssen",
+        "title": "Assistant Strength & Conditioning Coach",
+        "email": "alex.mowatt-larssen@yale.edu"
+      },
+      {
         "name": "Michael Stancarone",
         "title": "Intercollegiate Equipment Operations & Recreation Assistant",
         "email": "michael.stancarone@yale.edu"
@@ -2991,11 +3021,6 @@
         "name": "Miranda Morel",
         "title": "Assistant Athletic Trainer (Women's Ice Hockey, Lightweight Crew)",
         "email": "miranda.morel@yale.edu"
-      },
-      {
-        "name": "Alex Mowatt-Larssen",
-        "title": "Assistant Strength & Conditioning Coach",
-        "email": "alex.mowatt-larssen@yale.edu"
       }
     ]
   }
