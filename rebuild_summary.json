@@ -1,433 +1,48 @@
 {
-  "generated": "2026-10-11T15:42:07.923Z",
-  "applied": [
-    "APPLIED     (1 row) tourn/Name snigh|poppy: \"Poppy Snigh\" -> \"Poppy Singh\"  [rosters.json + rosters_archive.json]",
-    "APPLIED     (1 row) tourn/Name montomery|kenzie: \"Kenzie Montomery\" -> \"Kenzie Montgomery\"  [rosters.json + rosters_archive.json]",
-    "APPLIED     (1 row) tourn/Name forster|zoe: \"Zoe Forster\" -> \"Zoe Foster\"  [rosters.json + rosters_archive.json]",
-    "APPLIED     (1 row) tourn/Name mendia|namali: \"Namali Mendia\" -> \"Namali Mendis\"  [rosters.json + rosters_archive.json]",
-    "APPLIED     (1 row) tourn/Name johnstone|katharine: \"Katharine Johnstone\" -> \"Katherine Johnstone\"  [rosters.json + rosters_archive.json]",
-    "APPLIED     (2 rows) tourn/Name precourt|meagon: \"Meagon Precourt\" -> \"Meagan Precourt\"  [rosters.json + rosters_archive.json]"
-  ],
+  "generated": "2026-10-13T13:27:18.104Z",
+  "applied": [],
   "players": {
-    "before": 13282,
+    "before": 13325,
     "after": 13325
   },
-  "removed": [
-    "belle|goodwin",
-    "brooklyn|scollan",
-    "forster|zoe",
-    "johnstone|katharine",
-    "mendia|namali",
-    "montomery|kenzie",
-    "precourt|meagon",
-    "snigh|poppy"
-  ],
-  "added": [
-    "adamcik|sofia",
-    "allard|kyana",
-    "barrette|lilyrose",
-    "beranova|sara",
-    "bercikova|barbora",
-    "brimusova|petra",
-    "burketerreau|julia",
-    "cote|leakim",
-    "cote|maella",
-    "doncomeau|lillian",
-    "ferguson|jillian",
-    "foster|zoe",
-    "gagne|blanche",
-    "gorgerat|madisyn",
-    "hanova|ema",
-    "houle|lovanie",
-    "johnstone|katherine",
-    "juillet|leonie",
-    "juraskova|klara",
-    "keil|karolna",
-    "krieger|emery",
-    "kyselicova|viktoria",
-    "larose|elle",
-    "lukova|simona",
-    "mahoney|eleanor",
-    "martel|lorie",
-    "mckelvey|ava",
-    "melaney|arielle",
-    "mendis|namali",
-    "mesiarkinova|emma",
-    "montgomery|kenzie",
-    "pelletier|sofia",
-    "raphaelekairebova|angelina",
-    "rochovska|bibiana",
-    "rosenbergova|bianka",
-    "sauve|alice",
-    "sauve|constance",
-    "scollan|brooklyn",
-    "sebben|chelsea",
-    "singh|poppy",
-    "smith|saskia",
-    "starr|danika",
-    "stpierre|stephanie",
-    "supova|karin",
-    "svacova|simona",
-    "terezajungwirtova|valeria",
-    "thompson|ivy",
-    "toupin|juliette",
-    "wagstaff|vyolet",
-    "zidkova|lucie",
-    "ziemba|elise"
-  ],
-  "changedPlayers": 48,
-  "changedCells": 49,
+  "removed": [],
+  "added": [],
+  "changedPlayers": 1,
+  "changedCells": 4,
   "fieldDiffs": {
-    "Team2026": 24,
-    "College": 6,
-    "BirthYr": 11,
-    "Position": 6,
-    "Sr": 1,
-    "Team2024": 1
+    "City": 1,
+    "State": 1,
+    "Team": 1,
+    "College": 1
   },
   "examples": [
     {
-      "pk": "aitken|annabelle",
-      "name": "Annabelle Aitken",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
+      "pk": "thompson|hayley",
+      "name": "Hayley Thompson",
+      "field": "City",
+      "from": "",
+      "to": "Toronto"
     },
     {
-      "pk": "allen|madeline",
-      "name": "Madeline Allen",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
+      "pk": "thompson|hayley",
+      "name": "Hayley Thompson",
+      "field": "State",
+      "from": "",
+      "to": "ON"
     },
     {
-      "pk": "andrade|madelyn",
-      "name": "Madelyn Andrade",
+      "pk": "thompson|hayley",
+      "name": "Hayley Thompson",
+      "field": "Team",
+      "from": "",
+      "to": "Oakville Hornets"
+    },
+    {
+      "pk": "thompson|hayley",
+      "name": "Hayley Thompson",
       "field": "College",
       "from": "",
-      "to": "Norwich"
-    },
-    {
-      "pk": "barter|eleanor",
-      "name": "Eleanor Barter",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2010
-    },
-    {
-      "pk": "beaumont|zoe",
-      "name": "Zoe Beaumont",
-      "field": "Position",
-      "from": "D",
-      "to": "F"
-    },
-    {
-      "pk": "belzile|evemarie",
-      "name": "Eve-Marie Belzile",
-      "field": "Position",
-      "from": "",
-      "to": "F"
-    },
-    {
-      "pk": "chen|freyah",
-      "name": "Freyah Chen",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2012
-    },
-    {
-      "pk": "comeau|lilydon",
-      "name": "Lily-Don Comeau",
-      "field": "Team2026",
-      "from": "Thunder Bay Queens U18",
-      "to": ""
-    },
-    {
-      "pk": "cornacchia|ava",
-      "name": "Ava Cornacchia",
-      "field": "BirthYr",
-      "from": 2012,
-      "to": 2013
-    },
-    {
-      "pk": "cornacchia|ava",
-      "name": "Ava Cornacchia",
-      "field": "Sr",
-      "from": "x",
-      "to": ""
-    },
-    {
-      "pk": "dimmell|mia",
-      "name": "Mia Dimmell",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2011
-    },
-    {
-      "pk": "dittman|violet",
-      "name": "Violet Dittman",
-      "field": "College",
-      "from": "",
-      "to": "Colby"
-    },
-    {
-      "pk": "doucette|olivia",
-      "name": "Olivia Doucette",
-      "field": "College",
-      "from": "",
-      "to": "Roger Williams"
-    },
-    {
-      "pk": "drennan|kaelyn",
-      "name": "Kaelyn Drennan",
-      "field": "Position",
-      "from": "D",
-      "to": "F"
-    },
-    {
-      "pk": "fallon|brooke",
-      "name": "Brooke Fallon",
-      "field": "College",
-      "from": "",
-      "to": "Amherst"
-    },
-    {
-      "pk": "flaherty|erin",
-      "name": "Erin Flaherty",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "friedholm|tatum",
-      "name": "Tatum Friedholm",
-      "field": "College",
-      "from": "",
-      "to": "Williams"
-    },
-    {
-      "pk": "gibb|islyn",
-      "name": "Islyn Gibb",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2010
-    },
-    {
-      "pk": "godwin|lauren",
-      "name": "Lauren Godwin",
-      "field": "Team2026",
-      "from": "St Catharines U18",
-      "to": "North York Storm U18"
-    },
-    {
-      "pk": "gonzalez|isabella",
-      "name": "Isabella Gonzalez",
-      "field": "Position",
-      "from": "D",
-      "to": "F"
-    },
-    {
-      "pk": "gordon|elena",
-      "name": "Elena Gordon",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "hafer|leah",
-      "name": "Leah Hafer",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "henriksen|quinn",
-      "name": "Quinn Henriksen",
-      "field": "Position",
-      "from": "D",
-      "to": "F"
-    },
-    {
-      "pk": "kealey|harper",
-      "name": "Harper Kealey",
-      "field": "Team2026",
-      "from": "Ottawa Senators U15",
-      "to": "Ottawa Senators U18"
-    },
-    {
-      "pk": "koen|kayleigh",
-      "name": "Kayleigh Koen",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "kyte|emelia",
-      "name": "Emelia Kyte",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2013
-    },
-    {
-      "pk": "macphee|paige",
-      "name": "Paige MacPhee",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "mcgaraghan|lucy",
-      "name": "Lucy McGaraghan",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "mclean|nora",
-      "name": "Nora McLean",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "moore|devon",
-      "name": "Devon Moore",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "murphy|adia",
-      "name": "Adia Murphy",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "murray|mary",
-      "name": "Mary Murray",
-      "field": "College",
-      "from": "",
-      "to": "Middlebury"
-    },
-    {
-      "pk": "nardelli|sofia",
-      "name": "Sofia Nardelli",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "nugent|rylynn",
-      "name": "Rylynn Nugent",
-      "field": "Position",
-      "from": "D",
-      "to": "F"
-    },
-    {
-      "pk": "paone|sophia",
-      "name": "Sophia Paone",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "payne|sierra",
-      "name": "Sierra Payne",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2010
-    },
-    {
-      "pk": "pope|hannah",
-      "name": "Hannah Pope",
-      "field": "Team2026",
-      "from": "Shawnigan Lake School U18",
-      "to": "Thunder Bay Queens U18"
-    },
-    {
-      "pk": "precourt|meagan",
-      "name": "Meagan Precourt",
-      "field": "Team2024",
-      "from": "",
-      "to": "Florida Alliance 14U"
-    },
-    {
-      "pk": "richardson|shea",
-      "name": "Shea Richardson",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "rodriguez|alexis",
-      "name": "Alexis Rodriguez",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "sauls|allison",
-      "name": "Allison Sauls",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "sciarretta|nicole",
-      "name": "Nicole Sciarretta",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "smart|genevieve",
-      "name": "Genevieve Smart",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "smart|layla",
-      "name": "Layla Smart",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "tice|ariya",
-      "name": "Ariya Tice",
-      "field": "Team2026",
-      "from": "Boston Jr Eagles (Maroon) 19U",
-      "to": "Boston Jr Eagles 19U"
-    },
-    {
-      "pk": "wehbe|aaliyah",
-      "name": "Aaliyah Wehbe",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2012
-    },
-    {
-      "pk": "wilkinson|brynn",
-      "name": "Brynn Wilkinson",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2013
-    },
-    {
-      "pk": "yoo|isabella",
-      "name": "Izzy Yoo",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2012
-    },
-    {
-      "pk": "zhan|hailey",
-      "name": "Hailey Zhan",
-      "field": "BirthYr",
-      "from": "",
-      "to": 2011
+      "to": "Syracuse"
     }
   ]
 }
