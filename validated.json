@@ -1590,6 +1590,18 @@
           "result": "clean",
           "n": 26,
           "at": "2026-10-05T03:37:37.324Z"
+        },
+        {
+          "result": "changes",
+          "n": 25,
+          "added": [],
+          "removed": [
+            "Elodie Roy"
+          ],
+          "fields": {
+            "ht": 1
+          },
+          "at": "2026-10-13T19:32:15.038Z"
         }
       ]
     },
