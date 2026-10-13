@@ -1,0 +1,48 @@
+{
+  "generated": "2026-10-13T13:26:45.029Z",
+  "applied": [],
+  "players": {
+    "before": 13325,
+    "after": 13325
+  },
+  "removed": [],
+  "added": [],
+  "changedPlayers": 1,
+  "changedCells": 4,
+  "fieldDiffs": {
+    "City": 1,
+    "State": 1,
+    "Team": 1,
+    "College": 1
+  },
+  "examples": [
+    {
+      "pk": "thompson|hayley",
+      "name": "Hayley Thompson",
+      "field": "City",
+      "from": "",
+      "to": "Toronto"
+    },
+    {
+      "pk": "thompson|hayley",
+      "name": "Hayley Thompson",
+      "field": "State",
+      "from": "",
+      "to": "ON"
+    },
+    {
+      "pk": "thompson|hayley",
+      "name": "Hayley Thompson",
+      "field": "Team",
+      "from": "",
+      "to": "Oakville Hornets"
+    },
+    {
+      "pk": "thompson|hayley",
+      "name": "Hayley Thompson",
+      "field": "College",
+      "from": "",
+      "to": "Syracuse"
+    }
+  ]
+}
