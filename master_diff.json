@@ -1,12 +1,12 @@
 {
  "players": {
-  "inBoth": 12459,
-  "onlyMaster": 131,
+  "inBoth": 12455,
+  "onlyMaster": 135,
   "onlyCandidate": 865
  },
  "fields": {
   "Name": {
-   "same": 12247,
+   "same": 12243,
    "differ": 212,
    "masterOnly": 0,
    "candOnly": 0,
@@ -553,10 +553,10 @@
    "partialSame": 165
   },
   "Grad": {
-   "same": 10448,
+   "same": 10445,
    "differ": 148,
    "masterOnly": 5,
-   "candOnly": 760,
+   "candOnly": 761,
    "samples": {
     "differ": [
      {
@@ -741,7 +741,7 @@
    }
   },
   "Position": {
-   "same": 12040,
+   "same": 12037,
    "differ": 172,
    "masterOnly": 24,
    "candOnly": 76,
@@ -1885,7 +1885,7 @@
    }
   },
   "Country": {
-   "same": 12143,
+   "same": 12139,
    "differ": 136,
    "masterOnly": 29,
    "candOnly": 17,
@@ -2345,10 +2345,10 @@
    }
   },
   "Team2024": {
-   "same": 3154,
-   "differ": 638,
+   "same": 3149,
+   "differ": 639,
    "masterOnly": 16,
-   "candOnly": 37,
+   "candOnly": 39,
    "samples": {
     "differ": [
      {
@@ -4759,8 +4759,8 @@
     "pct": 96.6
    },
    "tourn": {
-    "both": 10270,
-    "equal": 10052,
+    "both": 10265,
+    "equal": 10048,
     "pct": 97.9
    },
    "colrosters": {
@@ -4806,8 +4806,8 @@
     "pct": 95.3
    },
    "tourn": {
-    "both": 10143,
-    "equal": 10029,
+    "both": 10140,
+    "equal": 10026,
     "pct": 98.9
    },
    "colrosters": {
@@ -4937,8 +4937,8 @@
     "pct": 90.7
    },
    "tourn": {
-    "both": 8375,
-    "equal": 8244,
+    "both": 8372,
+    "equal": 8241,
     "pct": 98.4
    }
   },
@@ -5109,8 +5109,8 @@
     "pct": 99.7
    },
    "tourn": {
-    "both": 10258,
-    "equal": 9991,
+    "both": 10253,
+    "equal": 9986,
     "pct": 97.4
    },
    "colrosters": {

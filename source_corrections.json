@@ -20,6 +20,9 @@
     {"source": "tourn", "personkey": "mendia|namali", "field": "Name", "from": "Namali Mendia", "to": "Namali Mendis", "note": "Teams tab: St Catharines U15", "added": "2026-10-09", "applied": "2026-10-11"},
     {"source": "tourn", "personkey": "johnstone|katharine", "field": "Name", "from": "Katharine Johnstone", "to": "Katherine Johnstone", "note": "Teams tab: Stoney Creek Sabres U15", "added": "2026-10-09", "applied": "2026-10-11"},
     {"source": "tourn", "personkey": "precourt|meagon", "field": "Name", "from": "Meagon Precourt", "to": "Meagan Precourt", "added": "2026-10-11", "applied": "2026-10-11"},
-    {"source": "tourn", "personkey": "sojda|gabriella", "field": "Name", "from": "Gabby Sojda", "to": "Gabrielle Sojda", "note": "Same player as Gabrielle Sojda (NDC/regionals): Lovell Academy 16U, 2011, F, NY", "added": "2026-10-18", "applied": "2026-10-18"}
+    {"source": "tourn", "personkey": "sojda|gabriella", "field": "Name", "from": "Gabby Sojda", "to": "Gabrielle Sojda", "note": "Same player as Gabrielle Sojda (NDC/regionals): Lovell Academy 16U, 2011, F, NY", "added": "2026-10-18", "applied": "2026-10-18"},
+    {"source": "tourn", "personkey": "peacockewas|lillian", "field": "Name", "from": "Lily Peacocke Was 93", "to": "Lily Peacocke", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"},
+    {"source": "tourn", "personkey": "wasmatthon|laila", "field": "Name", "from": "Laila Was 19 Matthon", "to": "Laila Matthon", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"},
+    {"source": "tourn", "personkey": "kangreg|julie", "field": "Name", "from": "Julie Kang Reg #91", "to": "Julie Kang", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"}
   ]
 }
