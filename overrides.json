@@ -29,6 +29,7 @@
     {"personkey": "belanger|eva", "field": "DOB", "value": "4/6/2011", "notes": "best guess: tourneys and EP agree; ProvRosters has day/month swapped"},
     {"personkey": "logan|reese", "field": "DOB", "value": "3/5/2006", "notes": "best guess: EP; ProvRosters looks day/month swapped (as with bouchard)"},
     {"personkey": "mackinnon|jessica", "field": "DOB", "value": "11/2/2006", "notes": "best guess: EP; ProvRosters looks day/month swapped (as with bouchard)"},
-    {"personkey": "hunter|hayley", "field": "College", "value": "", "notes": "Old-roster collision; real 2013 (Chicago Mission 14U) uncommitted, Cortland was a different Hayley Hunter"}
+    {"personkey": "hunter|hayley", "field": "College", "value": "", "notes": "Old-roster collision; real 2013 (Chicago Mission 14U) uncommitted, Cortland was a different Hayley Hunter"},
+    {"personkey": "engfer|finley", "field": "College", "value": "", "notes": "Decommit from Providence (Oct 2026); legacy College would otherwise keep Providence"}
   ]
 }
