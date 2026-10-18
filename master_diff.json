@@ -1,13 +1,13 @@
 {
  "players": {
-  "inBoth": 12475,
-  "onlyMaster": 115,
-  "onlyCandidate": 89
+  "inBoth": 12459,
+  "onlyMaster": 131,
+  "onlyCandidate": 865
  },
  "fields": {
   "Name": {
-   "same": 12271,
-   "differ": 204,
+   "same": 12247,
+   "differ": 212,
    "masterOnly": 0,
    "candOnly": 0,
    "samples": {
@@ -41,6 +41,12 @@
       "master": "Pénélope Belair",
       "cand": "Penelope Belair",
       "src": "ccm"
+     },
+     {
+      "pk": "berard|katherine",
+      "master": "Katie Berard",
+      "cand": "Katherine Berard",
+      "src": "tourn"
      },
      {
       "pk": "bjergstad|caroline",
@@ -77,12 +83,6 @@
       "master": "Sophie Brown",
       "cand": "Sophia Brown",
       "src": "tourn"
-     },
-     {
-      "pk": "brunet|aurelianne",
-      "master": "Aurélianne Brunet",
-      "cand": "Aurelianne Brunet",
-      "src": "tourn"
      }
     ],
     "masterOnly": [],
@@ -90,18 +90,12 @@
    }
   },
   "BirthYr": {
-   "same": 9540,
-   "differ": 57,
-   "masterOnly": 16,
-   "candOnly": 365,
+   "same": 9529,
+   "differ": 61,
+   "masterOnly": 15,
+   "candOnly": 455,
    "samples": {
     "differ": [
-     {
-      "pk": "arsenault|maxine",
-      "master": 2009,
-      "cand": 2010,
-      "src": "tourn"
-     },
      {
       "pk": "boisvert|florence",
       "master": 2011,
@@ -112,6 +106,12 @@
       "pk": "brown|olivia",
       "master": 2009,
       "cand": 2012,
+      "src": "tourn"
+     },
+     {
+      "pk": "brown|samantha",
+      "master": 2008,
+      "cand": 2010,
       "src": "tourn"
      },
      {
@@ -133,9 +133,21 @@
       "src": "tourn"
      },
      {
+      "pk": "cornacchia|ava",
+      "master": 2012,
+      "cand": 2013,
+      "src": "tourn"
+     },
+     {
       "pk": "dawson|danika",
       "master": 2009,
       "cand": 2008,
+      "src": "tourn"
+     },
+     {
+      "pk": "feeney|alexie",
+      "master": 2010,
+      "cand": 2011,
       "src": "tourn"
      },
      {
@@ -154,18 +166,6 @@
       "pk": "giovonti|reese",
       "master": 2011,
       "cand": 2012,
-      "src": "tourn"
-     },
-     {
-      "pk": "goodwin|isabelle",
-      "master": 2009,
-      "cand": 2008,
-      "src": "tourn"
-     },
-     {
-      "pk": "graham|megan",
-      "master": 2005,
-      "cand": 2009,
       "src": "tourn"
      }
     ],
@@ -207,6 +207,12 @@
       "src": ""
      },
      {
+      "pk": "jensen|madelyn",
+      "master": 2011,
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "johnson|emily",
       "master": 2008,
       "cand": "",
@@ -231,12 +237,6 @@
       "src": ""
      },
      {
-      "pk": "murray|halle",
-      "master": 2005,
-      "cand": "",
-      "src": ""
-     },
-     {
       "pk": "olson|emma",
       "master": 2009,
       "cand": "",
@@ -249,6 +249,12 @@
       "master": "",
       "cand": 2006,
       "src": "ep"
+     },
+     {
+      "pk": "albers|avery",
+      "master": "",
+      "cand": 2009,
+      "src": "tourn"
      },
      {
       "pk": "albiani|devyn",
@@ -275,9 +281,21 @@
       "src": "tourn"
      },
      {
+      "pk": "anslow|molly",
+      "master": "",
+      "cand": 2010,
+      "src": "tourn"
+     },
+     {
       "pk": "arendell|avery",
       "master": "",
       "cand": 2007,
+      "src": "tourn"
+     },
+     {
+      "pk": "ashton|jersey",
+      "master": "",
+      "cand": 2010,
       "src": "tourn"
      },
      {
@@ -297,33 +315,15 @@
       "master": "",
       "cand": 2011,
       "src": "tourn"
-     },
-     {
-      "pk": "ball|katherine",
-      "master": "",
-      "cand": 2008,
-      "src": "ep"
-     },
-     {
-      "pk": "bamber|kaitlyn",
-      "master": "",
-      "cand": 2008,
-      "src": "tourn"
-     },
-     {
-      "pk": "banks|anne",
-      "master": "",
-      "cand": 2007,
-      "src": "ep"
      }
     ]
    }
   },
   "DOB": {
-   "same": 4148,
-   "differ": 420,
-   "masterOnly": 42,
-   "candOnly": 155,
+   "same": 4140,
+   "differ": 421,
+   "masterOnly": 41,
+   "candOnly": 205,
    "samples": {
     "differ": [
      {
@@ -419,6 +419,12 @@
       "src": ""
      },
      {
+      "pk": "brown|samantha",
+      "master": "4/7/2008",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "campbell|grace",
       "master": "6/28/2005",
       "cand": "",
@@ -465,15 +471,15 @@
       "master": "6/17/2009",
       "cand": "",
       "src": ""
-     },
-     {
-      "pk": "hubbard|maya",
-      "master": "1/1/2010",
-      "cand": "",
-      "src": ""
      }
     ],
     "candOnly": [
+     {
+      "pk": "abrametz|claire",
+      "master": "",
+      "cand": "3/12/2009",
+      "src": "tourn"
+     },
      {
       "pk": "anhalt|katherine",
       "master": "",
@@ -485,6 +491,18 @@
       "master": "",
       "cand": "5/20/2012",
       "src": "ep"
+     },
+     {
+      "pk": "ashton|jersey",
+      "master": "",
+      "cand": "9/30/2010",
+      "src": "tourn"
+     },
+     {
+      "pk": "bacon|sophia",
+      "master": "",
+      "cand": "5/7/2009",
+      "src": "tourn"
      },
      {
       "pk": "ball|katherine",
@@ -513,8 +531,8 @@
      {
       "pk": "belamisca|katherine",
       "master": "",
-      "cand": "4/21/2011",
-      "src": "ep"
+      "cand": "2011",
+      "src": "tourn"
      },
      {
       "pk": "belanger|elisabeth",
@@ -527,36 +545,18 @@
       "master": "",
       "cand": "5/12/2011",
       "src": "ep"
-     },
-     {
-      "pk": "belchamber|jessica",
-      "master": "",
-      "cand": "9/24/2008",
-      "src": "ep"
-     },
-     {
-      "pk": "betten|olivia",
-      "master": "",
-      "cand": "8/6/2008",
-      "src": "ep"
-     },
-     {
-      "pk": "bitarovska|estella",
-      "master": "",
-      "cand": "8/6/2011",
-      "src": "ep"
      }
     ]
    },
-   "refinedByCand": 31,
-   "masterDayCandPartial": 339,
-   "partialSame": 166
+   "refinedByCand": 32,
+   "masterDayCandPartial": 344,
+   "partialSame": 165
   },
   "Grad": {
-   "same": 10489,
-   "differ": 121,
-   "masterOnly": 6,
-   "candOnly": 633,
+   "same": 10448,
+   "differ": 148,
+   "masterOnly": 5,
+   "candOnly": 760,
    "samples": {
     "differ": [
      {
@@ -614,6 +614,12 @@
       "src": "ndc"
      },
      {
+      "pk": "belanger|elisabeth",
+      "master": 2028,
+      "cand": 2029,
+      "src": "tourn"
+     },
+     {
       "pk": "bernard|melody",
       "master": 27,
       "cand": 2028,
@@ -624,21 +630,9 @@
       "master": 2031,
       "cand": 2030,
       "src": "tourn"
-     },
-     {
-      "pk": "brennan|zoey",
-      "master": 2029,
-      "cand": 2028,
-      "src": "ndc"
      }
     ],
     "masterOnly": [
-     {
-      "pk": "bromberg|jacqueline",
-      "master": "tba",
-      "cand": "",
-      "src": ""
-     },
      {
       "pk": "choi|yehzie",
       "master": 2031,
@@ -696,6 +690,12 @@
       "src": "tourn"
      },
      {
+      "pk": "adams|callie",
+      "master": "",
+      "cand": 2028,
+      "src": "tourn"
+     },
+     {
       "pk": "adams|caroline",
       "master": "",
       "cand": 2026,
@@ -736,21 +736,15 @@
       "master": "",
       "cand": 2023,
       "src": "tourn"
-     },
-     {
-      "pk": "alberts|lina",
-      "master": "",
-      "cand": 2028,
-      "src": "tourn"
      }
     ]
    }
   },
   "Position": {
-   "same": 12085,
-   "differ": 140,
-   "masterOnly": 27,
-   "candOnly": 70,
+   "same": 12040,
+   "differ": 172,
+   "masterOnly": 24,
+   "candOnly": 76,
    "samples": {
     "differ": [
      {
@@ -770,6 +764,18 @@
       "master": 0,
       "cand": "D",
       "src": "nepsac"
+     },
+     {
+      "pk": "beaudoin|addison",
+      "master": "D",
+      "cand": "F",
+      "src": "tourn"
+     },
+     {
+      "pk": "beaumont|zoe",
+      "master": "D",
+      "cand": "F",
+      "src": "tourn"
      },
      {
       "pk": "bellissimo|lauren",
@@ -796,6 +802,12 @@
       "src": "prov"
      },
      {
+      "pk": "boucher|kloe",
+      "master": "D",
+      "cand": "F",
+      "src": "tourn"
+     },
+     {
       "pk": "brennan|abigail",
       "master": "D",
       "cand": "F",
@@ -806,24 +818,6 @@
       "master": "F",
       "cand": "D",
       "src": "prov"
-     },
-     {
-      "pk": "brown|samantha",
-      "master": "F",
-      "cand": "D",
-      "src": "tourn"
-     },
-     {
-      "pk": "burton|ivy",
-      "master": "D",
-      "cand": "F",
-      "src": "tourn"
-     },
-     {
-      "pk": "caiazza|elsa",
-      "master": "D",
-      "cand": "F/D",
-      "src": "nepsac"
      }
     ],
     "masterOnly": [
@@ -876,12 +870,6 @@
       "src": ""
      },
      {
-      "pk": "han|rina",
-      "master": 0,
-      "cand": "",
-      "src": ""
-     },
-     {
       "pk": "hester|emily",
       "master": 0,
       "cand": "",
@@ -898,6 +886,12 @@
       "master": 0,
       "cand": "",
       "src": ""
+     },
+     {
+      "pk": "kredit|clem",
+      "master": 0,
+      "cand": "",
+      "src": ""
      }
     ],
     "candOnly": [
@@ -908,10 +902,22 @@
       "src": "nepsac"
      },
      {
+      "pk": "albers|avery",
+      "master": "",
+      "cand": "F",
+      "src": "tourn"
+     },
+     {
       "pk": "anabe|malaya",
       "master": "",
       "cand": "D",
       "src": "nepsac"
+     },
+     {
+      "pk": "ashton|jersey",
+      "master": "",
+      "cand": "F",
+      "src": "tourn"
      },
      {
       "pk": "aube|brigitte",
@@ -960,27 +966,15 @@
       "master": "",
       "cand": "D",
       "src": "ep"
-     },
-     {
-      "pk": "bush|lauren",
-      "master": "",
-      "cand": "F",
-      "src": "nepsac"
-     },
-     {
-      "pk": "butkus|catherine",
-      "master": "",
-      "cand": "D",
-      "src": "nepsac"
      }
     ]
    }
   },
   "Height": {
-   "same": 4594,
-   "differ": 184,
-   "masterOnly": 45,
-   "candOnly": 297,
+   "same": 4553,
+   "differ": 226,
+   "masterOnly": 41,
+   "candOnly": 376,
    "samples": {
     "differ": [
      {
@@ -996,6 +990,12 @@
       "src": "prov"
      },
      {
+      "pk": "allan|bret",
+      "master": "5'3\"",
+      "cand": "5'5\"",
+      "src": "tourn"
+     },
+     {
       "pk": "anderson|victoria",
       "master": "5'5\"",
       "cand": "5'4\"",
@@ -1008,6 +1008,12 @@
       "src": "ndc"
      },
      {
+      "pk": "anderton|chloe",
+      "master": "5'6\"",
+      "cand": "5'7\"",
+      "src": "tourn"
+     },
+     {
       "pk": "aquilina|sarah",
       "master": "5'5\"",
       "cand": "5'6\"",
@@ -1018,6 +1024,12 @@
       "master": "5’1”",
       "cand": "5'3\"",
       "src": "ndc"
+     },
+     {
+      "pk": "aubie|ellis",
+      "master": "5'11\"",
+      "cand": "6'1\"",
+      "src": "tourn"
      },
      {
       "pk": "benakova|lilien",
@@ -1036,33 +1048,9 @@
       "master": "5'7\"",
       "cand": "5'6\"",
       "src": "colrosters"
-     },
-     {
-      "pk": "bihannic|camille",
-      "master": "5'6\"",
-      "cand": "5'8\"",
-      "src": "prov"
-     },
-     {
-      "pk": "biros|emma",
-      "master": "5'9\"",
-      "cand": "5'8\"",
-      "src": "prov"
-     },
-     {
-      "pk": "blanchard|alyson",
-      "master": "5'4\"",
-      "cand": "5'3\"",
-      "src": "prov"
      }
     ],
     "masterOnly": [
-     {
-      "pk": "arsenault|maxine",
-      "master": "5'4\"",
-      "cand": "",
-      "src": ""
-     },
      {
       "pk": "bergeron|zoe",
       "master": "5'6\"",
@@ -1078,6 +1066,12 @@
      {
       "pk": "brown|mackenzie",
       "master": "5'4\"",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "brown|samantha",
+      "master": "5'10\"",
       "cand": "",
       "src": ""
      },
@@ -1138,6 +1132,12 @@
       "src": "ep"
      },
      {
+      "pk": "abrametz|claire",
+      "master": "",
+      "cand": "5'5\"",
+      "src": "tourn"
+     },
+     {
       "pk": "ajakie|heather",
       "master": "",
       "cand": "5'3\"",
@@ -1186,21 +1186,15 @@
       "src": "ep"
      },
      {
+      "pk": "bacon|sophia",
+      "master": "",
+      "cand": "5'7\"",
+      "src": "tourn"
+     },
+     {
       "pk": "baggs|alannah",
       "master": "",
       "cand": "5'3\"",
-      "src": "ep"
-     },
-     {
-      "pk": "ball|katherine",
-      "master": "",
-      "cand": "5'6\"",
-      "src": "ep"
-     },
-     {
-      "pk": "banks|anne",
-      "master": "",
-      "cand": "5'6\"",
       "src": "ep"
      }
     ]
@@ -1210,7 +1204,7 @@
    "same": 2566,
    "differ": 123,
    "masterOnly": 24,
-   "candOnly": 85,
+   "candOnly": 84,
    "samples": {
     "differ": [
      {
@@ -1577,12 +1571,18 @@
    }
   },
   "City": {
-   "same": 4110,
-   "differ": 20,
+   "same": 4109,
+   "differ": 21,
    "masterOnly": 0,
-   "candOnly": 198,
+   "candOnly": 389,
    "samples": {
     "differ": [
+     {
+      "pk": "aird|maeve",
+      "master": "ONT",
+      "cand": "Cobourg",
+      "src": "commits"
+     },
      {
       "pk": "boico|alexandra",
       "master": "Bad Tölz",
@@ -1648,16 +1648,16 @@
       "master": "Duluth",
       "cand": "Esko",
       "src": "ndc"
-     },
-     {
-      "pk": "morris|montana",
-      "master": "McKinney",
-      "cand": "Whitewright",
-      "src": "ndc"
      }
     ],
     "masterOnly": [],
     "candOnly": [
+     {
+      "pk": "abrametz|claire",
+      "master": "",
+      "cand": "Clavet",
+      "src": "tourn"
+     },
      {
       "pk": "abrams|ellis",
       "master": "",
@@ -1669,6 +1669,12 @@
       "master": "",
       "cand": "Suffield",
       "src": "nepsac"
+     },
+     {
+      "pk": "aiken|alexa",
+      "master": "",
+      "cand": "Cornwall",
+      "src": "tourn"
      },
      {
       "pk": "ajakie|heather",
@@ -1713,31 +1719,19 @@
       "src": "tourn"
      },
      {
-      "pk": "armstrong|peyton",
+      "pk": "anderson|ayla",
       "master": "",
-      "cand": "Bancroft",
-      "src": "colrosters"
-     },
-     {
-      "pk": "atkinson|avery",
-      "master": "",
-      "cand": "Stouffville",
-      "src": "tourn"
-     },
-     {
-      "pk": "ayers|jorja",
-      "master": "",
-      "cand": "Saskatoon",
+      "cand": "Warman",
       "src": "tourn"
      }
     ]
    }
   },
   "State": {
-   "same": 3996,
-   "differ": 1224,
+   "same": 3990,
+   "differ": 1225,
    "masterOnly": 0,
-   "candOnly": 120,
+   "candOnly": 225,
    "samples": {
     "differ": [
      {
@@ -1822,6 +1816,12 @@
       "src": "ma"
      },
      {
+      "pk": "abrametz|claire",
+      "master": "",
+      "cand": "SK",
+      "src": "tourn"
+     },
+     {
       "pk": "agrafojo|madeline",
       "master": "",
       "cand": "CT",
@@ -1852,55 +1852,73 @@
       "src": "colrosters"
      },
      {
+      "pk": "anderson|ayla",
+      "master": "",
+      "cand": "SK",
+      "src": "tourn"
+     },
+     {
       "pk": "armstrong|peyton",
       "master": "",
       "cand": "ON",
       "src": "colrosters"
      },
      {
-      "pk": "barcomb|estella",
-      "master": "",
-      "cand": "MA",
-      "src": "ma"
-     },
-     {
-      "pk": "barnes|blake",
-      "master": "",
-      "cand": "MA",
-      "src": "ma"
-     },
-     {
-      "pk": "bergeron|riley",
-      "master": "",
-      "cand": "MA",
-      "src": "ma"
-     },
-     {
-      "pk": "beyor|madison",
-      "master": "",
-      "cand": "NH",
-      "src": "nepsac"
-     },
-     {
-      "pk": "bowtell|madison",
+      "pk": "aubie|ellis",
       "master": "",
       "cand": "BC",
-      "src": "colrosters"
+      "src": "tourn"
+     },
+     {
+      "pk": "bacon|sophia",
+      "master": "",
+      "cand": "AB",
+      "src": "tourn"
+     },
+     {
+      "pk": "baker|taye",
+      "master": "",
+      "cand": "SK",
+      "src": "tourn"
      }
     ]
    }
   },
   "Country": {
-   "same": 12196,
-   "differ": 96,
-   "masterOnly": 31,
-   "candOnly": 16,
+   "same": 12143,
+   "differ": 136,
+   "masterOnly": 29,
+   "candOnly": 17,
    "samples": {
     "differ": [
+     {
+      "pk": "adams|avery",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     },
+     {
+      "pk": "adams|callie",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     },
      {
       "pk": "allen|lucy",
       "master": "CAN",
       "cand": "US",
+      "src": "tourn"
+     },
+     {
+      "pk": "anderson|ayla",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     },
+     {
+      "pk": "ashton|jersey",
+      "master": "US",
+      "cand": "CAN",
       "src": "tourn"
      },
      {
@@ -1928,6 +1946,12 @@
       "src": "tourn"
      },
      {
+      "pk": "bates|alexis",
+      "master": "US",
+      "cand": "CAN",
+      "src": "tourn"
+     },
+     {
       "pk": "beavis|reese",
       "master": "US",
       "cand": "CAN",
@@ -1937,36 +1961,6 @@
       "pk": "beckman|layla",
       "master": "CAN",
       "cand": "US",
-      "src": "tourn"
-     },
-     {
-      "pk": "brown|samantha",
-      "master": "US",
-      "cand": "CAN",
-      "src": "tourn"
-     },
-     {
-      "pk": "buckler|phoenix",
-      "master": "US",
-      "cand": "CAN",
-      "src": "tourn"
-     },
-     {
-      "pk": "callander|keeley",
-      "master": "CAN",
-      "cand": "US",
-      "src": "colrosters"
-     },
-     {
-      "pk": "campbell|grace",
-      "master": "CAN",
-      "cand": "US",
-      "src": "colrosters"
-     },
-     {
-      "pk": "carr|abigail",
-      "master": "US",
-      "cand": "CAN",
       "src": "tourn"
      }
     ],
@@ -1985,12 +1979,6 @@
      },
      {
       "pk": "bertholet|fergie",
-      "master": "CAN",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "boisvert|florence",
       "master": "CAN",
       "cand": "",
       "src": ""
@@ -2038,8 +2026,14 @@
       "src": ""
      },
      {
-      "pk": "ford|isla",
-      "master": "CAN",
+      "pk": "gerum|michaela",
+      "master": "US",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "gibson|grace",
+      "master": "US",
       "cand": "",
       "src": ""
      }
@@ -2056,6 +2050,12 @@
       "master": "",
       "cand": "US",
       "src": "ma"
+     },
+     {
+      "pk": "campanelli|calleigh",
+      "master": "",
+      "cand": "US",
+      "src": "tourn"
      },
      {
       "pk": "caramante|madison",
@@ -2110,12 +2110,6 @@
       "master": "",
       "cand": "US",
       "src": "tourn"
-     },
-     {
-      "pk": "mcinerney|abigail",
-      "master": "",
-      "cand": "US",
-      "src": "nepsac"
      }
     ]
    }
@@ -2351,10 +2345,10 @@
    }
   },
   "Team2024": {
-   "same": 3155,
-   "differ": 639,
+   "same": 3154,
+   "differ": 638,
    "masterOnly": 16,
-   "candOnly": 35,
+   "candOnly": 37,
    "samples": {
     "differ": [
      {
@@ -2536,6 +2530,12 @@
       "src": "rosters"
      },
      {
+      "pk": "buccicone|annabelle",
+      "master": "",
+      "cand": "MN Elite Blue 16U",
+      "src": "rosters"
+     },
+     {
       "pk": "colpitts|madelaine",
       "master": "",
       "cand": "Moncton Rockets U18",
@@ -2570,12 +2570,6 @@
       "master": "",
       "cand": "Lovell Academy 19U",
       "src": "rosters"
-     },
-     {
-      "pk": "gleicher|alana",
-      "master": "",
-      "cand": "Lovell Academy 19U",
-      "src": "rosters"
      }
     ]
    }
@@ -2583,7 +2577,7 @@
   "Team2025": {
    "same": 4581,
    "differ": 769,
-   "masterOnly": 30,
+   "masterOnly": 31,
    "candOnly": 9,
    "samples": {
     "differ": [
@@ -2793,16 +2787,22 @@
    }
   },
   "Team2026": {
-   "same": 4267,
-   "differ": 298,
-   "masterOnly": 4,
-   "candOnly": 8,
+   "same": 4164,
+   "differ": 383,
+   "masterOnly": 7,
+   "candOnly": 728,
    "samples": {
     "differ": [
      {
       "pk": "abougoush|sophia",
       "master": "Rink Hockey Academy - Kelowna U18",
-      "cand": "RINK Kelowna U22",
+      "cand": "RINK Kelowna U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "abrametz|claire",
+      "master": "OHA Penticton U22",
+      "cand": "OHA Penticton U18",
       "src": "rosters"
      },
      {
@@ -2814,7 +2814,7 @@
      {
       "pk": "allan|emersyn",
       "master": "Rink Hockey Academy - Kelowna U18",
-      "cand": "RINK Kelowna U22",
+      "cand": "RINK Kelowna U18",
       "src": "rosters"
      },
      {
@@ -2830,15 +2830,27 @@
       "src": "rosters"
      },
      {
+      "pk": "anderton|chloe",
+      "master": "RINK Winnepeg U22",
+      "cand": "Rink Winnipeg U18",
+      "src": "rosters"
+     },
+     {
       "pk": "annett|julia",
       "master": "Cambridge U22",
       "cand": "Cambridge Roadrunners U22",
       "src": "rosters"
      },
      {
+      "pk": "aubie|ellis",
+      "master": "North Shore Warriors U22",
+      "cand": "North Shore Warriors U18",
+      "src": "rosters"
+     },
+     {
       "pk": "ayers|jorja",
       "master": "Rink Hockey Academy - Kelowna U18",
-      "cand": "RINK Kelowna U22",
+      "cand": "RINK Kelowna U18",
       "src": "rosters"
      },
      {
@@ -2848,31 +2860,19 @@
       "src": "rosters"
      },
      {
-      "pk": "bass|keira",
-      "master": "Les Olympiques De Loutaouais U18",
-      "cand": "Anaheim 16U",
-      "src": "rosters"
-     },
-     {
-      "pk": "bast|hannah",
-      "master": "Cambridge U18",
-      "cand": "Cambridge Roadrunners U18",
-      "src": "rosters"
-     },
-     {
-      "pk": "beauchamp|audree",
-      "master": "Cornwall U18",
-      "cand": "Cornwall Lady Royals U18",
-      "src": "rosters"
-     },
-     {
-      "pk": "beaulieucurry|sophia",
-      "master": "Cambridge U18",
-      "cand": "Cambridge Roadrunners U18",
+      "pk": "bacon|sophia",
+      "master": "CIHA U22",
+      "cand": "Calgary International Hockey Academy U18",
       "src": "rosters"
      }
     ],
     "masterOnly": [
+     {
+      "pk": "beza|nakayla",
+      "master": "OHA Penticton U22",
+      "cand": "",
+      "src": ""
+     },
      {
       "pk": "choi|yehzie",
       "master": "Windy City Storm 14U",
@@ -2882,6 +2882,12 @@
      {
       "pk": "healy|regan",
       "master": "Rochester Jr Americans 19U",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "jensen|madelyn",
+      "master": "Team Illinois 16U",
       "cand": "",
       "src": ""
      },
@@ -2896,72 +2902,102 @@
       "master": "Nichols 19U",
       "cand": "",
       "src": ""
+     },
+     {
+      "pk": "stankevich|zoey",
+      "master": "HoneyBaked 16U",
+      "cand": "",
+      "src": ""
      }
     ],
     "candOnly": [
      {
-      "pk": "choi|yehzei",
+      "pk": "abdo|caroline",
       "master": "",
-      "cand": "Windy City Storm 14U",
+      "cand": "Milwaukee Junior Admirals 16U",
       "src": "rosters"
      },
      {
-      "pk": "comeau|lilydon",
+      "pk": "aceto|cassandra",
       "master": "",
-      "cand": "Thunder Bay Queens U18",
+      "cand": "North Suburban Wings (Red) 16U",
       "src": "rosters"
      },
      {
-      "pk": "heflin|lillian",
+      "pk": "adams|avery",
       "master": "",
-      "cand": "Team Illinois 19U",
+      "cand": "SPKAC Mazurick Architecture Reign U18",
       "src": "rosters"
      },
      {
-      "pk": "kasper|isabella",
+      "pk": "adams|callie",
       "master": "",
-      "cand": "Philadelphia Jr Flyers 16U",
+      "cand": "Winnipeg Ice U18",
       "src": "rosters"
      },
      {
-      "pk": "kearney|isabella",
+      "pk": "adkisson|vivienne",
       "master": "",
-      "cand": "Culver Academies 16U",
+      "cand": "Los Angeles Lions 16U",
       "src": "rosters"
      },
      {
-      "pk": "loewenberg|gwenyth",
+      "pk": "ahlgrim|reese",
       "master": "",
-      "cand": "Madison Capitols 16U",
+      "cand": "Milwaukee Junior Admirals 16U",
       "src": "rosters"
      },
      {
-      "pk": "riska|madeline",
+      "pk": "ahlstrand|avery",
       "master": "",
-      "cand": "HoneyBaked 19U",
+      "cand": "Winchendon 16U",
       "src": "rosters"
      },
      {
-      "pk": "speidel|hailey",
+      "pk": "aiken|alexa",
       "master": "",
-      "cand": "Madison Capitols 19U",
+      "cand": "Western Wolves U18",
+      "src": "rosters"
+     },
+     {
+      "pk": "aitken|annabelle",
+      "master": "",
+      "cand": "Boston Jr Eagles 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "aitken|hattie",
+      "master": "",
+      "cand": "Team Wisconsin 16U",
+      "src": "rosters"
+     },
+     {
+      "pk": "albers|avery",
+      "master": "",
+      "cand": "Fox Motors 19U",
+      "src": "rosters"
+     },
+     {
+      "pk": "albrecht|quinn",
+      "master": "",
+      "cand": "Los Angeles Lions 16U",
       "src": "rosters"
      }
     ]
    }
   },
   "Team": {
-   "same": 1767,
-   "differ": 120,
+   "same": 1766,
+   "differ": 121,
    "masterOnly": 0,
-   "candOnly": 562,
+   "candOnly": 564,
    "samples": {
     "differ": [
      {
       "pk": "aird|maeve",
       "master": "Whitby",
       "cand": "Whitby Wolves",
-      "src": "prov"
+      "src": "commits"
      },
      {
       "pk": "ashlyncook|mary",
@@ -3108,10 +3144,10 @@
    }
   },
   "College": {
-   "same": 2075,
+   "same": 2073,
    "differ": 6,
-   "masterOnly": 0,
-   "candOnly": 13,
+   "masterOnly": 2,
+   "candOnly": 24,
    "samples": {
     "differ": [
      {
@@ -3151,12 +3187,43 @@
       "src": "d3"
      }
     ],
-    "masterOnly": [],
+    "masterOnly": [
+     {
+      "pk": "engfer|finley",
+      "master": "Providence",
+      "cand": "",
+      "src": "override"
+     },
+     {
+      "pk": "hunter|hayley",
+      "master": "Cortland",
+      "cand": "",
+      "src": "override"
+     }
+    ],
     "candOnly": [
+     {
+      "pk": "aird|maeve",
+      "master": "",
+      "cand": "Ohio State",
+      "src": "commits"
+     },
      {
       "pk": "amato|mia",
       "master": "",
       "cand": "Saint Anselm",
+      "src": "commits"
+     },
+     {
+      "pk": "andrade|madelyn",
+      "master": "",
+      "cand": "Norwich",
+      "src": "d3"
+     },
+     {
+      "pk": "buccicone|annabelle",
+      "master": "",
+      "cand": "Quinnipiac",
       "src": "commits"
      },
      {
@@ -3166,10 +3233,34 @@
       "src": "commits"
      },
      {
+      "pk": "dittman|violet",
+      "master": "",
+      "cand": "Colby",
+      "src": "d3"
+     },
+     {
+      "pk": "dockray|lauren",
+      "master": "",
+      "cand": "Assumption",
+      "src": "commits"
+     },
+     {
+      "pk": "doucette|olivia",
+      "master": "",
+      "cand": "Roger Williams",
+      "src": "d3"
+     },
+     {
       "pk": "douglas|autumn",
       "master": "",
       "cand": "Delaware",
       "src": "commits"
+     },
+     {
+      "pk": "fallon|brooke",
+      "master": "",
+      "cand": "Amherst",
+      "src": "d3"
      },
      {
       "pk": "fleming|kaia",
@@ -3182,48 +3273,6 @@
       "master": "",
       "cand": "Robert Morris",
       "src": "colrosters"
-     },
-     {
-      "pk": "klein|jilian",
-      "master": "",
-      "cand": "Boston College",
-      "src": "colrosters"
-     },
-     {
-      "pk": "lee|charlotte",
-      "master": "",
-      "cand": "Brown",
-      "src": "commits"
-     },
-     {
-      "pk": "malachino|katherine",
-      "master": "",
-      "cand": "Long Island",
-      "src": "commits"
-     },
-     {
-      "pk": "nardelli|sofia",
-      "master": "",
-      "cand": "Merrimack",
-      "src": "commits"
-     },
-     {
-      "pk": "oneill|peyton",
-      "master": "",
-      "cand": "Union",
-      "src": "colrosters"
-     },
-     {
-      "pk": "recicasullivan|marianna",
-      "master": "",
-      "cand": "Saint Anselm",
-      "src": "colrosters"
-     },
-     {
-      "pk": "ulrich|alexis",
-      "master": "",
-      "cand": "Minnesota",
-      "src": "commits"
      }
     ]
    }
@@ -3270,10 +3319,10 @@
    }
   },
   "Fresh": {
-   "same": 552,
+   "same": 551,
    "differ": 2,
-   "masterOnly": 23,
-   "candOnly": 32,
+   "masterOnly": 24,
+   "candOnly": 41,
    "samples": {
     "differ": [
      {
@@ -3327,6 +3376,12 @@
       "src": ""
      },
      {
+      "pk": "labonte|carsyn",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "leblanc|arianne",
       "master": "x",
       "cand": "",
@@ -3352,12 +3407,6 @@
      },
      {
       "pk": "murphy|ava",
-      "master": "x",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "peterson|sophia",
       "master": "x",
       "cand": "",
       "src": ""
@@ -3407,6 +3456,12 @@
       "src": "campRank"
      },
      {
+      "pk": "belanger|elisabeth",
+      "master": "",
+      "cand": "TmQC",
+      "src": "campRank"
+     },
+     {
       "pk": "bliss|avery",
       "master": "",
       "cand": "BCcamp",
@@ -3429,21 +3484,15 @@
       "master": "",
       "cand": "U15",
       "src": "campRank"
-     },
-     {
-      "pk": "douglas|autumn",
-      "master": "",
-      "cand": "ON_U16",
-      "src": "campRank"
      }
     ]
    }
   },
   "Soph": {
-   "same": 1392,
-   "differ": 10,
-   "masterOnly": 30,
-   "candOnly": 33,
+   "same": 1387,
+   "differ": 13,
+   "masterOnly": 32,
+   "candOnly": 38,
    "samples": {
     "differ": [
      {
@@ -3456,6 +3505,12 @@
       "pk": "beigel|teagan",
       "master": "U15",
       "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "belanger|elisabeth",
+      "master": "TmQC",
+      "cand": "QCcamp",
       "src": "campRank"
      },
      {
@@ -3489,6 +3544,18 @@
       "src": "campRank"
      },
      {
+      "pk": "mckay|kari",
+      "master": "U15",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
+      "pk": "papineau|elizabeth",
+      "master": "TmQC",
+      "cand": "U18-C",
+      "src": "campRank"
+     },
+     {
       "pk": "riccobelli|lauren",
       "master": "U1617",
       "cand": "U15",
@@ -3498,12 +3565,6 @@
       "pk": "sullivan|katherine",
       "master": "U1617",
       "cand": "U15",
-      "src": "campRank"
-     },
-     {
-      "pk": "xu|lauren",
-      "master": "U15",
-      "cand": "U1617",
       "src": "campRank"
      }
     ],
@@ -3545,6 +3606,12 @@
       "src": ""
      },
      {
+      "pk": "godfrey|natasha",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "graham|megan",
       "master": "x",
       "cand": "",
@@ -3571,12 +3638,6 @@
      {
       "pk": "landsverk|moira",
       "master": "U15",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "leblanc|arianne",
-      "master": "x",
       "cand": "",
       "src": ""
      }
@@ -3649,7 +3710,7 @@
       "src": "campRank"
      },
      {
-      "pk": "lee|charlotte",
+      "pk": "labonte|carsyn",
       "master": "",
       "cand": "U15",
       "src": "campRank"
@@ -3658,10 +3719,10 @@
    }
   },
   "Jr": {
-   "same": 1293,
+   "same": 1287,
    "differ": 10,
-   "masterOnly": 45,
-   "candOnly": 41,
+   "masterOnly": 51,
+   "candOnly": 52,
    "samples": {
     "differ": [
      {
@@ -3739,6 +3800,12 @@
       "src": ""
      },
      {
+      "pk": "belanger|elisabeth",
+      "master": "QCcamp",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "bergeron|zoe",
       "master": "x",
       "cand": "",
@@ -3758,6 +3825,12 @@
      },
      {
       "pk": "carlson|theresa",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
+      "pk": "christensen|teresa",
       "master": "x",
       "cand": "",
       "src": ""
@@ -3785,18 +3858,6 @@
       "master": "x",
       "cand": "",
       "src": ""
-     },
-     {
-      "pk": "gibson|taylor",
-      "master": "x",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "graham|megan",
-      "master": "x",
-      "cand": "",
-      "src": ""
      }
     ],
     "candOnly": [
@@ -3814,6 +3875,12 @@
      },
      {
       "pk": "beaumont|annsophie",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
+      "pk": "bergeron|riley",
       "master": "",
       "cand": "x",
       "src": "campRank"
@@ -3843,6 +3910,12 @@
       "src": "campRank"
      },
      {
+      "pk": "coskren|aleesa",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
       "pk": "crogan|cassidy",
       "master": "",
       "cand": "U1617",
@@ -3859,27 +3932,15 @@
       "master": "",
       "cand": "TmAtl",
       "src": "campRank"
-     },
-     {
-      "pk": "diesing|mei",
-      "master": "",
-      "cand": "x",
-      "src": "campRank"
-     },
-     {
-      "pk": "ellingson|tatum",
-      "master": "",
-      "cand": "x",
-      "src": "campRank"
      }
     ]
    }
   },
   "Sr": {
-   "same": 2833,
-   "differ": 10,
-   "masterOnly": 61,
-   "candOnly": 252,
+   "same": 2825,
+   "differ": 11,
+   "masterOnly": 66,
+   "candOnly": 325,
    "samples": {
     "differ": [
      {
@@ -3919,6 +3980,12 @@
       "src": "campRank"
      },
      {
+      "pk": "poirier|audrey",
+      "master": "TmAtl",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
       "pk": "riccobelli|lauren",
       "master": "x",
       "cand": "U1617",
@@ -3944,12 +4011,6 @@
      }
     ],
     "masterOnly": [
-     {
-      "pk": "arsenault|maxine",
-      "master": "x",
-      "cand": "",
-      "src": ""
-     },
      {
       "pk": "bergeron|zoe",
       "master": "x",
@@ -4005,6 +4066,12 @@
       "src": ""
      },
      {
+      "pk": "cornacchia|ava",
+      "master": "x",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "daley|taylor",
       "master": "x",
       "cand": "",
@@ -4049,6 +4116,12 @@
       "src": "campRank"
      },
      {
+      "pk": "arriaga|madison",
+      "master": "",
+      "cand": "x",
+      "src": "campRank"
+     },
+     {
       "pk": "ashlyncook|mary",
       "master": "",
       "cand": "x",
@@ -4079,13 +4152,7 @@
       "src": "campRank"
      },
      {
-      "pk": "baxter|hannah",
-      "master": "",
-      "cand": "x",
-      "src": "campRank"
-     },
-     {
-      "pk": "beaumont|annsophie",
+      "pk": "barzak|allison",
       "master": "",
       "cand": "x",
       "src": "campRank"
@@ -4224,7 +4291,7 @@
    "same": 1549,
    "differ": 0,
    "masterOnly": 1,
-   "candOnly": 21,
+   "candOnly": 22,
    "samples": {
     "differ": [],
     "masterOnly": [
@@ -4315,7 +4382,7 @@
    "same": 1017,
    "differ": 2,
    "masterOnly": 1,
-   "candOnly": 38,
+   "candOnly": 40,
    "samples": {
     "differ": [
      {
@@ -4383,6 +4450,12 @@
       "src": "campRank"
      },
      {
+      "pk": "eheler|danika",
+      "master": "",
+      "cand": "BCcamp",
+      "src": "campRank"
+     },
+     {
       "pk": "gildainova|tereza",
       "master": "",
       "cand": "WNT-O",
@@ -4405,20 +4478,14 @@
       "master": "",
       "cand": "WNT-O",
       "src": "campRank"
-     },
-     {
-      "pk": "inkamp|sonja",
-      "master": "",
-      "cand": "WNT-O",
-      "src": "campRank"
      }
     ]
    }
   },
   "Yr3": {
-   "same": 1020,
+   "same": 1021,
    "differ": 1,
-   "masterOnly": 3,
+   "masterOnly": 2,
    "candOnly": 66,
    "samples": {
     "differ": [
@@ -4433,12 +4500,6 @@
      {
       "pk": "macmillan|sophia",
       "master": "ATcamp",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "shaw|addison",
-      "master": "ABcamp",
       "cand": "",
       "src": ""
      },
@@ -4526,10 +4587,10 @@
    }
   },
   "GradGuessed": {
-   "same": 56,
+   "same": 48,
    "differ": 0,
-   "masterOnly": 20,
-   "candOnly": 2,
+   "masterOnly": 28,
+   "candOnly": 4,
    "samples": {
     "differ": [],
     "masterOnly": [
@@ -4582,6 +4643,12 @@
       "src": ""
      },
      {
+      "pk": "hammer|kendall",
+      "master": "Yes",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "hepburn|ava",
       "master": "Yes",
       "cand": "",
@@ -4598,17 +4665,23 @@
       "master": "Yes",
       "cand": "",
       "src": ""
-     },
-     {
-      "pk": "labossiere|isabelle",
-      "master": "Yes",
-      "cand": "",
-      "src": ""
      }
     ],
     "candOnly": [
      {
+      "pk": "eheler|danika",
+      "master": "",
+      "cand": "Yes",
+      "src": "campRank"
+     },
+     {
       "pk": "fitzpatrick|anabella",
+      "master": "",
+      "cand": "Yes",
+      "src": "campRank"
+     },
+     {
+      "pk": "murray|halle",
       "master": "",
       "cand": "Yes",
       "src": "campRank"
@@ -4623,12 +4696,19 @@
    }
   },
   "Notable": {
-   "same": 228,
-   "differ": 0,
+   "same": 227,
+   "differ": 1,
    "masterOnly": 0,
    "candOnly": 1,
    "samples": {
-    "differ": [],
+    "differ": [
+     {
+      "pk": "engfer|finley",
+      "master": "Team USA U18 2025",
+      "cand": "Team USA U18 2025 / decommit Providence",
+      "src": "commits"
+     }
+    ],
     "masterOnly": [],
     "candOnly": [
      {
@@ -4654,13 +4734,13 @@
     "pct": 96.7
    },
    "commits": {
-    "both": 1082,
-    "equal": 1040,
+    "both": 1087,
+    "equal": 1045,
     "pct": 96.1
    },
    "d3": {
-    "both": 391,
-    "equal": 374,
+    "both": 397,
+    "equal": 380,
     "pct": 95.7
    },
    "nepsac": {
@@ -4679,9 +4759,9 @@
     "pct": 96.6
    },
    "tourn": {
-    "both": 10084,
-    "equal": 9879,
-    "pct": 98
+    "both": 10270,
+    "equal": 10052,
+    "pct": 97.9
    },
    "colrosters": {
     "both": 1018,
@@ -4701,14 +4781,14 @@
     "pct": 98.8
    },
    "commits": {
-    "both": 1081,
-    "equal": 1081,
+    "both": 1086,
+    "equal": 1086,
     "pct": 100
    },
    "d3": {
-    "both": 52,
-    "equal": 46,
-    "pct": 88.5
+    "both": 58,
+    "equal": 52,
+    "pct": 89.7
    },
    "nepsac": {
     "both": 1597,
@@ -4726,9 +4806,9 @@
     "pct": 95.3
    },
    "tourn": {
-    "both": 9961,
-    "equal": 9885,
-    "pct": 99.2
+    "both": 10143,
+    "equal": 10029,
+    "pct": 98.9
    },
    "colrosters": {
     "both": 1009,
@@ -4736,8 +4816,8 @@
     "pct": 96.7
    },
    "ep": {
-    "both": 6442,
-    "equal": 6121,
+    "both": 6443,
+    "equal": 6123,
     "pct": 95
    }
   },
@@ -4758,9 +4838,9 @@
     "pct": 99.8
    },
    "d3": {
-    "both": 2,
-    "equal": 2,
-    "pct": 100
+    "both": 5,
+    "equal": 4,
+    "pct": 80
    },
    "ccm": {
     "both": 453,
@@ -4768,9 +4848,9 @@
     "pct": 95.1
    },
    "tourn": {
-    "both": 480,
-    "equal": 409,
-    "pct": 85.2
+    "both": 623,
+    "equal": 539,
+    "pct": 86.5
    },
    "ep": {
     "both": 3896,
@@ -4790,14 +4870,14 @@
     "pct": 99.8
    },
    "commits": {
-    "both": 819,
-    "equal": 817,
+    "both": 824,
+    "equal": 822,
     "pct": 99.8
    },
    "d3": {
-    "both": 0,
-    "equal": 0,
-    "pct": null
+    "both": 6,
+    "equal": 6,
+    "pct": 100
    },
    "ccm": {
     "both": 797,
@@ -4810,14 +4890,14 @@
     "pct": 98.8
    },
    "tourn": {
-    "both": 5300,
-    "equal": 5238,
+    "both": 5424,
+    "equal": 5358,
     "pct": 98.8
    },
    "ep": {
-    "both": 6285,
-    "equal": 6271,
-    "pct": 99.8
+    "both": 6287,
+    "equal": 6270,
+    "pct": 99.7
    }
   },
   "Grad": {
@@ -4832,13 +4912,13 @@
     "pct": 89.9
    },
    "commits": {
-    "both": 1076,
+    "both": 1079,
     "equal": 973,
-    "pct": 90.4
+    "pct": 90.2
    },
    "d3": {
-    "both": 311,
-    "equal": 265,
+    "both": 317,
+    "equal": 270,
     "pct": 85.2
    },
    "nepsac": {
@@ -4857,9 +4937,9 @@
     "pct": 90.7
    },
    "tourn": {
-    "both": 8305,
-    "equal": 8202,
-    "pct": 98.8
+    "both": 8375,
+    "equal": 8244,
+    "pct": 98.4
    }
   },
   "Height": {
@@ -4874,9 +4954,9 @@
     "pct": 96
    },
    "tourn": {
-    "both": 521,
-    "equal": 401,
-    "pct": 77
+    "both": 641,
+    "equal": 475,
+    "pct": 74.1
    },
    "colrosters": {
     "both": 838,
@@ -4884,8 +4964,8 @@
     "pct": 62.3
    },
    "ep": {
-    "both": 3774,
-    "equal": 3262,
+    "both": 3776,
+    "equal": 3263,
     "pct": 86.4
    }
   },
@@ -4925,9 +5005,9 @@
     "pct": 90
    },
    "commits": {
-    "both": 1075,
-    "equal": 988,
-    "pct": 91.9
+    "both": 1078,
+    "equal": 990,
+    "pct": 91.8
    },
    "nepsac": {
     "both": 1665,
@@ -4940,14 +5020,14 @@
     "pct": 100
    },
    "tourn": {
-    "both": 146,
-    "equal": 130,
-    "pct": 89
+    "both": 225,
+    "equal": 181,
+    "pct": 80.4
    },
    "colrosters": {
     "both": 933,
-    "equal": 683,
-    "pct": 73.2
+    "equal": 687,
+    "pct": 73.6
    }
   },
   "State": {
@@ -4962,13 +5042,13 @@
     "pct": 99
    },
    "commits": {
-    "both": 1082,
-    "equal": 1060,
-    "pct": 98
+    "both": 1086,
+    "equal": 1063,
+    "pct": 97.9
    },
    "d3": {
-    "both": 1,
-    "equal": 1,
+    "both": 7,
+    "equal": 7,
     "pct": 100
    },
    "nepsac": {
@@ -4987,14 +5067,14 @@
     "pct": 98.4
    },
    "tourn": {
-    "both": 844,
-    "equal": 748,
-    "pct": 88.6
+    "both": 912,
+    "equal": 743,
+    "pct": 81.5
    },
    "colrosters": {
-    "both": 923,
+    "both": 926,
     "equal": 517,
-    "pct": 56
+    "pct": 55.8
    }
   },
   "Country": {
@@ -5009,9 +5089,9 @@
     "pct": 100
    },
    "commits": {
-    "both": 1082,
-    "equal": 1080,
-    "pct": 99.8
+    "both": 1087,
+    "equal": 1084,
+    "pct": 99.7
    },
    "nepsac": {
     "both": 1673,
@@ -5029,9 +5109,9 @@
     "pct": 99.7
    },
    "tourn": {
-    "both": 10073,
-    "equal": 9849,
-    "pct": 97.8
+    "both": 10258,
+    "equal": 9991,
+    "pct": 97.4
    },
    "colrosters": {
     "both": 1000,
@@ -5046,8 +5126,8 @@
     "pct": 92.8
    },
    "commits": {
-    "both": 564,
-    "equal": 550,
+    "both": 563,
+    "equal": 549,
     "pct": 97.5
    },
    "nepsac": {
@@ -5056,15 +5136,15 @@
     "pct": 99.7
    },
    "tourn": {
-    "both": 490,
-    "equal": 352,
-    "pct": 71.8
+    "both": 495,
+    "equal": 357,
+    "pct": 72.1
    }
   },
   "College": {
    "commits": {
-    "both": 1066,
-    "equal": 1066,
+    "both": 1065,
+    "equal": 1065,
     "pct": 100
    },
    "d3": {
@@ -5086,8 +5166,8 @@
   "Notable": {
    "commits": {
     "both": 228,
-    "equal": 228,
-    "pct": 100
+    "equal": 227,
+    "pct": 99.6
    },
    "d3": {
     "both": 0,
