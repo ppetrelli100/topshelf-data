@@ -315,6 +315,10 @@
     {
       "alias": "adds",
       "canon": "addison"
+    },
+    {
+      "alias": "ani",
+      "canon": "eliana"
     }
   ],
   "overrides": [

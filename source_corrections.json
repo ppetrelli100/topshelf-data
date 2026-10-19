@@ -23,6 +23,8 @@
     {"source": "tourn", "personkey": "sojda|gabriella", "field": "Name", "from": "Gabby Sojda", "to": "Gabrielle Sojda", "note": "Same player as Gabrielle Sojda (NDC/regionals): Lovell Academy 16U, 2011, F, NY", "added": "2026-10-18", "applied": "2026-10-18"},
     {"source": "tourn", "personkey": "peacockewas|lillian", "field": "Name", "from": "Lily Peacocke Was 93", "to": "Lily Peacocke", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"},
     {"source": "tourn", "personkey": "wasmatthon|laila", "field": "Name", "from": "Laila Was 19 Matthon", "to": "Laila Matthon", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"},
-    {"source": "tourn", "personkey": "kangreg|julie", "field": "Name", "from": "Julie Kang Reg #91", "to": "Julie Kang", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"}
+    {"source": "tourn", "personkey": "kangreg|julie", "field": "Name", "from": "Julie Kang Reg #91", "to": "Julie Kang", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"},
+    {"source": "tourn", "personkey": "andersen|ani", "field": "Name", "from": "Ani Andersen", "to": "Eliana Andersen", "note": "Ani = Eliana (nickname alias added to firstNameMap)", "added": "2026-10-19", "applied": "2026-10-19"},
+    {"source": "nepsac", "personkey": "andersen|ani", "field": "Name", "from": "Ani Andersen", "to": "Eliana Andersen", "note": "Ani = Eliana (nickname alias added to firstNameMap)", "added": "2026-10-19", "applied": "2026-10-19"}
   ]
 }
