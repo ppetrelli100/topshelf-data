@@ -344,7 +344,7 @@
   {
     "pattern": "^(the\\s*)?blake\\s*(school\\s*)?(hs)?$",
     "type": "HIGH SCHOOL",
-    "friendly": "Blake HS",
+    "friendly": "Blake School",
     "country": "US"
   },
   {
