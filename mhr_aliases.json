@@ -126,6 +126,61 @@
    "from": "Quebec A's U18 AAA (QC)",
    "to": "Quebec As U18 AAA (QC)",
    "note": "auto: name variant"
+  },
+  {
+   "from": "Minnesota Elite MSP Grey 16U (MN)",
+   "to": "Minnesota Elite (Silver) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite (Magazine) 16U (MN)",
+   "to": "Minnesota Elite (Silver) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite MSP Black 16U (MN)",
+   "to": "Minnesota Elite (Blue) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite (Hardware) 16U (MN)",
+   "to": "Minnesota Elite (Blue) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite MSP Red 16U (MN)",
+   "to": "Minnesota Elite (Sky) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite (Travel) 16U (MN)",
+   "to": "Minnesota Elite (Sky) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite MSP White 16U (MN)",
+   "to": "Minnesota Elite (White) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite (Streamline) 16U (MN)",
+   "to": "Minnesota Elite (White) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite (Orange) 16U (MN)",
+   "to": "Minnesota Elite (White) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Elite (Bank) 16U (MN)",
+   "to": "Minnesota Elite (Gold) 16U (MN)",
+   "note": "MN Elite 16U lineage (name rotation; Silver>Blue>Sky by camp talent)"
+  },
+  {
+   "from": "Minnesota Northern Elite 19U (MN)",
+   "to": "Minnesota Northern Elite (Green) 19U (MN)",
+   "note": "same team, tag change"
   }
  ],
  "hideTags": [
