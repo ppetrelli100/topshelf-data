@@ -1410,12 +1410,6 @@
     "country": "CAN"
   },
   {
-    "pattern": "^valley\\s*jr\\.?\\s*warriors$",
-    "type": "CLUB",
-    "friendly": "Valley Jr Warriors",
-    "country": "US"
-  },
-  {
     "pattern": "^belleville\\s*bearcats$",
     "type": "CLUB",
     "friendly": "Belleville Bearcats",
@@ -1452,8 +1446,20 @@
     "country": "US"
   },
   {
-    "pattern": "^bourget\\s*college\\s*girls\\s*varsity$",
+    "pattern": "^(college\\s*)?bou?rget(\\s*college)?(\\s*(girls\\s*)?(varsity|prep))?$",
     "type": "CLUB",
+    "friendly": "Bourget College",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(college\\s*)?bou?rget(\\s*college)?(\\s*(girls\\s*)?(varsity|prep))?$",
+    "type": "PREP",
+    "friendly": "Bourget College",
+    "country": "CAN"
+  },
+  {
+    "pattern": "^(college\\s*)?bou?rget(\\s*college)?(\\s*(girls\\s*)?(varsity|prep))?$",
+    "type": "ACADEMY",
     "friendly": "Bourget College",
     "country": "CAN"
   },
@@ -2892,7 +2898,7 @@
     "country": "US"
   },
   {
-    "pattern": "^valley\\s*(jr|junior)\\s*warriors$",
+    "pattern": "^valley\\s*(jr|junior)\\.?\\s*warriors$",
     "type": "CLUB",
     "friendly": "Valley Jr Warriors",
     "country": "US"
@@ -3141,12 +3147,6 @@
     "pattern": "^aviator\\s*hockey\\s*club$",
     "type": "CLUB",
     "friendly": "Aviator Hockey Club",
-    "country": "US"
-  },
-  {
-    "pattern": "^battlefords\\s*sharks$",
-    "type": "CLUB",
-    "friendly": "Battlefords Sharks",
     "country": "US"
   },
   {
