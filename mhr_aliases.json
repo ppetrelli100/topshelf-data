@@ -181,6 +181,96 @@
    "from": "Minnesota Northern Elite 19U (MN)",
    "to": "Minnesota Northern Elite (Green) 19U (MN)",
    "note": "same team, tag change"
+  },
+  {
+   "from": "Bay State Breakers (Green) 16U (MA)",
+   "to": "Bay State Breakers 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Bay State Breakers (Green) 19U (MA)",
+   "to": "Bay State Breakers 19U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Boston Advantage (Full) 16U (MA)",
+   "to": "Boston Advantage 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Boston Advantage (Weymouth) 16U (MA)",
+   "to": "Boston Advantage 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Boston Advantage (Weymouth) 19U (MA)",
+   "to": "Boston Advantage 19U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Boston Jr Eagles (Maroon) 16U (MA)",
+   "to": "Boston Jr Eagles 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Boston Jr Eagles (Maroon) 19U (MA)",
+   "to": "Boston Jr Eagles 19U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Boston Jr Terriers (Red) 16U (MA)",
+   "to": "Boston Jr Terriers 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Charles River Blazers (Blue) 16U (MA)",
+   "to": "Charles River Blazers 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Minuteman Lady Flames (Gold) 16U (MA)",
+   "to": "Minuteman Lady Flames 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Minuteman Lady Flames (Gold) 19U (MA)",
+   "to": "Minuteman Lady Flames 19U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "North American Hockey Academy (Red) 16U (MA)",
+   "to": "North American Hockey Academy 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "North Shore Vipers (Red) 16U (MA)",
+   "to": "North Shore Vipers 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "North Shore Vipers (Red) 19U (MA)",
+   "to": "North Shore Vipers 19U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Valley Jr Warriors (White) 16U (MA)",
+   "to": "Valley Jr Warriors 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Valley Jr Warriors (White) 19U (MA)",
+   "to": "Valley Jr Warriors 19U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "Chicago Young Americans 16U (IL)",
+   "to": "Windy City Storm 16U (IL)",
+   "note": "IL: Young Americans merged into Windy City Storm"
+  },
+  {
+   "from": "Chicago Young Americans 19U (IL)",
+   "to": "Windy City Storm 19U (IL)",
+   "note": "IL: Young Americans merged into Windy City Storm"
   }
  ],
  "hideTags": [
