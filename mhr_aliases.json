@@ -1,6 +1,6 @@
 {
  "version": 1,
- "description": "Team-name merges for MHR History. Teams whose name appears as 'from' are treated as 'to' (exact MHR team name). Add rows here to merge renamed teams.",
+ "description": "Team-name merges for MHR History. Teams whose name appears as 'from' are treated as 'to' (exact MHR team name). Add rows here to merge renamed teams. hideTags = parenthetical tags removed from displayed team names (teams that differ only by these tags are merged automatically).",
  "aliases": [
   {
    "from": "Lovell Academy Lions (Tier1) 19U (MA)",
@@ -127,5 +127,12 @@
    "to": "Quebec As U18 AAA (QC)",
    "note": "auto: name variant"
   }
+ ],
+ "hideTags": [
+  "Tier1",
+  "Tier 1",
+  "Major1",
+  "Major",
+  "Premier"
  ]
 }
