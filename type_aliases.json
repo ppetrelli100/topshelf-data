@@ -1404,10 +1404,16 @@
     "country": "CAN"
   },
   {
-    "pattern": "^battleford\\s*sharks$",
+    "pattern": "^battlefords?\\s*sharks$",
     "type": "CLUB",
-    "friendly": "Battleford Sharks",
+    "friendly": "Battlefords Sharks",
     "country": "CAN"
+  },
+  {
+    "pattern": "^valley\\s*jr\\.?\\s*warriors$",
+    "type": "CLUB",
+    "friendly": "Valley Jr Warriors",
+    "country": "US"
   },
   {
     "pattern": "^belleville\\s*bearcats$",
