@@ -1,0 +1,131 @@
+{
+ "version": 1,
+ "description": "Team-name merges for MHR History. Teams whose name appears as 'from' are treated as 'to' (exact MHR team name). Add rows here to merge renamed teams.",
+ "aliases": [
+  {
+   "from": "Lovell Academy Lions (Tier1) 19U (MA)",
+   "to": "Lovell Academy Lions 19U (MA)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Detroit Belle Tire (Tier1) 19U (MI)",
+   "to": "Detroit Belle Tire 19U (MI)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "New Jersey Colonials (Tier1) 19U (NJ)",
+   "to": "New Jersey Colonials 19U (NJ)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Florida Alliance (Tier1) 19U (FL)",
+   "to": "Florida Alliance 19U (FL)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Detroit Honeybaked (Tier1) 19U (MI)",
+   "to": "Detroit Honeybaked 19U (MI)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Carolina Junior Canes (Tier1) 19U (NC)",
+   "to": "Carolina Junior Canes 19U (NC)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Team Colorado (Tier1) 19U (CO)",
+   "to": "Team Colorado 19U (CO)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Dallas Stars Elite (Tier1) 19U (TX)",
+   "to": "Dallas Stars Elite 19U (TX)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Biggby Coffee (Tier1) 19U (MI)",
+   "to": "Biggby Coffee 19U (MI)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Alaska All Stars (Tier1) 19U (AK)",
+   "to": "Alaska All Stars 19U (AK)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Lovell Academy Lions (Tier1) 16U (MA)",
+   "to": "Lovell Academy Lions 16U (MA)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Detroit Belle Tire (Tier1) 16U (MI)",
+   "to": "Detroit Belle Tire 16U (MI)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Rochester Jr Americans (Tier1) 16U (NY)",
+   "to": "Rochester Jr Americans 16U (NY)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Team North Dakota (Tier1) 16U (ND)",
+   "to": "Team North Dakota 16U (ND)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Fox Motors (Tier1) 16U (MI)",
+   "to": "Fox Motors 16U (MI)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Team Colorado (Tier1) 16U (CO)",
+   "to": "Team Colorado 16U (CO)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Sno-King Jr Thunderbirds (Tier1) 16U (WA)",
+   "to": "Sno-King Jr Thunderbirds 16U (WA)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Dallas Stars Elite (Tier1) 16U (TX)",
+   "to": "Dallas Stars Elite 16U (TX)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "San Jose Jr Sharks (Tier1) 16U (CA)",
+   "to": "San Jose Jr Sharks 16U (CA)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Syracuse Valley Eagles (Tier1) 16U (NY)",
+   "to": "Syracuse Valley Eagles 16U (NY)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Florida Alliance (Tier1) 16U (FL)",
+   "to": "Florida Alliance 16U (FL)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Carolina Junior Canes (Tier1) 16U (NC)",
+   "to": "Carolina Junior Canes 16U (NC)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "MassConn United (Tier1) 16U (MA)",
+   "to": "MassConn United 16U (MA)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Team Long Island (Tier 1) 16U (NY)",
+   "to": "Team Long Island 16U (NY)",
+   "note": "auto: name variant"
+  },
+  {
+   "from": "Quebec A's U18 AAA (QC)",
+   "to": "Quebec As U18 AAA (QC)",
+   "note": "auto: name variant"
+  }
+ ]
+}
