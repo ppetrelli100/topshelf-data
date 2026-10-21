@@ -271,6 +271,41 @@
    "from": "Chicago Young Americans 19U (IL)",
    "to": "Windy City Storm 19U (IL)",
    "note": "IL: Young Americans merged into Windy City Storm"
+  },
+  {
+   "from": "Boston Advantage (Blue) 16U (MA)",
+   "to": "Boston Advantage 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "North American Jr Winterhawks (Red) 16U (MA)",
+   "to": "North American Jr Winterhawks 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "North Suburban Wings (Red) 16U (MA)",
+   "to": "North Suburban Wings 16U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "North Suburban Wings (Red) 19U (MA)",
+   "to": "North Suburban Wings 19U (MA)",
+   "note": "MA name cleanup: drop colour/location tag"
+  },
+  {
+   "from": "HB Detroit (Tier1) 14U (MI)",
+   "to": "Detroit Honeybaked 14U (MI)",
+   "note": "HB Detroit = Detroit Honeybaked (same club, renamed on MHR)"
+  },
+  {
+   "from": "HB Detroit (Tier1) 16U (MI)",
+   "to": "Detroit Honeybaked 16U (MI)",
+   "note": "HB Detroit = Detroit Honeybaked (same club, renamed on MHR)"
+  },
+  {
+   "from": "HB Detroit (Tier1) 19U (MI)",
+   "to": "Detroit Honeybaked 19U (MI)",
+   "note": "HB Detroit = Detroit Honeybaked (same club, renamed on MHR)"
   }
  ],
  "hideTags": [
