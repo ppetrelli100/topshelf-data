@@ -179318,7 +179318,8 @@
       "raw": [
         "NAHA 16U",
         "NAHA Red",
-        "NAHA Red 16U"
+        "NAHA Red 16U",
+        "NAHA"
       ],
       "tourneys": [
         "Misc"
@@ -179558,7 +179559,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "NY"
         },
         {
           "pk": "bath|olivia",
@@ -186172,7 +186174,8 @@
         "16U"
       ],
       "raw": [
-        "Winchendon School 16U"
+        "Winchendon School 16U",
+        "Winchendon"
       ],
       "tourneys": [
         "Misc"
@@ -186183,206 +186186,257 @@
           "n": "7",
           "name": "Jocie Smith",
           "ry": "",
-          "rg": "",
+          "rg": "2030",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "Edgartown"
         },
         {
           "pk": "brouillard|kyra",
           "n": "9",
           "name": "Kyra Brouillard",
           "ry": "",
-          "rg": "",
+          "rg": "2030",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "Swansea"
         },
         {
           "pk": "eldredge|sophia",
           "n": "16",
           "name": "Sophie Eldredge",
           "ry": "",
-          "rg": "",
+          "rg": "2030",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "Brewster"
         },
         {
           "pk": "soroka|natalie",
           "n": "17",
           "name": "Natalie Soroka",
           "ry": "",
-          "rg": "",
+          "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "GA",
+          "home": "Lilburn"
         },
         {
           "pk": "ahlstrand|avery",
           "n": "22",
           "name": "Avery Ahlstrand",
           "ry": "",
-          "rg": "",
+          "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "WI",
+          "home": "Plymouth"
         },
         {
           "pk": "apicella|mckenzie",
           "n": "28",
           "name": "McKenzie Apicella",
           "ry": "",
-          "rg": "",
+          "rg": "2028",
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "WI",
+          "home": "Black River Falls"
         },
         {
           "pk": "baxter|gianna",
           "n": "2",
           "name": "Gianna Baxter",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "NE",
+          "home": "Papillion"
         },
         {
           "pk": "wurzer|caroline",
           "n": "3",
           "name": "Caroline Wurzer",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "North Billerica"
         },
         {
           "pk": "chang|kailee",
           "n": "8",
           "name": "Kailee Chang",
           "ry": "",
-          "rg": "",
+          "rg": "2030",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "CA",
+          "home": "Irvine"
         },
         {
           "pk": "kreiman|abigail",
           "n": "13",
           "name": "Abigail Kreiman",
           "ry": "",
-          "rg": "",
+          "rg": "2030",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "Hopkinton"
         },
         {
           "pk": "chappell|natalie",
           "n": "19",
           "name": "Natalie Chappell",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "VA",
+          "home": "Springfield"
         },
         {
           "pk": "lynch|isabelle",
           "n": "58",
           "name": "Isabelle Lynch",
           "ry": "",
-          "rg": "",
+          "rg": "2030",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MD",
+          "home": "Ellicott City"
         },
         {
           "pk": "baer|brynnlee",
           "n": "72",
           "name": "Brynnlee Baer",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "Stockbridge"
         },
         {
           "pk": "cohen|ella",
           "n": "77",
           "name": "Ella Cohen",
           "ry": "",
-          "rg": "",
+          "rg": "2030",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "Easton"
         },
         {
           "pk": "precourt|meagan",
           "n": "86",
           "name": "Meagan Precourt",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "FL",
+          "home": "Lithia"
         },
         {
           "pk": "preciado|anna",
           "n": "97",
           "name": "Anna Preciado",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "Maynard"
         },
         {
           "pk": "hasbargen|mia",
           "n": "29",
           "name": "Mia Hasbargen",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "WI",
+          "home": "Hartland"
         },
         {
           "pk": "melo|vivienne",
           "n": "31",
           "name": "Vivienne Melo",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "state": "MA",
+          "home": "Westport"
         },
         {
           "pk": "holden|annika",
           "n": "91",
           "name": "Annika Holden",
           "ry": "",
-          "rg": "",
+          "rg": "2029",
           "rp": "G",
+          "t": [
+            "Misc"
+          ],
+          "state": "IL",
+          "home": "Glen Ellyn"
+        },
+        {
+          "pk": "kazmierczak|emily",
+          "n": "",
+          "name": "Emily Kazmierczak",
+          "ry": "",
+          "rg": "2029",
+          "rp": "",
+          "state": "MA",
+          "home": "Marlborough",
           "t": [
             "Misc"
           ]
