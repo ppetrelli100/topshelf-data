@@ -94702,6 +94702,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Shattuck-St. Mary's Prep 16U",
+      "country": "US",
+      "club": "Shattuck-St. Mary's",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Shattuck-St. Mary's Prep 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "vaszily|addison",
+          "n": "2",
+          "name": "Addison Vaszily",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brodsky|lillian",
+          "n": "3",
+          "name": "Lily Brodsky",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "berres|monica",
+          "n": "4",
+          "name": "Monica Berres",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "monaco|mia",
+          "n": "5",
+          "name": "Mia Monaco",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hall|andrea",
+          "n": "7",
+          "name": "Andrea Hall",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schulz|emma",
+          "n": "12",
+          "name": "Emma Schulz",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "karame|ava",
+          "n": "13",
+          "name": "Ava Karame",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hall|kathryn",
+          "n": "22",
+          "name": "Kathryn Hall",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ligda|brooklyn",
+          "n": "6",
+          "name": "Brooklyn Ligda",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "grabie|makenzie",
+          "n": "8",
+          "name": "Makenzie Grabie",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lee|charlotte",
+          "n": "9",
+          "name": "Charlotte Lee",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "daley|jane",
+          "n": "10",
+          "name": "Jane Daley",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "doiron|kendall",
+          "n": "11",
+          "name": "Kendall Doiron",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "clifford|claire",
+          "n": "14",
+          "name": "Claire Clifford",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "conklin|mateya",
+          "n": "15",
+          "name": "Mateya Conklin",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "field|taylor",
+          "n": "16",
+          "name": "Taylor Field",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "advani|mila",
+          "n": "17",
+          "name": "Mila Advani",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schilling|bria",
+          "n": "18",
+          "name": "Bria Schilling",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hilliard|kamryn",
+          "n": "1",
+          "name": "Kamryn Hilliard",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sunderbruch|mackenzie",
+          "n": "30",
+          "name": "Mackenzie Sunderbruch",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
