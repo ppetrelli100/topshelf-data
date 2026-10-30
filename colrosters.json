@@ -66532,7 +66532,6 @@
         "st": "NS",
         "ctry": "Canada",
         "no": "1",
-        "sh": "L",
         "prevSchool": "West Kent Steamers"
       },
       {
@@ -66545,7 +66544,6 @@
         "st": "MT",
         "ctry": "US",
         "no": "2",
-        "sh": "L",
         "prevSchool": "Bishop Kearney Selects"
       },
       {
@@ -66557,14 +66555,13 @@
         "home": "Andover",
         "st": "MN",
         "ctry": "US",
-        "no": "3",
-        "sh": "R"
+        "no": "3"
       },
       {
         "name": "Shayla Beaudette",
         "pk": "beaudette|shayla",
         "y": "Fr",
-        "pos": "",
+        "pos": "D",
         "ht": "5-6",
         "home": "Aurora",
         "st": "CO",
@@ -66582,7 +66579,6 @@
         "st": "IL",
         "ctry": "US",
         "no": "5",
-        "sh": "L",
         "prevSchool": "Chicago Mission"
       },
       {
@@ -66607,7 +66603,6 @@
         "st": "IL",
         "ctry": "US",
         "no": "7",
-        "sh": "L",
         "prevSchool": "Chicago Mission"
       },
       {
@@ -66620,7 +66615,6 @@
         "st": "MN",
         "ctry": "US",
         "no": "8",
-        "sh": "R",
         "prevSchool": "Edina High School"
       },
       {
@@ -66633,7 +66627,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "9",
-        "sh": "L",
         "prevSchool": "Oakville Hornets"
       },
       {
@@ -66646,14 +66639,13 @@
         "st": "MI",
         "ctry": "US",
         "no": "11",
-        "sh": "R",
         "prevSchool": "Little Caesars"
       },
       {
         "name": "Brynn Holvenstot",
         "pk": "holvenstot|brynn",
         "y": "Fr",
-        "pos": "",
+        "pos": "D",
         "ht": "5-7",
         "home": "Fond Du Lac",
         "st": "WI",
@@ -66671,7 +66663,6 @@
         "st": "NY",
         "ctry": "US",
         "no": "14",
-        "sh": "R",
         "prevSchool": "Shattuck St. Mary's"
       },
       {
@@ -66684,14 +66675,13 @@
         "st": "IL",
         "ctry": "US",
         "no": "15",
-        "sh": "L",
         "prevSchool": "Chicago Mission"
       },
       {
         "name": "Nela Lopusanova",
         "pk": "lopusanova|nela",
         "y": "Fr",
-        "pos": "",
+        "pos": "F",
         "ht": "5-8",
         "home": "Zilina",
         "st": "Slovakia",
@@ -66709,7 +66699,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "21",
-        "sh": "L",
         "prevSchool": "Etobicoke"
       },
       {
@@ -66722,14 +66711,13 @@
         "st": "PA",
         "ctry": "US",
         "no": "22",
-        "sh": "L",
         "prevSchool": "Philadelphia Jr. Flyers"
       },
       {
         "name": "Maddy Kimbrel",
         "pk": "kimbrel|madelyn",
         "y": "Fr",
-        "pos": "",
+        "pos": "F",
         "ht": "5-4",
         "home": "Orono",
         "st": "MN",
@@ -66747,7 +66735,6 @@
         "st": "ON",
         "ctry": "Canada",
         "no": "24",
-        "sh": "R",
         "prevSchool": "Mississauga Jr. Hurricanes"
       },
       {
@@ -66760,14 +66747,13 @@
         "st": "Czechia",
         "ctry": "Europe",
         "no": "26",
-        "sh": "L",
         "prevSchool": "MoDo"
       },
       {
         "name": "Haley Box",
         "pk": "box|haley",
         "y": "Fr",
-        "pos": "",
+        "pos": "F",
         "ht": "5-4",
         "home": "Cheyenne",
         "st": "WY",
@@ -66809,7 +66795,6 @@
         "st": "PA",
         "ctry": "US",
         "no": "30",
-        "sh": "L",
         "prevSchool": "Bishop Kearney Selects"
       },
       {
