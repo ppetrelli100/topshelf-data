@@ -81682,18 +81682,21 @@
       ]
     },
     {
-      "team": "RINK Kelowna U22",
+      "team": "RINK Kelowna U18",
       "country": "CAN",
       "club": "RINK Kelowna",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "U22"
+        "U22",
+        "U18"
       ],
       "raw": [
-        "RHA Kelowna"
+        "RHA Kelowna",
+        "RINK Hockey Academy Kelowna Female U18 Prep"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -81704,8 +81707,10 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "mcdermid|ava",
@@ -81715,8 +81720,10 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "hodder|kilah",
@@ -81727,8 +81734,10 @@
           "rp": "D",
           "commit": "Merrimack",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "allen|emerson",
@@ -81738,8 +81747,10 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "mackie|raeya",
@@ -81749,8 +81760,10 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "abagoush|sophia",
@@ -81760,8 +81773,10 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "sisson|kinley",
@@ -81771,8 +81786,10 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "rice|brynn",
@@ -81782,8 +81799,10 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "korte|alida",
@@ -81794,8 +81813,10 @@
           "rp": "F",
           "commit": "Ohio State",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "mcdonald|hayley",
@@ -81806,8 +81827,10 @@
           "rp": "F",
           "commit": "Ohio State",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "sisson|kennedy",
@@ -81818,8 +81841,10 @@
           "rp": "F",
           "commit": "Clarkson",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "dolynchuk|brooke",
@@ -81829,8 +81854,11 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna",
+          "commit": "Ontario Tech University (U SPORTS)"
         },
         {
           "pk": "bell|caitlyn",
@@ -81840,8 +81868,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "redden|leni",
@@ -81851,8 +81881,10 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "mcintosh|sydney",
@@ -81862,8 +81894,11 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna",
+          "commit": "Penn State University (NCAA)"
         },
         {
           "pk": "blomquist|brooklyn",
@@ -81873,19 +81908,24 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna",
+          "commit": "University of Calgary (U SPORTS)"
         },
         {
           "pk": "swinamer|annalise",
           "n": "24",
-          "name": "Annalise SwiNamer",
+          "name": "Annalise Swinamer",
           "ry": "2009",
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "dammann|sienna",
@@ -81895,8 +81935,10 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "niesh|madeline",
@@ -81906,8 +81948,11 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna",
+          "commit": "University of Arizona (ACHA)"
         },
         {
           "pk": "mclaughlin|jillian",
@@ -81918,7 +81963,21 @@
           "rp": "F",
           "commit": "Cornell",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
+        },
+        {
+          "pk": "anderton|chloe",
+          "n": "18",
+          "name": "Chloe Anderton",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "RINK Hockey Academy Kelowna",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -81929,8 +81988,10 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         },
         {
           "pk": "hendriks|julianne",
@@ -81940,8 +82001,11 @@
           "rg": "2026",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna",
+          "commit": "Ontario Tech University (U SPORTS)"
         },
         {
           "pk": "schippel|jaya",
@@ -81952,8 +82016,10 @@
           "rp": "G",
           "commit": "Minnesota State",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Kelowna"
         }
       ]
     },
