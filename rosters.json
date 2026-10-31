@@ -82024,18 +82024,21 @@
       ]
     },
     {
-      "team": "RINK Winnepeg U22",
+      "team": "Rink Winnipeg U18",
       "country": "CAN",
       "club": "RINK Winnepeg",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "U22"
+        "U22",
+        "U18"
       ],
       "raw": [
-        "RHA Winnipeg"
+        "RHA Winnipeg",
+        "RINK Hockey Academy Winnipeg Female U18 Prep"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -82046,8 +82049,10 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "macintyre|mullen",
@@ -82057,8 +82062,10 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "lynch|sterling",
@@ -82068,8 +82075,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg",
+          "commit": "Lawrence University (NCAA III)"
         },
         {
           "pk": "downey|jordan",
@@ -82079,8 +82089,11 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg",
+          "commit": "Roger Williams University (NCAA III)"
         },
         {
           "pk": "holbrook|piper",
@@ -82090,8 +82103,10 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "sobering|annica",
@@ -82102,8 +82117,10 @@
           "rp": "D",
           "commit": "Cornell",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "thomas|camryn",
@@ -82113,8 +82130,10 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "logan|allison",
@@ -82124,8 +82143,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "leader|kendal",
@@ -82135,8 +82156,11 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg",
+          "commit": "St. Francis Xavier University (U SPORTS)"
         },
         {
           "pk": "lyseng|rylee",
@@ -82146,8 +82170,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "frey|madilynn",
@@ -82157,8 +82183,10 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "oneill|georgia",
@@ -82168,8 +82196,11 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg",
+          "commit": "Midland University (ACHA)"
         },
         {
           "pk": "chornley|payton",
@@ -82179,8 +82210,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "hrubeniuk|ava",
@@ -82190,8 +82223,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "street|rowyn",
@@ -82201,8 +82236,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "duna|adriana",
@@ -82212,8 +82249,10 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "stibbard|sydney",
@@ -82223,8 +82262,11 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg",
+          "commit": "Dalhousie University (U SPORTS)"
         },
         {
           "pk": "chala|raina",
@@ -82234,8 +82276,11 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg",
+          "commit": "St. Thomas University (U SPORTS)"
         },
         {
           "pk": "hagen|maddison",
@@ -82245,8 +82290,10 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
         },
         {
           "pk": "mchenry|mars",
@@ -82256,7 +82303,21 @@
           "rg": "2026",
           "rp": "G",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "school": "RINK Hockey Academy Winnipeg"
+        },
+        {
+          "pk": "sliworsky|kaysi",
+          "n": "88",
+          "name": "Kaysi Sliworsky",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "school": "RINK Hockey Academy Winnipeg",
+          "t": [
+            "Misc"
           ]
         }
       ]
