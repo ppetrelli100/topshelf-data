@@ -119573,6 +119573,243 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Valley Jr Warriors 19U",
+      "country": "US",
+      "club": "Valley Jr Warriors",
+      "lvl": "19U",
+      "levels": [
+        "19U"
+      ],
+      "raw": [
+        "Valley Jr. Warriors 19U Tier I"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "griffith|mia",
+          "n": "3",
+          "name": "Mia Griffith",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "riley|grace",
+          "n": "4",
+          "name": "Grace Riley",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kathan|oona",
+          "n": "5",
+          "name": "Oona Kathan",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lackley|sarah",
+          "n": "7",
+          "name": "Sarah Lackley",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "peel|addyson",
+          "n": "11",
+          "name": "Addyson Peel",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcfadzean|charlotte",
+          "n": "13",
+          "name": "Charlotte McFadzean",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "baker|kelsey",
+          "n": "2",
+          "name": "Kelsey Baker",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gray|maria",
+          "n": "6",
+          "name": "Maria Gray",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thompson|giavanna",
+          "n": "8",
+          "name": "Giavanna Thompson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mulkerron|theresa",
+          "n": "9",
+          "name": "Tess Mulkerron",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sears|erin",
+          "n": "10",
+          "name": "Erin Sears",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wierl|brady",
+          "n": "12",
+          "name": "Brady Wierl",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bruen|keira",
+          "n": "14",
+          "name": "Keira Bruen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "roenick|parker",
+          "n": "15",
+          "name": "Parker Roenick",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shu|emma",
+          "n": "16",
+          "name": "Emma Shu",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kent|alexandra",
+          "n": "17",
+          "name": "Alexandra Kent",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wierl|peyton",
+          "n": "18",
+          "name": "Peyton Wierl",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcinerney|lillyana",
+          "n": "19",
+          "name": "Lillyana McInerney",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "scannell|ava",
+          "n": "1",
+          "name": "Ava Scannell",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vincent|elizabeth",
+          "n": "29",
+          "name": "Elizabeth Vincent",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ],
   "2026-27": [
