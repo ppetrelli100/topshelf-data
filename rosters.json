@@ -121012,6 +121012,271 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Shawnigan Lake School 18U",
+      "country": "US",
+      "club": "Shawnigan Lake School Female",
+      "lvl": "18U",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Shawnigan Lake School Female U18 Prep"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "mckellar|grace",
+          "n": "4",
+          "name": "Grace McKellar",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "worsley|alyssa",
+          "n": "12",
+          "name": "Alyssa Worsley",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "school": "Shawnigan Lake School",
+          "commit": "University of British Columbia (U SPORTS)",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lawson|charlotte",
+          "n": "14",
+          "name": "Charlotte Lawson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "school": "Shawnigan Lake School",
+          "commit": "Liberty University (ACHA)",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thomson|macy",
+          "n": "16",
+          "name": "Macy Thomson",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lawrence|saydi",
+          "n": "18",
+          "name": "Saydi Lawrence",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "serdachny|jordan",
+          "n": "19",
+          "name": "Jordan Serdachny",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "crookham|noe",
+          "n": "2",
+          "name": "Noe Crookham",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cooper|grace",
+          "n": "3",
+          "name": "Grace Cooper",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "commit": "St. Francis Xavier University (U SPORTS)",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hamel|ava",
+          "n": "6",
+          "name": "Ava Hamel",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "commit": "Carleton University (U SPORTS)",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcgee|theresa",
+          "n": "7",
+          "name": "Tess McGee",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dennis|ziah",
+          "n": "9",
+          "name": "Ziah Dennis",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hill|leah",
+          "n": "10",
+          "name": "Leah Hill",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "commit": "Ontario Tech University (U SPORTS)",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "swift|lyla",
+          "n": "11",
+          "name": "Lyla Swift",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "eheler|danika",
+          "n": "13",
+          "name": "Danika Eheler",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bulmer|maya",
+          "n": "15",
+          "name": "Maya Bulmer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "simpson|taylor",
+          "n": "17",
+          "name": "Taylor Simpson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cramer|zoe",
+          "n": "21",
+          "name": "Zoe Cramer",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "commit": "Mercyhurst University (NCAA)",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hamel|eden",
+          "n": "22",
+          "name": "Eden Hamel",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "school": "Shawnigan Lake School",
+          "commit": "Robert Morris University (NCAA)",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "gladstone|lauryn",
+          "n": "1",
+          "name": "Lauryn Gladstone",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "school": "Shawnigan Lake School",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carkner|aidyn",
+          "n": "31",
+          "name": "Aidyn Carkner",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "school": "Shawnigan Lake School",
+          "commit": "Carleton University (U SPORTS)",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ],
   "2026-27": [
