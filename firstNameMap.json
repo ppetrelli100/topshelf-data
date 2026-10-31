@@ -319,7 +319,8 @@
     {
       "alias": "ani",
       "canon": "eliana"
-    }
+    },
+    {"alias": "gia", "canon": "gianna"}
   ],
   "overrides": [
     {

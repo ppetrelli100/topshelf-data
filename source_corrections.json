@@ -25,6 +25,10 @@
     {"source": "tourn", "personkey": "wasmatthon|laila", "field": "Name", "from": "Laila Was 19 Matthon", "to": "Laila Matthon", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"},
     {"source": "tourn", "personkey": "kangreg|julie", "field": "Name", "from": "Julie Kang Reg #91", "to": "Julie Kang", "note": "Stoney 2024 sheet note in name cell", "added": "2026-10-18", "applied": "2026-10-18"},
     {"source": "tourn", "personkey": "andersen|ani", "field": "Name", "from": "Ani Andersen", "to": "Eliana Andersen", "note": "Ani = Eliana (nickname alias added to firstNameMap)", "added": "2026-10-19", "applied": "2026-10-19"},
-    {"source": "nepsac", "personkey": "andersen|ani", "field": "Name", "from": "Ani Andersen", "to": "Eliana Andersen", "note": "Ani = Eliana (nickname alias added to firstNameMap)", "added": "2026-10-19", "applied": "2026-10-19"}
+    {"source": "nepsac", "personkey": "andersen|ani", "field": "Name", "from": "Ani Andersen", "to": "Eliana Andersen", "note": "Ani = Eliana (nickname alias added to firstNameMap)", "added": "2026-10-19", "applied": "2026-10-19"},
+    {"source": "ndc", "personkey": "orizotti|gia", "field": "Name", "from": "Gia Orizotti", "to": "Gianna Orizotti", "note": "Gia = Gianna (USA Hockey 2027 U18 roster; nickname alias added to firstNameMap)", "added": "2026-10-30", "applied": "2026-10-31"},
+    {"source": "tourn", "personkey": "orizotti|gia", "field": "Name", "from": "Gia Orizotti", "to": "Gianna Orizotti", "note": "Gia = Gianna (USA Hockey 2027 U18 roster; nickname alias added to firstNameMap)", "added": "2026-10-30", "applied": "2026-10-31"},
+    {"source": "commits", "personkey": "orizotti|gia", "field": "Name", "from": "Gia Orizotti", "to": "Gianna Orizotti", "note": "Gia = Gianna (USA Hockey 2027 U18 roster; nickname alias added to firstNameMap)", "added": "2026-10-30", "applied": "2026-10-31"},
+    {"source": "ccm", "personkey": "orizotti|gia", "field": "Name", "from": "Gia Orizotti", "to": "Gianna Orizotti", "note": "Gia = Gianna (USA Hockey 2027 U18 roster; nickname alias added to firstNameMap)", "added": "2026-10-30", "applied": "2026-10-31"}
   ]
 }
