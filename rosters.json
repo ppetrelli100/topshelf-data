@@ -110773,18 +110773,21 @@
       ]
     },
     {
-      "team": "Northern Alberta Xtreme U22",
+      "team": "Northern Alberta Xtreme U18",
       "country": "US",
       "club": "Northern Alberta Xtreme",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "19U"
+        "19U",
+        "U18"
       ],
       "raw": [
-        "Northern Alberta Xtreme 19U"
+        "Northern Alberta Xtreme 19U",
+        "Northern Alberta Xtreme Female U18 Prep"
       ],
       "tourneys": [
-        "NIT"
+        "NIT",
+        "Misc"
       ],
       "players": [
         {
@@ -110795,7 +110798,55 @@
           "rg": "",
           "rp": "D",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "impett|kelsey",
+          "n": "22",
+          "name": "Kelsey Impett",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "NIT",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|kasey",
+          "n": "4",
+          "name": "Kasey Smith",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "NIT",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "watts|brooke",
+          "n": "19",
+          "name": "Brooke Watts",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "NIT",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macdonald|gracie",
+          "n": "5",
+          "name": "Gracie MacDonald",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -110806,7 +110857,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110817,7 +110869,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110828,7 +110881,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110839,7 +110893,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110850,7 +110905,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110861,7 +110917,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110872,7 +110929,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110883,7 +110941,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110894,7 +110953,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110916,7 +110976,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110927,7 +110988,8 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
@@ -110938,7 +111000,32 @@
           "rg": "",
           "rp": "F",
           "t": [
-            "NIT"
+            "NIT",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ashton|jersey",
+          "n": "14",
+          "name": "Jersey Ashton",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "NIT",
+            "Misc"
+          ]
+        },
+        {
+          "pk": "starlight|caleigh",
+          "n": "20",
+          "name": "Caleigh Starlight",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "commit": "Lake Superior State University (ACHA)",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -110949,8 +111036,10 @@
           "rg": "",
           "rp": "G",
           "t": [
-            "NIT"
-          ]
+            "NIT",
+            "Misc"
+          ],
+          "commit": "NAIT Ooks (ACAC)"
         },
         {
           "pk": "pope|hannah",
@@ -110960,57 +111049,14 @@
           "rg": "",
           "rp": "G",
           "t": [
-            "NIT"
-          ]
-        },
-        {
-          "pk": "ashton|jersey",
-          "n": "14",
-          "name": "Jersey Ashton",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "NIT"
-          ]
-        },
-        {
-          "pk": "impett|kelsey",
-          "n": "22",
-          "name": "Kelsey Impett",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "NIT"
+            "NIT",
+            "Misc"
           ]
         },
         {
           "pk": "linmacdonald|gracie",
           "n": "5",
           "name": "Gracie Lin Macdonald",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "NIT"
-          ]
-        },
-        {
-          "pk": "smith|kasey",
-          "n": "4",
-          "name": "Kasey Smith",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "NIT"
-          ]
-        },
-        {
-          "pk": "watts|brooke",
-          "n": "19",
-          "name": "Brooke Watts",
           "ry": "",
           "rg": "",
           "rp": "",
