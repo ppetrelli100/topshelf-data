@@ -119810,6 +119810,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Bay State Breakers 16U",
+      "country": "US",
+      "club": "Bay State Breakers",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Bay State Breakers 16U Tier I"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "mcdonough|emily",
+          "n": "4",
+          "name": "Emily McDonough",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pike|riley",
+          "n": "5",
+          "name": "Riley Pike",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "collum|olivia",
+          "n": "6",
+          "name": "Olivia Collum",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kennelly|maeve",
+          "n": "8",
+          "name": "Maeve Kennelly",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "crabtree|chloe",
+          "n": "16",
+          "name": "Chloe Crabtree",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "levering|elizabeth",
+          "n": "18",
+          "name": "Elizabeth Levering",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcdavitt|nora",
+          "n": "20",
+          "name": "Nora McDavitt",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sowersby|peyton",
+          "n": "1",
+          "name": "Peyton Sowersby",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hare|bea",
+          "n": "2",
+          "name": "Bea Hare",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "king|jacqueline",
+          "n": "7",
+          "name": "Jackie King",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "henley|jennifer",
+          "n": "17",
+          "name": "Jenna Henley",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "skeiber|ella",
+          "n": "22",
+          "name": "Ella Skeiber",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "curtis|lillian",
+          "n": "24",
+          "name": "Lily Curtis",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "quatrale|sadie",
+          "n": "44",
+          "name": "Sadie Quatrale",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "carr|ava",
+          "n": "83",
+          "name": "Ava Carr",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wallace|coleen",
+          "n": "27",
+          "name": "Coleen Wallace",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ma|barbara",
+          "n": "36",
+          "name": "Barbara Ma",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ],
   "2026-27": [
