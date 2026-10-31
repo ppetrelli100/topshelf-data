@@ -74366,18 +74366,21 @@
       ]
     },
     {
-      "team": "North Shore Warriors U22",
+      "team": "North Shore Warriors U18",
       "country": "CAN",
       "club": "North Shore Warriors",
-      "lvl": "U22",
+      "lvl": "U18",
       "levels": [
-        "U22"
+        "U22",
+        "U18"
       ],
       "raw": [
-        "North Shore Warriors"
+        "North Shore Warriors",
+        "North Shore Warriors Female U18 Prep"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -74388,7 +74391,8 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74399,7 +74403,8 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74410,8 +74415,10 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Medicine Hat College (ACAC)"
         },
         {
           "pk": "king|brooklynn",
@@ -74421,7 +74428,8 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74432,8 +74440,10 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Medicine Hat College (ACAC)"
         },
         {
           "pk": "siemens|taylor",
@@ -74443,7 +74453,20 @@
           "rg": "2026",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "SAIT Trojans (ACAC)"
+        },
+        {
+          "pk": "glaze|mila",
+          "n": "40",
+          "name": "Mila Glaze",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -74454,7 +74477,8 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74466,7 +74490,8 @@
           "rp": "F",
           "commit": "Alberta",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74477,7 +74502,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74488,7 +74514,8 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74499,8 +74526,10 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "University of Moncton (U SPORTS)"
         },
         {
           "pk": "rubin|castilla",
@@ -74511,7 +74540,8 @@
           "rp": "F",
           "commit": "Mount Royal",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74522,8 +74552,10 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "MacEwan University (U SPORTS)"
         },
         {
           "pk": "brazeau|madison",
@@ -74534,7 +74566,8 @@
           "rp": "F",
           "commit": "Post",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
           ]
         },
         {
@@ -74545,8 +74578,10 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "University of Saskatchewan (U SPORTS)"
         },
         {
           "pk": "kent|elizabeth",
@@ -74556,8 +74591,10 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "NAIT Ooks (ACAC)"
         },
         {
           "pk": "burgher|chloe",
@@ -74567,8 +74604,10 @@
           "rg": "2026",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Mount Allison University (U SPORTS)"
         },
         {
           "pk": "carella|gia",
@@ -74578,8 +74617,10 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "St. Thomas University (U SPORTS)"
         },
         {
           "pk": "ward|emma",
@@ -74589,8 +74630,10 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "Mount Royal University (U SPORTS)"
         },
         {
           "pk": "hedges|haylie",
@@ -74600,8 +74643,10 @@
           "rg": "2026",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "commit": "West Connecticut State University (NCAA III)"
         }
       ]
     },
