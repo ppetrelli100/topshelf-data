@@ -1,14 +1,50 @@
 {
-  "generated": "2026-11-02T01:27:46.053Z",
+  "generated": "2026-11-02T01:31:02.170Z",
   "applied": [],
   "players": {
     "before": 13338,
-    "after": 13338
+    "after": 13337
   },
-  "removed": [],
+  "removed": [
+    "moors|kami"
+  ],
   "added": [],
-  "changedPlayers": 0,
-  "changedCells": 0,
-  "fieldDiffs": {},
-  "examples": []
+  "changedPlayers": 1,
+  "changedCells": 4,
+  "fieldDiffs": {
+    "City": 1,
+    "State": 1,
+    "School": 1,
+    "Team2026": 1
+  },
+  "examples": [
+    {
+      "pk": "moors|kamryn",
+      "name": "Kamryn Moors",
+      "field": "City",
+      "from": "",
+      "to": "Simsbury"
+    },
+    {
+      "pk": "moors|kamryn",
+      "name": "Kamryn Moors",
+      "field": "State",
+      "from": "",
+      "to": "CT"
+    },
+    {
+      "pk": "moors|kamryn",
+      "name": "Kamryn Moors",
+      "field": "School",
+      "from": "",
+      "to": "Taft"
+    },
+    {
+      "pk": "moors|kamryn",
+      "name": "Kamryn Moors",
+      "field": "Team2026",
+      "from": "",
+      "to": "Midfairfield CT Stars 16U"
+    }
+  ]
 }
