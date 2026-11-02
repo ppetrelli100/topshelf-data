@@ -51,12 +51,16 @@ ZF, WF = zlens(MF); ZG, WG = zlens(MG)
 best = S5.sort_values(['pk', 'gp', 'si'], ascending=[True, False, False]).groupby('pk').head(1)
 def sig(v):
     return None if v is None or v != v else float('%.4g' % v)
-out = {'meta': {'built': datetime.date.today().isoformat(), 'groups': GROUPS, 'levels': ['14U/U15', '16U/U18', '19U/U22', 'Other'], 'seasons': meta['seasons'],
+# display names (the metric columns keep their internal names; only the label shown on the page changes)
+DISPLAY = {'On-ice SA /20': 'Shots against /20', 'On-ice xGA /20': 'xG against /20'}
+# schools per D1 tier, for the tooltips on the tier labels
+tier_schools = {'T%d' % t: sorted(k for k, v in d1tier.items() if v == t) for t in (1, 2, 3, 4)}
+out = {'meta': {'tierSchools': tier_schools, 'built': datetime.date.today().isoformat(), 'groups': GROUPS, 'levels': ['14U/U15', '16U/U18', '19U/U22', 'Other'], 'seasons': meta['seasons'],
         'note': 'TPE only. Best season per player (most games, 5+). Outcome from commits.json (D1 tier via d1.json), D3/other from commits_d3.json or master College.'},
        'metrics': {}, 'rows': {}}
 cat = {'F': dm.CAT_F, 'D': dm.CAT_D, 'G': dm.CAT_G}
 for pos in ['F', 'D', 'G']:
-    out['metrics'][pos] = [{'label': l, 'cat': c, 'dir': d, 'ours': o} for l, c, d, o in cat[pos]]
+    out['metrics'][pos] = [{'label': DISPLAY.get(l, l), 'cat': c, 'dir': d, 'ours': o} for l, c, d, o in cat[pos]]
     out['rows'][pos] = []
 cnt = {}
 for idx, r in best.iterrows():
