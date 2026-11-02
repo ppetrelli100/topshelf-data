@@ -84,3 +84,35 @@ dst = os.path.join(R, 'hub', 'hub_d1.json')
 with open(dst, 'w', encoding='utf-8') as f: json.dump(out, f, separators=(',', ':'), ensure_ascii=False)
 print('wrote', dst, os.path.getsize(dst), 'bytes')
 for pos in 'FDG': print(pos, len(out['rows'][pos]), {g: cnt.get((pos, g), 0) for g in GROUPS})
+
+# ---------------------------------------------------------------------------------------------
+# hub/hub_d1_ps.json -- raw metrics for EVERY player-season-team row (any games), used by the "Overlay" card.
+# The page computes the adjusted / teammate z-scores itself from these rows (same rules as above), so only raw values are stored.
+# rows: [player index, season index, team index, TPE position (0 F, 1 D, 2 G), level (0..3), GP, metric values in the order of metrics[position]]
+# ---------------------------------------------------------------------------------------------
+Sall = S.copy(); Sall['tpos'] = Sall['pos']; Sall = Sall[Sall.tpos.isin(['F', 'D', 'G'])]
+MFa = dm.metrics(Sall); MGa = dm.goalie_metrics(Sall)
+CODE = {'F': 0, 'D': 1, 'G': 2}
+pl_index, players = {}, []
+def prim_pos(pk, hubpos):
+    mp = (master.get(pk) or {}).get('Position')
+    return mp if mp in ('F', 'D', 'G') else hubpos
+def grad_of(pk):
+    mr = master.get(pk) or {}
+    g = mr.get('Grad') or (mr.get('BirthYr') + 18 if mr.get('BirthYr') else None)
+    return int(g) if g else 0
+hubpos_of = dict(zip(P.pk, P.pos)); hubname_of = dict(zip(P.pk, P.name))
+rows_ps = []
+for idx, r in Sall.iterrows():
+    pk = r.pk
+    if pk not in pl_index:
+        pl_index[pk] = len(players)
+        players.append([(master.get(pk) or {}).get('Name') or hubname_of.get(pk) or pk, pk, CODE.get(prim_pos(pk, hubpos_of.get(pk)), 0), grad_of(pk)])
+    labels = [m[0] for m in cat[r.tpos]]
+    A = MGa if r.tpos == 'G' else MFa
+    rows_ps.append([pl_index[pk], int(r.si), int(r.ti), CODE[r.tpos], int(r.lvl), int(r.gp)] + [sig(A.at[idx, l]) for l in labels])
+ps_out = {'meta': {'built': datetime.date.today().isoformat(), 'seasons': meta['seasons'], 'teams': meta['teams'], 'levels': ['14U/U15', '16U/U18', '19U/U22', 'Other'],
+                   'metrics': {k: [DISPLAY.get(l, l) for l, c, d, o in cat[k]] for k in 'FDG'}}, 'players': players, 'rows': rows_ps}
+dst2 = os.path.join(R, 'hub', 'hub_d1_ps.json')
+with open(dst2, 'w', encoding='utf-8') as f: json.dump(ps_out, f, separators=(',', ':'), ensure_ascii=False)
+print('wrote', dst2, os.path.getsize(dst2), 'bytes;', len(players), 'players,', len(rows_ps), 'rows')
