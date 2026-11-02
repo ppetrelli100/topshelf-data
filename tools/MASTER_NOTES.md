@@ -1,10 +1,10 @@
 # master.json rebuild: how it works and every rule we settled (Oct 2026)
 
-`tools/build_master.js` rebuilds the Master record (one row per player) from the raw JSON files in this repo, replacing
-the spreadsheet Master tab. This file is the record of HOW each field is picked and WHY. Read it before changing a pick rule.
+`tools/build_master.js` rebuilds the Master record (one row per player) from the raw JSON files in this repo.
+This file is the record of HOW each field is picked and WHY. Read it before changing a pick rule.
 Config lives in `tools/master_picks.json`; per-player manual fixes live in `overrides.json`.
 
-Status: PROMOTED Oct 3, 2026. `master.json` is now the output of this build (12,565 players). The final spreadsheet-era file is kept as
+Status: PROMOTED Oct 3, 2026. `master.json` is now the output of this build (12,565 players). The previous master is kept as
 `master_last_hockeyfile.json` (12,590 players, byte-identical to the old master.json; never delete it, it is the College `legacy` source and the diff baseline).
 `master_sources.json` is the provenance sidecar for the new master.json and lives beside it. Regenerating: run the build, review `master_diff.json`,
 then copy `master_candidate.json` over `master.json` (the build never writes master.json itself).
@@ -24,7 +24,7 @@ The console prints a same / differ / master-only / candidate-only table per fiel
 commits.json, commits_d3.json, ndc.json, provrosters.json, nepsac.json, ccm68.json, ma.json, colrosters.json (season > school > players),
 rosters.json (editable, live seasons, the rolling 3-season window the site reads) and rosters_archive.json (frozen seasons, read-only), flattened to player level by
 `import_tourneys.js flattenPlayers` (a season held by the archive is taken from the archive, so none is counted twice), ep.json (EliteProspects, gap-filler only), type_aliases.json, firstNameMap.json,
-overrides.json, intl_wnt_o.json (optional extra WNT-O keys), regionals.json, master_last_hockeyfile.json (the old spreadsheet-era master: used ONLY for the College fallback and for the diff).
+overrides.json, intl_wnt_o.json (optional extra WNT-O keys), regionals.json, master_last_hockeyfile.json (the previous master: used ONLY for the College fallback and for the diff).
 
 ## Player universe and join key
 
@@ -151,7 +151,7 @@ universe (not in commits/ndc/prov/nepsac/tourn/ccm/ma), so they get no Master ro
 ## Overrides (overrides.json, 27 entries)
 
 Format `{personkey, field, value, notes}`. Overridable fields: `Grad`, `BirthYr`, `Position`, `College` (`""` forces blank), `DOB` (full date), `DOBPartial` (partial,
-DOB left blank). Contents: 6 Grad fixes and 2 College blanks from the spreadsheet Overrides tab, 16 PM decisions made Oct 3 on `dob_conflicts.csv`
+DOB left blank). Contents: 6 Grad fixes and 2 College blanks carried over from the earlier overrides, 16 PM decisions made Oct 3 on `dob_conflicts.csv`
 (notes start "PM 10/3:"), and 3 best guesses (belanger|eva 4/6/2011, logan|reese 3/5/2006, mackinnon|jessica 11/2/2006). gasse|sophianne: PM said
 "keep commits" but there is no commits row, so the ProvRosters date was kept. Review CSVs: `Claude outputs/dob_conflicts.csv` (PM column filled),
 `dob_review_round2.csv`, `position_conflicts.csv` (PM column still to fill).
@@ -204,6 +204,6 @@ rosters_archive.json, overrides.json, commits_d3.json, intl_wnt_o.json, regional
 
 ## Pipeline tab (updates.html, Oct 2026)
 - The Pipeline tab draws the flow (sources -> master; tourneys -> rosters -> master). Each box shows the file's last commit time from GitHub. Green = committed before master.json was last built (already in master). Red = committed after (master does not have it yet). Any red source, a red extra input (commits_d3, regionals, type_aliases, firstNameMap, intl_wnt_o, master_picks) or a queued correction turns master red.
-- "Up to date" means "included in master", judged from commit times. It does not know whether an upstream spreadsheet or website has newer data than the JSON file.
+- "Up to date" means "included in master", judged from commit times. It does not know whether an upstream source or website has newer data than the JSON file.
 - The tourneys box is intake only (the Teams tab writes rosters.json). The rebuild card (apply queued corrections, review, promote) moved from the Master Viewer to this tab. A review summary older than the current master.json is hidden.
 - `source_corrections.json` now has two lists: `corrections` (the queue, only entries still waiting) and `applied` (history). `apply_corrections.js` moves each correction it applied from the queue to `applied`; one with no matching rows stays queued so someone looks at it.

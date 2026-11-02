@@ -6,8 +6,7 @@
 > and the "Run it" command below are how the file was first built and are kept only as history; do NOT re-run them over rosters.json, they would overwrite later additions.
 > The rules below still describe how every roster gets cleaned and merged.
 
-Written Oct 2026 during the migration of the last spreadsheet-side raw source. Everything the
-`Tourneys` tab and the `Rosters` formula used to do now lives in `tools/import_tourneys.js`.
+Written Oct 2026. Everything the original Tourneys intake and roster merge did lives in `tools/import_tourneys.js`.
 The rules below are the single source of truth; change the tool, then this file.
 
 ## Run it

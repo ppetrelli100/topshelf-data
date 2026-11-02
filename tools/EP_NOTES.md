@@ -1,9 +1,8 @@
 # ep.json — EliteProspects player reference
 
 `ep.json` (27,134 rows, in `topshelf-data`) is the full EliteProspects female
-player export, not a pre-filtered subset. Earlier work (pre-migration, on the
-Sheet) used a ~3,700-row subset limited to players already matched to
-Master, because Sheets had real row/size constraints. That constraint
+player export, not a pre-filtered subset. Earlier work used a ~3,700-row subset limited to players already
+matched to Master, to stay within size limits. That constraint
 doesn't apply to a GitHub-hosted JSON, so the full set is kept as the
 canonical reference — new matches against Master surface automatically as
 Master grows, without anyone re-running a match-and-trim pass by hand.
