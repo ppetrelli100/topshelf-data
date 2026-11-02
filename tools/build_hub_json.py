@@ -37,6 +37,8 @@ PGS = ['id', 'game_id', 'player_id', 'team_id', 'is_opponent', 'toi_seconds', 's
        'tpe_entries_successful_controlled', 'tpe_entries_successful_uncontrolled', 'tpe_entries_failed_controlled',
        'tpe_entries_failed_uncontrolled', 'tpe_exits_successful_controlled', 'tpe_exits_successful_uncontrolled',
        'tpe_exits_failed_controlled', 'tpe_exits_failed_uncontrolled', 'on_ice_goals_for', 'on_ice_goals_against',
+       'danger_shots_on_goal', 'entries_carry_in', 'exits_carry_out', 'on_ice_shots_for', 'on_ice_shots_against',
+       'passes_successful_dz', 'passes_unsuccessful_dz',
        'on_ice_xg_for', 'on_ice_xg_against']
 DET = ['pgs_id', 'takeaways', 'xg', 'xa', 'faceoffs_won', 'faceoffs_lost', 'pp_toi_seconds', 'pk_toi_seconds',
        'saves', 'shots_against', 'goals_against']
@@ -53,7 +55,8 @@ print('TPE player-games (toi>0):', len(pgs), 'games', pgs.game_id.nunique())
 # ---------- personkey via the real makePersonKey ----------
 pl = rd('player.csv', usecols=['id', 'first_name', 'last_name'])
 pl = pl[pl.id.isin(pgs.player_id.unique())].copy()
-tmp = os.path.join(OUT, '_pk_in.json')
+import tempfile
+tmp = os.path.join(tempfile.gettempdir(), 'hub_pk_in_%d.json' % os.getpid())
 json.dump([{'id': i, 'n': f"{(a if isinstance(a, str) else '')} {(b if isinstance(b, str) else '')}".strip()}
            for i, a, b in zip(pl.id, pl.first_name, pl.last_name)], open(tmp, 'w'))
 js = r"""
@@ -66,7 +69,8 @@ fs.writeFileSync(process.argv[2],JSON.stringify(a));
 """
 subprocess.run(['node', '-e', js, TSD, tmp], check=True)
 pkd = {x['id']: (x['pk'], x['n']) for x in json.load(open(tmp))}
-os.remove(tmp)
+try: os.remove(tmp)
+except OSError: pass
 pgs['pk'] = pgs.player_id.map(lambda i: pkd[i][0])
 pgs['hname'] = pgs.player_id.map(lambda i: pkd[i][1])
 
@@ -151,7 +155,6 @@ for g in gids:
         if c == 'season': v = SI.get(v)
         if c == 'overtime': v = 1 if v is True or v == True else 0
         row.append(clean(v) if not isinstance(v, str) else v)
-    row[GC.index('tracked_team') + 1] = TI.get(row[GC.index('tracked_team') + 1], row[GC.index('tracked_team') + 1])
     grow.append(row)
 dump('hub_games.json', ['gid'] + GC, grow)
 
@@ -175,6 +178,67 @@ ps = pg.groupby(['pk', 'gseason', 'team_name'], as_index=False).agg(
 rows = [[PI[r.pk], SI[r.gseason], TI[r.team_name], r.pos, int(r.gp)] + [clean(getattr(r, c)) for c in sumcols] + [clean(r.avgposs)]
         for r in ps.itertuples(index=False)]
 dump('hub_player_seasons.json', ['pi', 'si', 'ti', 'pos', 'gp'] + sumcols + ['avg_possession_seconds_mean'], rows)
+
+
+# ---------- MHR team ranks (for the "top N teams" comparators) ----------
+STOP = {'w','aa','a','aaa','t1','t2','tier','tier1','tier2','major','major1','girls','womens','women','jr','junior',
+        'hockey','club','team','the','prep','prepw','ice','hc','ha','association','u','elite','school','academy'}
+def mnorm(n):
+    n = re.sub(r'\s*\([A-Z]{2}\)\s*$', '', str(n).strip())
+    n = re.sub(r'\(#?\d+\)', '', n)
+    n = re.sub(r'\((tier\s?\d|major\s?\d?|t\d)\)', '', n, flags=re.I)
+    n = re.sub(r'\bU\s?\d{2}\b|\b\d{2}\s?U\b', ' ', n.replace('(', ' ').replace(')', ' ').replace('-', ' '), flags=re.I)
+    n = re.sub(r"[^a-z0-9 ]", '', n.lower().replace('&', ' and '))
+    return frozenset(w for w in n.split() if w not in STOP)
+def hub_level(nm):
+    m = re.search(r'\bU\s?(\d{2})\b|\b(\d{2})\s?U\b', nm, re.I)
+    if not m: return None
+    return {16: 'USA 16U', 19: 'USA 19U', 18: 'Canada U18', 22: 'Canada U22', 14: 'USA 14U', 15: 'Canada U15'}.get(int(m.group(1) or m.group(2)))
+cur = json.load(open(os.path.join(TSD, 'mhr_current.json'))); his = json.load(open(os.path.join(TSD, 'mhr_history.json')))
+MR = collections.defaultdict(list)   # (level, season) -> [(rank, name, tokens)]
+for lv, s_, rk, nm, *_ in his['rows']: MR[(lv, s_)].append((rk, nm, mnorm(nm)))
+for lv, rk, nm, *_ in cur['rows']: MR[(lv, cur['season'])].append((rk, nm, mnorm(nm)))
+alias_p = os.path.join(OUT, 'hub_team_aliases.json')
+ALIAS = json.load(open(alias_p)) if os.path.exists(alias_p) else {}   # {"Hub team name": "exact MHR team name"}
+used_ts = pg.groupby(['team_name', 'gseason']).game_id.nunique().to_dict()
+rank_rows = []; unmatched = []
+for (tn, sn), ng in used_ts.items():
+    lv = hub_level(tn)
+    if not lv and tn in ALIAS:
+        lv = next((k[0] for k, L in MR.items() if k[1] == sn.replace(chr(0x2013), '-') and any(nm == ALIAS[tn] for _, nm, _ in L)), None)
+    if not lv: continue
+    cands = MR.get((lv, sn.replace(chr(0x2013), '-')), [])
+    if not cands: continue
+    best = None
+    if tn in ALIAS:
+        best = next(((rk, nm) for rk, nm, _ in cands if nm == ALIAS[tn]), None)
+    if best is None:
+        th = mnorm(tn)
+        if not th: continue
+        sc = []
+        for rk, nm, tm in cands:
+            if not tm: continue
+            inter = len(th & tm)
+            if inter == 0: continue
+            jac = inter / len(th | tm)
+            sub = th <= tm or tm <= th
+            if jac >= 0.99 or (sub and inter >= 1 and jac >= 0.5) or jac >= 0.75: sc.append((jac, -rk, rk, nm))
+        if sc:
+            sc.sort(reverse=True)
+            if len(sc) > 1 and sc[0][0] == sc[1][0] and sc[0][3] != sc[1][3]:
+                unmatched.append((lv, sn, tn, ng, 'ambiguous: ' + sc[0][3] + ' / ' + sc[1][3])); continue
+            best = (sc[0][2], sc[0][3])
+    if best: rank_rows.append([TI[tn], SI[sn], lv, best[0], best[1]])
+    else: unmatched.append((lv, sn, tn, ng, ''))
+dump('hub_team_rank.json', ['ti', 'si', 'level', 'rank', 'mhr_name'], rank_rows)
+# which top-25 MHR teams found no Hub team-season (reviewable; fix via hub/hub_team_aliases.json)
+hit = {(r[2], teams_season, r[3]) for r in rank_rows for teams_season in [seasons[r[1]].replace(chr(0x2013), '-')]}
+miss = [(lv, s_, rk, nm) for (lv, s_), L in MR.items() for rk, nm, _ in L
+        if rk <= 25 and (lv, s_, rk) not in hit and s_ in [x.replace(chr(0x2013), '-') for x in seasons]
+        and lv in ('USA 16U', 'USA 19U', 'Canada U18', 'Canada U22')]
+pd.DataFrame(miss, columns=['level', 'season', 'rank', 'mhr_name']).sort_values(['level', 'season', 'rank']).to_csv(os.path.join(OUT, 'mhr_top25_without_hub_team.csv'), index=False)
+pd.DataFrame(unmatched, columns=['level', 'season', 'hub_team', 'games', 'note']).sort_values('games', ascending=False).to_csv(os.path.join(OUT, 'hub_teams_without_mhr.csv'), index=False)
+print('rank rows', len(rank_rows), '| top-25 MHR teams with no Hub team-season:', len(miss))
 
 # ---------- meta ----------
 json.dump({'built': datetime.datetime.utcnow().isoformat() + 'Z', 'source': os.path.basename(EXP.rstrip('/')),
