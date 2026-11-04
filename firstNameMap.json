@@ -1529,7 +1529,9 @@
     {"from": "fortney|elaina", "to": "fortney|lainey"},
     {"from": "rether|dom", "to": "reiher|dominique"},
     {"from": "verdeber|julia", "to": "verderber|julia"},
-    {"from": "obrien|kali", "to": "obrien|kalli"}
+    {"from": "obrien|kali", "to": "obrien|kalli"},
+    {"from": "willard|gabie", "to": "willard|gabrielle"},
+    {"from": "willard|gabbie", "to": "willard|gabrielle"}
   ],
   "pkExceptions": [
     {
