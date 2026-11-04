@@ -1520,7 +1520,16 @@
     {"from": "reno|madi", "to": "reno|madilyn"},
     {"from": "cooke|cassandra", "to": "cooke|cassidy"},
     {"from": "vittands|madelyn", "to": "vittands|madison"},
-    {"from": "penney|sarah", "to": "penney|sara"}
+    {"from": "penney|sarah", "to": "penney|sara"},
+    {"from": "deamzeris|abigail", "to": "deanzeris|abigail"},
+    {"from": "keatty|lydia", "to": "kealty|lydia"},
+    {"from": "flippetti|lizzie", "to": "filippetti|lizzie"},
+    {"from": "jiranek|penelope", "to": "jiranek|pippa"},
+    {"from": "dunas|kiera", "to": "dumas|kiera"},
+    {"from": "fortney|elaina", "to": "fortney|lainey"},
+    {"from": "rether|dom", "to": "reiher|dominique"},
+    {"from": "verdeber|julia", "to": "verderber|julia"},
+    {"from": "obrien|kali", "to": "obrien|kalli"}
   ],
   "pkExceptions": [
     {
