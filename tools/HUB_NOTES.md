@@ -115,3 +115,8 @@ Metric definitions (all per player-season sums; "/20" = per 20 minutes of ice ti
 `topshelf-data/hub_extras/` holds batches of TPE games captured from the portal (BBNW's 7 games of 2025-26 are the first). `build_hub_json.py` appends them on every build and **skips any game the export already has** (TPE game id = `game.csv.source_record_id`), so the friend's next batch can include them safely. `tools/hub_extras.py status|compare|prune` reports, validates and tidies; `tools/make_extra_batch.py` builds a batch from captures. Details: `hub_extras/README.md`.
 Capture rules (validated on game 57710, 52 stat columns + position, 0 diffs): TOI/possession = raw tenths // 10; xg/xa/on_ice_xg = raw/100; assists = primary + secondary; blocked = `blocked_shots_by`; passes = oz+nz+dz; takeaways = `interceptions`; entries/exits from controlled/uncontrolled success/failed; possession feed for `true_total_possessions` and `avg_possession_seconds`; score feed for PP/PK TOI and goalie saves/SA/GA; goalies zero the skater-only columns. Code: `tools/tpe_capture_to_rows.py`.
 Builder change made with this: **master.json position wins** over the export position.
+
+### After any hub rebuild (incl. adding extras): also run `python3 tools/build_hub_d1.py` (~12 s)
+`hub/hub_d1.json` and `hub/hub_d1_ps.json` (D1 commits tab and its Overlay) are derived from `hub_players` / `hub_player_seasons`
+but are NOT produced by `build_hub_json.py`. Skipping this leaves the Overlay stale (found Nov 5 2026: Serena Mohsen's
+2025-26 BB&N 7 GP showed on the player page but not in the Overlay). Commit all four hub files together.
