@@ -1,50 +1,420 @@
 {
-  "generated": "2026-11-02T01:31:02.170Z",
-  "applied": [],
+  "generated": "2026-11-05T23:16:24.788Z",
+  "applied": [
+    "APPLIED     (2 rows) tourn/Name mehling|eleanor: \"Ellie Mehling\" -> \"Elizabeth Mehling\"  [rosters.json + rosters_archive.json]",
+    "APPLIED     (1 row) commits/Name lolachler|berlin: \"Berlin Lolachler\" -> \"Berlin Lolacher\"  [commits.json]"
+  ],
   "players": {
-    "before": 13338,
-    "after": 13337
+    "before": 13334,
+    "after": 13332
   },
   "removed": [
-    "moors|kami"
+    "geewal|siya",
+    "mehling|eleanor"
   ],
   "added": [],
-  "changedPlayers": 1,
-  "changedCells": 4,
+  "changedPlayers": 41,
+  "changedCells": 55,
   "fieldDiffs": {
-    "City": 1,
-    "State": 1,
+    "Notable": 32,
+    "City": 6,
+    "DOBPartial": 3,
+    "DOB": 3,
+    "Team": 1,
     "School": 1,
-    "Team2026": 1
+    "Grad": 2,
+    "Jr": 1,
+    "Sr": 2,
+    "Name": 1,
+    "Team2026": 1,
+    "GradGuessed": 1,
+    "College": 1
   },
   "examples": [
     {
-      "pk": "moors|kamryn",
-      "name": "Kamryn Moors",
+      "pk": "bakker|hadley",
+      "name": "Hadley Bakker",
+      "field": "Notable",
+      "from": "decommit - Merrimack",
+      "to": "decommit - Merrimack / Orig: Merrimack 9/9/25"
+    },
+    {
+      "pk": "bethune|nicole",
+      "name": "Nicole Bethune",
       "field": "City",
-      "from": "",
-      "to": "Simsbury"
+      "from": "RI",
+      "to": "Narragansett"
     },
     {
-      "pk": "moors|kamryn",
-      "name": "Kamryn Moors",
-      "field": "State",
-      "from": "",
-      "to": "CT"
+      "pk": "bingham|jadin",
+      "name": "Jadin Bingham",
+      "field": "Notable",
+      "from": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram",
+      "to": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/22/25"
     },
     {
-      "pk": "moors|kamryn",
-      "name": "Kamryn Moors",
+      "pk": "christenson|hannah",
+      "name": "Hannah Christenson",
+      "field": "Notable",
+      "from": "Decommit",
+      "to": "Decommit - Northeastern - Playing D3 at UW-Eau Claire 26-27 / Orig: Northeastern 9/27/23"
+    },
+    {
+      "pk": "cooper|grace",
+      "name": "Grace Cooper",
+      "field": "Notable",
+      "from": "Decommit - Western Ontario - Upsorts",
+      "to": "Decommit - Western Ontario - Upsorts / Orig: Long Island 8/8/25"
+    },
+    {
+      "pk": "cosgrave|annabella",
+      "name": "Annabella Cosgrave",
+      "field": "DOBPartial",
+      "from": "2009",
+      "to": ""
+    },
+    {
+      "pk": "cosgrave|annabella",
+      "name": "Annabella Cosgrave",
+      "field": "DOB",
+      "from": "",
+      "to": "6/4/2009"
+    },
+    {
+      "pk": "deanzeris|abigail",
+      "name": "Abigail DeAnzeris",
+      "field": "Notable",
+      "from": "Decommit Saint Anselm",
+      "to": "Decommit Saint Anselm / Orig: Saint Anselm, by 8/29/25"
+    },
+    {
+      "pk": "dion|kathleen",
+      "name": "Kathleen Dion",
+      "field": "DOBPartial",
+      "from": "2009",
+      "to": ""
+    },
+    {
+      "pk": "dion|kathleen",
+      "name": "Kathleen Dion",
+      "field": "City",
+      "from": "ONT",
+      "to": "Penetanguishene"
+    },
+    {
+      "pk": "dion|kathleen",
+      "name": "Kathleen Dion",
+      "field": "DOB",
+      "from": "",
+      "to": "1/2/2009"
+    },
+    {
+      "pk": "engfer|finley",
+      "name": "Finley Engfer",
+      "field": "Notable",
+      "from": "Team USA U18 2025 / decommit Providence",
+      "to": "Team USA U18 2025 / decommit Providence / Orig: Providence 7/1/25"
+    },
+    {
+      "pk": "flod|teagan",
+      "name": "Teagan Flod",
+      "field": "Notable",
+      "from": "Decommit Saint Anselm, Commit to Merrimack 10/22/26",
+      "to": "Decommit Saint Anselm, Commit to Merrimack 10/22/26 / Orig: Saint Anselm 4/10/26"
+    },
+    {
+      "pk": "french|jaylie",
+      "name": "Jaylie French",
+      "field": "Notable",
+      "from": "Decommit Dartmouth 8/26/26, Commit to Bemidji 9/18/26",
+      "to": "Decommit Dartmouth 8/26/26, Commit to Bemidji 9/18/26 / Orig: Dartmouth 9/4/25"
+    },
+    {
+      "pk": "gasseau|jacqueline",
+      "name": "Jacqueline Gasseau",
+      "field": "Notable",
+      "from": "Decommit - St Thomas - Commit not on insta as of 9/18/26",
+      "to": "Decommit - St Thomas - Commit not on insta as of 9/18/26 / Orig: St. Thomas 10/22/25"
+    },
+    {
+      "pk": "grabie|makenzie",
+      "name": "Makenzie Grabie",
+      "field": "Notable",
+      "from": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram",
+      "to": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/18/25"
+    },
+    {
+      "pk": "grady|river",
+      "name": "River Grady",
+      "field": "Notable",
+      "from": "Decommit - St Anselm per Sydney",
+      "to": "Decommit - St Anselm per Sydney / Orig: Saint Anselm 2/23/26"
+    },
+    {
+      "pk": "grewal|siya",
+      "name": "Siya Grewal",
+      "field": "Team",
+      "from": "San Jose Jr Sharks",
+      "to": "BK Selects"
+    },
+    {
+      "pk": "grewal|siya",
+      "name": "Siya Grewal",
       "field": "School",
       "from": "",
-      "to": "Taft"
+      "to": "BK Selects"
     },
     {
-      "pk": "moors|kamryn",
-      "name": "Kamryn Moors",
+      "pk": "grewal|siya",
+      "name": "Siya Grewal",
+      "field": "Notable",
+      "from": "",
+      "to": "Decommit - Merrimack - Commit not on insta as of 9/16/26 / Orig: Merrimack 6/4/25"
+    },
+    {
+      "pk": "helenetoetuddveg|miriam",
+      "name": "Miriam Helene Toet-Uddveg",
+      "field": "Notable",
+      "from": "Team Norway U18 2024,2025 (2X). Possible decommit (Nov 2026), commit post not on Instagram",
+      "to": "Team Norway U18 2024,2025 (2X). Possible decommit (Nov 2026), commit post not on Instagram / Orig: RPI 3/27/25"
+    },
+    {
+      "pk": "kirk|abigale",
+      "name": "Abigale Kirk",
+      "field": "Grad",
+      "from": 2027,
+      "to": ""
+    },
+    {
+      "pk": "kirk|abigale",
+      "name": "Abigale Kirk",
+      "field": "Jr",
+      "from": "x",
+      "to": ""
+    },
+    {
+      "pk": "kirk|abigale",
+      "name": "Abigale Kirk",
+      "field": "Sr",
+      "from": "x",
+      "to": ""
+    },
+    {
+      "pk": "kirk|abigale",
+      "name": "Abigale Kirk",
+      "field": "Notable",
+      "from": "Not on 26' Roster",
+      "to": "Decommit - New Hampshire / Orig: New Hampshire 8/24/23"
+    },
+    {
+      "pk": "laforge|maelie",
+      "name": "Maelie Laforge",
+      "field": "Notable",
+      "from": "decommit from Dartmouth",
+      "to": "Decommit - Dartmouth / Orig: Dartmouth 3/13/25"
+    },
+    {
+      "pk": "langis|bronwyn",
+      "name": "Bronwyn Langis",
+      "field": "Notable",
+      "from": "Decommit Syracuse - BU 6.15.26",
+      "to": "Decommit Syracuse - BU 6.15.26 / Orig: Syracuse 9/12/24"
+    },
+    {
+      "pk": "larmand|samantha",
+      "name": "Samantha Larmand",
+      "field": "DOBPartial",
+      "from": "2009",
+      "to": ""
+    },
+    {
+      "pk": "larmand|samantha",
+      "name": "Samantha Larmand",
+      "field": "Notable",
+      "from": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram",
+      "to": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/9/25"
+    },
+    {
+      "pk": "larmand|samantha",
+      "name": "Samantha Larmand",
+      "field": "DOB",
+      "from": "",
+      "to": "9/8/2009"
+    },
+    {
+      "pk": "lolachler|berlin",
+      "name": "Berlin Lolacher",
+      "field": "Name",
+      "from": "Berlin Lolachler",
+      "to": "Berlin Lolacher"
+    },
+    {
+      "pk": "lovell|annabelle",
+      "name": "Annabelle Lovell",
+      "field": "Notable",
+      "from": "Decommit Minnesota, WIS 7/17/26. Team USA U18 2025,2026 (2X)",
+      "to": "Decommit Minnesota, WIS 7/17/26. Team USA U18 2025,2026 (2X) / Orig: Minnesota 8/3/25"
+    },
+    {
+      "pk": "mackie|raeya",
+      "name": "Raeya Mackie",
+      "field": "Notable",
+      "from": "Decommit Providence, UMD Commit 7/26/26",
+      "to": "Decommit Providence, UMD Commit 7/26/26 / Orig: Providence 9/25/25"
+    },
+    {
+      "pk": "martin|addyson",
+      "name": "Addyson Martin",
+      "field": "City",
+      "from": "Elora ON",
+      "to": "Elora"
+    },
+    {
+      "pk": "martin|theresa",
+      "name": "Tess Martin",
+      "field": "Notable",
+      "from": "Decommit Harvard 2026",
+      "to": "Decommit Harvard 2026 / Orig: Harvard 8/21/24"
+    },
+    {
+      "pk": "mckee|anna",
+      "name": "Anna McKee",
+      "field": "Notable",
+      "from": "Decommit - - Playing usports at TMU",
+      "to": "Decommit - - Playing usports at TMU / Orig: Lindenwood 11/8/23"
+    },
+    {
+      "pk": "mehling|elizabeth",
+      "name": "Elizabeth Mehling",
       "field": "Team2026",
       "from": "",
-      "to": "Midfairfield CT Stars 16U"
+      "to": "NAHA 19U"
+    },
+    {
+      "pk": "merrill|sawyer",
+      "name": "Sawyer Merrill",
+      "field": "Notable",
+      "from": "Decommit Yale, BC Commit 5/21/26",
+      "to": "Decommit Yale, BC Commit 5/21/26 / Orig: Yale 1/17/25"
+    },
+    {
+      "pk": "mossey|megan",
+      "name": "Megan Mossey",
+      "field": "Notable",
+      "from": "Team Canada U18 2026  / decommit Minnesota 5/8/26",
+      "to": "Team Canada U18 2026  / decommit Minnesota 5/8/26 / Orig: Minnesota 10/5/25"
+    },
+    {
+      "pk": "rondeau|laynee",
+      "name": "Laynee Rondeau",
+      "field": "City",
+      "from": "Swift Current SK",
+      "to": "Swift Current"
+    },
+    {
+      "pk": "rosen|amanda",
+      "name": "Amanda Rosen",
+      "field": "Notable",
+      "from": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram",
+      "to": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Lindenwood 10/1/25"
+    },
+    {
+      "pk": "rutter|ella",
+      "name": "Ella Rutter",
+      "field": "Notable",
+      "from": "Decommit - New Hampshire - Commit not on insta as of 11/4/26",
+      "to": "Decommit - New Hampshire - Commit not on insta as of 11/4/26 / Orig: New Hampshire 9/8/25"
+    },
+    {
+      "pk": "schneider|adie",
+      "name": "Adie Schneider",
+      "field": "City",
+      "from": "Maple Ridge BC",
+      "to": "Maple Ridge"
+    },
+    {
+      "pk": "schwartze|carlee",
+      "name": "Carlee Schwartze",
+      "field": "Notable",
+      "from": "Decommit - Vermont - Commit not on insta as of 11/4/26",
+      "to": "Decommit - Vermont - Commit not on insta as of 11/4/26 / Orig: Vermont 8/15/25"
+    },
+    {
+      "pk": "serdachny|jordan",
+      "name": "Jordan Serdachny",
+      "field": "GradGuessed",
+      "from": "Yes",
+      "to": ""
+    },
+    {
+      "pk": "serdachny|jordan",
+      "name": "Jordan Serdachny",
+      "field": "Notable",
+      "from": "Decommit - Bemidji State - Commit not listed by Shawnigan Lake School or on insta as of 11/4/26",
+      "to": ""
+    },
+    {
+      "pk": "serdachny|jordan",
+      "name": "Jordan Serdachny",
+      "field": "Grad",
+      "from": "",
+      "to": 2027
+    },
+    {
+      "pk": "serdachny|jordan",
+      "name": "Jordan Serdachny",
+      "field": "College",
+      "from": "",
+      "to": "Bemidji State"
+    },
+    {
+      "pk": "serdachny|jordan",
+      "name": "Jordan Serdachny",
+      "field": "Sr",
+      "from": "",
+      "to": "ABcamp"
+    },
+    {
+      "pk": "shannahan|adrienne",
+      "name": "Adrienne Shannahan",
+      "field": "City",
+      "from": "St Johns NFL",
+      "to": "St. John's"
+    },
+    {
+      "pk": "skotty|ella",
+      "name": "Ella Skotty",
+      "field": "Notable",
+      "from": "Decommit Assumption",
+      "to": "Decommit Assumption / Orig: Assumption 9/4/25"
+    },
+    {
+      "pk": "stoughton|sydney",
+      "name": "Sydney Stoughton",
+      "field": "Notable",
+      "from": "Team USA U18 2025 / decommit Minnesota 7/3/2025",
+      "to": "Team USA U18 2025 / Decommit Minnesota, PSU commit 4/14/26 / Orig: Minnesota 7/3/25"
+    },
+    {
+      "pk": "sutter|tarynn",
+      "name": "Tarynn Sutter",
+      "field": "Notable",
+      "from": "Decommit - Bemidji State - Commit not on insta as of 11/4/26",
+      "to": "Decommit - Bemidji State - Commit not on insta as of 11/4/26 / Orig: Bemidji State 10/28/25"
+    },
+    {
+      "pk": "west|lauren",
+      "name": "Lauren West",
+      "field": "Notable",
+      "from": "Decommit - St. Anselm - Went to usports Waterloo",
+      "to": "Decommit - St. Anselm - Went to usports Waterloo / Orig: Saint Anselm 3/25/25"
+    },
+    {
+      "pk": "wright|kaidence",
+      "name": "Kaidence Wright",
+      "field": "Notable",
+      "from": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram",
+      "to": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Lindenwood 9/3/25"
     }
   ]
 }

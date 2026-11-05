@@ -71555,18 +71555,6 @@
           ]
         },
         {
-          "pk": "mehling|eleanor",
-          "n": "8",
-          "name": "Ellie Mehling",
-          "ry": "2008",
-          "rg": "2026",
-          "rp": "D",
-          "commit": "RPI",
-          "t": [
-            "Stoney"
-          ]
-        },
-        {
           "pk": "mandeville|kaylee",
           "n": "10",
           "name": "Kaylee Mandeville",
@@ -71630,12 +71618,14 @@
           "pk": "mehling|elizabeth",
           "n": "8",
           "name": "Elizabeth Mehling",
-          "ry": "",
-          "rg": "",
+          "ry": "2008",
+          "rg": "2026",
           "rp": "D",
           "t": [
-            "NIT"
-          ]
+            "NIT",
+            "Stoney"
+          ],
+          "commit": "RPI"
         },
         {
           "pk": "flod|teagan",
@@ -181956,9 +181946,9 @@
       ],
       "players": [
         {
-          "pk": "mehling|eleanor",
+          "pk": "mehling|elizabeth",
           "n": "8",
-          "name": "Ellie Mehling",
+          "name": "Elizabeth Mehling",
           "ry": "",
           "rg": "2026",
           "rp": "D",
