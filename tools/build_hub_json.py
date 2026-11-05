@@ -5,7 +5,7 @@ Inputs : Hub export CSVs (this folder), topshelf-data/master.json, firstNameMap.
 Outputs: topshelf-data/hub/  (header+rows shape, personkey-keyed, TPE games only; Hudl is never mixed in)
 Usage  : python3 build_hub_json.py [EXPORT_DIR] [TOPSHELF_DATA_DIR] [OUT_DIR]
 """
-import sys, os, json, re, subprocess, collections, datetime
+import sys, os, json, re, subprocess, collections, datetime, glob
 import pandas as pd
 import numpy as np
 
@@ -27,6 +27,30 @@ TEAM = {i: (IDN[idn] if isinstance(idn, str) and idn in IDN else nm)
         for i, idn, nm in zip(team.id, team.identity_id, team.name)}
 univ = rd('game_universe.csv')
 U = univ.set_index('game_id')
+
+# ---------- extra TPE games appended from the portal (topshelf-data/hub_extras/batch_*.json; see hub_extras/README.md) ----------
+EXTRAS_DIR = os.environ.get('HUB_EXTRAS_DIR') or os.path.join(TSD, 'hub_extras')
+_have = set(tpe.source_record_id.astype(str))
+EXTRA, ABSORBED, _seen = [], [], set()
+for _f in sorted(glob.glob(os.path.join(EXTRAS_DIR, 'batch_*.json'))):
+    _b = json.load(open(_f, encoding='utf-8'))
+    for _g in _b['games']:
+        _g = dict(_g); _g['batch'] = _b.get('batch') or os.path.basename(_f)
+        _k = str(_g['tpe_id'])
+        if _k in _have: ABSORBED.append(_g)          # the export already has this game: the export wins, the extra is ignored
+        elif _k in _seen: continue                   # same game in two batches: first batch wins
+        else: _seen.add(_k); EXTRA.append(_g)
+print('extra games: %d appended, %d already in the export (ignored; run tools/hub_extras.py prune)' % (len(EXTRA), len(ABSORBED)))
+if EXTRA:
+    _sid = {v: k for k, v in SEASON.items()}
+    tpe = pd.concat([tpe, pd.DataFrame([{'id': g['gid'], 'season_id': _sid[g['season']], 'game_date': g['game_date'],
+                                         'source_record_id': str(g['tpe_id']), 'source_system': 'tpe'} for g in EXTRA])], ignore_index=True)
+    _GCU = ['game_date', 'season', 'tracked_team', 'opponent', 'score_for', 'score_against', 'result', 'overtime', 'age_bracket',
+            'event_type', 'league_family', 'country_guess', 'competition_label', 'tracked_in_topshelf']
+    _u = pd.DataFrame([dict({'game_id': g['gid']}, **{c: g[c] for c in _GCU}) for g in EXTRA]).set_index('game_id')
+    U = pd.concat([U, _u])
+    for g in EXTRA:
+        for r in g['rows']: TEAM[r['team_id']] = r['team_name']
 
 # ---------- player stats (TPE only) ----------
 PGS = ['id', 'game_id', 'player_id', 'team_id', 'is_opponent', 'toi_seconds', 'shifts', 'goals', 'assists',
@@ -50,10 +74,22 @@ pgs = pgs[pgs.toi_seconds.fillna(0) > 0]
 ros = rd('game_roster_entry.csv', usecols=['game_id', 'player_id', 'position'])
 ros = ros.dropna(subset=['position']).drop_duplicates(['game_id', 'player_id'])
 pgs = pgs.merge(ros, on=['game_id', 'player_id'], how='left')
+if EXTRA:
+    _x = []
+    for g in EXTRA:
+        for r in g['rows']:
+            d = dict(r); d['game_id'] = g['gid']; _x.append(d)
+    _x = pd.DataFrame(_x)
+    pgs = pd.concat([pgs, _x[[c for c in _x.columns if c not in ('team_name', 'first_name', 'last_name')]]], ignore_index=True)
 print('TPE player-games (toi>0):', len(pgs), 'games', pgs.game_id.nunique())
 
 # ---------- personkey via the real makePersonKey ----------
 pl = rd('player.csv', usecols=['id', 'first_name', 'last_name'])
+if EXTRA:
+    _p = {}
+    for g in EXTRA:
+        for r in g['rows']: _p[r['player_id']] = (r['first_name'], r['last_name'])
+    pl = pd.concat([pl, pd.DataFrame([{'id': k, 'first_name': v[0], 'last_name': v[1]} for k, v in _p.items()])], ignore_index=True)
 pl = pl[pl.id.isin(pgs.player_id.unique())].copy()
 import tempfile
 tmp = os.path.join(tempfile.gettempdir(), 'hub_pk_in_%d.json' % os.getpid())
@@ -140,7 +176,7 @@ def dump(name, header, rows, meta=None):
 prow = []
 for r in people.itertuples():
     m = M.get(r.pk)
-    prow.append([r.pk, (m['Name'] if m else r.hname), 1 if m else 0, r.pos, int(r.gp), [SI[s] for s in r.seasons]])
+    prow.append([r.pk, (m['Name'] if m else r.hname), 1 if m else 0, (m['Position'] if m and m.get('Position') in ('F', 'D', 'G') else r.pos), int(r.gp), [SI[s] for s in r.seasons]])
 dump('hub_players.json', ['pk', 'name', 'inMaster', 'pos', 'gp', 'seasons'], prow)
 
 # ---------- games ----------
@@ -175,7 +211,7 @@ sumcols = NUM
 ps = pg.groupby(['pk', 'gseason', 'team_name'], as_index=False).agg(
     gp=('game_id', 'nunique'), pos=('pos', lambda s: s[s != '?'].value_counts().index[0] if (s != '?').any() else '?'),
     avgposs=('avg_possession_seconds', 'mean'), **{c: (c, 'sum') for c in sumcols})
-rows = [[PI[r.pk], SI[r.gseason], TI[r.team_name], r.pos, int(r.gp)] + [clean(getattr(r, c)) for c in sumcols] + [clean(r.avgposs)]
+rows = [[PI[r.pk], SI[r.gseason], TI[r.team_name], (M[r.pk]['Position'] if r.pk in M and M[r.pk].get('Position') in ('F', 'D', 'G') else r.pos), int(r.gp)] + [clean(getattr(r, c)) for c in sumcols] + [clean(r.avgposs)]
         for r in ps.itertuples(index=False)]
 dump('hub_player_seasons.json', ['pi', 'si', 'ti', 'pos', 'gp'] + sumcols + ['avg_possession_seconds_mean'], rows)
 
@@ -246,4 +282,8 @@ json.dump({'built': datetime.datetime.utcnow().isoformat() + 'Z', 'source': os.p
            'notes': 'TPE games only (Hudl never mixed). Index columns: gi->hub_games rows, pi->hub_players rows, ti->teams, si->seasons. '
                     'Ratios (pass accuracy etc.) are not stored; compute from sums. placeholders dropped: %d rows.' % len(ph_rows)},
           open(os.path.join(OUT, 'hub_meta.json'), 'w'), separators=(',', ':'))
+_x = lambda g, st: {'tpe_id': g['tpe_id'], 'gid': g['gid'], 'batch': g['batch'], 'game_date': g['game_date'], 'tracked_team': g['tracked_team'], 'opponent': g['opponent'], 'status': st}
+json.dump({'note': 'games that came from hub_extras/ (portal captures), not from the Hub export. active = in the hub now; absorbed = a later export has them, extra ignored.',
+           'active': [_x(g, 'active') for g in EXTRA], 'absorbed': [_x(g, 'absorbed') for g in ABSORBED]},
+          open(os.path.join(OUT, 'hub_extra_xref.json'), 'w'), indent=1)
 print('done')

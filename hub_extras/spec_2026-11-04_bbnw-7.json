@@ -1,0 +1,82 @@
+{
+ "batch": "2026-11-04 BBNW 2025-26 (7 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-04 (Configurator metrics + possession/score feeds; rules validated on game 57710)",
+ "team_ids": {
+  "Buckingham Browne and Nichols School W": 10249,
+  "Dexter Southfield School W": 9951,
+  "Westminster School Martlets W": 1893,
+  "Rivers School Red Wings W": 9950,
+  "Phillips Exeter Academy Big Red W": 10304,
+  "St. Georges School Dragons (Prep) W": 12408,
+  "Thayer Academy Tigers W": 9949
+ },
+ "alias": {
+  "Dexter Southfield School W": "Dexter Southfield School"
+ },
+ "defaults": {},
+ "games": [
+  {
+   "tpe_id": 137797,
+   "date": "2025-12-05",
+   "home": "Buckingham Browne and Nichols School W",
+   "away": "Dexter Southfield School W",
+   "home_score": 1,
+   "away_score": 4,
+   "competition": "NE Prep W 25/26"
+  },
+  {
+   "tpe_id": 142922,
+   "date": "2025-12-20",
+   "home": "Buckingham Browne and Nichols School W",
+   "away": "Westminster School Martlets W",
+   "home_score": 2,
+   "away_score": 1,
+   "competition": "NE Prep W 25/26"
+  },
+  {
+   "tpe_id": 144665,
+   "date": "2026-01-21",
+   "home": "Buckingham Browne and Nichols School W",
+   "away": "Rivers School Red Wings W",
+   "home_score": 3,
+   "away_score": 1,
+   "competition": "NE Prep W 25/26"
+  },
+  {
+   "tpe_id": 146083,
+   "date": "2026-02-07",
+   "home": "Phillips Exeter Academy Big Red W",
+   "away": "Buckingham Browne and Nichols School W",
+   "home_score": 2,
+   "away_score": 1,
+   "competition": "NE Prep W 25/26"
+  },
+  {
+   "tpe_id": 146436,
+   "date": "2026-02-11",
+   "home": "Buckingham Browne and Nichols School W",
+   "away": "St. Georges School Dragons (Prep) W",
+   "home_score": 6,
+   "away_score": 3,
+   "competition": "NE Prep W 25/26"
+  },
+  {
+   "tpe_id": 148456,
+   "date": "2026-02-27",
+   "home": "Buckingham Browne and Nichols School W",
+   "away": "Thayer Academy Tigers W",
+   "home_score": 2,
+   "away_score": 2,
+   "competition": "NE Prep W 25/26"
+  },
+  {
+   "tpe_id": 149191,
+   "date": "2026-03-04",
+   "home": "Buckingham Browne and Nichols School W",
+   "away": "Thayer Academy Tigers W",
+   "home_score": 3,
+   "away_score": 1,
+   "competition": "NE Prep W 25/26 PLAY-OFF"
+  }
+ ]
+}

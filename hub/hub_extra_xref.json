@@ -1,0 +1,69 @@
+{
+ "note": "games that came from hub_extras/ (portal captures), not from the Hub export. active = in the hub now; absorbed = a later export has them, extra ignored.",
+ "active": [
+  {
+   "tpe_id": 137797,
+   "gid": "6faa6cd2-960c-54d6-9018-3329966386e4",
+   "batch": "2026-11-04 BBNW 2025-26 (7 games)",
+   "game_date": "2025-12-05",
+   "tracked_team": "Buckingham Browne and Nichols School W",
+   "opponent": "Dexter Southfield School",
+   "status": "active"
+  },
+  {
+   "tpe_id": 142922,
+   "gid": "c0185451-5007-5a29-969d-43436ad47621",
+   "batch": "2026-11-04 BBNW 2025-26 (7 games)",
+   "game_date": "2025-12-20",
+   "tracked_team": "Buckingham Browne and Nichols School W",
+   "opponent": "Westminster School Martlets W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 144665,
+   "gid": "5fb16325-3e91-5c85-8802-985c077ba60a",
+   "batch": "2026-11-04 BBNW 2025-26 (7 games)",
+   "game_date": "2026-01-21",
+   "tracked_team": "Buckingham Browne and Nichols School W",
+   "opponent": "Rivers School Red Wings W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 146083,
+   "gid": "71c76bfb-665a-50ad-8e9a-6543d8b1e6d1",
+   "batch": "2026-11-04 BBNW 2025-26 (7 games)",
+   "game_date": "2026-02-07",
+   "tracked_team": "Phillips Exeter Academy Big Red W",
+   "opponent": "Buckingham Browne and Nichols School W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 146436,
+   "gid": "4baa0ecc-8259-5ace-99f3-6026ce825703",
+   "batch": "2026-11-04 BBNW 2025-26 (7 games)",
+   "game_date": "2026-02-11",
+   "tracked_team": "Buckingham Browne and Nichols School W",
+   "opponent": "St. Georges School Dragons (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 148456,
+   "gid": "44a96a42-099c-55d7-8943-56782a4ae564",
+   "batch": "2026-11-04 BBNW 2025-26 (7 games)",
+   "game_date": "2026-02-27",
+   "tracked_team": "Buckingham Browne and Nichols School W",
+   "opponent": "Thayer Academy Tigers W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 149191,
+   "gid": "3939f1ce-a28d-590b-a68f-0b120205e02d",
+   "batch": "2026-11-04 BBNW 2025-26 (7 games)",
+   "game_date": "2026-03-04",
+   "tracked_team": "Buckingham Browne and Nichols School W",
+   "opponent": "Thayer Academy Tigers W",
+   "status": "active"
+  }
+ ],
+ "absorbed": []
+}

@@ -110,3 +110,8 @@ Metric definitions (all per player-season sums; "/20" = per 20 minutes of ice ti
 3. Re-measure the Hub-to-master match rate after a master rebuild.
 4. Next pages: pivots and charts over `hub_player_seasons.json` (reuse the College Custom pivot UI and the metric definitions above); more comparators on the card.
 5. Decide the refresh cadence with the friend (each refresh = new export + rebuild + push).
+
+## 10. Extras: adding portal games on top of the export (Nov 2026)
+`topshelf-data/hub_extras/` holds batches of TPE games captured from the portal (BBNW's 7 games of 2025-26 are the first). `build_hub_json.py` appends them on every build and **skips any game the export already has** (TPE game id = `game.csv.source_record_id`), so the friend's next batch can include them safely. `tools/hub_extras.py status|compare|prune` reports, validates and tidies; `tools/make_extra_batch.py` builds a batch from captures. Details: `hub_extras/README.md`.
+Capture rules (validated on game 57710, 52 stat columns + position, 0 diffs): TOI/possession = raw tenths // 10; xg/xa/on_ice_xg = raw/100; assists = primary + secondary; blocked = `blocked_shots_by`; passes = oz+nz+dz; takeaways = `interceptions`; entries/exits from controlled/uncontrolled success/failed; possession feed for `true_total_possessions` and `avg_possession_seconds`; score feed for PP/PK TOI and goalie saves/SA/GA; goalies zero the skater-only columns. Code: `tools/tpe_capture_to_rows.py`.
+Builder change made with this: **master.json position wins** over the export position.
