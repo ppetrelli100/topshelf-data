@@ -6381,7 +6381,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "MN - Andover",
     "POS": "F",
-    "NOTABLE": "Decommit - Northeastern - Playing D3 at UW-Eau Claire 26-27 / Orig: Northeastern 9/27/23",
+    "NOTABLE": "",
     "pre": "MN",
     "Country": "USA",
     "State/Prov": "MN",
@@ -6405,7 +6405,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/christenson.hannah/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Northeastern",
+    "Orig Commit": "9/27/23",
+    "Decommit Notes": "Decommit - Northeastern - Playing D3 at UW-Eau Claire 26-27"
   },
   {
     "NAME": "Alexis Mara",
@@ -12321,7 +12325,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "CAN - Alma, ON",
     "POS": "F",
-    "NOTABLE": "Decommit - New Hampshire / Orig: New Hampshire 8/24/23",
+    "NOTABLE": "",
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "ONT",
@@ -12345,7 +12349,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/abikirkk/",
     "Highest": "",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "New Hampshire",
+    "Orig Commit": "8/24/23",
+    "Decommit Notes": "Decommit - New Hampshire"
   },
   {
     "NAME": "Emeline Grennan",
@@ -12465,7 +12473,7 @@
     "EST. ARRIVAL": "2026-27",
     "HOMETOWN": "CAN - Surrey, BC",
     "POS": "F",
-    "NOTABLE": "Decommit - - Playing usports at TMU / Orig: Lindenwood 11/8/23",
+    "NOTABLE": "",
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "BCO",
@@ -12489,7 +12497,11 @@
     "Yr3": "U18-C",
     "Insta": "https://www.instagram.com/p/C3LGhvaLRzY/",
     "Highest": "U18-C",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Lindenwood",
+    "Orig Commit": "11/8/23",
+    "Decommit Notes": "Decommit - - Playing usports at TMU"
   },
   {
     "NAME": "Amelia Wilkinson",
@@ -15489,7 +15501,7 @@
     "EST. ARRIVAL": "2026-27",
     "HOMETOWN": "CAN - Goderich, ON",
     "POS": "F",
-    "NOTABLE": "Decommit Syracuse - BU 6.15.26 / Orig: Syracuse 9/12/24",
+    "NOTABLE": "",
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "ONT",
@@ -15513,7 +15525,11 @@
     "Yr3": "TmON-B",
     "Insta": "https://www.instagram.com/p/C_09-w3vKHe/",
     "Highest": "TmON-B",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Syracuse",
+    "Orig Commit": "9/12/24",
+    "Decommit Notes": "Decommit Syracuse - BU 6.15.26"
   },
   {
     "NAME": "Kenleigh Fischer",
@@ -15921,7 +15937,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "MA - Hingham",
     "POS": "F",
-    "NOTABLE": "Decommit Yale, BC Commit 5/21/26 / Orig: Yale 1/17/25",
+    "NOTABLE": "",
     "pre": "MA",
     "Country": "USA",
     "State/Prov": "MA",
@@ -15945,7 +15961,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DYk0k8AvWi8/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Yale",
+    "Orig Commit": "1/17/25",
+    "Decommit Notes": "Decommit Yale, BC Commit 5/21/26"
   },
   {
     "NAME": "Christina Scalese",
@@ -19485,7 +19505,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "CAN - Val-d'Or, QC",
     "POS": "D",
-    "NOTABLE": "Decommit - Dartmouth / Orig: Dartmouth 3/13/25",
+    "NOTABLE": "",
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "QUE",
@@ -19509,7 +19529,11 @@
     "Yr3": "U18-C",
     "Insta": "https://www.instagram.com/maelie.laforge/",
     "Highest": "U18-C",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Dartmouth",
+    "Orig Commit": "3/13/25",
+    "Decommit Notes": "Decommit - Dartmouth"
   },
   {
     "NAME": "Barbora Proskova",
@@ -19629,7 +19653,7 @@
     "EST. ARRIVAL": "2026-27",
     "HOMETOWN": "CAN - Calgary, AB",
     "POS": "D",
-    "NOTABLE": "Decommit - St. Anselm - Went to usports Waterloo / Orig: Saint Anselm 3/25/25",
+    "NOTABLE": "",
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "ALB",
@@ -19653,7 +19677,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DHt2XrpBboX/",
     "Highest": "",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Saint Anselm",
+    "Orig Commit": "3/25/25",
+    "Decommit Notes": "Decommit - St. Anselm - Went to usports Waterloo"
   },
   {
     "NAME": "Callie Corraro",
@@ -19701,7 +19729,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "NOR - Lorenskog",
     "POS": "F",
-    "NOTABLE": "Team Norway U18 2024,2025 (2X). Possible decommit (Nov 2026), commit post not on Instagram / Orig: RPI 3/27/25",
+    "NOTABLE": "Team Norway U18 2024,2025 (2X)",
     "pre": "",
     "Country": "Intl",
     "State/Prov": "NOR",
@@ -19725,7 +19753,11 @@
     "Yr3": "WNT-O",
     "Insta": "https://www.instagram.com/miriam.toet.uddveg/",
     "Highest": "WNT-O",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "RPI",
+    "Orig Commit": "3/27/25",
+    "Decommit Notes": "Possible decommit (Nov 2026), commit post not on Instagram"
   },
   {
     "NAME": "Edit Danielsson",
@@ -20529,7 +20561,7 @@
     "EST. ARRIVAL": "2026-27",
     "HOMETOWN": "MA - Needham",
     "POS": "D",
-    "NOTABLE": "Decommit Saint Anselm / Orig: Saint Anselm, by 8/29/25",
+    "NOTABLE": "",
     "pre": "MA",
     "Country": "USA",
     "State/Prov": "MA",
@@ -20553,7 +20585,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/_abbydeanzeris/",
     "Highest": "U15",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Saint Anselm",
+    "Orig Commit": "8/29/25",
+    "Decommit Notes": "Decommit Saint Anselm (Orig commit date is an upper bound: committed by 8/29/25)"
   },
   {
     "NAME": "Siya Grewal",
@@ -20565,7 +20601,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "CA - Danville",
     "POS": "F",
-    "NOTABLE": "Decommit - Merrimack - Commit not on insta as of 9/16/26 / Orig: Merrimack 6/4/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "CA",
@@ -20589,7 +20625,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/siyagrewall/",
     "Highest": "",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "Merrimack",
+    "Orig Commit": "6/4/25",
+    "Decommit Notes": "Decommit - Merrimack - Commit not on insta as of 9/16/26"
   },
   {
     "NAME": "Katelynn Graham",
@@ -21285,7 +21325,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "MN - Prior Lake",
     "POS": "G",
-    "NOTABLE": "Team USA U18 2025 / decommit Providence / Orig: Providence 7/1/25",
+    "NOTABLE": "Team USA U18 2025",
     "pre": "MN",
     "Country": "USA",
     "State/Prov": "MN",
@@ -21309,7 +21349,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DLlrLIzs6es/",
     "Highest": "WNT",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Providence",
+    "Orig Commit": "7/1/25",
+    "Decommit Notes": "decommit Providence"
   },
   {
     "NAME": "Delaila Polick",
@@ -23157,7 +23201,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "MA-Hingham",
     "POS": "F",
-    "NOTABLE": "Decommit Minnesota, WIS 7/17/26. Team USA U18 2025,2026 (2X) / Orig: Minnesota 8/3/25",
+    "NOTABLE": "Team USA U18 2025,2026 (2X)",
     "pre": "MA",
     "Country": "USA",
     "State/Prov": "MA",
@@ -23181,7 +23225,11 @@
     "Yr3": "U18",
     "Insta": "https://www.instagram.com/annabellelovelll/p/Da6GS2nlBeY",
     "Highest": "WNT",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Minnesota",
+    "Orig Commit": "8/3/25",
+    "Decommit Notes": "Decommit Minnesota, WIS 7/17/26"
   },
   {
     "NAME": "Chloe King",
@@ -23517,7 +23565,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "CAN - Vancouver, BC",
     "POS": "F",
-    "NOTABLE": "Decommit - Western Ontario - Upsorts / Orig: Long Island 8/8/25",
+    "NOTABLE": "",
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "BCO",
@@ -23541,7 +23589,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/gracecooper_21/",
     "Highest": "",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Long Island",
+    "Orig Commit": "8/8/25",
+    "Decommit Notes": "Decommit - Western Ontario - Upsorts"
   },
   {
     "NAME": "Samantha Larmand",
@@ -23553,7 +23605,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "CAN - Midland, ON",
     "POS": "F",
-    "NOTABLE": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/9/25",
+    "NOTABLE": "",
     "pre": "CAN",
     "Country": "CAN",
     "State/Prov": "ONT",
@@ -23577,7 +23629,11 @@
     "Yr3": "ONcamp",
     "Insta": "https://www.instagram.com/p/DNI2BBTNuIY/?hl=en",
     "Highest": "ONcamp",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "Merrimack",
+    "Orig Commit": "8/9/25",
+    "Decommit Notes": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram"
   },
   {
     "NAME": "Brooke Schlutter",
@@ -24273,7 +24329,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "IA - Ames",
     "POS": "D",
-    "NOTABLE": "Decommit - Vermont - Commit not on insta as of 11/4/26 / Orig: Vermont 8/15/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "IA",
@@ -24297,7 +24353,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/carleeschwartze/",
     "Highest": "",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "Vermont",
+    "Orig Commit": "8/15/25",
+    "Decommit Notes": "Decommit - Vermont - Commit not on insta as of 11/4/26"
   },
   {
     "NAME": "Makenzie Grabie",
@@ -24309,7 +24369,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "NY - Mooers",
     "POS": "F",
-    "NOTABLE": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/18/25",
+    "NOTABLE": "",
     "pre": "8/18/2025",
     "Country": "USA",
     "State/Prov": "NY",
@@ -24333,7 +24393,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DNg1AhKPXOZ/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "Merrimack",
+    "Orig Commit": "8/18/25",
+    "Decommit Notes": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram"
   },
   {
     "NAME": "Kathryn Hall",
@@ -24777,7 +24841,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "VT - Newport",
     "POS": "F",
-    "NOTABLE": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/22/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "VT",
@@ -24801,7 +24865,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/jadin.bingham/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "Merrimack",
+    "Orig Commit": "8/22/25",
+    "Decommit Notes": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram"
   },
   {
     "NAME": "Lillian Horton",
@@ -25569,7 +25637,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "CT - Kent",
     "POS": "D",
-    "NOTABLE": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Lindenwood 9/3/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "CT",
@@ -25593,7 +25661,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DOHL0G4D46t/",
     "Highest": "U15",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "Lindenwood",
+    "Orig Commit": "9/3/25",
+    "Decommit Notes": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram"
   },
   {
     "NAME": "Devon Moore",
@@ -25785,7 +25857,7 @@
     "EST. ARRIVAL": "2028-29",
     "HOMETOWN": "ND - Grand Forks",
     "POS": "F",
-    "NOTABLE": "Decommit Dartmouth 8/26/26, Commit to Bemidji 9/18/26 / Orig: Dartmouth 9/4/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "ND",
@@ -25809,7 +25881,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DdcXN9iAKqE/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Dartmouth",
+    "Orig Commit": "9/4/25",
+    "Decommit Notes": "Decommit Dartmouth 8/26/26, Commit to Bemidji 9/18/26"
   },
   {
     "NAME": "Lillian Winckler",
@@ -25965,7 +26041,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "DE - Middletown",
     "POS": "F",
-    "NOTABLE": "Decommit - New Hampshire - Commit not on insta as of 11/4/26 / Orig: New Hampshire 9/8/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "DE",
@@ -25989,7 +26065,11 @@
     "Yr3": "U1617",
     "Insta": "https://www.instagram.com/p/DOWeDFijlxQ/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "New Hampshire",
+    "Orig Commit": "9/8/25",
+    "Decommit Notes": "Decommit - New Hampshire - Commit not on insta as of 11/4/26"
   },
   {
     "NAME": "Noelle Noble",
@@ -26037,7 +26117,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "MN - Maple Grove",
     "POS": "F",
-    "NOTABLE": "decommit - Merrimack / Orig: Merrimack 9/9/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "MN",
@@ -26061,7 +26141,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DfU7KKvMpb3/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Merrimack",
+    "Orig Commit": "9/9/25",
+    "Decommit Notes": "decommit - Merrimack"
   },
   {
     "NAME": "Myla Motz",
@@ -27549,7 +27633,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "IL - Northbrook",
     "POS": "D",
-    "NOTABLE": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Lindenwood 10/1/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "IL",
@@ -27573,7 +27657,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DPRxPrdCcj1/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "Lindenwood",
+    "Orig Commit": "10/1/25",
+    "Decommit Notes": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram"
   },
   {
     "NAME": "Izabella Zapata",
@@ -28485,7 +28573,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "CA - Garden Grove",
     "POS": "D",
-    "NOTABLE": "Decommit - St Thomas - Commit not on insta as of 9/18/26 / Orig: St. Thomas 10/22/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "CA",
@@ -28509,7 +28597,11 @@
     "Yr3": "U1617",
     "Insta": "https://www.instagram.com/jacqueline_gasseau/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "St. Thomas",
+    "Orig Commit": "10/22/25",
+    "Decommit Notes": "Decommit - St Thomas - Commit not on insta as of 9/18/26"
   },
   {
     "NAME": "Emma McCoubrey",
@@ -28665,7 +28757,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "CAN - Kelvington, SK",
     "POS": "G",
-    "NOTABLE": "Decommit - Bemidji State - Commit not on insta as of 11/4/26 / Orig: Bemidji State 10/28/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "CAN",
     "State/Prov": "SAS",
@@ -28689,7 +28781,11 @@
     "Yr3": "SKcamp",
     "Insta": "https://www.instagram.com/tarynn.sutter/",
     "Highest": "TmSK",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Possible",
+    "Orig School": "Bemidji State",
+    "Orig Commit": "10/28/25",
+    "Decommit Notes": "Decommit - Bemidji State - Commit not on insta as of 11/4/26"
   },
   {
     "NAME": "Haven Mills",
@@ -29529,7 +29625,7 @@
     "EST. ARRIVAL": "2026-27",
     "HOMETOWN": "MN - Minnetonka",
     "POS": "D",
-    "NOTABLE": "Decommit Harvard 2026 / Orig: Harvard 8/21/24",
+    "NOTABLE": "",
     "pre": "MN",
     "Country": "USA",
     "State/Prov": "MN",
@@ -29553,7 +29649,11 @@
     "Yr3": "U1617",
     "Insta": "https://www.instagram.com/p/DRK0XSwjrZm/?hl=en",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Harvard",
+    "Orig Commit": "8/21/24",
+    "Decommit Notes": "Decommit Harvard 2026"
   },
   {
     "NAME": "Ebba Westerlind",
@@ -29781,7 +29881,7 @@
     "EST. ARRIVAL": "2026-27",
     "HOMETOWN": "IL - Elmhurst",
     "POS": "F",
-    "NOTABLE": "Decommit Assumption / Orig: Assumption 9/4/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "IL",
@@ -29805,7 +29905,11 @@
     "Yr3": "U1617",
     "Insta": "https://www.instagram.com/p/DOMaRsokdAw/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Assumption",
+    "Orig Commit": "9/4/25",
+    "Decommit Notes": "Decommit Assumption"
   },
   {
     "NAME": "Olivia Bonarrigo",
@@ -31077,7 +31181,7 @@
     "EST. ARRIVAL": "",
     "HOMETOWN": "IL - Western Springs",
     "POS": "G",
-    "NOTABLE": "Decommit - St Anselm per Sydney / Orig: Saint Anselm 2/23/26",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "IL",
@@ -31101,7 +31205,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DVFJ537jqzn/",
     "Highest": "",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Saint Anselm",
+    "Orig Commit": "2/23/26",
+    "Decommit Notes": "Decommit - St Anselm per Sydney"
   },
   {
     "NAME": "Brynn Heising",
@@ -31689,7 +31797,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "OH - Mason",
     "POS": "F",
-    "NOTABLE": "Team USA U18 2025 / Decommit Minnesota, PSU commit 4/14/26 / Orig: Minnesota 7/3/25",
+    "NOTABLE": "Team USA U18 2025",
     "pre": "OH",
     "Country": "USA",
     "State/Prov": "OH",
@@ -31713,7 +31821,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DXH65Q6Dhtc/",
     "Highest": "WNT",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Minnesota",
+    "Orig Commit": "7/3/25",
+    "Decommit Notes": "Decommit Minnesota, PSU commit 4/14/26"
   },
   {
     "NAME": "Jordan Serdachny",
@@ -32193,7 +32305,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "CAN - Charlottetown, PEI",
     "POS": "D",
-    "NOTABLE": "Team Canada U18 2026  / decommit Minnesota 5/8/26 / Orig: Minnesota 10/5/25",
+    "NOTABLE": "Team Canada U18 2026",
     "pre": "",
     "Country": "CAN",
     "State/Prov": "PEI",
@@ -32217,7 +32329,11 @@
     "Yr3": "WNT-C",
     "Insta": "https://www.instagram.com/p/DYGAPN7EVbt/",
     "Highest": "WNT-C",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Minnesota",
+    "Orig Commit": "10/5/25",
+    "Decommit Notes": "decommit Minnesota 5/8/26"
   },
   {
     "NAME": "Grace Collins",
@@ -35721,7 +35837,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "CAN - Victoria, BC",
     "POS": "D",
-    "NOTABLE": "Decommit Providence, UMD Commit 7/26/26 / Orig: Providence 9/25/25",
+    "NOTABLE": "",
     "pre": "",
     "Country": "CAN",
     "State/Prov": "BCO",
@@ -35745,7 +35861,11 @@
     "Yr3": "WNT-C",
     "Insta": "https://www.instagram.com/p/DbRuT9jPOJW/",
     "Highest": "WNT-C",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Providence",
+    "Orig Commit": "9/25/25",
+    "Decommit Notes": "Decommit Providence, UMD Commit 7/26/26"
   },
   {
     "NAME": "Olivia Braunshausen",
@@ -39177,7 +39297,7 @@
     "EST. ARRIVAL": "2027-28",
     "HOMETOWN": "PA - Harrisburg",
     "POS": "F",
-    "NOTABLE": "Decommit Saint Anselm, Commit to Merrimack 10/22/26 / Orig: Saint Anselm 4/10/26",
+    "NOTABLE": "",
     "pre": "",
     "Country": "USA",
     "State/Prov": "PA",
@@ -39201,7 +39321,11 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/Dez64cjh0il/",
     "Highest": "U15",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Saint Anselm",
+    "Orig Commit": "4/10/26",
+    "Decommit Notes": "Decommit Saint Anselm, Commit to Merrimack 10/22/26"
   },
   {
     "NAME": "Kate Tarr",
