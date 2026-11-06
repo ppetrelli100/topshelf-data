@@ -202313,6 +202313,286 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Yellowhead Chiefs U18",
+      "country": "CAN",
+      "club": "Yellowhead Chiefs",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Yellowhead Chiefs U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "mann|jaelyn",
+          "n": "5",
+          "name": "Jaelyn Mann",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "Deloraine",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "oakden|jayce",
+          "n": "6",
+          "name": "Jayce Oakden",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Rivers",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcgonigal|avery",
+          "n": "7",
+          "name": "Avery McGonigal",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "Hamiota",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chipelski|haley",
+          "n": "9",
+          "name": "Haley Chipelski",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Foxwarren",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jasper|louelle",
+          "n": "15",
+          "name": "Louelle Jasper",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-7",
+          "home": "Hartney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cochrane|rose",
+          "n": "18",
+          "name": "Rose Cochrane",
+          "ry": "",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Oak Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "george|casey",
+          "n": "2",
+          "name": "Casey George",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|khloe",
+          "n": "3",
+          "name": "Khloe Brown",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-5",
+          "home": "Miniota",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mckinnon|aubree",
+          "n": "4",
+          "name": "Aubree Mckinnon",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-1",
+          "home": "Wawanesa",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cochrane|courtney",
+          "n": "8",
+          "name": "Courtney Cochrane",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Oak Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|scotia",
+          "n": "11",
+          "name": "Scotia Smith",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Dauphin",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rozdeba|nicole",
+          "n": "14",
+          "name": "Nicole Rozdeba",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Hamiota",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "twordik|quinn",
+          "n": "16",
+          "name": "Quinn Twordik",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "despiegelaere|callee",
+          "n": "17",
+          "name": "Callee Despiegelaere",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-11",
+          "home": "Spruce Woods",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thompson|paige",
+          "n": "19",
+          "name": "Paige Thompson",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-10",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcmullen|elle",
+          "n": "21",
+          "name": "Elle McMullen",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "St. Lazare",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "barnes|bryleigh",
+          "n": "23",
+          "name": "Bryleigh Barnes",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Elkhorn",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hack|kylie",
+          "n": "1",
+          "name": "Kylie Hack",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "ht": "5-3",
+          "home": "Reston",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "johnston|gracie",
+          "n": "33",
+          "name": "Gracie Johnston",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "ht": "5-5",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
