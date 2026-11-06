@@ -204499,6 +204499,323 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Vancouver Island Seals U18",
+      "country": "CAN",
+      "club": "Vancouver Island Seals",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Vancouver Island Seals U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "strand|parker",
+          "n": "3",
+          "name": "Parker Strand",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robertshaw|carys",
+          "n": "4",
+          "name": "Carys Robertshaw",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcdonald|maybel",
+          "n": "6",
+          "name": "Maybel McDonald",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Courtenay",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kress|olivia",
+          "n": "8",
+          "name": "Olivia Kress",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Courtenay",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "venselaar|willa",
+          "n": "15",
+          "name": "Willa Venselaar",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Powell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hendriks|chantelle",
+          "n": "21",
+          "name": "Chantelle Hendriks",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Qualicum Beach",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "curry|bianca",
+          "n": "5",
+          "name": "Bianca Curry",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reilly|brynne",
+          "n": "7",
+          "name": "Brynne Reilly",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Lantzville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rutten|addison",
+          "n": "9",
+          "name": "Addison Rutten",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dragani|lynden",
+          "n": "10",
+          "name": "Lynden Dragani",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "4-10",
+          "home": "Parksville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "harvey|claire",
+          "n": "11",
+          "name": "Claire Harvey",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Campbell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "behan|bree",
+          "n": "12",
+          "name": "Bree Behan",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Powell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bate|mara",
+          "n": "13",
+          "name": "Mara Bate",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lukey|tayla",
+          "n": "14",
+          "name": "Tayla Lukey",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Campbell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mark|peyton",
+          "n": "16",
+          "name": "Peyton Mark",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jean|presley",
+          "n": "17",
+          "name": "Presley Jean",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Courtenay",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schwenning|makena",
+          "n": "18",
+          "name": "Makena Schwenning",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "heslop|riley",
+          "n": "22",
+          "name": "Riley Heslop",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "phillips|sophia",
+          "n": "30",
+          "name": "Sophia Phillips",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-0",
+          "home": "Lantzville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|nyah",
+          "n": "35",
+          "name": "Nyah Brown",
+          "ry": "2011",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Nanoose Bay",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
