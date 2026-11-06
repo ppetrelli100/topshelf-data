@@ -202593,6 +202593,287 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Central Plains Capitals U18",
+      "country": "CAN",
+      "club": "Central Plains Capitals",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Central Plains Capitals U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "baldwin|hailey",
+          "n": "16",
+          "name": "Hailey Baldwin",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "R",
+          "ht": "6-0",
+          "home": "Portage la Prairie",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bonds|molly",
+          "n": "12",
+          "name": "Molly Bonds",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "frost|madelyn",
+          "n": "13",
+          "name": "Maddie Frost",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "low|quinn",
+          "n": "10",
+          "name": "Quinn Low",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Oakville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shantz|zoey",
+          "n": "15",
+          "name": "Zoey Shantz",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Oak Bluff",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sun|chelsea",
+          "n": "8",
+          "name": "Chelsea Sun",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boulanger|evan",
+          "n": "7",
+          "name": "Evan Boulanger",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Oak Bluff",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "klaassen|mia",
+          "n": "18",
+          "name": "Mia Klaassen",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-2",
+          "home": "Oakville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laycock|gwyneth",
+          "n": "19",
+          "name": "Gwyneth Laycock",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Headingley",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marginet|mila",
+          "n": "4",
+          "name": "Mila Marginet",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-2",
+          "home": "Treherne",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mirrlees|ava",
+          "n": "5",
+          "name": "Ava Mirrlees",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-9",
+          "home": "Oak Bluff",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "philippe|lexi",
+          "n": "17",
+          "name": "Lexi Philippe",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "St. Claude",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rey|kali",
+          "n": "9",
+          "name": "Kali Rey",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "St. Claude",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schnell|mackenzie",
+          "n": "20",
+          "name": "Mackenzie Schnell",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Oak Bluff",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "terrick|hailey",
+          "n": "11",
+          "name": "Hailey Terrick",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "home": "MacGregor",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vandegraaf|claire",
+          "n": "3",
+          "name": "Claire Vande Graaf",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-5",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duchart|calleigh",
+          "n": "1",
+          "name": "Calleigh Duchart",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "McCreary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hees|shannon",
+          "n": "33",
+          "name": "Shannon Hees",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "meeches|gracie",
+          "n": "29",
+          "name": "Gracie Meeches",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Long Plain",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
