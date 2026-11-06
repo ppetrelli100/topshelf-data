@@ -203494,6 +203494,273 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Westman Wildcats U18",
+      "country": "CAN",
+      "club": "Westman Wildcats",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Westman Wildcats U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "henwood|adi",
+          "n": "15",
+          "name": "Adi Henwood",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "franklin|callie",
+          "n": "16",
+          "name": "Callie Franklin",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "R",
+          "state": "MB",
+          "home": "Chater",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "baranyk|kasia",
+          "n": "18",
+          "name": "Kasia Baranyk",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "snyder|ava",
+          "n": "19",
+          "name": "Ava Snyder",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "R",
+          "state": "MB",
+          "home": "Melita",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robertson|hadley",
+          "n": "4",
+          "name": "Hadley Robertson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "state": "MB",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hoemsen|jaedyn",
+          "n": "17",
+          "name": "Jaedyn Hoemsen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "astle|chloe",
+          "n": "6",
+          "name": "Chloe Astle",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Deloraine",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fry|ivy",
+          "n": "9",
+          "name": "Ivy Fry",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "state": "MB",
+          "home": "Wawanesa",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wells|lillian",
+          "n": "5",
+          "name": "Lily Wells",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "state": "MB",
+          "home": "Deloraine",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hrubeniuk|londyn",
+          "n": "7",
+          "name": "Londyn Hrubeniuk",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duncalfe|shayla",
+          "n": "11",
+          "name": "Shayla Duncalfe",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "oliver|abbey",
+          "n": "12",
+          "name": "Abbey Oliver",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "koop|georgia",
+          "n": "14",
+          "name": "Georgia Koop",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hodson|demi",
+          "n": "3",
+          "name": "Demi Hodson",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rome|logan",
+          "n": "8",
+          "name": "Logan Rome",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bertholet|fergie",
+          "n": "10",
+          "name": "Fergie Bertholet",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "shot": "R",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stone|indigo",
+          "n": "35",
+          "name": "Indigo Stone",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "state": "MB",
+          "home": "Boissevain",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "champagne|alana",
+          "n": "1",
+          "name": "Alana Champagne",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
