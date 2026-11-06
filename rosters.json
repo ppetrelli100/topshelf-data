@@ -203213,6 +203213,287 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Pembina Valley Hawks U18",
+      "country": "CAN",
+      "club": "Pembina Valley Hawks",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Pembina Valley Hawks U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "huck|allison",
+          "n": "3",
+          "name": "Allie Huck",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "warnick|makayla",
+          "n": "8",
+          "name": "Makayla Warnick",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "olson|elin",
+          "n": "9",
+          "name": "Elin Olson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "convery|sinead",
+          "n": "11",
+          "name": "Sinead Convery",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rondeau|ariel",
+          "n": "16",
+          "name": "Ariel Rondeau",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "St. Leon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "victor|ella",
+          "n": "18",
+          "name": "Ella Victor",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mclaren|tenley",
+          "n": "4",
+          "name": "Tenley Mclaren",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-5",
+          "home": "Clearwater",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yaschyshyn|gianna",
+          "n": "5",
+          "name": "Gianna Yaschyshyn",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hildebrand|skyla",
+          "n": "6",
+          "name": "Skyla Hildebrand",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Mather",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laing|cailyn",
+          "n": "7",
+          "name": "Cailyn Laing",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "St. Claude",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cox|sophia",
+          "n": "10",
+          "name": "Sophia Cox",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Carman",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pearce|bree",
+          "n": "12",
+          "name": "Bree Pearce",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Manitou",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boyd|claire",
+          "n": "14",
+          "name": "Claire Boyd",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-5",
+          "home": "Sanford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fallis|rylen",
+          "n": "15",
+          "name": "Rylen Fallis",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-8",
+          "home": "Crystal City",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "evangelista|anabella",
+          "n": "17",
+          "name": "Bella Evangelista",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-2",
+          "home": "Altona",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lambert|sasha",
+          "n": "19",
+          "name": "Sasha Lambert",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-2",
+          "home": "Lorette",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "winslow|willow",
+          "n": "22",
+          "name": "Willow Winslow",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-2",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "froese|madison",
+          "n": "1",
+          "name": "Madison Froese",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "ht": "5-4",
+          "home": "Carman",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fust|charlotte",
+          "n": "35",
+          "name": "Charlie Fust",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "ht": "5-4",
+          "home": "La Salle",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
