@@ -205055,6 +205055,210 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Team Alaska 16U",
+      "country": "US",
+      "club": "Team Alaska",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Team Alaska 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "mcmanamin|bailee",
+          "n": "5",
+          "name": "Bailee McManamin",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "witmer|rienzi",
+          "n": "6",
+          "name": "Rienzi Witmer",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "filipenko|mya",
+          "n": "22",
+          "name": "Mya Filipenko",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stinnett|caileigh",
+          "n": "29",
+          "name": "Caileigh Stinnett",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "baxter|brea",
+          "n": "45",
+          "name": "Brea Baxter",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "forbes|harper",
+          "n": "71",
+          "name": "Harper Forbes",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "spencer|grace",
+          "n": "3",
+          "name": "Grace Spencer",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "swenson|carlisle",
+          "n": "8",
+          "name": "Carlisle Swenson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "griffeth|riley",
+          "n": "9",
+          "name": "Riley Griffeth",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hayner|chloe",
+          "n": "12",
+          "name": "Chloe Hayner",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "garsha|ayla",
+          "n": "18",
+          "name": "Ayla Garsha",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nelson|adara",
+          "n": "19",
+          "name": "Adara Nelson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zmuda|hazel",
+          "n": "44",
+          "name": "Hazel Zmuda",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kettenacker|lilliana",
+          "n": "54",
+          "name": "Lilliana Kettenacker",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "davis|grayson",
+          "n": "88",
+          "name": "Grayson Davis",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lovejoy|grace",
+          "n": "1",
+          "name": "Grace Lovejoy",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "towne|peyton",
+          "n": "13",
+          "name": "Peyton Towne",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
