@@ -203865,6 +203865,323 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Northern Capitals U18",
+      "country": "CAN",
+      "club": "Northern Capitals",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Northern Capitals U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "fehr|aubrey",
+          "n": "6",
+          "name": "Aubrey Fehr",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lovell|estella",
+          "n": "7",
+          "name": "Stella Lovell",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "krueger|lillian",
+          "n": "8",
+          "name": "Lily Krueger",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "150 Mile House",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fehr|zoey",
+          "n": "15",
+          "name": "Zoey Fehr",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "portalaki|pellagia",
+          "n": "19",
+          "name": "Pellagia Portalaki",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Penticton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "king|alliesha",
+          "n": "21",
+          "name": "Alliesha King",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Quesnel",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "passeri|sofie",
+          "n": "3",
+          "name": "Sofie Passeri",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Williams Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fofonoff|sasha",
+          "n": "4",
+          "name": "Sasha Fofonoff",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Williams Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stancati|kalleigh",
+          "n": "5",
+          "name": "Kalleigh Stancati",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bijl|leau",
+          "n": "9",
+          "name": "Leau Bijl",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Dawson Creek",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pederson|claire",
+          "n": "10",
+          "name": "Claire Pederson",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "szerencsi|kayla",
+          "n": "11",
+          "name": "Kayla Szerencsi",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ayre|addison",
+          "n": "12",
+          "name": "Addison Ayre",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Fort St John",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rogina|taylor",
+          "n": "13",
+          "name": "Taylor Rogina",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Quesnel",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "umbach|paige",
+          "n": "14",
+          "name": "Paige Umbach",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Baldonnel",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mathews|kesler",
+          "n": "16",
+          "name": "Kesler Mathews",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "porter|grace",
+          "n": "17",
+          "name": "Grace Porter",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Williams Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vanangeren|jennifer",
+          "n": "18",
+          "name": "Jenna Van Angeren",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Fort St John",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bragg|kenzie",
+          "n": "1",
+          "name": "Kenzie Bragg",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Dawson Creek",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zamec|kezia",
+          "n": "35",
+          "name": "Kezia Zamec",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Christina Lake",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
