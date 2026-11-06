@@ -135207,10 +135207,12 @@
         "U18"
       ],
       "raw": [
-        "Eastman U18"
+        "Eastman U18",
+        "Eastman Selects U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -135221,8 +135223,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "La Broquerie West"
         },
         {
           "pk": "coulombe|callie",
@@ -135232,8 +135239,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-7",
+          "home": "St. Malo"
         },
         {
           "pk": "normandeau|joelle",
@@ -135243,8 +135255,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-9",
+          "home": "La Broquerie"
         },
         {
           "pk": "haas|blake",
@@ -135254,8 +135271,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-6",
+          "home": "Lorette West"
         },
         {
           "pk": "starkell|erica",
@@ -135265,8 +135287,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Winnipeg"
         },
         {
           "pk": "remillard|sophia",
@@ -135276,8 +135303,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-8",
+          "home": "St. Malo"
         },
         {
           "pk": "schroeder|kaitlyn",
@@ -135287,8 +135319,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-2",
+          "home": "Powerview"
         },
         {
           "pk": "grenier|mya",
@@ -135298,8 +135335,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Powerview"
         },
         {
           "pk": "carriere|kennedy",
@@ -135309,8 +135351,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "MB",
+          "ht": "5-9",
+          "home": "Winnipeg"
         },
         {
           "pk": "dallas|samantha",
@@ -135320,8 +135367,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Niverville"
         },
         {
           "pk": "gunn|sloane",
@@ -135331,8 +135383,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-2",
+          "home": "Winnipeg"
         },
         {
           "pk": "harding|lainey",
@@ -135342,8 +135399,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-8",
+          "home": "Winnipeg"
         },
         {
           "pk": "carriere|emilie",
@@ -135353,8 +135415,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-7",
+          "home": "St. Pierre-Jolys"
         },
         {
           "pk": "wray|summer",
@@ -135364,8 +135431,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-4",
+          "home": "Oakbank"
         },
         {
           "pk": "muntain|bryelle",
@@ -135375,8 +135447,13 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "MB",
+          "ht": "5-4",
+          "home": "Niverville"
         },
         {
           "pk": "fleury|madison",
@@ -135386,8 +135463,13 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Minnedosa"
         },
         {
           "pk": "dreger|delaney",
@@ -135397,8 +135479,10 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-6"
         }
       ]
     },
