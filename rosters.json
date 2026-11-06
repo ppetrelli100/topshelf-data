@@ -137675,10 +137675,12 @@
         "U18"
       ],
       "raw": [
-        "Fraser Valley U18"
+        "Fraser Valley U18",
+        "Fraser Valley Rush U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -137689,8 +137691,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "Maple Ridge"
         },
         {
           "pk": "vallee|georgia",
@@ -137700,8 +137707,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Abbotsford"
         },
         {
           "pk": "mcneilly|emma",
@@ -137722,8 +137734,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Abbotsford"
         },
         {
           "pk": "durante|alexia",
@@ -137733,8 +137750,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Coquitlam"
         },
         {
           "pk": "sandhu|bhavneer",
@@ -137744,7 +137766,27 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Surrey"
+        },
+        {
+          "pk": "motoche|emilia",
+          "n": "5",
+          "name": "Emilia Motoche",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "Surrey",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -137755,8 +137797,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Port Moody"
         },
         {
           "pk": "mansour|parinaz",
@@ -137766,8 +137813,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "West Vancouver"
         },
         {
           "pk": "weber|sofia",
@@ -137777,8 +137829,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Surrey"
         },
         {
           "pk": "pontes|brenna",
@@ -137788,8 +137845,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Mission"
         },
         {
           "pk": "wakida|madison",
@@ -137799,8 +137861,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Coquitlam"
         },
         {
           "pk": "osterberg|elena",
@@ -137810,8 +137877,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Mission"
         },
         {
           "pk": "wilkins|sophia",
@@ -137821,8 +137893,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Anmore"
         },
         {
           "pk": "savage|lynden",
@@ -137832,8 +137909,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Surrey"
         },
         {
           "pk": "steer|abigail",
@@ -137843,8 +137925,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Langley"
         },
         {
           "pk": "akizuki|sera",
@@ -137854,30 +137941,55 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Richmond"
         },
         {
           "pk": "aragon|evaley",
-          "n": "21",
+          "n": "2",
           "name": "Evaley Aragon",
           "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Coquitlam",
+          "alt": {
+            "n": [
+              "21"
+            ]
+          }
         },
         {
           "pk": "franklin|taelyn",
-          "n": "22",
+          "n": "4",
           "name": "Taelyn Franklin",
           "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Langley",
+          "alt": {
+            "n": [
+              "22"
+            ]
+          }
         },
         {
           "pk": "pong|keira",
@@ -137887,8 +137999,13 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Burnaby"
         },
         {
           "pk": "stanley|violet",
@@ -137898,8 +138015,13 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Coquitlam"
         }
       ]
     },
