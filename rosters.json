@@ -168245,7 +168245,8 @@
         "Winnipeg Avros U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -168256,8 +168257,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Selkirk"
         },
         {
           "pk": "ball|vanessa",
@@ -168267,8 +168271,11 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "collins|brooklyn",
@@ -168278,8 +168285,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "fraser|claire",
@@ -168289,8 +168299,11 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "ewald|andyn",
@@ -168300,8 +168313,11 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "claussen|leah",
@@ -168311,8 +168327,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "froese|brooke",
@@ -168322,8 +168341,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "green|lexington",
@@ -168333,8 +168355,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "sykes|aubrey",
@@ -168344,8 +168369,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Headingley"
         },
         {
           "pk": "folster|roey",
@@ -168355,8 +168383,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "lins|kaylin",
@@ -168366,8 +168397,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "simpson|kennedy",
@@ -168377,8 +168411,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "East Selkirk"
         },
         {
           "pk": "trenholm|manon",
@@ -168388,8 +168425,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "siwak|vivienne",
@@ -168399,8 +168439,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Headingley"
         },
         {
           "pk": "cotroneo|sienna",
@@ -168410,8 +168453,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "kauenhowen|anya",
@@ -168421,8 +168467,11 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "roberts|olivia",
@@ -168432,8 +168481,11 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         }
       ]
     },
