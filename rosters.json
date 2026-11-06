@@ -202959,6 +202959,260 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Interlake Lightning U18",
+      "country": "CAN",
+      "club": "Interlake Lightning",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Interlake Lightning U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "malcolm|emily",
+          "n": "4",
+          "name": "Emily Malcolm",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "West St. Paul",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "williams|brynn",
+          "n": "5",
+          "name": "Brynn Williams",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-8",
+          "home": "Balmoral",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bragg|teagan",
+          "n": "9",
+          "name": "Teagan Bragg",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boonstra|emma",
+          "n": "16",
+          "name": "Emma Boonstra",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Stonewall",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pearson|ellis",
+          "n": "17",
+          "name": "Ellis Pearson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-9",
+          "home": "Flin Flon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "blocker|milla",
+          "n": "21",
+          "name": "Milla Blocker",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "halpenny|neve",
+          "n": "2",
+          "name": "Neve Halpenny",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "watson|katherine",
+          "n": "6",
+          "name": "Katie Watson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "riddell|ella",
+          "n": "8",
+          "name": "Ella Riddell",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Grosse Isle",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macgregor|lillian",
+          "n": "10",
+          "name": "Lily Macgregor",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-8",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "darragh|blake",
+          "n": "11",
+          "name": "Blake Darragh",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Grosse Isle",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moisey|joslyn",
+          "n": "12",
+          "name": "Joslyn Moisey",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lamoureux|annalise",
+          "n": "13",
+          "name": "Annalise Lamoureux",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-5",
+          "home": "Giroux",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "power|blayke",
+          "n": "15",
+          "name": "Blayke Power",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nohlgren|keirlyn",
+          "n": "19",
+          "name": "Keirlyn Nohlgren",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tetlock|joslyn",
+          "n": "30",
+          "name": "Joslyn Tetlock",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Warren",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cassils|emma",
+          "n": "35",
+          "name": "Emma Cassils",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-7",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
