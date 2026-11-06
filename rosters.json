@@ -201204,7 +201204,10 @@
           "shot": "R",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Linden Christian School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "simes|leah",
@@ -201216,7 +201219,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "St. Mary's Academy",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "ohta|sophia",
@@ -201228,7 +201234,10 @@
           "shot": "R",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "J.H. Bruns",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "walker|teagan",
@@ -201240,7 +201249,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Glenlawn Collegiate",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "wilson|andi",
@@ -201252,7 +201264,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Churchill High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "comte|sophia",
@@ -201264,7 +201279,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Centre Scolaire Léo Rémillard",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "lamonica|scarlett",
@@ -201276,7 +201294,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Centre Scolaire Léo Rémillard",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "adams|callie",
@@ -201288,7 +201309,10 @@
           "shot": "R",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "St. Mary's Academy",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "barnaby|lyla",
@@ -201300,7 +201324,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Sturgeon Heights Collegiate",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "robbins|gabriella",
@@ -201312,7 +201339,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Collège Jeanne Sauvé",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "lischka|maya",
@@ -201324,7 +201354,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "West Kildonan Collegiate",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "temple|maren",
@@ -201336,7 +201369,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Shaftesbury High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "cairns|katherine",
@@ -201348,7 +201384,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "J.H. Bruns",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "thornhill|brooklyn",
@@ -201360,7 +201399,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Churchill High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "bouchard|jordanne",
@@ -201372,7 +201414,10 @@
           "shot": "R",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Churchill High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "matthews|isla",
@@ -201384,7 +201429,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Oak Park High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "plett|gina",
@@ -201395,7 +201443,11 @@
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Kildonan-East Collegiate",
+          "shot": "L",
+          "state": "MB",
+          "home": "Winnipeg"
         }
       ]
     },
