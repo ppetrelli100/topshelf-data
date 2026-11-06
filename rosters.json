@@ -204182,6 +204182,323 @@
           ]
         }
       ]
+    },
+    {
+      "team": "Thompson-Okanagan Lakers U18",
+      "country": "CAN",
+      "club": "Thompson-Okanagan Lakers",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Thompson-Okanagan Lakers U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "boyd|emily",
+          "n": "5",
+          "name": "Emily Boyd",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Coldstream",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "norrie|megan",
+          "n": "7",
+          "name": "Megan Norrie",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Kelowna",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jacques|rozlyn",
+          "n": "10",
+          "name": "Rozlyn Jacques",
+          "ry": "2012",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Armstrong",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sierhuis|taylor",
+          "n": "14",
+          "name": "Taylor Sierhuis",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "Lake Country",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kinaschuk|ariana",
+          "n": "18",
+          "name": "Ariana Kinaschuk",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|emmerson",
+          "n": "22",
+          "name": "Emmerson Brown",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jones|bailie",
+          "n": "2",
+          "name": "Bailie Jones",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Montrose",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lukinchuk|emilia",
+          "n": "3",
+          "name": "Emilia Lukinchuk",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "regnier|myah",
+          "n": "6",
+          "name": "Myah Regnier",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Lake Country",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laventure|orian",
+          "n": "8",
+          "name": "Orian Laventure",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Lumby",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "douglas|keiran",
+          "n": "9",
+          "name": "Keiran Douglas",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Vernon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mollin|kallico",
+          "n": "11",
+          "name": "Kallico Mollin",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "Kelowna",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "collins|sophia",
+          "n": "12",
+          "name": "Sophie Collins",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Clearwater",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "millership|madison",
+          "n": "13",
+          "name": "Madison Millership",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Vernon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mariecubberley|anna",
+          "n": "15",
+          "name": "Anna Marie Cubberley",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Kelowna",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fletcher|kaia",
+          "n": "16",
+          "name": "Kaia Fletcher",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "umeris|jessica",
+          "n": "17",
+          "name": "Jessie Umeris",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-11",
+          "home": "Kelowna",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nerling|lyriq",
+          "n": "21",
+          "name": "Lyriq Nerling",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Vernon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "guido|madison",
+          "n": "30",
+          "name": "Madison Guido",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stewart|harper",
+          "n": "35",
+          "name": "Harper Stewart",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Penticton",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
     }
   ]
 }
