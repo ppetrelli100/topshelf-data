@@ -138309,18 +138309,20 @@
       ]
     },
     {
-      "team": "Greater Vancouver U18",
+      "team": "Greater Vancouver Comets U18",
       "country": "CAN",
-      "club": "Greater Vancouver",
+      "club": "Greater Vancouver Comets",
       "lvl": "U18",
       "levels": [
         "U18"
       ],
       "raw": [
-        "Greater Vancouver U18"
+        "Greater Vancouver U18",
+        "Greater Vancouver Comets U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -138331,8 +138333,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Burnaby"
         },
         {
           "pk": "campbell|whitney",
@@ -138342,8 +138349,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Richmond"
         },
         {
           "pk": "hikida|emma",
@@ -138353,8 +138365,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Richmond"
         },
         {
           "pk": "brine|ivy",
@@ -138364,8 +138381,13 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "North Vancouver"
         },
         {
           "pk": "mackay|katherine",
@@ -138375,19 +138397,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "walji|serena",
-          "n": "18",
-          "name": "Serena Walji",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "D",
-          "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "North Vancouver"
         },
         {
           "pk": "kravski|makayla",
@@ -138397,8 +138413,34 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Castlegar"
+        },
+        {
+          "pk": "walji|serena",
+          "n": "18",
+          "name": "Serena Walji",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Burnaby",
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "stewart|danica",
@@ -138408,8 +138450,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Vancouver"
         },
         {
           "pk": "nishi|hana",
@@ -138419,8 +138466,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Richmond"
         },
         {
           "pk": "white|eavan",
@@ -138430,8 +138482,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "North Vancouver"
         },
         {
           "pk": "bull|kira",
@@ -138441,8 +138498,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Richmond"
         },
         {
           "pk": "pennell|kaiya",
@@ -138452,8 +138514,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "North Vancouver"
         },
         {
           "pk": "mulligan|elise",
@@ -138463,8 +138530,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "North Vancouver"
         },
         {
           "pk": "yu|sienna",
@@ -138474,8 +138546,13 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "North Vancouver"
         },
         {
           "pk": "prystai|riley",
@@ -138485,8 +138562,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "North Vancouver"
         },
         {
           "pk": "yuan|jiawei",
@@ -138507,8 +138589,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Burnaby"
         },
         {
           "pk": "ellis|natalie",
@@ -138518,7 +138605,27 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "North Vancouver"
+        },
+        {
+          "pk": "yuan|emily",
+          "n": "19",
+          "name": "Jiawei Yuan",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Burnaby",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -138529,8 +138636,13 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "West Vancouver"
         },
         {
           "pk": "kong|madison",
@@ -138540,8 +138652,13 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Burnaby"
         }
       ]
     },
