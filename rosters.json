@@ -135207,10 +135207,12 @@
         "U18"
       ],
       "raw": [
-        "Eastman U18"
+        "Eastman U18",
+        "Eastman Selects U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -135221,8 +135223,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "La Broquerie West"
         },
         {
           "pk": "coulombe|callie",
@@ -135232,8 +135239,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-7",
+          "home": "St. Malo"
         },
         {
           "pk": "normandeau|joelle",
@@ -135243,8 +135255,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-9",
+          "home": "La Broquerie"
         },
         {
           "pk": "haas|blake",
@@ -135254,8 +135271,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-6",
+          "home": "Lorette West"
         },
         {
           "pk": "starkell|erica",
@@ -135265,8 +135287,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Winnipeg"
         },
         {
           "pk": "remillard|sophia",
@@ -135276,8 +135303,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-8",
+          "home": "St. Malo"
         },
         {
           "pk": "schroeder|kaitlyn",
@@ -135287,8 +135319,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-2",
+          "home": "Powerview"
         },
         {
           "pk": "grenier|mya",
@@ -135298,8 +135335,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Powerview"
         },
         {
           "pk": "carriere|kennedy",
@@ -135309,8 +135351,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "MB",
+          "ht": "5-9",
+          "home": "Winnipeg"
         },
         {
           "pk": "dallas|samantha",
@@ -135320,8 +135367,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Niverville"
         },
         {
           "pk": "gunn|sloane",
@@ -135331,8 +135383,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-2",
+          "home": "Winnipeg"
         },
         {
           "pk": "harding|lainey",
@@ -135342,8 +135399,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-8",
+          "home": "Winnipeg"
         },
         {
           "pk": "carriere|emilie",
@@ -135353,8 +135415,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-7",
+          "home": "St. Pierre-Jolys"
         },
         {
           "pk": "wray|summer",
@@ -135364,8 +135431,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-4",
+          "home": "Oakbank"
         },
         {
           "pk": "muntain|bryelle",
@@ -135375,8 +135447,13 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "MB",
+          "ht": "5-4",
+          "home": "Niverville"
         },
         {
           "pk": "fleury|madison",
@@ -135386,8 +135463,13 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "MB",
+          "ht": "5-5",
+          "home": "Minnedosa"
         },
         {
           "pk": "dreger|delaney",
@@ -135397,8 +135479,10 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "ht": "5-6"
         }
       ]
     },
@@ -137591,10 +137675,12 @@
         "U18"
       ],
       "raw": [
-        "Fraser Valley U18"
+        "Fraser Valley U18",
+        "Fraser Valley Rush U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -137605,8 +137691,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "Maple Ridge"
         },
         {
           "pk": "vallee|georgia",
@@ -137616,8 +137707,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Abbotsford"
         },
         {
           "pk": "mcneilly|emma",
@@ -137638,8 +137734,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Abbotsford"
         },
         {
           "pk": "durante|alexia",
@@ -137649,8 +137750,13 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Coquitlam"
         },
         {
           "pk": "sandhu|bhavneer",
@@ -137660,7 +137766,27 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Surrey"
+        },
+        {
+          "pk": "motoche|emilia",
+          "n": "5",
+          "name": "Emilia Motoche",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-2",
+          "home": "Surrey",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -137671,8 +137797,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Port Moody"
         },
         {
           "pk": "mansour|parinaz",
@@ -137682,8 +137813,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "West Vancouver"
         },
         {
           "pk": "weber|sofia",
@@ -137693,8 +137829,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Surrey"
         },
         {
           "pk": "pontes|brenna",
@@ -137704,8 +137845,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Mission"
         },
         {
           "pk": "wakida|madison",
@@ -137715,8 +137861,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Coquitlam"
         },
         {
           "pk": "osterberg|elena",
@@ -137726,8 +137877,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Mission"
         },
         {
           "pk": "wilkins|sophia",
@@ -137737,8 +137893,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Anmore"
         },
         {
           "pk": "savage|lynden",
@@ -137748,8 +137909,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Surrey"
         },
         {
           "pk": "steer|abigail",
@@ -137759,8 +137925,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Langley"
         },
         {
           "pk": "akizuki|sera",
@@ -137770,30 +137941,55 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Richmond"
         },
         {
           "pk": "aragon|evaley",
-          "n": "21",
+          "n": "2",
           "name": "Evaley Aragon",
           "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Coquitlam",
+          "alt": {
+            "n": [
+              "21"
+            ]
+          }
         },
         {
           "pk": "franklin|taelyn",
-          "n": "22",
+          "n": "4",
           "name": "Taelyn Franklin",
           "ry": "2011",
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Langley",
+          "alt": {
+            "n": [
+              "22"
+            ]
+          }
         },
         {
           "pk": "pong|keira",
@@ -137803,8 +137999,13 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Burnaby"
         },
         {
           "pk": "stanley|violet",
@@ -137814,8 +138015,13 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Coquitlam"
         }
       ]
     },
@@ -138103,18 +138309,20 @@
       ]
     },
     {
-      "team": "Greater Vancouver U18",
+      "team": "Greater Vancouver Comets U18",
       "country": "CAN",
-      "club": "Greater Vancouver",
+      "club": "Greater Vancouver Comets",
       "lvl": "U18",
       "levels": [
         "U18"
       ],
       "raw": [
-        "Greater Vancouver U18"
+        "Greater Vancouver U18",
+        "Greater Vancouver Comets U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -138125,8 +138333,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Burnaby"
         },
         {
           "pk": "campbell|whitney",
@@ -138136,8 +138349,13 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Richmond"
         },
         {
           "pk": "hikida|emma",
@@ -138147,8 +138365,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Richmond"
         },
         {
           "pk": "brine|ivy",
@@ -138158,8 +138381,13 @@
           "rg": "2030",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "North Vancouver"
         },
         {
           "pk": "mackay|katherine",
@@ -138169,19 +138397,13 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
-        },
-        {
-          "pk": "walji|serena",
-          "n": "18",
-          "name": "Serena Walji",
-          "ry": "2011",
-          "rg": "2029",
-          "rp": "D",
-          "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "North Vancouver"
         },
         {
           "pk": "kravski|makayla",
@@ -138191,8 +138413,34 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Castlegar"
+        },
+        {
+          "pk": "walji|serena",
+          "n": "18",
+          "name": "Serena Walji",
+          "ry": "2011",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Burnaby",
+          "alt": {
+            "rp": [
+              "D"
+            ]
+          }
         },
         {
           "pk": "stewart|danica",
@@ -138202,8 +138450,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Vancouver"
         },
         {
           "pk": "nishi|hana",
@@ -138213,8 +138466,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Richmond"
         },
         {
           "pk": "white|eavan",
@@ -138224,8 +138482,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "North Vancouver"
         },
         {
           "pk": "bull|kira",
@@ -138235,8 +138498,13 @@
           "rg": "2027",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Richmond"
         },
         {
           "pk": "pennell|kaiya",
@@ -138246,8 +138514,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "North Vancouver"
         },
         {
           "pk": "mulligan|elise",
@@ -138257,8 +138530,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "North Vancouver"
         },
         {
           "pk": "yu|sienna",
@@ -138268,8 +138546,13 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "North Vancouver"
         },
         {
           "pk": "prystai|riley",
@@ -138279,8 +138562,13 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "North Vancouver"
         },
         {
           "pk": "yuan|jiawei",
@@ -138301,8 +138589,13 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Burnaby"
         },
         {
           "pk": "ellis|natalie",
@@ -138312,7 +138605,27 @@
           "rg": "2030",
           "rp": "F",
           "t": [
-            "Stoney"
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "North Vancouver"
+        },
+        {
+          "pk": "yuan|emily",
+          "n": "19",
+          "name": "Jiawei Yuan",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Burnaby",
+          "t": [
+            "Misc"
           ]
         },
         {
@@ -138323,8 +138636,13 @@
           "rg": "2027",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "West Vancouver"
         },
         {
           "pk": "kong|madison",
@@ -138334,8 +138652,13 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Burnaby"
         }
       ]
     },
@@ -168161,7 +168484,8 @@
         "Winnipeg Avros U18"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
         {
@@ -168172,8 +168496,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Selkirk"
         },
         {
           "pk": "ball|vanessa",
@@ -168183,8 +168510,11 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "collins|brooklyn",
@@ -168194,8 +168524,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "fraser|claire",
@@ -168205,8 +168538,11 @@
           "rg": "2028",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "ewald|andyn",
@@ -168216,8 +168552,11 @@
           "rg": "2029",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "claussen|leah",
@@ -168227,8 +168566,11 @@
           "rg": "2027",
           "rp": "D",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "froese|brooke",
@@ -168238,8 +168580,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "green|lexington",
@@ -168249,8 +168594,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "sykes|aubrey",
@@ -168260,8 +168608,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Headingley"
         },
         {
           "pk": "folster|roey",
@@ -168271,8 +168622,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "lins|kaylin",
@@ -168282,8 +168636,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "simpson|kennedy",
@@ -168293,8 +168650,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "East Selkirk"
         },
         {
           "pk": "trenholm|manon",
@@ -168304,8 +168664,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "siwak|vivienne",
@@ -168315,8 +168678,11 @@
           "rg": "2028",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Headingley"
         },
         {
           "pk": "cotroneo|sienna",
@@ -168326,8 +168692,11 @@
           "rg": "2029",
           "rp": "F",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "kauenhowen|anya",
@@ -168337,8 +168706,11 @@
           "rg": "2028",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "roberts|olivia",
@@ -168348,8 +168720,11 @@
           "rg": "2030",
           "rp": "G",
           "t": [
-            "Stoney"
-          ]
+            "Stoney",
+            "Misc"
+          ],
+          "state": "MB",
+          "home": "Winnipeg"
         }
       ]
     },
@@ -201068,7 +201443,10 @@
           "shot": "R",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Linden Christian School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "simes|leah",
@@ -201080,7 +201458,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "St. Mary's Academy",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "ohta|sophia",
@@ -201092,7 +201473,10 @@
           "shot": "R",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "J.H. Bruns",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "walker|teagan",
@@ -201104,7 +201488,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Glenlawn Collegiate",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "wilson|andi",
@@ -201116,7 +201503,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Churchill High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "comte|sophia",
@@ -201128,7 +201518,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Centre Scolaire Léo Rémillard",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "lamonica|scarlett",
@@ -201140,7 +201533,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Centre Scolaire Léo Rémillard",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "adams|callie",
@@ -201152,7 +201548,10 @@
           "shot": "R",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "St. Mary's Academy",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "barnaby|lyla",
@@ -201164,7 +201563,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Sturgeon Heights Collegiate",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "robbins|gabriella",
@@ -201176,7 +201578,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Collège Jeanne Sauvé",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "lischka|maya",
@@ -201188,7 +201593,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "West Kildonan Collegiate",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "temple|maren",
@@ -201200,7 +201608,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Shaftesbury High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "cairns|katherine",
@@ -201212,7 +201623,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "J.H. Bruns",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "thornhill|brooklyn",
@@ -201224,7 +201638,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Churchill High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "bouchard|jordanne",
@@ -201236,7 +201653,10 @@
           "shot": "R",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Churchill High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "matthews|isla",
@@ -201248,7 +201668,10 @@
           "shot": "L",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Oak Park High School",
+          "state": "MB",
+          "home": "Winnipeg"
         },
         {
           "pk": "plett|gina",
@@ -201259,7 +201682,11 @@
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Kildonan-East Collegiate",
+          "shot": "L",
+          "state": "MB",
+          "home": "Winnipeg"
         }
       ]
     },
@@ -202307,6 +202734,2525 @@
           "name": "Constance Sauve",
           "ry": "",
           "rg": "",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Yellowhead Chiefs U18",
+      "country": "CAN",
+      "club": "Yellowhead Chiefs",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Yellowhead Chiefs U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "mann|jaelyn",
+          "n": "5",
+          "name": "Jaelyn Mann",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "Deloraine",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "oakden|jayce",
+          "n": "6",
+          "name": "Jayce Oakden",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Rivers",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcgonigal|avery",
+          "n": "7",
+          "name": "Avery McGonigal",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "Hamiota",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "chipelski|haley",
+          "n": "9",
+          "name": "Haley Chipelski",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Foxwarren",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jasper|louelle",
+          "n": "15",
+          "name": "Louelle Jasper",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-7",
+          "home": "Hartney",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cochrane|rose",
+          "n": "18",
+          "name": "Rose Cochrane",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Oak Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "george|casey",
+          "n": "2",
+          "name": "Casey George",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|khloe",
+          "n": "3",
+          "name": "Khloe Brown",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-5",
+          "home": "Miniota",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mckinnon|aubree",
+          "n": "4",
+          "name": "Aubree Mckinnon",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-1",
+          "home": "Wawanesa",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cochrane|courtney",
+          "n": "8",
+          "name": "Courtney Cochrane",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Oak Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "smith|scotia",
+          "n": "11",
+          "name": "Scotia Smith",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Dauphin",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rozdeba|nicole",
+          "n": "14",
+          "name": "Nicole Rozdeba",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Hamiota",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "twordik|quinn",
+          "n": "16",
+          "name": "Quinn Twordik",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "despiegelaere|callee",
+          "n": "17",
+          "name": "Callee Despiegelaere",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-11",
+          "home": "Spruce Woods",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "thompson|paige",
+          "n": "19",
+          "name": "Paige Thompson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-10",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcmullen|elle",
+          "n": "21",
+          "name": "Elle McMullen",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "St. Lazare",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "barnes|bryleigh",
+          "n": "23",
+          "name": "Bryleigh Barnes",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Elkhorn",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hack|kylie",
+          "n": "1",
+          "name": "Kylie Hack",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "ht": "5-3",
+          "home": "Reston",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "johnston|gracie",
+          "n": "33",
+          "name": "Gracie Johnston",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "ht": "5-5",
+          "t": [
+            "Misc"
+          ],
+          "home": "Griswold"
+        }
+      ]
+    },
+    {
+      "team": "Central Plains Capitals U18",
+      "country": "CAN",
+      "club": "Central Plains Capitals",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Central Plains Capitals U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "baldwin|hailey",
+          "n": "16",
+          "name": "Hailey Baldwin",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "R",
+          "ht": "6-0",
+          "home": "Portage la Prairie",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bonds|molly",
+          "n": "12",
+          "name": "Molly Bonds",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "frost|madelyn",
+          "n": "13",
+          "name": "Maddie Frost",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "low|quinn",
+          "n": "10",
+          "name": "Quinn Low",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Oakville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "shantz|zoey",
+          "n": "15",
+          "name": "Zoey Shantz",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Oak Bluff",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sun|chelsea",
+          "n": "8",
+          "name": "Chelsea Sun",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boulanger|evan",
+          "n": "7",
+          "name": "Evan Boulanger",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Oak Bluff",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "klaassen|mia",
+          "n": "18",
+          "name": "Mia Klaassen",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-2",
+          "home": "Oakville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laycock|gwyneth",
+          "n": "19",
+          "name": "Gwyneth Laycock",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Headingley",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "marginet|mila",
+          "n": "4",
+          "name": "Mila Marginet",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-2",
+          "home": "Treherne",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mirrlees|ava",
+          "n": "5",
+          "name": "Ava Mirrlees",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-9",
+          "home": "Oak Bluff",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "philippe|lexi",
+          "n": "17",
+          "name": "Lexi Philippe",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "St. Claude",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rey|kali",
+          "n": "9",
+          "name": "Kali Rey",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "St. Claude",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schnell|mackenzie",
+          "n": "20",
+          "name": "Mackenzie Schnell",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Oak Bluff",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "terrick|hailey",
+          "n": "11",
+          "name": "Hailey Terrick",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "home": "MacGregor",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vandegraaf|claire",
+          "n": "3",
+          "name": "Claire Vande Graaf",
+          "ry": "",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-5",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duchart|calleigh",
+          "n": "1",
+          "name": "Calleigh Duchart",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "McCreary",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hees|shannon",
+          "n": "33",
+          "name": "Shannon Hees",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "meeches|gracie",
+          "n": "29",
+          "name": "Gracie Meeches",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Long Plain",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Interlake Lightning U18",
+      "country": "CAN",
+      "club": "Interlake Lightning",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Interlake Lightning U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "malcolm|emily",
+          "n": "4",
+          "name": "Emily Malcolm",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "West St. Paul",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "williams|brynn",
+          "n": "5",
+          "name": "Brynn Williams",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-8",
+          "home": "Balmoral",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bragg|teagan",
+          "n": "9",
+          "name": "Teagan Bragg",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boonstra|emma",
+          "n": "16",
+          "name": "Emma Boonstra",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Stonewall",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pearson|ellis",
+          "n": "17",
+          "name": "Ellis Pearson",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-9",
+          "home": "Flin Flon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "blocker|milla",
+          "n": "21",
+          "name": "Milla Blocker",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "halpenny|neve",
+          "n": "2",
+          "name": "Neve Halpenny",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "watson|katherine",
+          "n": "6",
+          "name": "Katie Watson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "riddell|ella",
+          "n": "8",
+          "name": "Ella Riddell",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-6",
+          "home": "Grosse Isle",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "macgregor|lillian",
+          "n": "10",
+          "name": "Lily Macgregor",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-8",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "darragh|blake",
+          "n": "11",
+          "name": "Blake Darragh",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Grosse Isle",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "moisey|joslyn",
+          "n": "12",
+          "name": "Joslyn Moisey",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lamoureux|annalise",
+          "n": "13",
+          "name": "Annalise Lamoureux",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-5",
+          "home": "Giroux",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "power|blayke",
+          "n": "15",
+          "name": "Blayke Power",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nohlgren|keirlyn",
+          "n": "19",
+          "name": "Keirlyn Nohlgren",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "tetlock|joslyn",
+          "n": "30",
+          "name": "Joslyn Tetlock",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Warren",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cassils|emma",
+          "n": "35",
+          "name": "Emma Cassils",
+          "ry": "",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "ht": "5-7",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Pembina Valley Hawks U18",
+      "country": "CAN",
+      "club": "Pembina Valley Hawks",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Pembina Valley Hawks U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "huck|allison",
+          "n": "3",
+          "name": "Allie Huck",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-4",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "warnick|makayla",
+          "n": "8",
+          "name": "Makayla Warnick",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "olson|elin",
+          "n": "9",
+          "name": "Elin Olson",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-4",
+          "home": "Winnipeg",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "convery|sinead",
+          "n": "11",
+          "name": "Sinead Convery",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rondeau|ariel",
+          "n": "16",
+          "name": "Ariel Rondeau",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "St. Leon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "victor|ella",
+          "n": "18",
+          "name": "Ella Victor",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "shot": "L",
+          "ht": "5-5",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mclaren|tenley",
+          "n": "4",
+          "name": "Tenley Mclaren",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-5",
+          "home": "Clearwater",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "yaschyshyn|gianna",
+          "n": "5",
+          "name": "Gianna Yaschyshyn",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-6",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hildebrand|skyla",
+          "n": "6",
+          "name": "Skyla Hildebrand",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-3",
+          "home": "Mather",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laing|cailyn",
+          "n": "7",
+          "name": "Cailyn Laing",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "St. Claude",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "cox|sophia",
+          "n": "10",
+          "name": "Sophia Cox",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-7",
+          "home": "Carman",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pearce|bree",
+          "n": "12",
+          "name": "Bree Pearce",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-3",
+          "home": "Manitou",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "boyd|claire",
+          "n": "14",
+          "name": "Claire Boyd",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-5",
+          "home": "Sanford",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fallis|rylen",
+          "n": "15",
+          "name": "Rylen Fallis",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-8",
+          "home": "Crystal City",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "evangelista|anabella",
+          "n": "17",
+          "name": "Bella Evangelista",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-2",
+          "home": "Altona",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lambert|sasha",
+          "n": "19",
+          "name": "Sasha Lambert",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "ht": "5-2",
+          "home": "Lorette",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "winslow|willow",
+          "n": "22",
+          "name": "Willow Winslow",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "ht": "5-2",
+          "home": "Morden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "froese|madison",
+          "n": "1",
+          "name": "Madison Froese",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "ht": "5-4",
+          "home": "Carman",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fust|charlotte",
+          "n": "35",
+          "name": "Charlie Fust",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "ht": "5-4",
+          "home": "La Salle",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Westman Wildcats U18",
+      "country": "CAN",
+      "club": "Westman Wildcats",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Westman Wildcats U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "henwood|adi",
+          "n": "15",
+          "name": "Adi Henwood",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "franklin|callie",
+          "n": "16",
+          "name": "Callie Franklin",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "R",
+          "state": "MB",
+          "home": "Chater",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "baranyk|kasia",
+          "n": "18",
+          "name": "Kasia Baranyk",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "snyder|ava",
+          "n": "19",
+          "name": "Ava Snyder",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "shot": "R",
+          "state": "MB",
+          "home": "Melita",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robertson|hadley",
+          "n": "4",
+          "name": "Hadley Robertson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "shot": "L",
+          "state": "MB",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hoemsen|jaedyn",
+          "n": "17",
+          "name": "Jaedyn Hoemsen",
+          "ry": "",
+          "rg": "2027",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "astle|chloe",
+          "n": "6",
+          "name": "Chloe Astle",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Deloraine",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fry|ivy",
+          "n": "9",
+          "name": "Ivy Fry",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "shot": "R",
+          "state": "MB",
+          "home": "Wawanesa",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "wells|lillian",
+          "n": "5",
+          "name": "Lily Wells",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "state": "MB",
+          "home": "Deloraine",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hrubeniuk|londyn",
+          "n": "7",
+          "name": "Londyn Hrubeniuk",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "duncalfe|shayla",
+          "n": "11",
+          "name": "Shayla Duncalfe",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "R",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "oliver|abbey",
+          "n": "12",
+          "name": "Abbey Oliver",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "koop|georgia",
+          "n": "14",
+          "name": "Georgia Koop",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hodson|demi",
+          "n": "3",
+          "name": "Demi Hodson",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Virden",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rome|logan",
+          "n": "8",
+          "name": "Logan Rome",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "shot": "L",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bertholet|fergie",
+          "n": "10",
+          "name": "Fergie Bertholet",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "shot": "R",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stone|indigo",
+          "n": "35",
+          "name": "Indigo Stone",
+          "ry": "",
+          "rg": "2027",
+          "rp": "G",
+          "state": "MB",
+          "home": "Boissevain",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "champagne|alana",
+          "n": "1",
+          "name": "Alana Champagne",
+          "ry": "",
+          "rg": "2029",
+          "rp": "G",
+          "state": "MB",
+          "home": "Brandon",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Northern Capitals U18",
+      "country": "CAN",
+      "club": "Northern Capitals",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Northern Capitals U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "fehr|aubrey",
+          "n": "6",
+          "name": "Aubrey Fehr",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lovell|estella",
+          "n": "7",
+          "name": "Stella Lovell",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "krueger|lillian",
+          "n": "8",
+          "name": "Lily Krueger",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "150 Mile House",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fehr|zoey",
+          "n": "15",
+          "name": "Zoey Fehr",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "portalaki|pellagia",
+          "n": "19",
+          "name": "Pellagia Portalaki",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Penticton",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "king|alliesha",
+          "n": "21",
+          "name": "Alliesha King",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Quesnel",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "passeri|sofie",
+          "n": "3",
+          "name": "Sofie Passeri",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Williams Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fofonoff|sasha",
+          "n": "4",
+          "name": "Sasha Fofonoff",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Williams Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stancati|kalleigh",
+          "n": "5",
+          "name": "Kalleigh Stancati",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bijl|leau",
+          "n": "9",
+          "name": "Leau Bijl",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Dawson Creek",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "pederson|claire",
+          "n": "10",
+          "name": "Claire Pederson",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "szerencsi|kayla",
+          "n": "11",
+          "name": "Kayla Szerencsi",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-1",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "ayre|addison",
+          "n": "12",
+          "name": "Addison Ayre",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Fort St John",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rogina|taylor",
+          "n": "13",
+          "name": "Taylor Rogina",
+          "ry": "2012",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Quesnel",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "umbach|paige",
+          "n": "14",
+          "name": "Paige Umbach",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Baldonnel",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mathews|kesler",
+          "n": "16",
+          "name": "Kesler Mathews",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Prince George",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "porter|grace",
+          "n": "17",
+          "name": "Grace Porter",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Williams Lake",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "vanangeren|jennifer",
+          "n": "18",
+          "name": "Jenna Van Angeren",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Fort St John",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bragg|kenzie",
+          "n": "1",
+          "name": "Kenzie Bragg",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Dawson Creek",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zamec|kezia",
+          "n": "35",
+          "name": "Kezia Zamec",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Christina Lake",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Thompson-Okanagan Lakers U18",
+      "country": "CAN",
+      "club": "Thompson-Okanagan Lakers",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Thompson-Okanagan Lakers U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "boyd|emily",
+          "n": "5",
+          "name": "Emily Boyd",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Coldstream",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "norrie|megan",
+          "n": "7",
+          "name": "Megan Norrie",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Kelowna",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jacques|rozlyn",
+          "n": "10",
+          "name": "Rozlyn Jacques",
+          "ry": "2012",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Armstrong",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "sierhuis|taylor",
+          "n": "14",
+          "name": "Taylor Sierhuis",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "Lake Country",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kinaschuk|ariana",
+          "n": "18",
+          "name": "Ariana Kinaschuk",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|emmerson",
+          "n": "22",
+          "name": "Emmerson Brown",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jones|bailie",
+          "n": "2",
+          "name": "Bailie Jones",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Montrose",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lukinchuk|emilia",
+          "n": "3",
+          "name": "Emilia Lukinchuk",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "regnier|myah",
+          "n": "6",
+          "name": "Myah Regnier",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Lake Country",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "laventure|orian",
+          "n": "8",
+          "name": "Orian Laventure",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Lumby",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "douglas|keiran",
+          "n": "9",
+          "name": "Keiran Douglas",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Vernon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mollin|kallico",
+          "n": "11",
+          "name": "Kallico Mollin",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-10",
+          "home": "Kelowna",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "collins|sophia",
+          "n": "12",
+          "name": "Sophie Collins",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Clearwater",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "millership|madison",
+          "n": "13",
+          "name": "Madison Millership",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-9",
+          "home": "Vernon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mariecubberley|anna",
+          "n": "15",
+          "name": "Anna Marie Cubberley",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Kelowna",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "fletcher|kaia",
+          "n": "16",
+          "name": "Kaia Fletcher",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "umeris|jessica",
+          "n": "17",
+          "name": "Jessie Umeris",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-11",
+          "home": "Kelowna",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nerling|lyriq",
+          "n": "21",
+          "name": "Lyriq Nerling",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Vernon",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "guido|madison",
+          "n": "30",
+          "name": "Madison Guido",
+          "ry": "2010",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Kamloops",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stewart|harper",
+          "n": "35",
+          "name": "Harper Stewart",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Penticton",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Vancouver Island Seals U18",
+      "country": "CAN",
+      "club": "Vancouver Island Seals",
+      "lvl": "U18",
+      "levels": [
+        "U18"
+      ],
+      "raw": [
+        "Vancouver Island Seals U18"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "strand|parker",
+          "n": "3",
+          "name": "Parker Strand",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "robertshaw|carys",
+          "n": "4",
+          "name": "Carys Robertshaw",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mcdonald|maybel",
+          "n": "6",
+          "name": "Maybel McDonald",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Courtenay",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kress|olivia",
+          "n": "8",
+          "name": "Olivia Kress",
+          "ry": "2009",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-5",
+          "home": "Courtenay",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "venselaar|willa",
+          "n": "15",
+          "name": "Willa Venselaar",
+          "ry": "2011",
+          "rg": "",
+          "rp": "D",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Powell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hendriks|chantelle",
+          "n": "21",
+          "name": "Chantelle Hendriks",
+          "ry": "2010",
+          "rg": "",
+          "rp": "D",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Qualicum Beach",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "curry|bianca",
+          "n": "5",
+          "name": "Bianca Curry",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "reilly|brynne",
+          "n": "7",
+          "name": "Brynne Reilly",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Lantzville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "rutten|addison",
+          "n": "9",
+          "name": "Addison Rutten",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-3",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "dragani|lynden",
+          "n": "10",
+          "name": "Lynden Dragani",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "4-10",
+          "home": "Parksville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "harvey|claire",
+          "n": "11",
+          "name": "Claire Harvey",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Campbell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "behan|bree",
+          "n": "12",
+          "name": "Bree Behan",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Powell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "bate|mara",
+          "n": "13",
+          "name": "Mara Bate",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Victoria",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lukey|tayla",
+          "n": "14",
+          "name": "Tayla Lukey",
+          "ry": "2011",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-8",
+          "home": "Campbell River",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "mark|peyton",
+          "n": "16",
+          "name": "Peyton Mark",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "jean|presley",
+          "n": "17",
+          "name": "Presley Jean",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Courtenay",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "schwenning|makena",
+          "n": "18",
+          "name": "Makena Schwenning",
+          "ry": "2009",
+          "rg": "",
+          "rp": "F",
+          "shot": "R",
+          "state": "BC",
+          "ht": "5-6",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "heslop|riley",
+          "n": "22",
+          "name": "Riley Heslop",
+          "ry": "2010",
+          "rg": "",
+          "rp": "F",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-4",
+          "home": "Nanaimo",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "phillips|sophia",
+          "n": "30",
+          "name": "Sophia Phillips",
+          "ry": "2009",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-0",
+          "home": "Lantzville",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "brown|nyah",
+          "n": "35",
+          "name": "Nyah Brown",
+          "ry": "2011",
+          "rg": "",
+          "rp": "G",
+          "shot": "L",
+          "state": "BC",
+          "ht": "5-7",
+          "home": "Nanoose Bay",
+          "t": [
+            "Misc"
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Team Alaska 16U",
+      "country": "US",
+      "club": "Team Alaska",
+      "lvl": "16U",
+      "levels": [
+        "16U"
+      ],
+      "raw": [
+        "Team Alaska 16U"
+      ],
+      "tourneys": [
+        "Misc"
+      ],
+      "players": [
+        {
+          "pk": "mcmanamin|bailee",
+          "n": "5",
+          "name": "Bailee McManamin",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "witmer|rienzi",
+          "n": "6",
+          "name": "Rienzi Witmer",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "filipenko|mya",
+          "n": "22",
+          "name": "Mya Filipenko",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "stinnett|caileigh",
+          "n": "29",
+          "name": "Caileigh Stinnett",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "baxter|brea",
+          "n": "45",
+          "name": "Brea Baxter",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "forbes|harper",
+          "n": "71",
+          "name": "Harper Forbes",
+          "ry": "",
+          "rg": "2028",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "spencer|grace",
+          "n": "3",
+          "name": "Grace Spencer",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "swenson|carlisle",
+          "n": "8",
+          "name": "Carlisle Swenson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "griffeth|riley",
+          "n": "9",
+          "name": "Riley Griffeth",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "hayner|chloe",
+          "n": "12",
+          "name": "Chloe Hayner",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "garsha|ayla",
+          "n": "18",
+          "name": "Ayla Garsha",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "nelson|adara",
+          "n": "19",
+          "name": "Adara Nelson",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "zmuda|hazel",
+          "n": "44",
+          "name": "Hazel Zmuda",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "kettenacker|lilliana",
+          "n": "54",
+          "name": "Lilliana Kettenacker",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "davis|grayson",
+          "n": "88",
+          "name": "Grayson Davis",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lovejoy|grace",
+          "n": "1",
+          "name": "Grace Lovejoy",
+          "ry": "",
+          "rg": "2028",
+          "rp": "G",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "towne|peyton",
+          "n": "13",
+          "name": "Peyton Towne",
+          "ry": "",
+          "rg": "2028",
           "rp": "G",
           "t": [
             "Misc"
