@@ -2,8 +2,7 @@
   "version": 1,
   "description": "Corrections queued from the Master Viewer. tools/apply_corrections.js applies them to the source files (every row of that player in that source), then moves each applied one from \"corrections\" (the queue) to \"applied\" (history). Rebuild from the Pipeline tab.",
   "corrections": [
-    {"source": "tourn", "personkey": "bull|kira", "field": "Name", "from": "Kira Bull", "to": "Kira Bui", "note": "Teams tab: Greater Vancouver Comets U18", "added": "2026-11-06"},
-    {"source":  "tourn", "personkey":  "mcinstosh|willa", "field":  "Name", "from":  "Willa McInstosh", "to":  "Willa McIntosh", "note":  "Typo on Ottawa 67 U18 2026-27; same player as mcintosh|willa (2010, Ottawa); USA/Canada Cup roster spells it McIntosh", "added":  "2026-11-09"}
+    {"source": "tourn", "personkey": "bull|kira", "field": "Name", "from": "Kira Bull", "to": "Kira Bui", "note": "Teams tab: Greater Vancouver Comets U18", "added": "2026-11-06"}
   ],
   "applied": [
     {"source": "tourn", "personkey": "orizzoti|gia", "field": "Name", "from": "Gia Orizzoti", "to": "Gia Orizotti", "added": "2026-10-04", "applied": "2026-10-04"},
@@ -35,6 +34,7 @@
     {"source": "tourn", "personkey": "batch|madeline", "field": "Name", "from": "Maddy Batch", "to": "Madison Batch", "note": "Teams tab: Delta Hockey Academy - Green U18", "added": "2026-10-31", "applied": "2026-11-02"},
     {"source": "tourn", "personkey": "allen|emerson", "field": "Name", "from": "Emerson Allen", "to": "Emersyn Allan", "note": "Teams tab: RINK Kelowna U18", "added": "2026-10-31", "applied": "2026-11-02"},
     {"source": "tourn", "personkey": "mehling|eleanor", "field": "Name", "from": "Ellie Mehling", "to": "Elizabeth Mehling", "note": "Same player as mehling|elizabeth (NAHA #8 D, 2008, RPI); nickname created a duplicate key", "added": "2026-11-05", "applied": "2026-11-05"},
-    {"source": "commits", "personkey": "lolachler|berlin", "field": "Name", "from": "Berlin Lolachler", "to": "Berlin Lolacher", "note": "Mercyhurst roster, provrosters, EP and her Instagram (@berlinlolacher) all spell it Lolacher; only commits had Lolachler", "added": "2026-11-05", "applied": "2026-11-05"}
+    {"source": "commits", "personkey": "lolachler|berlin", "field": "Name", "from": "Berlin Lolachler", "to": "Berlin Lolacher", "note": "Mercyhurst roster, provrosters, EP and her Instagram (@berlinlolacher) all spell it Lolacher; only commits had Lolachler", "added": "2026-11-05", "applied": "2026-11-05"},
+    {"source": "tourn", "personkey": "mcinstosh|willa", "field": "Name", "from": "Willa McInstosh", "to": "Willa McIntosh", "note": "Typo on Ottawa 67 U18 2026-27; same player as mcintosh|willa (2010, Ottawa); USA/Canada Cup roster spells it McIntosh", "added": "2026-11-09", "applied": "2026-11-10"}
   ]
 }

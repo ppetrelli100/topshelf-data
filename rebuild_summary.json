@@ -1,315 +1,986 @@
 {
-  "generated": "2026-11-06T04:25:17.558Z",
-  "applied": [],
+  "generated": "2026-11-10T03:58:18.027Z",
+  "applied": [
+    "NO MATCH     (already applied, or the source has changed) tourn/Name bull|kira: \"Kira Bull\" -> \"Kira Bui\"  [rosters.json + rosters_archive.json]",
+    "APPLIED     (1 row) tourn/Name mcinstosh|willa: \"Willa McInstosh\" -> \"Willa McIntosh\"  [rosters.json + rosters_archive.json]"
+  ],
   "players": {
-    "before": 13332,
-    "after": 13331
+    "before": 13331,
+    "after": 13473
   },
   "removed": [
-    "danks|charlotte"
+    "bull|kira",
+    "mcinstosh|willa"
   ],
-  "added": [],
-  "changedPlayers": 33,
-  "changedCells": 41,
+  "added": [
+    "antalikova|monika",
+    "astle|chloe",
+    "baldwin|hailey",
+    "baranyk|kasia",
+    "barnes|bryleigh",
+    "bate|mara",
+    "baxter|brea",
+    "behan|bree",
+    "bijl|leau",
+    "bonds|molly",
+    "boonstra|emma",
+    "boucher|emme",
+    "bragg|kenzie",
+    "brar|saachi",
+    "brown|addyson",
+    "brown|khloe",
+    "brown|nyah",
+    "cassils|emma",
+    "champagne|alana",
+    "chriss|zoya",
+    "cochrane|courtney",
+    "cochrane|rose",
+    "curry|bianca",
+    "desjarlais|addison",
+    "despiegelaere|callee",
+    "dragani|lynden",
+    "drescher|sophia",
+    "duchart|calleigh",
+    "duckworth|lacey",
+    "dumont|jordyn",
+    "dumont|taylor",
+    "duncalfe|shayla",
+    "duval|eloise",
+    "evangelista|anabella",
+    "fallis|rylen",
+    "fehr|aubrey",
+    "fehr|zoey",
+    "filipenko|mya",
+    "fletcher|kaia",
+    "fofonoff|sasha",
+    "forbes|harper",
+    "franklin|callie",
+    "fry|ivy",
+    "fust|charlotte",
+    "george|casey",
+    "griffeth|riley",
+    "hack|kylie",
+    "halpenny|neve",
+    "hayner|chloe",
+    "hees|shannon",
+    "hendriks|chantelle",
+    "henwood|adi",
+    "heslop|riley",
+    "hodson|demi",
+    "hoemsen|jaedyn",
+    "hrubeniuk|londyn",
+    "huck|allison",
+    "jacques|rozlyn",
+    "jasper|louelle",
+    "jean|presley",
+    "johnson|claire",
+    "johnston|gracie",
+    "jones|bailie",
+    "kinaschuk|ariana",
+    "king|alliesha",
+    "klaassen|mia",
+    "klein|ashley",
+    "knoblauch|avery",
+    "koop|georgia",
+    "kress|olivia",
+    "krystalowich|kayden",
+    "laing|cailyn",
+    "lamoureux|annalise",
+    "lane|cali",
+    "lane|sloan",
+    "laventure|orian",
+    "lovejoy|grace",
+    "lovell|estella",
+    "low|quinn",
+    "lukey|tayla",
+    "lukinchuk|emilia",
+    "malcolm|emily",
+    "mann|jaelyn",
+    "mann|jane",
+    "mariecubberley|anna",
+    "mathews|kesler",
+    "mcdonald|maybel",
+    "mcgonigal|avery",
+    "mckinnon|aubree",
+    "mcmullen|elle",
+    "meeches|gracie",
+    "meier|senya",
+    "melbourn|addison",
+    "mollin|kallico",
+    "motoche|emilia",
+    "nerling|lyriq",
+    "oakden|jayce",
+    "obermayr|pia",
+    "oliver|abbey",
+    "olson|elin"
+  ],
+  "changedPlayers": 262,
+  "changedCells": 644,
   "fieldDiffs": {
-    "BirthYr": 1,
-    "DOBPartial": 1,
-    "City": 1,
-    "State": 1,
-    "Team": 1,
-    "Notable": 32,
-    "Team2025": 1,
-    "Grad": 1,
-    "Jr": 1,
-    "Sr": 1
+    "City": 111,
+    "State": 81,
+    "School": 17,
+    "Height": 71,
+    "Team2024": 12,
+    "Team2025": 18,
+    "Team2026": 128,
+    "Grad": 72,
+    "Country": 21,
+    "GradGuessed": 20,
+    "Jr": 11,
+    "Soph": 5,
+    "Sr": 13,
+    "BirthYr": 37,
+    "Yr3": 4,
+    "Position": 9,
+    "College": 3,
+    "Yr1": 1,
+    "Yr2": 3,
+    "Name": 3,
+    "DOB": 1,
+    "Weight": 1,
+    "Team": 2
   },
   "examples": [
     {
-      "pk": "antonucci|mia",
-      "name": "Mia Antonucci",
-      "field": "BirthYr",
-      "from": 2006,
-      "to": ""
-    },
-    {
-      "pk": "antonucci|mia",
-      "name": "Mia Antonucci",
-      "field": "DOBPartial",
-      "from": "2006",
-      "to": ""
-    },
-    {
-      "pk": "antonucci|mia",
-      "name": "Mia Antonucci",
+      "pk": "adams|callie",
+      "name": "Callie Adams",
       "field": "City",
-      "from": "Whitby",
-      "to": ""
+      "from": "",
+      "to": "Winnipeg"
     },
     {
-      "pk": "antonucci|mia",
-      "name": "Mia Antonucci",
+      "pk": "adams|callie",
+      "name": "Callie Adams",
       "field": "State",
-      "from": "ON",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "adams|callie",
+      "name": "Callie Adams",
+      "field": "School",
+      "from": "",
+      "to": "St. Mary's Academy"
+    },
+    {
+      "pk": "akizuki|sera",
+      "name": "Sera Akizuki",
+      "field": "City",
+      "from": "",
+      "to": "Richmond"
+    },
+    {
+      "pk": "akizuki|sera",
+      "name": "Sera Akizuki",
+      "field": "State",
+      "from": "",
+      "to": "BC"
+    },
+    {
+      "pk": "aragon|evaley",
+      "name": "Evaley Aragon",
+      "field": "Height",
+      "from": "",
+      "to": "5'1\""
+    },
+    {
+      "pk": "aragon|evaley",
+      "name": "Evaley Aragon",
+      "field": "City",
+      "from": "",
+      "to": "Coquitlam"
+    },
+    {
+      "pk": "aragon|evaley",
+      "name": "Evaley Aragon",
+      "field": "State",
+      "from": "",
+      "to": "BC"
+    },
+    {
+      "pk": "arango|jaimeson",
+      "name": "Jaimeson Arango",
+      "field": "Team2024",
+      "from": "Ottawa U18",
+      "to": "Ottawa 67 U18"
+    },
+    {
+      "pk": "arango|jaimeson",
+      "name": "Jaimeson Arango",
+      "field": "Team2025",
+      "from": "Ottawa Lady U18",
+      "to": "Ottawa 67 U18"
+    },
+    {
+      "pk": "ayre|addison",
+      "name": "Addison Ayre",
+      "field": "Team2026",
+      "from": "",
+      "to": "Northern Capitals U18"
+    },
+    {
+      "pk": "ball|vanessa",
+      "name": "Vanessa Ball",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
+    },
+    {
+      "pk": "ball|vanessa",
+      "name": "Vanessa Ball",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "barnaby|lyla",
+      "name": "Lyla Barnaby",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
+    },
+    {
+      "pk": "barnaby|lyla",
+      "name": "Lyla Barnaby",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "barnaby|lyla",
+      "name": "Lyla Barnaby",
+      "field": "School",
+      "from": "",
+      "to": "Sturgeon Heights Collegiate"
+    },
+    {
+      "pk": "beattie|emily",
+      "name": "Emily Beattie",
+      "field": "City",
+      "from": "",
+      "to": "Selkirk"
+    },
+    {
+      "pk": "beattie|emily",
+      "name": "Emily Beattie",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "bertholet|fergie",
+      "name": "Fergie Bertholet",
+      "field": "Grad",
+      "from": "",
+      "to": 2030
+    },
+    {
+      "pk": "bertholet|fergie",
+      "name": "Fergie Bertholet",
+      "field": "City",
+      "from": "",
+      "to": "Brandon"
+    },
+    {
+      "pk": "bertholet|fergie",
+      "name": "Fergie Bertholet",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "bertholet|fergie",
+      "name": "Fergie Bertholet",
+      "field": "Country",
+      "from": "",
+      "to": "CAN"
+    },
+    {
+      "pk": "bertholet|fergie",
+      "name": "Fergie Bertholet",
+      "field": "Team2026",
+      "from": "",
+      "to": "Westman Wildcats U18"
+    },
+    {
+      "pk": "bezic|melina",
+      "name": "Melina Bezic",
+      "field": "GradGuessed",
+      "from": "Yes",
       "to": ""
     },
     {
-      "pk": "antonucci|mia",
-      "name": "Mia Antonucci",
-      "field": "Team",
-      "from": "Whitby Wolves",
-      "to": ""
+      "pk": "bezic|melina",
+      "name": "Melina Bezic",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
     },
     {
-      "pk": "antonucci|mia",
-      "name": "Mia Antonucci",
-      "field": "Notable",
-      "from": "Not on 2025 Roster",
-      "to": ""
+      "pk": "bezic|melina",
+      "name": "Melina Bezic",
+      "field": "Jr",
+      "from": "",
+      "to": "BCcamp"
     },
     {
-      "pk": "bakker|hadley",
-      "name": "Hadley Bakker",
-      "field": "Notable",
-      "from": "decommit - Merrimack / Orig: Merrimack 9/9/25",
+      "pk": "bingham|jadin",
+      "name": "Jadin Bingham",
+      "field": "Grad",
+      "from": 2027,
+      "to": 2028
+    },
+    {
+      "pk": "bingham|jadin",
+      "name": "Jadin Bingham",
+      "field": "Jr",
+      "from": "U1617",
       "to": ""
     },
     {
       "pk": "bingham|jadin",
       "name": "Jadin Bingham",
-      "field": "Notable",
-      "from": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/22/25",
-      "to": ""
-    },
-    {
-      "pk": "christenson|hannah",
-      "name": "Hannah Christenson",
-      "field": "Notable",
-      "from": "Decommit - Northeastern - Playing D3 at UW-Eau Claire 26-27 / Orig: Northeastern 9/27/23",
-      "to": ""
-    },
-    {
-      "pk": "cooper|grace",
-      "name": "Grace Cooper",
-      "field": "Notable",
-      "from": "Decommit - Western Ontario - Upsorts / Orig: Long Island 8/8/25",
-      "to": ""
-    },
-    {
-      "pk": "danks|charlize",
-      "name": "Charlize Danks",
-      "field": "Team2025",
+      "field": "Team2026",
       "from": "",
-      "to": "Ottawa Senators U22"
+      "to": "Stanstead College Varsity U22"
     },
     {
-      "pk": "deanzeris|abigail",
-      "name": "Abigail DeAnzeris",
-      "field": "Notable",
-      "from": "Decommit Saint Anselm / Orig: Saint Anselm, by 8/29/25",
-      "to": ""
-    },
-    {
-      "pk": "engfer|finley",
-      "name": "Finley Engfer",
-      "field": "Notable",
-      "from": "Team USA U18 2025 / decommit Providence / Orig: Providence 7/1/25",
-      "to": "Team USA U18 2025"
-    },
-    {
-      "pk": "flod|teagan",
-      "name": "Teagan Flod",
-      "field": "Notable",
-      "from": "Decommit Saint Anselm, Commit to Merrimack 10/22/26 / Orig: Saint Anselm 4/10/26",
-      "to": ""
-    },
-    {
-      "pk": "french|jaylie",
-      "name": "Jaylie French",
-      "field": "Notable",
-      "from": "Decommit Dartmouth 8/26/26, Commit to Bemidji 9/18/26 / Orig: Dartmouth 9/4/25",
-      "to": ""
-    },
-    {
-      "pk": "gasseau|jacqueline",
-      "name": "Jacqueline Gasseau",
-      "field": "Notable",
-      "from": "Decommit - St Thomas - Commit not on insta as of 9/18/26 / Orig: St. Thomas 10/22/25",
-      "to": ""
-    },
-    {
-      "pk": "grabie|makenzie",
-      "name": "Makenzie Grabie",
-      "field": "Notable",
-      "from": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/18/25",
-      "to": ""
-    },
-    {
-      "pk": "grady|river",
-      "name": "River Grady",
-      "field": "Notable",
-      "from": "Decommit - St Anselm per Sydney / Orig: Saint Anselm 2/23/26",
-      "to": ""
-    },
-    {
-      "pk": "grewal|siya",
-      "name": "Siya Grewal",
-      "field": "Notable",
-      "from": "Decommit - Merrimack - Commit not on insta as of 9/16/26 / Orig: Merrimack 6/4/25",
-      "to": ""
-    },
-    {
-      "pk": "helenetoetuddveg|miriam",
-      "name": "Miriam Helene Toet-Uddveg",
-      "field": "Notable",
-      "from": "Team Norway U18 2024,2025 (2X). Possible decommit (Nov 2026), commit post not on Instagram / Orig: RPI 3/27/25",
-      "to": "Team Norway U18 2024,2025 (2X)"
-    },
-    {
-      "pk": "kirk|abigale",
-      "name": "Abigale Kirk",
-      "field": "Notable",
-      "from": "Decommit - New Hampshire / Orig: New Hampshire 8/24/23",
-      "to": ""
-    },
-    {
-      "pk": "kirk|abigale",
-      "name": "Abigale Kirk",
-      "field": "Grad",
+      "pk": "bingham|jadin",
+      "name": "Jadin Bingham",
+      "field": "Soph",
       "from": "",
-      "to": 2027
+      "to": "U1617"
     },
     {
-      "pk": "kirk|abigale",
-      "name": "Abigale Kirk",
-      "field": "Jr",
-      "from": "",
-      "to": "x"
-    },
-    {
-      "pk": "kirk|abigale",
-      "name": "Abigale Kirk",
+      "pk": "bingham|jadin",
+      "name": "Jadin Bingham",
       "field": "Sr",
       "from": "",
       "to": "x"
     },
     {
-      "pk": "laforge|maelie",
-      "name": "Maelie Laforge",
-      "field": "Notable",
-      "from": "Decommit - Dartmouth / Orig: Dartmouth 3/13/25",
+      "pk": "blocker|milla",
+      "name": "Milla Blocker",
+      "field": "Grad",
+      "from": "",
+      "to": 2027
+    },
+    {
+      "pk": "blocker|milla",
+      "name": "Milla Blocker",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
+    },
+    {
+      "pk": "blocker|milla",
+      "name": "Milla Blocker",
+      "field": "Team2026",
+      "from": "",
+      "to": "Interlake Lightning U18"
+    },
+    {
+      "pk": "bouchard|jordanne",
+      "name": "Jordanne Bouchard",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
+    },
+    {
+      "pk": "bouchard|jordanne",
+      "name": "Jordanne Bouchard",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "bouchard|jordanne",
+      "name": "Jordanne Bouchard",
+      "field": "School",
+      "from": "",
+      "to": "Churchill High School"
+    },
+    {
+      "pk": "boulanger|evan",
+      "name": "Evan Boulanger",
+      "field": "Height",
+      "from": "5'6\"",
+      "to": "5'7\""
+    },
+    {
+      "pk": "boulanger|evan",
+      "name": "Evan Boulanger",
+      "field": "Country",
+      "from": "US",
+      "to": "CAN"
+    },
+    {
+      "pk": "boulanger|evan",
+      "name": "Evan Boulanger",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "boulanger|evan",
+      "name": "Evan Boulanger",
+      "field": "City",
+      "from": "",
+      "to": "Oak Bluff"
+    },
+    {
+      "pk": "boulanger|evan",
+      "name": "Evan Boulanger",
+      "field": "Team2026",
+      "from": "",
+      "to": "Central Plains Capitals U18"
+    },
+    {
+      "pk": "boyd|claire",
+      "name": "Claire Boyd",
+      "field": "Team2026",
+      "from": "Cambridge Roadrunners U15",
+      "to": "Pembina Valley Hawks U18"
+    },
+    {
+      "pk": "boyd|claire",
+      "name": "Claire Boyd",
+      "field": "Height",
+      "from": "",
+      "to": "5'5\""
+    },
+    {
+      "pk": "boyd|claire",
+      "name": "Claire Boyd",
+      "field": "City",
+      "from": "",
+      "to": "Sanford"
+    },
+    {
+      "pk": "boyd|emily",
+      "name": "Emily Boyd",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "boyd|emily",
+      "name": "Emily Boyd",
+      "field": "Height",
+      "from": "",
+      "to": "5'4\""
+    },
+    {
+      "pk": "boyd|emily",
+      "name": "Emily Boyd",
+      "field": "Team2026",
+      "from": "",
+      "to": "Thompson-Okanagan Lakers U18"
+    },
+    {
+      "pk": "boyd|emily",
+      "name": "Emily Boyd",
+      "field": "Yr3",
+      "from": "",
+      "to": "BCcamp"
+    },
+    {
+      "pk": "boyd|emily",
+      "name": "Emily Boyd",
+      "field": "GradGuessed",
+      "from": "",
+      "to": "Yes"
+    },
+    {
+      "pk": "bragg|teagan",
+      "name": "Teagan Bragg",
+      "field": "Position",
+      "from": "F",
+      "to": "D"
+    },
+    {
+      "pk": "bragg|teagan",
+      "name": "Teagan Bragg",
+      "field": "Grad",
+      "from": "",
+      "to": 2027
+    },
+    {
+      "pk": "bragg|teagan",
+      "name": "Teagan Bragg",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
+    },
+    {
+      "pk": "bragg|teagan",
+      "name": "Teagan Bragg",
+      "field": "Team2026",
+      "from": "",
+      "to": "Interlake Lightning U18"
+    },
+    {
+      "pk": "brankovic|neveah",
+      "name": "Neveah Brankovic",
+      "field": "GradGuessed",
+      "from": "Yes",
       "to": ""
     },
     {
-      "pk": "langis|bronwyn",
-      "name": "Bronwyn Langis",
-      "field": "Notable",
-      "from": "Decommit Syracuse - BU 6.15.26 / Orig: Syracuse 9/12/24",
+      "pk": "brankovic|neveah",
+      "name": "Neveah Brankovic",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "brankovic|neveah",
+      "name": "Neveah Brankovic",
+      "field": "Jr",
+      "from": "",
+      "to": "BCcamp"
+    },
+    {
+      "pk": "briggs|maielle",
+      "name": "Maielle Briggs",
+      "field": "GradGuessed",
+      "from": "Yes",
       "to": ""
     },
     {
-      "pk": "larmand|samantha",
-      "name": "Samantha Larmand",
-      "field": "Notable",
-      "from": "Decommitted from Merrimack (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Merrimack 8/9/25",
+      "pk": "briggs|maielle",
+      "name": "Maielle Briggs",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "briggs|maielle",
+      "name": "Maielle Briggs",
+      "field": "Jr",
+      "from": "",
+      "to": "BCcamp"
+    },
+    {
+      "pk": "brine|ivy",
+      "name": "Ivy Brine",
+      "field": "Team2026",
+      "from": "Greater Vancouver U18",
+      "to": "Greater Vancouver Comets U18"
+    },
+    {
+      "pk": "brine|ivy",
+      "name": "Ivy Brine",
+      "field": "City",
+      "from": "",
+      "to": "North Vancouver"
+    },
+    {
+      "pk": "brine|ivy",
+      "name": "Ivy Brine",
+      "field": "State",
+      "from": "",
+      "to": "BC"
+    },
+    {
+      "pk": "brown|emmerson",
+      "name": "Emmerson Brown",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
+    },
+    {
+      "pk": "brown|emmerson",
+      "name": "Emmerson Brown",
+      "field": "Height",
+      "from": "",
+      "to": "5'6\""
+    },
+    {
+      "pk": "brown|emmerson",
+      "name": "Emmerson Brown",
+      "field": "Team2026",
+      "from": "",
+      "to": "Thompson-Okanagan Lakers U18"
+    },
+    {
+      "pk": "brown|emmerson",
+      "name": "Emmerson Brown",
+      "field": "Yr3",
+      "from": "",
+      "to": "BCcamp"
+    },
+    {
+      "pk": "brown|emmerson",
+      "name": "Emmerson Brown",
+      "field": "GradGuessed",
+      "from": "",
+      "to": "Yes"
+    },
+    {
+      "pk": "bui|kira",
+      "name": "Kira Bui",
+      "field": "Team2026",
+      "from": "",
+      "to": "Greater Vancouver Comets U18"
+    },
+    {
+      "pk": "bulmer|maya",
+      "name": "Maya Bulmer",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "burke|corinne",
+      "name": "Corinne Burke",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
+    },
+    {
+      "pk": "burke|corinne",
+      "name": "Corinne Burke",
+      "field": "Sr",
+      "from": "",
+      "to": "x"
+    },
+    {
+      "pk": "cairns|katherine",
+      "name": "Kate Cairns",
+      "field": "School",
+      "from": "",
+      "to": "J.H. Bruns"
+    },
+    {
+      "pk": "caldicott|sara",
+      "name": "Sara Caldicott",
+      "field": "Team2026",
+      "from": "",
+      "to": "Stanstead College Varsity U22"
+    },
+    {
+      "pk": "campbell|marianne",
+      "name": "Marianne Campbell",
+      "field": "Team2026",
+      "from": "Greater Vancouver U18",
+      "to": "Greater Vancouver Comets U18"
+    },
+    {
+      "pk": "campbell|marianne",
+      "name": "Marianne Campbell",
+      "field": "Height",
+      "from": "",
+      "to": "5'3\""
+    },
+    {
+      "pk": "campbell|whitney",
+      "name": "Whitney Campbell",
+      "field": "Team2026",
+      "from": "Greater Vancouver U18",
+      "to": "Greater Vancouver Comets U18"
+    },
+    {
+      "pk": "campbell|whitney",
+      "name": "Whitney Campbell",
+      "field": "Height",
+      "from": "",
+      "to": "5'4\""
+    },
+    {
+      "pk": "campbell|whitney",
+      "name": "Whitney Campbell",
+      "field": "City",
+      "from": "",
+      "to": "Richmond"
+    },
+    {
+      "pk": "campbell|whitney",
+      "name": "Whitney Campbell",
+      "field": "State",
+      "from": "",
+      "to": "BC"
+    },
+    {
+      "pk": "carlos|marin",
+      "name": "Marin Carlos",
+      "field": "GradGuessed",
+      "from": "Yes",
       "to": ""
     },
     {
-      "pk": "lovell|annabelle",
-      "name": "Annabelle Lovell",
-      "field": "Notable",
-      "from": "Decommit Minnesota, WIS 7/17/26. Team USA U18 2025,2026 (2X) / Orig: Minnesota 8/3/25",
-      "to": "Team USA U18 2025,2026 (2X)"
+      "pk": "carlos|marin",
+      "name": "Marin Carlos",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
     },
     {
-      "pk": "mackie|raeya",
-      "name": "Raeya Mackie",
-      "field": "Notable",
-      "from": "Decommit Providence, UMD Commit 7/26/26 / Orig: Providence 9/25/25",
+      "pk": "carlos|marin",
+      "name": "Marin Carlos",
+      "field": "Jr",
+      "from": "",
+      "to": "BCcamp"
+    },
+    {
+      "pk": "carriere|emilie",
+      "name": "Emilie Carriere",
+      "field": "City",
+      "from": "",
+      "to": "St. Pierre-Jolys"
+    },
+    {
+      "pk": "carriere|emilie",
+      "name": "Emilie Carriere",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "carriere|kennedy",
+      "name": "Kennedy Carriere",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
+    },
+    {
+      "pk": "carriere|kennedy",
+      "name": "Kennedy Carriere",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "charest|anabella",
+      "name": "Bella Charest",
+      "field": "Team2026",
+      "from": "Ottawa U18",
+      "to": "Ottawa 67 U18"
+    },
+    {
+      "pk": "charest|danika",
+      "name": "Danika Charest",
+      "field": "Team2024",
+      "from": "Ottawa U18",
+      "to": "Ottawa 67 U18"
+    },
+    {
+      "pk": "charest|danika",
+      "name": "Danika Charest",
+      "field": "Team2025",
+      "from": "Ottawa Lady U18",
+      "to": "Ottawa 67 U18"
+    },
+    {
+      "pk": "charest|danika",
+      "name": "Danika Charest",
+      "field": "Team2026",
+      "from": "Ottawa U18",
+      "to": "Ottawa 67 U18"
+    },
+    {
+      "pk": "cheyne|claire",
+      "name": "Claire Cheyne",
+      "field": "Grad",
+      "from": "",
+      "to": 2027
+    },
+    {
+      "pk": "chipelski|haley",
+      "name": "Haley Chipelski",
+      "field": "Team2026",
+      "from": "",
+      "to": "Yellowhead Chiefs U18"
+    },
+    {
+      "pk": "claussen|leah",
+      "name": "Leah Claussen",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
+    },
+    {
+      "pk": "claussen|leah",
+      "name": "Leah Claussen",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "clift|alyse",
+      "name": "Alyse Clift",
+      "field": "GradGuessed",
+      "from": "Yes",
       "to": ""
     },
     {
-      "pk": "martin|theresa",
-      "name": "Tess Martin",
-      "field": "Notable",
-      "from": "Decommit Harvard 2026 / Orig: Harvard 8/21/24",
-      "to": ""
+      "pk": "clift|alyse",
+      "name": "Alyse Clift",
+      "field": "Grad",
+      "from": "",
+      "to": 2029
     },
     {
-      "pk": "mckee|anna",
-      "name": "Anna McKee",
-      "field": "Notable",
-      "from": "Decommit - - Playing usports at TMU / Orig: Lindenwood 11/8/23",
-      "to": ""
+      "pk": "clift|alyse",
+      "name": "Alyse Clift",
+      "field": "Soph",
+      "from": "",
+      "to": "BCcamp"
     },
     {
-      "pk": "merrill|sawyer",
-      "name": "Sawyer Merrill",
-      "field": "Notable",
-      "from": "Decommit Yale, BC Commit 5/21/26 / Orig: Yale 1/17/25",
-      "to": ""
+      "pk": "collins|brooklyn",
+      "name": "Brooklyn Collins",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
     },
     {
-      "pk": "mossey|megan",
-      "name": "Megan Mossey",
-      "field": "Notable",
-      "from": "Team Canada U18 2026  / decommit Minnesota 5/8/26 / Orig: Minnesota 10/5/25",
-      "to": "Team Canada U18 2026"
+      "pk": "collins|brooklyn",
+      "name": "Brooklyn Collins",
+      "field": "State",
+      "from": "",
+      "to": "MB"
     },
     {
-      "pk": "rosen|amanda",
-      "name": "Amanda Rosen",
-      "field": "Notable",
-      "from": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Lindenwood 10/1/25",
-      "to": ""
+      "pk": "collins|sophia",
+      "name": "Sophie Collins",
+      "field": "BirthYr",
+      "from": "",
+      "to": 2009
     },
     {
-      "pk": "rutter|ella",
-      "name": "Ella Rutter",
-      "field": "Notable",
-      "from": "Decommit - New Hampshire - Commit not on insta as of 11/4/26 / Orig: New Hampshire 9/8/25",
-      "to": ""
+      "pk": "collins|sophia",
+      "name": "Sophie Collins",
+      "field": "Height",
+      "from": "",
+      "to": "5'7\""
     },
     {
-      "pk": "schwartze|carlee",
-      "name": "Carlee Schwartze",
-      "field": "Notable",
-      "from": "Decommit - Vermont - Commit not on insta as of 11/4/26 / Orig: Vermont 8/15/25",
-      "to": ""
+      "pk": "collins|sophia",
+      "name": "Sophie Collins",
+      "field": "Team2026",
+      "from": "",
+      "to": "Thompson-Okanagan Lakers U18"
     },
     {
-      "pk": "skotty|ella",
-      "name": "Ella Skotty",
-      "field": "Notable",
-      "from": "Decommit Assumption / Orig: Assumption 9/4/25",
-      "to": ""
+      "pk": "collins|sophia",
+      "name": "Sophie Collins",
+      "field": "Yr3",
+      "from": "",
+      "to": "BCcamp"
     },
     {
-      "pk": "stoughton|sydney",
-      "name": "Sydney Stoughton",
-      "field": "Notable",
-      "from": "Team USA U18 2025 / Decommit Minnesota, PSU commit 4/14/26 / Orig: Minnesota 7/3/25",
-      "to": "Team USA U18 2025"
+      "pk": "collins|sophia",
+      "name": "Sophie Collins",
+      "field": "GradGuessed",
+      "from": "",
+      "to": "Yes"
     },
     {
-      "pk": "sutter|tarynn",
-      "name": "Tarynn Sutter",
-      "field": "Notable",
-      "from": "Decommit - Bemidji State - Commit not on insta as of 11/4/26 / Orig: Bemidji State 10/28/25",
-      "to": ""
+      "pk": "comeau|lilydon",
+      "name": "Lily-Don Comeau",
+      "field": "Team2026",
+      "from": "",
+      "to": "Thunder Bay Queens U18"
     },
     {
-      "pk": "west|lauren",
-      "name": "Lauren West",
-      "field": "Notable",
-      "from": "Decommit - St. Anselm - Went to usports Waterloo / Orig: Saint Anselm 3/25/25",
-      "to": ""
+      "pk": "comte|sophia",
+      "name": "Sophie Comte",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
     },
     {
-      "pk": "wright|kaidence",
-      "name": "Kaidence Wright",
-      "field": "Notable",
-      "from": "Decommitted from Lindenwood (Nov 2026), new destination TBD. No longer posted on Instagram / Orig: Lindenwood 9/3/25",
-      "to": ""
+      "pk": "comte|sophia",
+      "name": "Sophie Comte",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "comte|sophia",
+      "name": "Sophie Comte",
+      "field": "School",
+      "from": "",
+      "to": "Centre Scolaire Leo Remillard"
+    },
+    {
+      "pk": "convery|sinead",
+      "name": "Sinead Convery",
+      "field": "Country",
+      "from": "US",
+      "to": "CAN"
+    },
+    {
+      "pk": "convery|sinead",
+      "name": "Sinead Convery",
+      "field": "Grad",
+      "from": "",
+      "to": 2028
+    },
+    {
+      "pk": "convery|sinead",
+      "name": "Sinead Convery",
+      "field": "Height",
+      "from": "",
+      "to": "5'3\""
+    },
+    {
+      "pk": "convery|sinead",
+      "name": "Sinead Convery",
+      "field": "City",
+      "from": "",
+      "to": "Morden"
+    },
+    {
+      "pk": "convery|sinead",
+      "name": "Sinead Convery",
+      "field": "Team2026",
+      "from": "",
+      "to": "Pembina Valley Hawks U18"
+    },
+    {
+      "pk": "cormier|kaitlyn",
+      "name": "Kaitlyn Cormier",
+      "field": "Team2026",
+      "from": "East Ottawa Stars U18",
+      "to": "East Ottawa Stars U22"
+    },
+    {
+      "pk": "cotroneo|sienna",
+      "name": "Sienna Cotroneo",
+      "field": "City",
+      "from": "",
+      "to": "Winnipeg"
+    },
+    {
+      "pk": "cotroneo|sienna",
+      "name": "Sienna Cotroneo",
+      "field": "State",
+      "from": "",
+      "to": "MB"
+    },
+    {
+      "pk": "coufalova|barbora",
+      "name": "Barbora Coufalova",
+      "field": "Team2026",
+      "from": "OHA Gold U22",
+      "to": "OHA Mavericks Prep U18"
+    },
+    {
+      "pk": "coulombe|callie",
+      "name": "Callie Coulombe",
+      "field": "City",
+      "from": "",
+      "to": "St. Malo"
+    },
+    {
+      "pk": "coulombe|callie",
+      "name": "Callie Coulombe",
+      "field": "State",
+      "from": "",
+      "to": "MB"
     }
   ]
 }
