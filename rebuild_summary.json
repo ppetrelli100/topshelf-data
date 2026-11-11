@@ -1,14 +1,49 @@
 {
-  "generated": "2026-11-11T21:57:19.011Z",
+  "generated": "2026-11-11T22:39:05.384Z",
   "applied": [],
   "players": {
     "before": 13473,
-    "after": 13473
+    "after": 13472
   },
-  "removed": [],
+  "removed": [
+    "greengel|margaret"
+  ],
   "added": [],
-  "changedPlayers": 0,
-  "changedCells": 0,
-  "fieldDiffs": {},
-  "examples": []
+  "changedPlayers": 2,
+  "changedCells": 4,
+  "fieldDiffs": {
+    "School": 2,
+    "City": 1,
+    "College": 1
+  },
+  "examples": [
+    {
+      "pk": "greenagel|margaret",
+      "name": "Margaret Greenagel",
+      "field": "School",
+      "from": "Moorhead",
+      "to": "Moorhead HS"
+    },
+    {
+      "pk": "greenagel|margaret",
+      "name": "Margaret Greenagel",
+      "field": "City",
+      "from": "",
+      "to": "Fergus Falls"
+    },
+    {
+      "pk": "greenagel|margaret",
+      "name": "Margaret Greenagel",
+      "field": "College",
+      "from": "",
+      "to": "Sacred Heart"
+    },
+    {
+      "pk": "wright|kaidence",
+      "name": "Kaidence Wright",
+      "field": "School",
+      "from": "Frederick Gunn",
+      "to": ""
+    }
+  ]
 }
