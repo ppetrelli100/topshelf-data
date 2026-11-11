@@ -1,26 +1,14 @@
 {
-  "generated": "2026-11-11T20:16:51.434Z",
-  "applied": [
-    "NO MATCH     (already applied, or the source has changed) tourn/Name bull|kira: \"Kira Bull\" -> \"Kira Bui\"  [rosters.json + rosters_archive.json]"
-  ],
+  "generated": "2026-11-11T21:39:25.295Z",
+  "applied": [],
   "players": {
     "before": 13473,
     "after": 13473
   },
   "removed": [],
   "added": [],
-  "changedPlayers": 1,
-  "changedCells": 1,
-  "fieldDiffs": {
-    "Team": 1
-  },
-  "examples": [
-    {
-      "pk": "wolter|madeline",
-      "name": "Madeline Wolter",
-      "field": "Team",
-      "from": "",
-      "to": "Centennial/SLP HS"
-    }
-  ]
+  "changedPlayers": 0,
+  "changedCells": 0,
+  "fieldDiffs": {},
+  "examples": []
 }
