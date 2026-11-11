@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:48:19.109Z",
+  "generated": "2026-11-11T20:16:51.434Z",
   "applied": [
     "NO MATCH     (already applied, or the source has changed) tourn/Name bull|kira: \"Kira Bull\" -> \"Kira Bui\"  [rosters.json + rosters_archive.json]"
   ],
@@ -9,70 +9,18 @@
   },
   "removed": [],
   "added": [],
-  "changedPlayers": 3,
-  "changedCells": 8,
+  "changedPlayers": 1,
+  "changedCells": 1,
   "fieldDiffs": {
-    "Team": 2,
-    "College": 3,
-    "City": 1,
-    "School": 2
+    "Team": 1
   },
   "examples": [
     {
-      "pk": "godfrey|natasha",
-      "name": "Natasha Godfrey",
+      "pk": "wolter|madeline",
+      "name": "Madeline Wolter",
       "field": "Team",
-      "from": "Casco Bay Mariners",
-      "to": "Valley Jr Warriors"
-    },
-    {
-      "pk": "godfrey|natasha",
-      "name": "Natasha Godfrey",
-      "field": "College",
       "from": "",
-      "to": "Assumption"
-    },
-    {
-      "pk": "henderson|morgan",
-      "name": "Morgan Henderson",
-      "field": "City",
-      "from": "MA",
-      "to": "Braintree"
-    },
-    {
-      "pk": "henderson|morgan",
-      "name": "Morgan Henderson",
-      "field": "School",
-      "from": "",
-      "to": "NAHA"
-    },
-    {
-      "pk": "henderson|morgan",
-      "name": "Morgan Henderson",
-      "field": "College",
-      "from": "",
-      "to": "Franklin Pierce"
-    },
-    {
-      "pk": "wright|kaidence",
-      "name": "Kaidence Wright",
-      "field": "School",
-      "from": "Northwood School",
-      "to": "Frederick Gunn"
-    },
-    {
-      "pk": "wright|kaidence",
-      "name": "Kaidence Wright",
-      "field": "Team",
-      "from": "Northwood School",
-      "to": "Chicago Mission"
-    },
-    {
-      "pk": "wright|kaidence",
-      "name": "Kaidence Wright",
-      "field": "College",
-      "from": "Lindenwood",
-      "to": "Franklin Pierce"
+      "to": "Centennial/SLP HS"
     }
   ]
 }
