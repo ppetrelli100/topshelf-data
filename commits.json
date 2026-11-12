@@ -21177,8 +21177,8 @@
   },
   {
     "NAME": "Sydney Bowness",
-    "College": "Boston University",
-    "Conference": "Hockey East",
+    "College": "",
+    "Conference": "",
     "DOB": "2/27/09",
     "CURRENT TEAM": "Etobicoke Jr. Dolphins",
     "Type": "Club-Canada",
@@ -21207,9 +21207,13 @@
     "Yr1": "",
     "Yr2": "TmON-B",
     "Yr3": "ONcamp",
-    "Insta": "https://www.instagram.com/p/DLdsEOlAyEM/",
+    "Insta": "https://www.instagram.com/sydneybowness27/",
     "Highest": "TmON-B",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Boston University",
+    "Orig Commit": "6/28/25",
+    "Decommit Notes": "Decommit - Boston University - Commit not on insta as of 11/12/26"
   },
   {
     "NAME": "Aubryn Monter",
