@@ -20517,7 +20517,7 @@
     "Yr3": "TmBC",
     "Insta": "https://www.instagram.com/p/DKCz0tvp4N4/",
     "Highest": "TmBC",
-    "Signed": ""
+    "Signed": "11/11/2026"
   },
   {
     "NAME": "Briella Van Dusseldorp",
@@ -23381,12 +23381,12 @@
     "Yr3": "U1617",
     "Insta": "https://www.instagram.com/p/DM6VgnEMpPP/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "11/11/2026"
   },
   {
     "NAME": "Maddie Minucci",
-    "College": "Lindenwood",
-    "Conference": "AHA",
+    "College": "",
+    "Conference": "",
     "DOB": "07/00/09",
     "CURRENT TEAM": "Lovell Academy",
     "Type": "Hockey Academy",
@@ -23415,9 +23415,13 @@
     "Yr1": "U15",
     "Yr2": "",
     "Yr3": "",
-    "Insta": "https://www.instagram.com/p/DNBdqaZJt8y/?img_index=1",
+    "Insta": "https://www.instagram.com/maddieminucci/",
     "Highest": "U15",
-    "Signed": ""
+    "Signed": "",
+    "Decommit": "Y",
+    "Orig School": "Lindenwood",
+    "Orig Commit": "8/6/25",
+    "Decommit Notes": "Decommit - Lindenwood - Commit not on insta as of 11/12/26"
   },
   {
     "NAME": "Juliette Thibault",
@@ -29513,7 +29517,7 @@
     "Yr3": "WNT-O",
     "Insta": "https://www.instagram.com/p/DRCcmFeCFhL/",
     "Highest": "WNT-O",
-    "Signed": ""
+    "Signed": "11/11/2026"
   },
   {
     "NAME": "Anabelle Bednarz",
@@ -29697,7 +29701,7 @@
     "Yr3": "WNT-O",
     "Insta": "https://www.instagram.com/p/DRKdzbhCH-C/",
     "Highest": "WNT-O",
-    "Signed": ""
+    "Signed": "11/11/2026"
   },
   {
     "NAME": "Pauliina Salonen",
