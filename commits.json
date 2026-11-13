@@ -31989,8 +31989,8 @@
   },
   {
     "NAME": "Anna Brenkle",
-    "College": "Mercyhurst",
-    "Conference": "AHA",
+    "College": "",
+    "Conference": "",
     "DOB": "3/18/06",
     "CURRENT TEAM": "Brynas IF",
     "Type": "International",
@@ -32022,8 +32022,10 @@
     "Insta": "https://www.instagram.com/_annabrenkle/",
     "Highest": "WNT-O",
     "Signed": "",
-    "Decommit": "Possible",
-    "Decommit Notes": "Possible decommit (Nov 2026) - signed for 2026-27 but never made Mercyhurst roster"
+    "Decommit": "Y",
+    "Orig School": "Mercyhurst",
+    "Orig Commit": "4/17/26",
+    "Decommit Notes": "Decommit - Mercyhurst - signed for 2026-27 but never made Mercyhurst roster"
   },
   {
     "NAME": "Taylor Elliott",
