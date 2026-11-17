@@ -1,14 +1,87 @@
 {
-  "generated": "2026-11-12T16:36:19.495Z",
+  "generated": "2026-11-17T14:46:59.733Z",
   "applied": [],
   "players": {
     "before": 13472,
-    "after": 13472
+    "after": 13473
   },
   "removed": [],
-  "added": [],
-  "changedPlayers": 0,
-  "changedCells": 0,
-  "fieldDiffs": {},
-  "examples": []
+  "added": [
+    "kujahalkola|kerttu"
+  ],
+  "changedPlayers": 5,
+  "changedCells": 9,
+  "fieldDiffs": {
+    "Notable": 4,
+    "DOBPartial": 1,
+    "Team": 1,
+    "DOB": 1,
+    "School": 1,
+    "College": 1
+  },
+  "examples": [
+    {
+      "pk": "burch|hunter",
+      "name": "Hunter Burch",
+      "field": "Notable",
+      "from": "Will do gap year",
+      "to": "Doing gap year per player"
+    },
+    {
+      "pk": "hrubeniuk|ava",
+      "name": "Ava Hrubeniuk",
+      "field": "Notable",
+      "from": "",
+      "to": "Likely Gap Year - not announced by St Cloud, Committed Late Nov '26"
+    },
+    {
+      "pk": "levins|lena",
+      "name": "Lena Levins",
+      "field": "Notable",
+      "from": "",
+      "to": "Not posted by Minnesota State as signed as of 11.13.26 (rest of class posted), moved to 2028-29"
+    },
+    {
+      "pk": "miller|emersyn",
+      "name": "Emersyn Miller",
+      "field": "Notable",
+      "from": "",
+      "to": "Posted Signed by Club Team 11.15.26"
+    },
+    {
+      "pk": "zuck|annette",
+      "name": "Annette Zuck",
+      "field": "DOBPartial",
+      "from": "8/2009",
+      "to": ""
+    },
+    {
+      "pk": "zuck|annette",
+      "name": "Annette Zuck",
+      "field": "Team",
+      "from": "NJ Colonials",
+      "to": "Northwood School"
+    },
+    {
+      "pk": "zuck|annette",
+      "name": "Annette Zuck",
+      "field": "DOB",
+      "from": "",
+      "to": "8/14/2009"
+    },
+    {
+      "pk": "zuck|annette",
+      "name": "Annette Zuck",
+      "field": "School",
+      "from": "",
+      "to": "Northwood School"
+    },
+    {
+      "pk": "zuck|annette",
+      "name": "Annette Zuck",
+      "field": "College",
+      "from": "",
+      "to": "Providence"
+    }
+  ]
 }
