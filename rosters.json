@@ -188978,10 +188978,12 @@
       "club": "Valley Jr. Warriors",
       "lvl": "16U",
       "levels": [
-        "16U"
+        "16U",
+        "U16"
       ],
       "raw": [
-        "Valley Jr. Warriors 16U"
+        "Valley Jr. Warriors 16U",
+        "Valley Jr Warriors U16"
       ],
       "tourneys": [
         "Misc"
@@ -188996,7 +188998,8 @@
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "New Hampton School"
         },
         {
           "pk": "lacey|ava",
@@ -189007,7 +189010,8 @@
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Phillips Exeter Academy"
         },
         {
           "pk": "lucier|avery",
@@ -189018,7 +189022,8 @@
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "New Hampton School"
         },
         {
           "pk": "oconnor|mikaylah",
@@ -189029,7 +189034,8 @@
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "New Hampton School"
         },
         {
           "pk": "poirier|emilie",
@@ -189040,7 +189046,8 @@
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "New Hampton School"
         },
         {
           "pk": "trytek|lydia",
@@ -189051,7 +189058,8 @@
           "rp": "D",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Brooks School"
         },
         {
           "pk": "averill|elizabeth",
@@ -189062,7 +189070,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Phillips Andover, Academy"
         },
         {
           "pk": "bergeron|riley",
@@ -189073,7 +189082,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Brooks School"
         },
         {
           "pk": "brille|sabrina",
@@ -189084,7 +189094,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Phillips Andover, Academy"
         },
         {
           "pk": "clancy|kylie",
@@ -189095,7 +189106,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "New Hampton School"
         },
         {
           "pk": "coskren|aleesa",
@@ -189106,7 +189118,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Middlesex School"
         },
         {
           "pk": "giampa|olivia",
@@ -189117,7 +189130,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Choate Rosemary Hall"
         },
         {
           "pk": "hutchins|avery",
@@ -189128,7 +189142,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Phillips Andover, Academy"
         },
         {
           "pk": "insogna|peyton",
@@ -189139,7 +189154,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Holderness School"
         },
         {
           "pk": "laganas|eleanor",
@@ -189150,7 +189166,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Phillips Exeter Academy"
         },
         {
           "pk": "mckenna|riley",
@@ -189161,7 +189178,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "New Hampton School"
         },
         {
           "pk": "warrington|caroline",
@@ -189172,7 +189190,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "St. Paul's School"
         },
         {
           "pk": "weaver|reese",
@@ -189183,7 +189202,8 @@
           "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "NYA"
         },
         {
           "pk": "drew|erin",
@@ -189194,7 +189214,8 @@
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "St. Mark's School"
         },
         {
           "pk": "jonas|heidi",
@@ -189205,7 +189226,8 @@
           "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "BB&N"
         }
       ]
     },
