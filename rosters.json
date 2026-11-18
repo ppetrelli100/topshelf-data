@@ -40725,7 +40725,7 @@
       ]
     },
     {
-      "team": "CT Polar Bears 19U",
+      "team": "CT Polar Bears 19U Major",
       "country": "US",
       "club": "CT Polar Bears",
       "lvl": "19U",
@@ -95894,7 +95894,7 @@
       ]
     },
     {
-      "team": "CT Polar Bears 19U",
+      "team": "CT Polar Bears 19U Major",
       "country": "US",
       "club": "CT Polar Bears",
       "lvl": "19U",
@@ -144600,12 +144600,36 @@
         "U22"
       ],
       "raw": [
-        "Masters Academy 19U"
+        "Masters Academy 19U",
+        "Masters Academy International"
       ],
       "tourneys": [
-        "Stoney"
+        "Stoney",
+        "Misc"
       ],
       "players": [
+        {
+          "pk": "bailey|liddi",
+          "n": "8",
+          "name": "Liddi Bailey",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ]
+        },
+        {
+          "pk": "lindsey|emmylou",
+          "n": "21",
+          "name": "Emmylou Lindsey",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ]
+        },
         {
           "pk": "taylor|brooklyn",
           "n": "3",
@@ -171343,7 +171367,7 @@
       ]
     },
     {
-      "team": "CT Polar Bears 19U",
+      "team": "CT Polar Bears 19U Major",
       "country": "US",
       "club": "CT Polar Bears",
       "lvl": "19U",
@@ -171351,10 +171375,12 @@
         "19U"
       ],
       "raw": [
-        "CT Polar Bears 19U"
+        "CT Polar Bears 19U",
+        "CT Polar Bears U19 Major"
       ],
       "tourneys": [
-        "Pittsburgh"
+        "Pittsburgh",
+        "Misc"
       ],
       "players": [
         {
@@ -171410,6 +171436,17 @@
           "rp": "D",
           "t": [
             "Pittsburgh"
+          ]
+        },
+        {
+          "pk": "macdonald|taryn",
+          "n": "15",
+          "name": "Taryn MacDonald",
+          "ry": "",
+          "rg": "2027",
+          "rp": "D",
+          "t": [
+            "Misc"
           ]
         },
         {
