@@ -181132,135 +181132,184 @@
       "club": "CPC Boston Americans",
       "lvl": "16U",
       "levels": [
-        "U16"
+        "U16",
+        "16U"
       ],
       "raw": [
-        "Boston Americans 16-1"
+        "Boston Americans 16-1",
+        "Boston Americans 16U"
       ],
       "tourneys": [
         "Misc"
       ],
       "players": [
         {
-          "pk": "gropman|abigail",
-          "n": "",
-          "name": "Abigail Gropman",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "snell|kendra",
-          "n": "",
-          "name": "Kendra Snell",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "ling|cassandra",
-          "n": "",
-          "name": "Cassie Ling",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "henley|jennavieve",
-          "n": "",
-          "name": "Jennavieve Henley",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "curran|payton",
-          "n": "",
-          "name": "Payton Curran",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "bierschied|taylor",
-          "n": "",
-          "name": "Taylor Bierschied",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "tabor|elliana",
-          "n": "",
-          "name": "Elliana Tabor",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
           "pk": "dipietro|lyla",
-          "n": "",
+          "n": "11",
           "name": "Lyla Dipietro",
           "ry": "",
-          "rg": "",
-          "rp": "",
+          "rg": "2030",
+          "rp": "D",
           "t": [
             "Misc"
-          ]
-        },
-        {
-          "pk": "louie|jacqueline",
-          "n": "",
-          "name": "Jacqueline Louie",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
+          ],
+          "school": "Rivers"
         },
         {
           "pk": "burns|joelle",
-          "n": "",
+          "n": "10",
           "name": "Joelle Burns",
           "ry": "",
-          "rg": "",
-          "rp": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ],
+          "school": "Rivers"
+        },
+        {
+          "pk": "deroeve|emery",
+          "n": "13",
+          "name": "Emery DeRoeve",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ],
+          "school": "Thayer"
+        },
+        {
+          "pk": "eyster|grace",
+          "n": "55",
+          "name": "Grace Eyster",
+          "ry": "",
+          "rg": "2030",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ],
+          "school": "Thayer"
+        },
+        {
+          "pk": "long|ashley",
+          "n": "29",
+          "name": "Ashley Long",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "t": [
+            "Misc"
+          ],
+          "school": "Brooks"
+        },
+        {
+          "pk": "white|rylee",
+          "n": "18",
+          "name": "Rylee White",
+          "ry": "",
+          "rg": "2029",
+          "rp": "D",
+          "school": "Berwick",
           "t": [
             "Misc"
           ]
         },
         {
-          "pk": "deroeve|emery",
-          "n": "",
-          "name": "Emery DeRoeve",
+          "pk": "gropman|abigail",
+          "n": "3",
+          "name": "Abigail Gropman",
           "ry": "",
-          "rg": "",
-          "rp": "",
+          "rg": "2030",
+          "rp": "F",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Lawrence"
+        },
+        {
+          "pk": "snell|kendra",
+          "n": "27",
+          "name": "Kendra Snell",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "school": "Rivers"
+        },
+        {
+          "pk": "ling|cassandra",
+          "n": "21",
+          "name": "Cassie Ling",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "school": "Brooks"
+        },
+        {
+          "pk": "henley|jennavieve",
+          "n": "17",
+          "name": "Jennavieve Henley",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "school": "Thayer"
+        },
+        {
+          "pk": "curran|payton",
+          "n": "7",
+          "name": "Payton Curran",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "school": "Reading HS"
+        },
+        {
+          "pk": "bierschied|taylor",
+          "n": "22",
+          "name": "Taylor Bierschied",
+          "ry": "",
+          "rg": "2030",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "school": "Brooks"
+        },
+        {
+          "pk": "tabor|elliana",
+          "n": "8",
+          "name": "Elliana Tabor",
+          "ry": "",
+          "rg": "2028",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "school": "Thayer"
+        },
+        {
+          "pk": "louie|jacqueline",
+          "n": "12",
+          "name": "Jacqueline Louie",
+          "ry": "",
+          "rg": "2029",
+          "rp": "F",
+          "t": [
+            "Misc"
+          ],
+          "school": "Andover"
         },
         {
           "pk": "eyster|rylee",
@@ -181275,58 +181324,39 @@
         },
         {
           "pk": "buckler|shelby",
-          "n": "",
+          "n": "26",
           "name": "Shelby Buckler",
           "ry": "",
-          "rg": "",
-          "rp": "",
+          "rg": "2029",
+          "rp": "F",
           "t": [
             "Misc"
-          ]
-        },
-        {
-          "pk": "eyster|grace",
-          "n": "",
-          "name": "Grace Eyster",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
-        },
-        {
-          "pk": "long|ashley",
-          "n": "",
-          "name": "Ashley Long",
-          "ry": "",
-          "rg": "",
-          "rp": "",
-          "t": [
-            "Misc"
-          ]
+          ],
+          "school": "Brooks"
         },
         {
           "pk": "phinney|maeve",
-          "n": "",
+          "n": "30",
           "name": "Maeve Phinney",
           "ry": "",
-          "rg": "",
-          "rp": "",
+          "rg": "2029",
+          "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Brooks"
         },
         {
           "pk": "holland|elise",
-          "n": "",
+          "n": "33",
           "name": "Elise Holland",
           "ry": "",
-          "rg": "",
-          "rp": "",
+          "rg": "2030",
+          "rp": "G",
           "t": [
             "Misc"
-          ]
+          ],
+          "school": "Rivers"
         }
       ]
     },
