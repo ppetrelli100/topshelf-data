@@ -184108,10 +184108,12 @@
       "club": "Shattuck-St. Mary's",
       "lvl": "16U",
       "levels": [
-        "16U"
+        "16U",
+        "U16"
       ],
       "raw": [
-        "Shattuck St. Mary's"
+        "Shattuck St. Mary's",
+        "Shattuck St. Mary's U16"
       ],
       "tourneys": [
         "Misc"
