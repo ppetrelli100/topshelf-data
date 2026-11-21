@@ -20,3 +20,12 @@ When a later export contains the same game, the export wins automatically (match
 
 ## Conventions used for portal games (change in the spec `defaults`/`alias` if needed)
 tracked_team = home team, is_opponent = 1 for the away side, result REGULATION, age_bracket 'Unlabeled' (high school), event_type 'League / season', league_family 'Prep / high school', country 'Unknown', tracked_in_topshelf 'N', competition_label = the portal season name. Players join the hub by name (firstNameMap overrides apply); positions come from master.json when the player is in it.
+
+## Hudl games captured by hand (`hudl_<date>_<name>.txt` + `.json`)
+Same idea as the TPE batches, for Hudl Instat games the export does not hold yet. Read by `tools/hudl_extras.py`, appended by `tools/build_hub_hudl.py` on every run.
+- `.txt` = one block per Hudl match: `#<match id>`, `T0|<team>` / `T1|<team>` skater rows, `G0` / `G1` goalie rows (pipe separated, `jersey~name` first; column order in the `.json` `skater_fields` / `goalie_fields`). Captured from the match page's **Skaters** and **Goalies** tabs (Hudl hides the full 133-column table behind that tab; we keep the same ~35 fields the export carries: TOI, shifts, PP/SH time, shots, plus/minus, faceoffs by zone, Corsi/Fenwick, xG, goals/points, penalties).
+- `.json` = per match: date, competition, home/away, score.
+- A match is skipped once the export holds it (matched on `game.source_record_id` = the number in `/matches/<id>`), so nothing double counts when a newer export arrives.
+- Team names: the Hudl-side name is kept (same Hudl team in other games, else the name as captured). A game both platforms hold (date +-1 day, 5+ shared players on a TPE game) shares that game's identity, so TPE+Hudl never double count.
+- Hudl matches with unnamed players ("Hudl player ####" / "noname noname") are dropped by the placeholder filter, as for the export.
+- 2026-11-21: 9 Lovell Academy 16U AAA games (2233016, 2276925, 2278259, 2283754, 2285451, 2285489, 2285496, 2286088, 2286110).

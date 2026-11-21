@@ -1,0 +1,16 @@
+{"batch": "hudl_2026-11-21_lovell",
+ "source": "Hudl Instat web app (logged in), match Skaters + Goalies tabs, captured 2026-11-21",
+ "note": "Games on Lovell Academy 16U AAA's Hudl page that the 2026-10-31 export does not contain. Rows live in hudl_2026-11-21_lovell.txt: '#<hudl match id>', 'T0|<team>' / 'T1|<team>' skater blocks, 'G0'/'G1' goalie blocks (team order = T0, T1).",
+ "skater_fields": ["name", "pos", "toi", "shifts", "g", "a1", "a2", "p", "pm", "pea", "pen", "fo", "fow", "fol", "s", "sog", "sbl", "miss", "ppt", "sht", "pe", "cf", "ca", "ff", "fa", "xg", "xgon", "xgopp", "fod", "fodw", "fon", "fonw", "foa", "foaw", "wgt", "hgt"],
+ "goalie_fields": ["name", "toi", "ga", "sa", "sv", "xgc"],
+ "games": {
+  "2233016": {"date": "2026-09-05", "competition": "NAHA Labor Day Tournament U16", "home": "Lovell Academy 16U AAA", "away": "Team Colorado 16U", "hs": 2, "as": 0},
+  "2276925": {"date": "2026-10-24", "competition": "USA/Canada Cup", "home": "Lovell Academy 16U AAA", "away": "OHA Mavericks Prep U18 AA", "hs": 3, "as": 0},
+  "2278259": {"date": "2026-10-25", "competition": "USA/Canada Cup", "home": "Lovell Academy 16U AAA", "away": "Dallas Stars Elite Girls 16U T1", "hs": 8, "as": 1},
+  "2283754": {"date": "2026-11-06", "competition": "PIP Roc City Girls Fest", "home": "Scarborough Sharks U18 AA", "away": "Lovell Academy 16U AAA", "hs": 0, "as": 5},
+  "2285451": {"date": "2026-11-08", "competition": "PIP Roc City Girls Fest", "home": "OHA Mavericks Prep U18 AA", "away": "Lovell Academy 16U AAA", "hs": 2, "as": 3},
+  "2285489": {"date": "2026-11-07", "competition": "PIP Roc City Girls Fest", "home": "Lovell Academy 16U AAA", "away": "San Jose Jr. Sharks 16U AAA Girls", "hs": 7, "as": 1},
+  "2285496": {"date": "2026-11-08", "competition": "PIP Roc City Girls Fest", "home": "Bishop Kearney Selects 16U", "away": "Lovell Academy 16U AAA", "hs": 2, "as": 1},
+  "2286088": {"date": "2026-10-17", "competition": "Minnesota NIT", "home": "Pittsburgh Penguins Elite 16U Girls", "away": "Lovell Academy 16U AAA", "hs": 0, "as": 3},
+  "2286110": {"date": "2026-11-07", "competition": "PIP Roc City Girls Fest", "home": "Lovell Academy 16U AAA", "away": "Pittsburgh Penguins Elite 16U Girls", "hs": 5, "as": 1}
+ }}

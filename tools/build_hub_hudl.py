@@ -37,8 +37,9 @@ tpe_season = {i: r[2] for i, r in enumerate(GROW)}        # hub_games col 2 = se
 
 # ---------- Hudl games ----------
 season = rd('season.csv'); SEASON = dict(zip(season.id, season.name)); SI = {s: i for i, s in enumerate(SEAS)}
-game = rd('game.csv', usecols=['id', 'game_date', 'season_id', 'source_system'])
+game = rd('game.csv', usecols=['id', 'game_date', 'season_id', 'source_system', 'source_record_id'])
 hg = game[game.source_system == 'hudl'].copy()
+HAVE_H = set(hg.source_record_id.astype(str))          # Hudl match ids the export already holds
 _wp = os.path.join(OUT, 'hub_season_window.json')
 WSTART = json.load(open(_wp, encoding='utf-8'))['starts'] if os.path.exists(_wp) else {}
 _n0 = len(hg); hg = hg[[(str(d)[:10] >= WSTART.get(SEASON.get(sid), "0000")) for sid, d in zip(hg.season_id, hg.game_date)]].copy()
@@ -99,13 +100,60 @@ ALIAS = {hn: c.most_common(1)[0][0] for hn, c in votes.items()}
 print('Hudl team names linked to a TPE team:', len(ALIAS), '|', sum(1 for h, t in ALIAS.items() if h != t), 'differ in spelling')
 pgs['team_name'] = pgs.team_name.map(lambda n: ALIAS.get(n, n))
 
+# ---------- hand-captured Hudl games (hub_extras/hudl_*.txt, see tools/hudl_extras.py): appended on every build, the export wins when it holds the same Hudl match ----------
+sys.path.insert(0, os.path.join(TSD, 'tools')); import hudl_extras, datetime
+EXREAL = {}; EXDATE = {}; XMAP = {}       # XMAP: (real game, Hudl team name) -> TPE team name of the same side, so coverage masks line up when the two platforms spell a team differently
+_xr, _xg = hudl_extras.load(os.path.join(TSD, 'hub_extras'), HAVE_H)
+_starts = sorted(WSTART.items(), key=lambda kv: kv[1])
+def _season_of(d):
+    ok = [n for n, st in _starts if d >= st]
+    return ok[-1] if ok else None
+if _xr:
+    ex = pd.DataFrame(_xr); ex['season'] = ex.date.map(_season_of)
+    _drop = ex[ex.season.isna()].hid.nunique(); ex = ex[ex.season.notna()].copy()
+    ex = ex[ex.toi_seconds > 0].copy()
+    _t = os.path.join(tempfile.gettempdir(), 'hub_hudl_xpk_%d.json' % os.getpid())
+    json.dump([{'id': i, 'n': n} for i, n in enumerate(sorted(ex.name.unique()))], open(_t, 'w')); subprocess.run(['node', '-e', js, TSD, _t], check=True)
+    _pk = {x['n']: x['pk'] for x in json.load(open(_t))}; os.remove(_t)
+    ex['pk'] = ex.name.map(_pk); ex['hname'] = ex.name
+    ex = ex[~(ex.hname.map(lambda n: bool(PH.search(n))) | ex.pk.map(lambda k: k.startswith('|') or k.endswith('|') or k == ''))].copy()
+    ex['game_id'] = 'hx' + ex.hid
+    # team names: first the TPE game on that date (+-1 day) with the most shared players, else the Hudl team (any date) with the most shared players
+    tpe_by_date = collections.defaultdict(list)
+    for gi, r in enumerate(GROW): tpe_by_date[r[1]].append(gi)
+    hud_sets = collections.defaultdict(set)
+    for tn, k in zip(pgs.team_name, pgs.pk): hud_sets[tn].add(k)
+    _paired = 0; amap = {}
+    for hid, g in ex.groupby('hid'):
+        d0 = datetime.date.fromisoformat(g.date.iloc[0]); sets = {tn: set(x.pk[x.pos != 'G']) for tn, x in g.groupby('team')}
+        best = None
+        for dd in (0, -1, 1):
+            for gi in tpe_by_date.get((d0 + datetime.timedelta(days=dd)).isoformat(), []):
+                if gi not in tpe_pks: continue
+                sc = sum(max([len(v & st) for v in tpe_pks[gi].values()] + [0]) for st in sets.values())
+                if sc >= 5 and (best is None or sc > best[0]): best = (sc, gi)
+        for tn, st in sets.items():     # the Hudl-side name: the Hudl team (any date) sharing the most players, else this capture's own name
+            t2 = max(hud_sets.items(), key=lambda kv: len(kv[1] & st), default=None)
+            amap[(hid, tn)] = t2[0] if t2 and len(t2[1] & st) >= 5 else ALIAS.get(tn, tn)
+        if best:
+            gi = best[1]; EXREAL['hx' + hid] = ('t', gi); _paired += 1
+            for tn, st in sets.items():
+                t2 = max(tpe_pks[gi].items(), key=lambda kv: len(kv[1] & st))
+                if len(t2[1] & st) >= 5 and t2[0] != amap[(hid, tn)]: XMAP[(('t', gi), amap[(hid, tn)])] = t2[0]
+    ex['team_name'] = [amap.get((h, t), t) for h, t in zip(ex.hid, ex.team)]
+    ex['pos'] = ex.pos.where(ex.pos.isin(['F', 'D', 'G']), '?')
+    for h, dte in zip(ex.hid, ex.date): EXDATE['hx' + h] = dte
+    pgs = pd.concat([pgs, ex[[c for c in ex.columns if c in pgs.columns or c in ('hname', 'pk')]]], ignore_index=True)
+    print('hub_extras Hudl: %d game(s), %d player-games added (%d paired to a TPE game, %d before the season window)' % (ex.hid.nunique(), len(ex), _paired, _drop))
+    for k, v in sorted({(h, t): n for (h, t), n in amap.items()}.items()): print('   hudl %s  %-34s -> %s' % (k[0], k[1], v))
+
 # ---------- one real game per (game, team): Hudl games paired to TPE take the TPE game's identity; others dedupe on date + teams ----------
 gteams = pgs.groupby('game_id').team_name.apply(lambda s: frozenset(s.unique()))
-gdate = dict(zip(hg.id, hg.game_date.astype(str)))
+gdate = dict(zip(hg.id, hg.game_date.astype(str))); gdate.update(EXDATE)
 real = {}
 for g in sorted(pgs.game_id.unique()):
     t = PAIR.get(g)
-    real[g] = ('t', tpe_gid[t]) if t in tpe_gid else ('h', gdate[g], gteams[g])
+    real[g] = EXREAL[g] if g in EXREAL else ('t', tpe_gid[t]) if t in tpe_gid else ('h', gdate[g], gteams[g])
 pgs['real'] = pgs.game_id.map(real)
 # keep the first Hudl game (by id) per (real game, team)
 first = pgs.groupby(['real', 'team_name']).game_id.transform('min')
@@ -115,7 +163,7 @@ print('Hudl duplicate team-game rows removed:', dups)
 # ---------- coverage + merged TOI rows ----------
 cov = collections.defaultdict(int)                        # (real, team) -> mask
 for (gi, tn) in tpe_rows: cov[(('t', gi), tn)] |= 1
-for r, tn in pgs[['real', 'team_name']].drop_duplicates().itertuples(index=False): cov[(r, tn)] |= 2
+for r, tn in pgs[['real', 'team_name']].drop_duplicates().itertuples(index=False): cov[(r, XMAP.get((r, tn), tn))] |= 2
 agg = collections.defaultdict(lambda: [0, 0, 0, 0, 0]); name_of = {}; counts = collections.defaultdict(lambda: [0, 0])
 TI = {t: i for i, t in enumerate(TEAMS)}
 extra_teams = []
@@ -132,7 +180,7 @@ pgs['si'] = pgs.season.map(SI)
 sk = pgs[pgs.pos != 'G']
 tg = sk.groupby(['real', 'team_name'])
 for (r, tn), grp in tg:
-    m = cov[(r, tn)]; ti = ti_of(tn); si = int(grp.si.iloc[0])
+    m = cov[(r, XMAP.get((r, tn), tn))]; ti = ti_of(tn); si = int(grp.si.iloc[0])
     for row in grp.itertuples(index=False):
         a = agg[(ti, si, row.pk, 1, m, row.pos)]; a[0] += 1; a[1] += int(row.toi_seconds); a[2] += int(row.shifts or 0)
         a[3] += int(row.pp_toi_seconds or 0); a[4] += int(row.pk_toi_seconds or 0)
