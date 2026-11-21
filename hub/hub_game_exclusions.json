@@ -1,0 +1,15 @@
+{
+ "_note": "Hand-edited. TPE games dropped from the hub build (matched on game.csv source_record_id = TPE game id). Use for games TPE tags with the wrong team (verified by jersey numbers / the team's own portal page).",
+ "games": [
+  {
+   "tpe_id": 171746,
+   "date": "2026-10-17",
+   "reason": "Team Colorado U16 W 5-0: TPE labels the opponent 'Lovell Academy Lions U16 T1' but it is not Lovell (jerseys 8,11,13,14,16,22,28,29,44,62,66,81,86,87,92 do not match Lovell's roster; not on Lovell portal team 9046)"
+  },
+  {
+   "tpe_id": 171748,
+   "date": "2026-10-16",
+   "reason": "Fox Motors U16 W 3-2: same mislabeled 'Lovell Academy Lions U16 T1' side as 171746 (same 15 jerseys); not on Lovell portal team 9046"
+  }
+ ]
+}
