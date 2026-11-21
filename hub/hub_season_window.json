@@ -1,0 +1,9 @@
+{
+ "note": "A season counts games from `start` onward (through the day before the next season's start). Start = Aug 1, matching the export's own season windows; the export also files some July games under the new season label (summer/camp games, different teams) and those are dropped. Edit a date to move the line.",
+ "starts": {
+  "2023–24": "2023-08-01",
+  "2024–25": "2024-08-01",
+  "2025–26": "2025-08-01",
+  "2026–27": "2026-08-01"
+ }
+}

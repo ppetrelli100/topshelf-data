@@ -39,6 +39,10 @@ tpe_season = {i: r[2] for i, r in enumerate(GROW)}        # hub_games col 2 = se
 season = rd('season.csv'); SEASON = dict(zip(season.id, season.name)); SI = {s: i for i, s in enumerate(SEAS)}
 game = rd('game.csv', usecols=['id', 'game_date', 'season_id', 'source_system'])
 hg = game[game.source_system == 'hudl'].copy()
+_wp = os.path.join(OUT, 'hub_season_window.json')
+WSTART = json.load(open(_wp, encoding='utf-8'))['starts'] if os.path.exists(_wp) else {}
+_n0 = len(hg); hg = hg[[(str(d)[:10] >= WSTART.get(SEASON.get(sid), "0000")) for sid, d in zip(hg.season_id, hg.game_date)]].copy()
+print('season window: dropped %d Hudl game(s) dated before their season start' % (_n0 - len(hg)))
 team = rd('team.csv'); ident = rd('team_identity.csv'); IDN = dict(zip(ident.id, ident.name))
 TEAM = {i: (IDN[idn] if isinstance(idn, str) and idn in IDN else nm) for i, idn, nm in zip(team.id, team.identity_id, team.name)}
 pair = rd('hudl_game_pair.csv'); PAIR = dict(zip(pair.hudl_game_id, pair.tpe_game_id))

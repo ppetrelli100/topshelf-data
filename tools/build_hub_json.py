@@ -57,6 +57,16 @@ if EXTRA:
     for g in EXTRA:
         for r in g['rows']: TEAM[r['team_id']] = r['team_name']
 
+# ---------- season window: a season starts the Friday of Labor Day weekend (hub/hub_season_window.json) ----------
+# The export files summer / camp / preseason games under the new season label; those are different teams, so they are dropped.
+_wp = os.path.join(OUT, 'hub_season_window.json')
+WSTART = json.load(open(_wp, encoding='utf-8'))['starts'] if os.path.exists(_wp) else {}
+def _in_window(sname, d):
+    st = WSTART.get(sname); return True if not st else str(d)[:10] >= st
+_n1 = len(tpe)
+tpe = tpe[[ _in_window(SEASON.get(sid), d) for sid, d in zip(tpe.season_id, tpe.game_date)]].copy()
+print('season window: dropped %d TPE game(s) dated before their season start' % (_n1 - len(tpe)))
+
 # ---------- player stats (TPE only) ----------
 PGS = ['id', 'game_id', 'player_id', 'team_id', 'is_opponent', 'toi_seconds', 'shifts', 'goals', 'assists',
        'primary_assists', 'secondary_assists', 'shots_on_goal', 'shot_attempts', 'blocked_shots', 'scoring_chances',
