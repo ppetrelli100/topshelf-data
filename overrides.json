@@ -32,6 +32,7 @@
     {"personkey": "hunter|hayley", "field": "College", "value": "", "notes": "Old-roster collision; real 2013 (Chicago Mission 14U) uncommitted, Cortland was a different Hayley Hunter"},
     {"personkey": "engfer|finley", "field": "College", "value": "", "notes": "Decommit from Providence (Oct 2026); legacy College would otherwise keep Providence"},
     {"personkey": "wright|kaidence", "field": "School", "value": "", "notes": "No longer at Frederick Gunn (NDC still lists it); now Chicago Mission 19U, school unknown. MJE 11/11/26"},
-    {"personkey": "tyksinski|addison", "field": "Position", "value": "F"}
+    {"personkey": "tyksinski|addison", "field": "Position", "value": "F"},
+    {"personkey": "landry|annabelle", "field": "Position", "value": "F"}
   ]
 }
