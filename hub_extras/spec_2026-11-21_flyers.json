@@ -1,0 +1,53 @@
+{
+ "batch": "2026-11-21 Philadelphia Jr. Flyers U16 T1 (4 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21",
+ "team_ids": {
+  "Philadelphia Jr. Flyers U16 T1 W": 5019,
+  "Stanstead College Spartans U16 (Prep) W": 8794,
+  "College Bourget Voltigeurs U16 (Prep) W": 10202,
+  "Winchendon School Wapiti U16 (Prep) W": 9345,
+  "Mount Academy Saints U16 (Prep) W": 13537
+ },
+ "alias": {
+  "Philadelphia Jr. Flyers U16 T1 W": "Philadelphia Jr. Flyers U16 T1"
+ },
+ "defaults": {},
+ "games": [
+  {
+   "tpe_id": 174305,
+   "date": "2026-11-15",
+   "home": "Philadelphia Jr. Flyers U16 T1 W",
+   "away": "Stanstead College Spartans U16 (Prep) W",
+   "home_score": 4,
+   "away_score": 1,
+   "competition": "JWHL U16 26/27"
+  },
+  {
+   "tpe_id": 174307,
+   "date": "2026-11-14",
+   "home": "Philadelphia Jr. Flyers U16 T1 W",
+   "away": "College Bourget Voltigeurs U16 (Prep) W",
+   "home_score": 5,
+   "away_score": 4,
+   "competition": "JWHL U16 26/27"
+  },
+  {
+   "tpe_id": 174308,
+   "date": "2026-11-14",
+   "home": "Winchendon School Wapiti U16 (Prep) W",
+   "away": "Philadelphia Jr. Flyers U16 T1 W",
+   "home_score": 1,
+   "away_score": 6,
+   "competition": "JWHL U16 26/27"
+  },
+  {
+   "tpe_id": 174306,
+   "date": "2026-11-13",
+   "home": "Philadelphia Jr. Flyers U16 T1 W",
+   "away": "Mount Academy Saints U16 (Prep) W",
+   "home_score": 9,
+   "away_score": 0,
+   "competition": "JWHL U16 26/27"
+  }
+ ]
+}

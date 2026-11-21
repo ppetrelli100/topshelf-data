@@ -1,0 +1,30 @@
+{
+ "batch": "2026-11-21 Shattuck St. Marys 16U (2 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21",
+ "team_ids": {
+  "Shattuck St. Marys U16 W": 6529,
+  "Madison Capitols U16 W": 5008
+ },
+ "alias": {},
+ "defaults": {},
+ "games": [
+  {
+   "tpe_id": 173113,
+   "date": "2026-10-31",
+   "home": "Shattuck St. Marys U16 W",
+   "away": "Madison Capitols U16 W",
+   "home_score": 2,
+   "away_score": 1,
+   "competition": "Shattuck St. Marys Exhibition W 26/27"
+  },
+  {
+   "tpe_id": 173112,
+   "date": "2026-10-30",
+   "home": "Shattuck St. Marys U16 W",
+   "away": "Madison Capitols U16 W",
+   "home_score": 4,
+   "away_score": 0,
+   "competition": "Shattuck St. Marys Exhibition W 26/27"
+  }
+ ]
+}

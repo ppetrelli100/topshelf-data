@@ -1,0 +1,62 @@
+{
+ "batch": "2026-11-21 Team North Dakota U16 T1 (5 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21",
+ "team_ids": {
+  "Team North Dakota U16 T1 W": 6254,
+  "Thunder Bay Queens U18 AA W": 9830,
+  "MN Elite Blue (NABC) U16 W": 9091,
+  "MN Elite White (Northfield Lines) U16 W": 13300,
+  "MN Elite Gold (Compass Capital) U16 W": 11768
+ },
+ "alias": {
+  "Team North Dakota U16 T1 W": "Team North Dakota U16 T1"
+ },
+ "defaults": {},
+ "games": [
+  {
+   "tpe_id": 166132,
+   "date": "2026-09-18",
+   "home": "Team North Dakota U16 T1 W",
+   "away": "Thunder Bay Queens U18 AA W",
+   "home_score": 2,
+   "away_score": 2,
+   "competition": "UMHSEHL U19 W 26/27"
+  },
+  {
+   "tpe_id": 166111,
+   "date": "2026-09-13",
+   "home": "MN Elite Blue (NABC) U16 W",
+   "away": "Team North Dakota U16 T1 W",
+   "home_score": 3,
+   "away_score": 1,
+   "competition": "UMHSEHL U16 W 26/27"
+  },
+  {
+   "tpe_id": 166107,
+   "date": "2026-09-12",
+   "home": "MN Elite Blue (NABC) U16 W",
+   "away": "Team North Dakota U16 T1 W",
+   "home_score": 4,
+   "away_score": 4,
+   "competition": "UMHSEHL U16 W 26/27"
+  },
+  {
+   "tpe_id": 166110,
+   "date": "2026-09-12",
+   "home": "MN Elite White (Northfield Lines) U16 W",
+   "away": "Team North Dakota U16 T1 W",
+   "home_score": 2,
+   "away_score": 1,
+   "competition": "UMHSEHL U16 W 26/27"
+  },
+  {
+   "tpe_id": 166106,
+   "date": "2026-09-11",
+   "home": "MN Elite Gold (Compass Capital) U16 W",
+   "away": "Team North Dakota U16 T1 W",
+   "home_score": 2,
+   "away_score": 2,
+   "competition": "UMHSEHL U16 W 26/27"
+  }
+ ]
+}

@@ -30,3 +30,6 @@ Same idea as the TPE batches, for Hudl Instat games the export does not hold yet
 - Hudl matches with unnamed players ("Hudl player ####" / "noname noname") are dropped by the placeholder filter, as for the export.
 - 2026-11-21: 9 Lovell Academy 16U AAA games (2233016, 2276925, 2278259, 2283754, 2285451, 2285489, 2285496, 2286088, 2286110).
 - 2026-11-21: 2 East Coast Wizards 16U AAA games (2285469, 2288877).
+
+## TPE batches captured 2026-11-21 (`spec_/batch_2026-11-21_*.json`, 57 games)
+Chicago Mission, Shattuck St. Marys, Philadelphia Jr. Flyers, Little Caesars, Team North Dakota, Fox Motors U16 T1 W (4 games) and Fox Motors U16 (team 4875, 28 games), each with its opponents' sides from the same game feed. Known gaps: Little Caesars 174007 (OT/shootout, portal goals 2-2 vs final 2-3); Fox 173145 (opponent Honeybaked has no TPE roster, 1 goal missing from rows); Fox Motors U16 (4875) competition_label is generic except 174406 (T1EHL U16 26/27); Fox (4875) is a separate squad from the hub's Fox Motors U16 W, and opponent names are the portal names (not aliased to hub " W" names).

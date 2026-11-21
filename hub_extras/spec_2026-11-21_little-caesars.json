@@ -1,0 +1,71 @@
+{
+ "batch": "2026-11-21 Little Caesars U16 W (6 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (game 174007 went to OT/shootout: portal player goals total 2-2 vs 2-3 final)",
+ "team_ids": {
+  "Little Caesars U16 W": 5021,
+  "Mississauga Hurricanes U18 AA W": 6314,
+  "Florida Alliance U16 W": 4817,
+  "Atlantic Coast Academy U16 W": 15814,
+  "Biggby Coffee U16 W": 5413,
+  "Honeybaked U16 W": 5017
+ },
+ "alias": {},
+ "defaults": {},
+ "games": [
+  {
+   "tpe_id": 175942,
+   "date": "2026-11-15",
+   "home": "Little Caesars U16 W",
+   "away": "Mississauga Hurricanes U18 AA W",
+   "home_score": 0,
+   "away_score": 3,
+   "competition": "CCM Girls World Invite Detroit 2026"
+  },
+  {
+   "tpe_id": 176526,
+   "date": "2026-11-14",
+   "home": "Little Caesars U16 W",
+   "away": "Florida Alliance U16 W",
+   "home_score": 4,
+   "away_score": 1,
+   "competition": "CCM Girls World Invite Detroit 2026"
+  },
+  {
+   "tpe_id": 174480,
+   "date": "2026-11-13",
+   "home": "Atlantic Coast Academy U16 W",
+   "away": "Little Caesars U16 W",
+   "home_score": 0,
+   "away_score": 2,
+   "competition": "CCM Girls World Invite Detroit 2026"
+  },
+  {
+   "tpe_id": 174007,
+   "date": "2026-11-07",
+   "home": "Biggby Coffee U16 W",
+   "away": "Little Caesars U16 W",
+   "home_score": 2,
+   "away_score": 3,
+   "competition": "MAHA U16 W 26/27",
+   "overtime": true
+  },
+  {
+   "tpe_id": 173733,
+   "date": "2026-11-04",
+   "home": "Little Caesars U16 W",
+   "away": "Honeybaked U16 W",
+   "home_score": 6,
+   "away_score": 0,
+   "competition": "MAHA U16 W 26/27"
+  },
+  {
+   "tpe_id": 172813,
+   "date": "2026-10-31",
+   "home": "Little Caesars U16 W",
+   "away": "Biggby Coffee U16 W",
+   "home_score": 4,
+   "away_score": 2,
+   "competition": "MAHA U16 W 26/27"
+  }
+ ]
+}

@@ -22,12 +22,13 @@ for s in spec['games']:
     tname = {htid: hn, atid: an}
     gs = collections.Counter()
     for r in rows:
-        if r['position'] != 'G': gs[r['team_id']] += r['goals']
+        if r['position'] == 'G' or (not r['position'] and not (r['first'] or r['last'])): continue  # skip goalies and unnamed team-aggregate rows
+        gs[r['team_id']] += r['goals']
     ok = gs[htid] == s['home_score'] and gs[atid] == s['away_score']; bad += (not ok)
     print(s['tpe_id'], s['date'], hn, s['home_score'], '-', s['away_score'], an, 'goals check', 'OK' if ok else 'MISMATCH %s' % dict(gs))
     out = []
     for r in rows:
-        if r['toi_seconds'] <= 0: continue
+        if r['toi_seconds'] <= 0 or (not r['position'] and not (r['first'] or r['last'])): continue
         d = {k: r[k] for k in C.HUBCOLS}
         d.update(player_id='tpe:%d' % r['player_id'], team_id='tpe:%d' % r['team_id'], team_name=tname[r['team_id']],
                  is_opponent=0 if r['team_id'] == htid else 1, position=r['position'], first_name=r['first'], last_name=r['last'])
