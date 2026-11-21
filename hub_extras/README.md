@@ -29,3 +29,4 @@ Same idea as the TPE batches, for Hudl Instat games the export does not hold yet
 - Team names: the Hudl-side name is kept (same Hudl team in other games, else the name as captured). A game both platforms hold (date +-1 day, 5+ shared players on a TPE game) shares that game's identity, so TPE+Hudl never double count.
 - Hudl matches with unnamed players ("Hudl player ####" / "noname noname") are dropped by the placeholder filter, as for the export.
 - 2026-11-21: 9 Lovell Academy 16U AAA games (2233016, 2276925, 2278259, 2283754, 2285451, 2285489, 2285496, 2286088, 2286110).
+- 2026-11-21: 2 East Coast Wizards 16U AAA games (2285469, 2288877).
