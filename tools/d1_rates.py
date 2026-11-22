@@ -43,6 +43,11 @@ for s,teams in r.items():
 ndc=json.load(open(D+'ndc.json'))
 for x in ndc:
     if x.get('Country')=='US' or x.get('STATE'): pop.setdefault(x['personkey'],set()).add('camp')
+def slots(p,by):
+    # camp slot i is the summer of (Grad-4+i); age = that year - birth year (Grad is not always BirthYr+19)
+    g=p.get('Grad') if isinstance(p.get('Grad'),int) else by+19
+    return [(g-4+i-by,p.get(k)) for i,k in enumerate(['Fresh','Soph','Jr','Sr'])]
+def labs_to(x,age): return [l for (a,l) in x['labs'] if a<=age]
 RANK={'U15':1,'U1617':2,'U18':3,'WNT':4,'WNT-C':4}
 def best(labs):
     b=0
@@ -59,8 +64,8 @@ for pk,why in pop.items():
     col=p.get('College'); 
     out='D1' if col in d1 else ('other' if col else 'none')
     tier=d1[col]['tier'] if col in d1 else None
-    labs=[p.get('Fresh'),p.get('Soph'),p.get('Jr')]   # ages 15,16,17 camp years
-    n1617=sum(1 for l in labs if l=='U1617')
+    labs=slots(p,by)   # (age at camp, label) per Fresh/Soph/Jr/Sr slot
+    n1617=sum(1 for a,l in labs if l=='U1617')
     rows.append(dict(pk=pk,by=by,pos=p.get('Position'),out=out,tier=tier,labs=labs,why=why,n1617=n1617))
 print('population',len(rows),C.Counter(r_['by'] for r_ in rows),C.Counter(r_['out'] for r_ in rows))
 for by in (2006,2007):
@@ -69,7 +74,7 @@ for by in (2006,2007):
         g=C.defaultdict(list)
         for x in rows:
             if x['by']!=by: continue
-            g[NAME[best(x['labs'][:k])]].append(x)
+            g[NAME[best(labs_to(x,age))]].append(x)
         print(' as-of age',age)
         for lab in ['none','U15','U1617','U18','WNT']:
             xs=g.get(lab,[]); 

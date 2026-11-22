@@ -1,6 +1,8 @@
 """d1_model.py -- US D1 probability model (first version, Nov 2026). Writes ../d1prob.json for the playerview "D1 outlook" tab.
 Training: US players born 2006/2007 in the recruited pool (see d1_rates.py). One ridge-logistic model per as-of age 15/16/17 using
- best camp to date, U1617 repeat, position, club D1 rate (leave-one-out), Hub TPE composite vs level (key metrics), simplified USAH TPE composite.
+ best camp to date, U1617 repeat, position, club D1 rate (leave-one-out, shrunk with prior weight CLUB_A=20, plus a club x has-camp term),
+ Hub TPE composite vs level (key metrics), and camp performance: the tpe.html composite (default weights, z within camp x position) as a percentile in the camp pool
+ (top-quartile flag at U16-17; the U15 term is untrained until 2008+ cohorts resolve).
 Tier: multinomial over D1 players only (weak signal). Run: python3 d1_model.py [--cv]  (--cv prints leave-one-cohort-out AUC/Brier/calibration)
 """
 import json,os,re,sys,math,collections as C
@@ -49,26 +51,51 @@ for s,teams in r.items():
 # ---- USAH TPE simplified composite (direct columns, z within camp x position)
 S=open(os.path.join(D,'..','hockeyfile','tpe_static.js')).read()
 T,_=json.JSONDecoder().raw_decode(S[S.index('const TPE_STATIC =')+18:].lstrip()); H=T['header']; R=T['rows']; ix={h:i for i,h in enumerate(H)}
-UF={'F':[('SOG_DangerZone_per20',1),('ScoringChances_per20',1),('xG_per20',1),('Giveaways  %',-1),('CtrlEntries_per20',1),('OnIce_xGRatio',1),('Passing accuracy  %',1)],
-    'D':[('Giveaways  %',-1),('Controlled exits  %',1),('OnIce_xGAgainst_per20',-1),('Passing accuracy  %',1),('Passing accuracy DZ  %',1),('CtrlEntries_per20',1),('ScoringChances_per20',1)]}
-def fnum(v):
+# faithful re-implementation of tpe.html's composite (default weights; z within camp x position; percentile within the camp pool)
+def f(row,c):
+    v=row[ix[c]] if c in ix else None
     try: return float(v)
     except: return None
-pools=C.defaultdict(list)
+def per20(row,c,scale=1):
+    v=f(row,c); toi=f(row,'TOI_min')
+    return None if v is None or not toi or toi<=0 else v*scale/toi*20
+def mval(row,key):
+    if key=='possTime':
+        a,b=f(row,'Number of possessions'),f(row,'Time per possession'); return None if a is None or b is None else a*b
+    if key=='numPoss': return per20(row,'Number of possessions')
+    if key=='carryOut': return per20(row,'Carry out exits')
+    if key=='carryIn': return per20(row,'Carry in entries')
+    if key=='ozPoss': return per20(row,'Possession time  OZ',1440)
+    if key=='oiShotsAg': return per20(row,'On ice shots against')
+    return f(row,{'givePct':'Giveaways  %','ctrlOutPct':'Controlled exits  %','dzShots':'SOG_DangerZone_per20','scChances':'ScoringChances_per20','xg':'xG_per20','ctrlIn':'CtrlEntries_per20','oiXgAg':'OnIce_xGAgainst_per20','oiXgShare':'OnIce_xGRatio','passAcc':'Passing accuracy  %','passAccDZ':'Passing accuracy DZ  %'}[key])
+LOWER={'givePct','oiShotsAg','oiXgAg'}
+CATS={'F':[('Shot',30,['dzShots','scChances','xg']),('Poss',20,['possTime','numPoss','givePct']),('Entries',15,['carryIn','ctrlIn']),('Def',30,['oiShotsAg','oiXgShare']),('Pass',5,['passAcc'])],
+      'D':[('Poss',40,['possTime','numPoss','givePct','carryOut','ctrlOutPct']),('Supp',25,['oiShotsAg','oiXgAg']),('Off',30,['ctrlIn','ozPoss','scChances']),('Pass',5,['passAcc','passAccDZ'])]}
+pl=C.defaultdict(list)
 for row in R:
     pk=row[ix['ResolvedPersonKey']]; pos=(M.get(pk) or {}).get('Position') or row[ix['Position']]
-    if pos not in UF: continue
-    pools[(row[ix['ImportLabel']],pos)].append((pk,row))
-usah=C.defaultdict(list)   # pk -> [(campyear, z)]
-for (lab,pos),lst in pools.items():
-    yr=int(re.search(r'20\d\d',lab).group()); zs=[]
-    stats={}
-    for col,sg in UF[pos]:
-        v=[fnum(rw[ix[col]]) for _,rw in lst]; v=[x for x in v if x is not None]
-        if len(v)>=5 and np.std(v)>0: stats[col]=(np.mean(v),np.std(v),sg)
-    for pk,rw in lst:
-        zz=[sg*(fnum(rw[ix[c]])-mu)/sd for c,(mu,sd,sg) in stats.items() if fnum(rw[ix[c]]) is not None]
-        if zz: usah[pk].append((yr,float(np.mean(zz))))
+    if pos in CATS: pl[(row[ix['ImportLabel']],pos)].append((pk,row))
+usah2=C.defaultdict(list)   # pk -> [(year, level, pctl)]
+for (lab,pos),lst in pl.items():
+    yr=int(re.search(r'20\d\d',lab).group()); lv_=re.search(r'NDC (\S+)',lab).group(1)
+    keys=[k for _,_,ks in CATS[pos] for k in ks]; Z={}
+    for k in keys:
+        vs=[mval(rw,k) for _,rw in lst]; vv=[v for v in vs if v is not None]
+        if len(vv)<3 or np.std(vv)==0: continue
+        mu,sd=np.mean(vv),np.std(vv)
+        Z[k]=[(None if v is None else (-1 if k in LOWER else 1)*(v-mu)/sd) for v in vs]
+    comp=[]
+    for i in range(len(lst)):
+        num=den=0
+        for _,w,ks in CATS[pos]:
+            zs=[Z[k][i] for k in ks if k in Z and Z[k][i] is not None]
+            if zs: num+=w*np.mean(zs); den+=w
+        comp.append(num/den if den else None)
+    ok=sorted(c for c in comp if c is not None)
+    for (pk,_),c in zip(lst,comp):
+        if c is None: continue
+        below=sum(1 for v in ok if v<c); usah2[pk].append((yr,lv_,below/(len(ok)-1) if len(ok)>1 else .5,c))
+
 # ---- Hub TPE composite vs same level/season (lens 1), key metrics only
 h=json.load(open(D+'hub/hub_d1.json')); hubz={}
 for pos in 'FD':
@@ -77,6 +104,11 @@ for pos in 'FD':
         if row[6]<5: continue
         zs=[mets[k]['dir']*row[off+k] for k in range(K) if mets[k]['ours'] and row[off+k] is not None]
         if zs: hubz[row[1]]=(float(np.mean(zs)),row[4],row[6])   # z, level idx, gp
+def slots(p,by):
+    # camp slot i is the summer of (Grad-4+i); age = that year - birth year (Grad is not always BirthYr+19)
+    g=p.get('Grad') if isinstance(p.get('Grad'),int) else by+19
+    return [(g-4+i-by,p.get(k)) for i,k in enumerate(['Fresh','Soph','Jr','Sr'])]
+def labs_to(x,age): return [l for (a,l) in x['labs'] if a<=age]
 RANK={'U15':1,'U1617':2,'U18':3,'WNT':4,'WNT-C':4}
 def best(l): return max([RANK.get(x,0) for x in l]+[0])
 rows=[]
@@ -85,15 +117,17 @@ for pk in pop:
     if not p or p.get('Country')!='US' or p.get('BirthYr') not in (2006,2007): continue
     col=p.get('College'); out='D1' if col in d1 else ('other' if col else 'none')
     rows.append(dict(pk=pk,by=p['BirthYr'],pos=p.get('Position'),y=int(out=='D1'),tier=int(d1[col]['tier']) if col in d1 else None,
-        labs=[p.get('Fresh'),p.get('Soph'),p.get('Jr')],club=(clubof[pk].most_common(1)[0][0] if clubof.get(pk) else None)))
-print('rows',len(rows),'with club',sum(1 for x in rows if x['club']),'hub',sum(1 for x in rows if x['pk'] in hubz),'usah',sum(1 for x in rows if x['pk'] in usah))
-def clubrate(train,club,exclude_pk=None,a=6.0):
+        labs=slots(p,p['BirthYr']),club=(clubof[pk].most_common(1)[0][0] if clubof.get(pk) else None)))
+print('rows',len(rows),'with club',sum(1 for x in rows if x['club']),'hub',sum(1 for x in rows if x['pk'] in hubz),'usah',sum(1 for x in rows if x['pk'] in usah2))
+CLUB_A=20.0; INTERACT=True
+def clubrate(train,club,exclude_pk=None,a=None):
+    a=CLUB_A if a is None else a
     g=sum(x['y'] for x in train)/len(train); n=k=0
     for x in train:
         if x['club']==club and x['pk']!=exclude_pk: n+=1; k+=x['y']
     return (k+a*g)/(n+a), n
 def feats(x,age,train,loo,sets):
-    k=age-14; labs=x['labs'][:k-0] if False else x['labs'][:age-14]   # age15->1,16->2,17->3
+    k=age-14; labs=labs_to(x,age)   # age15->1,16->2,17->3
     b=best(labs); n16=sum(1 for l in labs if l=='U1617')
     f=[b==1,b==2,b>=3,n16>=1,x['pos']=='D']
     if 'club' in sets:
@@ -113,7 +147,7 @@ def run(age,sets,target='d1'):
         if target=='tier': tr=[x for x in tr if x['tier']]; te=[x for x in te if x['tier']]
         yv=(lambda x:x['y']) if target=='d1' else (lambda x:int(x['tier']<=2))
         base=[x for x in rows if x['by']==tr_by]   # club rates from the training cohort only
-        Xtr=np.array([feats(x,age,base,True,sets) for x in tr],float); Xte=np.array([feats(x,age,base,False,sets) for x in te],float)
+        Xtr=np.array([design(x,age,sets,base,True)[0] for x in tr],float); Xte=np.array([design(x,age,sets,base,False)[0] for x in te],float)
         mu=Xtr.mean(0); sd=Xtr.std(0)+1e-9
         clf=LogisticRegression(C=0.5,max_iter=500).fit(np.clip((Xtr-mu)/sd,-2.5,2.5),[yv(x) for x in tr])
         p=clf.predict_proba(np.clip((Xte-mu)/sd,-2.5,2.5))[:,1]; res+=list(zip(p,[yv(x) for x in te]))
@@ -124,19 +158,22 @@ def run(age,sets,target='d1'):
 import datetime
 LAB={'camp15':'Best camp (age 15)','camp':'Camp level','n16':'Repeat U1617','pos':'Position','club':'Club track record','hub':'TPE game data vs peers','usah':'USAH camp TPE'}
 def design(x,age,sets,train,loo):
-    labs=x['labs'][:age-14]; b=best(labs); n16=sum(1 for l in labs if l=='U1617'); names=[]; f=[]
+    labs=labs_to(x,age); b=best(labs); n16=sum(1 for l in labs if l=='U1617'); names=[]; f=[]
     f+=[b==1,b==2,b>=3,n16>=1,x['pos']=='D']; names+=['camp:U15','camp:U1617','camp:U18/WNT','n16','pos:D']
     cr=None
     if 'club' in sets:
         g=sum(t['y'] for t in train)/len(train)
         cr,n=clubrate(train,x['club'],x['pk'] if loo else None) if x['club'] else (g,0)
-        f.append(math.log(cr/(1-cr))); names.append('club')
+        lc=math.log(cr/(1-cr)); f.append(lc); names.append('club')
+        if INTERACT: f.append(lc*float(b>0)); names.append('club*camp')
     if 'hub' in sets:
         hz=hubz.get(x['pk']); ok=hz and (hz[1]<=1 if age<=17 else True)
         f+=[hz[0] if ok else 0.0, 0.0 if ok else 1.0]; names+=['hub','hub?']
     if 'usah' in sets:
-        us=[z for (yr,z) in usah.get(x['pk'],[]) if yr-x['by']<=age]
-        f+=[float(np.mean(us)) if us else 0.0, 0.0 if us else 1.0]; names+=['usah','usah?']
+        cm=[(l,pc) for (yr,l,pc,z) in usah2.get(x['pk'],[]) if yr-x['by']<=age]
+        p17=[pc for l,pc in cm if l=='U16-17']; p15=[pc for l,pc in cm if l=='U15']
+        pc17=max(p17) if p17 else None; pc15=max(p15) if p15 else None
+        f+=[(pc17-0.5) if p17 else 0.0, float(bool(p17) and pc17>=0.75), (pc15-0.5) if p15 else 0.0, 0.0 if cm else 1.0]; names+=['pc1617','q4','pc15','usah?']
     return f,names,cr
 SETS=['club','hub','usah']
 def fit(age):
@@ -155,9 +192,9 @@ def why(mod,f,x,cr):
     camp_best=nm
     add('Camp history',cm)
     add('Position',c[nm.index('pos:D')])
-    if 'club' in nm: add('Club track record'+(' ('+x['club']+')' if x['club'] else ' (unknown club)'),c[nm.index('club')])
+    if 'club' in nm: add('Club track record'+(' ('+x['club']+')' if x['club'] else ' (unknown club)'),c[nm.index('club')]+(c[nm.index('club*camp')] if 'club*camp' in nm else 0))
     if 'hub' in nm: add('TPE game data',c[nm.index('hub')]+c[nm.index('hub?')])
-    if 'usah' in nm: add('USAH camp TPE',c[nm.index('usah')]+c[nm.index('usah?')])
+    if 'q4' in nm: add('Camp performance (TPE)',c[nm.index('pc1617')]+c[nm.index('q4')]+c[nm.index('pc15')]+c[nm.index('usah?')])
     out.sort(key=lambda a:-abs(a[1])); return out[:4]
 def tier_model():
     d=[x for x in rows if x['tier']]; Xl=[design(x,17,['club','usah'],rows,True)[0] for x in d]
@@ -185,11 +222,11 @@ if __name__=='__main__' and '--cv' not in sys.argv:
         if not p or p.get('Country')!='US' or not isinstance(p.get('BirthYr'),int) or not (2007<=p['BirthYr']<=2011): continue
         by=p['BirthYr']; age=min(17,max(15,SEASON-by))
         col=p.get('College'); cm='D1' if col in d1 else ('other' if col else '')
-        x=dict(pk=pk,by=by,pos=p.get('Position'),y=0,tier=None,labs=[p.get('Fresh'),p.get('Soph'),p.get('Jr')],
+        x=dict(pk=pk,by=by,pos=p.get('Position'),y=0,tier=None,labs=slots(p,by),
                club=(clubof[pk].most_common(1)[0][0] if clubof.get(pk) else None))
         mod=mods[age]; f,names,cr=design(x,age,SETS,rows,pk in seen)
         pr=float(mod['clf'].predict_proba(np.clip((np.array(f,float)-mod['mu'])/mod['sd'],-2.5,2.5).reshape(1,-1))[0,1])
-        if best(x['labs'][:age-14])<3: pr=min(pr,0.90)   # cross-validation never supported >90% without a U18/WNT selection
+        if best(labs_to(x,age))<3: pr=min(pr,0.90)   # cross-validation never supported >90% without a U18/WNT selection
         tf,_,_=design(x,17,['club','usah'],rows,pk in seen)
         tp=tclf.predict_proba(np.clip((np.array(tf,float)-tmu)/tsd,-2.5,2.5).reshape(1,-1))[0]
         out.append([pk,p['Name'],by,x['pos'],age,round(pr,3),cm,col or '',(d1[col]['tier'] if col in d1 else ''),[round(float(v),3) for v in tp],why(mod,f,x,cr),x['club'] or ''])
