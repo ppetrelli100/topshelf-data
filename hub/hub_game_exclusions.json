@@ -11,5 +11,14 @@
    "date": "2026-10-16",
    "reason": "Fox Motors U16 W 3-2: same mislabeled 'Lovell Academy Lions U16 T1' side as 171746 (same 15 jerseys); not on Lovell portal team 9046"
   }
+ ],
+ "_note_hudl": "'hudl_games': one SIDE of a Hudl match dropped from the Hudl/TOI build (hudl_id = game.source_record_id = the number in /matches/<id>; team = the export's team name for the side to drop, so the other side of the game is kept). Use when a Hudl team identity holds a side whose players are not that team's (verified against the team's published roster).",
+ "hudl_games": [
+  {
+   "hudl_id": 2238964,
+   "date": "2026-09-06",
+   "reason": "Boston Americans U16 T1 side vs Connecticut Polar Bears U16 T1 (USA Hockey 16U (G)): 14 of 15 skaters (Rudd, Nugent, Polles, Regan, Koehler, Cano, Black, Finn, Drummey, Zizza, Nestor, Dexter, O'Donoghue, Rano) are not on the CPC U16 Tier 1 2026-27 roster (Instagram cpc_hockey Apr 12); a different group filed under the Americans identity",
+   "team": "Boston Americans U16 T1"
+  }
  ]
 }

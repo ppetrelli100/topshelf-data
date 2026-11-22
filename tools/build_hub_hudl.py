@@ -40,6 +40,8 @@ season = rd('season.csv'); SEASON = dict(zip(season.id, season.name)); SI = {s: 
 game = rd('game.csv', usecols=['id', 'game_date', 'season_id', 'source_system', 'source_record_id'])
 hg = game[game.source_system == 'hudl'].copy()
 HAVE_H = set(hg.source_record_id.astype(str))          # Hudl match ids the export already holds
+_xp = os.path.join(OUT, 'hub_game_exclusions.json')
+HUDL_EXCL = {(str(g['hudl_id']), g['team']) for g in json.load(open(_xp, encoding='utf-8')).get('hudl_games', [])} if os.path.exists(_xp) else set()
 _wp = os.path.join(OUT, 'hub_season_window.json')
 WSTART = json.load(open(_wp, encoding='utf-8'))['starts'] if os.path.exists(_wp) else {}
 _n0 = len(hg); hg = hg[[(str(d)[:10] >= WSTART.get(SEASON.get(sid), "0000")) for sid, d in zip(hg.season_id, hg.game_date)]].copy()
@@ -56,6 +58,9 @@ hs = rd('hudl_player_game_stats.csv', usecols=['pgs_id', 'position', 'goalie', '
 pgs = pgs.merge(det, left_on='id', right_on='pgs_id', how='left').drop(columns=['pgs_id']).merge(hs, left_on='id', right_on='pgs_id', how='left')
 pgs = pgs[pgs.toi_seconds.fillna(0) > 0].copy()
 pgs['team_name'] = pgs.team_id.map(TEAM)
+_sid = dict(zip(hg.id, hg.source_record_id.astype(str)))
+_n2 = len(pgs); pgs = pgs[[(_sid.get(g), t) not in HUDL_EXCL for g, t in zip(pgs.game_id, pgs.team_name)]].copy()
+print('excluded %d Hudl player-game row(s) (one side of a game) listed in hub_game_exclusions.json' % (_n2 - len(pgs)))
 pgs['date'] = pgs.game_id.map(dict(zip(hg.id, hg.game_date.astype(str))))
 pgs['season'] = pgs.game_id.map(dict(zip(hg.id, hg.season_id))).map(SEASON)
 print('Hudl player-games (toi>0):', len(pgs), 'games', pgs.game_id.nunique())
