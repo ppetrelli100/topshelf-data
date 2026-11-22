@@ -226,6 +226,11 @@ obj = {'header': ['ti', 'si', 'pk', 'name', 'pos', 'src', 'mask', 'gp', 'toi', '
        'goalie_header': ['ti', 'si', 'pk', 'name', 'src', 'mask', 'gp', 'toi', 'sa', 'ga', 'toi_d'], 'goalies': grows,
        'teams': TEAMS + extra_teams, 'seasons': SEAS, 'games': {'%d|%d' % k: v for k, v in counts.items()}, 'rows': rows}
 p = os.path.join(OUT, 'hub_toi.json'); json.dump(obj, open(p, 'w'), separators=(',', ':'))
+# small per-team Hudl team-game counts for the Teams > TPE "Data Available" view (TPE / Hudl): {"si|team name": n}
+_TN = TEAMS + extra_teams
+json.dump({'note': 'Hudl team-games per season|team (a game counts once for each side; games paired with a TPE game included). Built by build_hub_hudl.py.',
+           'hudl': {'%d|%s' % (k[1], _TN[k[0]]): v[1] for k, v in counts.items() if v[1]}}, open(os.path.join(OUT, 'hub_srcgames.json'), 'w'), separators=(',', ':'))
+print('hub_srcgames.json written')
 print('hub_toi.json: %d rows, %.2f MiB, %d extra teams (Hudl only)' % (len(rows), os.path.getsize(p) / 1048576, len(extra_teams)))
 
 # ---------- full Hudl data per player-team-season ----------
