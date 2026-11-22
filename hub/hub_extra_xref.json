@@ -1235,15 +1235,6 @@
    "status": "active"
   },
   {
-   "tpe_id": 166111,
-   "gid": "e80b8cb4-0b97-561a-b89c-d871fbc79ac7",
-   "batch": "2026-11-21 Team North Dakota U16 T1 (5 games)",
-   "game_date": "2026-09-13",
-   "tracked_team": "MN Elite Blue (NABC) U16 W",
-   "opponent": "Team North Dakota U16 T1",
-   "status": "active"
-  },
-  {
    "tpe_id": 166107,
    "gid": "59c8e37f-f61d-54a2-be00-6aabd32f2e36",
    "batch": "2026-11-21 Team North Dakota U16 T1 (5 games)",

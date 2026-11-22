@@ -43,6 +43,7 @@ for _f in sorted(glob.glob(os.path.join(EXTRAS_DIR, 'batch_*.json'))):
         _g = dict(_g); _g['batch'] = _b.get('batch') or os.path.basename(_f)
         _k = str(_g['tpe_id'])
         if _k in _have: ABSORBED.append(_g)          # the export already has this game: the export wins, the extra is ignored
+        elif _k in EXCLUDED: continue                # hand-listed in hub_game_exclusions.json (mislabeled team): also applies to portal extras
         elif _k in _seen: continue                   # same game in two batches: first batch wins
         else: _seen.add(_k); EXTRA.append(_g)
 print('extra games: %d appended, %d already in the export (ignored; run tools/hub_extras.py prune)' % (len(EXTRA), len(ABSORBED)))

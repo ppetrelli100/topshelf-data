@@ -226,10 +226,26 @@ obj = {'header': ['ti', 'si', 'pk', 'name', 'pos', 'src', 'mask', 'gp', 'toi', '
        'goalie_header': ['ti', 'si', 'pk', 'name', 'src', 'mask', 'gp', 'toi', 'sa', 'ga', 'toi_d'], 'goalies': grows,
        'teams': TEAMS + extra_teams, 'seasons': SEAS, 'games': {'%d|%d' % k: v for k, v in counts.items()}, 'rows': rows}
 p = os.path.join(OUT, 'hub_toi.json'); json.dump(obj, open(p, 'w'), separators=(',', ':'))
-# small per-team Hudl team-game counts for the Teams > TPE "Data Available" view (TPE / Hudl): {"si|team name": n}
+# small per-team Hudl team-game counts for the Teams > TPE "Data Available" view (TPE / Hudl): {"si|TPE team name": n}.
+# A Hudl team name is linked to the TPE team (same season) sharing the most skaters (>=5 and >=half of the Hudl side's skaters), so the
+# count lands on the TPE-named row even where Hudl spells / splits the team differently; unlinked Hudl teams keep their own name.
 _TN = TEAMS + extra_teams
-json.dump({'note': 'Hudl team-games per season|team (a game counts once for each side; games paired with a TPE game included). Built by build_hub_hudl.py.',
-           'hudl': {'%d|%s' % (k[1], _TN[k[0]]): v[1] for k, v in counts.items() if v[1]}}, open(os.path.join(OUT, 'hub_srcgames.json'), 'w'), separators=(',', ':'))
+_tpl = collections.defaultdict(set)
+for (gi_, tn_), lst_ in tpe_rows.items(): _tpl[(tpe_season[gi_], tn_)] |= {x[0] for x in lst_}
+_hdl = collections.defaultdict(set)
+for tn_, si_, pk_ in zip(sk.team_name, sk.si, sk.pk): _hdl[(int(si_), tn_)].add(pk_)
+_by_si = collections.defaultdict(list)
+for (s2_, n_), v_ in _tpl.items(): _by_si[s2_].append((n_, v_))
+_link = {}
+for (si_, hn_), hs_ in _hdl.items():
+    if (si_, hn_) in _tpl: _link[(si_, hn_)] = hn_; continue
+    bn_, bc_ = max(((n_, len(v_ & hs_)) for n_, v_ in _by_si[si_]), key=lambda x: x[1], default=(None, 0))
+    _link[(si_, hn_)] = bn_ if bc_ >= 5 and bc_ >= 0.5 * len(hs_) else hn_
+_srcg = collections.Counter()
+for (ti_, si_), v_ in counts.items():
+    if v_[1]: nm_ = _TN[ti_]; _srcg['%d|%s' % (si_, _link.get((si_, nm_), nm_))] += v_[1]
+json.dump({'note': 'Hudl team-games per season|TPE-linked team (a game counts once for each side; games paired with a TPE game included). Built by build_hub_hudl.py.',
+           'hudl': dict(_srcg)}, open(os.path.join(OUT, 'hub_srcgames.json'), 'w'), separators=(',', ':'))
 print('hub_srcgames.json written')
 print('hub_toi.json: %d rows, %.2f MiB, %d extra teams (Hudl only)' % (len(rows), os.path.getsize(p) / 1048576, len(extra_teams)))
 

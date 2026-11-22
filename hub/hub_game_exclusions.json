@@ -10,6 +10,11 @@
    "tpe_id": 171748,
    "date": "2026-10-16",
    "reason": "Fox Motors U16 W 3-2: same mislabeled 'Lovell Academy Lions U16 T1' side as 171746 (same 15 jerseys); not on Lovell portal team 9046"
+  },
+  {
+   "tpe_id": 166111,
+   "date": "2026-09-13",
+   "reason": "Team North Dakota U16 T1 3-1: TPE portal capture labels the side MN Elite Blue (NABC) U16 W, but 18 of its 19 skaters are on the MN Elite Sky 16U roster (Bailey, Caven, Chambliss, Fenske, Fitzgerald, Genia, Halverson, Hendricks, Keepman, Lamantia, Strothman...); only Anthony is Blue"
   }
  ],
  "_note_hudl": "'hudl_games': one SIDE of a Hudl match dropped from the Hudl/TOI build (hudl_id = game.source_record_id = the number in /matches/<id>; team = the export's team name for the side to drop, so the other side of the game is kept). Use when a Hudl team identity holds a side whose players are not that team's (verified against the team's published roster).",
@@ -127,6 +132,12 @@
    "date": "2026-09-06",
    "team": "Connecticut Polar Bears U16 T1",
    "reason": "same: CT side of Boston Americans game is the other squad (Ling, French, Malay, Harrison, Myers, Joffe...), not the 16U Major roster"
+  },
+  {
+   "hudl_id": 2230716,
+   "date": "2026-09-06",
+   "team": "MN Elite Silver 16U",
+   "reason": "Hudl side labeled MN Elite Silver 16U: 9 of its 15 skaters are on the MN Elite Gold 16U roster (Salonek, Zins, Neurer, Krampe, Kragness, Pohl...) and none are Silver; it is a Gold game"
   }
  ]
 }
