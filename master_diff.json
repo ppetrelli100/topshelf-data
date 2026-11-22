@@ -1,12 +1,12 @@
 {
  "players": {
-  "inBoth": 12434,
-  "onlyMaster": 156,
+  "inBoth": 12433,
+  "onlyMaster": 157,
   "onlyCandidate": 1037
  },
  "fields": {
   "Name": {
-   "same": 12219,
+   "same": 12218,
    "differ": 215,
    "masterOnly": 0,
    "candOnly": 0,
@@ -90,7 +90,7 @@
    }
   },
   "BirthYr": {
-   "same": 9513,
+   "same": 9512,
    "differ": 61,
    "masterOnly": 15,
    "candOnly": 474,
@@ -321,7 +321,7 @@
   },
   "DOB": {
    "same": 4137,
-   "differ": 420,
+   "differ": 419,
    "masterOnly": 41,
    "candOnly": 204,
    "samples": {
@@ -553,7 +553,7 @@
    "partialSame": 159
   },
   "Grad": {
-   "same": 10417,
+   "same": 10416,
    "differ": 156,
    "masterOnly": 5,
    "candOnly": 820,
@@ -741,7 +741,7 @@
    }
   },
   "Position": {
-   "same": 12007,
+   "same": 12006,
    "differ": 181,
    "masterOnly": 24,
    "candOnly": 77,
@@ -971,7 +971,7 @@
    }
   },
   "Height": {
-   "same": 4536,
+   "same": 4535,
    "differ": 242,
    "masterOnly": 39,
    "candOnly": 425,
@@ -1202,9 +1202,9 @@
   },
   "Weight": {
    "same": 2564,
-   "differ": 123,
+   "differ": 122,
    "masterOnly": 24,
-   "candOnly": 83,
+   "candOnly": 84,
    "samples": {
     "differ": [
      {
@@ -1432,9 +1432,9 @@
   },
   "GPA": {
    "same": 1050,
-   "differ": 101,
+   "differ": 100,
    "masterOnly": 8,
-   "candOnly": 1,
+   "candOnly": 2,
    "samples": {
     "differ": [
      {
@@ -1566,15 +1566,21 @@
       "master": "",
       "cand": 4,
       "src": "ndc"
+     },
+     {
+      "pk": "kelzenberg|jozie",
+      "master": "",
+      "cand": 4,
+      "src": "ndc"
      }
     ]
    }
   },
   "City": {
-   "same": 4096,
+   "same": 4095,
    "differ": 27,
    "masterOnly": 1,
-   "candOnly": 511,
+   "candOnly": 512,
    "samples": {
     "differ": [
      {
@@ -1735,7 +1741,7 @@
    }
   },
   "State": {
-   "same": 3983,
+   "same": 3982,
    "differ": 1222,
    "masterOnly": 1,
    "candOnly": 310,
@@ -1899,7 +1905,7 @@
    }
   },
   "Country": {
-   "same": 12061,
+   "same": 12060,
    "differ": 195,
    "masterOnly": 28,
    "candOnly": 18,
@@ -2129,8 +2135,8 @@
    }
   },
   "School": {
-   "same": 2861,
-   "differ": 51,
+   "same": 2859,
+   "differ": 52,
    "masterOnly": 13,
    "candOnly": 183,
    "samples": {
@@ -3394,10 +3400,10 @@
    }
   },
   "Fresh": {
-   "same": 551,
+   "same": 550,
    "differ": 2,
    "masterOnly": 24,
-   "candOnly": 42,
+   "candOnly": 43,
    "samples": {
     "differ": [
      {
@@ -3564,10 +3570,10 @@
    }
   },
   "Soph": {
-   "same": 1383,
+   "same": 1382,
    "differ": 13,
    "masterOnly": 34,
-   "candOnly": 44,
+   "candOnly": 45,
    "samples": {
     "differ": [
      {
@@ -4012,7 +4018,7 @@
    }
   },
   "Sr": {
-   "same": 2826,
+   "same": 2825,
    "differ": 11,
    "masterOnly": 64,
    "candOnly": 358,
@@ -4236,10 +4242,10 @@
    }
   },
   "Highest": {
-   "same": 2662,
+   "same": 2661,
    "differ": 5,
    "masterOnly": 13,
-   "candOnly": 11,
+   "candOnly": 12,
    "samples": {
     "differ": [
      {
@@ -4373,6 +4379,12 @@
       "src": "campRank"
      },
      {
+      "pk": "kelzenberg|jozie",
+      "master": "",
+      "cand": "U1617",
+      "src": "campRank"
+     },
+     {
       "pk": "lavallee|cali",
       "master": "",
       "cand": "TmMB",
@@ -4436,10 +4448,10 @@
    }
   },
   "Yr1": {
-   "same": 1547,
+   "same": 1546,
    "differ": 0,
    "masterOnly": 1,
-   "candOnly": 24,
+   "candOnly": 25,
    "samples": {
     "differ": [],
     "masterOnly": [
@@ -4518,19 +4530,19 @@
       "src": "campRank"
      },
      {
-      "pk": "keranen|tilli",
+      "pk": "kelzenberg|jozie",
       "master": "",
-      "cand": "WNT-O",
+      "cand": "U15",
       "src": "campRank"
      }
     ]
    }
   },
   "Yr2": {
-   "same": 1017,
+   "same": 1016,
    "differ": 2,
    "masterOnly": 1,
-   "candOnly": 46,
+   "candOnly": 47,
    "samples": {
     "differ": [
      {
@@ -5054,8 +5066,8 @@
   "Name": {
    "ndc": {
     "both": 1661,
-    "equal": 1604,
-    "pct": 96.6
+    "equal": 1603,
+    "pct": 96.5
    },
    "prov": {
     "both": 942,
@@ -5153,8 +5165,8 @@
   "DOB": {
    "ndc": {
     "both": 1212,
-    "equal": 1011,
-    "pct": 83.4
+    "equal": 1012,
+    "pct": 83.5
    },
    "prov": {
     "both": 439,
@@ -5300,7 +5312,7 @@
   },
   "Weight": {
    "ndc": {
-    "both": 1661,
+    "both": 1660,
     "equal": 1539,
     "pct": 92.7
    },
@@ -5317,15 +5329,15 @@
   },
   "GPA": {
    "ndc": {
-    "both": 1151,
+    "both": 1150,
     "equal": 1050,
-    "pct": 91.2
+    "pct": 91.3
    }
   },
   "City": {
    "ndc": {
-    "both": 1661,
-    "equal": 1651,
+    "both": 1660,
+    "equal": 1650,
     "pct": 99.4
    },
    "prov": {
@@ -5451,8 +5463,8 @@
   "School": {
    "ndc": {
     "both": 585,
-    "equal": 536,
-    "pct": 91.6
+    "equal": 535,
+    "pct": 91.5
    },
    "commits": {
     "both": 570,
