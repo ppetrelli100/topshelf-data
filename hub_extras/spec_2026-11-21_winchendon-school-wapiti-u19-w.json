@@ -1,0 +1,146 @@
+{
+ "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 9344. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Winchendon School Wapiti U19 W": 9344,
+  "Boston Hockey Group U19 W": 11689,
+  "Masters Academy International U19 W": 15646,
+  "Rothesay Netherwood School Riverhawks (Prep) W": 8905,
+  "Ontario Hockey Academy U22 (Gold) W": 6484,
+  "Northwood School Huskies U19 W": 5853,
+  "Gilmour Academy Lancers (Prep) W": 5037,
+  "Sno-king Jr. Thunderbirds U19 W": 15577,
+  "Anaheim Lady Ducks U19": 5029,
+  "Massachusetts Spitfires U19 (Major1) W": 5851,
+  "Connecticut Jr. Rangers U19 W": 12289,
+  "Bay State Breakers U19 (Green) W": 4594
+ },
+ "alias": {
+  "Winchendon School Wapiti U19 W": "Winchendon School Wapiti U19 W"
+ },
+ "defaults": {
+  "age_bracket": "19U",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 174356,
+   "date": "2026-11-15",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Boston Hockey Group U19 W",
+   "home_score": 8,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174355,
+   "date": "2026-11-14",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Masters Academy International U19 W",
+   "home_score": 2,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174352,
+   "date": "2026-11-13",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Rothesay Netherwood School Riverhawks (Prep) W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174353,
+   "date": "2026-11-13",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Ontario Hockey Academy U22 (Gold) W",
+   "home_score": 5,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173758,
+   "date": "2026-11-08",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Northwood School Huskies U19 W",
+   "home_score": 0,
+   "away_score": 9,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173757,
+   "date": "2026-11-07",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Northwood School Huskies U19 W",
+   "home_score": 4,
+   "away_score": 5,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173756,
+   "date": "2026-11-06",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Northwood School Huskies U19 W",
+   "home_score": 0,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 165982,
+   "date": "2026-09-06",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Gilmour Academy Lancers (Prep) W",
+   "home_score": 3,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 165999,
+   "date": "2026-09-06",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Sno-king Jr. Thunderbirds U19 W",
+   "home_score": 2,
+   "away_score": 4,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 165939,
+   "date": "2026-09-05",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Anaheim Lady Ducks U19",
+   "home_score": 3,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 165940,
+   "date": "2026-09-05",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Massachusetts Spitfires U19 (Major1) W",
+   "home_score": 3,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 165929,
+   "date": "2026-09-04",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Connecticut Jr. Rangers U19 W",
+   "home_score": 1,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 165930,
+   "date": "2026-09-04",
+   "home": "Winchendon School Wapiti U19 W",
+   "away": "Bay State Breakers U19 (Green) W",
+   "home_score": 3,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "batch": "2026-11-21 Chicago Mission U19 W (5 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 5046. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Chicago Mission U19 W": 5046,
+  "Bishop Kearney Selects U19 W": 5030,
+  "NAHA Winter Hawks U19 White W": 4309
+ },
+ "alias": {
+  "Bishop Kearney Selects U19 W": "Bishop Kearney Selects 19U",
+  "Chicago Mission U19 W": "Mission 19"
+ },
+ "defaults": {
+  "age_bracket": "19U",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 176742,
+   "date": "2026-11-20",
+   "home": "Chicago Mission U19 W",
+   "away": "Bishop Kearney Selects U19 W",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 176743,
+   "date": "2026-11-20",
+   "home": "Chicago Mission U19 W",
+   "away": "NAHA Winter Hawks U19 White W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173269,
+   "date": "2026-11-01",
+   "home": "Chicago Mission U19 W",
+   "away": "Bishop Kearney Selects U19 W",
+   "home_score": 3,
+   "away_score": 3,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173263,
+   "date": "2026-10-31",
+   "home": "Chicago Mission U19 W",
+   "away": "Bishop Kearney Selects U19 W",
+   "home_score": 2,
+   "away_score": 4,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173265,
+   "date": "2026-10-31",
+   "home": "Chicago Mission U19 W",
+   "away": "Bishop Kearney Selects U19 W",
+   "home_score": 4,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

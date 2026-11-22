@@ -1,0 +1,70 @@
+{
+ "batch": "2026-11-21 Little Caesars U14 W (5 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 4994. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Little Caesars U14 W": 4994,
+  "Fox Motors U14 T1 W": 8937,
+  "Lovell Academy Lions U14 W": 9756,
+  "Sarnia Jr. Lady Sting U15 AA": 15658,
+  "Florida Alliance U14 T1 W": 4818,
+  "Windsor Wildcats U15 AA W": 6540
+ },
+ "alias": {
+  "Fox Motors U14 T1 W": "Fox Motors U14 W",
+  "Florida Alliance U14 T1 W": "Florida Alliance U14 T1",
+  "Little Caesars U14 W": "Little Caesars 14U W"
+ },
+ "defaults": {
+  "age_bracket": "14U & younger",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 175941,
+   "date": "2026-11-15",
+   "home": "Little Caesars U14 W",
+   "away": "Fox Motors U14 T1 W",
+   "home_score": 3,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 176525,
+   "date": "2026-11-15",
+   "home": "Little Caesars U14 W",
+   "away": "Lovell Academy Lions U14 W",
+   "home_score": 0,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 176524,
+   "date": "2026-11-14",
+   "home": "Little Caesars U14 W",
+   "away": "Sarnia Jr. Lady Sting U15 AA",
+   "home_score": 2,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174478,
+   "date": "2026-11-13",
+   "home": "Little Caesars U14 W",
+   "away": "Florida Alliance U14 T1 W",
+   "home_score": 7,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174479,
+   "date": "2026-11-13",
+   "home": "Little Caesars U14 W",
+   "away": "Windsor Wildcats U15 AA W",
+   "home_score": 4,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

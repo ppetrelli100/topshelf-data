@@ -1,0 +1,58 @@
+{
+ "batch": "2026-11-21 Stanstead College Spartans W (4 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 8328. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Stanstead College Spartans W": 8328,
+  "Ontario Hockey Academy U22 (Gold) W": 6484,
+  "Washington Pride U19 W": 5511,
+  "NAHA Winter Hawks U19 White W": 4309,
+  "College Champlain-Lennoxville Cougars W (Col D1)": 2707
+ },
+ "alias": {
+  "Stanstead College Spartans W": "Stanstead College Spartans W"
+ },
+ "defaults": {
+  "age_bracket": "19U",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 174351,
+   "date": "2026-11-15",
+   "home": "Stanstead College Spartans W",
+   "away": "Ontario Hockey Academy U22 (Gold) W",
+   "home_score": 3,
+   "away_score": 4,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174348,
+   "date": "2026-11-13",
+   "home": "Stanstead College Spartans W",
+   "away": "Washington Pride U19 W",
+   "home_score": 4,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174350,
+   "date": "2026-11-13",
+   "home": "Stanstead College Spartans W",
+   "away": "NAHA Winter Hawks U19 White W",
+   "home_score": 2,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173751,
+   "date": "2026-11-06",
+   "home": "Stanstead College Spartans W",
+   "away": "College Champlain-Lennoxville Cougars W (Col D1)",
+   "home_score": 5,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}
