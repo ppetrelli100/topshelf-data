@@ -1541,7 +1541,8 @@
     {"from": "crable|kenedee", "to": "crable|kenadee"},
     {"from": "peck|lilly", "to": "peck|lillian"},
     {"from": "kelzenberg|josephine", "to": "kelzenberg|jozie"},
-    {"from": "barter|eleanor", "to": "bartter|eleanor"}
+    {"from": "barter|eleanor", "to": "bartter|eleanor"},
+    {"from": "klein|jillian", "to": "klein|jilian"}
   ],
   "pkExceptions": [
     {
