@@ -123,6 +123,8 @@ sys.path.insert(0, os.path.join(TSD, 'tools')); import hudl_extras, datetime
 EXREAL = {}; EXDATE = {}; XMAP = {}       # XMAP: (real game, Hudl team name) -> TPE team name of the same side, so coverage masks line up when the two platforms spell a team differently
 _xr, _xg = hudl_extras.load(os.path.join(TSD, 'hub_extras'), HAVE_H)
 _starts = sorted(WSTART.items(), key=lambda kv: kv[1])
+# per-match override of the hub name for one side of a hand-captured Hudl game (hub_game_exclusions.json 'hudl_extras_team': {hudl_id, team (as captured), as}) for when the shared-player match below picks the wrong team
+HX_OVR = {(str(g['hudl_id']), g['team']): g['as'] for g in (json.load(open(_xp, encoding='utf-8')).get('hudl_extras_team', []) if os.path.exists(_xp) else [])}
 def _season_of(d):
     ok = [n for n, st in _starts if d >= st]
     return ok[-1] if ok else None
@@ -153,6 +155,8 @@ if _xr:
         for tn, st in sets.items():     # the Hudl-side name: the Hudl team (any date) sharing the most players, else this capture's own name
             t2 = max(hud_sets.items(), key=lambda kv: len(kv[1] & st), default=None)
             amap[(hid, tn)] = t2[0] if t2 and len(t2[1] & st) >= 5 else ALIAS.get(tn, tn)
+        for tn in sets:
+            if (hid, tn) in HX_OVR: amap[(hid, tn)] = HX_OVR[(hid, tn)]
         if best:
             gi = best[1]; EXREAL['hx' + hid] = ('t', gi); _paired += 1
             for tn, st in sets.items():

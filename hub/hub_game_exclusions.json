@@ -262,5 +262,44 @@
    "as": "Shattuck-St. Mary's 19U",
    "reason": "16 of 17 skaters are on the Shattuck 19-2 roster, 0 on Prep 19U (the Prep game that day is TPE 171688)"
   }
+ ],
+ "_note_extras_team": "hudl_extras_team: one side of a hand-captured Hudl game (hub_extras/hudl_*.txt) whose hub team name the shared-player match picked wrongly; {hudl_id, team (name as captured), as (hub team name)}. Read by tools/build_hub_hudl.py.",
+ "hudl_extras_team": [
+  {
+   "hudl_id": 2274175,
+   "team": "MN Elite Vegas 19U",
+   "as": "MN Elite Vegas (Tradition Mortgage) U19 W",
+   "reason": "shared-player match filed this MN Elite Vegas 19U side under Minnesota Jr. Whitecaps U14"
+  },
+  {
+   "hudl_id": 2275986,
+   "team": "MN Elite Vegas 19U",
+   "as": "MN Elite Vegas (Tradition Mortgage) U19 W",
+   "reason": "same as 2274175"
+  },
+  {
+   "hudl_id": 2276712,
+   "team": "Chicago Mission 19U AAA",
+   "as": "Chicago Mission U19",
+   "reason": "Hudl 19U AAA side; the other 9 Chicago Mission 19U games are Chicago Mission U19, this one landed on U16 W"
+  },
+  {
+   "hudl_id": 2285746,
+   "team": "Philadelphia Jr Flyers 14U AAA",
+   "as": "Philadelphia Jr. Flyers U14 T1",
+   "reason": "the other 5 Hudl 14U AAA games are Philadelphia Jr. Flyers U14 T1"
+  },
+  {
+   "hudl_id": 2285746,
+   "team": "WNY Niagara Jr. Cataracts 14U",
+   "as": "WNY Niagara Jr. Cataracts 14U",
+   "reason": "filed under Buffalo Jr. Sabres U14 W; different club"
+  },
+  {
+   "hudl_id": 2296391,
+   "team": "OHA Mavericks Gold U22 AA",
+   "as": "OHA Mavericks Gold U22 AA",
+   "reason": "filed under Ontario Hockey Academy U16 AAA; the U22 AA team (kept as captured in 2285457)"
+  }
  ]
 }
