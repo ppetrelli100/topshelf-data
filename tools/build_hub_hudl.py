@@ -67,6 +67,13 @@ pgs['team_name'] = pgs.team_id.map(TEAM)
 _sid = dict(zip(hg.id, hg.source_record_id.astype(str)))
 _n2 = len(pgs); pgs = pgs[[(_sid.get(g), t) not in HUDL_EXCL for g, t in zip(pgs.game_id, pgs.team_name)]].copy()
 print('excluded %d Hudl player-game row(s) (one side of a game) listed in hub_game_exclusions.json' % (_n2 - len(pgs)))
+# one SIDE of a Hudl match filed under the wrong team (hub_game_exclusions.json 'hudl_relabel': {hudl_id, team, as}); applied at once, so two entries can swap a game's sides
+_xr = json.load(open(_xp, encoding='utf-8')).get('hudl_relabel', []) if os.path.exists(_xp) else []
+if _xr:
+    _RL = {(str(g['hudl_id']), g['team']): g['as'] for g in _xr}
+    _nm = [_RL.get((_sid.get(g), t), t) for g, t in zip(pgs.game_id, pgs.team_name)]
+    print('relabeled %d Hudl player-game row(s) (hub_game_exclusions.json hudl_relabel)' % sum(1 for a_, b_ in zip(_nm, pgs.team_name) if a_ != b_))
+    pgs['team_name'] = _nm
 pgs['date'] = pgs.game_id.map(dict(zip(hg.id, hg.game_date.astype(str))))
 pgs['season'] = pgs.game_id.map(dict(zip(hg.id, hg.season_id))).map(SEASON)
 print('Hudl player-games (toi>0):', len(pgs), 'games', pgs.game_id.nunique())

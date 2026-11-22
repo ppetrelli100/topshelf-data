@@ -150,6 +150,13 @@ miss = pgs.team_name.isna()
 pgs.loc[miss, 'team_name'] = [gopp.get(g) if o else gtrk.get(g) for g, o in zip(pgs.game_id[miss], pgs.is_opponent[miss])]
 print('rows still without team name:', pgs.team_name.isna().sum())
 pgs['team_name'] = pgs.team_name.fillna('?')
+# one SIDE of a TPE game filed under the wrong team (hub_game_exclusions.json 'tpe_relabel': {tpe_id, team, as}): re-file it under the right Hub team
+_rl = {(str(g['tpe_id']), g['team']): g['as'] for g in json.load(open(_xp, encoding='utf-8')).get('tpe_relabel', [])} if os.path.exists(_xp) else {}
+if _rl:
+    _rec = dict(zip(tpe.id, tpe.source_record_id.astype(str)))
+    _new = [_rl.get((_rec.get(g), t), t) for g, t in zip(pgs.game_id, pgs.team_name)]
+    print('relabeled %d TPE player-game row(s) (hub_game_exclusions.json tpe_relabel)' % sum(1 for a_, b_ in zip(_new, pgs.team_name) if a_ != b_))
+    pgs['team_name'] = _new
 
 # one row per (game, pk, team): sum if a person appears twice in a game
 key = ['game_id', 'pk', 'team_name']

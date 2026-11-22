@@ -144,6 +144,87 @@
    "date": "2026-10-24",
    "team": "North York Storm U18 AA",
    "reason": "North York Storm U18 AA side vs Brampton Canadettes U18 AA: 0 of 11 skaters (Bramer, Curtis, Dowhaniuk, Herrmann-Taylor, James, Murphy, S. Okojie, Se. Okojie, Pakeerathan, Scauzillo, Subendran) are on the North York Storm U18 2026-27 roster; a different squad filed under the North York identity"
+  },
+  {
+   "hudl_id": 2278837,
+   "date": "2026-10-24",
+   "team": "Brampton Canadettes U18 AA",
+   "reason": "Other side of the same match as the North York Storm U18 AA side already dropped: 0 of 13 skaters are on the Brampton Jr Canadettes U18 roster, so neither side is who Hudl labels it (hand-confirmed: drop the whole game)"
+  }
+ ],
+ "_note_relabel": "'tpe_relabel' / 'hudl_relabel': one SIDE of a game filed under the wrong team; re-file it as the named Hub team (checked against the rosters). Entries are applied together, so two hudl_relabel entries on one game swap its sides.",
+ "tpe_relabel": [
+  {
+   "tpe_id": 172241,
+   "date": "2026-10-23",
+   "team": "Sno-king Jr. Thunderbirds U19 W",
+   "as": "Sno-king Jr. Thunderbirds U16 W",
+   "reason": "9 of 13 skaters on the Sno-King 16U roster (4 on 19U); Hudl files the same weekend's games under U16 W"
+  },
+  {
+   "tpe_id": 172242,
+   "date": "2026-10-23",
+   "team": "Sno-king Jr. Thunderbirds U19 W",
+   "as": "Sno-king Jr. Thunderbirds U16 W",
+   "reason": "9 of 13 skaters on the Sno-King 16U roster (4 on 19U)"
+  },
+  {
+   "tpe_id": 172244,
+   "date": "2026-10-24",
+   "team": "Sno-king Jr. Thunderbirds U19 W",
+   "as": "Sno-king Jr. Thunderbirds U16 W",
+   "reason": "10 of 14 skaters on the Sno-King 16U roster (4 on 19U)"
+  },
+  {
+   "tpe_id": 172409,
+   "date": "2026-10-24",
+   "team": "Sno-king Jr. Thunderbirds U19 W",
+   "as": "Sno-king Jr. Thunderbirds U16 W",
+   "reason": "10 of 14 skaters on the Sno-King 16U roster (4 on 19U)"
+  },
+  {
+   "tpe_id": 172685,
+   "date": "2026-10-25",
+   "team": "Biggby Coffee U19 W",
+   "as": "Biggby Coffee U16 W",
+   "reason": "14 of 14 skaters are on the Biggby Coffee 16U roster, 0 on 19U"
+  }
+ ],
+ "hudl_relabel": [
+  {
+   "hudl_id": 2255288,
+   "date": "2026-09-25",
+   "team": "San Jose Jr. Sharks U14 T1",
+   "as": "North Halton Twisters U15 AA W",
+   "reason": "The two sides of this match are swapped: the San Jose label holds 14 North Halton U15 skaters"
+  },
+  {
+   "hudl_id": 2255288,
+   "date": "2026-09-25",
+   "team": "North Halton Twisters U15 AA W",
+   "as": "San Jose Jr. Sharks U14 T1",
+   "reason": "The two sides of this match are swapped: the North Halton label holds 14 San Jose 14U skaters"
+  },
+  {
+   "hudl_id": 2253904,
+   "date": "2026-09-18",
+   "team": "Okanagan Hockey Academy Penticton U18 Prep",
+   "as": "OHA Edmonton U18 Prep W",
+   "reason": "17 of 18 skaters are on the OHA Edmonton U18 roster, 0 on Penticton"
+  },
+  {
+   "hudl_id": 2263905,
+   "date": "2026-10-03",
+   "team": "Shattuck St. Marys U19 (Prep)",
+   "as": "Shattuck-St. Mary's 19U",
+   "reason": "15 of 16 skaters are on the Shattuck 19-2 roster, 0 on Prep 19U (the Prep game that day is TPE 168202)"
+  },
+  {
+   "hudl_id": 2275054,
+   "date": "2026-10-16",
+   "team": "Shattuck St. Marys U19 (Prep)",
+   "as": "Shattuck-St. Mary's 19U",
+   "reason": "16 of 17 skaters are on the Shattuck 19-2 roster, 0 on Prep 19U (the Prep game that day is TPE 171688)"
   }
  ]
 }
