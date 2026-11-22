@@ -26,13 +26,18 @@ meta = jl('hub_meta.json'); TEAMS = meta['teams']; SEAS = meta['seasons']
 HP = jl('hub_players.json'); PK = [r[0] for r in HP['rows']]; PNAME = {r[0]: r[1] for r in HP['rows']}
 HG = jl('hub_games.json'); GROW = HG['rows']
 tpe_gid = {r[0]: i for i, r in enumerate(GROW)}           # export game uuid -> hub gi
+tpe_g = collections.defaultdict(list)                     # (tpe real-game id, team) -> [(pk, toi, shots against, goals against)]
 tpe_rows = collections.defaultdict(list)                  # (tpe real-game id, team) -> [(pk, pos, toi, shifts, pp, pk)]
 for fn in sorted(glob.glob(os.path.join(OUT, 'hub_pgs_*.json'))):
     d = json.load(open(fn)); h = {c: i for i, c in enumerate(d['header'])}
     for r in d['rows']:
-        if r[h['pos']] == 'G' or not r[h['toi_seconds']]: continue
+        if not r[h['toi_seconds']]: continue
+        if r[h['pos']] == 'G':        # goalies: kept apart from the skater rows (shots against, goals against, for the scouting card)
+            ga_ = r[h['goals_against']] or 0; sv_ = r[h['saves']] or 0; sa_ = r[h['shots_against']] or (sv_ + ga_)
+            tpe_g[(r[h['gi']], TEAMS[r[h['ti']]])].append((PK[r[h['pi']]], r[h['toi_seconds']] or 0, sa_, ga_)); continue
         tpe_rows[(r[h['gi']], TEAMS[r[h['ti']]])].append((PK[r[h['pi']]], r[h['pos']], r[h['toi_seconds']] or 0, r[h['shifts']] or 0,
-                                                          r[h['pp_toi_seconds']] or 0, r[h['pk_toi_seconds']] or 0))
+                                                          r[h['pp_toi_seconds']] or 0, r[h['pk_toi_seconds']] or 0,
+                                                          r[h['goals']] or 0, r[h['assists']] or 0, r[h['shots_on_goal']] or 0))
 tpe_season = {i: r[2] for i, r in enumerate(GROW)}        # hub_games col 2 = season index
 
 # ---------- Hudl games ----------
@@ -169,7 +174,7 @@ print('Hudl duplicate team-game rows removed:', dups)
 cov = collections.defaultdict(int)                        # (real, team) -> mask
 for (gi, tn) in tpe_rows: cov[(('t', gi), tn)] |= 1
 for r, tn in pgs[['real', 'team_name']].drop_duplicates().itertuples(index=False): cov[(r, XMAP.get((r, tn), tn))] |= 2
-agg = collections.defaultdict(lambda: [0, 0, 0, 0, 0]); name_of = {}; counts = collections.defaultdict(lambda: [0, 0])
+agg = collections.defaultdict(lambda: [0, 0, 0, 0, 0, 0, 0, 0]); gagg = collections.defaultdict(lambda: [0, 0, 0, 0, 0]); name_of = {}; counts = collections.defaultdict(lambda: [0, 0])
 TI = {t: i for i, t in enumerate(TEAMS)}
 extra_teams = []
 def ti_of(tn):
@@ -178,10 +183,17 @@ def ti_of(tn):
 for (gi, tn), lst in tpe_rows.items():
     si = tpe_season[gi]; m = cov[(('t', gi), tn)]; ti = ti_of(tn)
     counts[(ti, si)][0] += 1
-    for pk, pos, toi, sh, pp, pkk in lst:
-        a = agg[(ti, si, pk, 0, m, pos)]; a[0] += 1; a[1] += toi; a[2] += sh; a[3] += pp; a[4] += pkk
+    for pk, pos, toi, sh, pp, pkk, gl, asst, sog in lst:
+        a = agg[(ti, si, pk, 0, m, pos)]; a[0] += 1; a[1] += toi; a[2] += sh; a[3] += pp; a[4] += pkk; a[5] += gl; a[6] += asst; a[7] += sog
+        name_of.setdefault(pk, PNAME.get(pk))
+for (gi, tn), lst in tpe_g.items():       # TPE goalies: [gp, toi, shots against, goals against, toi in games that carry shot data]
+    si = tpe_season[gi]; m = cov.get((('t', gi), tn), 1); ti = ti_of(tn)
+    for pk, toi, sa, ga in lst:
+        a = gagg[(ti, si, pk, 0, m)]; a[0] += 1; a[1] += toi
+        if sa > 0: a[2] += sa; a[3] += ga; a[4] += toi
         name_of.setdefault(pk, PNAME.get(pk))
 pgs['si'] = pgs.season.map(SI)
+_n = lambda v: int(v) if v == v and v is not None else 0      # NaN-safe int
 sk = pgs[pgs.pos != 'G']
 tg = sk.groupby(['real', 'team_name'])
 for (r, tn), grp in tg:
@@ -189,13 +201,29 @@ for (r, tn), grp in tg:
     for row in grp.itertuples(index=False):
         a = agg[(ti, si, row.pk, 1, m, row.pos)]; a[0] += 1; a[1] += int(row.toi_seconds); a[2] += int(row.shifts or 0)
         a[3] += int(row.pp_toi_seconds or 0); a[4] += int(row.pk_toi_seconds or 0)
+        _gl = _n(row.goals_hudl); _pt = _n(row.points_hudl); a[5] += _gl; a[6] += max(0, _pt - _gl); a[7] += _n(row.shots_on_goal)
         name_of.setdefault(row.pk, row.hname)
+_opp = collections.defaultdict(lambda: [0, 0])          # (real game, team) -> [shots on goal, goals] by that side's skaters
+for row in sk.itertuples(index=False):
+    o = _opp[(row.real, row.team_name)]; o[0] += _n(row.shots_on_goal); o[1] += _n(row.goals_hudl)
+_sides = collections.defaultdict(list)
+for r_, tn_ in pgs[['real', 'team_name']].drop_duplicates().itertuples(index=False): _sides[r_].append(tn_)
+for row in pgs[pgs.pos == 'G'].itertuples(index=False):
+    tn = row.team_name; m = cov[(row.real, XMAP.get((row.real, tn), tn))]; ti = ti_of(tn); si = int(row.si)
+    sa = ga = 0
+    for ot in _sides[row.real]:
+        if ot != tn: sa += _opp[(row.real, ot)][0]; ga += _opp[(row.real, ot)][1]
+    a = gagg[(ti, si, row.pk, 1, m)]; a[0] += 1; a[1] += int(row.toi_seconds)
+    if sa > 0: a[2] += sa; a[3] += ga; a[4] += int(row.toi_seconds)
+    name_of.setdefault(row.pk, row.hname)
 hud_tg = pgs.drop_duplicates(['real', 'team_name'])[['real', 'team_name', 'si']]
 for r, tn, si in hud_tg.itertuples(index=False): counts[(ti_of(tn), int(si))][1] += 1
 
 master = json.load(open(os.path.join(TSD, 'master.json'))); M = {x['PersonKey']: x for x in master}
 rows = [[ti, si, pk, (M[pk]['Name'] if pk in M else name_of.get(pk) or pk), pos, src, m, *a] for (ti, si, pk, src, m, pos), a in sorted(agg.items(), key=lambda kv: (kv[0][0], kv[0][1], kv[0][2], kv[0][3], kv[0][4]))]
-obj = {'header': ['ti', 'si', 'pk', 'name', 'pos', 'src', 'mask', 'gp', 'toi', 'shifts', 'pp', 'pk_'], 'sources': ['tpe', 'hudl'],
+grows = [[ti, si, pk, (M[pk]['Name'] if pk in M else name_of.get(pk) or pk), src, m, *a] for (ti, si, pk, src, m), a in sorted(gagg.items(), key=lambda kv: kv[0])]
+obj = {'header': ['ti', 'si', 'pk', 'name', 'pos', 'src', 'mask', 'gp', 'toi', 'shifts', 'pp', 'pk_', 'goals', 'assists', 'sog'], 'sources': ['tpe', 'hudl'],
+       'goalie_header': ['ti', 'si', 'pk', 'name', 'src', 'mask', 'gp', 'toi', 'sa', 'ga', 'toi_d'], 'goalies': grows,
        'teams': TEAMS + extra_teams, 'seasons': SEAS, 'games': {'%d|%d' % k: v for k, v in counts.items()}, 'rows': rows}
 p = os.path.join(OUT, 'hub_toi.json'); json.dump(obj, open(p, 'w'), separators=(',', ':'))
 print('hub_toi.json: %d rows, %.2f MiB, %d extra teams (Hudl only)' % (len(rows), os.path.getsize(p) / 1048576, len(extra_teams)))
