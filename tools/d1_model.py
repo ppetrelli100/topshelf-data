@@ -1,4 +1,4 @@
-"""d1_model.py -- US D1 probability model (first version, Nov 2026). Writes ../d1prob.json for the playerview "D1 outlook" tab.
+"""d1_model.py -- US D1 probability model (first version, Nov 2026). Writes ../../hockeyfile/d1prob.json (site folder, owner-only; never the public repo) for the playerview "D1 outlook" tab.
 Training: US players born 2006/2007 in the recruited pool (see d1_rates.py). One ridge-logistic model per as-of age 15/16/17 using
  best camp to date, U1617 repeat, position, club D1 rate (leave-one-out, shrunk with prior weight CLUB_A=20, plus a club x has-camp term),
  Hub TPE composite vs level (key metrics), and camp performance: the tpe.html composite (default weights, z within camp x position) as a percentile in the camp pool
@@ -229,8 +229,8 @@ if __name__=='__main__' and '--cv' not in sys.argv:
         if best(labs_to(x,age))<3: pr=min(pr,0.90)   # cross-validation never supported >90% without a U18/WNT selection
         tf,_,_=design(x,17,['club','usah'],rows,pk in seen)
         tp=tclf.predict_proba(np.clip((np.array(tf,float)-tmu)/tsd,-2.5,2.5).reshape(1,-1))[0]
-        out.append([pk,p['Name'],by,x['pos'],age,round(pr,3),cm,col or '',(d1[col]['tier'] if col in d1 else ''),[round(float(v),3) for v in tp],why(mod,f,x,cr),x['club'] or ''])
+        out.append([pk,p['Name'],by,x['pos'],age,round(pr,3),cm,col or '',(d1[col]['tier'] if col in d1 else ''),[round(float(v),3) for v in tp],why(mod,f,x,cr),x['club'] or '',(p['Grad'] if isinstance(p.get('Grad'),int) else by+18)])
     meta=dict(built=datetime.date.today().isoformat(),note='P(D1 | in the recruited pool, US). Trained on 2006/2007 birth years; one model per as-of age.',
-              fields=['pk','name','by','pos','asofAge','pD1','committedTo','college','tier','tierProbs(1-4|D1)','why','club'],n=len(out),train=len(rows))
-    json.dump(dict(meta=meta,rows=out),open(os.path.join(D,'d1prob.json'),'w'),separators=(',',':'))
+              fields=['pk','name','by','pos','asofAge','pD1','committedTo','college','tier','tierProbs(1-4|D1)','why','club','gradYr'],n=len(out),train=len(rows))
+    json.dump(dict(meta=meta,rows=out),open(os.path.join(D,'..','hockeyfile','d1prob.json'),'w'),separators=(',',':'))
     print('wrote d1prob.json',len(out),'players')
