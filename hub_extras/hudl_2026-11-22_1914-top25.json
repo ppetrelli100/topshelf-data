@@ -1,0 +1,1309 @@
+{
+ "batch": "2026-11-22 Hudl top-25 19U and 14U teams",
+ "source": "app.hudl.com Instat Skaters/Goalies XLS exports (all 133 columns), captured 2026-11-22",
+ "note": "Games on the Hudl pages of the top-25 MHR USA 19U and USA 14U teams (2026-27, from 2026-08-01) that the 2026-10-31 export and earlier extras do not contain; both sides of each game. Competition not captured. 2286921 omitted: duplicate Hudl tracking of 2286589 (same game).",
+ "skater_fields": [
+  "name",
+  "pos",
+  "toi",
+  "shifts",
+  "g",
+  "a1",
+  "a2",
+  "p",
+  "pm",
+  "pea",
+  "pen",
+  "fo",
+  "fow",
+  "fol",
+  "s",
+  "sog",
+  "sbl",
+  "miss",
+  "ppt",
+  "sht",
+  "pe",
+  "cf",
+  "ca",
+  "ff",
+  "fa",
+  "xg",
+  "xgon",
+  "xgopp",
+  "fod",
+  "fodw",
+  "fon",
+  "fonw",
+  "foa",
+  "foaw",
+  "wgt",
+  "hgt"
+ ],
+ "goalie_fields": [
+  "name",
+  "toi",
+  "ga",
+  "sa",
+  "sv",
+  "xgc"
+ ],
+ "games": {
+  "2260608": {
+   "date": "2026-08-29",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "Dallas Stars Elite 14U AAA",
+   "hs": 4,
+   "as": 0
+  },
+  "2229722": {
+   "date": "2026-09-06",
+   "competition": "",
+   "home": "Sno-King Jr Thunderbirds 19U AAA",
+   "away": "The Winchendon School Wapiti Girls Varsity",
+   "hs": 4,
+   "as": 2
+  },
+  "2230031": {
+   "date": "2026-09-05",
+   "competition": "",
+   "home": "Mid Fairfield CT Stars 19U",
+   "away": "Detroit Honeybaked U19",
+   "hs": 3,
+   "as": 0
+  },
+  "2231037": {
+   "date": "2026-09-06",
+   "competition": "",
+   "home": "Team Colorado 14U",
+   "away": "Charles River Blazers 14U AAA",
+   "hs": 0,
+   "as": 4
+  },
+  "2234162": {
+   "date": "2026-09-06",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Mid Fairfield CT Stars 14U",
+   "hs": 2,
+   "as": 0
+  },
+  "2238996": {
+   "date": "2026-09-13",
+   "competition": "",
+   "home": "LA Lions 14U AAA",
+   "away": "MN Grey Ducks U14",
+   "hs": 5,
+   "as": 3
+  },
+  "2250821": {
+   "date": "2026-09-18",
+   "competition": "",
+   "home": "Toronto Leaside Jr. Wildcats",
+   "away": "Chicago Mission 19U AAA",
+   "hs": 1,
+   "as": 2
+  },
+  "2250863": {
+   "date": "2026-09-20",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 19U Girls",
+   "away": "Toronto Jr. Aeros",
+   "hs": 3,
+   "as": 2
+  },
+  "2251276": {
+   "date": "2026-09-19",
+   "competition": "",
+   "home": "Whitby Junior Wolves",
+   "away": "Chicago Mission 19U AAA",
+   "hs": 1,
+   "as": 2
+  },
+  "2251336": {
+   "date": "2026-09-19",
+   "competition": "",
+   "home": "Minnesota Lakers 14U",
+   "away": "Thunder Bay Queens U15 AA",
+   "hs": 3,
+   "as": 2
+  },
+  "2252424": {
+   "date": "2026-09-18",
+   "competition": "",
+   "home": "Bourget College U19/U22 Volts",
+   "away": "Belle Tire 19U AAA",
+   "hs": 2,
+   "as": 0
+  },
+  "2252848": {
+   "date": "2026-09-18",
+   "competition": "",
+   "home": "Barrie Jr. Sharks",
+   "away": "Philadelphia Jr. Flyers 19U AAA",
+   "hs": 2,
+   "as": 1
+  },
+  "2252849": {
+   "date": "2026-09-19",
+   "competition": "",
+   "home": "Barrie Jr. Sharks",
+   "away": "Lovell Academy 19U AAA",
+   "hs": 0,
+   "as": 3
+  },
+  "2252857": {
+   "date": "2026-09-19",
+   "competition": "",
+   "home": "Belle Tire 19U AAA",
+   "away": "Toronto Jr. Aeros",
+   "hs": 2,
+   "as": 3
+  },
+  "2253379": {
+   "date": "2026-09-20",
+   "competition": "",
+   "home": "Valley Jr. Warriors 19U",
+   "away": "Atlantic Coast Academy 16U AAA",
+   "hs": 1,
+   "as": 0
+  },
+  "2253892": {
+   "date": "2026-09-19",
+   "competition": "",
+   "home": "Thunder Bay Queens U15 AA",
+   "away": "MN Walleye 14U",
+   "hs": 0,
+   "as": 5
+  },
+  "2254535": {
+   "date": "2026-09-18",
+   "competition": "",
+   "home": "Chicago Mission 19U AAA",
+   "away": "Bluewater Jr. Hawks",
+   "hs": 3,
+   "as": 2
+  },
+  "2254538": {
+   "date": "2026-09-20",
+   "competition": "",
+   "home": "Bluewater Jr. Hawks",
+   "away": "Philadelphia Jr. Flyers 19U AAA",
+   "hs": 5,
+   "as": 4
+  },
+  "2254620": {
+   "date": "2026-09-25",
+   "competition": "",
+   "home": "Bishop Kearney Selects 19U AAA",
+   "away": "Stanstead College Varsity",
+   "hs": 1,
+   "as": 4
+  },
+  "2255054": {
+   "date": "2026-09-26",
+   "competition": "",
+   "home": "Bishop Kearney Selects 19U AAA",
+   "away": "Stanstead College Varsity",
+   "hs": 3,
+   "as": 4
+  },
+  "2255069": {
+   "date": "2026-09-25",
+   "competition": "",
+   "home": "Scarborough Sharks U15 AA",
+   "away": "Lovell Academy 14U AAA",
+   "hs": 0,
+   "as": 9
+  },
+  "2255676": {
+   "date": "2026-09-25",
+   "competition": "",
+   "home": "Windy City Storm 14U AAA",
+   "away": "Durham West Lightning U15 AA",
+   "hs": 0,
+   "as": 1
+  },
+  "2255727": {
+   "date": "2026-09-25",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Bluewater Hawks U15 AA",
+   "hs": 1,
+   "as": 2
+  },
+  "2255728": {
+   "date": "2026-09-25",
+   "competition": "",
+   "home": "Kitchener Lady Rangers U15 AA",
+   "away": "Pittsburgh Penguins Elite 14U Girls",
+   "hs": 1,
+   "as": 1
+  },
+  "2255729": {
+   "date": "2026-09-26",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Barrie Sharks U15 AA",
+   "hs": 2,
+   "as": 1
+  },
+  "2256086": {
+   "date": "2026-09-27",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Sault Ste. Marie U15 AA",
+   "hs": 3,
+   "as": 1
+  },
+  "2256325": {
+   "date": "2026-09-27",
+   "competition": "",
+   "home": "Barrie Sharks U15 AA",
+   "away": "Philadelphia Jr Flyers 14U AAA",
+   "hs": 1,
+   "as": 2
+  },
+  "2256367": {
+   "date": "2026-09-26",
+   "competition": "",
+   "home": "BioSteel Sports Academy U22 AAA",
+   "away": "Belle Tire 19U AAA",
+   "hs": 2,
+   "as": 6
+  },
+  "2256475": {
+   "date": "2026-09-27",
+   "competition": "",
+   "home": "Biggby Coffee AAA Hockey 19U",
+   "away": "Little Caesars 19U AAA",
+   "hs": 0,
+   "as": 4
+  },
+  "2257566": {
+   "date": "2026-09-26",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "Durham West Lightning U15 AA",
+   "hs": 4,
+   "as": 3
+  },
+  "2258058": {
+   "date": "2026-09-27",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "New Jersey Bandits 14U",
+   "hs": 11,
+   "as": 0
+  },
+  "2258194": {
+   "date": "2026-09-05",
+   "competition": "",
+   "home": "Dallas Stars Elite Girls 19U T1",
+   "away": "Mid Fairfield CT Stars 19U",
+   "hs": 3,
+   "as": 0
+  },
+  "2258988": {
+   "date": "2026-09-27",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "New Jersey Bandits 14U",
+   "hs": 14,
+   "as": 0
+  },
+  "2259095": {
+   "date": "2026-09-26",
+   "competition": "",
+   "home": "Toronto Leaside Wildcats U15 AA",
+   "away": "Team Illinois 14U AAA",
+   "hs": 4,
+   "as": 0
+  },
+  "2259170": {
+   "date": "2026-09-27",
+   "competition": "",
+   "home": "Lovell Academy 14U AAA",
+   "away": "Toronto Leaside Wildcats U15 AA",
+   "hs": 4,
+   "as": 0
+  },
+  "2260619": {
+   "date": "2026-09-24",
+   "competition": "",
+   "home": "Chicago Mission 19U AAA",
+   "away": "Team Wisconsin 19U AAA",
+   "hs": 9,
+   "as": 1
+  },
+  "2260621": {
+   "date": "2026-09-24",
+   "competition": "",
+   "home": "Chicago Mission 19U AAA",
+   "away": "Team Wisconsin 19U AAA",
+   "hs": 6,
+   "as": 0
+  },
+  "2261098": {
+   "date": "2026-10-02",
+   "competition": "",
+   "home": "The Winchendon School Wapiti Girls Varsity",
+   "away": "Master's Academy International 19U",
+   "hs": 1,
+   "as": 2
+  },
+  "2263783": {
+   "date": "2026-10-04",
+   "competition": "",
+   "home": "Connecticut Ice Cats 14U",
+   "away": "NY Dynamo 14U AAA",
+   "hs": 1,
+   "as": 6
+  },
+  "2263790": {
+   "date": "2026-10-04",
+   "competition": "",
+   "home": "Connecticut Ice Cats 14U",
+   "away": "NY Dynamo 14U AAA",
+   "hs": 1,
+   "as": 7
+  },
+  "2264616": {
+   "date": "2026-10-02",
+   "competition": "",
+   "home": "LA Lions 14U AAA",
+   "away": "San Jose Jr. Sharks 14U AAA Girls",
+   "hs": 6,
+   "as": 2
+  },
+  "2264619": {
+   "date": "2026-10-03",
+   "competition": "",
+   "home": "LA Lions 14U AAA",
+   "away": "San Jose Jr. Sharks 14U AAA Girls",
+   "hs": 2,
+   "as": 1
+  },
+  "2265330": {
+   "date": "2026-10-03",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Fox Motors 14U AAA",
+   "hs": 3,
+   "as": 2
+  },
+  "2265331": {
+   "date": "2026-10-03",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Fox Motors 14U AAA",
+   "hs": 4,
+   "as": 0
+  },
+  "2265334": {
+   "date": "2026-10-04",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Fox Motors 14U AAA",
+   "hs": 3,
+   "as": 0
+  },
+  "2265825": {
+   "date": "2026-10-03",
+   "competition": "",
+   "home": "Bourget College U19/U22 Volts",
+   "away": "Philadelphia Jr. Flyers 19U AAA",
+   "hs": 5,
+   "as": 2
+  },
+  "2266171": {
+   "date": "2026-10-10",
+   "competition": "",
+   "home": "Scarborough Sharks U15 AA",
+   "away": "Little Caesars 14U AAA",
+   "hs": 1,
+   "as": 4
+  },
+  "2266197": {
+   "date": "2026-10-10",
+   "competition": "",
+   "home": "Philadelphia Jr Flyers 14U AAA",
+   "away": "Pittsburgh Penguins Elite 14U Girls",
+   "hs": 0,
+   "as": 1
+  },
+  "2266231": {
+   "date": "2026-10-10",
+   "competition": "",
+   "home": "Belle Tire 14U AAA",
+   "away": "NY Dynamo 14U AAA",
+   "hs": 1,
+   "as": 14
+  },
+  "2266369": {
+   "date": "2026-10-10",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "CT Northern Lights 14U",
+   "hs": 8,
+   "as": 1
+  },
+  "2266375": {
+   "date": "2026-10-10",
+   "competition": "",
+   "home": "Philadelphia Jr Flyers 14U AAA",
+   "away": "Pittsburgh Penguins Elite 14U Girls",
+   "hs": 4,
+   "as": 1
+  },
+  "2268724": {
+   "date": "2026-10-11",
+   "competition": "",
+   "home": "Philadelphia Jr Flyers 14U AAA",
+   "away": "Pittsburgh Penguins Elite 14U Girls",
+   "hs": 2,
+   "as": 1
+  },
+  "2268783": {
+   "date": "2026-10-11",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "Florida Alliance 14U AAA",
+   "hs": 6,
+   "as": 3
+  },
+  "2268785": {
+   "date": "2026-10-11",
+   "competition": "",
+   "home": "Princeton Tiger Lilies Black 14U (G)",
+   "away": "NY Dynamo 14U AAA",
+   "hs": 1,
+   "as": 2
+  },
+  "2270838": {
+   "date": "2026-10-12",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "Cleveland Flames U14",
+   "hs": 0,
+   "as": 1
+  },
+  "2271218": {
+   "date": "2026-10-11",
+   "competition": "",
+   "home": "Durham West Lightning U15 AA",
+   "away": "Chicago Mission 14U AAA",
+   "hs": 2,
+   "as": 4
+  },
+  "2272282": {
+   "date": "2026-10-09",
+   "competition": "",
+   "home": "LA Lions 14U AAA",
+   "away": "Toronto Leaside Wildcats U15 AA",
+   "hs": 1,
+   "as": 2
+  },
+  "2272334": {
+   "date": "2026-10-15",
+   "competition": "",
+   "home": "Thunder Bay Queens U15 AA",
+   "away": "Team Illinois 14U AAA",
+   "hs": 3,
+   "as": 1
+  },
+  "2274175": {
+   "date": "2026-10-17",
+   "competition": "",
+   "home": "MN Elite Vegas 19U",
+   "away": "Connecticut Polar Bears 19U Major",
+   "hs": 1,
+   "as": 4
+  },
+  "2274440": {
+   "date": "2026-10-18",
+   "competition": "",
+   "home": "Team Colorado 14U",
+   "away": "Team Illinois 14U AAA",
+   "hs": 0,
+   "as": 2
+  },
+  "2274441": {
+   "date": "2026-10-18",
+   "competition": "",
+   "home": "Thunder Bay Queens U15 AA",
+   "away": "MNHP 14U Green Giants",
+   "hs": 1,
+   "as": 2
+  },
+  "2274467": {
+   "date": "2026-10-16",
+   "competition": "",
+   "home": "Windy City Storm 14U AAA",
+   "away": "Team Colorado 14U",
+   "hs": 3,
+   "as": 1
+  },
+  "2275665": {
+   "date": "2026-10-16",
+   "competition": "",
+   "home": "Washington Pride 14U",
+   "away": "Team Illinois 14U AAA",
+   "hs": 1,
+   "as": 7
+  },
+  "2275751": {
+   "date": "2026-10-23",
+   "competition": "",
+   "home": "Ancaster Avalanche U15 AA",
+   "away": "Pittsburgh Penguins Elite 14U Girls",
+   "hs": 0,
+   "as": 4
+  },
+  "2275986": {
+   "date": "2026-10-17",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 19U Girls",
+   "away": "MN Elite Vegas 19U",
+   "hs": 1,
+   "as": 3
+  },
+  "2275996": {
+   "date": "2026-10-23",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Sarnia Jr Lady Sting U15 AA",
+   "hs": 3,
+   "as": 0
+  },
+  "2276047": {
+   "date": "2026-10-24",
+   "competition": "",
+   "home": "Fort Erie International Academy U22",
+   "away": "Belle Tire 19U AAA",
+   "hs": 0,
+   "as": 7
+  },
+  "2276238": {
+   "date": "2026-10-24",
+   "competition": "",
+   "home": "The Winchendon School Wapiti Girls Varsity",
+   "away": "Atlantic Coast Academy 19U AAA",
+   "hs": 4,
+   "as": 0
+  },
+  "2276518": {
+   "date": "2026-10-24",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Belle Tire 14U AAA",
+   "hs": 7,
+   "as": 1
+  },
+  "2276529": {
+   "date": "2026-10-24",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Windy City Storm 14U AAA",
+   "hs": 2,
+   "as": 4
+  },
+  "2276553": {
+   "date": "2026-10-25",
+   "competition": "",
+   "home": "Oakville Hornets U15 AA",
+   "away": "Pittsburgh Penguins Elite 14U Girls",
+   "hs": 3,
+   "as": 1
+  },
+  "2276712": {
+   "date": "2026-10-25",
+   "competition": "",
+   "home": "Kitchener Lady Rangers U18 AA",
+   "away": "Chicago Mission 19U AAA",
+   "hs": 0,
+   "as": 3
+  },
+  "2276857": {
+   "date": "2026-10-24",
+   "competition": "",
+   "home": "Mid Fairfield CT Stars 14U",
+   "away": "Durham West Lightning U15 AA",
+   "hs": 0,
+   "as": 3
+  },
+  "2276866": {
+   "date": "2026-10-23",
+   "competition": "",
+   "home": "Little Caesars 14U AAA",
+   "away": "North Halton Twisters U15 AA",
+   "hs": 4,
+   "as": 3
+  },
+  "2276939": {
+   "date": "2026-10-25",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "Fox Motors 14U AAA",
+   "hs": 8,
+   "as": 1
+  },
+  "2277008": {
+   "date": "2026-10-23",
+   "competition": "",
+   "home": "Windy City Storm 14U AAA",
+   "away": "HB Detroit 14U AAA",
+   "hs": 2,
+   "as": 3
+  },
+  "2277317": {
+   "date": "2026-10-24",
+   "competition": "",
+   "home": "Lovell Academy 19U AAA",
+   "away": "Stoney Creek Sabres U22",
+   "hs": 1,
+   "as": 2
+  },
+  "2277892": {
+   "date": "2026-10-24",
+   "competition": "",
+   "home": "Team Illinois 19U AAA",
+   "away": "St. Louis Lady Blues 19U",
+   "hs": 8,
+   "as": 0
+  },
+  "2277919": {
+   "date": "2026-10-25",
+   "competition": "",
+   "home": "Culver Academy U19 Prep",
+   "away": "Belle Tire 19U AAA",
+   "hs": 0,
+   "as": 1
+  },
+  "2277944": {
+   "date": "2026-10-23",
+   "competition": "",
+   "home": "Team Colorado 19U",
+   "away": "Chicago Mission 19U AAA",
+   "hs": 0,
+   "as": 5
+  },
+  "2277960": {
+   "date": "2026-10-23",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "Fox Motors 14U AAA",
+   "hs": 2,
+   "as": 2
+  },
+  "2278218": {
+   "date": "2026-10-23",
+   "competition": "",
+   "home": "Belle Tire 19U AAA",
+   "away": "St. Louis Lady Blues 19U",
+   "hs": 2,
+   "as": 0
+  },
+  "2278279": {
+   "date": "2026-10-23",
+   "competition": "",
+   "home": "St. Louis Lady Blues 14U",
+   "away": "Little Caesars 14U AAA",
+   "hs": 0,
+   "as": 4
+  },
+  "2278823": {
+   "date": "2026-10-03",
+   "competition": "",
+   "home": "Rothesay Netherwood School Riverhawks",
+   "away": "Philadelphia Jr. Flyers 19U AAA",
+   "hs": 0,
+   "as": 4
+  },
+  "2278854": {
+   "date": "2026-10-04",
+   "competition": "",
+   "home": "LA Lions 14U AAA",
+   "away": "Tri-Valley Lady Blue Devils 14U AAA",
+   "hs": 2,
+   "as": 1
+  },
+  "2278990": {
+   "date": "2026-10-25",
+   "competition": "",
+   "home": "Little Caesars 14U AAA",
+   "away": "Brampton Canadettes U15 AA",
+   "hs": 3,
+   "as": 1
+  },
+  "2281193": {
+   "date": "2026-10-31",
+   "competition": "",
+   "home": "Belle Tire 19U AAA",
+   "away": "BioSteel Sports Academy U22 AAA",
+   "hs": 3,
+   "as": 1
+  },
+  "2281815": {
+   "date": "2026-10-31",
+   "competition": "",
+   "home": "Chicago Mission 19U AAA",
+   "away": "Bishop Kearney Selects 19U AAA",
+   "hs": 2,
+   "as": 4
+  },
+  "2281915": {
+   "date": "2026-10-31",
+   "competition": "",
+   "home": "Chicago Mission 19U AAA",
+   "away": "Bishop Kearney Selects 19U AAA",
+   "hs": 4,
+   "as": 2
+  },
+  "2282028": {
+   "date": "2026-11-01",
+   "competition": "",
+   "home": "Chicago Mission 19U AAA",
+   "away": "Bishop Kearney Selects 19U AAA",
+   "hs": 3,
+   "as": 3
+  },
+  "2282258": {
+   "date": "2026-11-01",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "Windy City Storm 14U AAA",
+   "hs": 4,
+   "as": 1
+  },
+  "2282381": {
+   "date": "2026-11-01",
+   "competition": "",
+   "home": "Connecticut Polar Bears 14U Major",
+   "away": "Charles River Blazers 14U AAA",
+   "hs": 3,
+   "as": 1
+  },
+  "2282671": {
+   "date": "2026-10-30",
+   "competition": "",
+   "home": "Anaheim Lady Ducks 14U AAA",
+   "away": "LA Lions 14U AAA",
+   "hs": 1,
+   "as": 10
+  },
+  "2282672": {
+   "date": "2026-10-31",
+   "competition": "",
+   "home": "LA Lions 14U AAA",
+   "away": "San Jose Jr. Sharks 14U AAA Girls",
+   "hs": 3,
+   "as": 2
+  },
+  "2282673": {
+   "date": "2026-10-31",
+   "competition": "",
+   "home": "LA Lions 14U AAA",
+   "away": "Tri-Valley Lady Blue Devils 14U AAA",
+   "hs": 3,
+   "as": 2
+  },
+  "2282709": {
+   "date": "2026-11-01",
+   "competition": "",
+   "home": "Lehigh Valley Phantoms 19U Elite",
+   "away": "Philadelphia Jr. Flyers 19U AAA",
+   "hs": 2,
+   "as": 7
+  },
+  "2282727": {
+   "date": "2026-10-24",
+   "competition": "",
+   "home": "Madison Capitols 14U AAA",
+   "away": "Oakville Hornets U15 AA",
+   "hs": 0,
+   "as": 3
+  },
+  "2282728": {
+   "date": "2026-09-26",
+   "competition": "",
+   "home": "Oakville Hornets U15 AA",
+   "away": "New Jersey Colonials 14U AAA",
+   "hs": 1,
+   "as": 2
+  },
+  "2283740": {
+   "date": "2026-11-05",
+   "competition": "",
+   "home": "HB Detroit 19U AAA",
+   "away": "Little Caesars 19U AAA",
+   "hs": 1,
+   "as": 6
+  },
+  "2283760": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "Bishop Kearney Selects 19U AAA",
+   "away": "Connecticut Polar Bears 19U Minor 1",
+   "hs": 6,
+   "as": 0
+  },
+  "2283767": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 19U Girls",
+   "away": "Master's Academy International 19U",
+   "hs": 5,
+   "as": 4
+  },
+  "2283856": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "BioSteel Sports Academy U22 AAA",
+   "away": "Bishop Kearney Selects 19U AAA",
+   "hs": 4,
+   "as": 1
+  },
+  "2284152": {
+   "date": "2026-11-01",
+   "competition": "",
+   "home": "Chicago Mission 14U AAA",
+   "away": "Team Wisconsin 14U AAA",
+   "hs": 1,
+   "as": 2
+  },
+  "2284192": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "Connecticut Polar Bears 19U Prep",
+   "away": "Pittsburgh Penguins Elite 19U Girls",
+   "hs": 1,
+   "as": 5
+  },
+  "2284855": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Bishop Kearney Selects 19U AAA",
+   "away": "Master's Academy International 19U",
+   "hs": 2,
+   "as": 4
+  },
+  "2284904": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Team Wisconsin 14U AAA",
+   "away": "Team Illinois 14U AAA",
+   "hs": 0,
+   "as": 0
+  },
+  "2284935": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "New Jersey Colonials 14U AAA",
+   "away": "Carolina Jr. Hurricanes 14U AAA",
+   "hs": 0,
+   "as": 1
+  },
+  "2284977": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 19U Girls",
+   "away": "BioSteel Sports Academy U22 AAA",
+   "hs": 3,
+   "as": 0
+  },
+  "2285126": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Lovell Academy 19U AAA",
+   "away": "Bishop Kearney Selects 19U AAA",
+   "hs": 6,
+   "as": 3
+  },
+  "2285140": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Team Wisconsin 14U AAA",
+   "away": "Team Illinois 14U AAA",
+   "hs": 4,
+   "as": 1
+  },
+  "2285324": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Princeton Tiger Lilies Black 14U (G)",
+   "away": "NY Dynamo 14U AAA",
+   "hs": 0,
+   "as": 4
+  },
+  "2285328": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Princeton Tiger Lilies Black 14U (G)",
+   "away": "NY Dynamo 14U AAA",
+   "hs": 3,
+   "as": 4
+  },
+  "2285457": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Lovell Academy 19U AAA",
+   "away": "OHA Mavericks Gold U22 AA",
+   "hs": 6,
+   "as": 1
+  },
+  "2285467": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Massachusetts Spitfires 19U",
+   "away": "East Coast Wizards 19U AAA",
+   "hs": 0,
+   "as": 1
+  },
+  "2285610": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 19U Girls",
+   "away": "BioSteel Sports Academy U22 AAA",
+   "hs": 3,
+   "as": 1
+  },
+  "2285613": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Lovell Academy 14U AAA",
+   "away": "Buffalo Jr. Sabres 14U AAA",
+   "hs": 2,
+   "as": 3
+  },
+  "2285686": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Connecticut Polar Bears 14U Major",
+   "away": "Philadelphia Jr Flyers 14U AAA",
+   "hs": 4,
+   "as": 3
+  },
+  "2285687": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Connecticut Polar Bears 19U Major",
+   "away": "Mid Fairfield CT Stars 19U",
+   "hs": 4,
+   "as": 0
+  },
+  "2285712": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Lovell Academy 19U AAA",
+   "away": "Pittsburgh Penguins Elite 19U Girls",
+   "hs": 3,
+   "as": 1
+  },
+  "2285717": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 19U Girls",
+   "away": "Atlantic Coast Academy 19U AAA",
+   "hs": 2,
+   "as": 1
+  },
+  "2285746": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "WNY Niagara Jr. Cataracts 14U",
+   "away": "Philadelphia Jr Flyers 14U AAA",
+   "hs": 3,
+   "as": 1
+  },
+  "2285835": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Cornwall Lady Royals U15 AA",
+   "hs": 3,
+   "as": 0
+  },
+  "2285836": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Cambridge Roadrunners U15 AA",
+   "away": "Pittsburgh Penguins Elite 14U Girls",
+   "hs": 1,
+   "as": 3
+  },
+  "2285837": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Durham West Lightning U15 AA",
+   "away": "Pittsburgh Penguins Elite 14U Girls",
+   "hs": 4,
+   "as": 1
+  },
+  "2285905": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "New Jersey Colonials 14U AAA",
+   "away": "Durham West Lightning U15 AA",
+   "hs": 0,
+   "as": 3
+  },
+  "2285911": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "Pittsburgh Penguins Elite 14U Girls",
+   "away": "Connecticut Polar Bears 14U Major",
+   "hs": 3,
+   "as": 5
+  },
+  "2285995": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "Boston Jr. Eagles 14U",
+   "away": "Scarborough Sharks U15 AA",
+   "hs": 1,
+   "as": 0
+  },
+  "2286008": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "East Coast Wizards 14U AAA",
+   "away": "Scarborough Sharks U15 AA",
+   "hs": 4,
+   "as": 2
+  },
+  "2286117": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "Boston Jr. Eagles 14U (MA)",
+   "away": "Milwaukee Jr. Admirals 14U Girls",
+   "hs": 2,
+   "as": 3
+  },
+  "2286144": {
+   "date": "2026-10-17",
+   "competition": "",
+   "home": "The Winchendon School Wapiti Girls Varsity",
+   "away": "Team Wisconsin 19U AAA",
+   "hs": 5,
+   "as": 0
+  },
+  "2286147": {
+   "date": "2026-10-16",
+   "competition": "",
+   "home": "Team Wisconsin 19U AAA",
+   "away": "Valley Jr. Warriors 19U",
+   "hs": 3,
+   "as": 6
+  },
+  "2286565": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Lovell Academy 14U AAA",
+   "away": "Durham West Lightning U15 AA",
+   "hs": 4,
+   "as": 3
+  },
+  "2286589": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "East Coast Wizards 14U AAA",
+   "away": "Milwaukee Jr. Admirals 14U Girls",
+   "hs": 6,
+   "as": 4
+  },
+  "2286590": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "East Coast Wizards 14U AAA",
+   "away": "Milwaukee Jr. Admirals 14U Girls",
+   "hs": 4,
+   "as": 2
+  },
+  "2286648": {
+   "date": "2026-11-08",
+   "competition": "",
+   "home": "Charles River Blazers 14U AAA",
+   "away": "Milwaukee Jr. Admirals 14U Girls",
+   "hs": 3,
+   "as": 3
+  },
+  "2286654": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Valley Jr. Warriors U14",
+   "away": "Milwaukee Jr. Admirals 14U Girls",
+   "hs": 0,
+   "as": 4
+  },
+  "2286892": {
+   "date": "2026-10-29",
+   "competition": "",
+   "home": "HB Detroit 14U AAA",
+   "away": "Little Caesars 14U AAA",
+   "hs": 0,
+   "as": 2
+  },
+  "2287037": {
+   "date": "2026-11-07",
+   "competition": "",
+   "home": "Belle Tire 19U AAA",
+   "away": "Biggby Coffee AAA Hockey 19U",
+   "hs": 4,
+   "as": 0
+  },
+  "2287585": {
+   "date": "2026-11-13",
+   "competition": "",
+   "home": "Windy City Storm 14U AAA",
+   "away": "HB Detroit 14U AAA",
+   "hs": 3,
+   "as": 1
+  },
+  "2287830": {
+   "date": "2026-11-06",
+   "competition": "",
+   "home": "Stittsville Rockets U15 AA",
+   "away": "Boston Jr. Eagles 14U",
+   "hs": 6,
+   "as": 1
+  },
+  "2288036": {
+   "date": "2026-11-14",
+   "competition": "",
+   "home": "NAHA White 19U AAA",
+   "away": "Bishop Kearney Selects 19U AAA",
+   "hs": 3,
+   "as": 4
+  },
+  "2288055": {
+   "date": "2026-11-14",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "Madison Capitols 14U AAA",
+   "hs": 1,
+   "as": 0
+  },
+  "2288390": {
+   "date": "2026-11-14",
+   "competition": "",
+   "home": "HS Northwood School Huskies",
+   "away": "Bishop Kearney Selects 19U AAA",
+   "hs": 3,
+   "as": 2
+  },
+  "2288544": {
+   "date": "2026-11-14",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "Madison Capitols 14U AAA",
+   "hs": 2,
+   "as": 1
+  },
+  "2288741": {
+   "date": "2026-11-15",
+   "competition": "",
+   "home": "Boston Jr. Eagles 19U AAA",
+   "away": "East Coast Wizards 19U AAA",
+   "hs": 1,
+   "as": 2
+  },
+  "2288772": {
+   "date": "2026-11-15",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "New Jersey Colonials 14U AAA",
+   "hs": 3,
+   "as": 1
+  },
+  "2288781": {
+   "date": "2026-11-15",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "Stateline Hawks 14U",
+   "hs": 7,
+   "as": 1
+  },
+  "2288828": {
+   "date": "2026-11-15",
+   "competition": "",
+   "home": "Assabet Valley 19U AAA",
+   "away": "Connecticut Polar Bears 19U Major",
+   "hs": 2,
+   "as": 2
+  },
+  "2289056": {
+   "date": "2026-11-15",
+   "competition": "",
+   "home": "NY Dynamo 14U AAA",
+   "away": "New Jersey Colonials 14U AAA",
+   "hs": 5,
+   "as": 2
+  },
+  "2289228": {
+   "date": "2026-11-13",
+   "competition": "",
+   "home": "Lehigh Valley Phantoms 19U Elite",
+   "away": "Philadelphia Jr. Flyers 19U AAA",
+   "hs": 2,
+   "as": 7
+  },
+  "2289281": {
+   "date": "2026-11-13",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "LA Lions 14U AAA",
+   "hs": 2,
+   "as": 1
+  },
+  "2289412": {
+   "date": "2026-11-15",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "LA Lions 14U AAA",
+   "hs": 0,
+   "as": 1
+  },
+  "2295556": {
+   "date": "2026-11-14",
+   "competition": "",
+   "home": "Little Caesars 19U AAA",
+   "away": "HB Detroit 19U AAA",
+   "hs": 3,
+   "as": 0
+  },
+  "2295623": {
+   "date": "2026-11-15",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "LA Lions 14U AAA",
+   "hs": 2,
+   "as": 0
+  },
+  "2296391": {
+   "date": "2026-11-13",
+   "competition": "",
+   "home": "OHA Mavericks Gold U22 AA",
+   "away": "The Winchendon School Wapiti Girls Varsity",
+   "hs": 1,
+   "as": 5
+  },
+  "2296917": {
+   "date": "2026-11-21",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "Windy City Storm 14U AAA",
+   "hs": 6,
+   "as": 1
+  },
+  "2297037": {
+   "date": "2026-11-21",
+   "competition": "",
+   "home": "Team Illinois 14U AAA",
+   "away": "Toronto Leaside Wildcats U15 AA",
+   "hs": 1,
+   "as": 3
+  }
+ }
+}

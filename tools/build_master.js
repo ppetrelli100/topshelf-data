@@ -284,6 +284,12 @@ const ccmKeys = SRC.ccm.t, out = [], side = {};
   [2024, 2025, 2026].forEach(y => { const t = pickTeam(pk, y); if (t) { row['Team' + y] = t.v; sd['Team' + y] = { src: 'rosters' }; if (t.alts.length) sd['Team' + y].alts = t.alts.map(a => ['rosters', a]); } });
   if (ccmKeys.has(pk)) { row.CCM68 = 'Yes'; sd.CCM68 = { src: 'ccm' }; }
   if (REGIONALS.has(pk)) { row.Regionals = 'Yes'; sd.Regionals = { src: 'regionals' }; }
+  // Academy schools (Shattuck, BK Selects): a player whose Team/Team2024-26 is one of these academies attends it, so School = the Type-table friendly name
+  // (no age tags). Replaces whatever School the sources carried (often the feeder club/prep from before). Explicit overrides.json entries below still win.
+  { const ACAD = new Set(["BK Selects", "Shattuck-St. Mary's"]);
+    const acadOf = v => { if (!v) return ''; const t = IT.stripTags(String(v)), h = matchClub(t); if (h && ACAD.has(h.friendly)) return h.friendly; return /^shattuck/i.test(t) ? "Shattuck-St. Mary's" : ''; };
+    let a = ''; for (const k of ['Team2026', 'Team2025', 'Team2024', 'Team']) { a = acadOf(row[k]); if (a) break; }
+    if (a && row.School !== a) { const prev = row.School; row.School = a; sd.School = { src: 'academy-team' }; if (prev) sd.School.alts = [['picked', prev]]; } }
   // Generic per-player overrides (overrides.json) for any other field (Name, Height, Weight, GPA, City, State, Country, School, Team*, Notable, camp columns...).
   // Grad, BirthYr, Position, College, DOB and DOBPartial are handled where they are picked. value '' forces the field blank.
   const OV_SPECIAL = new Set(['Grad', 'BirthYr', 'Position', 'College', 'DOB', 'DOBPartial', 'PersonKey']);

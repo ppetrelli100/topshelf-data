@@ -37,7 +37,8 @@ for fn in sorted(glob.glob(os.path.join(OUT, 'hub_pgs_*.json'))):
             tpe_g[(r[h['gi']], TEAMS[r[h['ti']]])].append((PK[r[h['pi']]], r[h['toi_seconds']] or 0, sa_, ga_)); continue
         tpe_rows[(r[h['gi']], TEAMS[r[h['ti']]])].append((PK[r[h['pi']]], r[h['pos']], r[h['toi_seconds']] or 0, r[h['shifts']] or 0,
                                                           r[h['pp_toi_seconds']] or 0, r[h['pk_toi_seconds']] or 0,
-                                                          r[h['goals']] or 0, r[h['assists']] or 0, r[h['shots_on_goal']] or 0))
+                                                          r[h['goals']] or 0, r[h['assists']] or 0, r[h['shots_on_goal']] or 0,
+                                                          r[h['on_ice_xg_for']], r[h['on_ice_xg_against']]))
 tpe_season = {i: r[2] for i, r in enumerate(GROW)}        # hub_games col 2 = season index
 
 # ---------- Hudl games ----------
@@ -66,6 +67,13 @@ pgs['team_name'] = pgs.team_id.map(TEAM)
 _sid = dict(zip(hg.id, hg.source_record_id.astype(str)))
 _n2 = len(pgs); pgs = pgs[[(_sid.get(g), t) not in HUDL_EXCL for g, t in zip(pgs.game_id, pgs.team_name)]].copy()
 print('excluded %d Hudl player-game row(s) (one side of a game) listed in hub_game_exclusions.json' % (_n2 - len(pgs)))
+# one SIDE of a Hudl match filed under the wrong team (hub_game_exclusions.json 'hudl_relabel': {hudl_id, team, as}); applied at once, so two entries can swap a game's sides
+_xr = json.load(open(_xp, encoding='utf-8')).get('hudl_relabel', []) if os.path.exists(_xp) else []
+if _xr:
+    _RL = {(str(g['hudl_id']), g['team']): g['as'] for g in _xr}
+    _nm = [_RL.get((_sid.get(g), t), t) for g, t in zip(pgs.game_id, pgs.team_name)]
+    print('relabeled %d Hudl player-game row(s) (hub_game_exclusions.json hudl_relabel)' % sum(1 for a_, b_ in zip(_nm, pgs.team_name) if a_ != b_))
+    pgs['team_name'] = _nm
 pgs['date'] = pgs.game_id.map(dict(zip(hg.id, hg.game_date.astype(str))))
 pgs['season'] = pgs.game_id.map(dict(zip(hg.id, hg.season_id))).map(SEASON)
 print('Hudl player-games (toi>0):', len(pgs), 'games', pgs.game_id.nunique())
@@ -115,6 +123,8 @@ sys.path.insert(0, os.path.join(TSD, 'tools')); import hudl_extras, datetime
 EXREAL = {}; EXDATE = {}; XMAP = {}       # XMAP: (real game, Hudl team name) -> TPE team name of the same side, so coverage masks line up when the two platforms spell a team differently
 _xr, _xg = hudl_extras.load(os.path.join(TSD, 'hub_extras'), HAVE_H)
 _starts = sorted(WSTART.items(), key=lambda kv: kv[1])
+# per-match override of the hub name for one side of a hand-captured Hudl game (hub_game_exclusions.json 'hudl_extras_team': {hudl_id, team (as captured), as}) for when the shared-player match below picks the wrong team
+HX_OVR = {(str(g['hudl_id']), g['team']): g['as'] for g in (json.load(open(_xp, encoding='utf-8')).get('hudl_extras_team', []) if os.path.exists(_xp) else [])}
 def _season_of(d):
     ok = [n for n, st in _starts if d >= st]
     return ok[-1] if ok else None
@@ -145,6 +155,8 @@ if _xr:
         for tn, st in sets.items():     # the Hudl-side name: the Hudl team (any date) sharing the most players, else this capture's own name
             t2 = max(hud_sets.items(), key=lambda kv: len(kv[1] & st), default=None)
             amap[(hid, tn)] = t2[0] if t2 and len(t2[1] & st) >= 5 else ALIAS.get(tn, tn)
+        for tn in sets:
+            if (hid, tn) in HX_OVR: amap[(hid, tn)] = HX_OVR[(hid, tn)]
         if best:
             gi = best[1]; EXREAL['hx' + hid] = ('t', gi); _paired += 1
             for tn, st in sets.items():
@@ -174,7 +186,7 @@ print('Hudl duplicate team-game rows removed:', dups)
 cov = collections.defaultdict(int)                        # (real, team) -> mask
 for (gi, tn) in tpe_rows: cov[(('t', gi), tn)] |= 1
 for r, tn in pgs[['real', 'team_name']].drop_duplicates().itertuples(index=False): cov[(r, XMAP.get((r, tn), tn))] |= 2
-agg = collections.defaultdict(lambda: [0, 0, 0, 0, 0, 0, 0, 0]); gagg = collections.defaultdict(lambda: [0, 0, 0, 0, 0]); name_of = {}; counts = collections.defaultdict(lambda: [0, 0])
+agg = collections.defaultdict(lambda: [0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0]); gagg = collections.defaultdict(lambda: [0, 0, 0, 0, 0]); name_of = {}; counts = collections.defaultdict(lambda: [0, 0])
 TI = {t: i for i, t in enumerate(TEAMS)}
 extra_teams = []
 def ti_of(tn):
@@ -183,8 +195,9 @@ def ti_of(tn):
 for (gi, tn), lst in tpe_rows.items():
     si = tpe_season[gi]; m = cov[(('t', gi), tn)]; ti = ti_of(tn)
     counts[(ti, si)][0] += 1
-    for pk, pos, toi, sh, pp, pkk, gl, asst, sog in lst:
+    for pk, pos, toi, sh, pp, pkk, gl, asst, sog, xf, xa in lst:
         a = agg[(ti, si, pk, 0, m, pos)]; a[0] += 1; a[1] += toi; a[2] += sh; a[3] += pp; a[4] += pkk; a[5] += gl; a[6] += asst; a[7] += sog
+        if xf is not None and xa is not None: a[8] += xf; a[9] += xa; a[10] += 1      # on-ice expected goals for/against (TPE model); a[10] = games that carry it
         name_of.setdefault(pk, PNAME.get(pk))
 for (gi, tn), lst in tpe_g.items():       # TPE goalies: [gp, toi, shots against, goals against, toi in games that carry shot data]
     si = tpe_season[gi]; m = cov.get((('t', gi), tn), 1); ti = ti_of(tn)
@@ -202,6 +215,8 @@ for (r, tn), grp in tg:
         a = agg[(ti, si, row.pk, 1, m, row.pos)]; a[0] += 1; a[1] += int(row.toi_seconds); a[2] += int(row.shifts or 0)
         a[3] += int(row.pp_toi_seconds or 0); a[4] += int(row.pk_toi_seconds or 0)
         _gl = _n(row.goals_hudl); _pt = _n(row.points_hudl); a[5] += _gl; a[6] += max(0, _pt - _gl); a[7] += _n(row.shots_on_goal)
+        _xf = getattr(row, 'xg_on_ice_for', None); _xa = getattr(row, 'xg_on_ice_against', None)      # Hudl's own on-ice xG
+        if _xf == _xf and _xa == _xa and _xf is not None and _xa is not None: a[8] += float(_xf); a[9] += float(_xa); a[10] += 1
         name_of.setdefault(row.pk, row.hname)
 _opp = collections.defaultdict(lambda: [0, 0])          # (real game, team) -> [shots on goal, goals] by that side's skaters
 for row in sk.itertuples(index=False):
@@ -220,9 +235,9 @@ hud_tg = pgs.drop_duplicates(['real', 'team_name'])[['real', 'team_name', 'si']]
 for r, tn, si in hud_tg.itertuples(index=False): counts[(ti_of(tn), int(si))][1] += 1
 
 master = json.load(open(os.path.join(TSD, 'master.json'))); M = {x['PersonKey']: x for x in master}
-rows = [[ti, si, pk, (M[pk]['Name'] if pk in M else name_of.get(pk) or pk), pos, src, m, *a] for (ti, si, pk, src, m, pos), a in sorted(agg.items(), key=lambda kv: (kv[0][0], kv[0][1], kv[0][2], kv[0][3], kv[0][4]))]
+rows = [[ti, si, pk, (M[pk]['Name'] if pk in M else name_of.get(pk) or pk), pos, src, m, *(a[:8] + [round(a[8], 2), round(a[9], 2), a[10]])] for (ti, si, pk, src, m, pos), a in sorted(agg.items(), key=lambda kv: (kv[0][0], kv[0][1], kv[0][2], kv[0][3], kv[0][4]))]
 grows = [[ti, si, pk, (M[pk]['Name'] if pk in M else name_of.get(pk) or pk), src, m, *a] for (ti, si, pk, src, m), a in sorted(gagg.items(), key=lambda kv: kv[0])]
-obj = {'header': ['ti', 'si', 'pk', 'name', 'pos', 'src', 'mask', 'gp', 'toi', 'shifts', 'pp', 'pk_', 'goals', 'assists', 'sog'], 'sources': ['tpe', 'hudl'],
+obj = {'header': ['ti', 'si', 'pk', 'name', 'pos', 'src', 'mask', 'gp', 'toi', 'shifts', 'pp', 'pk_', 'goals', 'assists', 'sog', 'xgf', 'xga', 'xgn'], 'sources': ['tpe', 'hudl'],
        'goalie_header': ['ti', 'si', 'pk', 'name', 'src', 'mask', 'gp', 'toi', 'sa', 'ga', 'toi_d'], 'goalies': grows,
        'teams': TEAMS + extra_teams, 'seasons': SEAS, 'games': {'%d|%d' % k: v for k, v in counts.items()}, 'rows': rows}
 p = os.path.join(OUT, 'hub_toi.json'); json.dump(obj, open(p, 'w'), separators=(',', ':'))
