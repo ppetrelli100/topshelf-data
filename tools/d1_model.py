@@ -11,9 +11,12 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import roc_auc_score,brier_score_loss
 D=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..')+'/'
 SYN=[('mn ','minnesota '),('ct ','connecticut '),('naha','north american academy'),('nh ','new hampshire '),('nj ','new jersey '),('honeybaked','detroit honeybaked'),('little caesars','detroit little caesars'),('belle tire','detroit belle tire'),('spitfires','massachusetts spitfires'),('islanders','middlesex islanders'),('cpc boston americans','boston americans'),('bk selects','bishop kearney selects'),('midfairfield','mid fairfield'),('jr whitecaps','whitecaps'),('tiger lillies','tiger lilies'),('lovell academy','lovell academy lions'),('culver academies','culver academies eagles'),('shattuck st mary s','shattuck st mary s')]
+COLORS='silver|blue|white|gold|sky|green|black|navy|red|orange|vegas|purple'
 def norm(s):
-    s=re.sub(r'\([^)]*\)','',s).lower()
-    s=re.sub(r'\b(14u|16u|19u|u15|u18|u22|prep|jr\.?|junior|lady|girls|women|womens|hockey|club|the|major|black|blue|gold|green|navy|silver|sky|white|vegas|red|royal|elite2|\d+ ?2)\b','',s)
+    # team colors are real distinct teams in MHR (Minnesota Elite (Silver) vs (Blue) ...): keep them, whether written in parentheses or not
+    cols=' '.join(re.findall(r'\((%s)\)'%COLORS,s,flags=re.I))
+    s=re.sub(r'\([^)]*\)','',s).lower()+' '+cols.lower()
+    s=re.sub(r'\b(14u|16u|19u|u15|u18|u22|prep|jr\.?|junior|lady|girls|women|womens|hockey|club|the|major|royal|elite2|\d+ ?2)\b','',s)
     s=re.sub(r'[^a-z0-9]+',' ',s).strip()
     s=' '+s+' '
     for a,b in SYN: s=s.replace(' '+a.strip()+' ',' '+b+' ') if not a.endswith(' ') else s.replace(' '+a,' '+b)
@@ -43,11 +46,20 @@ for s,teams in r.items():
 for x in json.load(open(D+'ndc.json')):
     if x.get('Country')=='US' or x.get('STATE'): pop.setdefault(x['personkey'],set()).add('camp')
 # club per player (most frequent US 16U/19U roster club)
-clubof=C.defaultdict(C.Counter)
+# club / team = the player's MOST RECENT US 16U/19U roster entry. Newer seasons win; when a player is rostered on several teams in that
+# season (e.g. MN Elite Silver 16U and MN Whitecaps Black 19U) the BEST MHR-ranked team wins (unranked teams lose ties).
+SW={'2024-25':1,'2025-26':10,'2026-27':100}
+best_entry={}   # pk -> (season weight, -rank, club, rank)
 for s,teams in r.items():
     for t in teams:
         if t['country']!='US' or t['lvl'] not in lv: continue
-        for p in t['players']: clubof[p['pk']][t['club']]+=1
+        hit=match(norm(t['team']),rank.get((s,lv[t['lvl']]),{})); rk=hit[0] if hit else None
+        key=(SW[s],-(rk if rk is not None else 999))
+        for p in t['players']:
+            cur=best_entry.get(p['pk'])
+            if cur is None or key>cur[0]: best_entry[p['pk']]=(key,t['club'],rk)
+clubof=C.defaultdict(C.Counter); teamrank={}
+for pk,(key,club,rk) in best_entry.items(): clubof[pk][club]=1; teamrank[pk]=(key[0],rk)
 # ---- USAH TPE simplified composite (direct columns, z within camp x position)
 S=open(os.path.join(D,'..','hockeyfile','tpe_static.js')).read()
 T,_=json.JSONDecoder().raw_decode(S[S.index('const TPE_STATIC =')+18:].lstrip()); H=T['header']; R=T['rows']; ix={h:i for i,h in enumerate(H)}
@@ -166,6 +178,9 @@ def design(x,age,sets,train,loo):
         cr,n=clubrate(train,x['club'],x['pk'] if loo else None) if x['club'] else (g,0)
         lc=math.log(cr/(1-cr)); f.append(lc); names.append('club')
         if INTERACT: f.append(lc*float(b>0)); names.append('club*camp')
+    if 'mhr' in sets:
+        rk=teamrank.get(x['pk'],(0,None))[1]
+        f+=[float(rk is not None and rk<=10), float(rk is not None and 10<rk<=25)]; names+=['mhr10','mhr25']
     if 'hub' in sets:
         hz=hubz.get(x['pk']); ok=hz and (hz[1]<=1 if age<=17 else True)
         f+=[hz[0] if ok else 0.0, 0.0 if ok else 1.0]; names+=['hub','hub?']
@@ -175,7 +190,7 @@ def design(x,age,sets,train,loo):
         pc17=max(p17) if p17 else None; pc15=max(p15) if p15 else None
         f+=[(pc17-0.5) if p17 else 0.0, float(bool(p17) and pc17>=0.75), (pc15-0.5) if p15 else 0.0, 0.0 if cm else 1.0]; names+=['pc1617','q4','pc15','usah?']
     return f,names,cr
-SETS=['club','hub','usah']
+SETS=['club','mhr','hub','usah']
 def fit(age):
     Xl=[];ys=[]
     for x in rows:
@@ -194,6 +209,7 @@ def why(mod,f,x,cr):
     add('Position',c[nm.index('pos:D')])
     if 'club' in nm: add('Club track record'+(' ('+x['club']+')' if x['club'] else ' (unknown club)'),c[nm.index('club')]+(c[nm.index('club*camp')] if 'club*camp' in nm else 0))
     if 'hub' in nm: add('TPE game data',c[nm.index('hub')]+c[nm.index('hub?')])
+    if 'mhr10' in nm: add('Team strength (MHR rank)',c[nm.index('mhr10')]+c[nm.index('mhr25')])
     if 'q4' in nm: add('Camp performance (TPE)',c[nm.index('pc1617')]+c[nm.index('q4')]+c[nm.index('pc15')]+c[nm.index('usah?')])
     out.sort(key=lambda a:-abs(a[1])); return out[:4]
 def tier_model():
@@ -205,11 +221,11 @@ if __name__=='__main__' and '--cv' in sys.argv:
         print('=== target',target)
         for age in (15,16,17):
             line=[]
-            for name,sets in (('camp',[]),('+club',['club']),('+hub',['club','hub']),('+usah',['club','usah']),('all',['club','hub','usah'])):
+            for name,sets in (('camp',[]),('+club',['club']),('+mhr',['club','mhr']),('+perf',['club','usah']),('all',['club','mhr','hub','usah'])):
                 a,b,_,_=run(age,sets,target); line.append('%s AUC %.3f Brier %.3f'%(name,a,b))
             print('age',age,' | '.join(line))
     for age in (15,16,17):
-        a,b,p,y=run(age,['club','hub','usah'])
+        a,b,p,y=run(age,['club','mhr','hub','usah'])
         print('calibration age',age,'(pred bin: n, pred, actual)')
         for lo,hi in ((0,.2),(.2,.4),(.4,.6),(.6,.8),(.8,1.01)):
             sel=(p>=lo)&(p<hi); print('   %.1f-%.1f n=%3d pred=%.2f actual=%.2f'%(lo,hi,sel.sum(),p[sel].mean() if sel.any() else 0,y[sel].mean() if sel.any() else 0))

@@ -8,9 +8,12 @@ Run: python3 d1_rates.py   (reads the JSON files next to this folder's parent; n
 import json,re,os,collections as C
 D=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..')+'/'
 SYN=[('mn ','minnesota '),('ct ','connecticut '),('naha','north american academy'),('nh ','new hampshire '),('nj ','new jersey '),('honeybaked','detroit honeybaked'),('little caesars','detroit little caesars'),('belle tire','detroit belle tire'),('spitfires','massachusetts spitfires'),('islanders','middlesex islanders'),('cpc boston americans','boston americans'),('bk selects','bishop kearney selects'),('midfairfield','mid fairfield'),('jr whitecaps','whitecaps'),('tiger lillies','tiger lilies'),('lovell academy','lovell academy lions'),('culver academies','culver academies eagles'),('shattuck st mary s','shattuck st mary s')]
+COLORS='silver|blue|white|gold|sky|green|black|navy|red|orange|vegas|purple'
 def norm(s):
-    s=re.sub(r'\([^)]*\)','',s).lower()
-    s=re.sub(r'\b(14u|16u|19u|u15|u18|u22|prep|jr\.?|junior|lady|girls|women|womens|hockey|club|the|major|black|blue|gold|green|navy|silver|sky|white|vegas|red|royal|elite2|\d+ ?2)\b','',s)
+    # team colors are real distinct teams in MHR (Minnesota Elite (Silver) vs (Blue) ...): keep them, whether written in parentheses or not
+    cols=' '.join(re.findall(r'\((%s)\)'%COLORS,s,flags=re.I))
+    s=re.sub(r'\([^)]*\)','',s).lower()+' '+cols.lower()
+    s=re.sub(r'\b(14u|16u|19u|u15|u18|u22|prep|jr\.?|junior|lady|girls|women|womens|hockey|club|the|major|royal|elite2|\d+ ?2)\b','',s)
     s=re.sub(r'[^a-z0-9]+',' ',s).strip()
     s=' '+s+' '
     for a,b in SYN: s=s.replace(' '+a.strip()+' ',' '+b+' ') if not a.endswith(' ') else s.replace(' '+a,' '+b)
