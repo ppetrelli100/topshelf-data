@@ -1534,7 +1534,10 @@
     {"from": "willard|gabie", "to": "willard|gabrielle"},
     {"from": "willard|gabbie", "to": "willard|gabrielle"},
     {"from": "buco|lexi", "to": "buco|alexa"},
-    {"from": "butkus|catherine", "to": "butkus|kathryn"}
+    {"from": "butkus|catherine", "to": "butkus|kathryn"},
+    {"from": "crowder|anabella", "to": "crowder|izabella"},
+    {"from": "zhang|katherine", "to": "zhang|kaitlyn"},
+    {"from": "becerra|julie", "to": "becerra|juliana"}
   ],
   "pkExceptions": [
     {

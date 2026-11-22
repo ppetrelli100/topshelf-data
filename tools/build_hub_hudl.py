@@ -88,7 +88,7 @@ try: os.remove(tmp)
 except OSError: pass
 pgs['pk'] = pgs.player_id.map(lambda i: pkd[i][0]); pgs['hname'] = pgs.player_id.map(lambda i: pkd[i][1])
 PH = re.compile(r"\d|\bU\d{2}\b|\b(Academy|School|Elite|Hockey|Club|Prep|Jr|Junior|Team|Rebels|Hawks|Bay|Fury|Impact)\b", re.I)
-bad = pgs.hname.map(lambda n: bool(PH.search(n))) | pgs.pk.map(lambda k: k.startswith('|') or k.endswith('|') or k == '')
+bad = pgs.hname.map(lambda n: bool(PH.search(n))) | pgs.pk.map(lambda k: k.startswith('|') or k.endswith('|') or k == '' or k == 'noname|noname')
 print('Hudl placeholder rows dropped:', int(bad.sum())); pgs = pgs[~bad].copy()
 pgs['pos'] = pgs.position.where(pgs.position.isin(['F', 'D', 'G']), '?')
 pgs.loc[pgs.goalie.fillna(0).astype(float) > 0, 'pos'] = 'G'
@@ -126,7 +126,7 @@ if _xr:
     json.dump([{'id': i, 'n': n} for i, n in enumerate(sorted(ex.name.unique()))], open(_t, 'w')); subprocess.run(['node', '-e', js, TSD, _t], check=True)
     _pk = {x['n']: x['pk'] for x in json.load(open(_t))}; os.remove(_t)
     ex['pk'] = ex.name.map(_pk); ex['hname'] = ex.name
-    ex = ex[~(ex.hname.map(lambda n: bool(PH.search(n))) | ex.pk.map(lambda k: k.startswith('|') or k.endswith('|') or k == ''))].copy()
+    ex = ex[~(ex.hname.map(lambda n: bool(PH.search(n))) | ex.pk.map(lambda k: k.startswith('|') or k.endswith('|') or k == '' or k == 'noname|noname'))].copy()
     ex['game_id'] = 'hx' + ex.hid
     # team names: first the TPE game on that date (+-1 day) with the most shared players, else the Hudl team (any date) with the most shared players
     tpe_by_date = collections.defaultdict(list)
