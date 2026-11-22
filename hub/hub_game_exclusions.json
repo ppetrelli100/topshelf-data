@@ -150,6 +150,42 @@
    "date": "2026-10-24",
    "team": "Brampton Canadettes U18 AA",
    "reason": "Other side of the same match as the North York Storm U18 AA side already dropped: 0 of 13 skaters are on the Brampton Jr Canadettes U18 roster, so neither side is who Hudl labels it (hand-confirmed: drop the whole game)"
+  },
+  {
+   "hudl_id": 2238966,
+   "date": "2026-09-05",
+   "team": "Valley Jr. Warriors U16",
+   "reason": "0 of 14 skaters on the Valley 16U roster (the other 16U games match it 13-16 of 16); the roster is trusted, so this is TPE/Hudl filing another group under Valley"
+  },
+  {
+   "hudl_id": 2276849,
+   "date": "2026-10-25",
+   "team": "Valley Jr. Warriors U16",
+   "reason": "0 of 19 skaters on the Valley 16U roster (same group as 2238966); roster trusted, so a Hudl filing error"
+  },
+  {
+   "hudl_id": 2230746,
+   "date": "2026-09-04",
+   "team": "Valley Jr. Warriors U19 T1 W",
+   "reason": "0 of 13 skaters on the Valley 19U roster (TPE and other Hudl 19U games match it 15-16 of 17); roster trusted, so a Hudl filing error"
+  },
+  {
+   "hudl_id": 2231009,
+   "date": "2026-09-05",
+   "team": "Valley Jr. Warriors U19 T1 W",
+   "reason": "0 of 17 skaters on the Valley 19U roster; same group as 2230746 and 2247182"
+  },
+  {
+   "hudl_id": 2247182,
+   "date": "2026-09-06",
+   "team": "Valley Jr. Warriors U19 T1 W",
+   "reason": "0 of 17 skaters on the Valley 19U roster; same group as 2230746 and 2231009"
+  },
+  {
+   "hudl_id": 2237489,
+   "date": "2026-09-13",
+   "team": "San Jose Jr. Sharks U14 T1",
+   "reason": "Boys' team: 17 male names (Archer Li, Enzo White, George Yatman, ...), 0 on the San Jose 14U roster"
   }
  ],
  "_note_relabel": "'tpe_relabel' / 'hudl_relabel': one SIDE of a game filed under the wrong team; re-file it as the named Hub team (checked against the rosters). Entries are applied together, so two hudl_relabel entries on one game swap its sides.",
