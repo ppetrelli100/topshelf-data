@@ -1542,7 +1542,8 @@
     {"from": "peck|lilly", "to": "peck|lillian"},
     {"from": "kelzenberg|josephine", "to": "kelzenberg|jozie"},
     {"from": "barter|eleanor", "to": "bartter|eleanor"},
-    {"from": "klein|jillian", "to": "klein|jilian"}
+    {"from": "klein|jillian", "to": "klein|jilian"},
+    {"from": "norman|anabella", "to": "norman|bella"}
   ],
   "pkExceptions": [
     {
