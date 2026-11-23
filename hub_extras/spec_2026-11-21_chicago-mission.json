@@ -1,0 +1,89 @@
+{
+ "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (Configurator all columns + possession/score feeds, via page XHR)",
+ "team_ids": {
+  "Chicago Mission U16 W": 5024,
+  "Bishop Kearney Selects U16 W": 5004,
+  "Shattuck St. Marys U16 W": 6529,
+  "Boston Americans U16 T1 W": 13309
+ },
+ "alias": {
+  "Bishop Kearney Selects U16 W": "Bishop Kearney U16",
+  "Boston Americans U16 T1 W": "Boston Americans U16 T1"
+ },
+ "defaults": {},
+ "games": [
+  {
+   "tpe_id": 176715,
+   "date": "2026-11-20",
+   "home": "Bishop Kearney Selects U16 W",
+   "away": "Chicago Mission U16 W",
+   "home_score": 1,
+   "away_score": 0,
+   "competition": "NAHA Fall Classic W 2026"
+  },
+  {
+   "tpe_id": 176716,
+   "date": "2026-11-20",
+   "home": "Boston Americans U16 T1 W",
+   "away": "Chicago Mission U16 W",
+   "home_score": 4,
+   "away_score": 6,
+   "competition": "NAHA Fall Classic W 2026"
+  },
+  {
+   "tpe_id": 173702,
+   "date": "2026-11-08",
+   "home": "Shattuck St. Marys U16 W",
+   "away": "Chicago Mission U16 W",
+   "home_score": 2,
+   "away_score": 3,
+   "competition": "Friendly W 26/27"
+  },
+  {
+   "tpe_id": 173700,
+   "date": "2026-11-07",
+   "home": "Shattuck St. Marys U16 W",
+   "away": "Chicago Mission U16 W",
+   "home_score": 4,
+   "away_score": 5,
+   "competition": "Friendly W 26/27"
+  },
+  {
+   "tpe_id": 173701,
+   "date": "2026-11-07",
+   "home": "Shattuck St. Marys U16 W",
+   "away": "Chicago Mission U16 W",
+   "home_score": 1,
+   "away_score": 3,
+   "competition": "Friendly W 26/27"
+  },
+  {
+   "tpe_id": 173268,
+   "date": "2026-11-01",
+   "home": "Chicago Mission U16 W",
+   "away": "Bishop Kearney Selects U16 W",
+   "home_score": 2,
+   "away_score": 1,
+   "competition": "Chicago Mission Exhibition 26/27"
+  },
+  {
+   "tpe_id": 173264,
+   "date": "2026-10-31",
+   "home": "Bishop Kearney Selects U16 W",
+   "away": "Chicago Mission U16 W",
+   "home_score": 2,
+   "away_score": 0,
+   "competition": "Chicago Mission Exhibition 26/27"
+  },
+  {
+   "tpe_id": 173266,
+   "date": "2026-10-31",
+   "home": "Chicago Mission U16 W",
+   "away": "Bishop Kearney Selects U16 W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Chicago Mission Exhibition 26/27"
+  }
+ ]
+}

@@ -42125,7 +42125,7 @@
           ]
         },
         {
-          "pk": "peck|lilly",
+          "pk": "peck|lillian",
           "n": "79",
           "name": "Lilly Peck",
           "ry": "",
@@ -97332,7 +97332,7 @@
           ]
         },
         {
-          "pk": "nelson|josephine",
+          "pk": "nelson|josefina",
           "n": "97",
           "name": "Josie Nelson",
           "ry": "",
@@ -102561,7 +102561,7 @@
           ]
         },
         {
-          "pk": "peck|lilly",
+          "pk": "peck|lillian",
           "n": "16",
           "name": "Lilly Peck",
           "ry": "",
@@ -104100,7 +104100,7 @@
           ]
         },
         {
-          "pk": "nelson|josephine",
+          "pk": "nelson|josefina",
           "n": "12",
           "name": "Josie Nelson",
           "ry": "2011",
@@ -126146,7 +126146,7 @@
           ]
         },
         {
-          "pk": "zhang|katherine",
+          "pk": "zhang|kaitlyn",
           "n": "48",
           "name": "Katie Zhang",
           "ry": "2012",
@@ -126211,7 +126211,7 @@
           ]
         },
         {
-          "pk": "crowder|anabella",
+          "pk": "crowder|izabella",
           "n": "9",
           "name": "Bella Crowder",
           "ry": "2012",
@@ -126354,7 +126354,7 @@
           ]
         },
         {
-          "pk": "becerra|julie",
+          "pk": "becerra|juliana",
           "n": "44",
           "name": "Julie Becerra",
           "ry": "2010",
@@ -173255,7 +173255,7 @@
           ]
         },
         {
-          "pk": "nelson|josephine",
+          "pk": "nelson|josefina",
           "n": "6",
           "name": "Josie Nelson",
           "ry": "",
@@ -175111,9 +175111,9 @@
           ]
         },
         {
-          "pk": "barter|eleanor",
+          "pk": "bartter|eleanor",
           "n": "56",
-          "name": "Eleanor Barter",
+          "name": "Eleanor Bartter",
           "ry": "2010",
           "rg": "2028",
           "rp": "D",
@@ -177010,7 +177010,7 @@
       ],
       "players": [
         {
-          "pk": "crable|kenedee",
+          "pk": "crable|kenadee",
           "n": "2",
           "name": "Kenedee Crable",
           "ry": "",
@@ -177058,7 +177058,7 @@
           ]
         },
         {
-          "pk": "nelson|josephine",
+          "pk": "nelson|josefina",
           "n": "6",
           "name": "Josie Nelson",
           "ry": "",
@@ -177106,7 +177106,7 @@
           ]
         },
         {
-          "pk": "peck|lilly",
+          "pk": "peck|lillian",
           "n": "10",
           "name": "Lilly Peck",
           "ry": "",
@@ -178196,7 +178196,7 @@
         {
           "pk": "lindsay|alaina",
           "n": "12",
-          "name": "Alaina Lindsay",
+          "name": "Lainey Lindsay",
           "ry": "",
           "rg": "2029",
           "rp": "F",
@@ -178280,7 +178280,7 @@
         {
           "pk": "sutch|amelia",
           "n": "24",
-          "name": "Amelia Sutch",
+          "name": "Mia Sutch",
           "ry": "",
           "rg": "2028",
           "rp": "F",
@@ -182506,7 +182506,7 @@
           "name": "Annabelle Landry",
           "ry": "2011",
           "rg": "2029",
-          "rp": "D",
+          "rp": "F",
           "dob": "2/16/2011",
           "shot": "L",
           "state": "NB",

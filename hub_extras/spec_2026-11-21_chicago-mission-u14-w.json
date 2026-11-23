@@ -1,0 +1,75 @@
+{
+ "batch": "2026-11-21 Chicago Mission U14 W (6 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 5002. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Chicago Mission U14 W": 5002,
+  "North York Storm U15 AA W": 6541,
+  "Los Angeles Lions U14 T1 W": 6280,
+  "Team Wisconsin U14 W": 4993
+ },
+ "alias": {
+  "Chicago Mission U14 W": "Chicago Mission U14 W"
+ },
+ "defaults": {
+  "age_bracket": "14U & younger",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 176863,
+   "date": "2026-11-20",
+   "home": "Chicago Mission U14 W",
+   "away": "North York Storm U15 AA W",
+   "home_score": 5,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174918,
+   "date": "2026-11-14",
+   "home": "Chicago Mission U14 W",
+   "away": "Los Angeles Lions U14 T1 W",
+   "home_score": 8,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174922,
+   "date": "2026-11-14",
+   "home": "Chicago Mission U14 W",
+   "away": "Los Angeles Lions U14 T1 W",
+   "home_score": 5,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173033,
+   "date": "2026-11-01",
+   "home": "Chicago Mission U14 W",
+   "away": "Team Wisconsin U14 W",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173034,
+   "date": "2026-10-31",
+   "home": "Chicago Mission U14 W",
+   "away": "Team Wisconsin U14 W",
+   "home_score": 5,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 171028,
+   "date": "2026-10-09",
+   "home": "Chicago Mission U14 W",
+   "away": "North York Storm U15 AA W",
+   "home_score": 0,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

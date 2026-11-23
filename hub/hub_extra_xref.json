@@ -63,6 +63,1320 @@
    "tracked_team": "Buckingham Browne and Nichols School W",
    "opponent": "Thayer Academy Tigers W",
    "status": "active"
+  },
+  {
+   "tpe_id": 168051,
+   "gid": "ea1fa0fe-a539-5f59-9190-89c92c477240",
+   "batch": "2026-11-21 Burlington Jr. Barracudas U22 W (7 games)",
+   "game_date": "2026-11-17",
+   "tracked_team": "Burlington Jr. Barracudas U22 W",
+   "opponent": "Mississauga Hurricanes U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167611,
+   "gid": "1737e8c3-ab4e-56ab-b429-7a61e5b3d639",
+   "batch": "2026-11-21 Burlington Jr. Barracudas U22 W (7 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Burlington Jr. Barracudas U22 W",
+   "opponent": "Windsor Southwest Wildcats U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 168050,
+   "gid": "d4a9cd4f-9a23-5821-860c-e9e9d6b3c0eb",
+   "batch": "2026-11-21 Burlington Jr. Barracudas U22 W (7 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Burlington Jr. Barracudas U22 W",
+   "opponent": "Bluewater Hawks U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167711,
+   "gid": "45e91471-9e06-52fd-81d4-f73127825f5a",
+   "batch": "2026-11-21 Burlington Jr. Barracudas U22 W (7 games)",
+   "game_date": "2026-11-11",
+   "tracked_team": "Burlington Jr. Barracudas U22 W",
+   "opponent": "Brampton Jr. Canadettes U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167710,
+   "gid": "11d9106e-93fc-5db8-93a0-840ba0fb3871",
+   "batch": "2026-11-21 Burlington Jr. Barracudas U22 W (7 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Burlington Jr. Barracudas U22 W",
+   "opponent": "Ridley College Tigers W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167709,
+   "gid": "689347c3-b8eb-55e7-a699-79ad8403c1d8",
+   "batch": "2026-11-21 Burlington Jr. Barracudas U22 W (7 games)",
+   "game_date": "2026-11-01",
+   "tracked_team": "Burlington Jr. Barracudas U22 W",
+   "opponent": "Nepean Wildcats U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167708,
+   "gid": "52506360-68a0-5091-b9ab-f65d2048cf52",
+   "batch": "2026-11-21 Burlington Jr. Barracudas U22 W (7 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Burlington Jr. Barracudas U22 W",
+   "opponent": "Ottawa Lady Senators U22",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176863,
+   "gid": "3277288f-a396-59ff-8462-ff778ea60c09",
+   "batch": "2026-11-21 Chicago Mission U14 W (6 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Chicago Mission U14 W",
+   "opponent": "North York Storm U15 AA W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174918,
+   "gid": "495cf930-5cc7-5970-bd54-6e2b565967b6",
+   "batch": "2026-11-21 Chicago Mission U14 W (6 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Chicago Mission U14 W",
+   "opponent": "Los Angeles Lions U14 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174922,
+   "gid": "b818d1c0-5f70-59a1-981c-00dd15d7f40a",
+   "batch": "2026-11-21 Chicago Mission U14 W (6 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Chicago Mission U14 W",
+   "opponent": "Los Angeles Lions U14 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173033,
+   "gid": "55019288-d92b-5b66-9a47-f1a1c4fcad62",
+   "batch": "2026-11-21 Chicago Mission U14 W (6 games)",
+   "game_date": "2026-11-01",
+   "tracked_team": "Chicago Mission U14 W",
+   "opponent": "Team Wisconsin U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173034,
+   "gid": "c797372d-cbb7-5d87-b84f-a753d57a0d73",
+   "batch": "2026-11-21 Chicago Mission U14 W (6 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Chicago Mission U14 W",
+   "opponent": "Team Wisconsin U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 171028,
+   "gid": "cf48766f-1825-5a91-b391-6c05f71ea80d",
+   "batch": "2026-11-21 Chicago Mission U14 W (6 games)",
+   "game_date": "2026-10-09",
+   "tracked_team": "Chicago Mission U14 W",
+   "opponent": "North York Storm U15 AA W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176715,
+   "gid": "efbf393f-10a2-55b6-847c-353ace0580ea",
+   "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Bishop Kearney U16",
+   "opponent": "Chicago Mission U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176716,
+   "gid": "283f3716-4206-55f1-aaf0-df9ecc9d6051",
+   "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Boston Americans U16 T1",
+   "opponent": "Chicago Mission U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173702,
+   "gid": "3149b615-d4e7-5b1e-9f50-a170b1b2d840",
+   "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+   "game_date": "2026-11-08",
+   "tracked_team": "Shattuck St. Marys U16 W",
+   "opponent": "Chicago Mission U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173700,
+   "gid": "7dd3fb0a-f54c-5723-8bdc-e2dc5e1f44ab",
+   "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Shattuck St. Marys U16 W",
+   "opponent": "Chicago Mission U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173701,
+   "gid": "cd4982cc-cb57-5cc0-8f6e-a49b0cca61fb",
+   "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Shattuck St. Marys U16 W",
+   "opponent": "Chicago Mission U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173268,
+   "gid": "c179bf70-c8f9-5d5d-81fa-1e7a56d9faf6",
+   "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+   "game_date": "2026-11-01",
+   "tracked_team": "Chicago Mission U16 W",
+   "opponent": "Bishop Kearney U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173264,
+   "gid": "98ae9690-048e-5b6e-ac99-20b688aef3b9",
+   "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Bishop Kearney U16",
+   "opponent": "Chicago Mission U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173266,
+   "gid": "0e956e3e-b4ed-5859-ad8d-165cf8a4eed3",
+   "batch": "2026-11-21 Chicago Mission 16U (8 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Chicago Mission U16 W",
+   "opponent": "Bishop Kearney U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166646,
+   "gid": "b00749e3-045e-58bf-b522-75c5b4bd9a58",
+   "batch": "2026-11-21 Etobicoke Jr. Dolphins U22 W (7 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Etobicoke Jr. Dolphins U22 W",
+   "opponent": "Kingston Jr. Ice Wolves U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166647,
+   "gid": "8fd9ff64-0dd7-5cb7-8cc7-29434ddef212",
+   "batch": "2026-11-21 Etobicoke Jr. Dolphins U22 W (7 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Etobicoke Jr. Dolphins U22 W",
+   "opponent": "Cambridge Rivulettes U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166648,
+   "gid": "524b091c-af27-5b06-ace3-97c880a806ec",
+   "batch": "2026-11-21 Etobicoke Jr. Dolphins U22 W (7 games)",
+   "game_date": "2026-11-08",
+   "tracked_team": "Etobicoke Jr. Dolphins U22 W",
+   "opponent": "Waterloo Ravens U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166649,
+   "gid": "6d28c938-2a67-56f0-8842-73c8ae7f272c",
+   "batch": "2026-11-21 Etobicoke Jr. Dolphins U22 W (7 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Etobicoke Jr. Dolphins U22 W",
+   "opponent": "North York Storm U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166650,
+   "gid": "50b52732-b7fd-5894-a5e4-81438a5f8be8",
+   "batch": "2026-11-21 Etobicoke Jr. Dolphins U22 W (7 games)",
+   "game_date": "2026-11-01",
+   "tracked_team": "Etobicoke Jr. Dolphins U22 W",
+   "opponent": "Bluewater Hawks U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166651,
+   "gid": "b228ba43-7222-583c-8f3a-91b98a042e7c",
+   "batch": "2026-11-21 Etobicoke Jr. Dolphins U22 W (7 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Etobicoke Jr. Dolphins U22 W",
+   "opponent": "Windsor Southwest Wildcats U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166652,
+   "gid": "b0caf0ef-74d3-5025-9329-2bcd21601cd0",
+   "batch": "2026-11-21 Etobicoke Jr. Dolphins U22 W (7 games)",
+   "game_date": "2026-10-30",
+   "tracked_team": "Etobicoke Jr. Dolphins U22 W",
+   "opponent": "London Devilettes U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174305,
+   "gid": "8fd0e69e-5f94-58ea-9905-51e208b0957a",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U16 T1 (4 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Philadelphia Jr. Flyers U16 T1",
+   "opponent": "Stanstead College Spartans U16 (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174307,
+   "gid": "afca47af-eab1-59b5-b250-bbb506e69893",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U16 T1 (4 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Philadelphia Jr. Flyers U16 T1",
+   "opponent": "College Bourget Voltigeurs U16 (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174308,
+   "gid": "a49a716c-ac23-51a1-a6ce-6dcb3d85a560",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U16 T1 (4 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Winchendon School Wapiti U16 (Prep) W",
+   "opponent": "Philadelphia Jr. Flyers U16 T1",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174306,
+   "gid": "4f4d8002-4c10-5e88-a5d8-ee3eb84bef57",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U16 T1 (4 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Philadelphia Jr. Flyers U16 T1",
+   "opponent": "Mount Academy Saints U16 (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173774,
+   "gid": "0a925b73-1184-5896-834d-9246c2c91daa",
+   "batch": "2026-11-21 Fox Motors U16 T1 W (4 games)",
+   "game_date": "2026-11-08",
+   "tracked_team": "Fox Motors U16 W",
+   "opponent": "Team Illinois U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173775,
+   "gid": "4852bc51-276b-5263-aede-bdb00c7e5d38",
+   "batch": "2026-11-21 Fox Motors U16 T1 W (4 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Fox Motors U16 W",
+   "opponent": "Team Illinois U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173154,
+   "gid": "78dc8f22-4342-5130-b9ee-2eba26a1aa44",
+   "batch": "2026-11-21 Fox Motors U16 T1 W (4 games)",
+   "game_date": "2026-11-01",
+   "tracked_team": "Fox Motors U16 W",
+   "opponent": "Milwaukee Jr. Admirals U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173152,
+   "gid": "a6582861-ee7e-5663-b8fb-14665def81b6",
+   "batch": "2026-11-21 Fox Motors U16 T1 W (4 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Fox Motors U16 W",
+   "opponent": "Milwaukee Jr. Admirals U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174406,
+   "gid": "442ec5a9-02ab-593d-910a-be58ddb06888",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "St. Louis Blues U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174408,
+   "gid": "38f0d283-96be-5327-8dba-a7f99cdf1db3",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Buffalo Jr. Sabres U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174409,
+   "gid": "3ad80339-11d4-5b11-b532-55f1b149775a",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Washington Little Caps U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174423,
+   "gid": "8689919b-22bb-53d0-b6b3-46526b5a8fd4",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Philadelphia Jr. Flyers U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173899,
+   "gid": "fb687798-1eda-5524-b30a-5ed9adba5ecb",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-11-08",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Phoenix Jr. Coyotes U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173524,
+   "gid": "e42905c1-a879-54ff-8cb6-3960cc494b16",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "BioSteel Sports Academy U18",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173522,
+   "gid": "c9a4ea3d-3535-5040-91e1-c6a53b20128f",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "OHA Colorado U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173523,
+   "gid": "8fbe2e71-9c32-513f-b719-9d16bee8af76",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Colorado Thunderbirds U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173145,
+   "gid": "f6786cbc-0ec6-5186-b4c1-b1a94366416f",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Honeybaked U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 172154,
+   "gid": "e4901f17-430a-5ff1-ba68-31ea3e3790b5",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-25",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Windy City Storm U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 172150,
+   "gid": "859020f5-1b34-58cd-8691-ef0ab6a5d7ac",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-24",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Indiana Elite U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 172140,
+   "gid": "83882bac-3f7c-5d55-b4cf-53d8b57256a2",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-23",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Sioux Falls Power U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 172145,
+   "gid": "b6b2e1a0-ed9a-5aa5-9f6a-1d13a3827c80",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-23",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Madison Capitols U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 171464,
+   "gid": "d3e8e2ef-4f4a-525a-a998-d1d09975c4c0",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-18",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Oakland Jr. Grizzlies U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 170144,
+   "gid": "24df1a3c-53da-5e88-87ec-b4c2c711d9c1",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-11",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Chicago Mission U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 170011,
+   "gid": "8bf34056-35b7-5173-98be-43bcd98ca19a",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-10",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Windy City Storm U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 170143,
+   "gid": "802564af-2560-5664-87ae-809fd5c61b23",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-09",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Madison Capitols U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 169916,
+   "gid": "69b8313f-ad8b-500b-ba41-44248501e6d1",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-10-04",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Biggby Coffee U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167807,
+   "gid": "ccb301bb-e7ba-57c1-8b1d-647f918d0bf8",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-09-21",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Dallas Stars Elite U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167514,
+   "gid": "4a2795d3-2b51-5cc3-ac80-f4c62e2e26d3",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-09-20",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Florida Alliance U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167515,
+   "gid": "31a55b65-fef7-5f4b-8c68-3a3c9a3f7f87",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-09-20",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Anaheim Jr. Ducks U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 167513,
+   "gid": "1f393687-0d4b-521a-bb5c-28919aa9763b",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-09-19",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Mid Fairfield Jr. Rangers U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 163742,
+   "gid": "44234889-5354-5f97-b00e-192039dcdb34",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-09-13",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Honeybaked U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 163741,
+   "gid": "be396867-da7e-569a-abb5-aafd606e5308",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-09-12",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Victory Honda U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 163740,
+   "gid": "97f28fde-1e2a-57bc-b2fe-75b02f3a64bd",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-09-11",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Compuware U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 159197,
+   "gid": "0b02bf9b-1316-5f58-96f9-0b932edd4919",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-08-30",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Ohio Blue Jackets U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 159194,
+   "gid": "45f487b1-95b1-5a57-bc39-71da0e14e167",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-08-29",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Florida Alliance U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 159191,
+   "gid": "8b7c8601-14d6-5343-9dd4-e542c440a212",
+   "batch": "2026-11-21 Fox Motors U16 (28 games)",
+   "game_date": "2026-08-28",
+   "tracked_team": "Fox Motors U16",
+   "opponent": "Team Illinois U16",
+   "status": "active"
+  },
+  {
+   "tpe_id": 175941,
+   "gid": "fdc3340b-abe6-58f6-babd-57894f64802f",
+   "batch": "2026-11-21 Little Caesars U14 W (5 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Little Caesars 14U W",
+   "opponent": "Fox Motors U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176525,
+   "gid": "b2d44148-24d8-5472-86f6-b59272c9cb19",
+   "batch": "2026-11-21 Little Caesars U14 W (5 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Little Caesars 14U W",
+   "opponent": "Lovell Academy Lions U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176524,
+   "gid": "2e480d0f-34d6-59e0-a04f-8b50216a1334",
+   "batch": "2026-11-21 Little Caesars U14 W (5 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Little Caesars 14U W",
+   "opponent": "Sarnia Jr. Lady Sting U15 AA",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174478,
+   "gid": "60dbed25-ae9a-5149-b790-5f2e3fd4cf02",
+   "batch": "2026-11-21 Little Caesars U14 W (5 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Little Caesars 14U W",
+   "opponent": "Florida Alliance U14 T1",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174479,
+   "gid": "3bfd6637-5e8c-59bd-9836-1421a2bf4d57",
+   "batch": "2026-11-21 Little Caesars U14 W (5 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Little Caesars 14U W",
+   "opponent": "Windsor Wildcats U15 AA W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176868,
+   "gid": "2254760c-548b-54db-a1bc-f50618810aaa",
+   "batch": "2026-11-21 Little Caesars U19 W (6 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Little Caesars U19 W",
+   "opponent": "Philadelphia Jr. Flyers U19 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176528,
+   "gid": "cc9d10d5-dddb-55ee-ad29-dfcf9652a50a",
+   "batch": "2026-11-21 Little Caesars U19 W (6 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Little Caesars U19 W",
+   "opponent": "Lovell Academy HS Lions (Nationals) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174484,
+   "gid": "64b6392f-0472-5205-8bcb-7f60573c7bc1",
+   "batch": "2026-11-21 Little Caesars U19 W (6 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Little Caesars U19 W",
+   "opponent": "Lovell Academy Lions U19 (Yellow) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176527,
+   "gid": "44f8e0a4-458f-563c-8c7f-cc08716523c6",
+   "batch": "2026-11-21 Little Caesars U19 W (6 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Little Caesars U19 W",
+   "opponent": "Honeybaked U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174481,
+   "gid": "7fb7d4f7-3bb0-541d-bbd7-722d01925e2b",
+   "batch": "2026-11-21 Little Caesars U19 W (6 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Little Caesars U19 W",
+   "opponent": "Windy City Storm U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173445,
+   "gid": "41400f7d-de28-5bd0-a6f3-65612cb85020",
+   "batch": "2026-11-21 Little Caesars U19 W (6 games)",
+   "game_date": "2026-11-02",
+   "tracked_team": "Little Caesars U19 W",
+   "opponent": "Belle Tire U19 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 175942,
+   "gid": "57bdce9e-1517-52e5-8384-fe6e97dc6196",
+   "batch": "2026-11-21 Little Caesars U16 W (6 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Little Caesars U16 W",
+   "opponent": "Mississauga Hurricanes U18 AA W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176526,
+   "gid": "f4570cca-c417-5369-a649-c26d53f1030b",
+   "batch": "2026-11-21 Little Caesars U16 W (6 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Little Caesars U16 W",
+   "opponent": "Florida Alliance U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174480,
+   "gid": "310f4d57-bfca-54f4-b40e-87bc2fe7c772",
+   "batch": "2026-11-21 Little Caesars U16 W (6 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Atlantic Coast Academy U16 W",
+   "opponent": "Little Caesars U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174007,
+   "gid": "259e3640-ea44-5f3d-b3bd-44a54f6845b1",
+   "batch": "2026-11-21 Little Caesars U16 W (6 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Biggby Coffee U16 W",
+   "opponent": "Little Caesars U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173733,
+   "gid": "8d26b1b9-4ece-567e-8ea2-d550fd227f39",
+   "batch": "2026-11-21 Little Caesars U16 W (6 games)",
+   "game_date": "2026-11-04",
+   "tracked_team": "Little Caesars U16 W",
+   "opponent": "Honeybaked U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 172813,
+   "gid": "41b8c42a-7cb2-527d-a041-ed7f68c4a327",
+   "batch": "2026-11-21 Little Caesars U16 W (6 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Little Caesars U16 W",
+   "opponent": "Biggby Coffee U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176742,
+   "gid": "c8ae93cb-90ca-5dfb-acca-882800180cb6",
+   "batch": "2026-11-21 Chicago Mission U19 W (5 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Mission 19",
+   "opponent": "Bishop Kearney Selects 19U",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176743,
+   "gid": "233b8fb9-ebf1-5858-96d1-adb0079543c1",
+   "batch": "2026-11-21 Chicago Mission U19 W (5 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Mission 19",
+   "opponent": "NAHA Winter Hawks U19 White W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173269,
+   "gid": "8f2d4b20-c018-5f17-ae47-f5baebf2908a",
+   "batch": "2026-11-21 Chicago Mission U19 W (5 games)",
+   "game_date": "2026-11-01",
+   "tracked_team": "Mission 19",
+   "opponent": "Bishop Kearney Selects 19U",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173263,
+   "gid": "c070b0ec-42d0-5894-9745-ae2992f6317c",
+   "batch": "2026-11-21 Chicago Mission U19 W (5 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Mission 19",
+   "opponent": "Bishop Kearney Selects 19U",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173265,
+   "gid": "fb1a42b3-0c1c-560b-830f-11bf2acfff4b",
+   "batch": "2026-11-21 Chicago Mission U19 W (5 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Mission 19",
+   "opponent": "Bishop Kearney Selects 19U",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174491,
+   "gid": "6a7d61d6-3a79-5fcf-8fff-c9edd3940870",
+   "batch": "2026-11-21 Ohio Blue Jackets U14 W (3 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Ohio Blue Jackets U14 W",
+   "opponent": "Carolina Jr. Hurricanes U14 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174497,
+   "gid": "75ba7ef8-5eed-5ec0-9816-ca98ad2d2ced",
+   "batch": "2026-11-21 Ohio Blue Jackets U14 W (3 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Ohio Blue Jackets U14 W",
+   "opponent": "Carolina Jr. Hurricanes U14 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174498,
+   "gid": "bb085075-b572-5092-a0d0-cbd324c593c9",
+   "batch": "2026-11-21 Ohio Blue Jackets U14 W (3 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Ohio Blue Jackets U14 W",
+   "opponent": "Carolina Jr. Hurricanes U14 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176866,
+   "gid": "98435560-6b4b-5059-8535-c1babfd9ce2a",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Team Illinois U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173660,
+   "gid": "5d9ac634-7917-598b-ac78-40228eff6028",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Lovell Academy Lions U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173860,
+   "gid": "38cc3372-e046-50e1-9067-1db37a3cb964",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Connecticut Polar Bears U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173658,
+   "gid": "8860d6b0-df16-5981-ad6e-634fa0ca8a94",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Skaneateles Lakers U14 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173659,
+   "gid": "a2f2dd5c-bbb6-5bc7-a316-358e37f47267",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "St. Catharines Brock Jr. Badgers U15 AA W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 160595,
+   "gid": "3769ba09-8fb4-5cd5-a090-6d0e3c83570e",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-09-13",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Princeton Tiger Lilies U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 160596,
+   "gid": "59fd9b48-7778-59d8-8683-225ffe00bcab",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-09-13",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Princeton Tiger Lilies U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 165971,
+   "gid": "ef24ddce-7ac3-5c10-8138-a2fb1d2a3e1f",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-09-06",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Burlington Barracudas U15 AA W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 161828,
+   "gid": "1874df72-6460-5a31-9e90-c9058a1cdcb3",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-09-05",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Stoney Creek Sabres U15 AA W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 165951,
+   "gid": "ae1027d6-cbc3-5ecf-b611-8d89082b6f24",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-09-05",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Los Angeles Lions U14 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 161826,
+   "gid": "e7549555-283a-515e-9249-06ed83a13f2a",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-09-04",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "Ottawa Lady Senators U15",
+   "status": "active"
+  },
+  {
+   "tpe_id": 161827,
+   "gid": "60f7c586-c4df-57f8-8559-92acbe01cd36",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+   "game_date": "2026-09-04",
+   "tracked_team": "Philadelphia Jr. Flyers U14 T1",
+   "opponent": "St. Louis Blues U14 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174323,
+   "gid": "54d6d633-18e1-56f9-ab20-57f41d0466df",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Philadelphia Jr. Flyers U19 T1 W",
+   "opponent": "Northwood School Huskies U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174340,
+   "gid": "06d0464f-c683-5439-97f0-e528d0e274c3",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Philadelphia Jr. Flyers U19 T1 W",
+   "opponent": "Stanstead College Spartans W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174327,
+   "gid": "e358466b-9e53-5056-a739-3b0123937c42",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Philadelphia Jr. Flyers U19 T1 W",
+   "opponent": "Mount Academy Saints U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174341,
+   "gid": "61895c83-df9c-53a3-9503-fe2530b57b6e",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Philadelphia Jr. Flyers U19 T1 W",
+   "opponent": "Rothesay Netherwood School Riverhawks (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173907,
+   "gid": "78970498-68ed-5def-8c16-3d17c1e922a2",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+   "game_date": "2026-11-08",
+   "tracked_team": "Philadelphia Jr. Flyers U19 T1 W",
+   "opponent": "Lovell Academy Lions U19 (Yellow) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173663,
+   "gid": "500d1b52-0da1-504b-979f-9dfb848cb2c8",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Philadelphia Jr. Flyers U19 T1 W",
+   "opponent": "Amherst Lady Knights U19",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173861,
+   "gid": "a7e21f85-04d8-562d-9a09-09bd52a309cc",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Philadelphia Jr. Flyers U19 T1 W",
+   "opponent": "Steel City Selects U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173662,
+   "gid": "a4383fac-596a-5be6-adbb-a33feac7ec83",
+   "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Philadelphia Jr. Flyers U19 T1 W",
+   "opponent": "Stoney Creek Sabres U22 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174504,
+   "gid": "682155b3-2843-5912-90a6-2892114de8d5",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "Culver Academies Eagles (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174503,
+   "gid": "833d62b2-0ad4-5ef2-8a51-c18cb9c0277d",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "Culver Academies Eagles (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173595,
+   "gid": "efe173b7-00e1-55c5-a809-38b65fc80038",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-11-08",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "Dallas Stars Elite U19 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173582,
+   "gid": "96e1adc6-5a55-52d8-af5b-ff29b802c031",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "Team Colorado U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173583,
+   "gid": "16504324-7b2f-50bd-a423-d03cc1ca20fe",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "Gilmour Academy Lancers (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173580,
+   "gid": "faf19452-f5a6-50b5-988d-2e70fb8460d1",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "Anaheim Lady Ducks U19",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173581,
+   "gid": "389a569d-6ee9-5176-9b80-7a7c84590b85",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "St. Louis Blues U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173114,
+   "gid": "2fc31165-2191-5647-9d2a-006b0d134931",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "Madison Capitols U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173115,
+   "gid": "a6e1c8ca-5a6d-5aee-ab38-6e1016e7f65d",
+   "batch": "2026-11-21 Shattuck St. Marys U19 W (9 games)",
+   "game_date": "2026-10-30",
+   "tracked_team": "Shattuck-St. Mary's 19U",
+   "opponent": "Madison Capitols U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176571,
+   "gid": "817827b6-8d1d-5c2f-b193-fa5de3e7d943",
+   "batch": "2026-11-21 Shattuck St. Marys U19 (Prep) W (5 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Shattuck St. Marys U19",
+   "opponent": "NAHA Winter Hawks U19 White W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 176572,
+   "gid": "3dfac4f5-7455-5b1b-b7e7-fdc8e4aa9535",
+   "batch": "2026-11-21 Shattuck St. Marys U19 (Prep) W (5 games)",
+   "game_date": "2026-11-20",
+   "tracked_team": "Shattuck St. Marys U19",
+   "opponent": "Boston Americans U19 T1 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173703,
+   "gid": "2539dd82-beb5-5a2b-b94d-5294e3d04446",
+   "batch": "2026-11-21 Shattuck St. Marys U19 (Prep) W (5 games)",
+   "game_date": "2026-11-08",
+   "tracked_team": "Shattuck St. Marys U19",
+   "opponent": "Mission 19",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173704,
+   "gid": "7223905b-aac4-5fd9-b275-2140686ea5cb",
+   "batch": "2026-11-21 Shattuck St. Marys U19 (Prep) W (5 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Shattuck St. Marys U19",
+   "opponent": "Mission 19",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173705,
+   "gid": "6c609bbc-3fe3-561b-95f4-a6c8c45ae393",
+   "batch": "2026-11-21 Shattuck St. Marys U19 (Prep) W (5 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Shattuck St. Marys U19",
+   "opponent": "Mission 19",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173113,
+   "gid": "deabc6b4-77da-5e6a-b234-7d98b0a3abcf",
+   "batch": "2026-11-21 Shattuck St. Marys 16U (2 games)",
+   "game_date": "2026-10-31",
+   "tracked_team": "Shattuck St. Marys U16 W",
+   "opponent": "Madison Capitols U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173112,
+   "gid": "6820367c-c7bf-5812-954c-34dc586a850d",
+   "batch": "2026-11-21 Shattuck St. Marys 16U (2 games)",
+   "game_date": "2026-10-30",
+   "tracked_team": "Shattuck St. Marys U16 W",
+   "opponent": "Madison Capitols U16 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174351,
+   "gid": "953d19e0-2a31-5830-914e-6ce2274844ce",
+   "batch": "2026-11-21 Stanstead College Spartans W (4 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Stanstead College Spartans W",
+   "opponent": "Ontario Hockey Academy U22 (Gold) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174348,
+   "gid": "e76ff5ae-b74f-5142-baf5-ec99715955c4",
+   "batch": "2026-11-21 Stanstead College Spartans W (4 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Stanstead College Spartans W",
+   "opponent": "Washington Pride U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174350,
+   "gid": "27752b84-135d-5514-8246-9f91f276686d",
+   "batch": "2026-11-21 Stanstead College Spartans W (4 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Stanstead College Spartans W",
+   "opponent": "NAHA Winter Hawks U19 White W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173751,
+   "gid": "af6b3a90-78df-55b9-8b61-a06c4fdf64c7",
+   "batch": "2026-11-21 Stanstead College Spartans W (4 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Stanstead College Spartans W",
+   "opponent": "College Champlain-Lennoxville Cougars W (Col D1)",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166132,
+   "gid": "c88d2ca6-01bc-56c1-aee2-9aeba083bb09",
+   "batch": "2026-11-21 Team North Dakota U16 T1 (5 games)",
+   "game_date": "2026-09-18",
+   "tracked_team": "Team North Dakota U16 T1",
+   "opponent": "Thunder Bay Queens U18 AA W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166107,
+   "gid": "59c8e37f-f61d-54a2-be00-6aabd32f2e36",
+   "batch": "2026-11-21 Team North Dakota U16 T1 (5 games)",
+   "game_date": "2026-09-12",
+   "tracked_team": "MN Elite Blue (NABC) U16 W",
+   "opponent": "Team North Dakota U16 T1",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166110,
+   "gid": "1df533dd-d5e9-5e62-b675-76350274bb42",
+   "batch": "2026-11-21 Team North Dakota U16 T1 (5 games)",
+   "game_date": "2026-09-12",
+   "tracked_team": "MN Elite White (Northfield Lines) U16 W",
+   "opponent": "Team North Dakota U16 T1",
+   "status": "active"
+  },
+  {
+   "tpe_id": 166106,
+   "gid": "2391c859-79c2-5467-b609-6783ef71cb1c",
+   "batch": "2026-11-21 Team North Dakota U16 T1 (5 games)",
+   "game_date": "2026-09-11",
+   "tracked_team": "MN Elite Gold (Compass Capital) U16 W",
+   "opponent": "Team North Dakota U16 T1",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174356,
+   "gid": "d03cd836-794f-5024-93f2-44fd3c619e6d",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-11-15",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Boston Hockey Group U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174355,
+   "gid": "63fcc8dc-ad73-5264-8f83-3fe68e502528",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-11-14",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Masters Academy International U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174352,
+   "gid": "bfa57292-c371-5fc3-94f5-ece95c8b97c2",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Rothesay Netherwood School Riverhawks (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 174353,
+   "gid": "b515ae35-ad48-51a9-8c42-ebd1e682e3b8",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-11-13",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Ontario Hockey Academy U22 (Gold) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173758,
+   "gid": "13ee66d7-e857-565f-84a3-f8f90edbf10f",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-11-08",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Northwood School Huskies U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173757,
+   "gid": "8a340f7b-8823-59a7-bf2c-9a12140ed198",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-11-07",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Northwood School Huskies U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 173756,
+   "gid": "85b8ffad-2237-51a9-9d30-6801025cba35",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-11-06",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Northwood School Huskies U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 165982,
+   "gid": "de97aa5e-0a89-5fd4-bfb0-810630fd07db",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-09-06",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Gilmour Academy Lancers (Prep) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 165999,
+   "gid": "eaed092e-22d9-5ea3-814c-03c0fdef8293",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-09-06",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Sno-king Jr. Thunderbirds U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 165939,
+   "gid": "dea7eeec-56be-5359-8d9d-e60287fcaaca",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-09-05",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Anaheim Lady Ducks U19",
+   "status": "active"
+  },
+  {
+   "tpe_id": 165940,
+   "gid": "268acf73-2c46-5271-8f23-1602d90670b2",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-09-05",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Massachusetts Spitfires U19 (Major1) W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 165929,
+   "gid": "8b63c6b5-63de-58f9-a498-93d59e80bf03",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-09-04",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Connecticut Jr. Rangers U19 W",
+   "status": "active"
+  },
+  {
+   "tpe_id": 165930,
+   "gid": "0e5025c1-74ea-571b-a745-71e3b3608d48",
+   "batch": "2026-11-21 Winchendon School Wapiti U19 W (13 games)",
+   "game_date": "2026-09-04",
+   "tracked_team": "Winchendon School Wapiti U19 W",
+   "opponent": "Bay State Breakers U19 (Green) W",
+   "status": "active"
   }
  ],
  "absorbed": []

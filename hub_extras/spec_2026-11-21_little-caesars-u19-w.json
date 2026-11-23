@@ -1,0 +1,78 @@
+{
+ "batch": "2026-11-21 Little Caesars U19 W (6 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 5042. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Little Caesars U19 W": 5042,
+  "Philadelphia Jr. Flyers U19 T1 W": 5035,
+  "Lovell Academy HS Lions (Nationals) W": 14904,
+  "Lovell Academy Lions U19 (Yellow) W": 11765,
+  "Honeybaked U19 W": 5032,
+  "Windy City Storm U19 W": 7440,
+  "Belle Tire U19 T1 W": 5039
+ },
+ "alias": {
+  "Little Caesars U19 W": "Little Caesars U19 W"
+ },
+ "defaults": {
+  "age_bracket": "19U",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 176868,
+   "date": "2026-11-20",
+   "home": "Little Caesars U19 W",
+   "away": "Philadelphia Jr. Flyers U19 T1 W",
+   "home_score": 3,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 176528,
+   "date": "2026-11-15",
+   "home": "Little Caesars U19 W",
+   "away": "Lovell Academy HS Lions (Nationals) W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174484,
+   "date": "2026-11-14",
+   "home": "Little Caesars U19 W",
+   "away": "Lovell Academy Lions U19 (Yellow) W",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 176527,
+   "date": "2026-11-14",
+   "home": "Little Caesars U19 W",
+   "away": "Honeybaked U19 W",
+   "home_score": 3,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174481,
+   "date": "2026-11-13",
+   "home": "Little Caesars U19 W",
+   "away": "Windy City Storm U19 W",
+   "home_score": 7,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173445,
+   "date": "2026-11-02",
+   "home": "Little Caesars U19 W",
+   "away": "Belle Tire U19 T1 W",
+   "home_score": 0,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

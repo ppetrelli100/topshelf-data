@@ -1,0 +1,98 @@
+{
+ "batch": "2026-11-21 Philadelphia Jr. Flyers U19 T1 W (8 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 5035. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Philadelphia Jr. Flyers U19 T1 W": 5035,
+  "Northwood School Huskies U19 W": 5853,
+  "Stanstead College Spartans W": 8328,
+  "Mount Academy Saints U19 W": 8329,
+  "Rothesay Netherwood School Riverhawks (Prep) W": 8905,
+  "Lovell Academy Lions U19 (Yellow) W": 11765,
+  "Amherst Lady Knights U19": 6892,
+  "Steel City Selects U19 W": 3664,
+  "Stoney Creek Sabres U22 W": 5499
+ },
+ "alias": {
+  "Philadelphia Jr. Flyers U19 T1 W": "Philadelphia Jr. Flyers U19 T1 W"
+ },
+ "defaults": {
+  "age_bracket": "19U",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 174323,
+   "date": "2026-11-15",
+   "home": "Philadelphia Jr. Flyers U19 T1 W",
+   "away": "Northwood School Huskies U19 W",
+   "home_score": 4,
+   "away_score": 10,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174340,
+   "date": "2026-11-14",
+   "home": "Philadelphia Jr. Flyers U19 T1 W",
+   "away": "Stanstead College Spartans W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174327,
+   "date": "2026-11-13",
+   "home": "Philadelphia Jr. Flyers U19 T1 W",
+   "away": "Mount Academy Saints U19 W",
+   "home_score": 5,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174341,
+   "date": "2026-11-13",
+   "home": "Philadelphia Jr. Flyers U19 T1 W",
+   "away": "Rothesay Netherwood School Riverhawks (Prep) W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173907,
+   "date": "2026-11-08",
+   "home": "Philadelphia Jr. Flyers U19 T1 W",
+   "away": "Lovell Academy Lions U19 (Yellow) W",
+   "home_score": 1,
+   "away_score": 5,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173663,
+   "date": "2026-11-07",
+   "home": "Philadelphia Jr. Flyers U19 T1 W",
+   "away": "Amherst Lady Knights U19",
+   "home_score": 1,
+   "away_score": 3,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173861,
+   "date": "2026-11-07",
+   "home": "Philadelphia Jr. Flyers U19 T1 W",
+   "away": "Steel City Selects U19 W",
+   "home_score": 1,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173662,
+   "date": "2026-11-06",
+   "home": "Philadelphia Jr. Flyers U19 T1 W",
+   "away": "Stoney Creek Sabres U22 W",
+   "home_score": 0,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

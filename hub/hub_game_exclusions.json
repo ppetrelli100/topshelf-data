@@ -1,0 +1,305 @@
+{
+ "_note": "Hand-edited. TPE games dropped from the hub build (matched on game.csv source_record_id = TPE game id). Use for games TPE tags with the wrong team (verified by jersey numbers / the team's own portal page).",
+ "games": [
+  {
+   "tpe_id": 171746,
+   "date": "2026-10-17",
+   "reason": "Team Colorado U16 W 5-0: TPE labels the opponent 'Lovell Academy Lions U16 T1' but it is not Lovell (jerseys 8,11,13,14,16,22,28,29,44,62,66,81,86,87,92 do not match Lovell's roster; not on Lovell portal team 9046)"
+  },
+  {
+   "tpe_id": 171748,
+   "date": "2026-10-16",
+   "reason": "Fox Motors U16 W 3-2: same mislabeled 'Lovell Academy Lions U16 T1' side as 171746 (same 15 jerseys); not on Lovell portal team 9046"
+  },
+  {
+   "tpe_id": 166111,
+   "date": "2026-09-13",
+   "reason": "Team North Dakota U16 T1 3-1: TPE portal capture labels the side MN Elite Blue (NABC) U16 W, but 18 of its 19 skaters are on the MN Elite Sky 16U roster (Bailey, Caven, Chambliss, Fenske, Fitzgerald, Genia, Halverson, Hendricks, Keepman, Lamantia, Strothman...); only Anthony is Blue"
+  }
+ ],
+ "_note_hudl": "'hudl_games': one SIDE of a Hudl match dropped from the Hudl/TOI build (hudl_id = game.source_record_id = the number in /matches/<id>; team = the export's team name for the side to drop, so the other side of the game is kept). Use when a Hudl team identity holds a side whose players are not that team's (verified against the team's published roster).",
+ "hudl_games": [
+  {
+   "hudl_id": 2238964,
+   "date": "2026-09-06",
+   "reason": "Boston Americans U16 T1 side vs Connecticut Polar Bears U16 T1 (USA Hockey 16U (G)): 14 of 15 skaters (Rudd, Nugent, Polles, Regan, Koehler, Cano, Black, Finn, Drummey, Zizza, Nestor, Dexter, O'Donoghue, Rano) are not on the CPC U16 Tier 1 2026-27 roster (Instagram cpc_hockey Apr 12); a different group filed under the Americans identity",
+   "team": "Boston Americans U16 T1"
+  },
+  {
+   "hudl_id": 2227545,
+   "date": "2026-08-28",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2227550,
+   "date": "2026-08-28",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2227551,
+   "date": "2026-08-29",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2227553,
+   "date": "2026-08-29",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2227546,
+   "date": "2026-08-30",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2238965,
+   "date": "2026-09-04",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2238968,
+   "date": "2026-09-04",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2238966,
+   "date": "2026-09-05",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2238969,
+   "date": "2026-09-05",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2237371,
+   "date": "2026-09-06",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2238963,
+   "date": "2026-09-06",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2252508,
+   "date": "2026-09-20",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2259157,
+   "date": "2026-09-27",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2259161,
+   "date": "2026-09-27",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2270826,
+   "date": "2026-10-11",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2273759,
+   "date": "2026-10-18",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2277971,
+   "date": "2026-10-25",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "Hudl files two different squads under Connecticut Polar Bears U16 T1; this side has 0 players on the CPC 16U Major 2026-27 roster (the Major side is the games whose players match it)"
+  },
+  {
+   "hudl_id": 2238964,
+   "date": "2026-09-06",
+   "team": "Connecticut Polar Bears U16 T1",
+   "reason": "same: CT side of Boston Americans game is the other squad (Ling, French, Malay, Harrison, Myers, Joffe...), not the 16U Major roster"
+  },
+  {
+   "hudl_id": 2230716,
+   "date": "2026-09-06",
+   "team": "MN Elite Silver 16U",
+   "reason": "Hudl side labeled MN Elite Silver 16U: 9 of its 15 skaters are on the MN Elite Gold 16U roster (Salonek, Zins, Neurer, Krampe, Kragness, Pohl...) and none are Silver; it is a Gold game"
+  },
+  {
+   "hudl_id": 2278837,
+   "date": "2026-10-24",
+   "team": "North York Storm U18 AA",
+   "reason": "North York Storm U18 AA side vs Brampton Canadettes U18 AA: 0 of 11 skaters (Bramer, Curtis, Dowhaniuk, Herrmann-Taylor, James, Murphy, S. Okojie, Se. Okojie, Pakeerathan, Scauzillo, Subendran) are on the North York Storm U18 2026-27 roster; a different squad filed under the North York identity"
+  },
+  {
+   "hudl_id": 2278837,
+   "date": "2026-10-24",
+   "team": "Brampton Canadettes U18 AA",
+   "reason": "Other side of the same match as the North York Storm U18 AA side already dropped: 0 of 13 skaters are on the Brampton Jr Canadettes U18 roster, so neither side is who Hudl labels it (hand-confirmed: drop the whole game)"
+  },
+  {
+   "hudl_id": 2238966,
+   "date": "2026-09-05",
+   "team": "Valley Jr. Warriors U16",
+   "reason": "0 of 14 skaters on the Valley 16U roster (the other 16U games match it 13-16 of 16); the roster is trusted, so this is TPE/Hudl filing another group under Valley"
+  },
+  {
+   "hudl_id": 2276849,
+   "date": "2026-10-25",
+   "team": "Valley Jr. Warriors U16",
+   "reason": "0 of 19 skaters on the Valley 16U roster (same group as 2238966); roster trusted, so a Hudl filing error"
+  },
+  {
+   "hudl_id": 2230746,
+   "date": "2026-09-04",
+   "team": "Valley Jr. Warriors U19 T1 W",
+   "reason": "0 of 13 skaters on the Valley 19U roster (TPE and other Hudl 19U games match it 15-16 of 17); roster trusted, so a Hudl filing error"
+  },
+  {
+   "hudl_id": 2231009,
+   "date": "2026-09-05",
+   "team": "Valley Jr. Warriors U19 T1 W",
+   "reason": "0 of 17 skaters on the Valley 19U roster; same group as 2230746 and 2247182"
+  },
+  {
+   "hudl_id": 2247182,
+   "date": "2026-09-06",
+   "team": "Valley Jr. Warriors U19 T1 W",
+   "reason": "0 of 17 skaters on the Valley 19U roster; same group as 2230746 and 2231009"
+  },
+  {
+   "hudl_id": 2237489,
+   "date": "2026-09-13",
+   "team": "San Jose Jr. Sharks U14 T1",
+   "reason": "Boys' team: 17 male names (Archer Li, Enzo White, George Yatman, ...), 0 on the San Jose 14U roster"
+  }
+ ],
+ "_note_relabel": "'tpe_relabel' / 'hudl_relabel': one SIDE of a game filed under the wrong team; re-file it as the named Hub team (checked against the rosters). Entries are applied together, so two hudl_relabel entries on one game swap its sides.",
+ "tpe_relabel": [
+  {
+   "tpe_id": 172241,
+   "date": "2026-10-23",
+   "team": "Sno-king Jr. Thunderbirds U19 W",
+   "as": "Sno-king Jr. Thunderbirds U16 W",
+   "reason": "9 of 13 skaters on the Sno-King 16U roster (4 on 19U); Hudl files the same weekend's games under U16 W"
+  },
+  {
+   "tpe_id": 172242,
+   "date": "2026-10-23",
+   "team": "Sno-king Jr. Thunderbirds U19 W",
+   "as": "Sno-king Jr. Thunderbirds U16 W",
+   "reason": "9 of 13 skaters on the Sno-King 16U roster (4 on 19U)"
+  },
+  {
+   "tpe_id": 172244,
+   "date": "2026-10-24",
+   "team": "Sno-king Jr. Thunderbirds U19 W",
+   "as": "Sno-king Jr. Thunderbirds U16 W",
+   "reason": "10 of 14 skaters on the Sno-King 16U roster (4 on 19U)"
+  },
+  {
+   "tpe_id": 172409,
+   "date": "2026-10-24",
+   "team": "Sno-king Jr. Thunderbirds U19 W",
+   "as": "Sno-king Jr. Thunderbirds U16 W",
+   "reason": "10 of 14 skaters on the Sno-King 16U roster (4 on 19U)"
+  },
+  {
+   "tpe_id": 172685,
+   "date": "2026-10-25",
+   "team": "Biggby Coffee U19 W",
+   "as": "Biggby Coffee U16 W",
+   "reason": "14 of 14 skaters are on the Biggby Coffee 16U roster, 0 on 19U"
+  }
+ ],
+ "hudl_relabel": [
+  {
+   "hudl_id": 2255288,
+   "date": "2026-09-25",
+   "team": "San Jose Jr. Sharks U14 T1",
+   "as": "North Halton Twisters U15 AA W",
+   "reason": "The two sides of this match are swapped: the San Jose label holds 14 North Halton U15 skaters"
+  },
+  {
+   "hudl_id": 2255288,
+   "date": "2026-09-25",
+   "team": "North Halton Twisters U15 AA W",
+   "as": "San Jose Jr. Sharks U14 T1",
+   "reason": "The two sides of this match are swapped: the North Halton label holds 14 San Jose 14U skaters"
+  },
+  {
+   "hudl_id": 2253904,
+   "date": "2026-09-18",
+   "team": "Okanagan Hockey Academy Penticton U18 Prep",
+   "as": "OHA Edmonton U18 Prep W",
+   "reason": "17 of 18 skaters are on the OHA Edmonton U18 roster, 0 on Penticton"
+  },
+  {
+   "hudl_id": 2263905,
+   "date": "2026-10-03",
+   "team": "Shattuck St. Marys U19 (Prep)",
+   "as": "Shattuck-St. Mary's 19U",
+   "reason": "15 of 16 skaters are on the Shattuck 19-2 roster, 0 on Prep 19U (the Prep game that day is TPE 168202)"
+  },
+  {
+   "hudl_id": 2275054,
+   "date": "2026-10-16",
+   "team": "Shattuck St. Marys U19 (Prep)",
+   "as": "Shattuck-St. Mary's 19U",
+   "reason": "16 of 17 skaters are on the Shattuck 19-2 roster, 0 on Prep 19U (the Prep game that day is TPE 171688)"
+  }
+ ],
+ "_note_extras_team": "hudl_extras_team: one side of a hand-captured Hudl game (hub_extras/hudl_*.txt) whose hub team name the shared-player match picked wrongly; {hudl_id, team (name as captured), as (hub team name)}. Read by tools/build_hub_hudl.py.",
+ "hudl_extras_team": [
+  {
+   "hudl_id": 2274175,
+   "team": "MN Elite Vegas 19U",
+   "as": "MN Elite Vegas (Tradition Mortgage) U19 W",
+   "reason": "shared-player match filed this MN Elite Vegas 19U side under Minnesota Jr. Whitecaps U14"
+  },
+  {
+   "hudl_id": 2275986,
+   "team": "MN Elite Vegas 19U",
+   "as": "MN Elite Vegas (Tradition Mortgage) U19 W",
+   "reason": "same as 2274175"
+  },
+  {
+   "hudl_id": 2276712,
+   "team": "Chicago Mission 19U AAA",
+   "as": "Chicago Mission U19",
+   "reason": "Hudl 19U AAA side; the other 9 Chicago Mission 19U games are Chicago Mission U19, this one landed on U16 W"
+  },
+  {
+   "hudl_id": 2285746,
+   "team": "Philadelphia Jr Flyers 14U AAA",
+   "as": "Philadelphia Jr. Flyers U14 T1",
+   "reason": "the other 5 Hudl 14U AAA games are Philadelphia Jr. Flyers U14 T1"
+  },
+  {
+   "hudl_id": 2285746,
+   "team": "WNY Niagara Jr. Cataracts 14U",
+   "as": "WNY Niagara Jr. Cataracts 14U",
+   "reason": "filed under Buffalo Jr. Sabres U14 W; different club"
+  },
+  {
+   "hudl_id": 2296391,
+   "team": "OHA Mavericks Gold U22 AA",
+   "as": "OHA Mavericks Gold U22 AA",
+   "reason": "filed under Ontario Hockey Academy U16 AAA; the U22 AA team (kept as captured in 2285457)"
+  }
+ ]
+}

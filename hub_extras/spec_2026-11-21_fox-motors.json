@@ -1,0 +1,287 @@
+{
+ "batch": "2026-11-21 Fox Motors U16 (28 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21. Fox Motors U16 = TPE team 4875 (separate squad from hub Fox Motors U16 W / T1 W). Opponent names are the portal names, not aliased to hub names. competition_label is generic except the 11-15 game (T1EHL U16 26/27): per-game competition was not recorded. 173145 (10-31 vs Honeybaked): TPE has no opponent roster, so the 1 Honeybaked goal is not in the player rows.",
+ "team_ids": {
+  "Fox Motors U16": 4875,
+  "St. Louis Blues U16": 5307,
+  "Buffalo Jr. Sabres U16": 5476,
+  "Washington Little Caps U16": 4954,
+  "Philadelphia Jr. Flyers U16": 4778,
+  "Phoenix Jr. Coyotes U16": 5416,
+  "BioSteel Sports Academy U18": 1245,
+  "OHA Colorado U16": 11214,
+  "Colorado Thunderbirds U16": 6244,
+  "Honeybaked U16": 8858,
+  "Windy City Storm U16": 5746,
+  "Indiana Elite U16": 8968,
+  "Sioux Falls Power U16": 5349,
+  "Madison Capitols U16": 8969,
+  "Oakland Jr. Grizzlies U16": 4937,
+  "Chicago Mission U16": 6390,
+  "Biggby Coffee U16": 6216,
+  "Dallas Stars Elite U16": 5429,
+  "Florida Alliance U16": 7410,
+  "Anaheim Jr. Ducks U16": 6439,
+  "Mid Fairfield Jr. Rangers U16": 2714,
+  "Victory Honda U16": 6014,
+  "Compuware U16": 4935,
+  "Ohio Blue Jackets U16": 5436,
+  "Team Illinois U16": 4883
+ },
+ "alias": {},
+ "defaults": {},
+ "games": [
+  {
+   "tpe_id": 174406,
+   "date": "2026-11-15",
+   "home": "Fox Motors U16",
+   "away": "St. Louis Blues U16",
+   "home_score": 2,
+   "away_score": 7,
+   "competition": "T1EHL U16 26/27"
+  },
+  {
+   "tpe_id": 174408,
+   "date": "2026-11-14",
+   "home": "Fox Motors U16",
+   "away": "Buffalo Jr. Sabres U16",
+   "home_score": 2,
+   "away_score": 4,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 174409,
+   "date": "2026-11-13",
+   "home": "Fox Motors U16",
+   "away": "Washington Little Caps U16",
+   "home_score": 6,
+   "away_score": 5,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 174423,
+   "date": "2026-11-13",
+   "home": "Fox Motors U16",
+   "away": "Philadelphia Jr. Flyers U16",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 173899,
+   "date": "2026-11-08",
+   "home": "Fox Motors U16",
+   "away": "Phoenix Jr. Coyotes U16",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 173524,
+   "date": "2026-11-07",
+   "home": "Fox Motors U16",
+   "away": "BioSteel Sports Academy U18",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 173522,
+   "date": "2026-11-06",
+   "home": "Fox Motors U16",
+   "away": "OHA Colorado U16",
+   "home_score": 2,
+   "away_score": 2,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 173523,
+   "date": "2026-11-06",
+   "home": "Fox Motors U16",
+   "away": "Colorado Thunderbirds U16",
+   "home_score": 4,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 173145,
+   "date": "2026-10-31",
+   "home": "Fox Motors U16",
+   "away": "Honeybaked U16",
+   "home_score": 6,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 172154,
+   "date": "2026-10-25",
+   "home": "Fox Motors U16",
+   "away": "Windy City Storm U16",
+   "home_score": 4,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 172150,
+   "date": "2026-10-24",
+   "home": "Fox Motors U16",
+   "away": "Indiana Elite U16",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 172140,
+   "date": "2026-10-23",
+   "home": "Fox Motors U16",
+   "away": "Sioux Falls Power U16",
+   "home_score": 5,
+   "away_score": 2,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 172145,
+   "date": "2026-10-23",
+   "home": "Fox Motors U16",
+   "away": "Madison Capitols U16",
+   "home_score": 6,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 171464,
+   "date": "2026-10-18",
+   "home": "Fox Motors U16",
+   "away": "Oakland Jr. Grizzlies U16",
+   "home_score": 0,
+   "away_score": 3,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 170144,
+   "date": "2026-10-11",
+   "home": "Fox Motors U16",
+   "away": "Chicago Mission U16",
+   "home_score": 5,
+   "away_score": 3,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 170011,
+   "date": "2026-10-10",
+   "home": "Fox Motors U16",
+   "away": "Windy City Storm U16",
+   "home_score": 5,
+   "away_score": 3,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 170143,
+   "date": "2026-10-09",
+   "home": "Fox Motors U16",
+   "away": "Madison Capitols U16",
+   "home_score": 1,
+   "away_score": 4,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 169916,
+   "date": "2026-10-04",
+   "home": "Fox Motors U16",
+   "away": "Biggby Coffee U16",
+   "home_score": 8,
+   "away_score": 3,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 167807,
+   "date": "2026-09-21",
+   "home": "Fox Motors U16",
+   "away": "Dallas Stars Elite U16",
+   "home_score": 2,
+   "away_score": 5,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 167514,
+   "date": "2026-09-20",
+   "home": "Fox Motors U16",
+   "away": "Florida Alliance U16",
+   "home_score": 5,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 167515,
+   "date": "2026-09-20",
+   "home": "Fox Motors U16",
+   "away": "Anaheim Jr. Ducks U16",
+   "home_score": 4,
+   "away_score": 2,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 167513,
+   "date": "2026-09-19",
+   "home": "Fox Motors U16",
+   "away": "Mid Fairfield Jr. Rangers U16",
+   "home_score": 8,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 163742,
+   "date": "2026-09-13",
+   "home": "Fox Motors U16",
+   "away": "Honeybaked U16",
+   "home_score": 4,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 163741,
+   "date": "2026-09-12",
+   "home": "Fox Motors U16",
+   "away": "Victory Honda U16",
+   "home_score": 2,
+   "away_score": 3,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 163740,
+   "date": "2026-09-11",
+   "home": "Fox Motors U16",
+   "away": "Compuware U16",
+   "home_score": 7,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 159197,
+   "date": "2026-08-30",
+   "home": "Fox Motors U16",
+   "away": "Ohio Blue Jackets U16",
+   "home_score": 7,
+   "away_score": 0,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 159194,
+   "date": "2026-08-29",
+   "home": "Fox Motors U16",
+   "away": "Florida Alliance U16",
+   "home_score": 5,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  },
+  {
+   "tpe_id": 159191,
+   "date": "2026-08-28",
+   "home": "Fox Motors U16",
+   "away": "Team Illinois U16",
+   "home_score": 10,
+   "away_score": 1,
+   "competition": "Fox Motors U16 26/27"
+  }
+ ]
+}

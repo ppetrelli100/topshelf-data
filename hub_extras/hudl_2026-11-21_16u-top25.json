@@ -1,0 +1,517 @@
+{
+ "batch": "2026-11-21 Hudl top-25 16U teams",
+ "source": "app.hudl.com Instat Skaters/Goalies XLS exports (all 131 columns), captured 2026-11-21",
+ "note": "Games on the Hudl pages of the top-25 MHR 16U teams (2026-27, from 2026-08-01) that the 2026-10-31 export does not contain; both sides of each game.",
+ "skater_fields": [
+  "name",
+  "pos",
+  "toi",
+  "shifts",
+  "g",
+  "a1",
+  "a2",
+  "p",
+  "pm",
+  "pea",
+  "pen",
+  "fo",
+  "fow",
+  "fol",
+  "s",
+  "sog",
+  "sbl",
+  "miss",
+  "ppt",
+  "sht",
+  "pe",
+  "cf",
+  "ca",
+  "ff",
+  "fa",
+  "xg",
+  "xgon",
+  "xgopp",
+  "fod",
+  "fodw",
+  "fon",
+  "fonw",
+  "foa",
+  "foaw",
+  "wgt",
+  "hgt"
+ ],
+ "goalie_fields": [
+  "name",
+  "toi",
+  "ga",
+  "sa",
+  "sv",
+  "xgc"
+ ],
+ "games": {
+  "2282222": {
+   "date": "2026-11-01",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Connecticut Polar Bears 16U Major",
+   "away": "Philadelphia Jr. Flyers 16U",
+   "hs": 2,
+   "as": 2
+  },
+  "2229154": {
+   "date": "2026-09-04",
+   "competition": "USA Hockey 16U (G)",
+   "home": "St. Louis Lady Blues 16U",
+   "away": "Boston Jr. Eagles 16U AAA",
+   "hs": 0,
+   "as": 4
+  },
+  "2230723": {
+   "date": "2026-09-05",
+   "competition": "NGHL 16U (W)",
+   "home": "Philadelphia Jr. Flyers 16U Orange",
+   "away": "Tampa Bay Jr. Lightning 16U",
+   "hs": 3,
+   "as": 1
+  },
+  "2239359": {
+   "date": "2026-09-05",
+   "competition": "NGHL 16U (W)",
+   "home": "Philadelphia Jr. Flyers 16U",
+   "away": "Seattle Red Hawks U16 AA",
+   "hs": 5,
+   "as": 0
+  },
+  "2242161": {
+   "date": "2026-09-04",
+   "competition": "NAHA Labor Day Tournament U16",
+   "home": "LA Lions 16U AAA",
+   "away": "Boston Jr. Eagles 16U Gold",
+   "hs": 1,
+   "as": 1
+  },
+  "2242247": {
+   "date": "2026-09-04",
+   "competition": "NAHA Labor Day Tournament U16",
+   "home": "Valley Jr. Warriors 16U AAA",
+   "away": "LA Lions 16U AAA",
+   "hs": 12,
+   "as": 0
+  },
+  "2250099": {
+   "date": "2026-09-19",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "MN Elite Sky 16U",
+   "away": "Thunder Bay Queens U18 AA",
+   "hs": 3,
+   "as": 0
+  },
+  "2251064": {
+   "date": "2026-09-20",
+   "competition": "USA Hockey 16U (G)",
+   "home": "MN Elite Sky 16U",
+   "away": "Milwaukee Jr. Admirals 16U Girls",
+   "hs": 5,
+   "as": 0
+  },
+  "2254581": {
+   "date": "2026-09-25",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "San Jose Jr. Sharks 16U AAA Girls",
+   "away": "Minnesota Elite (Streamline) 16U",
+   "hs": 1,
+   "as": 3
+  },
+  "2255511": {
+   "date": "2026-09-26",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "MN Elite Sky 16U",
+   "away": "Team Illinois 16U AAA",
+   "hs": 6,
+   "as": 3
+  },
+  "2263676": {
+   "date": "2026-10-03",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Badger City 16U",
+   "away": "Team North Dakota 16U",
+   "hs": 3,
+   "as": 3
+  },
+  "2263763": {
+   "date": "2026-10-03",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "MN Elite Sky 16U",
+   "away": "Madison Capitols 16U AAA",
+   "hs": 5,
+   "as": 0
+  },
+  "2270862": {
+   "date": "2026-10-12",
+   "competition": "Friendly match",
+   "home": "The Winchendon School 16U AAA",
+   "away": "Buffalo Jr. Sabres 16U AAA",
+   "hs": 0,
+   "as": 3
+  },
+  "2271323": {
+   "date": "2026-10-10",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "MN Elite Sky 16U",
+   "away": "Team Wisconsin 16U AAA",
+   "hs": 2,
+   "as": 0
+  },
+  "2272774": {
+   "date": "2026-10-17",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "Minnesota Elite 16U",
+   "away": "San Jose Jr. Sharks 16U AAA Girls",
+   "hs": 3,
+   "as": 2
+  },
+  "2274207": {
+   "date": "2026-10-17",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "Team North Dakota 16U",
+   "away": "Culver Academy 16U",
+   "hs": 3,
+   "as": 1
+  },
+  "2276183": {
+   "date": "2026-10-24",
+   "competition": "USA Hockey 16U (G)",
+   "home": "The Winchendon School 16U AAA",
+   "away": "Atlantic Coast Academy 16U AAA",
+   "hs": 1,
+   "as": 0
+  },
+  "2276813": {
+   "date": "2026-10-16",
+   "competition": "Minnesota NIT",
+   "home": "Minnesota Elite 16U",
+   "away": "Culver Academy 16U",
+   "hs": 4,
+   "as": 0
+  },
+  "2276927": {
+   "date": "2026-10-23",
+   "competition": "USA/Canada Cup",
+   "home": "OHA Mavericks Prep U18 AA",
+   "away": "Little Caesars 16U AAA",
+   "hs": 1,
+   "as": 2
+  },
+  "2281194": {
+   "date": "2026-10-31",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Chicago Mission 16U AAA",
+   "away": "Bishop Kearney Selects 16U",
+   "hs": 3,
+   "as": 2
+  },
+  "2281743": {
+   "date": "2026-10-31",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Chicago Mission 16U AAA",
+   "away": "Bishop Kearney Selects 16U",
+   "hs": 0,
+   "as": 2
+  },
+  "2281826": {
+   "date": "2026-10-31",
+   "competition": "USA Hockey 16U (G)",
+   "home": "New Jersey Bandits 16U AAA",
+   "away": "Philadelphia Jr. Flyers 16U",
+   "hs": 1,
+   "as": 6
+  },
+  "2281827": {
+   "date": "2026-10-31",
+   "competition": "USA Hockey 16U (G)",
+   "home": "New Jersey Bandits 16U AAA",
+   "away": "Philadelphia Jr. Flyers 16U",
+   "hs": 1,
+   "as": 7
+  },
+  "2282016": {
+   "date": "2026-11-01",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Chicago Mission 16U AAA",
+   "away": "Bishop Kearney Selects 16U",
+   "hs": 2,
+   "as": 1
+  },
+  "2282482": {
+   "date": "2026-10-11",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Atlantic Coast Academy 16U AAA",
+   "away": "Pittsburgh Penguins Elite 16U Girls",
+   "hs": 1,
+   "as": 2
+  },
+  "2282485": {
+   "date": "2026-10-17",
+   "competition": "Minnesota NIT",
+   "home": "Pittsburgh Penguins Elite 16U Girls",
+   "away": "Mid Fairfield CT Stars 16U",
+   "hs": 1,
+   "as": 3
+  },
+  "2282836": {
+   "date": "2026-10-31",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "Windy City Storm 16U",
+   "away": "Team Wisconsin 16U AAA",
+   "hs": 0,
+   "as": 4
+  },
+  "2283284": {
+   "date": "2026-10-23",
+   "competition": "USA/Canada Cup",
+   "home": "Fox Motors 16U AAA",
+   "away": "Bluewater Hawks U18 AA",
+   "hs": 1,
+   "as": 0
+  },
+  "2283302": {
+   "date": "2026-10-31",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Fox Motors 16U AAA",
+   "away": "Milwaukee Jr. Admirals 16U Girls",
+   "hs": 3,
+   "as": 0
+  },
+  "2283303": {
+   "date": "2026-11-01",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Fox Motors 16U AAA",
+   "away": "Milwaukee Jr. Admirals 16U Girls",
+   "hs": 3,
+   "as": 1
+  },
+  "2283393": {
+   "date": "2026-10-30",
+   "competition": "Upper Midwest High School Elite League",
+   "home": "Team Wisconsin 16U AAA",
+   "away": "Team North Dakota 16U",
+   "hs": 1,
+   "as": 3
+  },
+  "2283753": {
+   "date": "2026-11-06",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "Bishop Kearney Selects 16U",
+   "away": "New Jersey Bandits 16U AAA",
+   "hs": 11,
+   "as": 0
+  },
+  "2283830": {
+   "date": "2026-10-23",
+   "competition": "USA/Canada Cup",
+   "home": "Windsor Wildcats U18 AA",
+   "away": "Team Illinois 16U AAA",
+   "hs": 0,
+   "as": 5
+  },
+  "2283861": {
+   "date": "2026-11-06",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "Oshawa Lady Generals U18 AA",
+   "away": "Bishop Kearney Selects 16U",
+   "hs": 0,
+   "as": 3
+  },
+  "2283865": {
+   "date": "2026-11-06",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "Connecticut Polar Bears 16U Major",
+   "away": "Stittsville Rockets U18 AA",
+   "hs": 1,
+   "as": 0
+  },
+  "2284854": {
+   "date": "2026-11-07",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "Bishop Kearney Selects 16U",
+   "away": "Alaska All Stars 16U AAA",
+   "hs": 8,
+   "as": 1
+  },
+  "2284879": {
+   "date": "2026-11-05",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Dallas Stars Elite Girls 16U T1",
+   "away": "Texas Heat 14U AA",
+   "hs": 2,
+   "as": 3
+  },
+  "2285125": {
+   "date": "2026-11-07",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "Bishop Kearney Selects 16U",
+   "away": "Buffalo Jr. Sabres 16U AAA",
+   "hs": 4,
+   "as": 1
+  },
+  "2285350": {
+   "date": "2026-11-08",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "Bishop Kearney Selects 16U",
+   "away": "Ayr Rockets U18 AA",
+   "hs": 4,
+   "as": 0
+  },
+  "2285458": {
+   "date": "2026-11-06",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "Pittsburgh Penguins Elite 16U Girls",
+   "away": "Carleton Place Cyclones U18 AA",
+   "hs": 4,
+   "as": 3
+  },
+  "2285560": {
+   "date": "2026-11-07",
+   "competition": "MAHA League Play",
+   "home": "Fox Motors 16U AAA",
+   "away": "Team Illinois 16U AAA",
+   "hs": 1,
+   "as": 3
+  },
+  "2285581": {
+   "date": "2026-11-08",
+   "competition": "MAHA League Play",
+   "home": "Fox Motors 16U AAA",
+   "away": "Team Illinois 16U AAA",
+   "hs": 3,
+   "as": 1
+  },
+  "2285631": {
+   "date": "2026-11-07",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "Pittsburgh Penguins Elite 16U Girls",
+   "away": "Etobicoke Dolphins U18 AA",
+   "hs": 0,
+   "as": 3
+  },
+  "2285695": {
+   "date": "2026-11-08",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Connecticut Polar Bears 16U Major",
+   "away": "Mid Fairfield CT Stars 16U",
+   "hs": 2,
+   "as": 0
+  },
+  "2286081": {
+   "date": "2026-10-16",
+   "competition": "Minnesota NIT",
+   "home": "Minnesota Elite Blue 16u",
+   "away": "Pittsburgh Penguins Elite 16U Girls",
+   "hs": 6,
+   "as": 1
+  },
+  "2286085": {
+   "date": "2026-10-18",
+   "competition": "Minnesota NIT",
+   "home": "Valley Jr. Warriors 16U AAA",
+   "away": "Pittsburgh Penguins Elite 16U Girls",
+   "hs": 2,
+   "as": 2
+  },
+  "2286114": {
+   "date": "2026-11-06",
+   "competition": "PIP Roc City Girls Fest",
+   "home": "St. Catharines Jr. Badgers U18 AA",
+   "away": "Pittsburgh Penguins Elite 16U Girls",
+   "hs": 1,
+   "as": 8
+  },
+  "2286295": {
+   "date": "2026-11-08",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Madison Capitols 16U AAA",
+   "away": "Team Wisconsin 16U AAA",
+   "hs": 2,
+   "as": 2
+  },
+  "2286305": {
+   "date": "2026-11-08",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Madison Capitols 16U AAA",
+   "away": "Team Wisconsin 16U AAA",
+   "hs": 0,
+   "as": 2
+  },
+  "2287026": {
+   "date": "2026-10-11",
+   "competition": "Buffalo Rush Inferno",
+   "home": "Pittsburgh Penguins Elite 16U Girls",
+   "away": "The Winchendon School 16U AAA",
+   "hs": 5,
+   "as": 1
+  },
+  "2287027": {
+   "date": "2026-10-12",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Rochester Jr. Americans 16U AAA",
+   "away": "Pittsburgh Penguins Elite 16U Girls",
+   "hs": 0,
+   "as": 8
+  },
+  "2287034": {
+   "date": "2026-11-07",
+   "competition": "USA Hockey 16U (G)",
+   "home": "Biggby Coffee AAA Hockey 16U",
+   "away": "Little Caesars 16U AAA",
+   "hs": 2,
+   "as": 3
+  },
+  "2288034": {
+   "date": "2026-11-14",
+   "competition": "Junior Women's Hockey League",
+   "home": "NAHA Red 16U",
+   "away": "Bishop Kearney Selects 16U",
+   "hs": 2,
+   "as": 3
+  },
+  "2288393": {
+   "date": "2026-11-14",
+   "competition": "Junior Women's Hockey League",
+   "home": "Bishop Kearney Selects 16U",
+   "away": "Stanstead College Prep U16 Girls",
+   "hs": 1,
+   "as": 0
+  },
+  "2289252": {
+   "date": "2026-11-15",
+   "competition": "AGHF 19U (W) women USA",
+   "home": "Lehigh Valley Phantoms 19U Elite",
+   "away": "Philadelphia Jr. Flyers 16U",
+   "hs": 0,
+   "as": 5
+  },
+  "2289280": {
+   "date": "2026-11-13",
+   "competition": "CCM World Invite Detroit Girls",
+   "home": "Philadelphia Jr. Flyers 16U Black",
+   "away": "Little Caesars Farmington Hills 16U Black",
+   "hs": 0,
+   "as": 3
+  },
+  "2289284": {
+   "date": "2026-11-14",
+   "competition": "CCM World Invite Detroit Girls",
+   "home": "Fox Motors 16U AA",
+   "away": "Affton Lady Liberty 16U AA",
+   "hs": 3,
+   "as": 2
+  },
+  "2289356": {
+   "date": "2026-11-14",
+   "competition": "Friendly match",
+   "home": "Dallas Stars Elite Girls 16U T1",
+   "away": "Dallas Penguins 16U A",
+   "hs": 2,
+   "as": 5
+  }
+ }
+}

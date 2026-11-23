@@ -56,7 +56,7 @@ def _feed_all(F, frag, flt=None):
     return out
 def convert(path):
     d=json.load(open(path)); F=d['feeds']
-    mk=max([k for k in F if 'metrics/total?metric=on_ice' in k], key=len)
+    mk=max([k for k in F if 'metrics/total?metric=' in k], key=len)
     mj=json.loads([e for e in F[mk] if 'strengths' not in e['b']][0]['t'])
     poss={r['playerId']:r for r in (_feed(F,'possession/players') or [])}
     ex=_feed_all(F,'extract-players-by-game-ids',lambda e:(str(e.get('gameId'))==str(d['gid'])) if 'gid' in d else True)

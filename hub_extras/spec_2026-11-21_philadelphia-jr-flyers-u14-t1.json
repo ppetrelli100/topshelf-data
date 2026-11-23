@@ -1,0 +1,138 @@
+{
+ "batch": "2026-11-21 Philadelphia Jr. Flyers U14 T1 W (12 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 4989. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Philadelphia Jr. Flyers U14 T1 W": 4989,
+  "Team Illinois U14 W": 5208,
+  "Lovell Academy Lions U14 W": 9756,
+  "Connecticut Polar Bears U14 W": 5670,
+  "Skaneateles Lakers U14 T1 W": 13703,
+  "St. Catharines Brock Jr. Badgers U15 AA W": 9638,
+  "Princeton Tiger Lilies U14 W": 4899,
+  "Burlington Barracudas U15 AA W": 5859,
+  "Stoney Creek Sabres U15 AA W": 5858,
+  "Los Angeles Lions U14 T1 W": 6280,
+  "Ottawa Lady Senators U15 AA": 7276,
+  "St. Louis Blues U14 W": 5848
+ },
+ "alias": {
+  "Ottawa Lady Senators U15 AA": "Ottawa Lady Senators U15",
+  "Philadelphia Jr. Flyers U14 T1 W": "Philadelphia Jr. Flyers U14 T1"
+ },
+ "defaults": {
+  "age_bracket": "14U & younger",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 176866,
+   "date": "2026-11-20",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Team Illinois U14 W",
+   "home_score": 4,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173660,
+   "date": "2026-11-07",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Lovell Academy Lions U14 W",
+   "home_score": 0,
+   "away_score": 4,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173860,
+   "date": "2026-11-07",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Connecticut Polar Bears U14 W",
+   "home_score": 3,
+   "away_score": 4,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173658,
+   "date": "2026-11-06",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Skaneateles Lakers U14 T1 W",
+   "home_score": 3,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 173659,
+   "date": "2026-11-06",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "St. Catharines Brock Jr. Badgers U15 AA W",
+   "home_score": 1,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 160595,
+   "date": "2026-09-13",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Princeton Tiger Lilies U14 W",
+   "home_score": 3,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 160596,
+   "date": "2026-09-13",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Princeton Tiger Lilies U14 W",
+   "home_score": 4,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 165971,
+   "date": "2026-09-06",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Burlington Barracudas U15 AA W",
+   "home_score": 0,
+   "away_score": 3,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 161828,
+   "date": "2026-09-05",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Stoney Creek Sabres U15 AA W",
+   "home_score": 2,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 165951,
+   "date": "2026-09-05",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Los Angeles Lions U14 T1 W",
+   "home_score": 0,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 161826,
+   "date": "2026-09-04",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "Ottawa Lady Senators U15 AA",
+   "home_score": 2,
+   "away_score": 4,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 161827,
+   "date": "2026-09-04",
+   "home": "Philadelphia Jr. Flyers U14 T1 W",
+   "away": "St. Louis Blues U14 W",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

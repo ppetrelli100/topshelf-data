@@ -1,0 +1,46 @@
+{
+ "batch": "2026-11-21 Ohio Blue Jackets U14 W (3 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 7517. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Ohio Blue Jackets U14 W": 7517,
+  "Carolina Jr. Hurricanes U14 T1 W": 4749
+ },
+ "alias": {
+  "Ohio Blue Jackets U14 W": "Ohio Blue Jackets U14 W"
+ },
+ "defaults": {
+  "age_bracket": "14U & younger",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "US"
+ },
+ "games": [
+  {
+   "tpe_id": 174491,
+   "date": "2026-11-15",
+   "home": "Ohio Blue Jackets U14 W",
+   "away": "Carolina Jr. Hurricanes U14 T1 W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174497,
+   "date": "2026-11-14",
+   "home": "Ohio Blue Jackets U14 W",
+   "away": "Carolina Jr. Hurricanes U14 T1 W",
+   "home_score": 1,
+   "away_score": 6,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 174498,
+   "date": "2026-11-14",
+   "home": "Ohio Blue Jackets U14 W",
+   "away": "Carolina Jr. Hurricanes U14 T1 W",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

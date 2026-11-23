@@ -1,0 +1,88 @@
+{
+ "batch": "2026-11-21 Etobicoke Jr. Dolphins U22 W (7 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 6105. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Etobicoke Jr. Dolphins U22 W": 6105,
+  "Kingston Jr. Ice Wolves U22 W": 3717,
+  "Cambridge Rivulettes U22 W": 5577,
+  "Waterloo Ravens U22 W": 9963,
+  "North York Storm U22 W": 9099,
+  "Bluewater Hawks U22 W": 6096,
+  "Windsor Southwest Wildcats U22 W": 6109,
+  "London Devilettes U22 W": 3755
+ },
+ "alias": {
+  "Etobicoke Jr. Dolphins U22 W": "Etobicoke Jr. Dolphins U22 W"
+ },
+ "defaults": {
+  "age_bracket": "U22",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "CAN"
+ },
+ "games": [
+  {
+   "tpe_id": 166646,
+   "date": "2026-11-15",
+   "home": "Etobicoke Jr. Dolphins U22 W",
+   "away": "Kingston Jr. Ice Wolves U22 W",
+   "home_score": 2,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 166647,
+   "date": "2026-11-13",
+   "home": "Etobicoke Jr. Dolphins U22 W",
+   "away": "Cambridge Rivulettes U22 W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 166648,
+   "date": "2026-11-08",
+   "home": "Etobicoke Jr. Dolphins U22 W",
+   "away": "Waterloo Ravens U22 W",
+   "home_score": 2,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 166649,
+   "date": "2026-11-07",
+   "home": "Etobicoke Jr. Dolphins U22 W",
+   "away": "North York Storm U22 W",
+   "home_score": 4,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 166650,
+   "date": "2026-11-01",
+   "home": "Etobicoke Jr. Dolphins U22 W",
+   "away": "Bluewater Hawks U22 W",
+   "home_score": 2,
+   "away_score": 5,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 166651,
+   "date": "2026-10-31",
+   "home": "Etobicoke Jr. Dolphins U22 W",
+   "away": "Windsor Southwest Wildcats U22 W",
+   "home_score": 7,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 166652,
+   "date": "2026-10-30",
+   "home": "Etobicoke Jr. Dolphins U22 W",
+   "away": "London Devilettes U22 W",
+   "home_score": 3,
+   "away_score": 0,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}

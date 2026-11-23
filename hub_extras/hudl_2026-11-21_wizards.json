@@ -1,0 +1,69 @@
+{
+ "batch": "hudl_2026-11-21_wizards",
+ "source": "Hudl Instat web app (logged in), match Skaters + Goalies tabs, captured 2026-11-21 (East Coast Wizards 16U AAA, team 82959)",
+ "note": "Games on the Wizards' Hudl page that the 2026-10-31 export does not contain.",
+ "skater_fields": [
+  "name",
+  "pos",
+  "toi",
+  "shifts",
+  "g",
+  "a1",
+  "a2",
+  "p",
+  "pm",
+  "pea",
+  "pen",
+  "fo",
+  "fow",
+  "fol",
+  "s",
+  "sog",
+  "sbl",
+  "miss",
+  "ppt",
+  "sht",
+  "pe",
+  "cf",
+  "ca",
+  "ff",
+  "fa",
+  "xg",
+  "xgon",
+  "xgopp",
+  "fod",
+  "fodw",
+  "fon",
+  "fonw",
+  "foa",
+  "foaw",
+  "wgt",
+  "hgt"
+ ],
+ "goalie_fields": [
+  "name",
+  "toi",
+  "ga",
+  "sa",
+  "sv",
+  "xgc"
+ ],
+ "games": {
+  "2285469": {
+   "date": "2026-11-08",
+   "competition": "NEGHL (W)",
+   "home": "East Coast Wizards 16U AAA",
+   "away": "Massachusetts Spitfires 16U",
+   "hs": 5,
+   "as": 0
+  },
+  "2288877": {
+   "date": "2026-11-15",
+   "competition": "New England Girls Hockey",
+   "home": "East Coast Wizards 16U AAA",
+   "away": "Bay State Breakers 16U Green",
+   "hs": 8,
+   "as": 2
+  }
+ }
+}

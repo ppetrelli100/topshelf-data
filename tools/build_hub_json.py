@@ -21,6 +21,11 @@ season = rd('season.csv')
 SEASON = dict(zip(season.id, season.name))
 game = rd('game.csv')
 tpe = game[(game.source_system == 'tpe') & game.superseded_by_game_id.isna()].copy()
+# games TPE tagged with the wrong team (hand-edited list in hub/hub_game_exclusions.json, TPE game id = source_record_id)
+_xp = os.path.join(OUT, 'hub_game_exclusions.json')
+EXCLUDED = {str(g['tpe_id']) for g in json.load(open(_xp, encoding='utf-8')).get('games', [])} if os.path.exists(_xp) else set()
+_n0 = len(tpe); tpe = tpe[~tpe.source_record_id.astype(str).isin(EXCLUDED)].copy()
+print('excluded %d TPE game(s) listed in hub_game_exclusions.json' % (_n0 - len(tpe)))
 team = rd('team.csv'); ident = rd('team_identity.csv')
 IDN = dict(zip(ident.id, ident.name))
 TEAM = {i: (IDN[idn] if isinstance(idn, str) and idn in IDN else nm)
@@ -38,6 +43,7 @@ for _f in sorted(glob.glob(os.path.join(EXTRAS_DIR, 'batch_*.json'))):
         _g = dict(_g); _g['batch'] = _b.get('batch') or os.path.basename(_f)
         _k = str(_g['tpe_id'])
         if _k in _have: ABSORBED.append(_g)          # the export already has this game: the export wins, the extra is ignored
+        elif _k in EXCLUDED: continue                # hand-listed in hub_game_exclusions.json (mislabeled team): also applies to portal extras
         elif _k in _seen: continue                   # same game in two batches: first batch wins
         else: _seen.add(_k); EXTRA.append(_g)
 print('extra games: %d appended, %d already in the export (ignored; run tools/hub_extras.py prune)' % (len(EXTRA), len(ABSORBED)))
@@ -51,6 +57,16 @@ if EXTRA:
     U = pd.concat([U, _u])
     for g in EXTRA:
         for r in g['rows']: TEAM[r['team_id']] = r['team_name']
+
+# ---------- season window: a season starts the Friday of Labor Day weekend (hub/hub_season_window.json) ----------
+# The export files summer / camp / preseason games under the new season label; those are different teams, so they are dropped.
+_wp = os.path.join(OUT, 'hub_season_window.json')
+WSTART = json.load(open(_wp, encoding='utf-8'))['starts'] if os.path.exists(_wp) else {}
+def _in_window(sname, d):
+    st = WSTART.get(sname); return True if not st else str(d)[:10] >= st
+_n1 = len(tpe)
+tpe = tpe[[ _in_window(SEASON.get(sid), d) for sid, d in zip(tpe.season_id, tpe.game_date)]].copy()
+print('season window: dropped %d TPE game(s) dated before their season start' % (_n1 - len(tpe)))
 
 # ---------- player stats (TPE only) ----------
 PGS = ['id', 'game_id', 'player_id', 'team_id', 'is_opponent', 'toi_seconds', 'shifts', 'goals', 'assists',
@@ -134,6 +150,13 @@ miss = pgs.team_name.isna()
 pgs.loc[miss, 'team_name'] = [gopp.get(g) if o else gtrk.get(g) for g, o in zip(pgs.game_id[miss], pgs.is_opponent[miss])]
 print('rows still without team name:', pgs.team_name.isna().sum())
 pgs['team_name'] = pgs.team_name.fillna('?')
+# one SIDE of a TPE game filed under the wrong team (hub_game_exclusions.json 'tpe_relabel': {tpe_id, team, as}): re-file it under the right Hub team
+_rl = {(str(g['tpe_id']), g['team']): g['as'] for g in json.load(open(_xp, encoding='utf-8')).get('tpe_relabel', [])} if os.path.exists(_xp) else {}
+if _rl:
+    _rec = dict(zip(tpe.id, tpe.source_record_id.astype(str)))
+    _new = [_rl.get((_rec.get(g), t), t) for g, t in zip(pgs.game_id, pgs.team_name)]
+    print('relabeled %d TPE player-game row(s) (hub_game_exclusions.json tpe_relabel)' % sum(1 for a_, b_ in zip(_new, pgs.team_name) if a_ != b_))
+    pgs['team_name'] = _new
 
 # one row per (game, pk, team): sum if a person appears twice in a game
 key = ['game_id', 'pk', 'team_name']

@@ -1,0 +1,88 @@
+{
+ "batch": "2026-11-21 Burlington Jr. Barracudas U22 W (7 games)",
+ "source": "portal.tpeteam.com, captured 2026-11-21 (19U/14U pass). Team page 6100. Competition per game was not recorded; opponent names aliased to hub names where the hub already holds that team.",
+ "team_ids": {
+  "Burlington Jr. Barracudas U22 W": 6100,
+  "Mississauga Hurricanes U22 W": 6107,
+  "Windsor Southwest Wildcats U22 W": 6109,
+  "Bluewater Hawks U22 W": 6096,
+  "Brampton Jr. Canadettes U22 W": 6099,
+  "Ridley College Tigers W": 8851,
+  "Nepean Wildcats U22 W": 6017,
+  "Ottawa Lady Senators U22": 6018
+ },
+ "alias": {
+  "Burlington Jr. Barracudas U22 W": "Burlington Jr. Barracudas U22 W"
+ },
+ "defaults": {
+  "age_bracket": "U22",
+  "event_type": "League / season",
+  "league_family": "Other / unclassified",
+  "country_guess": "CAN"
+ },
+ "games": [
+  {
+   "tpe_id": 168051,
+   "date": "2026-11-17",
+   "home": "Burlington Jr. Barracudas U22 W",
+   "away": "Mississauga Hurricanes U22 W",
+   "home_score": 2,
+   "away_score": 7,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 167611,
+   "date": "2026-11-15",
+   "home": "Burlington Jr. Barracudas U22 W",
+   "away": "Windsor Southwest Wildcats U22 W",
+   "home_score": 6,
+   "away_score": 1,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 168050,
+   "date": "2026-11-14",
+   "home": "Burlington Jr. Barracudas U22 W",
+   "away": "Bluewater Hawks U22 W",
+   "home_score": 1,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 167711,
+   "date": "2026-11-11",
+   "home": "Burlington Jr. Barracudas U22 W",
+   "away": "Brampton Jr. Canadettes U22 W",
+   "home_score": 1,
+   "away_score": 4,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 167710,
+   "date": "2026-11-07",
+   "home": "Burlington Jr. Barracudas U22 W",
+   "away": "Ridley College Tigers W",
+   "home_score": 5,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 167709,
+   "date": "2026-11-01",
+   "home": "Burlington Jr. Barracudas U22 W",
+   "away": "Nepean Wildcats U22 W",
+   "home_score": 3,
+   "away_score": 2,
+   "competition": "Competition not recorded 26/27"
+  },
+  {
+   "tpe_id": 167708,
+   "date": "2026-10-31",
+   "home": "Burlington Jr. Barracudas U22 W",
+   "away": "Ottawa Lady Senators U22",
+   "home_score": 2,
+   "away_score": 3,
+   "competition": "Competition not recorded 26/27"
+  }
+ ]
+}
