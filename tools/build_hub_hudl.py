@@ -186,6 +186,8 @@ print('Hudl duplicate team-game rows removed:', dups)
 cov = collections.defaultdict(int)                        # (real, team) -> mask
 for (gi, tn) in tpe_rows: cov[(('t', gi), tn)] |= 1
 for r, tn in pgs[['real', 'team_name']].drop_duplicates().itertuples(index=False): cov[(r, XMAP.get((r, tn), tn))] |= 2
+import hub_pk_fixes
+pgs = hub_pk_fixes.apply(pgs, OUT, pk='pk', team='team_name', season='season', label=' [Hudl]')
 agg = collections.defaultdict(lambda: [0, 0, 0, 0, 0, 0, 0, 0, 0.0, 0.0, 0]); gagg = collections.defaultdict(lambda: [0, 0, 0, 0, 0]); name_of = {}; counts = collections.defaultdict(lambda: [0, 0])
 TI = {t: i for i, t in enumerate(TEAMS)}
 extra_teams = []
