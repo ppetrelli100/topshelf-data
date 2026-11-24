@@ -158,6 +158,8 @@ if _rl:
     print('relabeled %d TPE player-game row(s) (hub_game_exclusions.json tpe_relabel)' % sum(1 for a_, b_ in zip(_new, pgs.team_name) if a_ != b_))
     pgs['team_name'] = _new
 
+import hub_pk_fixes
+pgs = hub_pk_fixes.apply(pgs, OUT, pk='pk', team='team_name', season='gseason', label=' [TPE]')
 # one row per (game, pk, team): sum if a person appears twice in a game
 key = ['game_id', 'pk', 'team_name']
 dup = pgs.duplicated(key, keep=False).sum()

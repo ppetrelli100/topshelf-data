@@ -1,0 +1,14 @@
+{
+ "_note": "Hand-edited personkey fixes, applied by tools/hub_pk_fixes.py in build_hub_json.py and build_hub_hudl.py. 'merge' = a misspelling / nickname filed as its own person (all seasons). 'season_team' = only rows of one season on a team whose name matches the regex.",
+ "merge": [
+  {"from": "vanvliet|ace",  "to": "vanvliet|aislin", "why": "Ace = Aislin VanVliet (BB&N); TPE has 'Ace Vanvliet'"},
+  {"from": "vanvilet|ace",  "to": "vanvliet|aislin", "why": "Hudl typo 'Ace Van Vilet' (BB&N)"},
+  {"from": "van vliet|ace", "to": "vanvliet|aislin", "why": "spelling variant of the same player"},
+  {"from": "young|sydeny",  "to": "young|sydney",    "why": "Hudl typo for Sydney Young (BB&N)"},
+  {"from": "neil|kaleigh",  "to": "neil|kaeleigh",   "why": "Hudl misspelling of Kaeleigh Neil (BB&N)"}
+ ],
+ "season_team": [
+  {"from": "littlewood|savana", "to": "littlewood|cali", "season": "2025-26", "team": "Buckingham Browne", "why": "BB&N 2025-26: the 'Savana Littlewood' in the data is Cali (Savana graduated; Cali is her younger sister, a forward). Only this season; Savana's other seasons stay hers."},
+  {"from": "tregay|katherine", "to": "guo|verity", "season": "2025-26", "team": "Buckingham Browne", "why": "Kate Tregay did not play 2025-26; the Hudl row is the #8 (Verity Guo) -- blended into her. Number match not machine-verified: confirm #8 if a Hudl jersey is ever available."}
+ ]
+}
