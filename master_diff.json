@@ -1,12 +1,12 @@
 {
  "players": {
-  "inBoth": 12431,
-  "onlyMaster": 159,
-  "onlyCandidate": 1038
+  "inBoth": 12430,
+  "onlyMaster": 160,
+  "onlyCandidate": 1048
  },
  "fields": {
   "Name": {
-   "same": 12216,
+   "same": 12215,
    "differ": 215,
    "masterOnly": 0,
    "candOnly": 0,
@@ -553,8 +553,8 @@
    "partialSame": 159
   },
   "Grad": {
-   "same": 10414,
-   "differ": 156,
+   "same": 10412,
+   "differ": 157,
    "masterOnly": 5,
    "candOnly": 821,
    "samples": {
@@ -741,7 +741,7 @@
    }
   },
   "Position": {
-   "same": 12004,
+   "same": 12003,
    "differ": 181,
    "masterOnly": 24,
    "candOnly": 77,
@@ -1583,7 +1583,7 @@
    }
   },
   "City": {
-   "same": 4094,
+   "same": 4093,
    "differ": 27,
    "masterOnly": 1,
    "candOnly": 512,
@@ -1747,10 +1747,10 @@
    }
   },
   "State": {
-   "same": 3981,
+   "same": 3980,
    "differ": 1222,
    "masterOnly": 1,
-   "candOnly": 310,
+   "candOnly": 313,
    "samples": {
     "differ": [
      {
@@ -1911,8 +1911,8 @@
    }
   },
   "Country": {
-   "same": 12058,
-   "differ": 195,
+   "same": 12056,
+   "differ": 196,
    "masterOnly": 28,
    "candOnly": 18,
    "samples": {
@@ -2141,7 +2141,7 @@
    }
   },
   "School": {
-   "same": 2863,
+   "same": 2862,
    "differ": 58,
    "masterOnly": 2,
    "candOnly": 231,
@@ -3349,7 +3349,7 @@
    "same": 550,
    "differ": 2,
    "masterOnly": 24,
-   "candOnly": 43,
+   "candOnly": 44,
    "samples": {
     "differ": [
      {
@@ -3516,10 +3516,10 @@
    }
   },
   "Soph": {
-   "same": 1381,
+   "same": 1380,
    "differ": 13,
-   "masterOnly": 34,
-   "candOnly": 46,
+   "masterOnly": 35,
+   "candOnly": 47,
    "samples": {
     "differ": [
      {
@@ -3645,6 +3645,12 @@
       "src": ""
      },
      {
+      "pk": "goffredo|juliana",
+      "master": "U15",
+      "cand": "",
+      "src": ""
+     },
+     {
       "pk": "graham|megan",
       "master": "x",
       "cand": "",
@@ -3659,12 +3665,6 @@
      {
       "pk": "jackson|alexia",
       "master": "U15",
-      "cand": "",
-      "src": ""
-     },
-     {
-      "pk": "jones|ruby",
-      "master": "x",
       "cand": "",
       "src": ""
      }
@@ -3749,7 +3749,7 @@
    "same": 1286,
    "differ": 10,
    "masterOnly": 51,
-   "candOnly": 69,
+   "candOnly": 71,
    "samples": {
     "differ": [
      {
@@ -3967,7 +3967,7 @@
    "same": 2825,
    "differ": 11,
    "masterOnly": 64,
-   "candOnly": 358,
+   "candOnly": 364,
    "samples": {
     "differ": [
      {
@@ -4188,10 +4188,10 @@
    }
   },
   "Highest": {
-   "same": 2660,
-   "differ": 5,
+   "same": 2657,
+   "differ": 8,
    "masterOnly": 13,
-   "candOnly": 13,
+   "candOnly": 18,
    "samples": {
     "differ": [
      {
@@ -4219,9 +4219,27 @@
       "src": "campRank"
      },
      {
+      "pk": "matthews|jayla",
+      "master": "ATcamp",
+      "cand": "Prov Team",
+      "src": "campRank"
+     },
+     {
+      "pk": "power|brynne",
+      "master": "ATcamp",
+      "cand": "Prov Team",
+      "src": "campRank"
+     },
+     {
       "pk": "rice|callie",
       "master": "TmMB",
       "cand": "TmBC",
+      "src": "campRank"
+     },
+     {
+      "pk": "sharpe|julia",
+      "master": "ATcamp",
+      "cand": "Prov Team",
       "src": "campRank"
      }
     ],
@@ -4325,6 +4343,18 @@
       "src": "campRank"
      },
      {
+      "pk": "ducey|adrianna",
+      "master": "",
+      "cand": "Prov Team",
+      "src": "campRank"
+     },
+     {
+      "pk": "ivany|bria",
+      "master": "",
+      "cand": "Prov Team",
+      "src": "campRank"
+     },
+     {
       "pk": "kelzenberg|jozie",
       "master": "",
       "cand": "U1617",
@@ -4359,18 +4389,6 @@
       "master": "",
       "cand": "TmMB",
       "src": "campRank"
-     },
-     {
-      "pk": "pepe|adriana",
-      "master": "",
-      "cand": "TmMB",
-      "src": "campRank"
-     },
-     {
-      "pk": "rae|brannagh",
-      "master": "",
-      "cand": "TmMB",
-      "src": "campRank"
      }
     ]
    }
@@ -4397,7 +4415,7 @@
    "same": 1545,
    "differ": 0,
    "masterOnly": 1,
-   "candOnly": 26,
+   "candOnly": 27,
    "samples": {
     "differ": [],
     "masterOnly": [
@@ -4488,7 +4506,7 @@
    "same": 1015,
    "differ": 2,
    "masterOnly": 1,
-   "candOnly": 48,
+   "candOnly": 50,
    "samples": {
     "differ": [
      {
@@ -4592,7 +4610,7 @@
    "same": 1021,
    "differ": 1,
    "masterOnly": 2,
-   "candOnly": 85,
+   "candOnly": 89,
    "samples": {
     "differ": [
      {
@@ -5016,8 +5034,8 @@
     "pct": 96.5
    },
    "prov": {
-    "both": 942,
-    "equal": 910,
+    "both": 947,
+    "equal": 915,
     "pct": 96.6
    },
    "commits": {
@@ -5063,8 +5081,8 @@
     "pct": 99.5
    },
    "prov": {
-    "both": 942,
-    "equal": 930,
+    "both": 947,
+    "equal": 935,
     "pct": 98.7
    },
    "commits": {
@@ -5210,7 +5228,7 @@
    },
    "nepsac": {
     "both": 1886,
-    "equal": 1796,
+    "equal": 1795,
     "pct": 95.2
    },
    "ccm": {
@@ -5324,8 +5342,8 @@
     "pct": 99.8
    },
    "prov": {
-    "both": 940,
-    "equal": 931,
+    "both": 942,
+    "equal": 933,
     "pct": 99
    },
    "commits": {
@@ -5371,9 +5389,9 @@
     "pct": 100
    },
    "prov": {
-    "both": 942,
-    "equal": 940,
-    "pct": 99.8
+    "both": 947,
+    "equal": 944,
+    "pct": 99.7
    },
    "commits": {
     "both": 1104,

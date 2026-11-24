@@ -33,6 +33,7 @@
     {"personkey": "engfer|finley", "field": "College", "value": "", "notes": "Decommit from Providence (Oct 2026); legacy College would otherwise keep Providence"},
     {"personkey": "wright|kaidence", "field": "School", "value": "", "notes": "No longer at Frederick Gunn (NDC still lists it); now Chicago Mission 19U, school unknown. MJE 11/11/26"},
     {"personkey": "tyksinski|addison", "field": "Position", "value": "F"},
-    {"personkey": "landry|annabelle", "field": "Position", "value": "F", "notes": "lovell roster should win"}
+    {"personkey": "landry|annabelle", "field": "Position", "value": "F", "notes": "lovell roster should win"},
+    {"personkey": "goffredo|juliana", "field": "Grad", "value": 2025, "notes": "reclassed after the 2021 U15 NDC entry (grad 2024); Tabor 2024-25, RPI 2025-26; Neutral Zone has 2025"}
   ]
 }

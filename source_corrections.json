@@ -39,6 +39,7 @@
     {"source": "tourn", "personkey": "bull|kira", "field": "Name", "from": "Kira Bull", "to": "Kira Bui", "note": "Teams tab: Greater Vancouver Comets U18; cleared by hand, rosters already read Kira Bui", "added": "2026-11-06", "applied": "2026-11-11"},
     {"source": "ccm", "personkey": "landry|annabelle", "field": "Position", "from": "Defense", "to": "Forward", "note": "Lovell Academy website roster (16U Tier 1, Nov 2026) lists Annabelle Landry as Forward; roster already F", "added": "2026-11-20", "applied": "2026-11-21"},
     {"source": "ndc", "personkey": "tyksinski|addison", "field": "Position", "from": "D", "to": "F", "note": "Lovell Academy website roster (16U Tier 1, Nov 2026) lists Addison Tyksinski as Forward; roster already F", "added": "2026-11-20", "applied": "2026-11-21"},
-    {"source": "ndc", "personkey": "tyksinski|addison", "field": "Position", "from": "Defense", "to": "Forward", "note": "Lovell Academy website roster (16U Tier 1, Nov 2026) lists Addison Tyksinski as Forward; roster already F", "added": "2026-11-20", "applied": "2026-11-21"}
+    {"source": "ndc", "personkey": "tyksinski|addison", "field": "Position", "from": "Defense", "to": "Forward", "note": "Lovell Academy website roster (16U Tier 1, Nov 2026) lists Addison Tyksinski as Forward; roster already F", "added": "2026-11-20", "applied": "2026-11-21"},
+    {"source": "nepsac", "personkey": "goffredo|julianna", "field": "Name", "from": "Julianna Goffredo", "to": "Juliana Goffredo", "note": "Tabor roster spelling; RPI/colrosters/TPE use Juliana", "applied": "2026-11-23"}
   ]
 }

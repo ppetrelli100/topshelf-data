@@ -17,6 +17,7 @@ one, so the context isn't lost if it needs revisiting.
 | `louis\|reagan` | State: CA | `louis\|reaganca` | Found during the ccm68 migration (Sept 2026) -- two different real players named Reagan Louis, one IL one CA. |
 | `doherty\|caroline` | Hometown: Duxbury | `doherty\|carolinedux` | Found during the MA migration (Sept 2026) -- two different real players named Caroline Doherty: 2006/Hingham, Williston Northampton, committed Holy Cross (stays as base `doherty\|caroline`); 2008/Duxbury, Winchendon, committed Amherst (routed to `doherty\|carolinedux`). Full detail in `tools/MA_NOTES.md`. |
 | `doherty\|caroline` | School: The Winchendon School Prep | `doherty\|carolinedux` | Added with the tourneys migration (Oct 2026): same player as the Duxbury entry above (2008, Winchendon, committed Amherst); the tourney data has no hometown, so this matches on the team name instead. The Hingham/Spitfires player (2006, Holy Cross) stays `doherty\|caroline`. |
+| `goffredo|julianna` | School: Tabor | `goffredo|juliana` | Spelling fix (Nov 2026): the Tabor roster said "Julianna"; RPI roster, NDC, commits and TPE all use Juliana. Not a collision. |
 
 Add a row here whenever a new `pkExceptions` entry is added, even a brief
 one -- better a placeholder note to fill in later than losing the context
