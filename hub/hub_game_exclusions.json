@@ -15,6 +15,16 @@
    "tpe_id": 166111,
    "date": "2026-09-13",
    "reason": "Team North Dakota U16 T1 3-1: TPE portal capture labels the side MN Elite Blue (NABC) U16 W, but 18 of its 19 skaters are on the MN Elite Sky 16U roster (Bailey, Caven, Chambliss, Fenske, Fitzgerald, Genia, Halverson, Hendricks, Keepman, Lamantia, Strothman...); only Anthony is Blue"
+  },
+  {
+   "tpe_id": 167543,
+   "date": "2026-09-19",
+   "reason": "Skaneateles Lakers U16 T2 W 3-4: TPE files the side as 'NAHA Winter Hawks U16 Red W' but it is the Winter Hawks (Carla Miller, Leah Chin, Audrey Payton G...), a different club from NAHA Red; 0 of 16 skaters on NAHA 16U roster. Winter Hawks has no TopShelf team/roster yet."
+  },
+  {
+   "tpe_id": 171692,
+   "date": "2026-10-17",
+   "reason": "Team Alaska U16 W 2-1: TPE files the side as 'NAHA Winter Hawks U16 Red W' but it is the Winter Hawks (Carla Miller, Leah Chin, Audrey Payton G...), a different club from NAHA Red; 0 of 16 skaters on NAHA 16U roster. Winter Hawks has no TopShelf team/roster yet."
   }
  ],
  "_note_hudl": "'hudl_games': one SIDE of a Hudl match dropped from the Hudl/TOI build (hudl_id = game.source_record_id = the number in /matches/<id>; team = the export's team name for the side to drop, so the other side of the game is kept). Use when a Hudl team identity holds a side whose players are not that team's (verified against the team's published roster).",
