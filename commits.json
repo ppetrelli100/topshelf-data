@@ -25709,7 +25709,7 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DOJh33eEWbI/",
     "Highest": "U1617",
-    "Signed": ""
+    "Signed": "11/11/2026"
   },
   {
     "NAME": "Veronika Hujova",
@@ -27305,7 +27305,7 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DPCXld5EXbV8MLoKz_ajayXFHLceJpX-w1PMEU0/",
     "Highest": "U15",
-    "Signed": ""
+    "Signed": "11/11/2026"
   },
   {
     "NAME": "Rylie Griffiths",
@@ -28006,10 +28006,10 @@
     "DOB": "4/28/09",
     "CURRENT TEAM": "Shattuck-St. Mary's",
     "Type": "Hockey Academy",
-    "EST. ARRIVAL": "2027-28",
+    "EST. ARRIVAL": "2028-29",
     "HOMETOWN": "MN - Plymouth",
     "POS": "D",
-    "NOTABLE": "",
+    "NOTABLE": "Not announced in recruiting class by Wisconsin on 11/24",
     "pre": "",
     "Country": "USA",
     "State/Prov": "MN",
@@ -28069,7 +28069,7 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/p/DPgaMAXDelz/",
     "Highest": "ABcamp",
-    "Signed": ""
+    "Signed": "11/11/2026"
   },
   {
     "NAME": "Maija St-Pierre",
@@ -28658,10 +28658,10 @@
     "DOB": "7/8/09",
     "CURRENT TEAM": "Edina",
     "Type": "High School",
-    "EST. ARRIVAL": "2027-28",
+    "EST. ARRIVAL": "2028-29",
     "HOMETOWN": "MN - Edina",
     "POS": "F",
-    "NOTABLE": "",
+    "NOTABLE": "Not announced in recruiting class by Wisconsin on 11/24",
     "pre": "",
     "Country": "USA",
     "State/Prov": "MN",
@@ -39994,5 +39994,41 @@
     "Yr3": "",
     "Insta": "https://www.instagram.com/averybrunen/",
     "Signed": ""
+  },
+  {
+    "NAME": "Laure Mériguet",
+    "College": "RIT",
+    "Conference": "AHA",
+    "DOB": "8/15/08",
+    "CURRENT TEAM": "Lausanne HC Féminin",
+    "Type": "International",
+    "EST. ARRIVAL": "2027-28",
+    "HOMETOWN": "SUI - Geneva",
+    "POS": "D",
+    "NOTABLE": "Team Switzerland U18 2023,2024,2025,2026 (4X) Olympics 2026",
+    "pre": "SUI",
+    "Country": "Intl",
+    "State/Prov": "SUI",
+    "Date Added": "11/24/2026",
+    "Week": 75,
+    "BirthYr": 2008,
+    "personkey": "meriguet|laure",
+    "WNT-O": "WNT-O",
+    "School (winter)": "",
+    "School(clean)": "",
+    "Club (fall)": "Lausanne HC Féminin",
+    "Club(clean)": "",
+    "City-Clean": "Geneva",
+    "DOB clean": "8/15/2008",
+    "Highest": "WNT-O",
+    "Highest as of announcement": "WNT-O",
+    "Date Added_clean": "11/24/2026",
+    "BirthYr2": 2008,
+    "Tier": "",
+    "Yr1": "WNT-O",
+    "Yr2": "WNT-O",
+    "Yr3": "WNT-O",
+    "Insta": "https://www.instagram.com/laure.mrgt/",
+    "Signed": "11/11/2026"
   }
 ]
